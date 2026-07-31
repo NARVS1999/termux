@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gamitin ang useEffect para sa data fetching?",,"useEffect(() => { fetchData().then(setData); }, []); — i-run lang sa mount"
+Application,"Paano mag-cleanup ng subscription sa useEffect?",,"useEffect(() => { const sub = subscribe(); return () => sub.unsubscribe(); }, []);"
+Application,"Paano i-handle ang race condition sa useEffect?",,"Gamitin ang AbortController: return () => controller.abort(); sa cleanup function"
+Application,"Paano mag-run ng effect kapag nagbago ang specific prop?",,"useEffect(() => { ... }, [specificProp]); — i-list ang dependencies sa array"
+Application,"Paano i-avoid ang infinite loop sa useEffect?",,"Tiyakin na stable ang dependencies — hindi nagbabago ang objects/arrays sa bawat render"

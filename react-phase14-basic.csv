@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-access ang DOM element gamit ang useRef?",,"const inputRef = useRef(null); <input ref={inputRef} />; inputRef.current.focus();"
+Application,"Paano mag-store ng previous value gamit ang useRef?",,"const prevRef = useRef(); useEffect(() => { prevRef.current = value; }); — naaalala ang last value"
+Application,"Paano i-forward ang ref sa child component?",,"Gamitin ang React.forwardRef((props, ref) => <div ref={ref} />); para i-pass ang ref"
+Application,"Paano i-maintain ang value across renders nang walang re-render?",,"Gamitin ang useRef: const timerRef = useRef(); timerRef.current = setTimeout(...);"
+Application,"Paano i-compare ang useRef at useState?",,"useRef: mutable, walang re-render. useState: immutable, may re-render. Piliin dependi sa kailangan."

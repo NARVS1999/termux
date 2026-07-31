@@ -1,0 +1,8 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::useEffect}} hook ay ginagamit para mag-perform ng side effects: data fetching, subscriptions, DOM manipulation.",,useEffect
+Cloze,"Ang {{c1::cleanup function}} sa useEffect ay ang function na binabalik ng effect para i-cleanup bago mag-unmount.",,cleanup function
+Cloze,"Ang {{c1::dependency array}} sa useEffect ay ang array ng values na nag-trigger ng re-run: useEffect(fn, [dep1, dep2]).",,dependency array
+Cloze,"Ang {{c1::empty dependency array}} ([]) ay nagso-serve ng useEffect na nag-run lang isang beses (mount).",,empty dependency array
+Cloze,"Ang {{c1::no dependency array}} ay nagco-cause ng useEffect na mag-run sa bawat render — iwasan ito.",,no dependency array
+Cloze,"Ang {{c1::useEffect cleanup}} ay tumatakbo kapag: component unmounts, o bago mag-re-run ang effect.",,useEffect cleanup
+Cloze,"Ang {{c1::race condition}} sa useEffect ay ang problem kapag ang mas bagong request ang nauna dumating.",,race condition

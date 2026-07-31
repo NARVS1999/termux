@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::useRef}} hook ay nagbibigay ng mutable ref object na hindi nagco-cause ng re-render kapag nagbabago ang value.",,useRef
+Cloze,"Ang {{c1::DOM ref}} ay ang useRef na ginagamit para i-access ang DOM element directly: useRef(null).",,DOM ref
+Cloze,"Ang {{c1::ref.current}} ay ang property kung saan naka-store ang mutable value sa useRef object.",,ref.current
+Cloze,"Ang {{c1::forwardRef}} ay ginagamit para i-pass ang ref mula sa parent papunta sa child component.",,forwardRef
+Cloze,"Ang {{c1::useRef vs useState}} — ang useRef ay hindi nagco-cause ng re-render, habang ang useState ay nagco-cause.",,useRef vs useState

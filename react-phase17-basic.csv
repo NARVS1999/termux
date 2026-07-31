@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-prevent ang unnecessary re-render sa React?",,"Gamitin ang React.memo() para i-wrap ang component na hindi nagbabago ang props"
+Application,"Paano i-memoize ang expensive computation?",,"const value = useMemo(() => expensiveCalc(data), [data]); — i-cache ang result"
+Application,"Paano i-memoize ang function para sa child?",,"const handleClick = useCallback(() => doSomething(id), [id]); — stable ang function reference"
+Application,"Kailangan ba laging gumamit ng useMemo at useCallback?",,"Hindi — i-memoize lang kapag may performance issue. I-profile muna bago mag-optimize."
+Application,"Paano i-memoize ang component na may callback props?",,"const MemoizedChild = React.memo(Child); at i-memoize ang callbacks gamit ang useCallback"

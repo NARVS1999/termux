@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::React.memo}} ay isang HOC na nagme-memoize ng component — hindi nagre-render kapag pareho pa rin ang props.",,React.memo
+Cloze,"Ang {{c1::useMemo}} hook ay nagme-memoize ng computed value — nagre-compute lang kapag nagbago ang dependencies.",,useMemo
+Cloze,"Ang {{c1::useCallback}} hook ay nagme-memoize ng function reference — hindi nagbabago ang function sa bawat render.",,useCallback
+Cloze,"Ang {{c1::memoization}} ay ang technique ng pag-cache ng computation results para maiwasan ang redundant na work.",,memoization
+Cloze,"Ang {{c1::useMemo vs useCallback}} — useMemo para sa values, useCallback para sa functions.",,useMemo vs useCallback
+Cloze,"Ang {{c1::unnecessary re-renders}} ay ang performance problem kung saan nagre-render ang components nang walang changes.",,unnecessary re-renders
