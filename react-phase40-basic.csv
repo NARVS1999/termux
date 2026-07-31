@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-test ng React component gamit ang RTL?",,"render(<Button />); expect(screen.getByText('Click')).toBeInTheDocument();"
+Application,"Paano mag-click ng button sa test?",,"const button = screen.getByRole('button'); await userEvent.click(button); expect(mockFn).toHaveBeenCalled();"
+Application,"Paano mag-test ng async operations?",,"await waitFor(() => { expect(screen.getByText('Loaded')).toBeInTheDocument(); });"
+Application,"Paano maghanap ng element sa RTL?",,"gamitin ang screen.getByText(), getByRole(), getByTestId(), queryByText() — piliin ang tamang query"
+Application,"Paano mag-test ng form submission?",,"await userEvent.type(input, 'text'); await userEvent.click(submitButton); expect(mockSubmit).toHaveBeenCalledWith(expectedData);"
