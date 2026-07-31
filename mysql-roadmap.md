@@ -77,10 +77,10 @@
 
 ## Real-World Design Patterns
 
-- [ ] **Phase 44** — E-commerce schema: products, orders, inventory, pricing, transactions
-- [ ] **Phase 45** — User management: users, roles, permissions, sessions, audit logs
-- [ ] **Phase 46** — Time-series data: partitioning by date, archiving, compression
-- [ ] **Phase 47** — Migration strategies: schema changes online, zero-downtime migrations
+- [x] **Phase 44** — E-commerce schema: products, orders, inventory, pricing, transactions
+- [x] **Phase 45** — User management: users, roles, permissions, sessions, audit logs
+- [x] **Phase 46** — Time-series data: partitioning by date, archiving, compression
+- [x] **Phase 47** — Migration strategies: schema changes online, zero-downtime migrations
 
 ## Recommended Learning Path (priority order)
 
