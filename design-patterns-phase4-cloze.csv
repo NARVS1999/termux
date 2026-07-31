@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::abstraction}} ay nagtatago ng complexity sa pamamagitan ng pagpapakita lang ng essential features.",,abstraction
+Cloze,"Ang {{c1::encapsulation}} ay nagpoprotekta sa internal state ng isang object sa pamamagitan ng access modifiers.",,encapsulation
+Cloze,"Ang {{c1::polymorphism}} ay nagbibigay ng ability na gumamit ng iba't ibang uri ng objects sa pamamagitan ng iisang interface.",,polymorphism
+Cloze,"Ang {{c1::abstraction}} ay gumagamit ng abstract classes at interfaces para magbigay ng contract.",,abstraction
+Cloze,"Ang {{c1::encapsulation}} ay nagtatago ng implementation details at nagbibigay ng public API.",,encapsulation
+Cloze,"Ang {{c1::polymorphism}} ay nagbibigay ng method overloading at method overriding.",,polymorphism
+Cloze,"Ang {{c1::information hiding}} ay isang layunin ng encapsulation na nagtatago ng internal data.",,information hiding
+Cloze,"Ang {{c1::abstraction}} ay nagbibigay ng simpleng interface para sa kumplikadong sistema.",,abstraction
+Cloze,"Ang {{c1::polymorphism}} ay nagbibigay ng runtime flexibility sa pamamagitan ng dynamic dispatch.",,polymorphism
+Cloze,"Ang {{c1::encapsulation}} ay nagpoprotekta sa object integrity sa pamamagitan ng control sa access.",,encapsulation

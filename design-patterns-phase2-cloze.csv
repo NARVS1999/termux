@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::DRY}} ay nagsasabong huwag mag-duplicate ng code — i-extract ang shared logic.",,DRY
+Cloze,"Ang {{c1::KISS}} ay nagsasabong panatilihin ang code na simple at madaling intindihin.",,KISS
+Cloze,"Ang {{c1::YAGNI}} ay nagsasabong huwag magdagdag ng features na hindi mo pa kailangan ngayon.",,YAGNI
+Cloze,"Ang {{c1::DRY}} principle ay nagsasabong ang bawat kaalaman ay dapat may iisang representasyon sa sistema.",,DRY
+Cloze,"Ang {{c1::KISS}} ay nagsasabong mas mainam ang simpleng solusyon kaysa sa kumplikadong solusyon.",,KISS
+Cloze,"Ang {{c1::YAGNI}} ay nagpo-prototype laban sa speculative features na hindi pa kailangan.",,YAGNI
+Cloze,"Ang {{c1::DRY}} ay nagsasabong ang code repetition ay isang code smell na dapat i-refactor.",,DRY
+Cloze,"Ang {{c1::KISS}} ay naghihikayat na gamitin ang pinakasimpleng data structure na gagana.",,KISS
+Cloze,"Ang {{c1::YAGNI}} ay nagsasabong gumawa lang ng kung ano ang hinihiling ng requirements.",,YAGNI
+Cloze,"Ang {{c1::simplicity}} ay isang core value sa software design na nagpapababa ng complexity.",,simplicity

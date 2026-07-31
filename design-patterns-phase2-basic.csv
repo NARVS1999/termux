@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mai-apply ang DRY sa isang codebase?",,I-extract ang duplicate code sa mga functions o utilities na magagamit muli
+Application,"Paano masusunod ang KISS sa coding?",,Piliin ang pinakasimpleng solusyon na gumagana at iwasan ang over-engineering
+Application,"Paano maiwasan ang YAGNI violation?",,Gumawa lang ng features na kasalukuyang kailangan at huwag mag-speculate sa future
+Application,"Paano malalaman kung kelangan mag-refactor para sa DRY?",,Kapag may dalawang magkaparehong code sa iba't ibang lugar na nag-iiba lang sa ilang detalye
+Application,"Paano ipaliwanag ang trade-off ng KISS vs perfect code?",,Ang perfect code ay madalas mas kumplikado — mas mainam ang good enough na simpleng solusyon

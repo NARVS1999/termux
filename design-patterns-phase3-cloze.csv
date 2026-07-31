@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::composition}} ay nagbibigay ng flexibility sa pamamagitan ng pagkakaroon ng mga objects na naglalaman ng ibang objects.",,composition
+Cloze,"Ang {{c1::inheritance}} ay nagbibigay ng code reuse sa pamamagitan ng pag-aambag ng mga properties at methods mula sa parent class.",,inheritance
+Cloze,"Ang {{c1::favor composition over inheritance}} ay isang design principle na nagsasabong mas mainam ang composition.",,favor composition over inheritance
+Cloze,"Ang {{c1::object composition}} ay nagbibigay ng loose coupling kaysa sa tight coupling ng inheritance.",,object composition
+Cloze,"Ang {{c1::inheritance}} ay maaaring magdulot ng fragile base class problem kapag nagbago ang parent.",,inheritance
+Cloze,"Ang {{c1::composition}} ay nagbibigay ng runtime flexibility habang ang inheritance ay compile-time lang.",,composition
+Cloze,"Ang {{c1::inheritance}} ay should be used only para sa isang relationship na 'is-a'.",,inheritance
+Cloze,"Ang {{c1::composition}} ay nagbibigay ng single responsibility sa bawat component.",,composition
+Cloze,"Ang {{c1::composition over inheritance}} ay nagsasabong mag-inject ng behavior kaysa sa mag-inherit.",,composition over inheritance
+Cloze,"Ang {{c1::HAS-A}} relationship ay mas flexible kaysa sa {{c1::IS-A}} relationship.",,HAS-A

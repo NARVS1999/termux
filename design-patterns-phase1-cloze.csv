@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Single Responsibility Principle}} ay nagbibigay ng iisang responsibility sa isang class.",,single responsibility
+Cloze,"Ang {{c1::Open-Closed Principle}} ay nagsasabing dapat open for extension pero closed for modification ang mga classes.",,open-closed
+Cloze,"Ang {{c1::Liskov Substitution Principle}} ay nagsasabing ang mga subclass ay dapat mailagay sa lugar ng parent class nang hindi nababago ang behavior.",,Liskov substitution
+Cloze,"Ang {{c1::Interface Segregation Principle}} ay nagsasabong mas mabuti ang maraming maliliit na interface kaysa sa isang malaking interface.",,interface segregation
+Cloze,"Ang {{c1::Dependency Inversion Principle}} ay nagsasabong ang mga high-level modules ay hindi dapat depend sa low-level modules, kundi sa abstractions.",,dependency inversion
+Cloze,"Ang {{c1::SRP}} ay nagsasabong ang bawat class ay may iisang dahilan para magbago.",,SRP
+Cloze,"Ang {{c1::OCP}} ay nagpoprotekta sa existing code mula sa mga bagong features nang hindi binabago ang lumang code.",,OCP
+Cloze,"Ang {{c1::LSP}} ay nagsasabong ang mga bawat subtype ay behaviorally compatible sa kanyang supertype.",,LSP
+Cloze,"Ang {{c1::ISP}} ay humihimok na gumamit ng mga client-specific na interface kaysa sa monolithic na interface.",,ISP
+Cloze,"Ang {{c1::DIP}} ay gumagamit ng abstraction layers upang i-decouple ang mga dependencies.",,DIP
