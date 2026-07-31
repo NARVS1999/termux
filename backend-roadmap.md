@@ -29,24 +29,24 @@
 
 ## Caching & Performance
 
-- **Phase 17** — Redis/Memcached: cache drivers, cache tags, locks, rate limiting
-- **Phase 18** — Caching strategies: cache-aside, write-through, cache invalidation
-- **Phase 19** — HTTP caching, asset optimization, OPcache, page caching
-- **Phase 20** — Profiling: Laravel Debugbar, Xdebug, Query Monitor, Blackfire/Telescope
+- [x] **Phase 17** — Redis/Memcached: cache drivers, cache tags, locks, rate limiting
+- [x] **Phase 18** — Caching strategies: cache-aside, write-through, cache invalidation
+- [x] **Phase 19** — HTTP caching, asset optimization, OPcache, page caching
+- [x] **Phase 20** — Profiling: Laravel Debugbar, Xdebug, Query Monitor, Blackfire/Telescope
 
 ## API Design & Integration
 
-- **Phase 21** — RESTful conventions, versioning, pagination, filtering (SPA/API resources)
-- **Phase 22** — Authentication/Authorization: Sanctum, Passport, JWT, OAuth2 flows
-- **Phase 23** — API rate limiting, idempotency, webhooks, idempotent retries
-- **Phase 24** — Third-party integrations, payment gateways, webhook signature validation
+- [x] **Phase 21** — RESTful conventions, versioning, pagination, filtering (SPA/API resources)
+- [x] **Phase 22** — Authentication/Authorization: Sanctum, Passport, JWT, OAuth2 flows
+- [x] **Phase 23** — API rate limiting, idempotency, webhooks, idempotent retries
+- [x] **Phase 24** — Third-party integrations, payment gateways, webhook signature validation
 
 ## Security (non-negotiable for mid-level)
 
-- **Phase 25** — OWASP Top 10: XSS, SQLi, CSRF, SSRF, IDOR, mass assignment
-- **Phase 26** — AuthN vs AuthZ, roles & permissions (Spatie, policies, gates)
-- **Phase 27** — Secrets management, encryption at rest and in transit
-- **Phase 28** — Logging & auditing, input validation & sanitization
+- [x] **Phase 25** — OWASP Top 10: XSS, SQLi, CSRF, SSRF, IDOR, mass assignment
+- [x] **Phase 26** — AuthN vs AuthZ, roles & permissions (Spatie, policies, gates)
+- [x] **Phase 27** — Secrets management, encryption at rest and in transit
+- [x] **Phase 28** — Logging & auditing, input validation & sanitization
 
 ## Testing
 
