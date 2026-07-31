@@ -57,11 +57,11 @@
 
 ## Architecture & Engineering Practices
 
-- **Phase 33** — Layered architecture, service layer, clean architecture concepts
-- **Phase 34** — Refactoring techniques, code review, technical debt management
-- **Phase 35** — Modular/multi-tenant application design
-- **Phase 36** — Design for failure: retries, circuit breakers, graceful degradation
-- **Phase 37** — Observability: structured logging, monitoring, alerting, error tracking (Sentry)
+- [x] **Phase 33** — Layered architecture, service layer, clean architecture concepts
+- [x] **Phase 34** — Refactoring techniques, code review, technical debt management
+- [x] **Phase 35** — Modular/multi-tenant application design
+- [x] **Phase 36** — Design for failure: retries, circuit breakers, graceful degradation
+- [x] **Phase 37** — Observability: structured logging, monitoring, alerting, error tracking (Sentry)
 
 ## DevOps & Deployment
 
