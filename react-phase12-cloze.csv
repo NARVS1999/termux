@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::key}} prop ay required kapag nagre-render ng arrays sa React para matulungan ang reconciliation.",,key
+Cloze,"Ang {{c1::reconciliation}} ay ang algorithm ng React na nagco-compare ng old at new virtual DOM para malaman ang changes.",,reconciliation
+Cloze,"Ang {{c1::stable key}} ay ang key na hindi nagbabago sa bawat render — gumamit ng unique ID, hindi ang index.",,stable key
+Cloze,"Ang {{c1::index as key}} ay ang anti-pattern na gumagamit ng array index bilang key — hindi stable sa reordering.",,index as key
+Cloze,"Ang {{c1::map() method}} ay ang pinaka-common na paraan para mag-convert ng array sa JSX elements.",,map() method

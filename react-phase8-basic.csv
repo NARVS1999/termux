@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-pass ng props sa child component?",,"<UserProfile name={user.name} email={user.email} /> — gamitin ang curly braces para sa dynamic values"
+Application,"Paano gumamit ng children prop?",,"<Card><h1>Title</h1><p>Body</p></Card> — ma-a-access ang children bilang props.children"
+Application,"Paano mag-set ng default values para sa props?",,"Gamitin ang default parameters: function Button({ color = 'blue' }) {} o defaultProps object"
+Application,"Paano i-destructure ang props sa function?",,"function User({ name, age, email }) { return <div>{name}</div>; } — i-extract agad sa parameters"
+Application,"Paano maiwasan ang prop drilling?",,"Gamitin ang Context API, state management libraries, o i-restructure ang component tree"

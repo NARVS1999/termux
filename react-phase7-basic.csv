@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng functional component sa React?",,"function Greeting() { return <h1>Hello World</h1>; } o const Greeting = () => <h1>Hello</h1>;"
+Application,"Paano i-compose ang mga components?",,"Gamitin ang component sa loob ng ibang component: function App() { return <Header />; }"
+Application,"Paano mag-organize ng component files sa project?",,"Gumawa ng components/ directory, bawat component ay may sariling folder na may index.js at styles"
+Application,"Paano mag-separate ng UI concerns sa React?",,"Hatiin ang malalaking components sa mas maliliit:提取 Header, Sidebar, Content bilang separate components"
+Application,"Paano mag-pass ng data sa child component?",,"Gamitin ang props: <User name={user.name} age={user.age} />"

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-return ng multiple elements sa JSX?",,"Gamitin ang Fragment: <> <h1>Title</h1> <p>Body</p> </> o <React.Fragment>"
+Application,"Paano mag-lagay ng JavaScript expression sa JSX?",,"Gamitin ang curly braces: const name = 'John'; return <h1>Hello {name}</h1>;"
+Application,"Paano mag-set ng inline style sa JSX element?",,"Gamitin ang object syntax: <div style={{ fontSize: '16px', color: 'red' }}>Content</div>"
+Application,"Paano mag-handle ng conditional sa JSX?",,"Gamitin ang ternary operator: {isLoggedIn ? <Dashboard /> : <Login />}"
+Application,"Paano mag-render ng list sa JSX?",,"Gamitin ang .map(): items.map(item => <li key={item.id}>{item.name}</li>)"

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-handle ng click event sa React?",,"<button onClick={() => alert('Clicked!')}>Click</button> o i-pass ang function reference"
+Application,"Paano mag-handle ng form submission sa React?",,"<form onSubmit={(e) => { e.preventDefault(); handleSubmit(); }}> — gamitin ang preventDefault"
+Application,"Paano gumawa ng controlled input sa React?",,"const [value, setValue] = useState(''); <input value={value} onChange={(e) => setValue(e.target.value)} />"
+Application,"Paano mag-pass ng argument sa event handler?",,"<button onClick={() => handleClick(id)}> — gumawa ng arrow function na nagpa-pass ng argument"
+Application,"Paano i-stop ang event propagation sa React?",,"e.stopPropagation(); — gamitin sa loob ng event handler para hindi ma-trigger ang parent handlers"

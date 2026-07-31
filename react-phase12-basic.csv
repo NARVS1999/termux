@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-render ng list ng items sa React?",,"gamitin ang items.map(item => <li key={item.id}>{item.name}</li>)"
+Application,"Bakit kailangan ng key prop sa lists?",,"tutulong sa React na malaman kung aling items ang nagbago, nag-add, o nag-remove para sa efficient updates"
+Application,"Paano pumili ng tamang key para sa list?",,"gumamit ng unique ID mula sa data (item.id, item.uuid), hindi ang array index"
+Application,"Paano mag-render ng conditional list?",,"i-filter muna ang array bago i-map: items.filter(i => i.active).map(i => <Item key={i.id} />)"
+Application,"Paano i-handle ang empty list state?",,"gamitin ang ternary: {items.length === 0 ? <EmptyState /> : items.map(...)}"

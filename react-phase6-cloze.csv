@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::JSX}} ay ang syntax extension ng JavaScript na ginagamit para mag-describe ng UI — mukhang HTML pero JavaScript siya.",,JSX
+Cloze,"Ang {{c1::JSX expressions}} ay ang paglagay ng JavaScript values sa loob ng JSX gamit ang curly braces: {variable}.",,JSX expressions
+Cloze,"Ang {{c1::Fragment}} (<>...</>) ay ginagamit para mag-group ng elements nang hindi nag-a-add ng extra DOM node.",,Fragment
+Cloze,"Ang {{c1::className}} ang JSX attribute para sa HTML class — dahil ang 'class' ay reserved word sa JavaScript.",,className
+Cloze,"Ang {{c1::self-closing tags}} sa JSX ay kailangan ng slash: <img />, <br />, <input />.",,self-closing tags
+Cloze,"Ang {{c1::inline styles}} sa JSX ay gumagamit ng JavaScript objects: style={{ color: 'red' }}.",,inline styles
+Cloze,"Ang {{c1::JSX must return single root element}} — kailangan mag-return ng isang parent element o Fragment.",,single root element
+Cloze,"Ang {{c1::camelCase}} ang convention sa JSX para sa HTML attributes: onClick, onChange, tabIndex.",,camelCase

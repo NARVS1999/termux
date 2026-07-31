@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::functional component}} ay isang JavaScript function na nagre-return ng JSX — ang modernong paraan ng paggawa ng React components.",,functional component
+Cloze,"Ang {{c1::component composition}} ay ang pattern ng paggamit ng mga smaller components para buuin ang mas malaking UI.",,component composition
+Cloze,"Ang {{c1::component naming}} ay dapat PascalCase: UserProfile, NavigationBar — hindi lowercase.",,component naming
+Cloze,"Ang {{c1::file structure}} sa React ay karaniwang: components/, pages/, hooks/, utils/, services/.",,file structure
+Cloze,"Ang {{c1::single responsibility}} principle ay nagsasabing isang component ay dapat may iisang responsibility lang.",,single responsibility
+Cloze,"Ang {{c1::pure component}} ay ang component na laging nagre-return ng parehong JSX para sa parehong props.",,pure component

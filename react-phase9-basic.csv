@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-add ng state sa functional component?",,"const [count, setCount] = useState(0); — i-destructure ang useState hook"
+Application,"Paano i-update ang object state nang immutable?",,"setUser({...user, name: 'John'}); — gumamit ng spread operator para gumawa ng bagong object"
+Application,"Paano i-update ang array state nang immutable?",,"setItems([...items, newItem]); o setItems(items.map(i => i.id === id ? {...i, done: true} : i));"
+Application,"Paano gumamit ng functional update kapag based sa previous state?",,"setCount(prev => prev + 1); — laging gamitin kapag ang new state ay depend sa previous"
+Application,"Paano mag-share ng state sa magkakaibang components?",,"I-lift ang state sa common parent, i-pass down bilang props sa mga child components"

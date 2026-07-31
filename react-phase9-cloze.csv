@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::useState}} hook ay nagbibigay ng state variable at function para i-update ito: const [state, setState] = useState(initial).",,useState
+Cloze,"Ang {{c1::state immutability}} ay ang rule na hindi dapat i-mutate ang state directly — gumawa ng bagong object/array.",,state immutability
+Cloze,"Ang {{c1::state batching}} ay ang behavior ng React na naggru-group ng maraming setState calls sa iisang re-render.",,state batching
+Cloze,"Ang {{c1::lazy initialization}} sa useState ay ang paggamit ng function: useState(() => expensiveComputation()).",,lazy initialization
+Cloze,"Ang {{c1::functional update}} ay ang pagpapasa ng function sa setter: setState(prev => prev + 1) para sa previous state.",,functional update
+Cloze,"Ang {{c1::state lifting}} ay ang pag-move ng state papunta sa common ancestor para i-share sa maraming components.",,state lifting

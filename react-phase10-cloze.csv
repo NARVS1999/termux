@@ -1,0 +1,8 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::onClick}} ay ang event handler para sa pag-click sa elements: <button onClick={handleClick}>Click</button>.",,onClick
+Cloze,"Ang {{c1::onChange}} ay ang event handler para sa input changes: <input onChange={handleChange} />.",,onChange
+Cloze,"Ang {{c1::synthetic events}} ay ang React's wrapper sa native browser events para sa cross-browser consistency.",,synthetic events
+Cloze,"Ang {{c1::event delegation}} ay ang pattern ng paglalagay ng event handler sa parent instead ng bawat child.",,event delegation
+Cloze,"Ang {{c1::preventDefault()}} ay ginagamit para i-prevent ang default browser behavior (form submission, link navigation).",,preventDefault()
+Cloze,"Ang {{c1::stopPropagation()}} ay ginagamit para i-stop ang event propagation sa parent elements.",,stopPropagation()
+Cloze,"Ang {{c1::controlled input}} ay ang input kung saan ang React ang nagco-control ng value gamit ang state.",,controlled input
