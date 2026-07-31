@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang SLI, SLO, SLA?",,"SLI: metric (latency). SLO: target (99.9%). SLA: business agreement (99.9% uptime = compensation)"
+Application,"Paano gumamit ng Prometheus?",,"i-configure ang scrape endpoints, i-query gamit ang PromQL, i-store ang time-series data"
+Application,"Paano gumawa ng Grafana dashboard?",,"i-connect ang data source (Prometheus), i-add ang panels, i-configure ang visualizations"
+Application,"Ano ang error budget?",,"ang allowable downtime base sa SLO: 99.9% SLO = 0.1% error budget = 8.76 hours/year"
+Application,"Paano mag-set ng SLO?",,"base sa user expectations: 99.9% para sa critical, 99% para sa non-critical — i-monitor ang error budget"

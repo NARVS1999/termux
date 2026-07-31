@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Prometheus}} ay ang open-source monitoring system na nag-collect ng metrics at nagpo-promete.",,Prometheus
+Cloze,"Ang {{c1::Grafana}} ay ang visualization tool na nagpo-create ng dashboards mula sa metrics.",,Grafana
+Cloze,"Ang {{c1::SLI}} o Service Level Indicator ay ang metric na nagme-measure ng service performance.",,SLI
+Cloze,"Ang {{c1::SLO}} o Service Level Objective ay ang target na SLI value na dapat ma-meet.",,SLO
+Cloze,"Ang {{c1::SLA}} o Service Level Agreement ay ang business agreement sa uptime at performance.",,SLA

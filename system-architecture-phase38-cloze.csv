@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::structured logging}} ay ang pag-log ng data sa JSON format para sa madaling parsing.",,structured logging
+Cloze,"Ang {{c1::ELK stack}} ay ang Elasticsearch, Logstash, Kibana stack para sa log aggregation.",,ELK stack
+Cloze,"Ang {{c1::log aggregation}} ay ang proseso ng pag-collect ng logs mula sa maraming sources.",,log aggregation
+Cloze,"Ang {{c1::log level}} ay ang severity ng log: DEBUG, INFO, WARN, ERROR, FATAL.",,log level
+Cloze,"Ang {{c1::correlation ID}} ay ang unique identifier na nagko-connect ng logs mula sa iba't ibang services.",,correlation ID

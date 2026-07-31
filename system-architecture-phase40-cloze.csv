@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::alerting}} ay ang system na nagno-notify kapag na-detect ang anomalies o threshold breaches.",,alerting
+Cloze,"Ang {{c1::alert fatigue}} ay ang condition kung saan ang team ay nawawalan ng pansin sa dami ng alerts.",,alert fatigue
+Cloze,"Ang {{c1::escalation policy}} ay ang defined na proseso ng pag-escalate ng alerts sa tamang tao.",,escalation policy
+Cloze,"Ang {{c1::incident response}} ay ang structured na proseso ng pag-handle ng production issues.",,incident response
+Cloze,"Ang {{c1::PagerDuty}} ay ang incident management platform na nagno-notify at nag-e-escalate.",,PagerDuty
