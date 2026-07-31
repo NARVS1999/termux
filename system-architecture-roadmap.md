@@ -68,10 +68,10 @@
 
 ## Performance & Scaling
 
-- [ ] **Phase 41** — Caching strategies: Redis patterns, cache invalidation, TTL
-- [ ] **Phase 42** — Database optimization: query tuning, connection pooling, read replicas
-- [ ] **Phase 43** — Rate limiting: token bucket, sliding window, API throttling
-- [ ] **Phase 44** — Asynchronous processing: background jobs, event queues, batch processing
+- [x] **Phase 41** — Caching strategies: Redis patterns, cache invalidation, TTL
+- [x] **Phase 42** — Database optimization: query tuning, connection pooling, read replicas
+- [x] **Phase 43** — Rate limiting: token bucket, sliding window, API throttling
+- [x] **Phase 44** — Asynchronous processing: background jobs, event queues, batch processing
 
 ## Real-World System Design
 
