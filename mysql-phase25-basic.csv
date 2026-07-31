@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-check ang index usage?",,"SELECT * FROM sys.schema_unused_indexes; — ipapakita ang mga hindi ginagamit na indexes"
+Application,"Paano i-rebuild ang index?",,"ALTER TABLE users DROP INDEX idx_email, ADD INDEX idx_email(email); — i-recreate ang index"
+Application,"Bakit hindi mag-index ng low-cardinality column?",,"dahil ang gender column (male/female) ay hindi selective — mas mabagal pa kaysa full scan"
+Application,"Paano i-check ang index fragmentation?",,"SHOW TABLE STATUS LIKE 'users'; — tignan ang Data_free column para sa fragmentation"
+Application,"Paano mag-optimize ng table?",,"OPTIMIZE TABLE users; — i-defragment ang table at index"

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::single-column index}} ay index na gumagamit ng iisang column lang.",,single-column index
+Cloze,"Ang {{c1::composite index}} ay index na gumagamit ng dalawa o higit pang columns.",,composite index
+Cloze,"Ang {{c1::covering index}} ay index na naglalaman ng lahat ng columns na kailangan ng query.",,covering index
+Cloze,"Ang {{c1::leftmost prefix}} rule ay nagsasabing ang composite index ay nagagamit mula sa kaliwa.",,leftmost prefix
+Cloze,"Ang {{c1::CREATE INDEX}} statement ay ginagamit para magdagdag ng index sa existing table.",,CREATE INDEX

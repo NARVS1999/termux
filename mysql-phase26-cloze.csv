@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::slow query log}} ay ang MySQL feature na naglo-log ng queries na tumagal ng mahigit sa threshold.",,slow query log
+Cloze,"Ang {{c1::query profiling}} ay ang proseso ng pag-measure ng time na ginugol sa bawat step ng query.",,query profiling
+Cloze,"Ang {{c1::query rewriting}} ay ang technique ng pagbabago ng query para mas mabilis ang execution.",,query rewriting
+Cloze,"Ang {{c1::SELECT *}} ay isang anti-pattern — piliin lang ang kailangan na columns para mas mabilis.",,SELECT *
+Cloze,"Ang {{c1::n+1 problem}} ay ang inefficient query pattern na nagfe-fetch ng data sa maraming round trips.",,n+1 problem

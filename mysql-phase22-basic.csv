@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Bakit mabagal ang full table scan?",,"dahil binabasa ang lahat ng rows kahit isa lang ang kailangan — walang shortcut gaya ng index"
+Application,"Paano gumagana ang B-tree index?",,"nag-o-organize ng data sa tree structure kung saan mabilis ang traversal sa halip na scan"
+Application,"Kailan hindi gagana ang hash index?",,"kapag may range queries (BETWEEN, >, <) — hash index ay para sa equality lang (WHERE id = 1)"
+Application,"Paano malaman kung gumagana ang index?",,"gamitin ang EXPLAIN para makita kung gumamit ng index o nag-full table scan"
+Application,"Bakit hindi lahat ng columns nilalagyan ng index?",,"bawat index ay nagdagdag ng storage at nagpabagal ng writes — piliin lang ang mga ginagamit sa queries"

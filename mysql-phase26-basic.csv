@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-enable ang slow query log?",,"i-set sa my.cnf: slow_query_log = 1, long_query_time = 2 — maglo-log ng queries > 2 seconds"
+Application,"Paano i-profile ang query?",,"SET profiling = 1; SELECT * FROM users; SHOW PROFILES; — ipapakita ang timing ng bawat step"
+Application,"Paano i-rewrite ang slow query?",,"tingnan ang EXPLAIN, i-add ng index, i-change ang JOIN order, o i-rewrite ang subquery"
+Application,"Paano maiwasan ang SELECT *?",,"piliin lang ang kailangan na columns: SELECT id, name, email FROM users — mas mabilis"
+Application,"Paano i-solve ang n+1 problem?",,"gamitin ang JOIN o IN() subquery sa halip na mag-query sa loob ng loop"
