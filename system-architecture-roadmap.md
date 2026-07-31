@@ -38,11 +38,11 @@
 
 ## Infrastructure & Networking
 
-- [ ] **Phase 23** — Containers: Docker, container orchestration, images vs containers
-- [ ] **Phase 24** — Kubernetes: pods, services, deployments, ingress, ConfigMaps
-- [ ] **Phase 25** — Load balancers: L4 vs L7, health checks, sticky sessions
-- [ ] **Phase 26** — CDNs: edge caching, origin servers, cache invalidation
-- [ ] **Phase 27** — Reverse proxies: Nginx, HAProxy, API gateways
+- [x] **Phase 23** — Containers: Docker, container orchestration, images vs containers
+- [x] **Phase 24** — Kubernetes: pods, services, deployments, ingress, ConfigMaps
+- [x] **Phase 25** — Load balancers: L4 vs L7, health checks, sticky sessions
+- [x] **Phase 26** — CDNs: edge caching, origin servers, cache invalidation
+- [x] **Phase 27** — Reverse proxies: Nginx, HAProxy, API gateways
 
 ## Security Architecture
 
