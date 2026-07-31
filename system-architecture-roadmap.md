@@ -4,11 +4,11 @@
 
 ## Networking Fundamentals
 
-- [ ] **Phase 1** — OSI model, TCP/IP, HTTP/HTTPS protocols, ports, DNS resolution
-- [ ] **Phase 2** — REST, GraphQL, gRPC, WebSockets: API protocol tradeoffs
-- [ ] **Phase 3** — Load balancing algorithms: round-robin, least connections, consistent hashing
-- [ ] **Phase 4** — DNS: records types, resolution process, TTL, CDN routing
-- [ ] **Phase 5** — TLS/SSL: certificates, handshake, encryption at rest vs in transit
+- [x] **Phase 1** — OSI model, TCP/IP, HTTP/HTTPS protocols, ports, DNS resolution
+- [x] **Phase 2** — REST, GraphQL, gRPC, WebSockets: API protocol tradeoffs
+- [x] **Phase 3** — Load balancing algorithms: round-robin, least connections, consistent hashing
+- [x] **Phase 4** — DNS: records types, resolution process, TTL, CDN routing
+- [x] **Phase 5** — TLS/SSL: certificates, handshake, encryption at rest vs in transit
 
 ## Architecture Patterns
 
