@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::git flow}} ay isang branching strategy na may dedicated branches para sa features, releases, at hotfixes.",,git flow
+Cloze,"Ang {{c1::trunk-based development}} ay isang strategy kung saan lahat ay nag-co-commit sa iisang main branch.",,trunk-based development
+Cloze,"Ang {{c1::semantic versioning}} ay ang versioning format na Major.Minor.Patch (ex. 1.2.3) na nagpapahiwatig ng type ng changes.",,semantic versioning
+Cloze,"Ang {{c1::CI/CD}} o Continuous Integration/Continuous Deployment ay ang automated na pag-build, test, at deploy ng code.",,CI/CD
+Cloze,"Ang {{c1::pipeline}} sa CI/CD ay ang series of automated steps na tina-traverse ang code mula commit hanggang deployment.",,pipeline
+Cloze,"Ang {{c1::feature branch}} ay ang dedicated branch para sa pag-develop ng isang specific feature nang hindi na-aapektuhan ang main.",,feature branch
+Cloze,"Ang {{c1::pull request}} ay ang request para i-merge ang changes mula sa feature branch papunta sa main branch.",,pull request
+Cloze,"Ang {{c1::semantic release}} ay automated versioning na nagbabago ng version number base sa commit messages.",,semantic release
+Cloze,"Ang {{c1::conventional commits}} ay ang commit message format na nagsisimula sa type (feat, fix, chore) para sa automation.",,conventional commits

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Nginx}} ay isang high-performance web server na ginagamit bilang reverse proxy para sa Laravel applications.",,Nginx
+Cloze,"Ang {{c1::PHP-FPM}} o FastCGI Process Manager ay ang process manager na nagpapatakbo ng PHP code sa production.",,PHP-FPM
+Cloze,"Ang {{c1::Supervisor}} ay isang process control system na nagmo-monitor at nagre-restart ng mga processes.",,Supervisor
+Cloze,"Ang {{c1::reverse proxy}} ay ang setup kung saan ang Nginx ang nagha-handle ng incoming requests at nagfo-forward sa PHP-FPM.",,reverse proxy
+Cloze,"Ang {{c1::server block}} sa Nginx ay ang configuration na nagde-define ng virtual host para sa isang domain.",,server block
+Cloze,"Ang {{c1::worker process}} sa PHP-FPM ay ang independent na process na nagpo-process ng PHP requests.",,worker process
+Cloze,"Ang {{c1::queue worker}} sa Supervisor ay ang long-running process na nagpro-process ng Laravel queues.",,queue worker
+Cloze,"Ang {{c1::load balancer}} ay ang device o software na nagdi-distribute ng traffic sa maraming servers.",,load balancer

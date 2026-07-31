@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::load balancer}} ay isang hardware o software na nagdi-distribute ng incoming traffic sa multiple servers para sa scalability.",,load balancer
+Cloze,"Ang {{c1::auto-scaling}} ay ang automatic na pagdagdag o pagbawas ng server instances base sa traffic demand.",,auto-scaling
+Cloze,"Ang {{c1::CDN}} o Content Delivery Network ay isang network ng distributed servers na nagce-serve ng static content malapit sa user.",,CDN
+Cloze,"Ang {{c1::horizontal scaling}} ay ang pagdagdag ng mas maraming servers para mag-handle ng mas maraming traffic.",,horizontal scaling
+Cloze,"Ang {{c1::vertical scaling}} ay ang pag-upgrade ng existing server (mas RAM, CPU) para mag-handle ng mas maraming load.",,vertical scaling
+Cloze,"Ang {{c1::AWS}} o Amazon Web Services ay ang pinaka-popular na cloud provider na nagbibigay ng EC2, S3, RDS, at Lambda.",,AWS
+Cloze,"Ang {{c1::Cloudflare}} ay isang CDN at security provider na nagpo-protect at nagce-serve ng content.",,Cloudflare
+Cloze,"Ang {{c1::stateless application}} ay ang application na walang server-side session state, kaya pwedeng i-deploy sa kahit aling server.",,stateless application

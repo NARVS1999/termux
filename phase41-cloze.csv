@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::zero-downtime deployment}} ay ang deployment strategy na nagde-deploy ng bagong version nang hindi nagdo-down ang application.",,zero-downtime deployment
+Cloze,"Ang {{c1::blue-green deployment}} ay ang strategy kung saan may dalawang identical environments — blue (current) at green (new).",,blue-green deployment
+Cloze,"Ang {{c1::rolling deployment}} ay ang strategy kung saan unti-unting nirereplace ang old instances ng bagong version.",,rolling deployment
+Cloze,"Ang {{c1::rollback}} ay ang proseso ng pagbabalik sa nakaraang version kapag nag-fail ang deployment.",,rollback
+Cloze,"Ang {{c1::env config management}} ay ang proseso ng pag-manage ng environment-specific configurations para sa iba't ibang environments.",,env config management
+Cloze,"Ang {{c1::Laravel Forge}} ay isang server management tool na nag-a-automate ng deployment at server setup para sa Laravel.",,Laravel Forge
+Cloze,"Ang {{c1::Laravel Vapor}} ay ang serverless deployment platform ng Laravel na nagde-deploy sa AWS Lambda.",,Laravel Vapor
+Cloze,"Ang {{c1::artisan down}} at {{c1::artisan up}} commands ay ginagamit para i-enable at i-disable ang maintenance mode.",,artisan down/up

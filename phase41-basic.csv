@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-deploy ng Laravel app nang walang downtime?",,"Gamitin ang Envoyer o Forge na may zero-downtime deployment, o gumawa ng symlink-based deployment script"
+Application,"Paano gumawa ng rollback sa Laravel deployment?",,"I-change ang symlink pabalik sa nakaraang release directory, o gamitin ang artisan down/up para sa maintenance mode"
+Application,"Paano mag-setup ng blue-green deployment?",,"Mag-setup ng dalawang identical servers, i-deploy ang bagong version sa green, pagkatapos i-switch ang load balancer"
+Application,"Paano mag-manage ng env configs sa Laravel?",,"Gamitin ang .env files per environment, i-encrypt ang sensitive configs, at i-separate ang staging/production configs"
+Application,"Paano mag-deploy gamit ang Laravel Forge?",,"I-connect ang Git repo sa Forge, i-setup ang deployment script, at i-configure ang environment variables"

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-setup ng CI/CD pipeline sa GitHub Actions para sa Laravel?",,"Gumawa ng .github/workflows/deploy.yml na nagre-run ng tests at nagde-deploy sa main branch"
+Application,"Paano gamitin ang semantic versioning sa Laravel project?",,"Gamitin ang semantic-release package para i-automate ang version bump based sa conventional commits"
+Application,"Paano mag-branch ng feature sa Git?",,"git checkout -b feature/my-feature mula sa main, pagkatapos mag-push at gumawa ng pull request"
+Application,"Paano mag-automate ng testing sa bawat commit?",,"i-add ang phpunit command sa CI pipeline para i-run automatically sa bawat push"
+Application,"Paano mag-setup ng staging environment sa Laravel?",,"Gumawa ng .env.staging file, i-configure ang deploy script para mag-deploy sa staging server"

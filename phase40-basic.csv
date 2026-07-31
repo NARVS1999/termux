@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-configure ang Nginx para sa Laravel?",,"Gumawa ng server block na naka-point sa public/ directory, i-set ang fastcgi_pass sa PHP-FPM socket"
+Application,"Paano mag-setup ng Supervisor para sa Laravel queue worker?",,"Gumawa ng config file: [program:queue-worker] command=php artisan queue:work, autostart=true"
+Application,"Paano mag-configure ng PHP-FPM para sa production?",,"I-adjust ang pm.max_children, pm.start_servers, at pm.min_spare_servers base sa server RAM"
+Application,"Paano mag-setup ng Nginx reverse proxy sa Laravel?",,"I-configure ang location / { try_files $uri $uri/ /index.php?$query_string; } sa server block"
+Application,"Paano mag-monitor ng server health sa production?",,"Gamitin ang htop, nload, at i-check ang PHP-FPM status page sa Nginx configuration"

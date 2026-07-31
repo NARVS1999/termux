@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-setup ng load balancer para sa Laravel app?",,"Gamitin ang AWS ELB, Nginx, o HAProxy para mag-distribute ng traffic sa multiple Laravel instances"
+Application,"Paano mag-setup ng CDN para sa Laravel static assets?",,"Gamitin ang Cloudflare o AWS CloudFront, i-point ang domain sa CDN, at i-cache ang public/ assets"
+Application,"Paano mag-enable ng auto-scaling sa AWS?",,"I-configure ang Auto Scaling Group sa EC2, i-set ang scaling policies base sa CPU utilization"
+Application,"Paano gawing stateless ang Laravel app para sa horizontal scaling?",,"I-move ang sessions at cache sa Redis, gumamit ng shared filesystem o S3 para sa uploads"
+Application,"Paano mag-compare ng horizontal vs vertical scaling?",,"Vertical: mas madali pero may limit. Horizontal: mas scalable pero mas complex sa configuration"

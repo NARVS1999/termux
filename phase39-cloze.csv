@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Docker}} ay isang container platform na nagpa-package ng application at ang mga dependencies nito sa iisolated na containers.",,Docker
+Cloze,"Ang {{c1::container}} ay isang lightweight, standalone na executable package na naglalaman ng lahat para mag-run ang application.",,container
+Cloze,"Ang {{c1::Dockerfile}} ay ang file na naglalaman ng instructions para mag-build ng Docker image.",,Dockerfile
+Cloze,"Ang {{c1::docker-compose}} ay isang tool para mag-define at mag-run ng multi-container Docker applications.",,docker-compose
+Cloze,"Ang {{c1::image}} ay ang read-only na template na ginagamit para mag-create ng containers.",,image
+Cloze,"Ang {{c1::multi-stage build}} ay isang Dockerfile technique na nagre-reduce ng final image size gamit ang maraming build stages.",,multi-stage build
+Cloze,"Ang {{c1::volume}} sa Docker ay ang persistent storage na nagso-survive sa pag-delete ng containers.",,volume
+Cloze,"Ang {{c1::network}} sa Docker ay ang isolation layer na nagko-connect sa mga containers.",,network
+Cloze,"Ang {{c1::bind mount}} ay ang pag-share ng directory mula host machine papunta sa container.",,bind mount

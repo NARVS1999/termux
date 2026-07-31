@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng Dockerfile para sa Laravel app?",,"Gamitin ang php:8.2-fpm base image, i-install ang dependencies, i-copy ang code, at i-run ang migrations"
+Application,"Paano mag-setup ng docker-compose para sa Laravel + MySQL?",,"Gumawa ng docker-compose.yml na may services para sa app (php-fpm), nginx, mysql, at redis"
+Application,"Paano mag-reduce ng Docker image size?",,"Gamitin ang multi-stage builds at alisin ang dev dependencies sa production image"
+Application,"Paano mag-persist ng database data sa Docker?",,"Gamitin ang volumes: volumes: - mysql-data:/var/lib/mysql sa docker-compose.yml"
+Application,"Paano mag-run ng Laravel app sa Docker?",,"i-build ang image: docker build -t myapp, pagkatapos i-run: docker-compose up -d"
