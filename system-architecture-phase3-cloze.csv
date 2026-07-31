@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::load balancer}} ay ang component na nagdi-distribute ng incoming traffic sa multiple servers.",,load balancer
+Cloze,"Ang {{c1::round-robin}} ay ang load balancing algorithm na nagpapasa ng requests sa sunud-sunod na order.",,round-robin
+Cloze,"Ang {{c1::least connections}} ay ang algorithm na nagpapasa sa server na may pinakakaunting active connections.",,least connections
+Cloze,"Ang {{c1::consistent hashing}} ay ang algorithm na nag-a-assign ng servers sa hash ring para sa minimal redistribution.",,consistent hashing
+Cloze,"Ang {{c1::health check}} ay ang mechanism na nagmo-monitor kung buhay pa ang mga backend servers.",,health check

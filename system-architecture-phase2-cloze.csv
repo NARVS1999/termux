@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::REST}} ay ang architectural style na gumagamit ng HTTP methods para sa CRUD operations.",,REST
+Cloze,"Ang {{c1::GraphQL}} ay ang query language na nagbibigay ng clients ng flexibility sa data fetching.",,GraphQL
+Cloze,"Ang {{c1::gRPC}} ay ang high-performance RPC framework na gumagamit ng Protocol Buffers.",,gRPC
+Cloze,"Ang {{c1::WebSockets}} ay ang protocol na nagbibigay ng full-duplex communication sa halip na request-response.",,WebSockets
+Cloze,"Ang {{c1::HTTP methods}} ay GET, POST, PUT, PATCH, DELETE para sa iba't ibang operations.",,HTTP methods
+Cloze,"Ang {{c1::stateless}} ay ang property ng REST na walang naka-store na client state sa server.",,stateless

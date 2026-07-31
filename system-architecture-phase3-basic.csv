@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Kailan gumamit ng round-robin?",,"kapag equal ang capacity ng servers at relatively similar ang request sizes"
+Application,"Kailan gumamit ng least connections?",,"kapag variable ang request duration — ang mas mababagal na requests ay pumupunta sa mas kaunting connections"
+Application,"Paano gumagana ang consistent hashing?",,"ang bawat server ay may hash value sa ring, ang key ay i-hash at ang nearest server ang pipiliin"
+Application,"Bakit importante ang health checks?",,"para maiwasan ang pagpapadala ng traffic sa down na server — auto-remove ang unhealthy instances"
+Application,"Ano ang sticky sessions?",,"ang pag-redirect ng client sa parehong server sa bawat request — nag-iwasan ng session loss"

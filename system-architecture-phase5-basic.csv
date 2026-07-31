@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumagana ang TLS handshake?",,"client hello → server hello + certificate → key exchange → encrypted communication established"
+Application,"Bakit kailangan ng SSL certificate?",,"para i-verify ang identity ng server at i-encrypt ang communication sa pagitan ng client at server"
+Application,"Ano ang pagkakaiba ng encryption at rest at in transit?",,"at rest: naka-store na data. in transit: data na nagta-travel sa network. Parehong kailangan."
+Application,"Paano mag-setup ng Let's Encrypt?",,"gamitin ang certbot: certbot --nginx -d example.com — awtomatikong mag-a-setup ng HTTPS"
+Application,"Paano i-renew ang SSL certificate?",,"ang Let's Encrypt ay nag-e-expire sa 90 days — i-setup ang auto-renewal gamit ang cron o certbot timer"

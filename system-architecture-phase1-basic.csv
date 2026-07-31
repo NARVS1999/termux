@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang 7 layers ng OSI model?",,"Physical, Data Link, Network, Transport, Session, Presentation, Application — mula sa baba pataas"
+Application,"Ano ang pagkakaiba ng TCP at UDP?",,"TCP: reliable, ordered, connection-oriented. UDP: fast, unreliable, connectionless."
+Application,"Ano ang common HTTP status codes?",,"200 OK, 301 Redirect, 404 Not Found, 500 Internal Server Error, 429 Too Many Requests"
+Application,"Paano gumagana ang DNS resolution?",,"browser cache → OS cache → recursive resolver → root → TLD → authoritative nameserver → IP address"
+Application,"Bakit gumagamit ng HTTPS sa halip na HTTP?",,"nag-e-encrypt ang data sa transport — pinoprotektahan ang sensitive information mula sa mga attackers"

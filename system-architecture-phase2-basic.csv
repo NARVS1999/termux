@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Kailan gumamit ng REST API?",,"kapag simple CRUD operations, stateless, cacheable — ang pinaka-common na API pattern"
+Application,"Kailan gumamit ng GraphQL?",,"kapag kailangan ng flexible queries, maraming related data, o mobile apps na may limited bandwidth"
+Application,"Kailan gumamit ng gRPC?",,"kapag kailangan ng high-performance inter-service communication, streaming, o strong typing"
+Application,"Kailan gumamit ng WebSockets?",,"kapag kailangan ng real-time: chat, live notifications, gaming, collaboration tools"
+Application,"Ano ang over-fetching at under-fetching?",,"over-fetching: mas maraming data kaysa kailangan. under-fetching: hindi sapat na data sa iisang request."

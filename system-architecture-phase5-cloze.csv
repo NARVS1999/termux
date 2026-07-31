@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::TLS handshake}} ay ang proseso ng pag-establish ng secure connection bago mag-exchange ng data.",,TLS handshake
+Cloze,"Ang {{c1::SSL certificate}} ay ang digital document na nagpapatunay ng identity ng server.",,SSL certificate
+Cloze,"Ang {{c1::encryption at rest}} ay ang pag-encrypt ng data habang naka-store sa disk o database.",,encryption at rest
+Cloze,"Ang {{c1::encryption in transit}} ay ang pag-encrypt ng data habang nagta-travel sa network.",,encryption in transit
+Cloze,"Ang {{c1::Let's Encrypt}} ay ang free Certificate Authority na nagbibigay ng SSL certificates.",,Let's Encrypt
