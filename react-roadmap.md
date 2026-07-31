@@ -36,10 +36,10 @@
 
 ## Routing
 
-- [ ] **Phase 21** — React Router v6: BrowserRouter, Routes, Route, Link, NavLink
-- [ ] **Phase 22** — Dynamic routes: useParams, useSearchParams, programmatic navigation
-- [ ] **Phase 23** — Nested routes: Outlet, layout routes, index routes
-- [ ] **Phase 24** — Protected routes: auth guards, redirect, role-based routing
+- [x] **Phase 21** — React Router v6: BrowserRouter, Routes, Route, Link, NavLink
+- [x] **Phase 22** — Dynamic routes: useParams, useSearchParams, programmatic navigation
+- [x] **Phase 23** — Nested routes: Outlet, layout routes, index routes
+- [x] **Phase 24** — Protected routes: auth guards, redirect, role-based routing
 
 ## Forms & Validation
 
