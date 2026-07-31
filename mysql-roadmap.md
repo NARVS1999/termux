@@ -56,10 +56,10 @@
 
 ## Stored Procedures, Functions & Triggers
 
-- [ ] **Phase 32** — Stored procedures: CREATE PROCEDURE, parameters, IN/OUT/INOUT
-- [ ] **Phase 33** — Stored functions: CREATE FUNCTION, return values, deterministic vs non-deterministic
-- [ ] **Phase 34** — Triggers: BEFORE/AFTER INSERT/UPDATE/DELETE, NEW/OLD records
-- [ ] **Phase 35** — Events & scheduling: CREATE EVENT, event scheduler, cron-like tasks
+- [x] **Phase 32** — Stored procedures: CREATE PROCEDURE, parameters, IN/OUT/INOUT
+- [x] **Phase 33** — Stored functions: CREATE FUNCTION, return values, deterministic vs non-deterministic
+- [x] **Phase 34** — Triggers: BEFORE/AFTER INSERT/UPDATE/DELETE, NEW/OLD records
+- [x] **Phase 35** — Events & scheduling: CREATE EVENT, event scheduler, cron-like tasks
 
 ## MySQL Administration
 
