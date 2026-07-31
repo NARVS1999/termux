@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-set ng isolation level?",,"SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; — i-set para sa session"
+Application,"Ano ang default isolation level ng MySQL?",,"REPEATABLE READ — nagbibigay ng consistent reads sa buong transaction"
+Application,"Kailan gumamit ng SERIALIZABLE?",,"kapag kailangan ng strict consistency at willing mag-sacrifice ng performance"
+Application,"Ano ang phantom read?",,"kapag may lumitaw na bagong rows na hindi nakita sa una — nangyayari sa lower isolation levels"
+Application,"Paano mag-check ng current isolation level?",,"SELECT @@transaction_isolation; — ipapakita ang kasalukuyang isolation level"

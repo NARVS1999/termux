@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::row lock}} ay naglo-lock ng specific row na binabago — pinaka-granular na lock.",,row lock
+Cloze,"Ang {{c1::table lock}} ay naglo-lock ng buong table — mas coarse-grained pero mas mabagal.",,table lock
+Cloze,"Ang {{c1::deadlock}} ay ang situation kung saan dalawang transactions ay naghihintay sa locks ng isa't isa.",,deadlock
+Cloze,"Ang {{c1::SELECT FOR UPDATE}} ay naglo-lock ng selected rows para sa exclusive access.",,SELECT FOR UPDATE
+Cloze,"Ang {{c1::lock wait timeout}} ay ang maximum na oras na maghihintay sa lock bago mag-error.",,lock wait timeout

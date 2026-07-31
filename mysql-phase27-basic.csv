@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang ibig sabihin ng atomicity?",,"ang transaction ay dapat mag-success laht o mag-fail laht — walang partial completion"
+Application,"Paano nape-preserve ang consistency?",,"sa pamamagitan ng constraints, triggers, at application logic na nag-e-enforce ng rules"
+Application,"Bakit importante ang isolation?",,"upang hindi makita ng isang transaction ang half-finished na data ng isa pa"
+Application,"Ano ang durability sa practice?",,"kapag na-commit na ang transaction, naka-save na sa disk kahit mag-crash ang server"
+Application,"Paano i-test ang ACID properties?",,"gamitin ang concurrent transactions at tingnan kung tama pa rin ang data pagkatapos"

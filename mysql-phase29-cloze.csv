@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::READ UNCOMMITTED}} ay ang pinaka-relaxed isolation level na nagpapakita ng uncommitted data.",,READ UNCOMMITTED
+Cloze,"Ang {{c1::READ COMMITTED}} ay nagpapakita lang ng committed data sa bawat statement.",,READ COMMITTED
+Cloze,"Ang {{c1::REPEATABLE READ}} ay ang MySQL default na isolation level para sa consistent reads.",,REPEATABLE READ
+Cloze,"Ang {{c1::SERIALIZABLE}} ay ang pinaka-strict isolation level na naglo-lock ng lahat ng rows.",,SERIALIZABLE
+Cloze,"Ang {{c1::phantom read}} ay ang anomaly kung saan nag-a-appear ang bagong rows sa ibang transaction.",,phantom read

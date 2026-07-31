@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumamit ng optimistic locking?",,"i-add ang version column, i-check ang version bago mag-write: UPDATE t SET val=x, version=version+1 WHERE id=1 AND version=5"
+Application,"Paano gumamit ng pessimistic locking?",,"SELECT * FROM t WHERE id=1 FOR UPDATE; — i-lock ang row para walang ibang makakatouch"
+Application,"Ano ang pagkakaiba ng optimistic at pessimistic?",,"optimistic: walang lock, nag-check lang pag-write. pessimistic: nag-lock agad, mas safe pero mas mabagal."
+Application,"Paano gumagana ang MVCC sa MySQL?",,"bawat transaction ay may sariling snapshot — hindi nakikita ang changes ng iba hanggang mag-commit"
+Application,"Kailan gumamit ng pessimistic locking?",,"kapag mataas ang conflict rate o kapag critical ang transaction na hindi pwedeng mag-fail"
