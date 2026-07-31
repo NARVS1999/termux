@@ -4,11 +4,11 @@
 
 ## JavaScript Fundamentals (Prerequisites)
 
-- [ ] **Phase 1** — ES6+ features: destructuring, spread/rest, template literals, arrow functions, optional chaining
-- [ ] **Phase 2** — Array methods: map, filter, reduce, find, some, every, flat, flatMap
-- [ ] **Phase 3** — Promises, async/await, error handling, fetch API
-- [ ] **Phase 4** — Modules: import/export, default vs named exports, dynamic imports
-- [ ] **Phase 5** — Closures, hoisting, event loop, spread vs rest, destructuring patterns
+- [x] **Phase 1** — ES6+ features: destructuring, spread/rest, template literals, arrow functions, optional chaining
+- [x] **Phase 2** — Array methods: map, filter, reduce, find, some, every, flat, flatMap
+- [x] **Phase 3** — Promises, async/await, error handling, fetch API
+- [x] **Phase 4** — Modules: import/export, default vs named exports, dynamic imports
+- [x] **Phase 5** — Closures, hoisting, event loop, spread vs rest, destructuring patterns
 
 ## React Core Concepts
 
