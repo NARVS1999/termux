@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng reducer function?",,"function reducer(state, action) { switch(action.type) { case 'INCREMENT': return { count: state.count + 1 }; } }"
+Application,"Paano gamitin ang useReducer sa component?",,"const [state, dispatch] = useReducer(reducer, { count: 0 }); dispatch({ type: 'INCREMENT' });"
+Application,"Paano mag-add ng logging sa reducer?",,"function loggingReducer(state, action) { console.log(action); return reducer(state, action); }"
+Application,"Paano i-test ang reducer function?",,"I-test ang pure function: expect(reducer(initialState, {type: 'ADD'})).toEqual(expectedState); — walang mocks needed"
+Application,"Paano i-combine ang useReducer at Context?",,"<AppContext.Provider value={{ state, dispatch }}> — i-provide ang state at dispatch sa Context"

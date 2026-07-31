@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Zustand}} ay isang lightweight state management library na walang boilerplate.",,Zustand
+Cloze,"Ang {{c1::Redux Toolkit}} ay ang official, recommended way para mag-setup ng Redux sa modern React.",,Redux Toolkit
+Cloze,"Ang {{c1::Jotai}} ay isang atomic state management library na gumagamit ng bottom-up approach.",,Jotai
+Cloze,"Ang {{c1::slice pattern}} sa Redux Toolkit ay ang pattern ng paghihiwalay ng state sa logical pieces.",,slice pattern
+Cloze,"Ang {{c1::createStore}} sa Zustand ay ang function na nagcre-create ng store: const useStore = create((set) => ({...})).",,createStore

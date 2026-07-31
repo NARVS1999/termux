@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Context API}} ay ang built-in na React feature para mag-share ng data sa buong component tree.",,Context API
+Cloze,"Ang {{c1::createContext}} function ay nagcre-create ng Context object: const MyContext = createContext(defaultValue).",,createContext
+Cloze,"Ang {{c1::Provider}} component ay ang nagbabahagi ng value sa lahat ng children: <MyContext.Provider value={value}>.",,Provider
+Cloze,"Ang {{c1::useConsumer}} o useContext hook ay nagbibigay ng access sa value ng nearest Provider.",,useConsumer/useContext
+Cloze,"Ang {{c1::context performance}} issue — ang lahat ng consumers ay nagre-render kapag nagbabago ang Provider value.",,context performance
+Cloze,"Ang {{c1::splitting contexts}} ay ang pattern ng paghihiwalay ng contexts para maiwasan ang unnecessary re-renders.",,splitting contexts

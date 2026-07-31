@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng Context sa React?",,"const ThemeContext = createContext('light'); — i-create ang context sa separate file"
+Application,"Paano mag-provide ng context value?",,"<ThemeContext.Provider value={{ theme, setTheme }}><App /></ThemeContext.Provider>"
+Application,"Paano i-consume ang context sa component?",,"const { theme } = useContext(ThemeContext); — gamitin ang useContext hook"
+Application,"Paano i-optimize ang Context performance?",,"I-split ang contexts: isa para sa theme, isa para sa user — para hindi lahat nagre-render"
+Application,"Paano i-avoid ang unnecessary re-renders sa Context?",,"I-memoize ang value object: const value = useMemo(() => ({theme, setTheme}), [theme]);"

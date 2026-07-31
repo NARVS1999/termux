@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Kailan gumamit ng local state?",,"kapag ang state ay ginagamit lang sa isang component o sa malapit na mga child components"
+Application,"Kailan gumamit ng global state?",,"kapag ang state ay kailangan sa maraming malalayong components o sa buong app (auth, theme, cart)"
+Application,"Paano i-lift ang state sa common parent?",,"I-move ang useState sa parent component, i-pass down bilang props sa magkakapatid na components"
+Application,"Paano i-reduce ang prop drilling?",,"Gamitin ang Context API, state management libraries, o i-restructure ang component tree"
+Application,"Paano mag-decide kung alin ang gagamitin?",,"simulan sa local state, i-lift kapag kailangan ng siblings, i-context kapag kailangan ng malalayong components"
