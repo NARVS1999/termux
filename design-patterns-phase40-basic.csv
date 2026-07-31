@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang DTO?",,"plain data object na nagdadala ng data sa pagitan ng layers — walang business logic, lang data"
+Application,"Kailan gumamit ng DTO?",,"para mag-padala ng data sa API response, sa pagitan ng layers, o sa serialization boundaries"
+Application,"Ano ang pagkakaiba ng DTO at Entity?",,"entity: may business logic at identity. DTO: plain data, walang behavior, para sa transport lang."
+Application,"Paano i-map ang entity sa DTO?",,"gamitin ang mapping library: MapStruct, AutoMapper, o manual mapping"
+Application,"Ano ang VO o Value Object?",,"immutable object na kumakatawan ng value: Money, DateRange — may equality base sa value, hindi identity"

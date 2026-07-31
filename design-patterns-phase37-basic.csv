@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Unit of Work?",,"i-track ang lahat ng changes: add, update, delete — pagkatapos i-commit ang lahat sa iisang transaction"
+Application,"Kailan gumamit ng Unit of Work?",,"kapag maraming related na data changes: order + order items + inventory — dapat i-commit sabay"
+Application,"Ano ang benefit ng Unit of Work?",,"atomic transactions — walang partial data, lahat ay consistent pagkatapos ng commit"
+Application,"Paano i-combine ang Unit of Work at Repository?",,"ang Unit of Work ay nagte-track ng changes, ang Repository ang nagpe-persist — magkaibang concerns"
+Application,"Paano mag-handle ng failure?",,"i-rollback ang lahat ng changes — walang partially applied data sa database"

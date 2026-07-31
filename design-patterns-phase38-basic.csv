@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Specification?",,"gumawa ng specification class na may isSatisfiedBy() method, i-compose gamit ang AND, OR, NOT"
+Application,"Kailan gumamit ng Specification?",,"kapag maraming business rules na pwedeng i-reuse: search filters, validation rules, access control"
+Application,"Ano ang benefit ng Specification?",,"malinaw, testable, at reusable na business rules — pwedeng i-compose sa complex queries"
+Application,"Paano i-apply ang Specification sa Repository?",,"ang repository ay tumatanggap ng specification at nagfi-filter base sa rules"
+Application,"Paano gumawa ng composite specification?",,"gumawa ng AndSpecification, OrSpecification — i-combine ang dalawang specs"

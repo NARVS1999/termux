@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Repository?",,"gumawa ng interface na may findById(), findAll(), save(), delete() — i-implement para sa database"
+Application,"Kailan gumamit ng Repository?",,"para i-abstract ang data access — madaling mag-switch ng database o i-mock para sa tests"
+Application,"Ano ang benefit ng Repository?",,"business logic ay hindi nagde-depend sa database implementation — testable at maintainable"
+Application,"Paano i-mock ang Repository para sa tests?",,"gumawa ng in-memory implementation o gumamit ng mocking framework: jest.mock(), Mockito"
+Application,"Ano ang Generic Repository?",,"isang repository na may CRUD para sa lahat ng entities — pero mag-ingat sa over-abstraction"

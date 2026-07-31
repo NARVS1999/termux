@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Repository pattern}} ay ang enterprise pattern na nag-a-abstract ng data access layer.",,Repository pattern
+Cloze,"Ang {{c1::repository interface}} ay nagde-define ng CRUD operations na independent sa database implementation.",,repository interface
+Cloze,"Ang {{c1::concrete repository}} ay ang implementation na nagko-connect sa specific na database.",,concrete repository
+Cloze,"Ang {{c1::separation of concerns}} sa Repository ay ang paghihiwalay ng data access mula sa business logic.",,separation of concerns
+Cloze,"Ang {{c1::testability}} sa Repository — madaling i-mock para sa unit testing.",,testability

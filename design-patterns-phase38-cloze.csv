@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Specification pattern}} ay ang enterprise pattern na nag-e-encapsulate ng business rules.",,Specification pattern
+Cloze,"Ang {{c1::specification}} ay ang named na business rule na pwedeng i-compose sa iba.",,specification
+Cloze,"Ang {{c1::composite specification}} ay ang pag-combine ng specifications gamit ang AND, OR, NOT.",,composite specification
+Cloze,"Ang {{c1::query building}} sa Specification — ang specs ay nagco-convert sa queries.",,query building
+Cloze,"Ang {{c1::validation}} sa Specification — ang specs ay nagva-validate ng objects.",,validation
