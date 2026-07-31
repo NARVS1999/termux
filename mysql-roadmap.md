@@ -32,11 +32,11 @@
 
 ## Advanced SQL Queries
 
-- [ ] **Phase 17** — Aggregate functions: COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING
-- [ ] **Phase 18** — Subqueries: correlated, non-correlated, EXISTS, IN, ANY, ALL
-- [ ] **Phase 19** — Window functions: ROW_NUMBER, RANK, DENSE_RANK, OVER, PARTITION BY
-- [ ] **Phase 20** — Common Table Expressions: WITH, recursive CTEs, hierarchical queries
-- [ ] **Phase 21** — UNION, INTERSECT, EXCEPT, set operations, UNION ALL vs UNION
+- [x] **Phase 17** — Aggregate functions: COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING
+- [x] **Phase 18** — Subqueries: correlated, non-correlated, EXISTS, IN, ANY, ALL
+- [x] **Phase 19** — Window functions: ROW_NUMBER, RANK, DENSE_RANK, OVER, PARTITION BY
+- [x] **Phase 20** — Common Table Expressions: WITH, recursive CTEs, hierarchical queries
+- [x] **Phase 21** — UNION, INTERSECT, EXCEPT, set operations, UNION ALL vs UNION
 
 ## Indexes & Query Optimization
 
