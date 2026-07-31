@@ -1,0 +1,5 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Spaghetti Code}} ay ang anti-pattern na may tangled, unstructured na code.",,Spaghetti Code
+Cloze,"Ang {{c1::tangled dependencies}} sa Spaghetti Code — ang code ay walang malinaw na structure o layers.",,tangled dependencies
+Cloze,"Ang {{c1::extract layer}} refactoring — i-separate ang concerns sa malinaw na layers: UI, business, data.",,extract layer
+Cloze,"Ang {{c1::dependency injection}} ay technique para mabawasan ang tight coupling sa Spaghetti Code.",,dependency injection

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano makilala ang God Object?",,"kapag ang class ay may 500+ lines, maraming methods, at maraming imports — masyadong maraming responsibilities"
+Application,"Paano i-refactor ang God Object?",,"i-identify ang responsibilities, gumawa ng bagong classes para sa bawat responsibility, i-inject sa original"
+Application,"Ano ang risk ng God Object?",,"mahirap i-test, i-maintain, at i-understand — ang isang change ay pwedeng makaapektong sa lahat"
+Application,"Paano maiwasan ang God Object?",,"i-apply ang Single Responsibility Principle — bawat class ay may iisang responsibility lang"
+Application,"Ano ang extract class refactoring?",,"kunin ang related methods at i-move sa bagong class — i-inject ang bagong class sa original"
