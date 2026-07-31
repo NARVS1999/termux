@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Proxy}} ay isang structural pattern na nagbibigay ng surrogate o placeholder para sa isa pang object.",,Proxy
+Cloze,"Ang {{c1::Proxy}} ay nagkokontrol ng access sa real object.",,Proxy
+Cloze,"Ang {{c1::virtual proxy}} ay naghihintay ng lazy initialization bago i-create ang real object.",,virtual proxy
+Cloze,"Ang {{c1::protection proxy}} ay nagkokontrol ng access sa pamamagitan ng access rights checking.",,protection proxy
+Cloze,"Ang {{c1::remote proxy}} ay nagbibigay ng local na representation ng remote na object.",,remote proxy
+Cloze,"Ang {{c1::Proxy}} ay nagbibigay ng indirection sa pagitan ng client at real object.",,Proxy
+Cloze,"Ang {{c1::Proxy}} ay madalas gamitin sa caching, logging, at access control.",,Proxy
+Cloze,"Ang {{c1::Proxy}} ay nagbibigay ng transparency sa paggamit ng real at proxy objects.",,Proxy
+Cloze,"Ang {{c1::Proxy}} ay nagbibigay ng flexibility para magdagdag ng behavior nang hindi binabago ang real object.",,Proxy
+Cloze,"Ang {{c1::Proxy}} ay madalas gamitin sa lazy loading, virtual objects, at network connections.",,Proxy

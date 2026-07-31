@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-distinguish ang Adapter at Bridge?",,Ang Adapter ay nagko-convert ng interfaces, Bridge ay naghihiwalay ng abstraction at implementation
+Application,"Paano i-implement ang Bridge sa JavaScript?",,Gumamit ng composition at i-inject ang implementation sa abstraction constructor
+Application,"Paano i-apply ang Bridge sa platform-specific code?",,Lumikha ng abstraction layer at mga platform-specific na implementations
+Application,"Paano pumili sa Bridge at Strategy?",,Gamitin ang Bridge para sa structural na separation at Strategy para sa behavioral na flexibility
+Application,"Paano magdagdag ng bagong implementation sa Bridge?",,Lumikha ng bagong class na nag-i-implement ng implementation interface

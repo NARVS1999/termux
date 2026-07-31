@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Adapter}} ay isang structural pattern na nagko-convert ng isang interface papunta sa isa pang interface.",,Adapter
+Cloze,"Ang {{c1::Adapter}} ay nagbibigay ng compatibility sa pagitan ng incompatible interfaces.",,Adapter
+Cloze,"Ang {{c1::object adapter}} ay gumagamit ng composition para i-wrap ang adaptee object.",,object adapter
+Cloze,"Ang {{c1::class adapter}} ay gumagamit ng multiple inheritance para mag-adapt ng interfaces.",,class adapter
+Cloze,"Ang {{c1::Adapter}} ay nagbibigay ng legacy integration sa pamamagitan ng wrapping.",,Adapter
+Cloze,"Ang {{c1::Adapter}} ay nag-i-isolate ang changes sa third-party code mula sa client code.",,Adapter
+Cloze,"Ang {{c1::Adapter}} ay nagbibigay ng loose coupling sa pagitan ng client at adaptee.",,Adapter
+Cloze,"Ang {{c1::two-way adapter}} ay nagbibigay ng bidirectional na compatibility sa dalawang interfaces.",,two-way adapter
+Cloze,"Ang {{c1::Adapter}} ay nagko-convert ng data formats, APIs, at protocols.",,Adapter
+Cloze,"Ang {{c1::Adapter}} ay madalas gamitin sa integration ng lumang systems sa bagong code.",,Adapter

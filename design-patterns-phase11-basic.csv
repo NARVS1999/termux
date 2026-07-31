@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Adapter pattern?",,Lumikha ng adapter class na may target interface at i-wrap ang adaptee object
+Application,"Paano pumili sa object at class adapter?",,Gamitin ang object adapter para sa composition at class adapter para sa multiple inheritance
+Application,"Paano i-apply ang Adapter sa legacy code?",,I-wrap ang lumang API sa isang adapter na may modern na interface
+Application,"Paano i-convert ang data format gamit ang Adapter?",,I-map ang old format sa new format sa loob ng adapter's method
+Application,"Paano i-test ang Adapter?",,I-test ang adapter sa isolation at i-verify na tama ang conversion

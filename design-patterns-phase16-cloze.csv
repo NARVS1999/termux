@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Flyweight}} ay isang structural pattern na nagbibigay ng pagbabahagi ng common state para sa maraming objects.",,Flyweight
+Cloze,"Ang {{c1::Flyweight}} ay nagbibigay ng memory optimization sa pamamagitan ng pagbabahagi ng intrinsic state.",,Flyweight
+Cloze,"Ang {{c1::intrinsic state}} ay ang state na naka-share sa lahat ng flyweight objects.",,intrinsic state
+Cloze,"Ang {{c1::extrinsic state}} ay ang state na nakadepende sa context at hindi naka-share.",,extrinsic state
+Cloze,"Ang {{c1::Flyweight factory}} ay nagbibigay ng paraan para mag-create at mag-manage ng mga flyweight objects.",,Flyweight factory
+Cloze,"Ang {{c1::Flyweight}} ay madalas gamitin sa text rendering, caching, at connection pooling.",,Flyweight
+Cloze,"Ang {{c1::Flyweight}} ay nagbibigay ng significant memory savings sa malalaking number ng objects.",,Flyweight
+Cloze,"Ang {{c1::Flyweight}} ay nag-i-isolate ang shared state mula sa unique na state.",,Flyweight
+Cloze,"Ang {{c1::Flyweight}} ay nagbibigay ng performance improvement sa pamamagitan ng object reuse.",,Flyweight
+Cloze,"Ang {{c1::Flyweight}} ay nangangailangan ng careful design para maiwasan ang incorrect sharing.",,Flyweight

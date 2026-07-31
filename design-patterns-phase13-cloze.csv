@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Composite}} ay isang structural pattern na nagbibigay ng paraan para tratuhin ang mga individual na objects at compositions ng objects nang pareho.",,Composite
+Cloze,"Ang {{c1::Composite}} ay nagbibigay ng tree structure representation para sa part-whole hierarchy.",,Composite
+Cloze,"Ang {{c1::component}} ay ang base interface para sa lahat ng objects sa composition.",,component
+Cloze,"Ang {{c1::leaf}} ay ang object na walang mga children at nag-i-implement ng component interface.",,leaf
+Cloze,"Ang {{c1::composite}} ay ang object na may mga children at nag-i-implement ng component interface.",,composite
+Cloze,"Ang {{c1::Composite}} ay nagbibigay ng recursive composition para sa kumplikadong tree structures.",,Composite
+Cloze,"Ang {{c1::Composite}} ay nagbibigay ng uniform interface sa pagitan ng leaves at composites.",,Composite
+Cloze,"Ang {{c1::Composite}} ay madalas gamitin sa GUI components, file systems, at organizational structures.",,Composite
+Cloze,"Ang {{c1::Composite}} ay nagbibigay ng simplicity sa pamamagitan ng pag-tratuhin ang complex at simple objects nang pareho.",,Composite
+Cloze,"Ang {{c1::Composite}} ay nagbibigay ng flexibility para magdagdag ng bagong component types.",,Composite

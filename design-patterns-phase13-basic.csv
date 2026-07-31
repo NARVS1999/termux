@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Composite pattern?",,Lumikha ng component interface at i-implement ang leaf at composite classes
+Application,"Paano i-traverse ang composite tree?",,Gamitin ang recursive traversal o visitor pattern para i-iterate sa lahat ng components
+Application,"Paano i-apply ang Composite sa file system?",,Lumikha ng file at folder classes na may parehong interface
+Application,"Paano maiwasan ang malalaking composites?",,I-limit ang depth ng tree at i-check ang circular references
+Application,"Paano i-test ang Composite?",,I-test ang mga leaf at composite nang hiwalay at i-verify ang tree behavior

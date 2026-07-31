@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Bridge}} ay isang structural pattern na naghihiwalay ng abstraction mula sa implementation.",,Bridge
+Cloze,"Ang {{c1::Bridge}} ay nagbibigay ng independence sa pagitan ng abstraction at implementation.",,Bridge
+Cloze,"Ang {{c1::abstraction}} ay ang high-level na control layer na hindi direktang nag-i-implode ng implementation.",,abstraction
+Cloze,"Ang {{c1::implementation}} ay ang low-level na layer na nagbibigay ng operating system-specific na code.",,implementation
+Cloze,"Ang {{c1::Bridge}} ay nagbibigay ng platform independence sa pamamagitan ng hiwalay na pag-iiba.",,Bridge
+Cloze,"Ang {{c1::Bridge}} ay madalas gamitin sa mga platforms na may maraming variations.",,Bridge
+Cloze,"Ang {{c1::Bridge}} ay nagbibigay ng scalability sa pamamagitan ng pagdagdag ng bagong abstractions at implementations.",,Bridge
+Cloze,"Ang {{c1::Bridge}} ay nag-i-isolate ang changes sa implementation mula sa abstraction.",,Bridge
+Cloze,"Ang {{c1::Bridge}} ay nagbibigay ng runtime flexibility sa pamamagitan ng dependency injection.",,Bridge
+Cloze,"Ang {{c1::Bridge}} ay madalas gamitin sa GUI frameworks, database drivers, at device drivers.",,Bridge

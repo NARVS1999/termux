@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Facade}} ay isang structural pattern na nagbibigay ng simplified interface sa kumplikadong subsystem.",,Facade
+Cloze,"Ang {{c1::Facade}} ay nagbabawas ng complexity sa pamamagitan ng pagtatago ng subsystem details.",,Facade
+Cloze,"Ang {{c1::Facade}} ay nagbibigay ng loose coupling sa pagitan ng client at subsystem.",,Facade
+Cloze,"Ang {{c1::Facade}} ay nagbibigay ng abstraction layer sa ibabaw ng maraming classes.",,Facade
+Cloze,"Ang {{c1::Facade}} ay madalas gamitin sa mga libraries, frameworks, at complex na systems.",,Facade
+Cloze,"Ang {{c1::Facade}} ay nagbibigay ng simplified API para sa common na use cases.",,Facade
+Cloze,"Ang {{c1::Facade}} ay nag-i-isolate ang changes sa subsystem mula sa client code.",,Facade
+Cloze,"Ang {{c1::Facade}} ay nagbibigay ng convenience methods para sa frequently na ginagamit na operations.",,Facade
+Cloze,"Ang {{c1::Facade}} ay hindi pinaghihiwalay ang subsystem — pinapadali lang ang paggamit.",,Facade
+Cloze,"Ang {{c1::Facade}} ay madalas gamitin sa service layers, API gateways, at wrapper classes.",,Facade

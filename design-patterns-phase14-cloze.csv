@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Decorator}} ay isang structural pattern na nagbibigay ng paraan para magdagdag ng bagong responsibilities sa objects nang hindi binabago ang original class.",,Decorator
+Cloze,"Ang {{c1::Decorator}} ay nagbibigay ng flexible alternative sa inheritance para sa pagdagdag ng functionality.",,Decorator
+Cloze,"Ang {{c1::decorator}} ay nagwe-wrap sa isang object at nagdadagdag ng behavior bago o pagkatapos ng delegating.",,decorator
+Cloze,"Ang {{c1::Decorator}} ay nagbibigay ng runtime composition ng behaviors.",,Decorator
+Cloze,"Ang {{c1::Decorator}} ay nagbibigay ng single responsibility sa bawat decorator.",,Decorator
+Cloze,"Ang {{c1::Decorator}} ay madalas gamitin sa streams, logging, at middleware.",,Decorator
+Cloze,"Ang {{c1::Decorator}} ay nagbibigay ng open-closed principle — open for extension pero closed for modification.",,Decorator
+Cloze,"Ang {{c1::stacking decorators}} ay nagbibigay ng pag-combine ng maraming behaviors.",,stacking decorators
+Cloze,"Ang {{c1::Decorator}} ay nag-i-isolate ang mga changes sa bawat layer ng behavior.",,Decorator
+Cloze,"Ang {{c1::Decorator}} ay nagbibigay ng transparency sa paggamit ng original at decorated objects.",,Decorator

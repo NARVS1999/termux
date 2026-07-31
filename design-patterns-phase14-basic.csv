@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Decorator pattern?",,Lumikha ng base class at mga decorator classes na nag-we-wrap at nagdadagdag ng behavior
+Application,"Paano pumili sa Decorator at inheritance?",,Gamitin ang Decorator para sa dynamic na behavior at inheritance para sa static na relationship
+Application,"Paano i-apply ang Decorator sa middleware?",,I-wrap ang mga handlers sa mga decorator na nagdadagdag ng logging, auth, at error handling
+Application,"Paano mag-stack ng mga decorators?",,I-wrap ang isang decorated object sa isa pang decorator para mag-combine ng behaviors
+Application,"Paano i-test ang mga decorators?",,I-test ang bawat decorator sa isolation at i-verify ang cumulative behavior

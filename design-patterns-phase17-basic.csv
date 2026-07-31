@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang virtual proxy?",,I-delay ang creation ng real object hanggang sa unang paggamit
+Application,"Paano pumili sa Proxy at Decorator?",,Ang Proxy ay nagkokontrol ng access, Decorator ay nagdadagdag ng behavior
+Application,"Paano i-apply ang Proxy sa caching?",,I-store ang results sa proxy at ibalik ang cached data kung hindi pa nag-e-expire
+Application,"Paano i-implement ang protection proxy?",,I-check ang user permissions bago i-delegate sa real object
+Application,"Paano i-test ang Proxy?",,I-test ang proxy sa isolation at i-verify na tama ang behavior sa iba't ibang scenarios
