@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-partition ang time-series table?",,"PARTITION BY RANGE (TO_DAYS(created_at)) — i-partition ayon sa araw para sa mabilis na pruning"
+Application,"Paano mag-archive ng lumang data?",,"i-move sa archive table: INSERT INTO logs_archive SELECT * FROM logs WHERE created_at < '2023-01-01';"
+Application,"Paano i-compress ang old partitions?",,"ALTER TABLE logs PARTITION p2022 ROW_FORMAT=COMPRESSED; — i-compress ang lumang partitions"
+Application,"Paano mag-query ng archived data?",,"i-query ang archive table: SELECT * FROM logs_archive WHERE date = '2022-06-15';"
+Application,"Paano i-automate ang archiving?",,"gamitin ang scheduled events: CREATE EVENT monthly_archive ON SCHEDULE EVERY 1 MONTH DO ..."

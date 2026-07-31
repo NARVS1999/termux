@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-design ang RBAC schema?",,"gumawa ng users, roles, permissions, user_roles, role_permissions tables — 5 tables para sa flexible RBAC"
+Application,"Paano i-track ng login sessions?",,"gumawa ng sessions table: user_id, token, ip_address, user_agent, created_at, expires_at"
+Application,"Paano i-handle ang password resets?",,"gumawa ng password_resets table: email, token, created_at — i-expire pagkatapos ng 1 hour"
+Application,"Paano i-audit ang user actions?",,"gumawa ng activity_logs table: user_id, action, subject_type, subject_id, metadata JSON"
+Application,"Paano i-handle ang soft deletes para sa users?",,"i-add ang deleted_at TIMESTAMP, i-filter gamit WHERE deleted_at IS NULL"

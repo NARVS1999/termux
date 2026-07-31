@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-add ng column nang walang downtime?",,"gamitin ang gh-ost o pt-online-schema-change — i-alter ang table habang nag-copy ng data"
+Application,"Paano gumawa ng zero-downtime migration?",,"expand-contract: i-add ang bagong column, i-migrate ang data, i-update ang app, tanggalin ang luma"
+Application,"Ano ang gh-ost?",,"ang GitHub's online schema change tool na nagcre-create ng shadow table at nagso-synchronize"
+Application,"Paano i-test ang schema change?",,"i-apply sa staging environment, i-profile ang performance, i-check ang replication lag"
+Application,"Paano i-rollback ang failed migration?",,"i-reverse ang changes o i-restore mula sa backup — laging may rollback plan"

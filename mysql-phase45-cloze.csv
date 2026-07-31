@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::users table}} ay naglalaman ng user accounts: id, name, email, password_hash, status.",,users table
+Cloze,"Ang {{c1::roles table}} ay nagde-define ng user roles: admin, editor, viewer.",,roles table
+Cloze,"Ang {{c1::permissions table}} ay naglalaman ng specific actions: create_post, delete_user.",,permissions table
+Cloze,"Ang {{c1::user_roles junction table}} ay nagko-connect ng users at roles para sa M:N relationship.",,user_roles
+Cloze,"Ang {{c1::sessions table}} ay nagttrack ng active user sessions: user_id, token, ip_address, expires_at.",,sessions table

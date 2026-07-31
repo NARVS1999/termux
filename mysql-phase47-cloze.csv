@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::online schema change}} ay ang pag-modify ng table structure habang tumatakbo ang application.",,online schema change
+Cloze,"Ang {{c1::zero-downtime migration}} ay ang schema change na hindi nagdo-down ang application.",,zero-downtime migration
+Cloze,"Ang {{c1::gh-ost}} ay ang GitHub tool para sa online schema changes na walang locking.",,gh-ost
+Cloze,"Ang {{c1::pt-online-schema-change}} ay ang Percona tool para sa online schema migrations.",,pt-online-schema-change
+Cloze,"Ang {{c1::expand-contract pattern}} ay ang approach ng pag-dagdag ng bagong column bago tanggalin ang luma.",,expand-contract pattern
