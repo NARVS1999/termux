@@ -12,12 +12,12 @@
 
 ## Architecture Patterns
 
-- [ ] **Phase 6** — Monolithic architecture: benefits, drawbacks, when to use
-- [ ] **Phase 7** — Microservices: decomposition, service boundaries, communication patterns
-- [ ] **Phase 8** — Serverless: functions-as-a-service, event-driven, cold starts
-- [ ] **Phase 9** — Event-driven architecture: event sourcing, CQRS, message queues
-- [ ] **Phase 10** — Service mesh: sidecar proxies, mTLS, traffic management
-- [ ] **Phase 11** — Domain-driven design: bounded contexts, aggregates, domain events
+- [x] **Phase 6** — Monolithic architecture: benefits, drawbacks, when to use
+- [x] **Phase 7** — Microservices: decomposition, service boundaries, communication patterns
+- [x] **Phase 8** — Serverless: functions-as-a-service, event-driven, cold starts
+- [x] **Phase 9** — Event-driven architecture: event sourcing, CQRS, message queues
+- [x] **Phase 10** — Service mesh: sidecar proxies, mTLS, traffic management
+- [x] **Phase 11** — Domain-driven design: bounded contexts, aggregates, domain events
 
 ## System Design Principles
 
