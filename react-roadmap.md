@@ -22,11 +22,11 @@
 
 ## React Hooks Deep-Dive
 
-- [ ] **Phase 13** — useEffect: side effects, cleanup, dependency array, common patterns
-- [ ] **Phase 14** — useRef: DOM refs, mutable values, avoiding re-renders
-- [ ] **Phase 15** — useContext + useReducer: complex state logic, reducer patterns
-- [ ] **Phase 16** — Custom hooks: extracting logic, naming conventions, composition
-- [ ] **Phase 17** — useMemo, useCallback, React.memo: preventing unnecessary re-renders
+- [x] **Phase 13** — useEffect: side effects, cleanup, dependency array, common patterns
+- [x] **Phase 14** — useRef: DOM refs, mutable values, avoiding re-renders
+- [x] **Phase 15** — useContext + useReducer: complex state logic, reducer patterns
+- [x] **Phase 16** — Custom hooks: extracting logic, naming conventions, composition
+- [x] **Phase 17** — useMemo, useCallback, React.memo: preventing unnecessary re-renders
 
 ## Styling & UI
 
