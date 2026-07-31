@@ -63,10 +63,10 @@
 
 ## MySQL Administration
 
-- [ ] **Phase 36** — User management: CREATE USER, GRANT, REVOKE, roles & privileges
-- [ ] **Phase 37** — Backup & recovery: mysqldump, mysqlpump, xtrabackup, point-in-time recovery
-- [ ] **Phase 38** — Replication: master-slave, GTID, binlog, read replicas
-- [ ] **Phase 39** — Partitioning: RANGE, LIST, HASH, KEY, partition pruning
+- [x] **Phase 36** — User management: CREATE USER, GRANT, REVOKE, roles & privileges
+- [x] **Phase 37** — Backup & recovery: mysqldump, mysqlpump, xtrabackup, point-in-time recovery
+- [x] **Phase 38** — Replication: master-slave, GTID, binlog, read replicas
+- [x] **Phase 39** — Partitioning: RANGE, LIST, HASH, KEY, partition pruning
 
 ## Performance Tuning & Scaling
 
