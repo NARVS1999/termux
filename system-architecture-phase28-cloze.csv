@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::OAuth2}} ay ang authorization framework na nagbibigay ng third-party access sa user data.",,OAuth2
+Cloze,"Ang {{c1::JWT}} o JSON Web Token ay ang compact, self-contained token para sa info exchange.",,JWT
+Cloze,"Ang {{c1::session token}} ay ang server-side na token na nag-i-identify ng authenticated user.",,session token
+Cloze,"Ang {{c1::API key}} ay ang unique identifier na ginagamit para i-authenticate ang API requests.",,API key
+Cloze,"Ang {{c1::access token}} ay ang short-lived token na ginagamit para sa API access.",,access token
+Cloze,"Ang {{c1::refresh token}} ay ang long-lived token na ginagamit para makakuha ng bagong access token.",,refresh token

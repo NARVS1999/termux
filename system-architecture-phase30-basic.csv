@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang VPC?",,"ang isolated na network sa cloud — parang sariling data center pero managed ng cloud provider"
+Application,"Ano ang WAF?",,"ang firewall na specifically para sa web apps: nagfi-filter ng SQL injection, XSS, at iba pang attacks"
+Application,"Paano mag-setup ng network segmentation?",,"hatiin ang network sa subnets: public, private, database — i-control ang traffic sa pagitan"
+Application,"Ano ang DDoS attack?",,"ang pag-saturate ng server ng traffic para hindi makapag-serve — gumamit ng CDN at rate limiting"
+Application,"Paano mag-configure ng security groups?",,"i-allow lang ang required ports: 22 (SSH), 80 (HTTP), 443 (HTTPS) — lahat ay denied by default"

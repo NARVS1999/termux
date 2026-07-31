@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::secrets management}} ay ang secure na pag-iimbak at pag-handle ng sensitive credentials.",,secrets management
+Cloze,"Ang {{c1::HashiCorp Vault}} ay ang popular na secrets management tool para sa centralization.",,HashiCorp Vault
+Cloze,"Ang {{c1::key rotation}} ay ang regular na pagbabago ng secrets para maiwasan ang compromise.",,key rotation
+Cloze,"Ang {{c1::encryption at rest}} ay ang pag-encrypt ng data habang naka-store sa disk.",,encryption at rest
+Cloze,"Ang {{c1::secret scanning}} ay ang pag-scan ng code repositories para sa accidentally committed secrets.",,secret scanning
