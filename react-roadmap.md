@@ -56,10 +56,10 @@
 
 ## Data Fetching & APIs
 
-- [ ] **Phase 32** — useEffect + fetch: loading states, error handling, abort controllers
-- [ ] **Phase 33** — TanStack Query (React Query): useQuery, useMutation, cache invalidation
-- [ ] **Phase 34** — REST API patterns: pagination, infinite scroll, optimistic updates
-- [ ] **Phase 35** — Error boundaries, error states, retry strategies
+- [x] **Phase 32** — useEffect + fetch: loading states, error handling, abort controllers
+- [x] **Phase 33** — TanStack Query (React Query): useQuery, useMutation, cache invalidation
+- [x] **Phase 34** — REST API patterns: pagination, infinite scroll, optimistic updates
+- [x] **Phase 35** — Error boundaries, error states, retry strategies
 
 ## Performance Optimization
 
