@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Kailan mag-denormalize ng database?",,"kapag ang JOIN queries ay mabagal, read-heavy na analytics, o reporting na hindi nangangailangan ng real-time"
+Application,"Paano gumawa ng materialized view sa MySQL?",,"i-create ang table gamit ang CREATE TABLE AS SELECT, pagkatapos i-refresh periodically"
+Application,"Paano i-balance ang normalization at denormalization?",,"i-normalize muna, i-profile ang queries, denormalize lang ang hot paths na mabagal"
+Application,"Ano ang risk ng denormalization?",,"data inconsistency kapag hindi na-sync ang redundant data, mas complex na writes"
+Application,"Paano mag-sync ng denormalized data?",,"gamitin ang triggers, application logic, o scheduled jobs para i-update ang redundant columns"

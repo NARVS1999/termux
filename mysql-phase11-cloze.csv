@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::ER diagram}} o Entity-Relationship Diagram ay visual na representation ng database schema.",,ER diagram
+Cloze,"Ang {{c1::entity}} ay ang object o concept na nire-represent ng table (ex. User, Order).",,entity
+Cloze,"Ang {{c1::attribute}} ay ang property ng entity (ex. name, email, age).",,attribute
+Cloze,"Ang {{c1::relationship}} ay ang connection sa pagitan ng entities (ex. User places Order).",,relationship
+Cloze,"Ang {{c1::cardinality}} ay ang bilang ng instances sa pagitan ng entities: 1:1, 1:N, M:N.",,cardinality
+Cloze,"Ang {{c1::primary key}} sa ER diagram ay karaniwang naka-underline o marked.",,primary key

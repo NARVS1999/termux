@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::audit table}} ay ang table na nagre-record ng lahat ng changes sa isang entity.",,audit table
+Cloze,"Ang {{c1::soft delete}} ay ang technique ng pag-set ng deleted_at timestamp sa halip na i-delete ang row.",,soft delete
+Cloze,"Ang {{c1::polymorphic association}} ay ang relationship na pwedeng tumukoy sa maraming tables.",,polymorphic association
+Cloze,"Ang {{c1::created_at at updated_at}} ay ang timestamps na nag-track ng creation at last update.",,created_at/updated_at
+Cloze,"Ang {{c1::version column}} ay ang column na nag-increment sa bawat update para sa optimistic locking.",,version column

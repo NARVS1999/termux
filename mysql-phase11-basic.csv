@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng ER diagram?",,"gamitin ang dbdiagram.io, Lucidchart, o MySQL Workbench para i-visualize ang schema"
+Application,"Paano i-identify ang entities sa isang system?",,"hanapin ang mga nouns: User, Product, Order, Payment — ito ang magiging tables"
+Application,"Paano i-determine ang cardinality?",,"tanungin: gaano karaming users ang pwedeng mag-have ng orders? 1 user = many orders = 1:N"
+Application,"Paano i-translate ang ER diagram sa SQL?",,"bawat entity = table, attributes = columns, relationships = foreign keys"
+Application,"Paano mag-design ng M:N relationship?",,"gumawa ng junction table na may foreign keys sa dalawang tables"

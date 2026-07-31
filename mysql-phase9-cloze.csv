@@ -1,0 +1,8 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::normalization}} ay ang proseso ng pag-o-organize ng data para ma-redundancy at ma-improve ang data integrity.",,normalization
+Cloze,"Ang {{c1::1NF}} o First Normal Form ay nangangailangan na ang bawat column ay atomic (hindi multip-valued).",,1NF
+Cloze,"Ang {{c1::2NF}} o Second Normal Form ay nangangailangan na walang partial dependency sa composite primary key.",,2NF
+Cloze,"Ang {{c1::3NF}} o Third Normal Form ay nangangailangan na walang transitive dependency.",,3NF
+Cloze,"Ang {{c1::Boyce-Codd normal form}} (BCNF) ay stricter version ng 3NF na nag-a-address ng anomalies.",,Boyce-Codd normal form
+Cloze,"Ang {{c1::redundancy}} ay ang pagkakaroon ng duplicate data na nagko-cause ng anomalies.",,redundancy
+Cloze,"Ang {{c1::update anomaly}} ay ang problem kapag nag-update ng data sa isang lugar pero hindi sa iba.",,update anomaly

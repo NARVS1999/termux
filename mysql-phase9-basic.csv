@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-apply ang 1NF sa table?",,"Tanggalin ang duplicate columns, i-split ang multi-valued data sa separate rows — bawat cell ay isang value lang"
+Application,"Paano i-check kung ang table ay nasa 3NF?",,"Tignan ang non-key columns: dapat walang column na dependent sa isa pang non-key column"
+Application,"Paano i-normalize ang isang denormalized table?",,"Hatiin ang table sa smaller tables, i-connect gamit ang foreign keys"
+Application,"Bakit importante ang normalization?",,"ma-i-redundancy, maiwasan ang anomalies, mas madaling mag-maintain ng data"
+Application,"Kailan hindi kailangan ng normalization?",,"kapag read-heavy na analytics, reporting tables, o kapag ang performance ay mas importante"
