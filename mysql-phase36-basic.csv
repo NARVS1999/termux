@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng bagong user?",,"CREATE USER 'john'@'localhost' IDENTIFIED BY 'password'; — i-create ang user account"
+Application,"Paano magbigay ng privileges?",,"GRANT SELECT, INSERT ON mydb.* TO 'john'@'localhost'; — i-grant ang specific privileges"
+Application,"Paano mag-revoke ng privileges?",,"REVOKE INSERT ON mydb.* FROM 'john'@'localhost'; — i-remove ang privilege"
+Application,"Paano mag-list ng users?",,"SELECT User, Host FROM mysql.user; — ipapakita ang lahat ng users"
+Application,"Paano mag-change ng password?",,"ALTER USER 'john'@'localhost' IDENTIFIED BY 'newpassword'; — i-update ang password"

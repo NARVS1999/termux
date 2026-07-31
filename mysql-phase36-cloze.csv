@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::CREATE USER}} statement ay ginagamit para mag-create ng bagong MySQL user account.",,CREATE USER
+Cloze,"Ang {{c1::GRANT}} statement ay nagbibigay ng privileges sa user: GRANT SELECT, INSERT ON db.* TO 'user'@'host'.",,GRANT
+Cloze,"Ang {{c1::REVOKE}} statement ay nag-aalis ng privileges: REVOKE INSERT ON db.* FROM 'user'@'host'.",,REVOKE
+Cloze,"Ang {{c1::privilege}} ay ang specific na permission: SELECT, INSERT, UPDATE, DELETE, CREATE, DROP.",,privilege
+Cloze,"Ang {{c1::role}} ay ang collection ng privileges na pwedeng i-assign sa maraming users.",,role

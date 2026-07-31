@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::partitioning}} ay ang proseso ng pag-hati ng isang malaking table sa mas maliliit na physical pieces.",,partitioning
+Cloze,"Ang {{c1::RANGE partitioning}} ay nagha-hati ng rows base sa value range: PARTITION BY RANGE (YEAR(created_at)).",,RANGE partitioning
+Cloze,"Ang {{c1::LIST partitioning}} ay nagha-hati ng rows base sa discrete values: PARTITION BY LIST (status).",,LIST partitioning
+Cloze,"Ang {{c1::HASH partitioning}} ay nagha-hati ng rows base sa hash function: PARTITION BY HASH (id).",,HASH partitioning
+Cloze,"Ang {{c1::partition pruning}} ay ang optimization kung saan tinatanggal ang irrelevant partitions sa query.",,partition pruning

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::replication}} ay ang proseso ng pag-copy ng data mula sa isang MySQL server papunta sa isa pa.",,replication
+Cloze,"Ang {{c1::master-slave replication}} ay ang setup kung saan ang master ay nagso-source, slave ay nagre-replicate.",,master-slave
+Cloze,"Ang {{c1::GTID}} o Global Transaction ID ay ang unique identifier para sa bawat transaction sa replication.",,GTID
+Cloze,"Ang {{c1::binlog}} sa master ay ang source ng data para sa slave replication.",,binlog
+Cloze,"Ang {{c1::read replica}} ay ang slave server na ginagamit para sa read-heavy operations.",,read replica
