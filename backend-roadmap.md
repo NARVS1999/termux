@@ -50,10 +50,10 @@
 
 ## Testing
 
-- **Phase 29** — Unit vs feature vs integration testing
-- **Phase 30** — PHPUnit/Pest, TestCase, RefreshDatabase, factories
-- **Phase 31** — Mocking, fake queues/mail/events, HTTP tests
-- **Phase 32** — Test-driven development, coverage reports, CI integration
+- [x] **Phase 29** — Unit vs feature vs integration testing
+- [x] **Phase 30** — PHPUnit/Pest, TestCase, RefreshDatabase, factories
+- [x] **Phase 31** — Mocking, fake queues/mail/events, HTTP tests
+- [x] **Phase 32** — Test-driven development, coverage reports, CI integration
 
 ## Architecture & Engineering Practices
 
