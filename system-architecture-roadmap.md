@@ -21,11 +21,11 @@
 
 ## System Design Principles
 
-- [ ] **Phase 12** — CAP theorem: consistency, availability, partition tolerance tradeoffs
-- [ ] **Phase 13** — Horizontal vs vertical scaling: when to scale out vs scale up
-- [ ] **Phase 14** — High availability: redundancy, failover, health checks
-- [ ] **Phase 15** — Fault tolerance: graceful degradation, bulkheads, circuit breakers
-- [ ] **Phase 16** — Idempotency: safe retries, deduplication, exactly-once semantics
+- [x] **Phase 12** — CAP theorem: consistency, availability, partition tolerance tradeoffs
+- [x] **Phase 13** — Horizontal vs vertical scaling: when to scale out vs scale up
+- [x] **Phase 14** — High availability: redundancy, failover, health checks
+- [x] **Phase 15** — Fault tolerance: graceful degradation, bulkheads, circuit breakers
+- [x] **Phase 16** — Idempotency: safe retries, deduplication, exactly-once semantics
 
 ## Data Architecture
 
