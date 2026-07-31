@@ -49,10 +49,10 @@
 
 ## State Management
 
-- [ ] **Phase 28** — Local vs global state, when to lift state, prop drilling solutions
-- [ ] **Phase 29** — Context API: providers, consumers, performance implications
-- [ ] **Phase 30** — useReducer: action dispatching, middleware patterns, testing
-- [ ] **Phase 31** — External libraries: Zustand, Redux Toolkit, Jotai (when & why)
+- [x] **Phase 28** — Local vs global state, when to lift state, prop drilling solutions
+- [x] **Phase 29** — Context API: providers, consumers, performance implications
+- [x] **Phase 30** — useReducer: action dispatching, middleware patterns, testing
+- [x] **Phase 31** — External libraries: Zustand, Redux Toolkit, Jotai (when & why)
 
 ## Data Fetching & APIs
 
