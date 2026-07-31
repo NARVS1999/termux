@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang Hexagonal Architecture?",,"ang pattern na naghihiwalay ng core logic (ports) mula sa external world (adapters) — pluggable infrastructure"
+Application,"Ano ang port?",,"ang interface na nagde-define ng core's needs: UserRepository port, NotificationService port"
+Application,"Ano ang adapter?",,"ang implementation ng port: MySQL adapter para sa UserRepository, SendGrid adapter para sa NotificationService"
+Application,"Paano mag-switch ng database?",,"i-change lang ang adapter — i-apply ang bagong implementation sa port, walang babaguhin sa core"
+Application,"Ano ang benefit ng Hexagonal?",,"madaling mag-test (in-memory adapter), mag-switch ng infrastructure, at i-isolate ang business logic"

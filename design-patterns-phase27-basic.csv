@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang MVC?",,"ang pattern na naghihiwalay ng Model (data), View (UI), Controller (logic) — pinaka-common na architecture"
+Application,"Paano nagko-communicate ang MVC layers?",,"User → Controller → Model → View — ang controller ang nagpo-process ng input, model ang nagse-set ng data"
+Application,"Ano ang pagkakaiba ng MVC at MVP?",,"MVC: model at view ay connected. MVP: presenter ang middleman — mas testable."
+Application,"Paano i-test ang MVC?",,"i-test ang model layer, i-mock ang view at controller — ang model ay dapat independent"
+Application,"Ano ang fat model vs fat controller?",,"fat model: business logic sa model. fat controller: logic sa controller. Piliin ang appropriate."

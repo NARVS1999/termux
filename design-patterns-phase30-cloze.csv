@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Clean Architecture}} ay ang architectural pattern na naglalagay ng business logic sa gitna.",,Clean Architecture
+Cloze,"Ang {{c1::dependency rule}} sa Clean Architecture ay nagsasabing dependencies ay dapat pumasok lang sa loob.",,dependency rule
+Cloze,"Ang {{c1::entities}} ay ang business objects na nasa pinaka-loob na layer.",,entities
+Cloze,"Ang {{c1::use cases}} ay ang application-specific na business rules.",,use cases
+Cloze,"Ang {{c1::interface adapters}} ay ang layer na nagco-convert ng data sa tamang format.",,interface adapters
+Cloze,"Ang {{c1::frameworks & drivers}} ay ang outermost layer: UI, database, external services.",,frameworks & drivers

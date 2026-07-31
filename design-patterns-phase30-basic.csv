@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang Clean Architecture?",,"ang pattern na naglalagay ng business logic sa gitna — ang outer layers ay depend sa inner layers, hindi vice versa"
+Application,"Ano ang dependency rule?",,"ang dependencies ay dapat pumasok lang sa loob — ang inner layers ay hindi nagde-depend sa outer layers"
+Application,"Ano ang layers ng Clean Architecture?",,"entities → use cases → interface adapters → frameworks & drivers (mula sa loob pababa)"
+Application,"Paano i-apply ang Clean Architecture?",,"i-separate ang business logic mula sa frameworks, i-inject ang dependencies, i-test nang independiente"
+Application,"Ano ang benefit ng Clean Architecture?",,"madaling magpalit ng UI, database, o external services — ang business logic ay hindi naapektuhan"
