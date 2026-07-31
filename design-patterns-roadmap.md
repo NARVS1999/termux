@@ -57,11 +57,11 @@
 
 ## Enterprise Patterns
 
-- [ ] **Phase 36** — Repository: data access abstraction, separation from business logic
-- [ ] **Phase 37** — Unit of Work: transaction management, change tracking
-- [ ] **Phase 38** — Specification: business rules composition, query building
-- [ ] **Phase 39** — Identity Map: object caching, avoiding duplicate instances
-- [ ] **Phase 40** — Data Transfer Object: data transport, serialization boundaries
+- [x] **Phase 36** — Repository: data access abstraction, separation from business logic
+- [x] **Phase 37** — Unit of Work: transaction management, change tracking
+- [x] **Phase 38** — Specification: business rules composition, query building
+- [x] **Phase 39** — Identity Map: object caching, avoiding duplicate instances
+- [x] **Phase 40** — Data Transfer Object: data transport, serialization boundaries
 
 ## Anti-Patterns & Refactoring
 
