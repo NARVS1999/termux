@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::table}} ay ang collection ng rows at columns sa relational database na naglalaman ng related data.",,table
+Cloze,"Ang {{c1::row}} o record ay ang isang entry sa table na naglalaman ng values para sa bawat column.",,row
+Cloze,"Ang {{c1::column}} o field ay ang vertical na structure sa table na nagde-define ng data type.",,column
+Cloze,"Ang {{c1::schema}} ay ang blueprint ng database na nagde-define ng tables, columns, at relationships.",,schema
+Cloze,"Ang {{c1::data integrity}} ay ang accuracy at consistency ng data sa buong database lifecycle.",,data integrity
+Cloze,"Ang {{c1::relational model}} ay ang data model na nag-o-organize ng data sa tables na may relationships.",,relational model
+Cloze,"Ang {{c1::primary key}} ay ang unique identifier ng bawat row sa table.",,primary key
+Cloze,"Ang {{c1::domain}} ay ang set ng allowed values para sa isang column (data type + constraints).",,domain

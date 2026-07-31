@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::INT}} data type ay para sa integer numbers: TINYINT, SMALLINT, MEDIUMINT, INT, BIGINT.",,INT
+Cloze,"Ang {{c1::VARCHAR}} ay ang variable-length string na may maximum na length: VARCHAR(255).",,VARCHAR
+Cloze,"Ang {{c1::TEXT}} data type ay para sa malalaking text values: TEXT, MEDIUMTEXT, LONGTEXT.",,TEXT
+Cloze,"Ang {{c1::DATE}} ay ang data type para sa date values: YYYY-MM-DD format.",,DATE
+Cloze,"Ang {{c1::TIMESTAMP}} ay ang data type na nagto-track ng date at time with timezone.",,TIMESTAMP
+Cloze,"Ang {{c1::BLOB}} ay para sa binary data: images, files, raw bytes.",,BLOB
+Cloze,"Ang {{c1::ENUM}} ay ang data type na naglalaman ng fixed list ng allowed values.",,ENUM
+Cloze,"Ang {{c1::DECIMAL}} ay ang exact numeric type para sa monetary values: DECIMAL(10,2).",,DECIMAL

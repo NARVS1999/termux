@@ -1,0 +1,8 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::comparison operators}} sa SQL ay =, !=, <>, <, >, <=, >= para sa pag-compare ng values.",,comparison operators
+Cloze,"Ang {{c1::logical operators}} ay AND, OR, NOT para sa pag-combine ng conditions.",,logical operators
+Cloze,"Ang {{c1::BETWEEN}} operator ay nagfi-filter ng values sa loob ng range: WHERE age BETWEEN 18 AND 30.",,BETWEEN
+Cloze,"Ang {{c1::IN}} operator ay nagche-check kung ang value ay nasa list: WHERE status IN ('active', 'pending').",,IN
+Cloze,"Ang {{c1::LIKE}} operator ay ginagamit para sa pattern matching: WHERE name LIKE '%john%'.",,LIKE
+Cloze,"Ang {{c1::IS NULL}} ay nagche-check ng null values: WHERE email IS NULL.",,IS NULL
+Cloze,"Ang {{c1::arithmetic operators}} ay +, -, *, /, % para sa mathematical operations sa queries.",,arithmetic operators

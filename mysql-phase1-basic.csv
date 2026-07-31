@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng table sa MySQL?",,"CREATE TABLE users (id INT PRIMARY KEY, name VARCHAR(100)); — gamitin ang CREATE TABLE statement"
+Application,"Paano mag-insert ng data sa table?",,"INSERT INTO users (id, name) VALUES (1, 'John'); — gamitin ang INSERT INTO"
+Application,"Paano mag-select ng data mula sa table?",,"SELECT * FROM users; — gamitin ang SELECT * para sa lahat ng columns"
+Application,"Paano mag-update ng record sa table?",,"UPDATE users SET name = 'Jane' WHERE id = 1; — gamitin ang UPDATE SET WHERE"
+Application,"Paano mag-delete ng record sa table?",,"DELETE FROM users WHERE id = 1; — gamitin ang DELETE FROM WHERE"

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::SELECT}} statement ay ginagamit para mag-query at mag-retrieve ng data mula sa database.",,SELECT
+Cloze,"Ang {{c1::INSERT INTO}} statement ay ginagamit para mag-add ng bagong rows sa table.",,INSERT INTO
+Cloze,"Ang {{c1::UPDATE}} statement ay ginagamit para i-modify ang existing rows sa table.",,UPDATE
+Cloze,"Ang {{c1::DELETE}} statement ay ginagamit para mag-remove ng rows mula sa table.",,DELETE
+Cloze,"Ang {{c1::WHERE}} clause ay ginagamit para mag-filter ng rows base sa condition.",,WHERE
+Cloze,"Ang {{c1::SELECT *}} ay nagse-select ng lahat ng columns mula sa table.",,SELECT *
+Cloze,"Ang {{c1::ORDER BY}} clause ay nagso-sort ng results base sa column.",,ORDER BY
+Cloze,"Ang {{c1::LIMIT}} clause ay nag-i-limit sa bilang ng returned rows.",,LIMIT
+Cloze,"Ang {{c1::AS}} keyword ay ginagamit para mag-assign ng alias sa column o table.",,AS

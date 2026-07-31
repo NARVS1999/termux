@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-select ng specific columns?",,"SELECT name, email FROM users; — huwag gumamit ng *, piliin ang columns"
+Application,"Paano mag-filter ng results gamit ang WHERE?",,"SELECT * FROM users WHERE age > 18; — i-add ang WHERE clause"
+Application,"Paano mag-sort ng results?",,"SELECT * FROM users ORDER BY name ASC; — ASC para ascending, DESC para descending"
+Application,"Paano mag-limit ng results?",,"SELECT * FROM users LIMIT 10; — magre-return lang ng 10 rows"
+Application,"Paano mag-rename ng column sa results?",,"SELECT name AS full_name FROM users; — gamitin ang AS keyword para sa alias"
