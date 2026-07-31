@@ -30,15 +30,15 @@
 
 ## Behavioral Patterns
 
-- [ ] **Phase 18** — Observer: publish-subscribe, event systems, decoupled notifications
-- [ ] **Phase 19** — Strategy: interchangeable algorithms, runtime behavior selection
-- [ ] **Phase 20** — Command: encapsulating requests, undo/redo, queue operations
-- [ ] **Phase 21** — Template Method: defining algorithm skeleton, hook methods
-- [ ] **Phase 22** — Iterator: traversing collections, external vs internal iteration
-- [ ] **Phase 23** — State: state machines, transitions, context objects
-- [ ] **Phase 24** — Chain of Responsibility: passing requests, middleware pipelines
-- [ ] **Phase 25** — Mediator: centralizing complex communications, chat rooms
-- [ ] **Phase 26** — Visitor: adding operations to object structures, double dispatch
+- [x] **Phase 18** — Observer: publish-subscribe, event systems, decoupled notifications
+- [x] **Phase 19** — Strategy: interchangeable algorithms, runtime behavior selection
+- [x] **Phase 20** — Command: encapsulating requests, undo/redo, queue operations
+- [x] **Phase 21** — Template Method: defining algorithm skeleton, hook methods
+- [x] **Phase 22** — Iterator: traversing collections, external vs internal iteration
+- [x] **Phase 23** — State: state machines, transitions, context objects
+- [x] **Phase 24** — Chain of Responsibility: passing requests, middleware pipelines
+- [x] **Phase 25** — Mediator: centralizing complex communications, chat rooms
+- [x] **Phase 26** — Visitor: adding operations to object structures, double dispatch
 
 ## Architectural Patterns
 
