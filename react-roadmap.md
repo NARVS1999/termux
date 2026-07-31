@@ -30,9 +30,9 @@
 
 ## Styling & UI
 
-- [ ] **Phase 18** — CSS Modules: scoped styles, composition, TypeScript support
-- [ ] **Phase 19** — CSS-in-JS: styled-components, dynamic styles, theming
-- [ ] **Phase 20** — Tailwind CSS: utility-first, responsive design, dark mode, custom config
+- [x] **Phase 18** — CSS Modules: scoped styles, composition, TypeScript support
+- [x] **Phase 19** — CSS-in-JS: styled-components, dynamic styles, theming
+- [x] **Phase 20** — Tailwind CSS: utility-first, responsive design, dark mode, custom config
 
 ## Routing
 
