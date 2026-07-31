@@ -11,10 +11,10 @@
 
 ## Table Design & Constraints
 
-- [ ] **Phase 5** — CREATE TABLE: column definitions, NOT NULL, DEFAULT, AUTO_INCREMENT
-- [ ] **Phase 6** — Primary keys: single-column, composite, surrogate vs natural keys
-- [ ] **Phase 7** — Foreign keys: REFERENCES, ON DELETE CASCADE/SET NULL, ON UPDATE
-- [ ] **Phase 8** — UNIQUE, CHECK constraints, indexes basics, data validation at DB level
+- [x] **Phase 5** — CREATE TABLE: column definitions, NOT NULL, DEFAULT, AUTO_INCREMENT
+- [x] **Phase 6** — Primary keys: single-column, composite, surrogate vs natural keys
+- [x] **Phase 7** — Foreign keys: REFERENCES, ON DELETE CASCADE/SET NULL, ON UPDATE
+- [x] **Phase 8** — UNIQUE, CHECK constraints, indexes basics, data validation at DB level
 
 ## Normalization & Design Principles
 
