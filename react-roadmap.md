@@ -69,9 +69,9 @@
 
 ## Testing
 
-- [ ] **Phase 39** — Jest: setup, configuration, mocking modules, snapshots
-- [ ] **Phase 40** — React Testing Library: render, screen, fireEvent, userEvent, waitFor
-- [ ] **Phase 41** — Testing patterns: unit vs integration, MSW for API mocking
+- [x] **Phase 39** — Jest: setup, configuration, mocking modules, snapshots
+- [x] **Phase 40** — React Testing Library: render, screen, fireEvent, userEvent, waitFor
+- [x] **Phase 41** — Testing patterns: unit vs integration, MSW for API mocking
 
 ## Advanced Patterns & Modern React
 
