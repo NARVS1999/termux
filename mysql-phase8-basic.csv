@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-add ng UNIQUE constraint?",,"CREATE TABLE users (email VARCHAR(255) UNIQUE); — gamitin ang UNIQUE keyword sa column"
+Application,"Paano gumawa ng CHECK constraint?",,"CREATE TABLE products (price DECIMAL CHECK (price > 0)); — i-validate ang value range"
+Application,"Paano mag-create ng index sa column?",,"CREATE INDEX idx_email ON users(email); — magpapabilis ng search sa email column"
+Application,"Paano i-check ang constraints ng table?",,"SHOW CREATE TABLE tablename; — ipapakita ang lahat ng constraints at definitions"
+Application,"Paano mag-combine ng multiple constraints?",,"CREATE TABLE users (email VARCHAR UNIQUE NOT NULL, age INT CHECK (age > 0)); — i-stack ang constraints"

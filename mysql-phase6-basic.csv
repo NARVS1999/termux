@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-set ng primary key sa table?",,"CREATE TABLE users (id INT PRIMARY KEY, name VARCHAR(100)); — i-add ang PRIMARY KEY sa column"
+Application,"Paano gumawa ng composite primary key?",,"CREATE TABLE enrollments (student_id INT, course_id INT, PRIMARY KEY (student_id, course_id));"
+Application,"Kailan gumamit ng surrogate key vs natural key?",,"surrogate: auto-increment ID. natural: email, SSN. Surrogate ay mas stable para sa foreign keys."
+Application,"Paano mag-add ng primary key sa existing table?",,"ALTER TABLE users ADD PRIMARY KEY (id); — gamitin ang ALTER TABLE para mag-add"
+Application,"Bakit hindi gumamit ng email bilang primary key?",,"maaaring magbago ang email, mas mabagal ang string comparison, mas malaki ang storage"

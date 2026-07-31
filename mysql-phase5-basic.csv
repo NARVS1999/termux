@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng table na may NOT NULL?",,"CREATE TABLE users (id INT NOT NULL, name VARCHAR(100) NOT NULL); — i-add ang NOT NULL sa column"
+Application,"Paano mag-set ng default value sa column?",,"CREATE TABLE users (status VARCHAR(20) DEFAULT 'active'); — gamitin ang DEFAULT keyword"
+Application,"Paano gumamit ng AUTO_INCREMENT?",,"CREATE TABLE users (id INT AUTO_INCREMENT PRIMARY KEY); — awtomatikong mag-increment ang id"
+Application,"Paano mag-create ng table na may IF NOT EXISTS?",,"CREATE TABLE IF NOT EXISTS users (...); — hindi mag-e-error kung existed na ang table"
+Application,"Paano mag-add ng multiple columns sa CREATE TABLE?",,"CREATE TABLE users (id INT, name VARCHAR(100), email VARCHAR(255)); — i-separate gamit ang comma"

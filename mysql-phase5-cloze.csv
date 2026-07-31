@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::CREATE TABLE}} statement ay ginagamit para mag-create ng bagong table sa database.",,CREATE TABLE
+Cloze,"Ang {{c1::NOT NULL}} constraint ay nag-i-sure na ang column ay hindi pwedeng magkaroon ng NULL value.",,NOT NULL
+Cloze,"Ang {{c1::DEFAULT}} constraint ay nagbibigay ng default value kapag hindi nag-specify ng value.",,DEFAULT
+Cloze,"Ang {{c1::AUTO_INCREMENT}} ay nag-a-automate ng pag-generate ng unique number para sa bawat bagong row.",,AUTO_INCREMENT
+Cloze,"Ang {{c1::column definition}} ay ang pagde-define ng name, data type, at constraints ng column.",,column definition
+Cloze,"Ang {{c1::IF NOT EXISTS}} clause ay nagpe-prevent ng error kapag ang table ay existed na.",,IF NOT EXISTS
