@@ -29,12 +29,12 @@
 
 ## Data Architecture
 
-- [ ] **Phase 17** — SQL vs NoSQL: relational, document, key-value, graph, time-series
-- [ ] **Phase 18** — Database replication: master-slave, master-master, leader election
-- [ ] **Phase 19** — Sharding strategies: hash-based, range-based, geo-based
-- [ ] **Phase 20** — Caching: Redis, Memcached, cache-aside, write-through, write-behind
-- [ ] **Phase 21** — Message queues: RabbitMQ, Kafka, SQS, publish-subscribe vs point-to-point
-- [ ] **Phase 22** — Data consistency: eventual consistency, strong consistency, Saga pattern
+- [x] **Phase 17** — SQL vs NoSQL: relational, document, key-value, graph, time-series
+- [x] **Phase 18** — Database replication: master-slave, master-master, leader election
+- [x] **Phase 19** — Sharding strategies: hash-based, range-based, geo-based
+- [x] **Phase 20** — Caching: Redis, Memcached, cache-aside, write-through, write-behind
+- [x] **Phase 21** — Message queues: RabbitMQ, Kafka, SQS, publish-subscribe vs point-to-point
+- [x] **Phase 22** — Data consistency: eventual consistency, strong consistency, Saga pattern
 
 ## Infrastructure & Networking
 
