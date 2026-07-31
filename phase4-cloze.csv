@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::type hinting}} ay ang pagde-declare ng expected type ng parameter o return value ng function.",,type hinting
+Cloze,"Ang {{c1::declare(strict_types=1)}} ay nag-e-enforce ng strict type checking sa function calls.",,declare(strict_types=1)
+Cloze,"Ang {{c1::try/catch}} ay ginagamit para i-handle ang exceptions nang hindi nag-crash ang application.",,try/catch
+Cloze,"Ang {{c1::throw}} keyword ay ginagamit para mag-raise ng exception nang manu-mano.",,throw
+Cloze,"Ang pag-create ng {{c1::custom exception}} ay ginagawa sa pamamagitan ng pag-extend sa Exception class.",,custom exception
+Cloze,"Ang {{c1::PHPStan}} ay static analysis tool na nagde-detect ng type errors bago pa man i-run ang code.",,PHPStan
+Cloze,"Ang {{c1::PHPCS}} (PHP_CodeSniffer) ay nagche-check kung ang code ay sumusunod sa coding standards.",,PHPCS
+Cloze,"Ang {{c1::return type}} ay nag-specify ng expected type ng value na ibinabalik ng function.",,return type

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-break ng class na maraming responsibilities?",,"Gamitin ang SRP: hatiin sa magkakahiwalay na classes, bawat isa may isang responsibility."
+Application,"Paano mag-inject ng dependency sa constructor ng isang Laravel class?",,"public function __construct(private UserRepository $users) {}"
+Application,"Paano mag-extend ng behavior nang hindi binabago ang existing code?",,"Gumamit ng interface + strategy classes, pwedeng magdagdag ng bago nang hindi ginagalaw ang luma (OCP)."
+Application,"Paano mag-reuse ng behavior nang walang inheritance?",,"Gumamit ng composition: i-inject ang object at i-delegate dito ang task."
+Application,"Paano mag-depende sa abstraction imbes na concrete class?",,"Mag-type-hint ng interface: public function send(NotifierInterface $notifier) {}"

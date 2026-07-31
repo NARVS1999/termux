@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Composer}} ay ang dependency manager ng PHP.",,Composer
+Cloze,"Ang {{c1::PSR-4}} autoloading ay nagma-map ng namespace sa directory para awtomatikong ma-load ang classes.",,PSR-4
+Cloze,"Ang {{c1::composer.json}} ay ang configuration file na naglalaman ng dependencies at autoload rules.",,composer.json
+Cloze,"Ang {{c1::composer.lock}} ay nagla-lock ng exact versions para consistent ang install sa lahat ng environment.",,composer.lock
+Cloze,"Ang {{c1::^}} caret operator sa semantic versioning ay nagpapahintulot ng minor at patch updates pero hindi ng major.",,^
+Cloze,"Ang {{c1::~}} tilde operator ay nagpapahintulot lang ng patch updates.",,~
+Cloze,"Ang {{c1::Packagist}} ay ang default package repository ng Composer.",,Packagist
+Cloze,"Ang {{c1::vendor}} directory ay kung saan naka-install ang lahat ng dependencies.",,vendor
+Cloze,"Ang {{c1::composer dump-autoload}} ay nagre-rebuild ng autoloader files pagkatapos magdagdag ng bagong classes.",,composer dump-autoload

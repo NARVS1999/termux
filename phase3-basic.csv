@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-abstract ng data access para hindi direktang gumamit ng Eloquent sa controller?",,"Gumamit ng Repository pattern: UserRepositoryInterface na may Eloquent implementation."
+Application,"Paano gumawa ng objects na may varying logic nang hindi tinutukoy ang concrete class sa client?",,"Gamitin ang Factory pattern: PaymentGatewayFactory::make($provider)"
+Application,"Paano magpalit ng algorithm sa runtime (e.g. tax calculation)?",,"Gamitin ang Strategy pattern: $calculator->setStrategy(new VatStrategy())"
+Application,"Paano mag-notify ng maraming listeners kapag may nagbago (e.g. bagong order)?",,"Gumamit ng Observer pattern (Laravel events at listeners)."
+Application,"Paano gumamit ng third-party library na may ibang interface?",,"Gumawa ng Adapter class na nag-wrap sa library para i-convert ang interface."

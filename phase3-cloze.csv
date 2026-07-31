@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Repository}} pattern ay ginagamit para i-abstract ang data access layer mula sa business logic.",,Repository
+Cloze,"Ang {{c1::Factory}} pattern ay ginagamit para gumawa ng objects nang hindi tinutukoy ang concrete class sa client.",,Factory
+Cloze,"Ang {{c1::Strategy}} pattern ay nagpapahintulot na magpalit ng algorithm sa runtime.",,Strategy
+Cloze,"Ang {{c1::Observer}} pattern ay nagme-notify ng maraming objects kapag nagbago ang state ng isang subject.",,Observer
+Cloze,"Ang {{c1::Adapter}} pattern ay nagpapagana ng dalawang magkaibang interfaces na magtrabaho nang magkasama.",,Adapter
+Cloze,"Ang {{c1::Facade}} pattern ay nagbibigay ng simplified interface sa isang complex subsystem.",,Facade

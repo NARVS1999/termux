@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-install ng package (e.g. laravel/sanctum)?",,"composer require laravel/sanctum"
+Application,"Paano i-autoload ang sariling classes na nasa App/ namespace?",,"I-define ang PSR-4 mapping sa composer.json (App/ => app/)."
+Application,"Paano i-ensure na pareho ang version ng dependencies sa lahat ng machine?",,"I-commit ang composer.lock at gumamit ng composer install."
+Application,"Paano mag-update ng isang package lang?",,"composer update laravel/sanctum"
+Application,"Paano mag-specify na ang package na 1.x lang ang tatanggapin?",,"Gamitin ang caret: ""laravel/sanctum"": ""^1.0"""

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-ensure na ang function ay tatanggap lang ng integer at magre-return ng integer?",,"Mag-type hint: function calc(int $n): int"
+Application,"Paano mag-handle ng error nang hindi nag-crash ang application?",,"I-wrap sa try/catch ang code na pwedeng mag-throw ng exception."
+Application,"Paano gumawa ng sariling error type para sa specific na scenario (e.g. insufficient balance)?",,"Mag-create ng custom exception class na nag-extend sa Exception."
+Application,"Paano mag-check kung may type errors ang buong codebase?",,"Patakbuhin ang vendor/bin/phpstan analyse"
+Application,"Paano mag-enforce ng PSR-12 coding standards sa code?",,"Gamitin ang phpcs command ng PHP_CodeSniffer."

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-define ng enum na may status values (e.g. active, inactive)?",,"enum Status: string { case Active = 'active'; case Inactive = 'inactive'; }"
+Application,"Paano gumawa ng property na hindi na pwedeng baguhin pagkatapos i-instantiate?",,"public readonly string $name;"
+Application,"Paano mag-call ng function nang hindi sinusunod ang parameter order?",,"greet(name: 'Juan', greeting: 'Hello'); — gamitin ang named arguments."
+Application,"Paano mag-return ng value mula sa conditional nang walang switch/if-else?",,"Gamitin ang match: match($status) { 'a' => 'Active', default => 'Unknown' };"
+Application,"Paano i-access ang $user->profile->name nang hindi mag-fatal kung null ang profile?",,"Gamitin ang nullsafe: $user->profile?->name"

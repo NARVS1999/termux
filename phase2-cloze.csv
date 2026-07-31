@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::SOLID}} ay acronym para sa limang object-oriented design principles.",,SOLID
+Cloze,"Ang {{c1::Single Responsibility}} principle ay nagsasabi na ang isang class ay dapat magkaroon ng isang dahilan lang para magbago.",,Single Responsibility
+Cloze,"Ang {{c1::Open/Closed}} principle ay nagsasabi na ang code ay open for extension pero closed for modification.",,Open/Closed
+Cloze,"Ang {{c1::Liskov Substitution}} principle ay nagsasabi na ang subclass ay dapat mapalitan ang parent nito nang walang sisirain.",,Liskov Substitution
+Cloze,"Ang {{c1::Interface Segregation}} principle ay nagsasabi na huwag pilitin ang client na i-depende sa interface na hindi nila ginagamit.",,Interface Segregation
+Cloze,"Ang {{c1::Dependency Inversion}} principle ay nagsasabi na mag-depende sa abstractions, hindi sa concretions.",,Dependency Inversion
+Cloze,"Ang {{c1::composition over inheritance}} ay ang paggamit ng object instances sa halip na mag-extend ng class para mag-reuse ng behavior.",,composition over inheritance
+Cloze,"Ang {{c1::dependency injection}} ay ang process ng pagbibigay ng dependencies sa isang class mula sa labas, hindi nililikha sa loob.",,dependency injection
+Cloze,"Ang {{c1::abstraction}} ay ang pagtatago ng implementation details at pagpapakita lang ng essential interface.",,abstraction
