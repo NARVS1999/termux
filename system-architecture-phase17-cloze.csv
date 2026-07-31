@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::SQL databases}} ay relational databases na gumagamit ng structured schema at ACID transactions.",,SQL databases
+Cloze,"Ang {{c1::NoSQL databases}} ay non-relational databases na nagbibigay ng flexibility sa schema at scaling.",,NoSQL databases
+Cloze,"Ang {{c1::document database}} (MongoDB) ay nagse-store ng JSON-like documents.",,document database
+Cloze,"Ang {{c1::key-value store}} (Redis) ay ang pinaka-simple na data model: key at value.",,key-value store
+Cloze,"Ang {{c1::graph database}} (Neo4j) ay ginagamit para sa highly connected data: social networks.",,graph database
+Cloze,"Ang {{c1::time-series database}} (InfluxDB) ay optimized para sa time-stamped data.",,time-series database

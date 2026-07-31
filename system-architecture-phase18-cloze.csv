@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::database replication}} ay ang proseso ng pag-copy ng data sa maraming database servers.",,database replication
+Cloze,"Ang {{c1::master-slave replication}} ay ang setup kung saan ang master ay nagso-source, slaves ang nagre-replicate.",,master-slave replication
+Cloze,"Ang {{c1::master-master replication}} ay ang setup kung saan parehong servers ay may write access.",,master-master replication
+Cloze,"Ang {{c1::leader election}} ay ang proseso ng pag-pick ng bagong master kapag nag-fail ang current.",,leader election
+Cloze,"Ang {{c1::read replica}} ay ang slave server na ginagamit para sa read-heavy operations.",,read replica

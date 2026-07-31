@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::message queue}} ay ang system na nagse-store ng messages habang naghihintay ng consumer.",,message queue
+Cloze,"Ang {{c1::RabbitMQ}} ay ang traditional message broker na gumagamit ng AMQP protocol.",,RabbitMQ
+Cloze,"Ang {{c1::Apache Kafka}} ay ang distributed event streaming platform para sa high throughput.",,Apache Kafka
+Cloze,"Ang {{c1::point-to-point}} ay ang messaging pattern kung saan ang message ay pupunta sa iisang consumer.",,point-to-point
+Cloze,"Ang {{c1::publish-subscribe}} ay ang pattern kung saan ang message ay para sa lahat ng subscribers.",,publish-subscribe

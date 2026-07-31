@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Kailan gumamit ng RabbitMQ?",,"kapag kailangan ng traditional messaging: task queues, routing, priority — reliable delivery"
+Application,"Kailan gumamit ng Kafka?",,"kapag kailangan ng high throughput event streaming, log aggregation, real-time data pipelines"
+Application,"Ano ang pagkakaiba ng point-to-point at pub-sub?",,"point-to-point: isang consumer. pub-sub: maraming subscribers. Piliin dependi sa use case."
+Application,"Ano ang message acknowledgment?",,"ang consumer ay nag-confirm kapag na-process na ang message — para sa reliable delivery"
+Application,"Paano mag-handle ng failed messages?",,"gamitin ang dead letter queue — ang failed messages ay pupunta dito para sa manual processing"

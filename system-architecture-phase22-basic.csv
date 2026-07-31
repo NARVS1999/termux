@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang eventual consistency?",,"ang data ay magiging consistent sa lahat ng nodes pagkatapos ng time — hindi agaran pero eventually"
+Application,"Kailan gumamit ng strong consistency?",,"kapag critical ang data correctness: banking, inventory — every read must be latest"
+Application,"Ano ang Saga pattern?",,"ang pag-split ng distributed transaction sa local transactions na may compensating actions"
+Application,"Ano ang 2PC?",,"ang prepare phase: sabihin sa lahat mag-prepare. commit phase: sabihin lahat mag-commit o mag-rollback."
+Application,"Paano pumili ng consistency model?",,"tanungin: gaano kahalaga ang data correctness? gaano kabilis ang traffic? — base sa use case"

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Kailan gumamit ng SQL?",,"kapag kailangan ng ACID transactions, complex queries, joins, at structured data"
+Application,"Kailan gumamit ng NoSQL?",,"kapag kailangan ng horizontal scaling, flexible schema, high write throughput"
+Application,"Ano ang document database?",,"ang data ay naka-store bilang documents (JSON): MongoDB, CouchDB — flexible schema"
+Application,"Ano ang graph database?",,"ang data ay naka-store bilang nodes at edges: Neo4j — ideal para sa relationships"
+Application,"Paano pumili ng database?",,"tanungin: ano ang data model? gaano kalaki? ano ang consistency needs? ano ang access patterns?"

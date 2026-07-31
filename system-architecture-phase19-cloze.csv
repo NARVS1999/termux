@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::sharding}} ay ang proseso ng pag-hati ng database sa maraming servers.",,sharding
+Cloze,"Ang {{c1::hash-based sharding}} ay nag-ha-hash ng shard key para i-distribute ang data evenly.",,hash-based sharding
+Cloze,"Ang {{c1::range-based sharding}} ay nag-ha-hati ng data ayon sa value ranges.",,range-based sharding
+Cloze,"Ang {{c1::geo-based sharding}} ay nag-ha-hati ng data ayon sa geographic location.",,geo-based sharding
+Cloze,"Ang {{c1::shard key}} ay ang column na ginagamit para i-determine kung aling shard ang may data.",,shard key
