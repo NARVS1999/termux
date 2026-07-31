@@ -1,0 +1,5 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::pattern overhead}} ay ang performance cost ng paggamit ng design pattern.",,pattern overhead
+Cloze,"Ang {{c1::premature optimization}} ay ang pag-optimize bago pa magkaroon ng performance problem.",,premature optimization
+Cloze,"Ang {{c1::profiling}} ay ang proseso ng pag-measure ng actual performance bago mag-optimize.",,profiling
+Cloze,"Ang {{c1::abstraction cost}} — ang bawat layer ng abstraction ay may konting overhead.",,abstraction cost

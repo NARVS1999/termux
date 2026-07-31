@@ -1,0 +1,5 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::pattern combination}} ay ang paggamit ng maraming patterns na magkasama para sa mas malaking solusyon.",,pattern combination
+Cloze,"Ang {{c1::pattern synergy}} — ang ilang patterns ay mas maganda kapag pinagsama: Factory + Strategy.",,pattern synergy
+Cloze,"Ang {{c1::pattern conflict}} — ang ilang patterns ay hindi magkasundo: Observer + Mediator redundancy.",,pattern conflict
+Cloze,"Ang {{c1::composite pattern}} ay ang paggamit ng maraming patterns para sa isang feature.",,composite pattern

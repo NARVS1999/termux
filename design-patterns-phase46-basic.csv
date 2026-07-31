@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"May performance cost ba ang design patterns?",,"may konting overhead pero ang benefit sa maintainability at testability ay mas malaki kaysa sa cost"
+Application,"Kailan mag-optimize?",,"kapag may totoong performance problem na na-profile — hindi bago pa may problem"
+Application,"Paano i-profile ang pattern overhead?",,"gumamit ng profiler: Xdebug, Blackfire, JMH — i-measure ang actual execution time"
+Application,"Ano ang premature optimization?",,"ang pag-optimize ng hindi pa napi-profile na code — maaaring mag-add ng unnecessary complexity"
+Application,"Paano mag-balance ng patterns at performance?",,"piliin ang patterns na may malinaw na benefit, i-profile kapag may doubt, i-simplify kung kailangan"

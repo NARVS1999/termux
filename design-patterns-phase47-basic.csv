@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang patterns sa Laravel?",,"Repository (data access), Factory (testing), Observer (events), Service Container (DI), Strategy (multiple drivers)"
+Application,"Ano ang patterns sa React?",,"Hooks (state management), Compound Components (flexible API), Container/Presentational (separation of concerns)"
+Application,"Paano matuto mula sa production code?",,"i-review ang existing code, hanapin ang patterns na ginagamit, intindihin kung bakit sila pinili"
+Application,"Paano mag-apply ng patterns sa new project?",,"magsimula sa simple, i-add ang patterns kapag kailangan — huwag mag-over-engineer agad"
+Application,"Ano ang best practice para sa patterns?",,"intindihin muna ang problema, piliin ang tamang pattern, i-test, i-simplify — huwag mag-pattern for pattern's sake"
