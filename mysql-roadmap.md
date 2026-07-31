@@ -70,10 +70,10 @@
 
 ## Performance Tuning & Scaling
 
-- [ ] **Phase 40** — MySQL config tuning: innodb_buffer_pool_size, query_cache, thread_cache
-- [ ] **Phase 41** — InnoDB deep-dive: buffer pool, redo log, undo log, doublewrite buffer
-- [ ] **Phase 42** — Connection pooling: thread per connection, pool sizes, connection limits
-- [ ] **Phase 43** — Scaling strategies: read replicas, sharding, connection multiplexing
+- [x] **Phase 40** — MySQL config tuning: innodb_buffer_pool_size, query_cache, thread_cache
+- [x] **Phase 41** — InnoDB deep-dive: buffer pool, redo log, undo log, doublewrite buffer
+- [x] **Phase 42** — Connection pooling: thread per connection, pool sizes, connection limits
+- [x] **Phase 43** — Scaling strategies: read replicas, sharding, connection multiplexing
 
 ## Real-World Design Patterns
 
