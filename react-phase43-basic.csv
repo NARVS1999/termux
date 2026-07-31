@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng compound component pattern?",,"Gumawa ng parent component na nag-provide ng Context, at child components na nag-co-consume ng shared state"
+Application,"Paano mag-set up ng shared context sa compound components?",,"const ToggleContext = createContext(); function Toggle({ children }) { const [on, setOn] = useState(false); return <ToggleContext.Provider value={{on, setOn}}>{children}</ToggleContext.Provider> }"
+Application,"Paano gamitin ang compound component?",,"<Toggle><Toggle.On /><Toggle.Button /></Toggle> — ang user ay nagko-compose ng components"
+Application,"Kailan gumamit ng compound components pattern?",,"kapag may maraming related components na nangangailangan ng shared state at flexible na API"
+Application,"Paano i-improve ang API ng compound components?",,"i-auto-assign ang child components gamit ang Object.assign sa parent: Toggle.On = OnComponent; Toggle.Button = ButtonComponent;"

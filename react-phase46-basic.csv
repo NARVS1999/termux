@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gamitin ang Suspense sa React?",,"<Suspense fallback={<Loading />}><LazyComponent /></Suspense> — i-wrap ang component na naglo-load"
+Application,"Paano i-optimize ang search input gamit ang useDeferredValue?",,"const deferredQuery = useDeferredValue(query); — ang actual rendering ay nagde-defer habang nagta-type"
+Application,"Paano i-mark ang update bilang transition?",,"startTransition(() => { setResults(computeResults(query)); }); — gawing non-urgent ang expensive update"
+Application,"Paano i-combine ang Suspense at transitions?",,"gamitin ang useTransition para i-control ang Suspense: const [isPending, startTransition] = useTransition();"
+Application,"Kailan gumamit ng useDeferredValue vs useMemo?",,"useDeferredValue: habang nagta-type. useMemo: pagkatapos mag-compute. I-differentiate ang timing."

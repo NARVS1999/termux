@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::feature-based structure}} ay ang folder layout na hinahati ang code ayon sa features, hindi sa technical type.",,feature-based structure
+Cloze,"Ang {{c1::barrel export}} ay ang index.js file na nagre-export ng lahat ng exports mula sa isang directory.",,barrel export
+Cloze,"Ang {{c1::monorepo}} ay ang repository na naglalaman ng maraming related packages o apps.",,monorepo
+Cloze,"Ang {{c1::folder structure}} sa React ay karaniwang: components/, features/, hooks/, utils/, services/, pages/.",,folder structure
+Cloze,"Ang {{c1::co-location}} ay ang principle ng paglalagay ng related files malapit sa isa't isa.",,co-location

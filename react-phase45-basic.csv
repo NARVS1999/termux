@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng server component?",,"Huwag mag-add ng 'use client' directive — default na server component sa Next.js App Router"
+Application,"Paano mag-create ng client component?",,"'use client'; sa pinaka-taas ng file — nagre-render sa browser, pwedeng gumamit ng hooks"
+Application,"Paano mag-fetch ng data sa server component?",,"async function Page() { const data = await fetch(url).then(r => r.json()); return <div>{data.title}</div>; }"
+Application,"Paano mag-pass ng functions mula sa server papunta sa client?",,"Hindi pwede — i-pass lang ang serializable data. Gumawa ng client-side handler para sa functions."
+Application,"Kailan gumamit ng server vs client component?",,"server: data fetching, static content. client: interactivity, hooks, browser APIs."

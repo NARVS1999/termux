@@ -1,0 +1,5 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::compound components}} ay isang pattern kung saan ang maraming related components ay nagsha-share ng implicit state.",,compound components
+Cloze,"Ang {{c1::shared context}} sa compound components ay ang mechanism ng pagbabahagi ng state sa pagitan ng parent at children.",,shared context
+Cloze,"Ang {{c1::flexible API}} ng compound components ay ang ability ng user na i-combine ang components sa iba't ibang paraan.",,flexible API
+Cloze,"Ang {{c1::parent-child relationship}} sa compound components ay ang pattern ng pag-control ng children behavior ng parent.",,parent-child relationship

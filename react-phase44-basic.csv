@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumamit ng render props pattern?",,"<Mouse>{(mousePos) => <Crosshair x={mousePos.x} y={mousePos.y} />}</Mouse> — i-pass ang function bilang children"
+Application,"Paano i-convert ang render props papunta sa hook?",,"i-extract ang logic mula sa render props component at ilagay sa custom hook: function useMouse() {...}"
+Application,"Kailan pa rin gamitin ang render props?",,"kapag ang component ay nagbibigay ng UI at logic nang sabay-sabay, o kapag kailangan ng multiple render outputs"
+Application,"Paano gumawa ng render props component?",,"function DataFetcher({ url, children }) { const data = useFetch(url); return children(data); }"
+Application,"Paano i-combine ang render props at hooks?",,"gumawa ng custom hook para sa logic, at i-render ang component na nagco-consume ng hook data"

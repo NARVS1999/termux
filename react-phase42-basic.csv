@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng Error Boundary class component?",,"class ErrorBoundary extends React.Component { state = { hasError: false }; static getDerivedStateFromError() { return { hasError: true }; } }"
+Application,"Paano i-wrap ang components ng Error Boundary?",,"<ErrorBoundary><RiskyComponent /></ErrorBoundary> — i-wrap ang mga components na maaaring mag-error"
+Application,"Paano i-log ang errors sa Error Boundary?",,"componentDidCatch(error, errorInfo) { logToService(error, errorInfo.componentStack); }"
+Application,"Paano gumawa ng fallback UI?",,"if (this.state.hasError) return <h1>Something went wrong. <button onClick={this.reset}>Try again</button></h1>;"
+Application,"Paano i-recover mula sa error?",,"i-reset ang hasError state: reset = () => this.setState({ hasError: false }); — subukan ulit mag-render"
