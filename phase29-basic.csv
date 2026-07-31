@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng unit test sa Laravel?",,"i-php artisan make:test UserTest --unit, pagkatapos i-implement ang test methods sa tests/Unit directory"
+Application,"Paano mag-create ng feature test sa Laravel?",,"i-php artisan make:test LoginTest, ang test file ay nasa tests/Feature directory"
+Application,"Paano mag-run ng tests sa Laravel?",,"gamitin ang phpunit o php artisan test command"
+Application,"Paano mag-test ng isang API endpoint sa Laravel?",,"gamitin ang $this->get('/api/users')->assertOk() sa feature test"
+Application,"Paano mag-check ng code coverage sa Laravel?",,"gamitin ang phpunit --coverage-html=coverage para makita ang HTML report"

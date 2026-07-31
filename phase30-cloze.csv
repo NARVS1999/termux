@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::PHPUnit}} ay ang testing framework na ginagamit ng Laravel para sa lahat ng tests.",,PHPUnit
+Cloze,"Ang {{c1::Pest}} ay isang modern testing framework na built on top of PHPUnit na may mas clean na syntax.",,Pest
+Cloze,"Ang {{c1::TestCase}} ay ang base class ng lahat ng tests sa Laravel na nagbibigay ng convenient testing methods.",,TestCase
+Cloze,"Ang {{c1::RefreshDatabase}} trait ay nagre-refresh ang database schema sa bawat test para sa clean state.",,RefreshDatabase
+Cloze,"Ang {{c1::DatabaseMigrations}} trait ay nagra-run ang migrations sa bawat test pero hindi nagre-refresh.",,DatabaseMigrations
+Cloze,"Ang {{c1::factory}} ay isang blueprint para sa pag-generate ng fake model data sa tests.",,factory
+Cloze,"Ang {{c1::artisan make:model User -m}} command ay nagcre-create ng model at migration na magkasama.",,make:model
+Cloze,"Ang {{c1::assertDatabaseHas()}} method ay nagche-check kung may record sa database na tumutugma sa given data.",,assertDatabaseHas
+Cloze,"Ang {{c1::assertStatus()}} method ay nagche-check kung ang HTTP response ay may tamang status code.",,assertStatus

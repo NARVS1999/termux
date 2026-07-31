@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-mock ang mail sa Laravel test?",,"Gamitin ang Mail::fake() sa loob ng test, pagkatapos i-assert gamit ang Mail::assertSentTo()"
+Application,"Paano i-mock ang external HTTP calls sa tests?",,"Gamitin ang Http::fake() at Http::fakeSequence() para magbigay ng fake responses"
+Application,"Paano mag-test na ang event ay na-fire?",,"Gamitin ang Event::fake() pagkatapos i-assert gamit ang Event::assertDispatched(EventClass::class)"
+Application,"Paano mag-test ng authenticated user sa feature test?",,"Gamitin ang $this->actingAs($user)->get('/dashboard')->assertOk()"
+Application,"Paano mag-test na ang job ay na-queue?",,"Gamitin ang Queue::fake() pagkatapos i-assert gamit ang Queue::assertPushed(JobClass::class)"

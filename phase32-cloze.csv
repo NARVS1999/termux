@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::TDD}} o Test-Driven Development ay isang approach kung saan ginagawa muna ang tests bago ang actual na code.",,TDD
+Cloze,"Ang {{c1::coverage report}} ay ang generated report na nagpapakita kung aling bahagi ng code ang na-test.",,coverage report
+Cloze,"Ang {{c1::CI}} o Continuous Integration ay ang automated na pag-run ng tests sa bawat code change o commit.",,CI
+Cloze,"Ang {{c1::GitHub Actions}} ay isang CI/CD tool na ginagamit para mag-automate ng testing at deployment.",,GitHub Actions
+Cloze,"Ang {{c1::assertion methods}} sa PHPUnit ay ang mga paraan para i-verify ang expected outcomes (assertEquals, assertTrue, etc.).",,assertion methods
+Cloze,"Ang {{c1::data provider}} ay isang method na nagbibigay ng multiple data sets para sa isang test method.",,data provider
+Cloze,"Ang {{c1::test doubles}} ay ang generic term para sa mga fake objects na ginagamit sa testing (mocks, stubs, fakes).",,test doubles
+Cloze,"Ang {{c1::mutation testing}} ay isang technique na nagmo-modify ng code para i-check kung epektibo ang tests.",,mutation testing

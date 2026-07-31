@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-setup ng GitHub Actions para sa Laravel tests?",,"Gumawa ng .github/workflows/test.yml file na nagre-run ng phpunit sa bawat push o pull request"
+Application,"Paano mag-run ng coverage report sa Laravel?",,"gamitin ang phpunit --coverage-text o phpunit --coverage-html=coverage-report"
+Application,"Paano mag-apply ng TDD sa Laravel development?",,"muna mag-create ng failing test, pagkatapos gumawa ng minimal code para pumass, pagkatapos i-refactor"
+Application,"Paano mag-use ng data provider sa PHPUnit?",,"i-annotate ang test method gamit ang @dataProvider providerMethod, pagkatapos i-return ang array ng data sets"
+Application,"Paano i-automate ang testing sa CI pipeline?",,"i-add ang phpunit command sa CI config file (GitHub Actions, GitLab CI) para i-run sa bawat commit"

@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::unit test}} ay isang test na nag-i-isolate ng maliliit na bahagi ng code (functions, methods) para i-verify ang kanilang behavior nang mag-isa.",,unit test
+Cloze,"Ang {{c1::feature test}} ay isang test na nag-te-test ng buong workflow o feature mula request hanggang response.",,feature test
+Cloze,"Ang {{c1::integration test}} ay isang test na nag-ve-verify kung paano nagko-work together ang iba't ibang components ng application.",,integration test
+Cloze,"Ang {{c1::test case}} ay ang individual na unit of testing na naglalaman ng test methods at assertions.",,test case
+Cloze,"Ang {{c1::assertion}} ay ang statement na nagche-check kung ang actual result ay tumutugma sa expected result.",,assertion
+Cloze,"Ang {{c1::test suite}} ay ang collection ng test cases na pinapatakbo bilang isang grupo.",,test suite
+Cloze,"Ang {{c1::red-green-refactor}} ay ang core cycle ng TDD — muna mag-fail (red), pagkatapos mag-pass (green), pagkatapos i-improve (refactor).",,red-green-refactor
+Cloze,"Ang {{c1::mock}} ay isang fake object na ginagamit para i-simulate ang behavior ng totoong objects sa tests.",,mock
+Cloze,"Ang {{c1::stub}} ay isang simplified version ng object na nagbibigay ng fixed responses sa tests.",,stub
+Cloze,"Ang {{c1::code coverage}} ay ang percentage ng codebase na na-cover ng tests.",,code coverage
