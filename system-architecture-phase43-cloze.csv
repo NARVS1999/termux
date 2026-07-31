@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::rate limiting}} ay ang technique ng pag-limit ng bilang ng requests sa isang time period.",,rate limiting
+Cloze,"Ang {{c1::token bucket}} algorithm ay nagbibigay ng tokens sa fixed rate at nagko-consume sa bawat request.",,token bucket
+Cloze,"Ang {{c1::sliding window}} algorithm ay nagli-limit ng requests sa rolling time window.",,sliding window
+Cloze,"Ang {{c1::API throttling}} ay ang pag-limit ng API calls base sa user tier o plan.",,API throttling
+Cloze,"Ang {{c1::429 status code}} ay ang HTTP response kapag na-rate-limit ang client.",,429 status code

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::background jobs}} ay ang tasks na nag-e-execute sa halip na sa main request cycle.",,background jobs
+Cloze,"Ang {{c1::event queue}} ay ang system na nagse-store ng events para sa asynchronous processing.",,event queue
+Cloze,"Ang {{c1::batch processing}} ay ang proseso ng pag-handle ng maraming items sa iisang run.",,batch processing
+Cloze,"Ang {{c1::job queue}} ay ang queue na nagse-store ng tasks para sa background workers.",,job queue
+Cloze,"Ang {{c1::worker}} ay ang process na nagco-consume ng jobs mula sa queue.",,worker

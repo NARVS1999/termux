@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-optimize ang slow queries?",,"gamitin ang EXPLAIN para makita ang execution plan, i-add ng index, i-rewrite ang query"
+Application,"Paano gumamit ng connection pooling?",,"gamitin ang PgBouncer, ProxySQL, o application-level pooling — i-reuse ang connections"
+Application,"Kailan gumamit ng read replica?",,"kapag read-heavy: i-route ang SELECT queries sa replicas para i-offload ang master"
+Application,"Paano mag-profile ng database queries?",,"gamitin ang slow query log, EXPLAIN ANALYZE, o APM tools para makita ang bottlenecks"
+Application,"Ano ang N+1 query problem?",,"ang pag-query ng related data sa loob ng loop — i-solve gamit ang JOIN o batch loading"

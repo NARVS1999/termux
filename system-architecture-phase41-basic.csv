@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang cache stampede?",,"kapag maraming requests ang nag-miss sa cache at sabay-sabay nag-query sa DB — maiwasan gamit ang locks"
+Application,"Paano maiwasan ang cache penetration?",,"gumamit ng bloom filter o i-cache ang miss results nang sandali — huwag i-query ang DB sa bawat miss"
+Application,"Paano mag-set ng TTL?",,"gamitin ang EXPIRE command: SET key value EX 3600 — mag-e-expire pagkatapos ng 1 hour"
+Application,"Ano ang cache warming?",,"ang pag-populate ng cache bago mag-peak traffic — para hindi mag-cold start ang cache"
+Application,"Paano mag-invalidate ng cache?",,"i-delete ang key: DEL key, o i-update ang data at i-invalidate — depende sa use case"
