@@ -75,9 +75,9 @@
 
 ## Real-World System Design
 
-- [ ] **Phase 45** — URL shortener: hashing, redirection, analytics, scaling
-- [ ] **Phase 46** — Chat system: WebSockets, presence, message ordering, storage
-- [ ] **Phase 47** — E-commerce platform: inventory, payments, search, recommendations
+- [x] **Phase 45** — URL shortener: hashing, redirection, analytics, scaling
+- [x] **Phase 46** — Chat system: WebSockets, presence, message ordering, storage
+- [x] **Phase 47** — E-commerce platform: inventory, payments, search, recommendations
 
 ## Recommended Learning Path (priority order)
 
