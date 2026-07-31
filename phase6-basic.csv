@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-bind ang isang interface sa concrete implementation nito sa container?",,"$this->app->bind(UserRepositoryInterface::class, EloquentUserRepository::class);"
+Application,"Paano i-resolve ang isang class mula sa container nang walang autowiring?",,"Gamitin ang app(UserService::class) o $this->app->make(UserService::class)"
+Application,"Paano mag-share ng isang instance lang ng class sa buong application?",,"Gumamit ng singleton binding: $this->app->singleton(PaymentService::class)"
+Application,"Paano mag-register ng custom service provider?",,"Idagdag sa config/app.php ang providers array at i-run ang php artisan make:provider"
+Application,"Paano gumamit ng service sa labas ng container nang may facade?",,"Access ang facade: Cache::put('key', $value) — sa likod nito ay isang service sa container."

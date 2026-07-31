@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-ensure na ang dalawang DB operations ay parehong mag-succeed o mag-rollback?",,"I-wrap sa DB::transaction(function () { ... });"
+Application,"Paano iwasan ang dalawang users na mag-edit ng same row nang sabay?",,"Gamitin ang lock: DB::table('products')->where('id', 1)->lockForUpdate()->first();"
+Application,"Paano makita kung bakit mabagal ang isang query?",,"Patakbuhin ang EXPLAIN sa query at tingnan ang type, rows, at possible_keys columns."
+Application,"Paano mag-proseso ng 1 million records nang hindi nauubos ang memory?",,"Gamitin ang chunk: User::chunk(500, function ($users) { ... });"
+Application,"Paano mag-select ng users na may active status gamit ang Query Builder?",,"DB::table('users')->where('status', 'active')->get();"

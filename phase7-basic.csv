@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng custom middleware?",,"php artisan make:middleware EnsureTokenIsValid"
+Application,"Paano i-attach ang middleware sa isang route?",,"Route::get('users', ...)->middleware('auth')"
+Application,"Paano i-passthrough ang request sa susunod na middleware?",,"return $next($request);"
+Application,"Paano mag-register ng middleware bilang global para sa lahat ng requests?",,"Idagdag ito sa $middleware property ng app/Http/Kernel.php"
+Application,"Paano mag-add ng action pagkatapos ma-generate ang response sa middleware?",,"I-run ang code pagkatapos ng $response = $next($request);"

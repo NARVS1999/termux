@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::middleware}} ay nagpapa-filter o nagmo-modify ng HTTP requests bago sila makarating sa controller.",,middleware
+Cloze,"Ang {{c1::request lifecycle}} ay ang buong flow ng request mula sa entry point hanggang sa pag-return ng response.",,request lifecycle
+Cloze,"Ang {{c1::kernel}} ay nagha-handle ng HTTP requests at ang nagpo-proseso ng middleware stack.",,kernel
+Cloze,"Ang {{c1::route middleware}} ay naka-attach sa isang partikular na route o route group.",,route middleware
+Cloze,"Ang {{c1::$next($request)}} sa middleware ay nagpapasa ng request sa susunod na middleware o sa controller.",,$next($request)
+Cloze,"Ang {{c1::before}} middleware ay nagrurun bago ang request, habang ang {{c2::after}} middleware ay pagkatapos ng response.",,before/after
+Cloze,"Ang {{c1::public/index.php}} ay ang entry point ng bawat HTTP request sa Laravel.",,public/index.php
+Cloze,"Ang {{c1::HandleCors}} ay isang global middleware na humahawak ng cross-origin resource sharing.",,HandleCors

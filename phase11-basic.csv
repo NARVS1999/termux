@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano magpadala ng welcome notification sa user?",,"$user->notify(new WelcomeNotification($user));"
+Application,"Paano mag-create ng mailable para sa order confirmation?",,"php artisan make:mail OrderShipped"
+Application,"Paano mag-upload ng file sa storage?",,"Storage::disk('s3')->put('avatar.jpg', $file);"
+Application,"Paano mag-save ng notification sa database para ipakita sa UI?",,"Isama ang 'database' sa via() method ng notification at mag-create ng notifications table."
+Application,"Paano i-publish ang mailable sa isang view?",,"Gamitin ang markdown o view: return $this->view('emails.order-shipped');"

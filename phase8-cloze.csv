@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::eager loading}} ay ang pag-load ng relationships nang sabay-sabay para maiwasan ang N+1 query problem.",,eager loading
+Cloze,"Ang {{c1::N+1 problem}} ay nangyayari kapag nag-query ka ng isang beses para sa parent, tapos isang beses pa bawat child.",,N+1 problem
+Cloze,"Ang {{c1::model events}} (creating, created, saving, saved) ay mga hooks na nagrurun sa iba't ibang point ng model lifecycle.",,model events
+Cloze,"Ang {{c1::casts}} ay nagko-convert ng attribute values sa tamang PHP types (e.g. array, date, boolean).",,casts
+Cloze,"Ang {{c1::scope}} ay isang method na nagre-reuse ng query constraints sa Eloquent.",,scope
+Cloze,"Ang {{c1::hasMany}} relationship ay ang one-to-many na relasyon sa pagitan ng dalawang models.",,hasMany
+Cloze,"Ang {{c1::belongsTo}} relationship ay ang inverse ng hasMany.",,belongsTo
+Cloze,"Ang {{c1::with()}} method ay ginagamit para mag-eager load ng relationships.",,with()
+Cloze,"Ang {{c1::local scope}} ay tinatawag bilang query constraint, habang ang {{c2::global scope}} ay awtomatikong inaapply sa lahat ng queries.",,local/global scope

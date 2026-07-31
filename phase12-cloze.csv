@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Broadcasting}} ay ginagamit para magpadala ng real-time updates sa client gamit ang WebSockets.",,Broadcasting
+Cloze,"Ang {{c1::WebSockets}} ay nagbibigay ng bidirectional na real-time na komunikasyon sa pagitan ng server at client.",,WebSockets
+Cloze,"Ang {{c1::Pusher}} ay isang third-party na WebSocket service na ginagamit ng Laravel broadcasting.",,Pusher
+Cloze,"Ang {{c1::Reverb}} ay ang built-in na WebSocket server ng Laravel na walang third-party dependency.",,Reverb
+Cloze,"Ang {{c1::channel}} ay ang ruta kung saan naka-broadcast ang mga events sa clients.",,channel
+Cloze,"Ang {{c1::Broadcast::channel}} ay nagde-define kung sino ang pwedeng makinig sa isang channel.",,Broadcast::channel
+Cloze,"Ang {{c1::Livewire}} ay isang full-stack framework para sa dynamic na UI gamit ang PHP lamang.",,Livewire
+Cloze,"Ang {{c1::shouldBroadcast}} ay nagko-control kung i-broadcast ba ang event sa frontend.",,shouldBroadcast
+Cloze,"Ang {{c1::presence channel}} ay nagbibigay ng info kung sino ang currently connected sa channel.",,presence channel

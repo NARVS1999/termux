@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Notifications}} ay ginagamit para magpadala ng mga paalala sa user sa pamamagitan ng email, SMS, o database.",,Notifications
+Cloze,"Ang {{c1::mailable}} ay isang class na kumakatawan sa isang email na may format at data nito.",,mailable
+Cloze,"Ang {{c1::filesystem}} ay nag-abstract ng file storage sa iba't ibang drivers (local, S3, FTP).",,filesystem
+Cloze,"Ang {{c1::Storage}} facade ay ginagamit para mag-upload, mag-download, at mag-manage ng files.",,Storage
+Cloze,"Ang {{c1::S3}} ay ang cloud object storage service na ginagamit ng Laravel para sa scalable file storage.",,S3
+Cloze,"Ang {{c1::via()}} method ng notification ay nag-specify kung saang channels ipapadala.",,via()
+Cloze,"Ang {{c1::toMail()}} method ng notification ay nag-define ng email na ipapadala.",,toMail()
+Cloze,"Ang {{c1::database channel}} ay nagse-save ng notification sa database para ipakita sa user.",,database channel

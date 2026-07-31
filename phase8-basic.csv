@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano iwasan ang N+1 query kapag nag-load ng users na may posts?",,"Gamitin ang eager loading: User::with('posts')->get();"
+Application,"Paano mag-define ng hasMany relationship sa User model?",,"public function posts() { return $this->hasMany(Post::class); }"
+Application,"Paano mag-convert ng JSON column sa array kapag in-access?",,"I-add sa $casts: 'options' => 'array'"
+Application,"Paano mag-auto-generate ng slug kapag gumagawa ng bagong Post?",,"Gamitin ang creating model event: static::creating(fn ($post) => $post->slug = Str::slug($post->title))"
+Application,"Paano mag-filter ng active users gamit ang reusable query?",,"Gumawa ng scope: scopeActive($query) { return $query->where('status', 'active'); }"

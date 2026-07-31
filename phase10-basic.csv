@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-defer ng email sending para hindi ma-block ang request?",,"I-dispatch sa queue: Mail::to($user)->queue(new OrderShipped($order))"
+Application,"Paano mag-run ng task araw-araw ng 2am?",,"Sa app/Console/Kernel.php: $schedule->command('report:send')->dailyAt('02:00');"
+Application,"Paano mag-queue ng custom job?",,"SendWelcomeEmail::dispatch($user);"
+Application,"Paano mag-proseso ng jobs sa background?",,"Patakbuhin ang php artisan queue:work sa background (may Supervisor)."
+Application,"Paano mag-handle ng failed jobs na gustong subukan ulit?",,"php artisan queue:retry all pagkatapos i-fix ang issue."

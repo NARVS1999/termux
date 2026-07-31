@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::service container}} sa Laravel ay humahawak ng dependency injection at class resolution.",,service container
+Cloze,"Ang {{c1::service provider}} ay ang lugar kung saan nirerehistro ang bindings, events, at services sa Laravel.",,service provider
+Cloze,"Ang {{c1::facade}} ay nagbibigay ng static-like interface sa isang service sa container.",,facade
+Cloze,"Ang {{c1::singleton}} binding ay nagsisiguro na isang instance lang ng class ang shared sa buong application.",,singleton
+Cloze,"Ang {{c1::app()}} helper ay ginagamit para i-resolve ang isang class mula sa container.",,app()
+Cloze,"Ang {{c1::bind()}} ay nagre-rehistro ng bagong instance kada resolve, habang ang {{c2::singleton()}} ay isang shared instance lang.",,bind()/singleton()
+Cloze,"Ang {{c1::register}} method ng service provider ay ginagamit para i-bind ang dependencies sa container.",,register
+Cloze,"Ang {{c1::boot}} method ng service provider ay ginagamit para mag-run ng code pagkatapos ma-register ang lahat ng providers.",,boot

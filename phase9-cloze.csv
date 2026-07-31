@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Query Builder}} ay ang Laravel interface para gumawa ng SQL queries nang hindi sumusulat ng raw SQL.",,Query Builder
+Cloze,"Ang {{c1::DB::transaction()}} ay nagwawrap ng maraming operations para mag-succeed o mag-rollback lahat.",,DB::transaction()
+Cloze,"Ang {{c1::pessimistic locking}} (lockForUpdate) ay nagla-lock ng rows para maiwasan ang concurrent modification.",,pessimistic locking
+Cloze,"Ang {{c1::EXPLAIN}} ay ginagamit para makita kung paano ginagawa ng database ang isang query.",,EXPLAIN
+Cloze,"Ang {{c1::index}} ay ang database structure na nagpapabilis ng row retrieval sa isang column.",,index
+Cloze,"Ang {{c1::deadlock}} ay nangyayari kapag ang dalawang transactions ay naghihintay sa isa't isa para sa locks.",,deadlock
+Cloze,"Ang {{c1::raw query}} ay ginagawa gamit ang DB::select(), DB::insert(), o DB::statement().",,raw query
+Cloze,"Ang {{c1::chunk}} ay ginagamit para mag-proseso ng malalaking result sets nang paunti-unti.",,chunk
