@@ -71,10 +71,10 @@
 
 ## Pattern Selection & Trade-offs
 
-- [ ] **Phase 44** — Pattern selection: choosing the right pattern for the problem
-- [ ] **Phase 45** — Pattern combinations: using multiple patterns together
-- [ ] **Phase 46** — Performance implications: pattern overhead, profiling before optimizing
-- [ ] **Phase 47** — Real-world applications: patterns in Laravel, React, and production codebases
+- [x] **Phase 44** — Pattern selection: choosing the right pattern for the problem
+- [x] **Phase 45** — Pattern combinations: using multiple patterns together
+- [x] **Phase 46** — Performance implications: pattern overhead, profiling before optimizing
+- [x] **Phase 47** — Real-world applications: patterns in Laravel, React, and production codebases
 
 ## Recommended Learning Path (priority order)
 
