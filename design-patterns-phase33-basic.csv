@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Producer-Consumer?",,"gumawa ng blocking queue, producer threads ang naglalagay, consumer threads ang nagko-consume"
+Application,"Kailan gumamit ng Producer-Consumer?",,"kapag may decoupled na生产 at processing: log processing, task scheduling, message queues"
+Application,"Ano ang bounded buffer?",,"ang buffer na may maximum size — nagba-block ang producers kapag puno para maiwasan ang OOM"
+Application,"Paano mag-handle ng producer-consumer deadlock?",,"i-avoid ang circular waits, i-set ng timeouts, i-use ng bounded buffers"
+Application,"Ano ang work stealing?",,"ang consumer ay nagko-steal ng tasks mula sa ibang queues kapag walang work sa sariling queue"

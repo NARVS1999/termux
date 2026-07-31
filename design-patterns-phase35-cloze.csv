@@ -1,0 +1,5 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Monitor}} ay ang synchronization construct na nagbibigay ng mutual exclusion at condition variables.",,Monitor
+Cloze,"Ang {{c1::mutex}} sa Monitor ay ang lock na nag-i-sure na isang thread lang ang nasa critical section.",,mutex
+Cloze,"Ang {{c1::condition variable}} ay ang mechanism para maghintay ng specific na condition.",,condition variable
+Cloze,"Ang {{c1::critical section}} ay ang code na dapat i-execute ng isang thread lang sa isang oras.",,critical section

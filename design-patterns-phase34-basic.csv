@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Kailan gumamit ng Read-Write Lock?",,"kapag mas maraming reads kaysa writes — concurrent reads, exclusive writes para sa data integrity"
+Application,"Ano ang advantage ng Read-Write Lock?",,"mas mabilis kaysa sa mutex — pwedeng mag-read nang sabay-sabay, nag-lock lang sa writes"
+Application,"Paano i-implement?",,"gamitin ang ReentrantReadWriteLock: readLock() para sa reads, writeLock() para sa writes"
+Application,"Ano ang writer starvation?",,"kapag laging may readers, hindi na makakapag-write — i-solve gamit ang fairness policy"
+Application,"Kailan hindi gumamit ng Read-Write Lock?",,"kapag maraming writes — mas mabagal pa kaysa sa simpleng mutex dahil sa lock overhead"

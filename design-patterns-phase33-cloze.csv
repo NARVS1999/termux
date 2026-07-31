@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Producer-Consumer}} ay ang concurrency pattern kung saan ang producers ay naglikha ng data at consumers ang nagpo-process.",,Producer-Consumer
+Cloze,"Ang {{c1::bounded buffer}} ay ang buffer na may limit sa laki — nagba-block ang producers kapag puno.",,bounded buffer
+Cloze,"Ang {{c1::blocking queue}} ay ang queue na nagba-block kapag walang items o walang space.",,blocking queue
+Cloze,"Ang {{c1::producer}} ay ang thread na naglilikha ng data at naglalagay sa buffer.",,producer
+Cloze,"Ang {{c1::consumer}} ay ang thread na nagko-consume ng data mula sa buffer.",,consumer
