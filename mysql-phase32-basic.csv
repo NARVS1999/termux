@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng stored procedure?",,"CREATE PROCEDURE GetUser(IN userId INT) BEGIN SELECT * FROM users WHERE id = userId; END;"
+Application,"Paano tawagin ang stored procedure?",,"CALL GetUser(1); — gamitin ang CALL statement"
+Application,"Paano gumamit ng OUT parameter?",,"CREATE PROCEDURE GetCount(OUT total INT) BEGIN SELECT COUNT(*) INTO total FROM users; END;"
+Application,"Paano gumamit ng INOUT parameter?",,"CREATE PROCEDURE DoubleValue(INOUT num INT) BEGIN SET num = num * 2; END;"
+Application,"Paano mag-list ng stored procedures?",,"SHOW PROCEDURE STATUS WHERE Db = 'mydb'; — ipapakita ang lahat ng procedures"

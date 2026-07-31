@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::stored function}} ay ang stored routine na nagbabalik ng value gamit ang RETURN.",,stored function
+Cloze,"Ang {{c1::CREATE FUNCTION}} statement ay ginagamit para mag-create ng stored function.",,CREATE FUNCTION
+Cloze,"Ang {{c1::deterministic function}} ay ang function na laging nagre-return ng parehong result para sa parehong inputs.",,deterministic
+Cloze,"Ang {{c1::non-deterministic function}} ay ang function na pwedeng mag-return ng iba't ibang result.",,non-deterministic
+Cloze,"Ang {{c1::RETURN statement}} sa function ay nagse-set ng value na ibabalik.",,RETURN statement

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng trigger?",,"CREATE TRIGGER before_user_insert BEFORE INSERT ON users FOR EACH ROW SET NEW.created_at = NOW();"
+Application,"Paano gumawa ng audit log gamit ang trigger?",,"CREATE TRIGGER audit_update AFTER UPDATE ON users FOR EACH ROW INSERT INTO audit (user_id, old_name, new_name) VALUES (OLD.id, OLD.name, NEW.name);"
+Application,"Ano ang pagkakaiba ng BEFORE at AFTER trigger?",,"BEFORE: nag-e-execute bago ang operation, pwedeng baguhin ang data. AFTER: pagkatapos, para sa logging."
+Application,"Paano mag-list ng triggers?",,"SHOW TRIGGERS; o SELECT * FROM information_schema.TRIGGERS WHERE TRIGGER_SCHEMA = 'mydb';"
+Application,"Paano mag-delete ng trigger?",,"DROP TRIGGER IF EXISTS before_user_insert; — gamitin ang DROP TRIGGER"

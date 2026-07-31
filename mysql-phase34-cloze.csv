@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::trigger}} ay ang stored routine na awtomatikong nag-e-execute kapag may INSERT, UPDATE, o DELETE.",,trigger
+Cloze,"Ang {{c1::BEFORE trigger}} ay nag-e-execute bago ang actual na DML operation.",,BEFORE trigger
+Cloze,"Ang {{c1::AFTER trigger}} ay nag-e-execute pagkatapos ng actual na DML operation.",,AFTER trigger
+Cloze,"Ang {{c1::NEW record}} ay ang bagong row na ise-save — available sa INSERT at UPDATE triggers.",,NEW record
+Cloze,"Ang {{c1::OLD record}} ay ang lumang row bago ang change — available sa UPDATE at DELETE triggers.",,OLD record

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::scheduled event}} ay ang MySQL feature na nag-e-execute ng SQL sa predetermined na time.",,scheduled event
+Cloze,"Ang {{c1::CREATE EVENT}} statement ay ginagamit para mag-create ng scheduled event.",,CREATE EVENT
+Cloze,"Ang {{c1::event scheduler}} ay ang MySQL process na nagmo-monitor at nag-e-execute ng events.",,event scheduler
+Cloze,"Ang {{c1::AT timestamp}} ay nagde-define ng exactong oras ng execution.",,AT timestamp
+Cloze,"Ang {{c1::EVERY interval}} ay nagde-define ng recurring schedule: EVERY 1 DAY, EVERY 5 MINUTE.",,EVERY interval
