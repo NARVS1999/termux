@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-setup ng React Router sa app?",,"<BrowserRouter><Routes><Route path='/' element={<Home />} /></Routes></BrowserRouter>"
+Application,"Paano gumawa ng navigation gamit ang Link?",,"<Link to='/about'>About</Link> — hindi nagre-reload ng page"
+Application,"Paano mag-highlight ng active link?",,"<NavLink to='/about' className={({isActive}) => isActive ? 'active' : ''}>About</NavLink>"
+Application,"Paano mag-redirect sa ibang route?",,"const navigate = useNavigate(); navigate('/login'); — gamitin ang useNavigate hook"
+Application,"Paano gumawa ng 404 page?",,"<Route path='*' element={<NotFound />} /> — ang catch-all route ay nasa huli"

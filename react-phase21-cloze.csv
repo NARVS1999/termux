@@ -1,0 +1,8 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::React Router}} ay ang declarative routing library para sa React na nagbibigay ng client-side routing.",,React Router
+Cloze,"Ang {{c1::BrowserRouter}} ay ang router component na gumagamit ng HTML5 History API para sa clean URLs.",,BrowserRouter
+Cloze,"Ang {{c1::Routes}} at {{c1::Route}} ay ang components na nagde-define ng URL-to-component mapping.",,Routes and Route
+Cloze,"Ang {{c1::Link}} component ay ginagamit para sa navigation nang hindi nag-reload ng page.",,Link
+Cloze,"Ang {{c1::NavLink}} ay ang Link na nag-a-add ng active class kapag tugma ang current URL.",,NavLink
+Cloze,"Ang {{c1::useNavigate}} hook ay ginagamit para sa programmatic navigation: navigate('/dashboard').",,useNavigate
+Cloze,"Ang {{c1::catch-all route}} (*) ay nagha-handle ng hindi known na paths: <Route path='*' />.",,catch-all route

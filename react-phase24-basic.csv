@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng protected route component?",,"function ProtectedRoute({ children }) { const { user } = useAuth(); return user ? children : <Navigate to='/login' />; }"
+Application,"Paano i-wrap ang protected routes sa React Router?",,"<Route element={<ProtectedRoute><Dashboard /></ProtectedRoute>} />"
+Application,"Paano i-redirect kapag hindi authenticated?",,"<Navigate to='/login' replace /> — gamitin ang Navigate component mula sa react-router-dom"
+Application,"Paano gumawa ng role-based protected route?",,"function RoleRoute({ role, children }) { const { user } = useAuth(); return user.role === role ? children : <Navigate to='/unauthorized' />; }"
+Application,"Paano i-preserve ang location pagkatapos ng login?",,"const location = useLocation(); <Navigate to={location.state?.from || '/dashboard'} />"

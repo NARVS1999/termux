@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-access ng URL parameter?",,"const { id } = useParams(); <Route path='/users/:id' element={<User />} />"
+Application,"Paano mag-navigate sa ibang route pagkatapos ng action?",,"const navigate = useNavigate(); handleSubmit = () => { saveData(); navigate('/success'); };"
+Application,"Paano mag-read ng query parameters?",,"const [searchParams] = useSearchParams(); const page = searchParams.get('page');"
+Application,"Paano mag-set ng query parameters?",,"const [searchParams, setSearchParams] = useSearchParams(); setSearchParams({page: 2});"
+Application,"Paano mag-navigate nang may state data?",,"navigate('/checkout', { state: { cartItems: items } }); — i-access gamit ang useLocation()"
