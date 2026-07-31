@@ -4,10 +4,10 @@
 
 ## Foundations
 
-- [ ] **Phase 1** — SOLID principles: single responsibility, open-closed, Liskov, interface segregation, dependency inversion
-- [ ] **Phase 2** — DRY, KISS, YAGNI: code simplicity principles and when to apply
-- [ ] **Phase 3** — Composition vs inheritance: favoring object composition over class inheritance
-- [ ] **Phase 4** — Abstraction, encapsulation, polymorphism: OOP pillars in practice
+- [x] **Phase 1** — SOLID principles: single responsibility, open-closed, Liskov, interface segregation, dependency inversion
+- [x] **Phase 2** — DRY, KISS, YAGNI: code simplicity principles and when to apply
+- [x] **Phase 3** — Composition vs inheritance: favoring object composition over class inheritance
+- [x] **Phase 4** — Abstraction, encapsulation, polymorphism: OOP pillars in practice
 
 ## Creational Patterns
 
