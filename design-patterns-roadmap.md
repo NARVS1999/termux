@@ -65,9 +65,9 @@
 
 ## Anti-Patterns & Refactoring
 
-- [ ] **Phase 41** — God Object: excessive responsibilities, refactoring to single responsibility
-- [ ] **Phase 42** — Spaghetti Code: tangled dependencies, extracting clean layers
-- [ ] **Phase 43** — Golden Hammer: overusing familiar tools, recognizing when to refactor
+- [x] **Phase 41** — God Object: excessive responsibilities, refactoring to single responsibility
+- [x] **Phase 42** — Spaghetti Code: tangled dependencies, extracting clean layers
+- [x] **Phase 43** — Golden Hammer: overusing familiar tools, recognizing when to refactor
 
 ## Pattern Selection & Trade-offs
 
