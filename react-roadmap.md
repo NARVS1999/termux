@@ -12,13 +12,13 @@
 
 ## React Core Concepts
 
-- [ ] **Phase 6** — JSX syntax, expressions, fragments, attribute handling
-- [ ] **Phase 7** — Functional components, component composition, file structure
-- [ ] **Phase 8** — Props: passing data, defaultProps, prop drilling, children
-- [ ] **Phase 9** — State with useState, immutability, state batching
-- [ ] **Phase 10** — Event handling, synthetic events, event delegation
-- [ ] **Phase 11** — Conditional rendering: ternary, &&, early return, switch
-- [ ] **Phase 12** — Lists & keys: rendering arrays, key selection, stable keys
+- [x] **Phase 6** — JSX syntax, expressions, fragments, attribute handling
+- [x] **Phase 7** — Functional components, component composition, file structure
+- [x] **Phase 8** — Props: passing data, defaultProps, prop drilling, children
+- [x] **Phase 9** — State with useState, immutability, state batching
+- [x] **Phase 10** — Event handling, synthetic events, event delegation
+- [x] **Phase 11** — Conditional rendering: ternary, &&, early return, switch
+- [x] **Phase 12** — Lists & keys: rendering arrays, key selection, stable keys
 
 ## React Hooks Deep-Dive
 
