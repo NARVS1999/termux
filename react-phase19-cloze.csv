@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::styled-components}} ay isang CSS-in-JS library na nagpo-paragraph ng styled React components gamit ang tagged template literals.",,styled-components
+Cloze,"Ang {{c1::CSS-in-JS}} ay ang paradigm ng pagsulat ng CSS styles sa loob ng JavaScript files.",,CSS-in-JS
+Cloze,"Ang {{c1::dynamic styles}} sa styled-components ay ang pagpapasa ng props para magbago ng styles: ${props => props.color}.",,dynamic styles
+Cloze,"Ang {{c1::Theme Provider}} sa styled-components ay nagbabahagi ng theme object sa lahat ng styled components.",,Theme Provider
+Cloze,"Ang {{c1::GlobalStyle}} sa styled-components ay ang component na nagse-set ng global CSS resets at base styles.",,GlobalStyle
+Cloze,"Ang {{c1::transient props}} sa styled-components ay ang props na nagsisimula sa $ para hindi ma-pass sa DOM.",,transient props

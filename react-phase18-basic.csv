@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gamitin ang CSS Modules sa React?",,"import styles from './Button.module.css'; <button className={styles.primary}>Click</button>"
+Application,"Paano mag-apply ng conditional class sa CSS Modules?",,"<button className={`${styles.btn} ${isActive ? styles.active : ''}`}> — gamitin ang template literals"
+Application,"Paano mag-extend ng existing CSS class sa CSS Modules?",,"Gamitin ang composes: .primary { composes: base; background: blue; } — i-compose ang base class"
+Application,"Paano mag-apply ng global CSS sa React component?",,"Gamitin ang :global() sa CSS file o i-import ang global CSS sa main entry file"
+Application,"Paano i-type ang CSS Modules sa TypeScript?",,"Gumawa ng .module.css.d.ts declaration file o gamitin ang css-modules-typescript-import package"

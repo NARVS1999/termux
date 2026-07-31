@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-setup ng Tailwind CSS sa React project?",,"i-install: npm install -D tailwindcss, i-init: npx tailwindcss init, i-add ang directives sa CSS"
+Application,"Paano gumawa ng responsive design gamit ang Tailwind?",,"<div className='w-full md:w-1/2 lg:w-1/3'> — gamitin ang breakpoint prefixes"
+Application,"Paano mag-enable ng dark mode sa Tailwind?",,"<div className='bg-white dark:bg-black'> — i-add ang dark: prefix sa utilities"
+Application,"Paano i-customize ang theme sa Tailwind?",,"I-edit ang tailwind.config.js: theme: { extend: { colors: { primary: '#3b82f6' } } }"
+Application,"Paano mag-apply ng responsive na mobile-first layout?",,"Gamitin ang: <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4'>"

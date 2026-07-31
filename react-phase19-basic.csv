@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng styled component?",,"const Button = styled.button`background: blue; color: white;` — gamitin ang tagged template literal"
+Application,"Paano mag-pass ng dynamic props sa styled-component?",,"const Button = styled.button`${props => props.primary ? 'background: blue' : 'background: gray'};`"
+Application,"Paano mag-setup ng theme sa styled-components?",,"<ThemeProvider theme={{ colors: { primary: 'blue' } }}><App /></ThemeProvider>"
+Application,"Paano mag-apply ng global styles gamit ang styled-components?",,"const GlobalStyle = createGlobalStyle`body { margin: 0; }`; i-render sa loob ng ThemeProvider"
+Application,"Paano maiwasan ang prop leaks sa styled-components?",,"Gamitin ang transient props ($): const Btn = styled.button`${props => props.$active && '...'};`"

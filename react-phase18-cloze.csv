@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::CSS Modules}} ay isang styling approach na nag-a-automate ng scoped class names para maiwasan ang style conflicts.",,CSS Modules
+Cloze,"Ang {{c1::.module.css}} file extension ay ang naming convention para sa CSS Modules sa React.",,.module.css
+Cloze,"Ang {{c1::styles object}} sa CSS Modules ay ang imported na CSS file na naglalaman ng lahat ng class names.",,styles object
+Cloze,"Ang {{c1::CSS Modules composition}} ay ang paggamit ng @compose sa CSS para i-combine ang mga existing classes.",,CSS Modules composition
+Cloze,"Ang {{c1::local scope}} ng CSS Modules ay ang behavior kung saan ang class names ay unique sa bawat component.",,local scope
+Cloze,"Ang {{c1::global styles}} sa CSS Modules ay ang paggamit ng :global() selector para sa global na styling.",,global styles
