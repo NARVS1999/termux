@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Kailan gumamit ng L4 vs L7?",,"L4: TCP/UDP, mas mabilis pero walang content awareness. L7: HTTP, may routing rules pero mas mabagal."
+Application,"Ano ang sticky sessions?",,"ang pag-redirect ng client sa parehong server sa bawat request — para sa session persistence"
+Application,"Paano mag-setup ng health check?",,"i-configure ang HTTP endpoint: GET /health — kung hindi 200 OK, i-remove sa pool"
+Application,"Ano ang load balancer algorithm?",,"round-robin, least connections, IP hash, weighted — piliin dependi sa use case"
+Application,"Kailan gumamit ng software vs hardware load balancer?",,"software: flexible, cheaper, cloud-native. hardware: dedicated, mas mabilis, mas mahal."

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang pagkakaiba ng container at VM?",,"container: lightweight, shares host OS, faster. VM: full OS, isolated, heavier."
+Application,"Paano gumawa ng Docker image?",,"gamitin ang Dockerfile: FROM node:18, COPY ., RUN npm install, CMD node server.js"
+Application,"Bakit gumamit ng containers?",,"consistent na environment across dev/staging/prod, easy scaling, fast deployment"
+Application,"Ano ang container orchestration?",,"ang pag-manage ng maraming containers: scaling, health checks, rolling updates — Kubernetes"
+Application,"Paano mag-run ng container?",,"docker run -d -p 3000:3000 myapp — i-run ang container sa background sa port 3000"

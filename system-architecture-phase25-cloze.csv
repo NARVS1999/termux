@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::L4 load balancer}} ay naglo-load balance sa transport layer (TCP/UDP) — hindi tumitingin sa content.",,L4 load balancer
+Cloze,"Ang {{c1::L7 load balancer}} ay naglo-load balance sa application layer (HTTP) — tumitingin sa URL, headers.",,L7 load balancer
+Cloze,"Ang {{c1::health check}} sa load balancer ay ang periodic na pag-test kung buhay pa ang backend servers.",,health check
+Cloze,"Ang {{c1::sticky sessions}} ay ang pag-redirect ng client sa parehong server sa bawat request.",,sticky sessions
+Cloze,"Ang {{c1::terminology}} — upstream = backend servers, downstream = clients.",,terminology

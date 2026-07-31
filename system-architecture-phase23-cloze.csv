@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::container}} ay ang lightweight, standalone na executable package na naglalaman ng lahat para mag-run ang application.",,container
+Cloze,"Ang {{c1::Docker}} ay ang platform para sa pag-create at pag-run ng containers.",,Docker
+Cloze,"Ang {{c1::Docker image}} ay ang read-only na template na ginagamit para mag-create ng containers.",,Docker image
+Cloze,"Ang {{c1::container orchestration}} ay ang automation ng deployment, scaling, at management ng containers.",,container orchestration
+Cloze,"Ang {{c1::Dockerfile}} ay ang file na naglalaman ng instructions para mag-build ng Docker image.",,Dockerfile

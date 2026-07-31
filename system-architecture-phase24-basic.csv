@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang pod sa Kubernetes?",,"ang smallest deployable unit — naglalaman ng one or more containers na nagsha-share ng network at storage"
+Application,"Ano ang service sa K8s?",,"ang abstraction na nagbibigay ng stable IP at DNS name para sa一组 pods — hindi nagbabago kahit nagbabago ang pods"
+Application,"Paano mag-deploy sa Kubernetes?",,"kubectl apply -f deployment.yaml — i-apply ang desired state sa cluster"
+Application,"Ano ang ingress?",,"ang resource na nagme-manage ng external HTTP access: routing rules, SSL termination, load balancing"
+Application,"Paano mag-scale sa K8s?",,"kubectl scale deployment myapp --replicas=5 — i-set ang desired number ng replicas"

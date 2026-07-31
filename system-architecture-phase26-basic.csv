@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Bakit gumamit ng CDN?",,"para pabilisin ang content delivery — ang static content ay served mula sa malapit na edge server"
+Application,"Ano ang cache invalidation?",,"ang pagtanggal ng cached content kapag nagbago na — ang hardest problem in computer science"
+Application,"Paano mag-setup ng CDN?",,"i-point ang domain sa CDN provider (Cloudflare, CloudFront), i-configure ang cache rules"
+Application,"Ano ang cache invalidation strategy?",,"TTL-based: auto-expire. Manual: purge sa dashboard. Versioned: baguhin ang URL."
+Application,"Ano ang pagkakaiba ng CDN at caching?",,"CDN: distributed caching sa edge servers. caching: local o centralized na data store."

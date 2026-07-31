@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang reverse proxy?",,"ang server na nagre-receive ng requests at nagfo-forward sa backend — nag-a-add ng security at performance"
+Application,"Kailan gumamit ng Nginx?",,"web server, reverse proxy, load balancer, SSL termination — ang Swiss army knife ng networking"
+Application,"Ano ang API gateway?",,"single entry point para sa lahat ng API calls: authentication, rate limiting, routing"
+Application,"Ano ang SSL termination?",,"ang pag-handle ng SSL/TLS encryption sa reverse proxy — hindi na kailangan ng backend servers"
+Application,"Paano i-compare ang Nginx at HAProxy?",,"Nginx: web server + reverse proxy. HAProxy: dedicated load balancer — mas mabilis sa high traffic."
