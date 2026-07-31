@@ -40,11 +40,11 @@
 
 ## Indexes & Query Optimization
 
-- [ ] **Phase 22** — Index fundamentals: B-tree, hash, why indexes speed up reads
-- [ ] **Phase 23** — Creating indexes: single-column, composite, covering indexes
-- [ ] **Phase 24** — EXPLAIN/ANALYZE: reading query plans, identifying bottlenecks
-- [ ] **Phase 25** — Index best practices: cardinality, selectivity, index maintenance
-- [ ] **Phase 26** — Query optimization: slow query log, profiling, query rewriting
+- [x] **Phase 22** — Index fundamentals: B-tree, hash, why indexes speed up reads
+- [x] **Phase 23** — Creating indexes: single-column, composite, covering indexes
+- [x] **Phase 24** — EXPLAIN/ANALYZE: reading query plans, identifying bottlenecks
+- [x] **Phase 25** — Index best practices: cardinality, selectivity, index maintenance
+- [x] **Phase 26** — Query optimization: slow query log, profiling, query rewriting
 
 ## Transactions & Data Integrity
 
