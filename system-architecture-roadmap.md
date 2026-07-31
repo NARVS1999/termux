@@ -53,11 +53,11 @@
 
 ## DevOps & Deployment
 
-- [ ] **Phase 32** — CI/CD pipelines: build, test, deploy stages, rollback strategies
-- [ ] **Phase 33** — Blue-green deployment: zero-downtime, traffic switching
-- [ ] **Phase 34** — Canary releases: incremental rollout, monitoring, rollback
-- [ ] **Phase 35** — Infrastructure as code: Terraform, CloudFormation, Ansible
-- [ ] **Phase 36** — GitOps: declarative infrastructure, ArgoCD, Flux
+- [x] **Phase 32** — CI/CD pipelines: build, test, deploy stages, rollback strategies
+- [x] **Phase 33** — Blue-green deployment: zero-downtime, traffic switching
+- [x] **Phase 34** — Canary releases: incremental rollout, monitoring, rollback
+- [x] **Phase 35** — Infrastructure as code: Terraform, CloudFormation, Ansible
+- [x] **Phase 36** — GitOps: declarative infrastructure, ArgoCD, Flux
 
 ## Monitoring & Observability
 
