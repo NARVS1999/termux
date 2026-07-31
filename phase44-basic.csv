@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng ADR sa Laravel project?",,"Gumawa ng docs/adr/ directory, gumawa ng numbered markdown file (001-use-redis-for-cache.md), i-follow ang template"
+Application,"Paano mag-document ng Laravel API?",,"Gamitin ang Scribe o Swagger/L5-Swagger package para auto-generate ng API documentation mula sa code"
+Application,"Paano gumawa ng magandang README para sa Laravel package?",,"Isama ang: installation, usage, configuration, examples, at contributing guidelines"
+Application,"Paano mag-document ng architectural decisions sa team?",,"Gamitin ang ADR format, isama ang context kung bakit ginawa ang decision, at ang mga consider alternatives"
+Application,"Paano mag-maintain ng technical docs sa Laravel project?",,"I-keep ang docs malapit sa code, i-update kapag may changes, at i-automate gamit ang CI/CD"

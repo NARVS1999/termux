@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-defend ng technical decision sa team meeting?",,"Magbigay ng clear na reasoning, i-present ang trade-offs, at i-cite ang evidence o best practices"
+Application,"Paano gumawa ng effective code review?",,"Tingnan ang correctness, readability, tests, at security — magbigay ng specific suggestions, hindi lang complaints"
+Application,"Paano i-explain ang complex technical concept sa non-technical na stakeholder?",,"Gamitin ang analogies, i-focus sa business value, at iwasan ang jargon"
+Application,"Paano i-handle ang disagreement sa technical approach?",,"I-present ang alternative na may pros/cons, i-listen sa reasoning ng iba, at i-agree sa best option"
+Application,"Paano mag-give ng constructive feedback sa code review?",,"Gamitin ang 'what' at 'why' format: 'This should be X because Y', at magbigay ng suggested solution"

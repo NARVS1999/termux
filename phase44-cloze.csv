@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::ADR}} o Architecture Decision Record ay isang document na nagre-record ng mahahalagang architectural decisions.",,ADR
+Cloze,"Ang {{c1::technical documentation}} ay ang written na dokumento na nag-e-explain ng system design, APIs, at processes.",,technical documentation
+Cloze,"Ang {{c1::ADR format}} ay karaniwang may: Title, Status, Context, Decision, at Consequences.",,ADR format
+Cloze,"Ang {{c1::API documentation}} ay ang documentation na nag-e-explain ng endpoints, parameters, at responses ng API.",,API documentation
+Cloze,"Ang {{c1::README}} sa project ay ang unang documentation na binabasa ng developers para maintindihan ang project.",,README
+Cloze,"Ang {{c1::inline documentation}} ay ang comments at PHPDoc blocks sa code na nag-e-explain ng purpose ng code.",,inline documentation
+Cloze,"Ang {{c1::runbook}} ay ang step-by-step guide para sa operational tasks tulad ng deployments at incident response.",,runbook
+Cloze,"Ang {{c1::RFC}} o Request for Comments ay isang proposal document para sa bagong features o architectural changes.",,RFC

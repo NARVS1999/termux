@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::codebase navigation}} ay ang ability na mabilis na makahanap at maintindihan ang relevant na code sa isang malaking project.",,codebase navigation
+Cloze,"Ang {{c1::onboarding}} sa codebase ay ang proseso ng pag-aaral ng bagong developer tungkol sa architecture at conventions ng project.",,onboarding
+Cloze,"Ang {{c1::entry points}} sa Laravel ay ang mga file na nag-i-start ng flow: routes, controllers, commands, at providers.",,entry points
+Cloze,"Ang {{c1::dependency graph}} ay ang visualization ng kung paano nagko-connect ang mga classes at modules sa project.",,dependency graph
+Cloze,"Ang {{c1::git blame}} ay ang tool na nagpapakita kung sino ang nag-write ng bawat line at kung kailan.",,git blame
+Cloze,"Ang {{c1::git log}} ay ang command na nagpapakita ng history ng commits para maintindihan ang evolution ng code.",,git log
+Cloze,"Ang {{c1::search strategy}} ay ang systematic na approach sa paghanap ng code: gamitin ang grep, glob, at IDE features.",,search strategy
+Cloze,"Ang {{c1::test suite}} ay ang pinakamagandang documentation ng expected behavior ng codebase.",,test suite

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-respond sa Laravel production incident?",,"I-acknowledge agad, i-check ang logs (telescope/sentry), i-communicate sa team, at i-apply ang fix"
+Application,"Paano gumawa ng post-mortem after an incident?",,"I-document ang: timeline, root cause, impact, resolution, at action items para maiwasan ang muli"
+Application,"Paano mag-setup ng on-call rotation para sa team?",,"Gamitin ang PagerDuty o OpsGenie, i-define ang escalation paths, at i-document ang runbooks"
+Application,"Paano i-communicate ang outage sa stakeholders?",,"Magbigay ng honest update, i-specify ang ETA kung possible, at i-update habang nagpro-progress ang fix"
+Application,"Paano maiwasan ang blame sa post-mortem?",,"I-focus sa systems at processes, hindi sa tao — gamitin ang 'what went wrong' sa halip na 'who went wrong'"

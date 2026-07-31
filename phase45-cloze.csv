@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::defending technical decisions}} ay ang ability na magpaliwanag at mag-justify ng ginawang technical choices sa team.",,defending technical decisions
+Cloze,"Ang {{c1::code review}} ay ang collaborative na proseso ng pag-examine ng code ng kapwa developer para sa quality.",,code review
+Cloze,"Ang {{c1::constructive feedback}} ay ang code review approach na nagpo-point ng issues na may suggested solutions.",,constructive feedback
+Cloze,"Ang {{c1::trade-off}} ay ang proseso ng pag-recognize na ang bawat technical decision ay may advantages at disadvantages.",,trade-off
+Cloze,"Ang {{c1::communication style}} ay ang paraan ng pagpapaliwanag ng technical concepts na angkop sa audience.",,communication style
+Cloze,"Ang {{c1::documentation-first approach}} ay ang paggawa ng documentation bago o habang nagde-develop para sa clarity.",,documentation-first approach
+Cloze,"Ang {{c1::disagree and commit}} ay ang principle na mag-express ng concerns pero sumunod sa final decision ng team.",,disagree and commit
+Cloze,"Ang {{c1::patience}} sa code review ay ang pagbibigay ng oras para maintindihan ang context bago magbigay ng feedback.",,patience

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-estimate ng task sa Laravel development?",,"Gamitin ang t-shirt sizing o story points, tignan ang complexity, data, at external dependencies"
+Application,"Paano mag-breakdown ng malaking feature sa tasks?",,"Hatiin ang feature sa: DB migration, Model/Relationship, API endpoint, Frontend, Tests"
+Application,"Paano mag-scope ng isang Laravel project?",,"Tukuyin ang MVP features, i-list ang lahat ng requirements, at i-prioritize kung ano ang gagawin muna"
+Application,"Paano mag-communicate ng timeline sa team o manager?",,"Magbigay ng honest estimate gamit ang t-shirt sizing, magdagdag ng buffer para sa unexpected issues"
+Application,"Paano i-handle ang scope creep sa project?",,"I-document ang bagong requests, i-evaluate ang impact, at i-communicate ang trade-offs sa stakeholders"

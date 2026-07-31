@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::estimation}} ay ang proseso ng pagtantiya kung gaano katagal o kahirap ang isang development task.",,estimation
+Cloze,"Ang {{c1::scoping}} ay ang proseso ng pag-determine ng exactong scope ng isang feature o project.",,scoping
+Cloze,"Ang {{c1::story points}} ay ang relative estimation technique na nag-a-assign ng complexity value sa tasks.",,story points
+Cloze,"Ang {{c1::t-shirt sizing}} ay ang estimation method na gumagamit ng XS, S, M, L, XL para i-categorize ang task size.",,t-shirt sizing
+Cloze,"Ang {{c1::breakdown}} ay ang proseso ng pag-hati ng malaking task sa mas maliliit, manageable na subtasks.",,breakdown
+Cloze,"Ang {{c1::MVP}} o Minimum Viable Product ay ang pinakasimpleng version ng product na may enough features para mag-launch.",,MVP
+Cloze,"Ang {{c1::sprint}} sa Agile development ay ang fixed time period (1-2 weeks) kung saan ang team ay nagko-complete ng tasks.",,sprint
+Cloze,"Ang {{c1::backlog}} ay ang prioritized list ng lahat ng tasks at features na kailangan gawin.",,backlog
