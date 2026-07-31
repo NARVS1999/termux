@@ -46,10 +46,10 @@
 
 ## Security Architecture
 
-- [ ] **Phase 28** — Authentication: OAuth2, JWT, session tokens, API keys
-- [ ] **Phase 29** — Authorization: RBAC, ABAC, policy engines, least privilege
-- [ ] **Phase 30** — Network security: VPC, firewalls, WAF, DDoS protection
-- [ ] **Phase 31** — Secrets management: vault, key rotation, encryption at rest
+- [x] **Phase 28** — Authentication: OAuth2, JWT, session tokens, API keys
+- [x] **Phase 29** — Authorization: RBAC, ABAC, policy engines, least privilege
+- [x] **Phase 30** — Network security: VPC, firewalls, WAF, DDoS protection
+- [x] **Phase 31** — Secrets management: vault, key rotation, encryption at rest
 
 ## DevOps & Deployment
 
