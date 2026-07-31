@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Sa {{c1::cache-aside}} strategy, sinusuri muna ang cache; kapag miss, kinukuha sa database at inilalagay sa cache.",,cache-aside
+Cloze,"Sa {{c1::write-through}} strategy, ang data ay sinisulat sa cache at database nang sabay.",,write-through
+Cloze,"Sa {{c1::write-back}} strategy, ang data ay isinusulat muna sa cache at pagkatapos lang i-flush sa database.",,write-back
+Cloze,"Ang {{c1::cache invalidation}} ay ang process ng pag-alis o pag-update ng stale data sa cache.",,cache invalidation
+Cloze,"Ang {{c1::cache stampede}} ay nangyayari kapag maraming requests ang sabay-sabay na mag-rebuild ng expired cache.",,cache stampede
+Cloze,"Ang {{c1::TTL}} (Time To Live) ay nag-specify kung gaano katagal mananatili ang cache item.",,TTL
+Cloze,"Ang {{c1::Cache::forget()}} ay ginagamit para tanggalin ang isang cache item nang manu-mano.",,Cache::forget()
+Cloze,"Ang {{c1::Cache::remember}} ay gumagamit ng {{c2::cache-aside}} pattern sa likod nito.",,Cache::remember

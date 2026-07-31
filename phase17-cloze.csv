@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Redis}} ay isang in-memory data store na ginagamit para sa caching, queues, at locks.",,Redis
+Cloze,"Ang {{c1::Memcached}} ay isang simple na distributed memory caching system na in-memory lang.",,Memcached
+Cloze,"Ang {{c1::cache tags}} ay nagbibigay ng label sa cache items para sabay-sabay na ma-invalidate.",,cache tags
+Cloze,"Ang {{c1::cache lock}} ay ginagamit para maiwasan ang concurrent execution ng isang critical section.",,cache lock
+Cloze,"Ang {{c1::rate limiting}} ay naglilimita sa dami ng requests na pwedeng gawin ng isang user o IP.",,rate limiting
+Cloze,"Ang {{c1::Cache facade}} ay ginagamit para mag-store at mag-retrieve ng cache items.",,Cache facade
+Cloze,"Ang {{c1::CACHE_DRIVER}} env variable ay nagko-control kung aling driver ang ginagamit (redis, file, database).",,CACHE_DRIVER
+Cloze,"Ang {{c1::ThrottleRequests}} middleware ay nag-i-implement ng rate limiting sa routes.",,ThrottleRequests

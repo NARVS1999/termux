@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano makita kung ilang queries ang tinatakbo ng isang page?",,"I-enable ang Laravel Debugbar at tingnan ang Queries tab."
+Application,"Paano i-step debug ang code line-by-line?",,"Gumamit ng Xdebug kasama ang IDE (e.g. VS Code + Xdebug extension)."
+Application,"Paano makita ang lahat ng requests, exceptions, at queries sa production?",,"I-install ang Laravel Telescope."
+Application,"Paano hanapin ang performance bottleneck ng isang request?",,"Gumamit ng profiler (Blackfire o Xdebug profile) at i-analyze ang call graph."
+Application,"Paano makita ang mga slow queries sa database?",,"I-enable ang slow query log o i-monitor gamit ang Query Monitor."

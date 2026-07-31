@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Laravel Debugbar}} ay nagpapakita ng queries, memory usage, at execution time sa development.",,Laravel Debugbar
+Cloze,"Ang {{c1::Xdebug}} ay isang PHP extension para sa step debugging at profiling.",,Xdebug
+Cloze,"Ang {{c1::Blackfire}} ay isang profiler na nagpapakita ng performance bottlenecks ng app.",,Blackfire
+Cloze,"Ang {{c1::Laravel Telescope}} ay nagbibigay ng insight sa requests, queries, jobs, at exceptions ng app.",,Laravel Telescope
+Cloze,"Ang {{c1::Query Monitor}} ay nagco-cover ng mga slow queries at duplicate queries sa app.",,Query Monitor
+Cloze,"Ang {{c1::profiling}} ay ang process ng pag-measure kung saan ginugugol ang time at resources.",,profiling
+Cloze,"Ang {{c1::slow query log}} ay nagre-record ng mga queries na lumampas sa tinakdang tagal.",,slow query log
+Cloze,"Ang {{c1::callgrind}} o {{c2::profile}} file ay ang output ng profiler na naglalaman ng performance data.",,callgrind/profile

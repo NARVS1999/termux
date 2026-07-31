@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-prevent na ma-process ulit ng PHP ang isang page kada request?",,"Gamitin ang page caching o full-page cache (ex. ngrok, Laravel Page Cache package)."
+Application,"Paano mapabilis ang pag-load ng CSS/JS?",,"I-minify at i-build gamit ang Vite: npm run build."
+Application,"Paano i-ensure na hindi magkakaroon ng stale cache ang browser kapag may bagong deploy?",,"Gamitin ang content-hashed filenames at immutable cache headers."
+Application,"Paano i-enable ang OPcache sa production?",,"I-set ang opcache.enable=1 at opcache.memory_consumption sa php.ini."
+Application,"Paano mag-serve ng static assets mula sa CDN?",,"I-upload ang assets sa CDN at i-update ang asset URLs sa config."

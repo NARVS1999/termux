@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::HTTP caching}} ay nagco-cache ng HTTP responses sa browser o proxy para mabawasan ang server requests.",,HTTP caching
+Cloze,"Ang {{c1::Cache-Control}} header ay nag-uutos sa browser kung gaano katagal i-cache ang response.",,Cache-Control
+Cloze,"Ang {{c1::ETag}} ay isang validator na ginagamit para i-check kung nagbago ba ang resource.",,ETag
+Cloze,"Ang {{c1::OPcache}} ay nagco-compile ng PHP bytecode para mabilis ang execution sa mga repeat requests.",,OPcache
+Cloze,"Ang {{c1::page caching}} ay ang pag-save ng buong rendered HTML para ma-serve nang hindi na mag-run ang PHP.",,page caching
+Cloze,"Ang {{c1::asset optimization}} ay ang pag-minify at pag-compress ng CSS/JS files para mas mabilis ma-load.",,asset optimization
+Cloze,"Ang {{c1::Laravel Mix}} o {{c2::Vite}} ay ginagamit para mag-build at mag-minify ng assets.",,Mix/Vite
+Cloze,"Ang {{c1::public cache}} (CDN) ay nag-iimbak ng static responses para ma-serve malapit sa user.",,public cache
