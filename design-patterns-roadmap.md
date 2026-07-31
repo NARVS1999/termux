@@ -20,13 +20,13 @@
 
 ## Structural Patterns
 
-- [ ] **Phase 11** — Adapter: converting interfaces, legacy integration, third-party wrapping
-- [ ] **Phase 12** — Bridge: separating abstraction from implementation, platform independence
-- [ ] **Phase 13** — Composite: tree structures, part-whole hierarchy, recursive composition
-- [ ] **Phase 14** — Decorator: adding responsibilities dynamically, wrapping objects
-- [ ] **Phase 15** — Facade: simplified interface, subsystem abstraction
-- [ ] **Phase 16** — Flyweight: sharing common state, memory optimization
-- [ ] **Phase 17** — Proxy: controlling access, virtual proxy, protection proxy, remote proxy
+- [x] **Phase 11** — Adapter: converting interfaces, legacy integration, third-party wrapping
+- [x] **Phase 12** — Bridge: separating abstraction from implementation, platform independence
+- [x] **Phase 13** — Composite: tree structures, part-whole hierarchy, recursive composition
+- [x] **Phase 14** — Decorator: adding responsibilities dynamically, wrapping objects
+- [x] **Phase 15** — Facade: simplified interface, subsystem abstraction
+- [x] **Phase 16** — Flyweight: sharing common state, memory optimization
+- [x] **Phase 17** — Proxy: controlling access, virtual proxy, protection proxy, remote proxy
 
 ## Behavioral Patterns
 
