@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano magdagdag ng index sa email column sa migration?",,"$table->index('email'); o $table->unique('email');"
+Application,"Paano i-speed up ang query na nagfi-filter ng 'status' at 'created_at'?",,"Gumawa ng composite index sa parehong columns: $table->index(['status', 'created_at']);"
+Application,"Bakit hindi ginagamit ang index ng isang query kahit naka-index ang column?",,"Pwedeng hindi sumusunod sa leftmost prefix rule o mababa ang selectivity ng column."
+Application,"Paano i-avoid na kailangan pang i-access ang original table rows?",,"Gumamit ng covering index na may kasamang lahat ng columns na kailangan ng query."
+Application,"Paano mag-check kung ginagamit ba ng query ang index?",,"Tingnan ang EXPLAIN output — kung 'const' o 'ref' ang type, ginagamit ang index."

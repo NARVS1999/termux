@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::index}} ay isang database structure na nagpapabilis ng SELECT queries pero nagpapabagal ng INSERT/UPDATE.",,index
+Cloze,"Ang {{c1::composite index}} ay isang index na binubuo ng dalawa o higit pang columns.",,composite index
+Cloze,"Ang {{c1::covering index}} ay isang index na naglalaman ng lahat ng columns na kailangan ng query, kaya hindi na kailangan i-access ang table.",,covering index
+Cloze,"Ang {{c1::leftmost prefix}} rule ay nagsasabi na dapat magsimula sa pinakaunang column ng composite index ang query.",,leftmost prefix
+Cloze,"Ang {{c1::selectivity}} ay tumutukoy kung gaano ka-unique ang values ng isang column — mas mataas ang better para sa index.",,selectivity
+Cloze,"Ang {{c1::unique index}} ay nag-e-enforce na walang duplicate values sa column.",,unique index
+Cloze,"Ang {{c1::full table scan}} ay ang pag-scan ng buong table kapag walang magamit na index — mabagal sa malalaking tables.",,full table scan
+Cloze,"Ang {{c1::cardinality}} ay ang bilang ng distinct values sa isang index column.",,cardinality

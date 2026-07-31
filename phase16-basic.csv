@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng bagong migration?",,"php artisan make:migration create_posts_table"
+Application,"Paano mag-create ng bagong table sa migration?",,"Schema::create('posts', function (Blueprint $table) { ... });"
+Application,"Paano maglagay ng sample data sa database?",,"Gumawa ng seeder at patakbuhin ang php artisan db:seed"
+Application,"Paano mag-create ng 50 fake users na may random data?",,"Gamitin ang factory: User::factory()->count(50)->create();"
+Application,"Paano mag-ensure na walang dalawang users na magkakapareho ang email?",,"Magdagdag ng unique constraint: $table->string('email')->unique();"

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::window functions}} ay nagco-compute ng value batay sa isang set ng rows nang hindi nag-grupo sa iisang row.",,window functions
+Cloze,"Ang {{c1::ROW_NUMBER()}} ay isang window function na nag-a-assign ng sequential number kada row sa isang partition.",,ROW_NUMBER()
+Cloze,"Ang {{c1::RANK()}} ay nagbibigay ng position ng bawat row, na may parehong rank para sa magkaparehong values.",,RANK()
+Cloze,"Ang {{c1::LAG()}} ay nag-a-access ng nakaraang row value, habang ang {{c2::LEAD()}} ay ang susunod na row.",,LAG()/LEAD()
+Cloze,"Ang {{c1::CTE}} (Common Table Expression) ay isang temporary result set na maaaring i-reference sa isang query gamit ang WITH.",,CTE
+Cloze,"Ang {{c1::WITH}} keyword ay ginagamit para i-define ang isang CTE.",,WITH
+Cloze,"Ang {{c1::JSON columns}} ay nagpapahintulot na mag-imbak ng structured data sa isang column.",,JSON
+Cloze,"Ang {{c1::recursive CTE}} ay isang CTE na tumutukoy sa sarili nito para i-traverse ang hierarchical data.",,recursive CTE
+Cloze,"Ang {{c1::PARTITION BY}} ay naghahati ng rows sa mga grupo para sa window function.",,PARTITION BY

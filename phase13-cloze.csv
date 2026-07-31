@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::normalization}} ay ang process ng pag-organize ng database para mabawasan ang data redundancy at dependency.",,normalization
+Cloze,"Ang {{c1::denormalization}} ay ang deliberate na pag-keep ng duplicate data para mapabilis ang reads.",,denormalization
+Cloze,"Ang {{c1::1NF}} ay nagsisiguro na ang bawat column ay may atomic values at walang repeating groups.",,1NF
+Cloze,"Ang {{c1::2NF}} ay nagsisiguro na ang lahat ng non-key columns ay fully dependent sa primary key.",,2NF
+Cloze,"Ang {{c1::3NF}} ay nagsisiguro na walang transitive dependency sa pagitan ng non-key columns.",,3NF
+Cloze,"Ang {{c1::foreign key}} ay nagli-link ng isang table sa primary key ng ibang table para i-enforce ang relationships.",,foreign key
+Cloze,"Ang {{c1::data redundancy}} ay ang pag-imbak ng parehong data sa maraming lugar na pwedeng magdulot ng inconsistency.",,data redundancy
+Cloze,"Ang {{c1::write}} performance ang nag-improve kapag normalize, habang ang {{c2::read}} performance ang bumibilis kapag denormalize.",,write/read

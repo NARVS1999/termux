@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano iwasan ang duplicate ng address data sa orders table?",,"I-normalize: gumawa ng addresses table at i-reference ito gamit ang foreign key."
+Application,"Paano mapabilis ang report na nagjo-join ng maraming tables?",,"I-consider ang denormalization: mag-add ng summary/aggregate columns o table."
+Application,"Paano i-enforce na ang bawat order ay may valid user?",,"Magdagdag ng foreign key constraint: $table->foreignId('user_id')->constrained();"
+Application,"Paano hatiin ang isang table na may paulit-ulit na values?",,"Gumawa ng hiwalay na reference table at i-link gamit ang foreign key."
+Application,"Kailan pinakamaganda gumamit ng normalized schema?",,"Kapag write-heavy ang app at mahalaga ang data consistency."

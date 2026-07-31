@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::migrations}} ay version control para sa database schema ng Laravel.",,migrations
+Cloze,"Ang {{c1::seeder}} ay ginagamit para maglagay ng test o default data sa database.",,seeder
+Cloze,"Ang {{c1::factory}} ay isang class na nag-ge-generate ng fake data para sa models sa tests at seeders.",,factory
+Cloze,"Ang {{c1::up()}} method ng migration ay nag-aapply ng changes, habang ang {{c2::down()}} ay nagre-reverse nito.",,up()/down()
+Cloze,"Ang {{c1::php artisan migrate}} ay nagpapatakbo ng lahat ng pending migrations.",,php artisan migrate
+Cloze,"Ang {{c1::foreign key constraint}} ay nag-e-enforce na ang value ay dapat umiiral sa referenced table.",,foreign key constraint
+Cloze,"Ang {{c1::unique constraint}} ay nag-e-enforce na walang duplicate values sa column o set ng columns.",,unique constraint
+Cloze,"Ang {{c1::check constraint}} ay nag-validate na ang value ay sumusunod sa isang condition.",,check constraint
+Cloze,"Ang {{c1::cascade}} ay awtomatikong nagde-delete o nag-u-update ng child rows kapag nagbago ang parent.",,cascade
