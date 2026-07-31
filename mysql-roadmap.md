@@ -48,11 +48,11 @@
 
 ## Transactions & Data Integrity
 
-- [ ] **Phase 27** — ACID properties: atomicity, consistency, isolation, durability
-- [ ] **Phase 28** — Transaction control: BEGIN, COMMIT, ROLLBACK, SAVEPOINT
-- [ ] **Phase 29** — Isolation levels: READ UNCOMMITTED, READ COMMITTED, REPEATABLE READ, SERIALIZABLE
-- [ ] **Phase 30** — Locking: row locks, table locks, deadlock prevention, SELECT FOR UPDATE
-- [ ] **Phase 31** — Concurrency control: MVCC, optimistic vs pessimistic locking
+- [x] **Phase 27** — ACID properties: atomicity, consistency, isolation, durability
+- [x] **Phase 28** — Transaction control: BEGIN, COMMIT, ROLLBACK, SAVEPOINT
+- [x] **Phase 29** — Isolation levels: READ UNCOMMITTED, READ COMMITTED, REPEATABLE READ, SERIALIZABLE
+- [x] **Phase 30** — Locking: row locks, table locks, deadlock prevention, SELECT FOR UPDATE
+- [x] **Phase 31** — Concurrency control: MVCC, optimistic vs pessimistic locking
 
 ## Stored Procedures, Functions & Triggers
 
