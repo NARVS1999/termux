@@ -43,9 +43,9 @@
 
 ## Forms & Validation
 
-- [ ] **Phase 25** — Controlled vs uncontrolled inputs, form state management
-- [ ] **Phase 26** — Form validation: manual, library (React Hook Form, Yup/Zod)
-- [ ] **Phase 27** — File uploads, multi-step forms, form wizards
+- [x] **Phase 25** — Controlled vs uncontrolled inputs, form state management
+- [x] **Phase 26** — Form validation: manual, library (React Hook Form, Yup/Zod)
+- [x] **Phase 27** — File uploads, multi-step forms, form wizards
 
 ## State Management
 
