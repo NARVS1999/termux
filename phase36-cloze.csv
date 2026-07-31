@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::retry}} ay ang proseso ng pag-uulit ng isang failed operation para sa possible success.",,retry
+Cloze,"Ang {{c1::circuit breaker}} ay isang design pattern na nagpo-pause ng requests sa isang failing service para maiwasan ang cascade failure.",,circuit breaker
+Cloze,"Ang {{c1::graceful degradation}} ay ang ability ng system na magpatuloy sa pag-work kahit may ibang components na nag-fail.",,graceful degradation
+Cloze,"Ang {{c1::exponential backoff}} ay isang retry strategy kung saan ang pagitan ng retries ay unti-unting lumalaki.",,exponential backoff
+Cloze,"Ang {{c1::fallback}} ay ang alternative na response kapag nag-fail ang primary na operation.",,fallback
+Cloze,"Ang {{c1::timeout}} ay ang maximum na oras na hinintay bago i-consider na failed ang isang operation.",,timeout
+Cloze,"Ang {{c1::idempotent}} operation ay ang operation na pwedeng i-run nang maraming beses na may parehong result.",,idempotent
+Cloze,"Ang {{c1::bulkhead}} ay isang pattern na naghihiwalay ng resources para maiwasan ang cascade failure sa ibang parts ng system.",,bulkhead

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::refactoring}} ay ang proseso ng pagpapabuti ng internal na structure ng code nang hindi nagbabago ng external behavior.",,refactoring
+Cloze,"Ang {{c1::code review}} ay ang proseso ng pag-examine ng code ng ibang developer para sa quality, correctness, at best practices.",,code review
+Cloze,"Ang {{c1::technical debt}} ay ang implied cost ng rework na dulot ng pagpili ng madaling solusyon sa halip na tamang approach.",,technical debt
+Cloze,"Ang {{c1::extract method}} refactoring ay ang pagkuha ng code snippet at paggawa ng bagong method para dito.",,extract method
+Cloze,"Ang {{c1::rename}} refactoring ay ang pagbabago ng pangalan ng variable, method, o class para sa mas malinaw na code.",,rename
+Cloze,"Ang {{c1::code smell}} ay ang sign sa code na nagpapahiwatig ng mas malalim na problema sa design.",,code smell
+Cloze,"Ang {{c1::DRY}} o Don't Repeat Yourself ay ang principle na huwag mag-duplicate ng logic — gumawa ng reusable code.",,DRY
+Cloze,"Ang {{c1::KISS}} o Keep It Simple, Stupid ay ang principle na panatilihing simple ang code hangga't maaari.",,KISS
+Cloze,"Ang {{c1::YAGNI}} o You Ain't Gonna Need It ay ang principle na huwag gumawa ng functionality na hindi pa kailangan.",,YAGNI

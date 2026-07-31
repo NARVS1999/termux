@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-refactor ng isang malaking Laravel method?",,"Hatiin sa mga maliliit na method, pangalanan nang malinaw, at i-test ang bawat bagong method"
+Application,"Paano gumawa ng effective code review?",,"Tingnan ang logic, tests, naming, security, at performance — magbigay ng constructive feedback"
+Application,"Paano i-manage ang technical debt sa Laravel project?",,"mag-create ng issue tracker para sa debt items, i-prioritize, at i-alot ng oras sa sprint para i-address"
+Application,"Paano mag-apply ng DRY principle sa Laravel?",,"Gumawa ng traits, helpers, o base classes para sa repeated logic, gamitin ang Blade components para sa UI"
+Application,"Paano malaman kung may code smell sa Laravel app?",,"Tingnan ang mga: long methods, large classes, duplicate code, deep nesting, at shotgun surgery"

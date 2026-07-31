@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::observability}} ay ang ability na mag-determine ng internal na state ng system gamit ang mga external outputs.",,observability
+Cloze,"Ang {{c1::structured logging}} ay ang pag-log ng data sa JSON format para sa madaling parsing at analysis.",,structured logging
+Cloze,"Ang {{c1::monitoring}} ay ang proseso ng pag-collect at pag-analyze ng metrics para masubaybayan ang health ng system.",,monitoring
+Cloze,"Ang {{c1::alerting}} ay ang system na nagno-notify ng admin kapag na-detect ang anomalies o threshold breaches.",,alerting
+Cloze,"Ang {{c1::Sentry}} ay isang error tracking platform na nagco-collect ng exceptions at nagbibigay ng real-time notifications.",,Sentry
+Cloze,"Ang {{c1::Laravel Telescope}} ay isang debugging assistant na nagmo-monitor ng requests, exceptions, queries, at more.",,Laravel Telescope
+Cloze,"Ang {{c1::metrics}} ay ang quantifiable data na nagpapakita ng performance at health ng application.",,metrics
+Cloze,"Ang {{c1::distributed tracing}} ay ang proseso ng pag-track ng requests sa pamamagitan ng maraming services o microservices.",,distributed tracing
+Cloze,"Ang {{c1::log level}} ay ang severity ng log message: debug, info, notice, warning, error, critical.",,log level
+Cloze,"Ang {{c1::health check}} ay isang endpoint na nagbabalik ng status ng application para sa monitoring.",,health check

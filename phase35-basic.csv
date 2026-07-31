@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-structure ng modular Laravel app?",,"Gumawa ng Modules directory, bawat module may sariling Routes, Controllers, Models, at ServiceProvider"
+Application,"Paano mag-setup ng multi-tenancy sa Laravel?",,"i-install ang stancl/laravel-tenancy, i-configure ang tenancy.php, at i-set up ang tenant identification"
+Application,"Paano mag-separate ng data per tenant?",,"Gamitin ang database per tenant strategy: bawat tenant ay may sariling DB connection sa config/database.php"
+Application,"Paano gumawa ng reusable module sa Laravel?",,"Gumawa ng package gamit ang package structure, i-register ang service provider, at i-publish ang config"
+Application,"Paano mag-switch ng database connection per tenant?",,"Gamitin ang Tenancy::tenant() hook para i-set ang DB connection base sa current tenant"

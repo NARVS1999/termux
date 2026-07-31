@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::modular architecture}} ay isang design approach kung saan hinahati ang application sa independent, interchangeable modules.",,modular architecture
+Cloze,"Ang {{c1::multi-tenancy}} ay ang ability ng isang application na mag-serve ng maraming tenants (customers) gamit ang iisang codebase.",,multi-tenancy
+Cloze,"Ang {{c1::tenant}} sa multi-tenant app ay ang individual na customer o organization na may sariling data.",,tenant
+Cloze,"Ang {{c1::database per tenant}} ay ang multi-tenancy strategy kung saan bawat tenant ay may sariling database.",,database per tenant
+Cloze,"Ang {{c1::shared database}} ay ang strategy kung saan nagsha-share ang lahat ng tenants ng iisang database pero may sariling tables.",,shared database
+Cloze,"Ang {{c1::schema per tenant}} ay ang strategy kung saan bawat tenant ay may sariling schema sa iisang database.",,schema per tenant
+Cloze,"Ang {{c1::Stancl/Tenancy}} ay isang Laravel package na nag-a-add ng multi-tenancy capabilities sa application.",,Stancl/Tenancy
+Cloze,"Ang {{c1::module}} sa Laravel ay isang self-contained package na may sariling routes, controllers, models, at config.",,module
+Cloze,"Ang {{c1::service provider}} ng module ay ang central na nagre-register ng lahat ng module bindings at configurations.",,service provider
