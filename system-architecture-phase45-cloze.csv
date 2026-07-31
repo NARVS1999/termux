@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::URL shortener}} ay ang service na nagco-convert ng long URLs sa short, memorable na URLs.",,URL shortener
+Cloze,"Ang {{c1::hashing}} sa URL shortener ay ang pag-generate ng short code: base62 encoding, MD5.",,hashing
+Cloze,"Ang {{c1::redirection}} ay ang pag-forward ng short URL sa original long URL gamit ang 301/302.",,redirection
+Cloze,"Ang {{c1::analytics}} sa URL shortener ay ang pag-track ng clicks, location, referrers.",,analytics
+Cloze,"Ang {{c1::collision}} ay ang problem kapag dalawang URLs ay nag-generate ng parehong short code.",,collision

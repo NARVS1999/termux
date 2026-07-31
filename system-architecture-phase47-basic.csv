@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-design ng e-commerce platform?",,"products, orders, inventory, payments — bawat module ay may sariling database at service"
+Application,"Paano i-handle ang inventory?",,"gumamit ng pessimistic locking o optimistic locking para maiwasan ang overselling"
+Application,"Paano mag-integrate ng payment gateway?",,"gamitin ang Stripe/PayPal SDK, i-handle ang webhooks, i-implement ang idempotency"
+Application,"Paano i-optimize ang product search?",,"gamitin ang Elasticsearch o Algolia para sa full-text search at faceted filtering"
+Application,"Paano gumawa ng recommendation engine?",,"i-analyze ang user behavior, i-apply ang collaborative filtering, i-cache ang recommendations"

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::chat system}} ay ang real-time messaging platform na nagbibigay ng instant communication.",,chat system
+Cloze,"Ang {{c1::WebSockets}} sa chat ay ang protocol para sa full-duplex, real-time messaging.",,WebSockets
+Cloze,"Ang {{c1::presence}} ay ang feature na nagpapakita kung online ba ang user.",,presence
+Cloze,"Ang {{c1::message ordering}} ay ang pag-sure na ang messages ay naka-display sa tamang order.",,message ordering
+Cloze,"Ang {{c1::chat storage}} ay ang pag-store ng messages: database, cache, o archive.",,chat storage
