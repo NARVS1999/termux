@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::subquery}} ay ang query na nasa loob ng ibang query — ang inner query ay nauna bago mag-execute.",,subquery
+Cloze,"Ang {{c1::correlated subquery}} ay ang subquery na nag-refer sa column mula sa outer query.",,correlated subquery
+Cloze,"Ang {{c1::non-correlated subquery}} ay ang subquery na independent sa outer query.",,non-correlated subquery
+Cloze,"Ang {{c1::EXISTS}} operator ay nagche-check kung may rows na returned ng subquery.",,EXISTS
+Cloze,"Ang {{c1::IN}} operator sa subquery ay nagche-check kung ang value ay nasa list ng subquery.",,IN
+Cloze,"Ang {{c1::ANY at ALL}} ay comparison operators na nagco-compare sa lahat ng values ng subquery.",,ANY/ALL

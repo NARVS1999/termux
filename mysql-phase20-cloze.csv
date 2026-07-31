@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::CTE}} o Common Table Expression ay ang temporary named result set na ginagamit sa loob ng query.",,CTE
+Cloze,"Ang {{c1::WITH}} clause ay nagde-define ng CTE bago ang main query.",,WITH
+Cloze,"Ang {{c1::recursive CTE}} ay ang CTE na tumatawag sa sarili para mag-process ng hierarchical data.",,recursive CTE
+Cloze,"Ang {{c1::hierarchical query}} ay ang query na nagna-navigate sa tree-like data (org chart, categories).",,hierarchical query
+Cloze,"Ang {{c1::anchor member}} sa recursive CTE ay ang base case na nagbibigay ng starting rows.",,anchor member

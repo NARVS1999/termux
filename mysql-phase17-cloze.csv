@@ -1,0 +1,8 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::COUNT()}} function ay nagbibilang ng rows: COUNT(*) para sa lahat, COUNT(column) para sa non-NULL.",,COUNT
+Cloze,"Ang {{c1::SUM()}} function ay nag-a-add ng values sa isang numeric column.",,SUM
+Cloze,"Ang {{c1::AVG()}} function ay nagku-compute ng average ng values sa column.",,AVG
+Cloze,"Ang {{c1::MIN() at MAX()}} functions ay nagre-return ng pinakamababa at pinakamataas na value.",,MIN/MAX
+Cloze,"Ang {{c1::GROUP BY}} clause ay nagga-group ng rows na may parehong values para sa aggregation.",,GROUP BY
+Cloze,"Ang {{c1::HAVING}} clause ay nagfi-filter ng groups base sa aggregate condition (sa halip na WHERE).",,HAVING
+Cloze,"Ang {{c1::aggregate functions}} ay mga functions na nag-o-operate sa group of rows: COUNT, SUM, AVG.",,aggregate functions

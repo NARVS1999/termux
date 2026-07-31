@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-count ng rows gamit ang COUNT?",,"SELECT COUNT(*) FROM users; —COUNT(*) ay nagbibilang ng lahat ng rows kasama ang NULL"
+Application,"Paano mag-group at mag-aggregate?",,"SELECT user_id, SUM(total) FROM orders GROUP BY user_id; — i-sum ang orders per user"
+Application,"Paano mag-filter ng groups gamit ang HAVING?",,"SELECT user_id, SUM(total) FROM orders GROUP BY user_id HAVING SUM(total) > 1000;"
+Application,"Ano ang pagkakaiba ng WHERE at HAVING?",,"WHERE: nagfi-filter ng rows bago mag-group. HAVING: nagfi-filter ng groups pagkatapos mag-group."
+Application,"Paano mag-average ng column?",,"SELECT AVG(age) FROM users; —gamitin ang AVG function para sa average value"

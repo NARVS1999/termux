@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumamit ng subquery sa WHERE?",,"SELECT * FROM users WHERE id IN (SELECT user_id FROM orders WHERE total > 100);"
+Application,"Paano gumamit ng EXISTS?",,"SELECT * FROM users u WHERE EXISTS (SELECT 1 FROM orders o WHERE o.user_id = u.id);"
+Application,"Ano ang difference ng IN at EXISTS?",,"IN: mas mabagal sa malalaking datasets. EXISTS: mas mabilis dahil nag-stop sa unang match."
+Application,"Paano gumamit ng correlated subquery?",,"SELECT * FROM users u WHERE (SELECT COUNT(*) FROM orders o WHERE o.user_id = u.id) > 5;"
+Application,"Paano gumamit ng ANY?",,"SELECT * FROM products WHERE price > ANY (SELECT price FROM products WHERE category = 'sale');"

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::UNION}} ay nagco-combine ng results mula sa dalawang queries at nag-aalis ng duplicates.",,UNION
+Cloze,"Ang {{c1::UNION ALL}} ay nagco-combine ng results na may kasamang duplicates.",,UNION ALL
+Cloze,"Ang {{c1::INTERSECT}} ay nagre-return lang ng rows na present sa dalawang queries.",,INTERSECT
+Cloze,"Ang {{c1::EXCEPT}} o MINUS ay nagre-return ng rows na nasa unang query pero wala sa pangalawa.",,EXCEPT
+Cloze,"Ang {{c1::set operation}} ay ang combining ng results mula sa dalawang SELECT statements.",,set operation

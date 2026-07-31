@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gamitin ang UNION?",,"SELECT name FROM employees UNION SELECT name FROM contractors; — nag-aalis ng duplicates"
+Application,"Paano gamitin ang UNION ALL?",,"SELECT name FROM employees UNION ALL SELECT name FROM contractors; — mas mabilis, may duplicates"
+Application,"Ano ang pagkakaiba ng UNION at UNION ALL?",,"UNION: nag-aalis ng duplicates (mas mabagal). UNION ALL: walang dedup (mas mabilis)."
+Application,"Paano gamitin ang INTERSECT?",,"SELECT user_id FROM orders INTERSECT SELECT user_id FROM reviews; — users na may orders AT reviews"
+Application,"Paano mag-combine ng multiple queries?",,"SELECT name FROM employees UNION SELECT name FROM contractors UNION SELECT name FROM interns;"
