@@ -73,11 +73,11 @@
 
 ## Communication & Soft Skills (what actually gets you promoted)
 
-- **Phase 43** — Estimation and scoping, breaking work into tasks
-- **Phase 44** — Writing ADRs (architecture decision records) and technical docs
-- **Phase 45** — Defending technical decisions, running code reviews
-- **Phase 46** — Reading/understanding unfamiliar codebases quickly
-- **Phase 47** — Incident response and post-mortems
+- [x] **Phase 43** — Estimation and scoping, breaking work into tasks
+- [x] **Phase 44** — Writing ADRs (architecture decision records) and technical docs
+- [x] **Phase 45** — Defending technical decisions, running code reviews
+- [x] **Phase 46** — Reading/understanding unfamiliar codebases quickly
+- [x] **Phase 47** — Incident response and post-mortems
 
 ## Recommended Learning Path (priority order)
 
