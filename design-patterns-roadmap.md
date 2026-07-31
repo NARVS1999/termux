@@ -50,10 +50,10 @@
 
 ## Concurrency Patterns
 
-- [ ] **Phase 32** — Thread Pool: resource management, worker threads, task queue
-- [ ] **Phase 33** — Producer-Consumer: bounded buffer, blocking queue
-- [ ] **Phase 34** — Read-Write Lock: concurrent reads, exclusive writes
-- [ ] **Phase 35** — Monitor: synchronization, condition variables, mutex
+- [x] **Phase 32** — Thread Pool: resource management, worker threads, task queue
+- [x] **Phase 33** — Producer-Consumer: bounded buffer, blocking queue
+- [x] **Phase 34** — Read-Write Lock: concurrent reads, exclusive writes
+- [x] **Phase 35** — Monitor: synchronization, condition variables, mutex
 
 ## Enterprise Patterns
 
