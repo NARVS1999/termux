@@ -1,0 +1,12 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::XSS}} o Cross-Site Scripting ay isang attack kung saan nag-iinject ang attacker ng malicious scripts sa web pages na binabrowse ng ibang users.",,XSS
+Cloze,"Ang {{c1::SQL Injection}} ay isang attack kung saan nag-iinject ang attacker ng SQL commands sa input fields para ma-access o ma-manipulate ang database.",,SQL Injection
+Cloze,"Ang {{c1::CSRF}} o Cross-Site Request Forgery ay isang attack na nagpapanggap na ang legitimate user ay nagfa-flashback request mula sa ibang site.",,CSRF
+Cloze,"Ang {{c1::SSRF}} o Server-Side Request Forgery ay isang attack kung saan pinipilit ang server na mag-send ng requests sa internal resources.",,SSRF
+Cloze,"Ang {{c1::IDOR}} o Insecure Direct Object Reference ay vulnerability kung saan ma-a-access ng user ang mga resources ng iba gamit ang direct URL manipulation.",,IDOR
+Cloze,"Ang {{c1::mass assignment}} ay vulnerability kung saan malayang na-assign ng user ang mga protected model attributes sa Laravel.",,mass assignment
+Cloze,"Ang {{c1::$fillable}} property sa Laravel model ay ang listahan ng fields na pinapayagan na i-mass assign.",,$fillable
+Cloze,"Ang {{c1::token}} na CSRF token ay ginagamit para protektahan ang mga forms laban sa CSRF attacks sa Laravel.",,CSRF token
+Cloze,"Ang {{c1::htmlspecialchars()}} function ay ginagamit para i-sanitize ang user input at maiwasan ang XSS attacks.",,htmlspecialchars
+Cloze,"Ang {{c1::prepared statements}} ay ang tamang paraan para maiwasan ang SQL injection sa Laravel gamit ang Query Builder o Eloquent.",,prepared statements
+Cloze,"Ang {{c1::Content Security Policy}} ay isang HTTP header na tumutulong maiwasan ang XSS attacks sa pamamagitan ng pag-limit sa mga allowed resources.",,Content Security Policy

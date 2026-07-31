@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-encrypt ng data sa Laravel?",,"Gamitin ang Crypt::encrypt($data) at Crypt::decrypt($encryptedData) para sa AES-256 encryption"
+Application,"Paano mag-hash ng password sa Laravel?",,"Gamitin ang Hash::make($password) para i-hash at Hash::check($password, $hash) para i-verify"
+Application,"Paano maiiwasan na ma-commit ang .env file sa git?",,"Gamitin ang .gitignore file at i-add ang .env para hindi ma-track ng git"
+Application,"Paano mag-enable ng TLS/SSL para sa encryption in transit?",,"Gamitin ang HTTPS sa server configuration, i-redirect ang lahat ng HTTP requests sa HTTPS"
+Application,"Paano mag-imbak ng secrets nang secure sa production?",,"Huwag gumamit ng .env sa production — gumamit ng environment variables, vault, o encrypted configuration files"

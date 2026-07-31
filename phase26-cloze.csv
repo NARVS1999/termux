@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Authentication}} (AuthN) ay ang proseso ng pag-verify kung sino ang user — pag-confirm ng identity.",,Authentication
+Cloze,"Ang {{c1::Authorization}} (AuthZ) ay ang proseso ng pag-determine kung ano ang pwedeng gawin ng user pagkatapos ma-authenticate.",,Authorization
+Cloze,"Ang {{c1::Spatie Laravel Permission}} ay isang package na nag-a-add ng roles at permissions system sa Laravel.",,Spatie Laravel Permission
+Cloze,"Ang {{c1::Gate}} sa Laravel ay isang simple authorization mechanism para sa single-action checks.",,Gate
+Cloze,"Ang {{c1::Policy}} sa Laravel ay isang class na nag-determine kung may permission ang user na gawin ang isang action sa specific model.",,Policy
+Cloze,"Ang {{c1::role}} sa Spatie permission ay isang collection ng permissions na naka-assign sa isang user.",,role
+Cloze,"Ang {{c1::permission}} sa Spatie ay ang specific na action na pinapayagan (ex. edit-post, delete-user).",,permission
+Cloze,"Ang {{c1::blade directive}} na @can at @cannot ay ginagamit para mag-check ng authorization sa Blade templates.",,@can
+Cloze,"Ang {{c1::$this->authorize()}} method ay ginagamit sa Laravel controllers para mag-check ng permission bago mag-execute ng action.",,$this->authorize()
+Cloze,"Ang {{c1::multiple gates}} or policies ay maaaring i-combine gamit ang Gate::after() para sa complex authorization logic.",,Gate::after()

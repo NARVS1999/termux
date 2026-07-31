@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano poprotektahan ang Laravel app laban sa XSS attacks?",,"Gumagamit ng {{ }}, blade escaping, at htmlspecialchars() sa lahat ng user-generated content"
+Application,"Paano maiiwasan ang SQL injection sa Laravel?",,"Gamitin ang Eloquent o Query Builder na gumagamit ng prepared statements, huwag gumawa ng raw queries"
+Application,"Paano gagawin ang CSRF protection sa Laravel forms?",,"Lagyan ng @csrf directive sa Blade forms — awtomatikong nag-a-add ng CSRF token"
+Application,"Paano maiwasan ang IDOR sa isang Laravel application?",,"Gumamit ng Policies at Gates para i-authorize ang bawat resource access, huwag umasa sa ID lang sa URL"
+Application,"Paano maiwasan ang mass assignment vulnerability sa Laravel?",,"Gamitin ang $fillable o $guarded properties sa Eloquent models para i-control ang allowed fields"

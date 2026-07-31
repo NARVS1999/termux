@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::secrets management}} ay ang proseso ng secure na pag-iimbak at pag-handle ng sensitive data tulad ng API keys, passwords, at tokens.",,secrets management
+Cloze,"Ang {{c1::.env}} file sa Laravel ay ginagamit para mag-imbak ng secrets at configuration na hindi dapat naka-commit sa version control.",,.env
+Cloze,"Ang {{c1::encryption}} ay ang proseso ng pag-convert ng readable data sa unreadable format para sa security.",,encryption
+Cloze,"Ang {{c1::APP_KEY}} sa Laravel ay ang secret key na ginagamit para mag-encrypt at decrypt ng data.",,APP_KEY
+Cloze,"Ang {{c1::Crypt facade}} sa Laravel ay ginagamit para mag-encrypt at decrypt ng values gamit ang AES-256.",,Crypt facade
+Cloze,"Ang {{c1::Hash facade}} ay ginagamit para mag-hash ng passwords at sensitive data na hindi dapat i-reverse.",,Hash facade
+Cloze,"Ang {{c1::encryption at rest}} ay ang pag-protect ng data habang naka-imbak sa database o files.",,encryption at rest
+Cloze,"Ang {{c1::encryption in transit}} ay ang pag-protect ng data habang nagta-travel sa network gamit ang TLS/SSL.",,encryption in transit
+Cloze,"Ang {{c1::vault}} ay isang secrets management tool na nag-iimbak ng sensitive credentials sa isang secure centralized location.",,vault
+Cloze,"Ang {{c1::never commit}} ang .env file o anumang file na naglalaman ng secrets sa git repository.",,never commit

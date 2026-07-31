@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::logging}} ay ang proseso ng pag-record ng events at errors para sa debugging at monitoring.",,logging
+Cloze,"Ang {{c1::Log facade}} sa Laravel ay ginagamit para mag-log ng messages sa iba't ibang levels (info, warning, error).",,Log facade
+Cloze,"Ang {{c1::auditing}} ay ang pag-track ng changes sa data para sa compliance at security purposes.",,auditing
+Cloze,"Ang {{c1::input validation}} ay ang proseso ng pag-check kung ang user input ay sumusunod sa expected format at rules.",,input validation
+Cloze,"Ang {{c1::input sanitization}} ay ang proseso ng paglinis ng user input para maalis ang malicious content.",,input sanitization
+Cloze,"Ang {{c1::validated()}} method sa Laravel request ay nag-e-ensure na ang incoming data ay pasado sa validation rules bago i-access.",,validated()
+Cloze,"Ang {{c1::FormRequest}} sa Laravel ay isang dedicated class para sa complex validation logic na naka-separate sa controller.",,FormRequest
+Cloze,"Ang {{c1::Sentry}} ay isang error tracking service na nagmo-monitor at nagno-notify ng exceptions sa real-time.",,Sentry
+Cloze,"Ang {{c1::Telescope}} ay ang built-in debugging assistant ng Laravel para sa monitoring ng requests, exceptions, at queries.",,Telescope
+Cloze,"Ang {{c1::structured logging}} ay ang pag-log ng data sa JSON format para mas madaling i-parse at analyze.",,structured logging

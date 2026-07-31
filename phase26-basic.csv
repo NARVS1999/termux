@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-install at mag-setup ng Spatie Laravel Permission?",,"i-composer require spatie/laravel-permission, i-publish ang migration at config, i-run ang migrate"
+Application,"Paano mag-create ng role at i-assign sa user gamit ang Spatie?",,"$role = Role::create(['name' => 'admin']); $user->assignRole('admin');"
+Application,"Paano mag-check ng permission sa Blade template?",,"Gamitin ang @can('permission-name') @endcan directive"
+Application,"Paano gumawa ng Policy para sa isang Laravel model?",,"i-php artisan make:policy PostPolicy --model=Post, pagkatapos i-implement ang methods (view, create, update, delete)"
+Application,"Paano mag-authorize sa Laravel controller bago mag-execute ng action?",,"Gamitin ang $this->authorize('update', $post) sa loob ng controller method"
