@@ -25,10 +25,10 @@
 
 ## Relationships & Joins
 
-- [ ] **Phase 13** — One-to-one relationships: implementation, foreign key placement
-- [ ] **Phase 14** — One-to-many relationships: junction tables, cascade rules
-- [ ] **Phase 15** — Many-to-many relationships: junction tables, composite keys
-- [ ] **Phase 16** — JOIN types: INNER, LEFT, RIGHT, FULL, CROSS, self-join
+- [x] **Phase 13** — One-to-one relationships: implementation, foreign key placement
+- [x] **Phase 14** — One-to-many relationships: junction tables, cascade rules
+- [x] **Phase 15** — Many-to-many relationships: junction tables, composite keys
+- [x] **Phase 16** — JOIN types: INNER, LEFT, RIGHT, FULL, CROSS, self-join
 
 ## Advanced SQL Queries
 
