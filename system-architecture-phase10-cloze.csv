@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::service mesh}} ay infrastructure layer na nagpo-provide ng service-to-service communication.",,service mesh
+Cloze,"Ang {{c1::sidecar proxy}} ay ang auxiliary container na nagha-handle ng networking para sa main service.",,sidecar proxy
+Cloze,"Ang {{c1::mTLS}} o mutual TLS ay ang encryption sa pagitan ng services para sa secure communication.",,mTLS
+Cloze,"Ang {{c1::Istio}} ay ang popular na service mesh platform para sa Kubernetes clusters.",,Istio
+Cloze,"Ang {{c1::traffic management}} sa service mesh ay ang routing, load balancing, at circuit breaking.",,traffic management

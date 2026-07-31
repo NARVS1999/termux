@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Kailan gumamit ng monolithic architecture?",,"kapag maliit pa ang team, MVP stage, o hindi pa kailangan ng independent scaling"
+Application,"Ano ang modular monolith?",,"isang monolith na may malinaw na module boundaries — mas madaling i-maintain kaysa sa spaghetti monolith"
+Application,"Paano i-decompose ang monolith?",,"hatiin ayon sa business domains: users, orders, payments — bawat module ay may sariling data"
+Application,"Bakit nag-migrate sa microservices?",,"kapag kailangan ng independent scaling, deployment, at technology flexibility per service"
+Application,"Ano ang strangler fig pattern?",,"ang pag-replace ng monolith parts sa microservices nang paunti-unti habang tumatakbo pa ang app"

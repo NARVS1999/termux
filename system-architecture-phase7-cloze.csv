@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::microservices}} ay ang architecture pattern kung saan ang application ay binubuo ng maraming maliliit na services.",,microservices
+Cloze,"Ang {{c1::service boundary}} ay ang malinaw na hangganan ng bawat microservice — sariling data at logic.",,service boundary
+Cloze,"Ang {{c1::synchronous communication}} sa microservices ay HTTP/gRPC — naghihintay ng response.",,synchronous communication
+Cloze,"Ang {{c1::asynchronous communication}} ay message queues — hindi naghihintay ng response.",,asynchronous communication
+Cloze,"Ang {{c1::API gateway}} ay ang single entry point para sa lahat ng client requests sa microservices.",,API gateway

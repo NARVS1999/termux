@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Bakit kailangan ng service mesh?",,"para i-manage ang service-to-service communication: mTLS, retry, circuit breaking — nang hindi nag-a-add ng code"
+Application,"Ano ang sidecar proxy?",,"isang container na tumatakbo sa tabi ng main service — nagha-handle ng networking concerns"
+Application,"Ano ang mTLS?",,"ang encryption sa pagitan ng dalawang services — nag-i-verify ng identity ng bawat service"
+Application,"Paano mag-setup ng Istio sa Kubernetes?",,"i-install ang Istio operator, i-inject ang sidecar proxies, i-configure ang traffic rules"
+Application,"Ano ang traffic management sa service mesh?",,"ang pag-control ng traffic flow: canary deployments, A/B testing, circuit breaking"

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang bounded context?",,"ang malinaw na boundary kung saan ang isang domain model ay applicable — bawat context ay may sariling model"
+Application,"Ano ang aggregate?",,"isang cluster ng objects na nire-represent ng iisang root: Order aggregate = Order + OrderItems + Payment"
+Application,"Paano i-apply ang DDD sa microservices?",,"bawat bounded context = isang microservice — ang boundaries ay nagko-correlate sa service boundaries"
+Application,"Ano ang ubiquitous language?",,"ang shared na terms na ginagamit ng developers at business: "Order", "Payment", "Inventory""
+Application,"Paano mag-identify ng aggregates?",,"tanungin: ano ang transaction boundary? ano ang dapat i-consistent? — ito ang aggregate root"
