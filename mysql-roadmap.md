@@ -4,10 +4,10 @@
 
 ## Relational Database Fundamentals
 
-- [ ] **Phase 1** — Relational model: tables, rows, columns, schemas, data integrity
-- [ ] **Phase 2** — SQL fundamentals: SELECT, INSERT, UPDATE, DELETE, basic syntax
-- [ ] **Phase 3** — Data types: INT, VARCHAR, TEXT, DATE, TIMESTAMP, BLOB, ENUM, SET
-- [ ] **Phase 4** — Operators & expressions: comparison, logical, arithmetic, BETWEEN, IN, LIKE
+- [x] **Phase 1** — Relational model: tables, rows, columns, schemas, data integrity
+- [x] **Phase 2** — SQL fundamentals: SELECT, INSERT, UPDATE, DELETE, basic syntax
+- [x] **Phase 3** — Data types: INT, VARCHAR, TEXT, DATE, TIMESTAMP, BLOB, ENUM, SET
+- [x] **Phase 4** — Operators & expressions: comparison, logical, arithmetic, BETWEEN, IN, LIKE
 
 ## Table Design & Constraints
 
