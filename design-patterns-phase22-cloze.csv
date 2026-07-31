@@ -1,0 +1,5 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Iterator pattern}} ay ang behavioral pattern na nagbibigay ng way para i-traverse ang collection.",,Iterator pattern
+Cloze,"Ang {{c1::iterator interface}} ay nagde-define ng hasNext() at next() methods.",,iterator interface
+Cloze,"Ang {{c1::external iteration}} ay ang client ang nagko-control ng traversal.",,external iteration
+Cloze,"Ang {{c1::internal iteration}} ay ang collection ang nagko-control ng traversal (forEach).",,internal iteration

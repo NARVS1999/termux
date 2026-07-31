@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Strategy pattern}} ay ang behavioral pattern na nagpapalit ng algorithm sa runtime.",,Strategy pattern
+Cloze,"Ang {{c1::strategy interface}} ay ang common interface para sa lahat ng algorithms.",,strategy interface
+Cloze,"Ang {{c1::concrete strategy}} ay ang specific na implementation ng algorithm.",,concrete strategy
+Cloze,"Ang {{c1::context}} ay ang object na may reference sa strategy at nagde-delegate ng execution.",,context
+Cloze,"Ang {{c1::runtime behavior selection}} ay ang pagpili ng algorithm habang tumatakbo ang application.",,runtime behavior selection

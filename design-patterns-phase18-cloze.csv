@@ -1,0 +1,8 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Observer pattern}} ay ang behavioral pattern na nagbibigay ng one-to-many dependency para sa automatic na notifications.",,Observer pattern
+Cloze,"Ang {{c1::subject}} ay ang object na nag-o-observe at nagno-notify ng observers kapag nagbago ang state.",,subject
+Cloze,"Ang {{c1::observer}} ay ang object na nag-subscribe sa subject at nagre-receive ng updates.",,observer
+Cloze,"Ang {{c1::publish-subscribe}} ay ang messaging pattern kung saan ang publishers ay nag-broadcast ng events.",,publish-subscribe
+Cloze,"Ang {{c1::event system}} ay ang infrastructure para sa pag-create, dispatch, at handling ng events.",,event system
+Cloze,"Ang {{c1::loose coupling}} sa Observer ay ang subject na hindi alam ang concrete type ng observers.",,loose coupling
+Cloze,"Ang {{c1::observer list}} ay ang collection ng registered observers na nagre-receive ng notifications.",,observer list

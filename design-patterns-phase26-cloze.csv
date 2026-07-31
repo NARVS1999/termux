@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Visitor pattern}} ay ang behavioral pattern na nagbibigay ng paraan para mag-add ng operations sa object structures.",,Visitor pattern
+Cloze,"Ang {{c1::visitor interface}} ay nagde-define ng visit methods para sa bawat element type.",,visitor interface
+Cloze,"Ang {{c1::element}} ay ang object na nag-a-accept ng visitor.",,element
+Cloze,"Ang {{c1::double dispatch}} ay ang technique ng pag-call ng method base sa dalawang objects: visitor at element.",,double dispatch
+Cloze,"Ang {{c1::accept method}} sa element ay nag-i-invoke ng visitor's visit method.",,accept method

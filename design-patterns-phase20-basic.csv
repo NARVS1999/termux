@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Command pattern?",,"gumawa ng command interface na may execute(), i-encapsulate ang receiver at action sa command class"
+Application,"Kailan gumamit ng Command pattern?",,"kapag kailangan ng undo/redo, queuing, o logging ng operations: text editor, task scheduler"
+Application,"Paano gumawa ng undo/redo?",,"i-store ang executed commands sa history stack, i-call ang undo() method para mag-reverse"
+Application,"Ano ang macro command?",,"isang command na nag-e-execute ng maraming commands — composite pattern sa commands"
+Application,"Paano i-queue ang commands?",,"i-store ang commands sa queue, i-execute ng worker sa order — reliable task processing"

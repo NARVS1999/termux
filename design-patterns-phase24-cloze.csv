@@ -1,0 +1,5 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Chain of Responsibility}} ay ang behavioral pattern na nagpapasa ng request sa hanay ng handlers.",,Chain of Responsibility
+Cloze,"Ang {{c1::handler}} ay ang object na nagde-decide kung i-process o i-pass ang request.",,handler
+Cloze,"Ang {{c1::handler chain}} ay ang sequence ng handlers na sinusubukan ng request.",,handler chain
+Cloze,"Ang {{c1::middleware pipeline}} ay ang application ng Chain of Responsibility sa web frameworks.",,middleware pipeline

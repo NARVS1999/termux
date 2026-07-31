@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Strategy pattern?",,"gumawa ng strategy interface, i-implement ang bawat algorithm, i-inject sa context"
+Application,"Kailan gumamit ng Strategy pattern?",,"kapag maraming algorithms at gusto mong pumili sa runtime: sorting, payment methods, compression"
+Application,"Ano ang pagkakaiba ng Strategy at State?",,"Strategy: nagpapalit ng algorithm. State: nagpapalit ng behavior base sa state transitions."
+Application,"Paano mag-add ng bagong strategy?",,"gumawa ng bagong class na nag-i-implement ng interface — walang babaguhin sa context"
+Application,"Ano ang benefit ng Strategy?",,"Open/Closed Principle: madaling magdagdag ng bagong algorithms nang hindi binabago ang existing code"

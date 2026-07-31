@@ -1,0 +1,5 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Template Method}} ay ang behavioral pattern na nagde-define ng algorithm skeleton sa base class.",,Template Method
+Cloze,"Ang {{c1::hook method}} ay ang optional na method na pwedeng i-override ng subclass.",,hook method
+Cloze,"Ang {{c1::abstract class}} sa Template Method ay naglalaman ng fixed na algorithm at mga hooks.",,abstract class
+Cloze,"Ang {{c1::inversion of control}} sa Template Method ay ang base class ang nagko-control ng flow.",,inversion of control

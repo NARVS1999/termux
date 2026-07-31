@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Iterator pattern?",,"gumawa ng iterator class na may hasNext() at next() methods, i-return mula sa collection"
+Application,"Kailan gumamit ng Iterator?",,"kapag may collection na gusto mong i-traverse nang walang exposing ng internal structure"
+Application,"Ano ang pagkakaiba ng external at internal iteration?",,"external: client ang nag-loop (while hasNext). internal: collection ang nag-loop (forEach, map)."
+Application,"Paano gumawa ng custom iterator?",,"i-implement ang iterator protocol: hasNext(), next(), optional na current() — para sa custom collections"
+Application,"Ano ang benefit ng Iterator?",,"isolation ng traversal logic mula sa collection — pwedeng magbago ang internal structure"

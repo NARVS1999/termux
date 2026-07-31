@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Visitor pattern?",,"gumawa ng visitor interface na may visit() para sa bawat element, i-add ang accept() sa elements"
+Application,"Kailan gumamit ng Visitor?",,"kapag gustong mag-add ng operations sa hierarchy ng objects nang hindi binabago ang classes"
+Application,"Ano ang double dispatch?",,"element.accept(visitor) → visitor.visit(element) — dalawang dispatch: isa para sa accept, isa para sa visit"
+Application,"Ano ang benefit ng Visitor?",,"madaling mag-add ng bagong operations (bagong visitor) pero mahirap mag-add ng bagong elements"
+Application,"Ano ang downside ng Visitor?",,"ang visitor ay kailangang i-update kapag nagbago ang element hierarchy — tight coupling sa structure"
