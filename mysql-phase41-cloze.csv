@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::InnoDB buffer pool}} ay ang memory area na nagce-cache ng data at indexes para sa mabilis na access.",,InnoDB buffer pool
+Cloze,"Ang {{c1::redo log}} ay ang transaction log na nagre-record ng changes para sa durability at crash recovery.",,redo log
+Cloze,"Ang {{c1::undo log}} ay ang log na nagse-store ng old data para sa MVCC at rollback.",,undo log
+Cloze,"Ang {{c1::doublewrite buffer}} ay ang safety mechanism na nag-iwasan ng partial page writes.",,doublewrite buffer
+Cloze,"Ang {{c1::flushing}} ay ang proseso ng pag-write ng dirty pages mula sa buffer pool papunta sa disk.",,flushing

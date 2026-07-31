@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-check ang active connections?",,"SHOW STATUS LIKE 'Threads_connected'; — ipapakita ang kasalukuyang connections"
+Application,"Paano mag-optimize ng connection pooling?",,"gumamit ng external pooling: ProxySQL, PgBouncer, o application-level pooling"
+Application,"Kailan mag-increase ng max_connections?",,"kapag may "Too many connections" error — pero mag-ingat sa memory usage"
+Application,"Paano mag-set ng wait_timeout?",,"SET GLOBAL wait_timeout = 300; — i-close ang idle connections pagkatapos ng 5 minutes"
+Application,"Bakit hindi gumamit ng persistent connections?",,"dahil nag-co-consume ng memory kahit idle — mas maganda ang pooling"

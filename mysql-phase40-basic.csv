@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-tune ang innodb_buffer_pool_size?",,"i-set sa 70-80% ng available RAM: innodb_buffer_pool_size = 4G sa 5GB RAM server"
+Application,"Paano i-check ang current config?",,"SHOW VARIABLES LIKE 'innodb_buffer_pool_size'; — ipapakita ang current value"
+Application,"Paano i-change ang config?",,"i-edit ang my.cnf, i-restart ang MySQL server — hindi pwedeng i-change on-the-fly ang lahat"
+Application,"Bakit deprecated ang query_cache?",,"nag-co-cause ng contention sa multi-threaded environments — gumamit ng application-level caching"
+Application,"Paano mag-optimize ng thread_cache?",,"i-set ang thread_cache_size base sa concurrent connections — 16-64 ay common na values"

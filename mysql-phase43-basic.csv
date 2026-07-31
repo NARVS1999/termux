@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-setup ang read replicas?",,"i-configure ang master-slave replication, i-point ang read-heavy queries sa slaves"
+Application,"Ano ang sharding?",,"pag-hati ng data sa maraming servers: users sa server 1, orders sa server 2"
+Application,"Kailan gumamit ng sharding?",,"kapag ang iisang server ay hindi na kaya ng traffic o data — last resort sa scaling"
+Application,"Paano i-handle ang cross-shard queries?",,"gumamit ng application-level routing, o i-duplicate ang data sa shards"
+Application,"Ano ang connection multiplexing?",,"ang ProxySQL o similar tools na nagsha-share ng connections sa maraming clients"
