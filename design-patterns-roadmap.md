@@ -11,12 +11,12 @@
 
 ## Creational Patterns
 
-- [ ] **Phase 5** — Singleton: lazy vs eager initialization, thread safety, anti-patterns
-- [ ] **Phase 6** — Factory Method: creating objects without specifying exact class
-- [ ] **Phase 7** — Abstract Factory: families of related objects, product families
-- [ ] **Phase 8** — Builder: step-by-step construction, fluent interfaces, director
-- [ ] **Phase 9** — Prototype: cloning objects, copy constructor, shallow vs deep copy
-- [ ] **Phase 10** — Object Pool: reusing expensive objects, connection pools
+- [x] **Phase 5** — Singleton: lazy vs eager initialization, thread safety, anti-patterns
+- [x] **Phase 6** — Factory Method: creating objects without specifying exact class
+- [x] **Phase 7** — Abstract Factory: families of related objects, product families
+- [x] **Phase 8** — Builder: step-by-step construction, fluent interfaces, director
+- [x] **Phase 9** — Prototype: cloning objects, copy constructor, shallow vs deep copy
+- [x] **Phase 10** — Object Pool: reusing expensive objects, connection pools
 
 ## Structural Patterns
 
