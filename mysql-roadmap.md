@@ -18,10 +18,10 @@
 
 ## Normalization & Design Principles
 
-- [ ] **Phase 9** — Normalization: 1NF, 2NF, 3NF, Boyce-Codd normal form
-- [ ] **Phase 10** — Denormalization: tradeoffs, read-heavy vs write-heavy, materialized views
-- [ ] **Phase 11** — ER diagrams: entities, attributes, relationships, cardinality (1:1, 1:N, M:N)
-- [ ] **Phase 12** — Schema design patterns: audit tables, soft deletes, polymorphic associations
+- [x] **Phase 9** — Normalization: 1NF, 2NF, 3NF, Boyce-Codd normal form
+- [x] **Phase 10** — Denormalization: tradeoffs, read-heavy vs write-heavy, materialized views
+- [x] **Phase 11** — ER diagrams: entities, attributes, relationships, cardinality (1:1, 1:N, M:N)
+- [x] **Phase 12** — Schema design patterns: audit tables, soft deletes, polymorphic associations
 
 ## Relationships & Joins
 
