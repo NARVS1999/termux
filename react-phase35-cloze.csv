@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Error Boundary}} ay isang React component na nagco-catch ng JavaScript errors sa bawat level ng component tree.",,Error Boundary
+Cloze,"Ang {{c1::getDerivedStateFromError}} ay ang lifecycle method na nagse-set ng state kapag may error.",,getDerivedStateFromError
+Cloze,"Ang {{c1::componentDidCatch}} ay ang lifecycle method na naglo-log ng error details.",,componentDidCatch
+Cloze,"Ang {{c1::fallback UI}} ay ang replacement na UI na naire-render kapag nag-error ang component.",,fallback UI
+Cloze,"Ang {{c1::retry strategy}} ay ang approach ng pag-retry ng failed operations gamit ang exponential backoff.",,retry strategy

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-setup ng TanStack Query sa app?",,"<QueryClientProvider client={new QueryClient()}><App /></QueryClientProvider> — i-wrap ang app"
+Application,"Paano mag-fetch ng data gamit ang useQuery?",,"const { data, isLoading, error } = useQuery({ queryKey: ['todos'], queryFn: fetchTodos });"
+Application,"Paano mag-mutate at mag-invalidate ang cache?",,"const mutation = useMutation({ mutationFn: addTodo, onSuccess: () => queryClient.invalidateQueries({ queryKey: ['todos'] }) });"
+Application,"Paano mag-refetch ng data automatically?",,"Ang TanStack Query ay nagre-refetch sa background: staleTime, refetchOnWindowFocus, refetchInterval options"
+Application,"Paano i-handle ang loading at error states?",,"gamitin ang destructured values: isLoading, isError, error, data — ito ay built-in sa useQuery"

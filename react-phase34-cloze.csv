@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::pagination}} ay ang proseso ng paghahati ng data sa pages para sa better performance at UX.",,pagination
+Cloze,"Ang {{c1::infinite scroll}} ay ang UX pattern na naglo-load ng mas maraming data habang nag-scroll pababa.",,infinite scroll
+Cloze,"Ang {{c1::optimistic updates}} ay ang technique ng pag-update ng UI agad bago ma-confirm ang server response.",,optimistic updates
+Cloze,"Ang {{c1::cursor-based pagination}} ay ang pagination approach na gumagamit ng cursor/ID sa halip na page number.",,cursor-based pagination
+Cloze,"Ang {{c1::offset-based pagination}} ay ang traditional pagination gamit ang page number at limit.",,offset-based pagination

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-fetch ng data sa useEffect?",,"useEffect(() => { const controller = new AbortController(); fetch(url, {signal: controller.signal}).then(r => r.json()).then(setData); return () => controller.abort(); }, [url]);"
+Application,"Paano i-handle ang loading state?",,"const [loading, setLoading] = useState(true); setLoading(true) bago mag-fetch, setLoading(false) pagkatapos"
+Application,"Paano i-handle ang error sa fetch?",,"try { const res = await fetch(url); if (!res.ok) throw new Error('Failed'); } catch (err) { setError(err.message); }"
+Application,"Paano i-handle ang race condition?",,"Gamitin ang AbortController sa cleanup: return () => controller.abort(); — i-cancel ang lumang request"
+Application,"Paano mag-refetch ng data kapag nagbago ang dependency?",,"useEffect(() => { fetchData(); }, [id]); — magre-run ulit kapag nagbago ang id"

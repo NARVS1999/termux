@@ -1,0 +1,8 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::TanStack Query}} (React Query) ay isang data fetching library na nagha-handle ng caching, background updates, at error states.",,TanStack Query
+Cloze,"Ang {{c1::useQuery}} hook ay ang main hook ng TanStack Query para mag-fetch at mag-cache ng data.",,useQuery
+Cloze,"Ang {{c1::queryKey}} ay ang unique identifier para sa cached data: useQuery({ queryKey: ['todos'], queryFn: fetchTodos }).",,queryKey
+Cloze,"Ang {{c1::queryFn}} ay ang async function na nagfe-fetch ng data sa TanStack Query.",,queryFn
+Cloze,"Ang {{c1::useMutation}} hook ay ginagamit para sa create, update, o delete operations.",,useMutation
+Cloze,"Ang {{c1::cache invalidation}} ay ang proseso ng pag-invalidate ng cached data para mag-refetch.",,cache invalidation
+Cloze,"Ang {{c1::queryClient}} ay ang central na object na nagmo-manage ng lahat ng queries at cache.",,queryClient

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng Error Boundary sa React?",,"class ErrorBoundary extends React.Component { constructor(props) { super(props); this.state = { hasError: false }; } static getDerivedStateFromError(error) { return { hasError: true }; } }"
+Application,"Paano i-wrap ang components ng Error Boundary?",,"<ErrorBoundary><ChildComponent /></ErrorBoundary> — i-wrap ang components na maaaring mag-error"
+Application,"Paano mag-show ng fallback UI?",,"if (this.state.hasError) return <h1>Something went wrong</h1>; — i-return ang fallback sa render method"
+Application,"Paano mag-retry ng failed API call?",,"Gamitin ang TanStack Query's retry option: useQuery({ retry: 3, retryDelay: attemptIndex => 1000 * 2 ** attemptIndex })"
+Application,"Paano i-log ang errors sa Error Boundary?",,"componentDidCatch(error, errorInfo) { logErrorToService(error, errorInfo); } — i-send sa error tracking service"

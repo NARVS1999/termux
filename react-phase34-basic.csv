@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-implement ng pagination sa React?",,"Gamitin ang page state: const [page, setPage] = useState(1); useQuery({ queryKey: ['todos', page], queryFn: () => fetchTodos(page) })"
+Application,"Paano gumawa ng infinite scroll?",,"Gamitin ang useInfiniteQuery ng TanStack Query: useInfiniteQuery({ queryKey: ['todos'], queryFn: fetchTodos, getNextPageParam: (lastPage) => lastPage.nextCursor })"
+Application,"Paano mag-implement ng optimistic update?",,"onMutate: i-update ang cache agad, onError: i-rollback, onSettled: i-refetch para mag-confirm"
+Application,"Paano i-handle ang pagination buttons?",,"<button onClick={() => setPage(p => p - 1)} disabled={page === 1}>Prev</button> at Next button"
+Application,"Paano mag-load ng mas marami sa infinite scroll?",,"gamitin ang IntersectionObserver o TanStack Query's fetchNextPage function"
