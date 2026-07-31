@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Kailan gumamit ng React.memo?",,"kapag ang component ay nagre-render nang walang pinagbabagong props at may magastos na computation sa loob"
+Application,"Paano i-memoize ang expensive computation?",,"const value = useMemo(() => expensiveOperation(data), [data]); — i-cache ang result"
+Application,"Paano i-memoize ang callback function?",,"const handleClick = useCallback(() => doSomething(id), [id]); — stable ang function reference"
+Application,"Kailan hindi kailangan ng memoization?",,"kapag ang computation ay mura, o ang component ay nagre-render lang paminsan-minsan"
+Application,"Paano i-profile ang React performance?",,"gamitin ang React DevTools Profiler para makita kung aling components ang nagre-render nang walang dahilan"

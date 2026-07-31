@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::React.memo}} ay isang HOC na nagme-memoize ng component — hindi nagre-render kapag pareho pa rin ang shallow-compare ng props.",,React.memo
+Cloze,"Ang {{c1::useMemo}} hook ay nagme-memoize ng computed value: const value = useMemo(() => expensiveCalc(data), [data]).",,useMemo
+Cloze,"Ang {{c1::useCallback}} hook ay nagme-memoize ng function reference: const fn = useCallback(() => doSomething(id), [id]).",,useCallback
+Cloze,"Ang {{c1::shallow compare}} ay ang comparison na tinitignan lang ang top-level values ng props object.",,shallow compare
+Cloze,"Ang {{c1::unnecessary memoization}} ay ang pag-memoize ng murang computations na mas mabilis pa kaysa sa memoization overhead.",,unnecessary memoization
