@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::vertical scaling}} ay ang pag-upgrade ng hardware: mas RAM, CPU, storage sa iisang server.",,vertical scaling
+Cloze,"Ang {{c1::horizontal scaling}} ay ang pagdagdag ng mas maraming servers para mag-handle ng traffic.",,horizontal scaling
+Cloze,"Ang {{c1::scale out}} ay ang pagdagdag ng commodity servers sa halip na pag-upgrade ng iisang machine.",,scale out
+Cloze,"Ang {{c1::scale up}} ay ang pag-upgrade ng mas malakas na hardware sa iisang server.",,scale up
+Cloze,"Ang {{c1::stateless services}} ay mas madaling i-scale horizontally dahil walang naka-store na state.",,stateless services

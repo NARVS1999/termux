@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Bakit importante ang idempotency?",,"sa distributed systems, requests ay maaaring ma-send nang maraming beses — dapat may parehong result"
+Application,"Paano gumawa ng idempotent API?",,"mag-add ng idempotency key sa request, i-store ang result, i-return ang cached result para sa duplicates"
+Application,"Ano ang at-most-once, at-least-once, exactly-once?",,"at-most-once: maaaring mawala. at-least-once: maaaring ma-duplicate. exactly-once: perpekto pero mahirap."
+Application,"Paano mag-deduplicate ng messages?",,"i-store ang message ID, i-check bago i-process — kung existed na, i-skip"
+Application,"Paano i-implement ang idempotency sa payments?",,"gumamit ng unique na payment ID sa bawat request — i-check kung na-process na bago mag-charge"

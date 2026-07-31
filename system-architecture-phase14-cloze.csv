@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::high availability}} (HA) ay ang system design na nagte-function pa rin kahit may failures.",,high availability
+Cloze,"Ang {{c1::redundancy}} ay ang pagkakaroon ng extra components bilang backup sa case ng failure.",,redundancy
+Cloze,"Ang {{c1::failover}} ay ang automatic na pag-switch sa backup system kapag nag-fail ang primary.",,failover
+Cloze,"Ang {{c1::health check}} ay ang periodic na pag-test kung buhay pa ang system o service.",,health check
+Cloze,"Ang {{c1::uptime}} ay ang percentage ng oras na tumatakbo ang system: 99.9% = 8.76 hours downtime/year.",,uptime

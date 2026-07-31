@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-design ng high available system?",,"i-add ng redundancy sa lahat ng layers: servers, databases, load balancers, networks"
+Application,"Ano ang active-passive failover?",,"ang passive server ay naka-standby — nagte-takeover lang kapag nag-fail ang active"
+Application,"Ano ang active-active failover?",,"lahat ng servers ay nag-handle ng traffic — mas efficient pero mas complex"
+Application,"Paano mag-setup ng health checks?",,"periodic HTTP endpoint check: GET /health — kung hindi nag-respond, i-remove sa pool"
+Application,"Ano ang SLA?",,"Service Level Agreement — ang agreed uptime: 99.9% (three nines), 99.99% (four nines)"

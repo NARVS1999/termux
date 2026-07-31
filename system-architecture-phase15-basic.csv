@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang graceful degradation?",,"ang system ay nagbibigay ng limited functionality sa halip na totally down: cached data sa halip na real-time"
+Application,"Paano gumagana ang circuit breaker?",,"kapag maraming failures, nag-o-open ang circuit — hindi na nagpapadala ng requests sa failing service"
+Application,"Ano ang bulkhead pattern?",,"paghihiwalay ng components — kung mag-fail ang isang part, hindi maapektuhan ang iba"
+Application,"Paano mag-implement ng retry with backoff?",,"maghintay ng 1s, 2s, 4s, 8s — exponential backoff para hindi ma-overwhelm ang failing service"
+Application,"Ano ang cascade failure?",,"kapag ang failure ng isang service ay nagpo-cause ng failure sa iba — maiwasan gamit ang circuit breaker"

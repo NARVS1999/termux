@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang CAP theorem?",,"ang distributed system ay pwedeng magkaroon lang ng 2 sa 3: Consistency, Availability, Partition Tolerance"
+Application,"Kailan pipiliin ang CP?",,"kapag ang data correctness ay mas importante: banking, inventory — huwag magpadala ng maling data"
+Application,"Kailan pipiliin ang AP?",,"kapag ang uptime ay mas importante: social media, DNS — mas maganda ang stale data kaysa down"
+Application,"Ano ang PACELC?",,"extension ng CAP: kahit walang partition, may tradeoff pa rin sa latency at consistency"
+Application,"Paano i-apply ang CAP sa real systems?",,"piliin ang CP para sa critical data, AP para sa high-availability services, base sa use case"
