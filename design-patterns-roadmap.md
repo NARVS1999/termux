@@ -42,11 +42,11 @@
 
 ## Architectural Patterns
 
-- [ ] **Phase 27** — MVC: model-view-controller, separation of concerns
-- [ ] **Phase 28** — MVP: model-view-presenter, testability, passive view
-- [ ] **Phase 29** — MVVM: model-view-viewmodel, data binding, reactive patterns
-- [ ] **Phase 30** — Clean Architecture: layers, dependency rule, use cases
-- [ ] **Phase 31** — Hexagonal Architecture: ports and adapters, pluggable infrastructure
+- [x] **Phase 27** — MVC: model-view-controller, separation of concerns
+- [x] **Phase 28** — MVP: model-view-presenter, testability, passive view
+- [x] **Phase 29** — MVVM: model-view-viewmodel, data binding, reactive patterns
+- [x] **Phase 30** — Clean Architecture: layers, dependency rule, use cases
+- [x] **Phase 31** — Hexagonal Architecture: ports and adapters, pluggable infrastructure
 
 ## Concurrency Patterns
 
