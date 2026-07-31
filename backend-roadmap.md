@@ -65,11 +65,11 @@
 
 ## DevOps & Deployment
 
-- **Phase 38** — Git branching strategies, semantic versioning, CI/CD pipelines
-- **Phase 39** — Docker & containers, docker-compose, multi-stage builds
-- **Phase 40** — Server administration basics: Nginx, PHP-FPM, Supervisor
-- **Phase 41** — Deployment strategies: zero-downtime, blue-green, env config management
-- **Phase 42** — Basic cloud concepts: load balancers, auto-scaling, CDNs
+- [x] **Phase 38** — Git branching strategies, semantic versioning, CI/CD pipelines
+- [x] **Phase 39** — Docker & containers, docker-compose, multi-stage builds
+- [x] **Phase 40** — Server administration basics: Nginx, PHP-FPM, Supervisor
+- [x] **Phase 41** — Deployment strategies: zero-downtime, blue-green, env config management
+- [x] **Phase 42** — Basic cloud concepts: load balancers, auto-scaling, CDNs
 
 ## Communication & Soft Skills (what actually gets you promoted)
 
