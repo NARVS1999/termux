@@ -63,9 +63,9 @@
 
 ## Performance Optimization
 
-- [ ] **Phase 36** — React.memo, useMemo, useCallback: when to memoize vs skip
-- [ ] **Phase 37** — Code splitting: React.lazy, Suspense, route-based splitting
-- [ ] **Phase 38** — Virtualization: react-window, react-virtualized, lazy lists
+- [x] **Phase 36** — React.memo, useMemo, useCallback: when to memoize vs skip
+- [x] **Phase 37** — Code splitting: React.lazy, Suspense, route-based splitting
+- [x] **Phase 38** — Virtualization: react-window, react-virtualized, lazy lists
 
 ## Testing
 
