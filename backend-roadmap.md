@@ -4,28 +4,28 @@
 
 ## Core PHP & Language Mastery
 
-- **Phase 1** — PHP 8.x features: enums, readonly properties, attributes, named arguments, match expressions
-- **Phase 2** — Object-oriented design: SOLID, composition over inheritance, dependency injection
-- **Phase 3** — Design patterns: Repository, Factory, Strategy, Observer, Adapter, Facade
-- **Phase 4** — Type systems, exception handling, PHPStan/PHPCS static analysis
-- **Phase 5** — Composer: autoloading (PSR-4), package development, version constraints
+- [x] **Phase 1** — PHP 8.x features: enums, readonly properties, attributes, named arguments, match expressions
+- [x] **Phase 2** — Object-oriented design: SOLID, composition over inheritance, dependency injection
+- [x] **Phase 3** — Design patterns: Repository, Factory, Strategy, Observer, Adapter, Facade
+- [x] **Phase 4** — Type systems, exception handling, PHPStan/PHPCS static analysis
+- [x] **Phase 5** — Composer: autoloading (PSR-4), package development, version constraints
 
 ## Laravel Deep-Dive
 
-- **Phase 6** — Service container bindings, service providers, facades internals
-- **Phase 7** — Middleware, pipeline, request lifecycle from entry to response
-- **Phase 8** — Eloquent: relationships, eager loading & preventing N+1, model events, casts, scopes
-- **Phase 9** — Query Builder, DB transactions, locking, query optimization (EXPLAIN)
-- **Phase 10** — Queues & Jobs, scheduling, event/listener vs observer patterns
-- **Phase 11** — Notifications, Mailables, filesystem drivers, storage & S3
-- **Phase 12** — Broadcasting (Pusher/Reverb), WebSockets, Livewire basics
+- [x] **Phase 6** — Service container bindings, service providers, facades internals
+- [x] **Phase 7** — Middleware, pipeline, request lifecycle from entry to response
+- [x] **Phase 8** — Eloquent: relationships, eager loading & preventing N+1, model events, casts, scopes
+- [x] **Phase 9** — Query Builder, DB transactions, locking, query optimization (EXPLAIN)
+- [x] **Phase 10** — Queues & Jobs, scheduling, event/listener vs observer patterns
+- [x] **Phase 11** — Notifications, Mailables, filesystem drivers, storage & S3
+- [x] **Phase 12** — Broadcasting (Pusher/Reverb), WebSockets, Livewire basics
 
 ## Databases & Data Modeling
 
-- **Phase 13** — Database design/normalization vs denormalization tradeoffs
-- **Phase 14** — Indexing strategy, composite indexes, covering indexes
-- **Phase 15** — MySQL/PostgreSQL advanced: window functions, CTEs, JSON columns
-- **Phase 16** — Migrations, seeders, factories, data integrity constraints
+- [x] **Phase 13** — Database design/normalization vs denormalization tradeoffs
+- [x] **Phase 14** — Indexing strategy, composite indexes, covering indexes
+- [x] **Phase 15** — MySQL/PostgreSQL advanced: window functions, CTEs, JSON columns
+- [x] **Phase 16** — Migrations, seeders, factories, data integrity constraints
 
 ## Caching & Performance
 
