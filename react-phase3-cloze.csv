@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Promise}} ay isang object na kumakatawan sa eventual completion o failure ng asynchronous operation.",,Promise
+Cloze,"Ang {{c1::async/await}} ay syntax sugar para sa Promises — nagpo-paalam sa synchronous-looking na asynchronous code.",,async/await
+Cloze,"Ang {{c1::.then()}} method ay nagha-handle ng fulfilled promise at nagre-receive ng result value.",,.then()
+Cloze,"Ang {{c1::.catch()}} method ay nagha-handle ng rejected promise at nagre-receive ng error.",,.catch()
+Cloze,"Ang {{c1::fetch API}} ay ang modern na way para mag-send ng HTTP requests sa browser.",,fetch API
+Cloze,"Ang {{c1::try/catch}} block sa async function ay ginagamit para i-catch ang errors mula sa await expressions.",,try/catch
+Cloze,"Ang {{c1::Promise.all()}} ay nagre-resolve ng lahat ng promises at nagre-return ng array ng results.",,Promise.all()
+Cloze,"Ang {{c1::Promise.race()}} ay nagre-return ng result ng unang nag-resolve o nag-reject na promise.",,Promise.race()
+Cloze,"Ang {{c1::AbortController}} ay ginagamit para i-cancel ang fetch requests habang ginagawa pa.",,AbortController

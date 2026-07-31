@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng async function sa JavaScript?",,"const fetchData = async () => { const res = await fetch(url); return res.json(); };"
+Application,"Paano i-handle ang errors sa async/await?",,"Gamitin ang try/catch: try { await asyncOp(); } catch (err) { console.error(err); }"
+Application,"Paano mag-send ng POST request gamit ang fetch?",,"fetch(url, { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(data) })"
+Application,"Paano i-run ang maraming promises sabay-sabay?",,"const results = await Promise.all([fetch(url1), fetch(url2)]); — nagre-return ng array ng results"
+Application,"Paano i-cancel ang fetch request?",,"const controller = new AbortController(); fetch(url, {signal: controller.signal}); controller.abort();"

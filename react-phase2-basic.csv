@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-filter at i-map ang array sa JavaScript?",,"const result = items.filter(i => i.active).map(i => i.name); — i-chain ang filter at map"
+Application,"Paano gamitin ang reduce para mag-sum ng numbers?",,"const total = numbers.reduce((acc, curr) => acc + curr, 0); — ang 0 ay ang initial value"
+Application,"Paano hanapin ang unang item na may specific condition?",,"const item = items.find(i => i.id === targetId); — nagre-return ng first match o undefined"
+Application,"Paano i-check kung lahat ng items ay may specific property?",,"const allActive = items.every(i => i.active); — nagre-return ng true/false"
+Application,"Paano i-flatten ang nested array sa JavaScript?",,"const flat = [[1,2],[3,4]].flat(); // [1,2,3,4] — optional ang depth parameter"

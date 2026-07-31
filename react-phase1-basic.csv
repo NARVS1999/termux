@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-destructure ang object properties sa JavaScript?",,"const {name, age} = user; o const {name: userName} = user; para sa alias"
+Application,"Paano gamitin ang spread operator para mag-combine ng arrays?",,"const combined = [...arr1, ...arr2]; para i-merge ang dalawang arrays"
+Application,"Paano gumawa ng arrow function na may multiple expressions?",,"const fn = (a, b) => { const sum = a + b; return sum; }; — kailangan ng curly braces at return"
+Application,"Paano gumamit ng optional chaining sa nested objects?",,"const city = user?.address?.city; — magre-return ng undefined kung alinman ay null/undefined"
+Application,"Paano mag-use ng template literals para sa multi-line strings?",,"Gamitin ang backticks: const str = `Line 1\nLine 2`; — pwedeng mag-multiline nang walang escape characters"

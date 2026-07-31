@@ -1,0 +1,8 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::closure}} ay ang combination ng function at lexical environment nito — naaalala ng function ang variables mula sa outer scope.",,closure
+Cloze,"Ang {{c1::hoisting}} ay ang behavior kung saan ina-angat ng JavaScript ang declarations sa taas ng scope bago mag-execute.",,hoisting
+Cloze,"Ang {{c1::event loop}} ay ang mechanism ng JavaScript na nagha-handle ng asynchronous callbacks sa main thread.",,event loop
+Cloze,"Ang {{c1::call stack}} ay ang track ng functions na kasalukuyang ginagampanan ng JavaScript engine.",,call stack
+Cloze,"Ang {{c1::callback queue}} ay ang queue ng callbacks na naghihintay na i-process pagkatapos matapos ang asynchronus operation.",,callback queue
+Cloze,"Ang {{c1::microtask queue}} ay ang higher-priority queue para sa Promises at queueMicrotask — nauna bago ang callback queue.",,microtask queue
+Cloze,"Ang {{c1::var}} ay function-scoped at na-hoist, habang {{c1::let}} at {{c1::const}} ay block-scoped at hindi na-hoist.",,var vs let/const

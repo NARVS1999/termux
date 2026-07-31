@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::destructuring}} ay ang technique para i-extract ang values mula sa arrays o objects sa mga separate variables.",,destructuring
+Cloze,"Ang {{c1::spread operator}} (...) ay ginagamit para i-expand ang arrays o objects sa loob ng ibang arrays/objects.",,spread operator
+Cloze,"Ang {{c1::rest parameter}} (...) ay nagco-collect ng remaining elements sa isang array o object parameters.",,rest parameter
+Cloze,"Ang {{c1::template literals}} ay ang string syntax na gumagamit ng backticks (``) at ${} para sa variable interpolation.",,template literals
+Cloze,"Ang {{c1::arrow function}} ay ang shorter syntax para sa functions: const fn = (params) => expression.",,arrow function
+Cloze,"Ang {{c1::optional chaining}} (?.) ay nagre-return ng undefined kung ang property ay null o undefined, hindi nag-throw ng error.",,optional chaining
+Cloze,"Ang {{c1::nullish coalescing}} (??) ay nagre-return ng right-hand value kapag ang left ay null o undefined lang.",,nullish coalescing
+Cloze,"Ang {{c1::destructuring assignment}} ay maaaring gumamit ng default values: const {name = 'default'} = obj.",,destructuring assignment
+Cloze,"Ang {{c1::shorthand property}} ay ang paggamit ng variable name bilang object key: {name} instead of {name: name}.",,shorthand property

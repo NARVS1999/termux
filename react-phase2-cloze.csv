@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::map}} method ay nagte-transform ng bawat element sa array at nagre-return ng bagong array.",,map
+Cloze,"Ang {{c1::filter}} method ay nagre-return ng bagong array na naglalaman lang ng elements na pumasa sa condition.",,filter
+Cloze,"Ang {{c1::reduce}} method ay nagco-convert ng array sa isang single value gamit ang accumulator function.",,reduce
+Cloze,"Ang {{c1::find}} method ay nagre-return ng unang element na pumasa sa condition, o undefined kung wala.",,find
+Cloze,"Ang {{c1::some}} method ay nagre-return ng true kung kahit isang element ay pumasa sa condition.",,some
+Cloze,"Ang {{c1::every}} method ay nagre-return ng true kung lahat ng elements ay pumasa sa condition.",,every
+Cloze,"Ang {{c1::flat}} method ay nagpo-flatten ng nested arrays sa isang single level.",,flat
+Cloze,"Ang {{c1::flatMap}} method ay nag-a-apply ng map() pagkatapos nagfo-flatten ng isang level.",,flatMap
+Cloze,"Ang {{c1::chaining}} ay ang pag-sunod-sunod ng array methods: arr.filter().map().reduce().",,chaining
