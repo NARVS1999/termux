@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::GitOps}} ay ang operational framework kung saan ang Git ang single source of truth.",,GitOps
+Cloze,"Ang {{c1::ArgoCD}} ay ang GitOps continuous delivery tool para sa Kubernetes.",,ArgoCD
+Cloze,"Ang {{c1::Flux}} ay ang lightweight GitOps toolkit para sa Kubernetes.",,Flux
+Cloze,"Ang {{c1::declarative}} sa GitOps ay ang pagde-describe ng desired state sa Git.",,declarative
+Cloze,"Ang {{c1::reconciliation}} sa GitOps ay ang automatic na pag-compare ng actual vs desired state.",,reconciliation

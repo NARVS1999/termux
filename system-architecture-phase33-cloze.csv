@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::blue-green deployment}} ay ang strategy na may dalawang identical environments.",,blue-green deployment
+Cloze,"Ang {{c1::blue environment}} ang currently running production.",,blue environment
+Cloze,"Ang {{c1::green environment}} ang bagong version na tinetest.",,green environment
+Cloze,"Ang {{c1::traffic switching}} ay ang pag-move ng traffic mula sa blue papunta sa green.",,traffic switching
+Cloze,"Ang {{c1::zero-downtime}} deployment ay ang deployment na hindi nagdo-down ang application.",,zero-downtime

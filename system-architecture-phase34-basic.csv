@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumagana ang canary release?",,"i-deploy sa maliit na % ng users, i-monitor, pag okay: i-increase ang percentage"
+Application,"Bakit mas safe ang canary kaysa blue-green?",,"dahil mas maliit ang impact kapag may issue — affected lang ang few percent ng users"
+Application,"Paano mag-monitor ng canary?",,"i-compare ang error rates, latency, satisfaction sa old vs new version"
+Application,"Paano mag-rollback sa canary?",,"i-stop ang rollout at i-route ang traffic pabalik sa old version"
+Application,"Ano ang automated canary?",,"ang system ang nagde-decide: i-increase kapag healthy, i-rollback kapag may issues"

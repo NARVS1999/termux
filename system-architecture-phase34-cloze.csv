@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::canary release}} ay ang incremental na rollout ng bagong version sa maliit na subset ng users.",,canary release
+Cloze,"Ang {{c1::canary deployment}} ay nagde-deploy sa 5% muna, pag okay: 25%, 50%, 100%.",,canary deployment
+Cloze,"Ang {{c1::monitoring}} sa canary ay ang pag-obserba ng metrics habang nagro-rollout.",,monitoring
+Cloze,"Ang {{c1::rollback}} sa canary ay ang pag-stop ng rollout kapag may issues.",,rollback
+Cloze,"Ang {{c1::traffic splitting}} ay ang pag-hati ng traffic sa old at new version.",,traffic splitting

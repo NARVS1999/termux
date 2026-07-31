@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumagana ang blue-green deployment?",,"dalawang identical environments — i-deploy sa green, i-test, pag okay: i-switch ang traffic"
+Application,"Bakit zero-downtime?",,"dahil ang blue ay tumatakbo habang nagde-deploy sa green — walang interruption sa service"
+Application,"Paano mag-rollback sa blue-green?",,"i-switch lang ang traffic pabalik sa blue — instant rollback dahil buhay pa ang lumang version"
+Application,"Ano ang challenge ng blue-green?",,"doble ang infrastructure cost, data migration kapag nagbago ang schema"
+Application,"Paano i-handle ang database sa blue-green?",,"gumamit ng shared database o i-migrate ang data — ang importante ay backward-compatible migrations"

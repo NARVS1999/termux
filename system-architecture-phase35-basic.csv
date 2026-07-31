@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Bakit importante ang IaC?",,"reproducible infrastructure, version control, collaboration, disaster recovery — lahat ay code"
+Application,"Paano gumamit ng Terraform?",,"i-define ang infrastructure sa .tf files, terraform plan, terraform apply — multi-cloud"
+Application,"Ano ang pagkakaiba ng Terraform at CloudFormation?",,"Terraform: multi-cloud, HCL. CloudFormation: AWS-only, YAML/JSON. Parehong declarative."
+Application,"Ano ang Ansible?",,"configuration management: i-configure ang servers, i-install ang software — agentless approach"
+Application,"Paano mag-version ng infrastructure?",,"i-commit ang Terraform files sa git — ang infrastructure ay may version history gaya ng code"

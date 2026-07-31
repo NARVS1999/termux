@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Ano ang CI?",,"ang automated na pag-build at pag-test ng code sa bawat commit — nag-de-detect ng issues agad"
+Application,"Ano ang CD?",,"ang automated na pag-deploy ng code sa staging o production pagkatapos ng successful na CI"
+Application,"Paano mag-setup ng CI/CD pipeline?",,"gamitin ang GitHub Actions, GitLab CI, o Jenkins — i-define ang stages sa YAML config"
+Application,"Ano ang rollback strategy?",,"ang plan para magbalik: database migrations, code changes, infrastructure — dapat i-test"
+Application,"Ano ang build artifact?",,"ang output ng build: Docker image, JAR file, compiled binary — i-store sa registry"

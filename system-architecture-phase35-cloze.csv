@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Infrastructure as Code}} (IaC) ay ang pag-manage ng infrastructure gamit ang code.",,Infrastructure as Code
+Cloze,"Ang {{c1::Terraform}} ay ang multi-cloud IaC tool na gumagamit ng HCL language.",,Terraform
+Cloze,"Ang {{c1::CloudFormation}} ay ang AWS-specific na IaC tool na gumagamit ng YAML/JSON.",,CloudFormation
+Cloze,"Ang {{c1::Ansible}} ay ang configuration management tool na gumagamit ng agentless approach.",,Ansible
+Cloze,"Ang {{c1::declarative}} approach ay ang pagde-describe ng desired state sa halip na imperative steps.",,declarative
