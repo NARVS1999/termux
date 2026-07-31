@@ -75,12 +75,12 @@
 
 ## Advanced Patterns & Modern React
 
-- [ ] **Phase 42** — Error boundaries: catching errors, fallback UI, recovery
-- [ ] **Phase 43** — Compound components: shared context, flexible APIs
-- [ ] **Phase 44** — Render props vs hooks: when each pattern shines
-- [ ] **Phase 45** — Server Components: RSC, async components, streaming
-- [ ] **Phase 46** — Suspense & concurrent features: transitions, deferred values
-- [ ] **Phase 47** — Project structure: feature-based layout, barrel files, monorepo basics
+- [x] **Phase 42** — Error boundaries: catching errors, fallback UI, recovery
+- [x] **Phase 43** — Compound components: shared context, flexible APIs
+- [x] **Phase 44** — Render props vs hooks: when each pattern shines
+- [x] **Phase 45** — Server Components: RSC, async components, streaming
+- [x] **Phase 46** — Suspense & concurrent features: transitions, deferred values
+- [x] **Phase 47** — Project structure: feature-based layout, barrel files, monorepo basics
 
 ## Recommended Learning Path (priority order)
 
