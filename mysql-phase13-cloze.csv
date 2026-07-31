@@ -1,0 +1,5 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::one-to-one}} relationship ay ang connection kung saan isang row sa table A ay may isang row lang sa table B.",,one-to-one
+Cloze,"Ang {{c1::foreign key placement}} sa 1:1 ay karaniwang sa mas maliit na table o sa table na may fewer rows.",,foreign key placement
+Cloze,"Ang {{c1::UNIQUE foreign key}} ay ginagamit para mag-enforce ng 1:1 relationship.",,UNIQUE foreign key
+Cloze,"Ang {{c1::shared primary key}} ay ang pattern kung saan ang dalawang tables ay may parehong primary key.",,shared primary key

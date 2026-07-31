@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-implement ng 1:1 relationship?",,"CREATE TABLE user_profile (user_id INT PRIMARY KEY, bio TEXT, FOREIGN KEY (user_id) REFERENCES users(id));"
+Application,"Saan ilalagay ang foreign key sa 1:1?",,"sa table na may fewer rows, o sa table na depende sa kabila — ang importante ay UNIQUE constraint"
+Application,"Paano mag-query ng 1:1 relationship?",,"SELECT * FROM users u JOIN user_profile p ON u.id = p.user_id; — gamitin ang JOIN"
+Application,"Kailan gumamit ng 1:1 relationship?",,"kapag ang data ay optional o hiwalay: user at profile, order at payment details"
+Application,"Paano mag-enforce ng 1:1 sa MySQL?",,"i-add ang UNIQUE constraint sa foreign key column para hindi pwedeng mag-duplicate"

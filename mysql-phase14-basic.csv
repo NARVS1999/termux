@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-design ng 1:N relationship?",,"ang parent table (users) ay may primary key, ang child table (orders) ay may foreign key na tumutukoy dito"
+Application,"Paano mag-query ng 1:N relationship?",,"SELECT u.name, o.total FROM users u JOIN orders o ON u.id = o.user_id; — gamitin ang JOIN"
+Application,"Paano i-set ang ON DELETE para sa 1:N?",,"ON DELETE CASCADE para i-delete ang children, ON DELETE SET NULL para i-set sa NULL"
+Application,"Ano ang common mistake sa 1:N design?",,"ang paglalagay ng foreign key sa parent table sa halip na sa child table"
+Application,"Paano mag-count ng related rows?",,"SELECT user_id, COUNT(*) FROM orders GROUP BY user_id; — gamitin ang COUNT at GROUP BY"

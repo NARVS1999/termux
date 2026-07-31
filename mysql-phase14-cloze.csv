@@ -1,0 +1,5 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::one-to-many}} relationship ay ang pinaka-common na relationship: isang row sa A ay may maraming rows sa B.",,one-to-many
+Cloze,"Ang {{c1::foreign key}} sa 1:N ay laging nasa child table (ang 'many' side).",,foreign key
+Cloze,"Ang {{c1::parent table}} ang naglalaman ng primary key, {{c1::child table}} ang may foreign key.",,parent/child table
+Cloze,"Ang {{c1::cascade rules}} ay ang actions kapag nagbago o nag-delete ang parent row.",,cascade rules

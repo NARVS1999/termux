@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumamit ng INNER JOIN?",,"SELECT u.name, o.total FROM users u INNER JOIN orders o ON u.id = o.user_id; — lang may tugma"
+Application,"Paano gumamit ng LEFT JOIN?",,"SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id; — lahat ng users kahit walang order"
+Application,"Paano gumamit ng RIGHT JOIN?",,"SELECT u.name, o.total FROM users u RIGHT JOIN orders o ON u.id = o.user_id; — lahat ng orders kahit walang user"
+Application,"Paano gumawa ng self-join?",,"SELECT e.name AS employee, m.name AS manager FROM employees e JOIN employees m ON e.manager_id = m.id;"
+Application,"Kailan gumamit ng CROSS JOIN?",,"kapag kailangan ng lahat ng combinations: sizes x colors, products x regions"

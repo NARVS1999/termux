@@ -1,0 +1,5 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::many-to-many}} relationship ay ang connection kung saan maraming rows sa A ay may maraming rows sa B.",,many-to-many
+Cloze,"Ang {{c1::junction table}} (associative table) ay ang middle table na nagko-connect sa dalawang tables.",,junction table
+Cloze,"Ang {{c1::composite key}} sa junction table ay ang combination ng dalawang foreign keys bilang primary key.",,composite key
+Cloze,"Ang {{c1::bridge table}} ay isa pang pangalan sa junction table.",,bridge table

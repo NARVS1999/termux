@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::INNER JOIN}} ay nagre-return ng rows na may tugmang records sa dalawang tables.",,INNER JOIN
+Cloze,"Ang {{c1::LEFT JOIN}} ay nagre-return ng lahat ng rows mula sa left table, kahit walang tugma sa right.",,LEFT JOIN
+Cloze,"Ang {{c1::RIGHT JOIN}} ay nagre-return ng lahat ng rows mula sa right table, kahit walang tugma sa left.",,RIGHT JOIN
+Cloze,"Ang {{c1::FULL OUTER JOIN}} ay nagre-return ng lahat ng rows mula sa dalawang tables.",,FULL OUTER JOIN
+Cloze,"Ang {{c1::CROSS JOIN}} ay nagcre-create ng Cartesian product — bawat row sa A ay nagpa-pair sa bawat row sa B.",,CROSS JOIN
+Cloze,"Ang {{c1::self-join}} ay ang pag-join ng table sa sarili nito para i-compare ang rows.",,self-join

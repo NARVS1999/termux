@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng junction table?",,"CREATE TABLE enrollments (student_id INT, course_id INT, PRIMARY KEY (student_id, course_id));"
+Application,"Paano mag-query ng M:N relationship?",,"SELECT s.name, c.title FROM students s JOIN enrollments e ON s.id = e.student_id JOIN courses c ON e.course_id = c.id;"
+Application,"Bakit kailangan ng junction table?",,"hindi direktang mag-refer ang dalawang tables sa M:N — kailangan ng middle table"
+Application,"Paano mag-add ng extra data sa M:N?",,"i-add ang columns sa junction table: enrollment_date, grade, status"
+Application,"Paano i-enforce ang uniqueness sa M:N?",,"gamitin ang composite primary key sa junction table para maiwasan ang duplicate enrollments"
