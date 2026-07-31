@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Object Pool sa JavaScript?",,Gumamit ng array bilang pool at i-manage ang available at in-use objects
+Application,"Paano mag-set ng tamang pool size?",,I-balance ang memory usage at performance — gamitin ang profiling para malaman ang optimal size
+Application,"Paano i-handle ang overflow sa Object Pool?",,Mag-add ng queue para sa mga naghihintay o lumikha ng temporary objects
+Application,"Paano mag-implement ng connection pool?",,Gumamit ng library tulad ng pg-pool o i-implement ang acquire/release lifecycle
+Application,"Paano i-cleanup ang Object Pool?",,I-dispose ang mga idle objects at i-limit ang oras ng bawat connection

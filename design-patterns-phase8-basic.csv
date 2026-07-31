@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Builder pattern sa JavaScript?",,Gumamit ng class na may mga setter methods na nagbabalik ng this para sa method chaining
+Application,"Paano pumili sa Builder at Factory?",,Gamitin ang Builder para sa kumplikadong step-by-step na construction at Factory para sa simpleng creation
+Application,"Paano i-apply ang Builder para sa HTTP request?",,Lumikha ng builder na may mga methods para sa URL, headers, body, at method
+Application,"Paano gumamit ng director sa Builder?",,Lumikha ng director class na nag-a-arrange ng construction steps at nagbibigay ng built objects
+Application,"Paano i-validate sa Builder bago i-build?",,I-add ang validation sa loob ng build() method bago ibalik ang final object

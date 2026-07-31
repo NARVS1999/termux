@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Factory Method}} ay isang creational pattern na nagbibigay ng interface para sa paggawa ng objects nang hindi tinutukoy ang exact class.",,Factory Method
+Cloze,"Ang {{c1::factory method}} ay nagpapalit sa direct instantiation (new) ng isang method na nagbabalik ng object.",,factory method
+Cloze,"Ang {{c1::Factory Method}} ay nagbibigay ng flexibility para magdagdag ng bagong uri nang hindi binabago ang client code.",,Factory Method
+Cloze,"Ang {{c1::Factory Method}} ay gumagamit ng inheritance para magbigay ng iba't ibang mga factory implementations.",,Factory Method
+Cloze,"Ang {{c1::concrete creator}} ay ang subclass na nag-i-implement ng factory method para gumawa ng specific product.",,concrete creator
+Cloze,"Ang {{c1::Factory Method}} ay nag-i-isolate ang creation logic mula sa business logic.",,Factory Method
+Cloze,"Ang {{c1::Factory Method}} ay nagbibigay ng loose coupling sa pagitan ng creator at product.",,Factory Method
+Cloze,"Ang {{c1::factory method}} ay nagbabalik ng isang product type na maaaring iba't ibang uri.",,factory method
+Cloze,"Ang {{c1::Factory Method}} ay nagbibigay ng single responsibility sa creation logic.",,Factory Method
+Cloze,"Ang {{c1::Factory Method}} ay madalas gamitin sa frameworks kung saan ang user ay nag-i-implement ng custom logic.",,Factory Method

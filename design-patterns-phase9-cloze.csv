@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Prototype}} ay isang creational pattern na nagbibigay ng paraan para gumawa ng bagong objects sa pamamagitan ng cloning.",,Prototype
+Cloze,"Ang {{c1::shallow copy}} ay gumagawa ng bagong object pero ang mga nested objects ay nananatiling reference.",,shallow copy
+Cloze,"Ang {{c1::deep copy}} ay gumagawa ng bagong object kasama ang lahat ng nested objects.",,deep copy
+Cloze,"Ang {{c1::Prototype}} ay nagbibigay ng performance improvement sa pamamagitan ng pag-iwas sa mahal na initialization.",,Prototype
+Cloze,"Ang {{c1::clone method}} ay nagbabalik ng bagong object na kopya ng existing object.",,clone method
+Cloze,"Ang {{c1::Prototype}} ay nagbibigay ng flexibility para mag-modify ng objects nang hindi binabago ang originals.",,Prototype
+Cloze,"Ang {{c1::Prototype}} ay madalas gamitin sa mga systems na may maraming similar na objects.",,Prototype
+Cloze,"Ang {{c1::Prototype registry}} ay isang collection ng mga prototype objects na maaaring i-clone.",,Prototype registry
+Cloze,"Ang {{c1::Prototype}} ay nag-i-isolate ang creation logic mula sa business logic.",,Prototype
+Cloze,"Ang {{c1::Prototype}} ay nagbibigay ng object caching at reuse sa halip na paggawa ng bago.",,Prototype

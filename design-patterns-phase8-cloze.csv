@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Builder}} ay isang creational pattern na nagbibigay ng step-by-step na paraan para bumuo ng kumplikadong objects.",,Builder
+Cloze,"Ang {{c1::fluent interface}} ay isang technique na nagbibigay ng method chaining para mas madaling gamitin ang builder.",,fluent interface
+Cloze,"Ang {{c1::director}} ay ang class na nag-a-arrange ng construction steps para sa builder.",,director
+Cloze,"Ang {{c1::Builder}} ay naghihiwalay ng construction logic mula sa representation.",,Builder
+Cloze,"Ang {{c1::builder}} ay nagbibigay ng fine-grained control sa construction process.",,builder
+Cloze,"Ang {{c1::Builder}} ay madalas gamitin para sa mga objects na may maraming optional parameters.",,Builder
+Cloze,"Ang {{c1::Builder}} ay nagbibigay ng immutable objects sa pamamagitan ng final construction.",,Builder
+Cloze,"Ang {{c1::Builder}} ay nag-i-isolate ang construction logic mula sa business logic.",,Builder
+Cloze,"Ang {{c1::fluent API}} ay nagbibigay ng readable na construction code sa pamamagitan ng method chaining.",,fluent API
+Cloze,"Ang {{c1::Builder}} ay nagbibigay ng step-by-step na construction kaysa sa isang malaking constructor.",,Builder

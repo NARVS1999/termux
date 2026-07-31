@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang shallow copy sa JavaScript?",,Gamitin ang Object.assign() o spread operator para i-copy ang properties
+Application,"Paano gumawa ng deep copy sa JavaScript?",,Gamitin ang structuredClone() o JSON.parse(JSON.stringify()) para i-copy ang lahat ng nested objects
+Application,"Paano i-apply ang Prototype pattern sa existing na code?",,Lumikha ng prototype registry at i-clone ang mga objects kaysa sa bagong instantiation
+Application,"Paano maiwasan ang prototype pollution?",,I-validate ang inputs at i-freeze ang prototype objects para iwasan ang modification
+Application,"Paano pumili sa shallow at deep copy?",,Gamitin ang shallow copy para sa flat objects at deep copy para sa nested objects

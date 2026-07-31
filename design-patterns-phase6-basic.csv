@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang Factory Method sa JavaScript?",,Gumamit ng switch statement sa loob ng factory function o gumamit ng object literal map
+Application,"Paano pumili sa Factory Method at Abstract Factory?",,Gamitin ang Factory Method para sa isang product at Abstract Factory para sa mga related products
+Application,"Paano magdagdag ng bagong product type sa Factory Method?",,Lumikha ng bagong subclass ng creator na nag-i-implement ng factory method
+Application,"Paano maiwasan ang malaking switch statements sa factory?",,Gamitin ang object map o registry pattern para i-map ang types sa classes
+Application,"Paano i-apply ang Factory Method sa isang existing na switch statement?",,I-extract ang bawat kaso sa sarili nitong class at gumamit ng factory method para mag-create

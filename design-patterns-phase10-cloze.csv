@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Object Pool}} ay isang creational pattern na nagbibigay ng paraan para i-reuse ang mga expensive na objects.",,Object Pool
+Cloze,"Ang {{c1::connection pool}} ay isang halimbawa ng Object Pool na nagre-reuse ng mga database connections.",,connection pool
+Cloze,"Ang {{c1::Object Pool}} ay nagbibigay ng performance improvement sa pamamagitan ng pag-iwas sa object creation overhead.",,Object Pool
+Cloze,"Ang {{c1::pool}} ay may mga operations na acquire, release, at idle management.",,pool
+Cloze,"Ang {{c1::Object Pool}} ay nagbibigay ng resource management para sa mga limited resources.",,Object Pool
+Cloze,"Ang {{c1::Object Pool}} ay madalas gamitin sa mga connections, threads, at database connections.",,Object Pool
+Cloze,"Ang {{c1::Object Pool}} ay nagbibigay ng cost savings sa pamamagitan ng object reuse.",,Object Pool
+Cloze,"Ang {{c1::pool size}} ay ang bilang ng mga objects na pinapanatili sa pool para sa reuse.",,pool size
+Cloze,"Ang {{c1::Object Pool}} ay nagbibigay ng controlled access sa shared resources.",,Object Pool
+Cloze,"Ang {{c1::Object Pool}} ay nag-i-isolate ang resource management mula sa business logic.",,Object Pool

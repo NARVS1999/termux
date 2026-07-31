@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Singleton}} ay isang creational pattern na nagtitiyak ng iisang instance lang ng isang class.",,Singleton
+Cloze,"Ang {{c1::lazy initialization}} ay naghihintay ng unang pagkakataon na kailangan ang instance bago ito gumawa ng bago.",,lazy initialization
+Cloze,"Ang {{c1::eager initialization}} ay gumagawa agad ng instance kahit hindi pa kailangan.",,eager initialization
+Cloze,"Ang {{c1::thread safety}} sa Singleton ay nagsasabing dapat safe ang paggawa ng instance sa maraming threads.",,thread safety
+Cloze,"Ang {{c1::Singleton anti-pattern}} ay maaaring magdulot ng hidden dependencies at mahirap i-test.",,Singleton anti-pattern
+Cloze,"Ang {{c1::Singleton}} ay gumagamit ng private constructor at static method para magbigay ng instance.",,Singleton
+Cloze,"Ang {{c1::double-checked locking}} ay isang technique para sa thread-safe na lazy initialization.",,double-checked locking
+Cloze,"Ang {{c1::Singleton}} ay madalas gamitin sa logging, database connections, at configuration.",,Singleton
+Cloze,"Ang {{c1::Singleton}} ay nagpo-provide ng global access point sa isang shared resource.",,Singleton
+Cloze,"Ang {{c1::Singleton}} ay dapat i-consider bilang last resort dahil sa mga testing difficulties.",,Singleton
