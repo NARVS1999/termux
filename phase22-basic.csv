@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-secure ang API para sa SPA gamit ang token?",,"I-install ang Sanctum at gumamit ng tokens: $user->createToken('spa-token')"
+Application,"Paano mag-require ng valid token sa isang route?",,"Gamitin ang auth:sanctum middleware."
+Application,"Paano mag-issue ng JWT token pagkatapos mag-login?",,"Gamitin ang jwt-auth package o Passport at i-return ang token sa response."
+Application,"Paano i-grant ang access sa third-party app na may scope?",,"Gumamit ng OAuth2 authorization code flow sa Passport."
+Application,"Paano i-restrict na ang admin lang ang pwedeng mag-delete ng users?",,"Gamitin ang policies o Spatie roles: $user->hasRole('admin') o Gate::authorize('delete', $user)."

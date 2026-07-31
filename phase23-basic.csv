@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-limit ang API requests sa 100 kada minuto kada user?",,"->middleware('throttle:100,1') sa route."
+Application,"Paano maiwasan na ma-process ng dalawang beses ang isang order sa retry?",,"Gumamit ng idempotency key at i-check kung may existing record bago mag-process."
+Application,"Paano i-verify na ang webhook ay galing talaga sa payment gateway?",,"I-compute ang HMAC ng payload gamit ang secret at i-compare sa signature header."
+Application,"Paano i-handle ang webhook na paulit-ulit na ipinapadala ng service?",,"I-check ang event ID sa database bago mag-process (idempotent handler)."
+Application,"Paano gumawa ng endpoint na tatanggap ng webhook?",,"Mag-create ng route na walang CSRF (i-add sa except) na pumapayag sa POST at nagva-validate ng signature."

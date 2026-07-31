@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::rate limiting}} ay naglilimita kung gaano karaming requests ang pwedeng gawin ng isang client sa isang window.",,rate limiting
+Cloze,"Ang {{c1::throttle}} middleware ay ang built-in na rate limiter ng Laravel.",,throttle
+Cloze,"Ang {{c1::idempotency}} ay nangangahulugan na ang paulit-ulit na same request ay may iisang resulta lang.",,idempotency
+Cloze,"Ang {{c1::idempotency key}} ay isang unique na identifier na ipinapadala ng client para maiwasan ang duplicate processing.",,idempotency key
+Cloze,"Ang {{c1::webhook}} ay isang HTTP callback na awtomatikong ipinapadala ng isang service kapag may event.",,webhook
+Cloze,"Ang {{c1::signature validation}} ay nagve-verify na ang webhook ay tunay na galing sa source at hindi binago.",,signature validation
+Cloze,"Ang {{c1::retry}} sa webhook ay ang awtomatikong muling pagpapadala ng event kapag nag-fail ang delivery.",,retry
+Cloze,"Ang {{c1::429 Too Many Requests}} ay ang status code kapag lumampas na sa rate limit.",,429
+Cloze,"Ang {{c1::HMAC}} signature ay ginagamit para i-sign ang webhook payload para ma-verify ang authenticity.",,HMAC
+Cloze,"Ang {{c1::webhook endpoint}} ay ang URL sa iyong app kung saan ipinapadala ng service ang webhook.",,webhook endpoint

@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::REST}} ay isang architectural style na gumagamit ng HTTP methods para sa CRUD operations.",,REST
+Cloze,"Sa {{c1::RESTful}} API, ang GET ay para magbasa, POST para gumawa, PUT/PATCH para mag-update, at DELETE para mag-alis.",,RESTful
+Cloze,"Ang {{c1::resource}} sa REST ay ang entity na mina-manipulate (e.g. /users, /posts).",,resource
+Cloze,"Ang {{c1::API versioning}} ay ginagawa gamit ang URL (/api/v1/users) o Accept header para hindi masira ang existing clients.",,API versioning
+Cloze,"Ang {{c1::pagination}} ay ang paghiwa-hiwalay ng malaking result set sa maliliit na pages.",,pagination
+Cloze,"Ang {{c1::API Resource}} ay nagko-convert ng models sa JSON format na maipapadala sa API.",,API Resource
+Cloze,"Ang {{c1::HTTP status codes}} ay ang standardized na response codes (200 OK, 201 Created, 404 Not Found, 500 Server Error).",,HTTP status codes
+Cloze,"Ang {{c1::SPA}} (Single Page Application) ay kumokonekta sa backend gamit ang JSON API imbes na full page reloads.",,SPA
+Cloze,"Ang {{c1::query string}} (e.g. ?search=&page=2) ay ginagamit para sa filtering at pagination.",,query string
+Cloze,"Ang {{c1::RESTful verbs}} ay ang HTTP methods na GET, POST, PUT, PATCH, DELETE.",,HTTP methods

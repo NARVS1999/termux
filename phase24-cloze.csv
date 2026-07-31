@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::third-party integration}} ay ang pagkokonekta sa external services (payment, SMS, maps) gamit ang kanilang APIs.",,third-party integration
+Cloze,"Ang {{c1::payment gateway}} ay isang service na humahawak ng pagproseso ng payments (Stripe, PayPal, PayMongo).",,payment gateway
+Cloze,"Ang {{c1::SDK}} ay ang library na ibinibigay ng isang service para mas madaling ma-integrate ang kanilang API.",,SDK
+Cloze,"Ang {{c1::API key}} ay ang credential na ginagamit para i-authenticate sa third-party API.",,API key
+Cloze,"Ang {{c1::webhook signature}} ay ang HMAC signature na nagpapatunay na ang event ay tunay na galing sa source.",,webhook signature
+Cloze,"Ang {{c1::payment intent}} ay ang representasyon ng isang payment transaction sa modern payment APIs.",,payment intent
+Cloze,"Ang {{c1::sandbox}} ay ang test environment ng isang payment gateway para sa development.",,sandbox
+Cloze,"Ang {{c1::client_id at client_secret}} ay ginagamit para i-authenticate ang integration sa OAuth-based services.",,client credentials
+Cloze,"Ang {{c1::webhook secret}} ay ginagamit para ma-verify ang signature ng incoming webhooks.",,webhook secret
+Cloze,"Ang {{c1::refund}} ay ang pagbabalik ng payment sa customer sa pamamagitan ng gateway API.",,refund

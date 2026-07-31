@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng paginated response sa Laravel API?",,"Return ang paginator: return UserResource::collection(User::paginate(15));"
+Application,"Paano i-filter ang users na active sa API?",,"Gamitin ang query string: /api/users?status=active at i-handle sa controller."
+Application,"Paano mag-version ng API para hindi masira ang existing clients?",,"Gamitin ang /api/v1/ prefix at mag-keep ng backward compatibility."
+Application,"Paano mag-return ng 404 kapag walang nahanap na user?",,"Pagkatapos ng findOrFail, return ang response()->json(null, 404) o gamitin ang abort(404)."
+Application,"Paano i-transform ang User model para sa JSON response?",,"Gumawa ng API Resource: php artisan make:resource UserResource."
+Application,"Ano ang tamang status code kapag successful ang paggawa ng resource?",,"201 Created."

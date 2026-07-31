@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::authentication}} ay ang pagpapatunay kung sino ang user, habang ang {{c2::authorization}} ay kung ano ang pwedeng gawin.",,authentication/authorization
+Cloze,"Ang {{c1::Sanctum}} ay ang Laravel package para sa API token authentication na simple para sa SPAs at mobile apps.",,Sanctum
+Cloze,"Ang {{c1::Passport}} ay ang full OAuth2 server implementation ng Laravel.",,Passport
+Cloze,"Ang {{c1::JWT}} (JSON Web Token) ay isang self-contained token na may payload ng claims at signature.",,JWT
+Cloze,"Ang {{c1::Bearer token}} ay ang paraan ng pagpapadala ng token sa Authorization header.",,Bearer token
+Cloze,"Ang {{c1::OAuth2}} ay isang authorization framework na may authorization code at client credentials flows.",,OAuth2
+Cloze,"Ang {{c1::access token}} ay ang token na ginagamit para ma-access ang protected resources.",,access token
+Cloze,"Ang {{c1::refresh token}} ay ginagamit para makakuha ng bagong access token kapag nag-expire ito.",,refresh token
+Cloze,"Ang {{c1::CSRF}} protection ay hindi kinakailangan sa stateless API na gumagamit ng tokens.",,CSRF
+Cloze,"Ang {{c1::Spatie Permission}} ay isang package para sa roles at permissions management.",,Spatie Permission
