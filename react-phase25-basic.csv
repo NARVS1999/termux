@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng controlled input sa React?",,"const [value, setValue] = useState(''); <input value={value} onChange={(e) => setValue(e.target.value)} />"
+Application,"Paano gumawa ng uncontrolled input?",,"const inputRef = useRef(); <input ref={inputRef} />; — i-access ang value gamit ang inputRef.current.value"
+Application,"Paano mag-manage ng multiple inputs gamit ang iisang state?",,"const [form, setForm] = useState({name:'', email:''}); setForm({...form, [e.target.name]: e.target.value})"
+Application,"Paano mag-submit ng form sa React?",,"<form onSubmit={(e) => { e.preventDefault(); submitData(form); }}> — gamitin ang preventDefault"
+Application,"Paano i-reset ang form pagkatapos ng submission?",,"setForm({name:'', email:''}); — i-reset ang state sa initial values"

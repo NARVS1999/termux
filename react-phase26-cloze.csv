@@ -1,0 +1,8 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::React Hook Form}} ay isang performant form library na gumagamit ng uncontrolled inputs at refs.",,React Hook Form
+Cloze,"Ang {{c1::useForm}} hook sa React Hook Form ay nagbibigay ng register, handleSubmit, at errors.",,useForm
+Cloze,"Ang {{c1::register}} function ay nagco-connect ng input sa form: <input {...register('name', {required: true})} />.",,register
+Cloze,"Ang {{c1::Yup}} ay isang JavaScript schema builder para sa form validation.",,Yup
+Cloze,"Ang {{c1::Zod}} ay isang TypeScript-first schema declaration library para sa validation.",,Zod
+Cloze,"Ang {{c1::validation rules}} sa React Hook Form ay nagde-define ng requirements: { required: true, minLength: 5 }.",,validation rules
+Cloze,"Ang {{c1::form errors}} sa React Hook Form ay na-a-access gamit ang errors object: errors.name?.message.",,form errors

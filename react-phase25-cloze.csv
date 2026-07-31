@@ -1,0 +1,7 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::controlled input}} ay ang input kung saan ang React state ang nagco-control ng value at onChange.",,controlled input
+Cloze,"Ang {{c1::uncontrolled input}} ay ang input kung saan ang DOM ang nagmamaintain ng state, na-a-access gamit ang ref.",,uncontrolled input
+Cloze,"Ang {{c1::form state}} ay ang centralized na state na naglalaman ng lahat ng input values sa form.",,form state
+Cloze,"Ang {{c1::onChange handler}} ay ang function na nagse-set ng state sa bawat input change: onChange={(e) => setValue(e.target.value)}.",,onChange handler
+Cloze,"Ang {{c1::onSubmit handler}} ay ang function na nagha-handle ng form submission: onSubmit={(e) => { e.preventDefault(); ... }}.",,onSubmit handler
+Cloze,"Ang {{c1::multiple inputs}} pattern ay ang paggamit ng iisang handler para sa maraming inputs gamit ang input name.",,multiple inputs

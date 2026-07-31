@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-setup ng React Hook Form?",,"const { register, handleSubmit, formState: { errors } } = useForm(); — i-destructure ang hook"
+Application,"Paano mag-add ng validation rules?",,"<input {...register('email', { required: 'Email is required', pattern: { value: /^\S+@\S+$/i, message: 'Invalid email' } })} />"
+Application,"Paano mag-display ng validation errors?",,"{errors.email && <span>{errors.email.message}</span>} — i-check ang errors object"
+Application,"Paano gumamit ng Yup para sa schema validation?",,"const schema = yup.object({ name: yup.string().required() }); useForm({ resolver: yupResolver(schema) });"
+Application,"Paano mag-validate ng form sa submission?",,"onSubmit={handleSubmit(onValid, onInvalid)} — ang handleSubmit ang nagvo-validate"
