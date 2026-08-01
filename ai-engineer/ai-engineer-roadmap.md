@@ -43,11 +43,11 @@
 
 ## Embeddings & Vector Databases
 
-- [ ] **Phase 25** — Embeddings: what they are, semantic search, use cases
-- [ ] **Phase 26** — Embedding models: OpenAI Embeddings API, Cohere, Gemini Embedding, Jina, Sentence Transformers
-- [ ] **Phase 27** — Vector databases: purpose and functionality, Chroma, FAISS
-- [ ] **Phase 28** — More vector DBs: Pinecone, Weaviate, Qdrant, LanceDB, Supabase, MongoDB Atlas
-- [ ] **Phase 29** — Vector search: indexing embeddings, similarity search, implementing vector search
+- [x] **Phase 25** — Embeddings: what they are, semantic search, use cases
+- [x] **Phase 26** — Embedding models: OpenAI Embeddings API, Cohere, Gemini Embedding, Jina, Sentence Transformers
+- [x] **Phase 27** — Vector databases: purpose and functionality, Chroma, FAISS
+- [x] **Phase 28** — More vector DBs: Pinecone, Weaviate, Qdrant, LanceDB, Supabase, MongoDB Atlas
+- [x] **Phase 29** — Vector search: indexing embeddings, similarity search, implementing vector search
 
 ## RAG (Retrieval-Augmented Generation)
 
