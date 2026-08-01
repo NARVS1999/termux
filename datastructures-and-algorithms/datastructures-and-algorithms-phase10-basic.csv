@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-traverse ng linked list?","Gamitin ang current pointer na nag-m-move sa next.","var current = head; while (current != null) { process(current); current = current.next }"
+Application,"Paano mag-insert sa unang position?","I-set ang bagong node na next sa current head.","newNode.next = head; head = newNode"
+Application,"Paano mag-delete ng node?","I-skip ang node gamit ang previous.next = current.next.","prev.next = curr.next"
+Application,"Paano mag-search ng value?","I-traverse habang hindi null at i-compare ang data.","while (current != null) { if (current.data == target) return current; current = current.next }"
+Application,"Paano mag-reverse ng linked list?","Gamitin ang three pointers: prev, current, next.","var prev = null; var curr = head; while(curr != null) { next = curr.next; curr.next = prev; prev = curr; curr = next }"

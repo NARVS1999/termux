@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::doubly linked list}} ay linked list na may prev at next pointers sa bawat node.",,doubly linked list
+Cloze,"Ang {{c1::prev pointer}} ay reference sa previous node sa doubly linked list.",,prev pointer
+Cloze,"Ang {{c1::next pointer}} ay reference sa next node sa linked list.",,next pointer
+Cloze,"Ang {{c1::tail}} ay huling node sa linked list na ang next ay null.",,tail
+Cloze,"Ang {{c1::tail access}} ay O(1) sa doubly linked list kung may tail reference.",,tail access
+Cloze,"Ang {{c1::bidirectional}} traversal ay possible sa doubly linked list: forward at backward.",,bidirectional
+Cloze,"Ang {{c1::sentinel node}} ay dummy node na nag-s-simplifies ng edge cases sa insertion at deletion.",,sentinel node
+Cloze,"Ang {{c1::O(1) insertion}} at deletion ay possible kapag may reference na sa target node.",,O(1) insertion

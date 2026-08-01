@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-reverse ng linked list in-place?","Gamitin ang three pointers: prev, curr, next.","var prev = null; var curr = head; while(curr) { next=curr.next; curr.next=prev; prev=curr; curr=next }"
+Application,"Paano mag-find ng kth from end?","Gamitin ang two pointers: advance ang first ng k steps.","fast = head; for i in 0..k: fast = fast.next; while(fast) { slow=slow.next; fast=fast.next }"
+Application,"Paano mag-merge ng two sorted lists?","Gamitin ang dummy head at i-compare elements.","dummy = ListNode(0); tail = dummy; while(l1 && l2) { if(l1.val < l2.val) tail.next = l1 }"
+Application,"Paano mag-check ng palindrome?","Gamitin ang slow/fast pointer para i-find ang mid, then i-reverse ang second half.","slow=fast=head; while(fast && fast.next) { slow=slow.next; fast=fast.next.next }"
+Application,"Paano mag-remove ng nth from end?","Gamitin ang two pointers na may k gap.","fast = head; for i in 0..k: fast = fast.next; while(fast.next) { slow=slow.next; fast=fast.next }"

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Floyd's cycle detection}} ay algorithm na nag-d-detect ng cycle gamit ang fast at slow pointers.",,Floyd's cycle detection
+Cloze,"Ang {{c1::fast pointer}} ay nag-m-move ng 2 steps sa bawat iteration.",,fast pointer
+Cloze,"Ang {{c1::slow pointer}} ay nag-m-move ng 1 step sa bawat iteration.",,slow pointer
+Cloze,"Ang {{c1::cycle}} ay situation kung saan ang isang node ay naa-access muli sa traversal.",,cycle
+Cloze,"Ang {{c1::meeting point}} ay position kung saan nag-meet ang fast at slow pointers.",,meeting point
+Cloze,"Ang {{c1::cycle start}} ay node kung saan nagsisimula ang cycle.",,cycle start
+Cloze,"Sa Floyd's algorithm, ang {{c1::phase 1}} ay pag-detect ng meeting point.",,phase 1
+Cloze,"Ang {{c1::phase 2}} ay pag-find ng cycle start gamit ang reset na slow pointer.",,phase 2

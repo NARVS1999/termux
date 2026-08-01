@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::list reversal}} ay operation na nag-p-palit ng direction ng linked list.",,list reversal
+Cloze,"Ang {{c1::merging}} ay process ng pag-c-combine ng dalawang sorted linked lists.",,merging
+Cloze,"Ang {{c1::kth from end}} ay pag-f-find ng nth node mula sa huling position.",,kth from end
+Cloze,"Ang {{c1::dummy head}} ay technique na nag-s-simplifies ng insertion sa unang position.",,dummy head
+Cloze,"Ang {{c1::runner technique}} ay pag-g-gamit ng dalawang pointers na may different speeds.",,runner technique
+Cloze,"Ang {{c1::in-place merge}} ay merging na walang extra space bukwan sa pointers.",,in-place merge
+Cloze,"Ang {{c1::palindrome check}} ay pag-v-verify kung equal ang first at last elements.",,palindrome check
+Cloze,"Ang {{c1::intersection}} ay node kung saan nag-meet ang dalawang linked lists.",,intersection

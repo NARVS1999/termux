@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::singly linked list}} ay data structure na nag-e-extend ng nodes na may data at next pointer.",,singly linked list
+Cloze,"Ang {{c1::node}} ay basic unit ng linked list na nag-c-contains ng data at reference sa next node.",,node
+Cloze,"Ang {{c1::head}} ay unang node sa linked list.",,head
+Cloze,"Ang {{c1::traversal}} sa linked list ay pag-i-iterate gamit ang next pointers hanggang null.",,traversal
+Cloze,"Ang {{c1::insertion}} sa linked list ay O(1) kapag alam mo na ang position.",,insertion
+Cloze,"Ang {{c1::deletion}} sa linked list ay O(1) kapag may reference sa previous node.",,deletion
+Cloze,"Ang {{c1::null}} termination ay ang huling node na ang next pointer ay walang value.",,null
+Cloze,"Ang {{c1::temp pointer}} ay temporary reference na ginagamit para mag-traverse nang hindi nawawala ang head.",,temp pointer
