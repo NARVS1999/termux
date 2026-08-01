@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-enqueue sa queue?","Gamitin ang add o offer method.","queue.add(element)"
+Application,"Paano mag-dequeue mula sa queue?","Gamitin ang poll method.","val first = queue.poll()"
+Application,"Paano mag-solve ng sliding window max?","Gamitin ang monotonic deque na may indices.","for i in 0..n: while(deque not empty && arr[i] > arr[deque.back]) deque.removeBack()"
+Application,"Paano mag-implement ng BFS?","Gamitin ang queue para sa level-order traversal.","queue.add(root); while(queue not empty) { node = queue.poll(); process(node); add children }"
+Application,"Paano mag-check kung empty ang queue?","Gamitin ang isEmpty method.","if (queue.isEmpty()) println(\"Empty\")"

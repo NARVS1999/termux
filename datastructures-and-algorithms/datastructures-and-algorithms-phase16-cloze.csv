@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::queue}} ay FIFO data structure na nag-i-store ng elements sa first-in, first-out order.",,queue
+Cloze,"Ang {{c1::deque}} ay double-ended queue na nag-a-add at nag-a-remove sa both ends.",,deque
+Cloze,"Ang {{c1::enqueue}} ay operation na nag-a-add ng element sa likod ng queue.",,enqueue
+Cloze,"Ang {{c1::dequeue}} ay operation na nag-a-remove ng element sa harap ng queue.",,dequeue
+Cloze,"Ang {{c1::BFS queue}} ay queue na ginagamit sa breadth-first traversal ng graphs at trees.",,BFS queue
+Cloze,"Ang {{c1::sliding window max}} ay problem na nag-f-find ng maximum sa bawat window position.",,sliding window max
+Cloze,"Ang {{c1::circular queue}} ay queue na nag-r-rewind sa simula pagkatapos ng last position.",,circular queue
+Cloze,"Ang {{c1::front}} property ay nag-b-balik ng unang element sa queue.",,front

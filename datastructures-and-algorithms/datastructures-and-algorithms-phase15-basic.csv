@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-find ng next greater element?","Gamitin ang monotonic decreasing stack.","for i in 0..n: while(stack not empty && arr[stack.top] < arr[i]) result[stack.pop()] = arr[i]"
+Application,"Paano mag-maintain ng decreasing stack?","I-push habang mas malaki, i-pop kapag mas maliit.","if (stack.isEmpty() || arr[stack.top] >= arr[i]) stack.push(i)"
+Application,"Paano mag-solve ng daily temperatures?","Gamitin ang stack para mag-store ng indices.","for i in 0..n: while(stack not empty && temps[i] > temps[stack.top]) result[stack.pop()] = i - stack.top"
+Application,"Paano mag-find ng largest rectangle?","Gamitin ang monotonic stack para mag-compute ng histogram area.","for i in 0..n: while(stack not empty && arr[i] < arr[stack.top]) height = arr[stack.pop()]"
+Application,"Paano mag-solve ng stock span?","Gamitin ang stack na may consecutive days count.","for i in 0..n: while(stack not empty && prices[i] >= prices[stack.top]) span += stack.pop()"

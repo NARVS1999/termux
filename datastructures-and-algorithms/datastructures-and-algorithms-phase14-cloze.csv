@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::stack}} ay LIFO data structure na nag-i-store ng elements sa last-in, first-out order.",,stack
+Cloze,"Ang {{c1::push}} operation ay nag-a-add ng element sa tuktok ng stack.",,push
+Cloze,"Ang {{c1::pop}} operation ay nag-a-remove ng element mula sa tuktok ng stack.",,pop
+Cloze,"Ang {{c1::peek}} operation ay nag-b-balik ng top element nang hindi nag-a-remove.",,peek
+Cloze,"Ang {{c1::parenthesis matching}} ay classic application ng stack para i-validate ang balanced brackets.",,parenthesis matching
+Cloze,"Ang {{c1::call stack}} ay implicit stack na ginagamit ng programming language para sa function calls.",,call stack
+Cloze,"Ang {{c1::empty stack}} ay wala laman na stack na nag-return ng error sa pop operation.",,empty stack
+Cloze,"Ang {{c1::stack overflow}} ay error kapag nag-push sa full stack.",,stack overflow

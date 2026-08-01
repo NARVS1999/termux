@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-push sa stack?","Gamitin ang push method.","stack.push(element)"
+Application,"Paano mag-pop mula sa stack?","Gamitin ang pop method.","val top = stack.pop()"
+Application,"Paano mag-validate ng balanced parentheses?","I-push ang opening brackets, i-pop kapag closing bracket.","for char in str: if (char == '(') stack.push(char) else stack.pop()"
+Application,"Paano mag-check kung empty ang stack?","Gamitin ang isEmpty method.","if (stack.isEmpty()) println(\"Empty\")"
+Application,"Paano mag-peek ng top element?","Gamitin ang peek method.","val top = stack.peek()"

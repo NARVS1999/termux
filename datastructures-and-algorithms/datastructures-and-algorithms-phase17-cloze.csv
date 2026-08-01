@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::priority queue}} ay queue na nag-s-serves ng highest priority element first.",,priority queue
+Cloze,"Ang {{c1::heap}} ay complete binary tree na nag-m-maintains ng heap property.",,heap
+Cloze,"Ang {{c1::max heap}} ay heap na ang parent ay laging mas malaki sa children.",,max heap
+Cloze,"Ang {{c1::min heap}} ay heap na ang parent ay laging mas maliit sa children.",,min heap
+Cloze,"Ang {{c1::heapify}} ay process ng pag-a-restore ng heap property.",,heapify
+Cloze,"Ang {{c1::k-th element}} ay element na naka-rank sa kth position.",,k-th element
+Cloze,"Ang {{c1::heap sort}} ay sorting algorithm na nag-u-uses ng heap.",,heap sort
+Cloze,"Ang {{c1::parent index}} sa heap ay floor((i-1)/2) para sa 0-indexed.",,parent index

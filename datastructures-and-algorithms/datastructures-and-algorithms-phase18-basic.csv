@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-implement ng min-stack?","Gamitin ang auxiliary stack na nag-s-stores ng min values.","if (x <= minStack.peek()) minStack.push(x)"
+Application,"Paano mag-implement ng queue gamit ang two stacks?","Gamitin ang input stack at output stack.","enqueue: inputStack.push(x); dequeue: if outputStack empty transfer input to output"
+Application,"Paano mag-check ng balanced parentheses?","Gamitin ang stack na may map ng bracket pairs.","for c in s: if c is opening push else if stack top matches pop"
+Application,"Paano mag-design ng stack with getMin?","I-maintain ang min sa auxiliary stack sa bawat push/pop.","push: if x <= minStack.top minStack.push(x); pop: if popped == minStack.top minStack.pop()"
+Application,"Paano mag-evaluate ng postfix expression?","Gamitin ang stack: push operands, pop for operators.","for token in postfix: if number push else pop two evaluate push result"

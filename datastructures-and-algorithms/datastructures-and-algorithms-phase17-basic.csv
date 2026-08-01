@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng min heap?","Gamitin ang PriorityQueue na may natural ordering.","val minHeap = PriorityQueue<Int>()"
+Application,"Paano mag-create ng max heap?","Gamitin ang reverseOrder comparator.","val maxHeap = PriorityQueue<Int>(Comparator.reverseOrder())"
+Application,"Paano mag-find ng kth largest?","Gamitin ang min heap na may size k.","val heap = PriorityQueue<Int>(); for num in arr { heap.add(num); if (heap.size > k) heap.poll() }"
+Application,"Paano mag-heapify ng array?","I-build ang heap mula sa last non-leaf node.","for i in n/2-1 downTo 0: heapify(arr, n, i)"
+Application,"Paano mag-sort gamit ang heap?","I-add lahat sa heap tapos i-poll isa-isa.","for num in arr: heap.add(num); while(heap.isNotEmpty()) sorted.add(heap.poll())"

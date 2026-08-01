@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::monotonic stack}} ay stack na nag-m-maintains ng increasing o decreasing order.",,monotonic stack
+Cloze,"Ang {{c1::next greater element}} ay pinakamalapit na element sa kanan na mas malaki sa current.",,next greater element
+Cloze,"Ang {{c1::monotonic decreasing}} stack ay nag-s-sure na bawat element ay mas malaki sa ibaba nito.",,monotonic decreasing
+Cloze,"Ang {{c1::monotonic increasing}} stack ay nag-s-sure na bawat element ay mas maliit sa ibaba nito.",,monotonic increasing
+Cloze,"Sa monotonic stack, ang {{c1::range}} ay span ng elements na satisfied sa condition.",,range
+Cloze,"Ang {{c1::maintenance}} ay process ng pag-s-stay ng elements sa stack habang nag-i-iterate.",,maintenance
+Cloze,"Ang {{c1::pop until}} ay pattern na nag-a-remove ng elements hanggang satisfied ang condition.",,pop until
+Cloze,"Ang {{c1::answer array}} ay result na nag-c-contains ng computed values para sa bawat element.",,answer array
