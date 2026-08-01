@@ -19,12 +19,12 @@
 
 ## Prompt Engineering
 
-- [ ] **Phase 10** — Prompt anatomy: instructions, input format, system prompting, context
-- [ ] **Phase 11** — Prompting techniques: zero-shot, few-shot, chain-of-thought (CoT)
-- [ ] **Phase 12** — Advanced prompting: ReAct, role & behavior, constraints
-- [ ] **Phase 13** — Sampling parameters: temperature, top-k, top-p, repetition penalties
-- [ ] **Phase 14** — Structured output: JSON mode, function calling, output schemas
-- [ ] **Phase 15** — Production prompting: prompt caching, streaming responses, context engineering
+- [x] **Phase 10** — Prompt anatomy: instructions, input format, system prompting, context
+- [x] **Phase 11** — Prompting techniques: zero-shot, few-shot, chain-of-thought (CoT)
+- [x] **Phase 12** — Advanced prompting: ReAct, role & behavior, constraints
+- [x] **Phase 13** — Sampling parameters: temperature, top-k, top-p, repetition penalties
+- [x] **Phase 14** — Structured output: JSON mode, function calling, output schemas
+- [x] **Phase 15** — Production prompting: prompt caching, streaming responses, context engineering
 
 ## AI Safety & Ethics
 
