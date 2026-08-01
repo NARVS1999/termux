@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano malaman kung bakit mabagal ang response ng isang request?",,"Gumamit ng distributed tracing para i-follow ang request sa lahat ng services."
+Application,"Paano ma-notify kapag may issue sa server?",,"Mag-setup ng alerting base sa metrics thresholds."
+Application,"Paano i-track ang error rate ng API?",,"Mag-collect ng metrics at mag-display sa dashboard."
+Application,"Paano i-debug ang issue sa production?",,"Tingnan ang centralized logs at traces ng request."
+Application,"Paano mag-monitor ng CPU at memory usage?",,"Gumamit ng monitoring tools na kumukolekta ng system metrics."

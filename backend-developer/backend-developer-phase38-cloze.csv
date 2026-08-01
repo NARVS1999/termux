@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::monolith}} ay ang architecture kung saan iisang application ang lahat ng features.",,monolith
+Cloze,"Ang {{c1::SOA}} ay ang service-oriented architecture na naghahati ng app sa services.",,SOA
+Cloze,"Ang {{c1::microservices}} ay ang paghahati ng app sa maliliit na independent services.",,microservices
+Cloze,"Ang {{c1::event-driven}} ay ang architecture na nakabatay sa events imbes na direct calls.",,event-driven
+Cloze,"Ang {{c1::event bus}} ay ang central channel kung saan nagpi-publish at nagsu-subscribe ng events.",,event bus
+Cloze,"Ang {{c1::service boundary}} ay ang hangganan ng responsibilities ng bawat service.",,service boundary
+Cloze,"Ang {{c1::bounded context}} ay ang konsepto sa domain-driven design na naghihiwalay ng domains.",,bounded context
+Cloze,"Ang {{c1::distributed system}} ay ang system na binubuo ng maraming independent nodes.",,distributed system
+Cloze,"Ang {{c1::synchronous communication}} ay ang direct request-response communication na naghihintay.",,synchronous communication
+Cloze,"Ang {{c1::asynchronous communication}} ay ang communication na hindi naghihintay ng immediate response.",,asynchronous communication

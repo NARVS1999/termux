@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::observability}} ay ang kakayahan na maunawaan ang internal state ng system mula sa labas.",,observability
+Cloze,"Ang {{c1::monitoring}} ay ang pag-collect at pag-display ng metrics ng system.",,monitoring
+Cloze,"Ang {{c1::instrumentation}} ay ang pagdagdag ng code para maglabas ng metrics at traces.",,instrumentation
+Cloze,"Ang {{c1::telemetry}} ay ang data na na-collect mula sa running system.",,telemetry
+Cloze,"Ang {{c1::tracing}} ay ang pag-follow ng isang request sa iba't ibang services.",,tracing
+Cloze,"Ang {{c1::logs}} ay ang textual records ng mga events na nangyari sa system.",,logs
+Cloze,"Ang {{c1::metrics}} ay ang numerical na measurements tulad ng CPU at latency.",,metrics
+Cloze,"Ang {{c1::alerting}} ay ang notification kapag may anomaly sa system.",,alerting
+Cloze,"Ang {{c1::distributed tracing}} ay ang pag-track ng requests sa buong microservices.",,distributed tracing
+Cloze,"Ang {{c1::dashboard}} ay ang visual na display ng system health at metrics.",,dashboard

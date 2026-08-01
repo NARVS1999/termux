@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::circuit breaker}} ay ang pattern na pumipigil sa cascading failures sa system.",,circuit breaker
+Cloze,"Ang {{c1::graceful degradation}} ay ang pagpapatuloy ng core features kahit may failure.",,graceful degradation
+Cloze,"Ang {{c1::failure mode}} ay ang paraan kung paano nabibigo ang isang component.",,failure mode
+Cloze,"Ang {{c1::retry}} ay ang pagsubok ulit ng isang failed operation.",,retry
+Cloze,"Ang {{c1::exponential backoff}} ay ang pagtaas ng delay sa bawat retry.",,exponential backoff
+Cloze,"Ang {{c1::timeout}} ay ang limitasyon ng oras na hinihintay bago i-abort ang request.",,timeout
+Cloze,"Ang {{c1::fallback}} ay ang alternative na response kapag failed ang main operation.",,fallback
+Cloze,"Ang {{c1::bulkhead}} ay ang paghihiwalay ng resources para hindi maapektuhan ang buong system.",,bulkhead
+Cloze,"Ang {{c1::idempotency}} ay ang kakayahan na ligtas na i-replay ang isang operation.",,idempotency

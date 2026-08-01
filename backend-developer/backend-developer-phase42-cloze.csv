@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Elasticsearch}} ay ang distributed search at analytics engine.",,Elasticsearch
+Cloze,"Ang {{c1::index}} ay ang collection ng documents sa Elasticsearch.",,index
+Cloze,"Ang {{c1::document}} ay ang unit ng data na ini-store sa Elasticsearch.",,document
+Cloze,"Ang {{c1::query DSL}} ay ang JSON-based query language ng Elasticsearch.",,query DSL
+Cloze,"Ang {{c1::Solr}} ay ang open-source search platform na nakabase sa Lucene.",,Solr
+Cloze,"Ang {{c1::real-time data}} ay ang data na nag-pro-process habang dumarating ito.",,real-time data
+Cloze,"Ang {{c1::streaming}} ay ang continuous na pag-pro-process ng data.",,streaming
+Cloze,"Ang {{c1::ingestion}} ay ang pagpasok ng data sa system para i-pro-process.",,ingestion
+Cloze,"Ang {{c1::aggregation}} ay ang pag-analisa ng documents para sa summary statistics.",,aggregation

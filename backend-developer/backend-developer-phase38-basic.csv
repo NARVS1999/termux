@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-decouple ng mga services?",,"Gumamit ng asynchronous communication sa pamamagitan ng message broker o event bus."
+Application,"Paano i-handle ang inter-service communication nang hindi naghihintay?",,"Mag-publish ng event at magkaroon ng consumers na nag-pro-process nito."
+Application,"Paano pumili sa pagitan ng monolith at microservices?",,"Magsimula sa monolith at mag-microservices kapag kailangan na ng independent scaling."
+Application,"Paano mag-iwas sa tight coupling ng services?",,"I-define ang malinaw na service boundaries at interfaces."
+Application,"Paano mag-communicate ang dalawang microservices?",,"Gumamit ng REST/gRPC para sa sync o message broker para sa async."

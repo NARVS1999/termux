@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::twelve-factor app}} ay ang methodology para sa pagbuo ng modern cloud-native applications.",,twelve-factor app
+Cloze,"Ang {{c1::config}} ay ang lahat ng nagbabago sa pagitan ng environments.",,config
+Cloze,"Ang {{c1::stateless processes}} ay ang processes na walang lokal na estado.",,stateless processes
+Cloze,"Ang {{c1::logging}} ay ang pag-output ng logs sa stdout imbes na sa files.",,logging
+Cloze,"Ang {{c1::dev/prod parity}} ay ang pagpapanatili ng pagkakapareho ng development at production environments.",,dev/prod parity
+Cloze,"Ang {{c1::environment variables}} ay ang paraan ng pag-inject ng config sa application.",,environment variables
+Cloze,"Ang {{c1::concurrency}} ay ang pag-scale sa pamamagitan ng pagdagdag ng processes.",,concurrency
+Cloze,"Ang {{c1::disposability}} ay ang mabilis na start at shutdown ng processes.",,disposability
+Cloze,"Ang {{c1::backing services}} ay ang external services tulad ng databases at queues.",,backing services

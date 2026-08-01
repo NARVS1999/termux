@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano pigilan ang isang failing service na i-down ang buong system?",,"Gumamit ng circuit breaker na nag-o-open kapag paulit-ulit ang failures."
+Application,"Paano mag-handle ng temporary network errors?",,"Mag-retry na may exponential backoff at timeout."
+Application,"Paano mag-serve ng partial experience kapag down ang isang service?",,"Mag-implement ng graceful degradation at fallback responses."
+Application,"Paano i-ensure na ligtas i-retry ang payment request?",,"Gamitin ang idempotency key para hindi ma-duplicate ang transaction."
+Application,"Paano mag-iwas sa pagka-overload ng downstream service?",,"Gamitin ang bulkhead pattern para i-isolate ang resource pools."
