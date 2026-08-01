@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-solve ng interval scheduling?","I-sort by end time tapos i-pick ang non-overlapping intervals.","intervals.sortBy { it.end }; count = 1; lastEnd = intervals[0].end"
+Application,"Paano mag-prove ng greedy correctness?","Gamitin ang exchange argument: i-swap ang greedy choice sa optimal solution.","If swapping doesn't make it worse, greedy is optimal"
+Application,"Paano mag-solve ng fractional knapsack?","I-sort by value-to-weight ratio tapos i-take greedily.","items.sortByDescending { it.value / it.weight }; for item in items: take as much as possible"
+Application,"Paano mag-solve ng jump game?","Gamitin ang greedy: i-track ang farthest reachable position.","maxReach = 0; for i in 0..n: if i > maxReach return false; maxReach = max(maxReach, i + nums[i])"
+Application,"Paano mag-solve ng gas station?","I-start sa gas na nag-a-add up sa positive total.","if totalGas >= 0, solution exists; start where tank first becomes non-negative"

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::spaced repetition}} ay learning technique na nag-i-increase ng review intervals.",,spaced repetition
+Cloze,"Ang {{c1::contest drills}} ay timed practice na nag-s-simulates ng real coding interviews.",,contest drills
+Cloze,"Ang {{c1::debugging}} ay process ng pag-f-find at pag-a-ayos ng bugs sa code.",,debugging
+Cloze,"Ang {{c1::pattern recognition}} ay skill na nag-i-identify ng common problem types.",,pattern recognition
+Cloze,"Ang {{c1::time management}} ay skill na nag-a-allocate ng oras sa bawat problem.",,time management
+Cloze,"Ang {{c1::edge case}} ay unusual input na pwedeng mag-reveal ng bugs.",,edge case
+Cloze,"Ang {{c1::code review}} ay pag-iinspect ng code para mag-improve ng quality.",,code review
+Cloze,"Ang {{c1::mock interview}} ay practice interview para mag-build ng confidence.",,mock interview

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::greedy algorithm}} ay approach na nag-p-pili ng locally optimal choice hoping for global optimum.",,greedy algorithm
+Cloze,"Ang {{c1::exchange argument}} ay proof technique na nag-s-shows ng correctness ng greedy choice.",,exchange argument
+Cloze,"Ang {{c1::interval scheduling}} ay problem na nag-f-finds ng maximum non-overlapping intervals.",,interval scheduling
+Cloze,"Ang {{c1::greedy choice property}} ay property na ang optimal solution ay nag-c-contains ng greedy choice.",,greedy choice property
+Cloze,"Ang {{c1::activity selection}} ay classic greedy problem na nag-m-maximizes ng completed activities.",,activity selection
+Cloze,"Ang {{c1::huffman coding}} ay greedy algorithm para sa optimal prefix coding.",,huffman coding
+Cloze,"Ang {{c1::fractional knapsack}} ay greedy problem na nag-a-allows ng fractions.",,fractional knapsack
+Cloze,"Ang {{c1::matroid}} ay mathematical structure na nag-g-guarantees ng greedy correctness.",,matroid

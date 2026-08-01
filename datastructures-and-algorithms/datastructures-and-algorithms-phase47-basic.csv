@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-build ng study habit?","Mag-solve ng 1-2 problems daily at i-review regularly.","Daily: solve 1 problem > track progress > review weekly"
+Application,"Paano mag-practice ng timed problems?","Mag-set ng 30-minute timer per problem.","Timer: 30 min per problem; if stuck, study solution then redo"
+Application,"Paano mag-identify ng patterns?","I-group ang solved problems by technique.","Group: sliding window, two pointers, BFS/DFS, DP"
+Application,"Paano mag-review ng past problems?","Gamitin ang spaced repetition: 1 day, 3 days, 7 days, 30 days.","Review: Day 1 > Day 3 > Day 7 > Day 30"
+Application,"Paano mag-handle ng interview pressure?","Mag-practice ng verbal explanation habang nag-s-solve.","Explain approach aloud > write code > test > optimize"

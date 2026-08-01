@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::backtracking}} ay algorithm na nag-e-explore ng lahat ng possibilities at nag-b-backtrack.",,backtracking
+Cloze,"Ang {{c1::permutation}} ay arrangement ng elements sa lahat ng possible orders.",,permutation
+Cloze,"Ang {{c1::combination}} ay selection ng elements nang walang specific order.",,combination
+Cloze,"Ang {{c1::pruning}} ay technique na nag-r-removes ng branches na walang chance mag-succeed.",,pruning
+Cloze,"Ang {{c1::decision tree}} ay tree na nag-r-represents ng lahat ng choices.",,decision tree
+Cloze,"Ang {{c1::state space}} ay set ng lahat ng possible states ng problem.",,state space
+Cloze,"Ang {{c1::backtrack}} operation ay pag-undo ng last choice para mag-explore ng ibang path.",,backtrack
+Cloze,"Ang {{c1::constraint satisfaction}} ay problem type na nag-s-satisfies ng constraints.",,constraint satisfaction
