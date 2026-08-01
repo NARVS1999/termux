@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::container}} ay ang lightweight na package ng application at mga dependencies nito.",,container
+Cloze,"Ang {{c1::Docker}} ay ang popular na containerization platform.",,Docker
+Cloze,"Ang {{c1::Dockerfile}} ay ang definition file kung paano i-build ang container image.",,Dockerfile
+Cloze,"Ang {{c1::image}} ay ang immutable na template kung saan ginagawa ang containers.",,image
+Cloze,"Ang {{c1::Kubernetes}} ay ang container orchestration platform para sa pag-manage ng containers.",,Kubernetes
+Cloze,"Ang {{c1::pod}} ay ang pinakamaliit na deployable unit sa Kubernetes.",,pod
+Cloze,"Ang {{c1::LXC}} ay ang Linux containers na system-level na virtualization.",,LXC
+Cloze,"Ang {{c1::serverless}} ay ang pag-run ng code nang hindi nagma-manage ng servers.",,serverless
+Cloze,"Ang {{c1::orchestration}} ay ang automatic na pag-manage ng containers sa scale.",,orchestration

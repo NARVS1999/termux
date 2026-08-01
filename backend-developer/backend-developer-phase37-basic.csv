@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-run ng app sa lahat ng environment nang consistent?",,"I-containerize ang app gamit ang Docker para pareho ang environment kahit saan."
+Application,"Paano mag-deploy ng app sa container?",,"I-build ang image, i-push sa registry, at i-run ang container sa server."
+Application,"Paano mag-manage ng maraming containers?",,"Gumamit ng Kubernetes para sa orchestration ng containers."
+Application,"Paano i-scale ang app kapag tumaas ang traffic?",,"Gamitin ang Kubernetes na may horizontal pod autoscaling."
+Application,"Paano mag-run ng code nang walang server management?",,"Gumamit ng serverless platform na nag-a-auto-scale ng functions."

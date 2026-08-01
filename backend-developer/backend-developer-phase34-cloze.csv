@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::unit testing}} ay ang pag-test ng mga indibidwal na units ng code.",,unit testing
+Cloze,"Ang {{c1::integration testing}} ay ang pag-test ng interaction ng mga components.",,integration testing
+Cloze,"Ang {{c1::functional testing}} ay ang pag-test ng functionality mula sa user perspective.",,functional testing
+Cloze,"Ang {{c1::E2E testing}} ay ang pag-test ng buong flow ng application mula simula hanggang dulo.",,E2E testing
+Cloze,"Ang {{c1::test case}} ay ang specific na scenario na tinitest.",,test case
+Cloze,"Ang {{c1::test suite}} ay ang collection ng lahat ng tests ng isang project.",,test suite
+Cloze,"Ang {{c1::assertion}} ay ang pagsusuri kung totoo ang isang condition sa test.",,assertion
+Cloze,"Ang {{c1::test runner}} ay ang tool na nag-e-execute ng mga tests.",,test runner
+Cloze,"Ang {{c1::test coverage}} ay ang sukatan kung gaano karaming code ang na-cover ng tests.",,test coverage
+Cloze,"Ang {{c1::regression test}} ay ang test na pumipigil sa pagbalik ng mga dating bugs.",,regression test

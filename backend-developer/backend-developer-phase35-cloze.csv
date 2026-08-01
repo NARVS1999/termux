@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::mocking}} ay ang paggawa ng fake objects para i-simulate ang dependencies.",,mocking
+Cloze,"Ang {{c1::stub}} ay ang fake na nagbabalik ng fixed responses para sa test.",,stub
+Cloze,"Ang {{c1::fixture}} ay ang fixed na data na ginagamit sa mga tests.",,fixture
+Cloze,"Ang {{c1::test coverage}} ay ang percentage ng code na na-cover ng mga tests.",,test coverage
+Cloze,"Ang {{c1::TDD}} ay ang test-driven development kung saan isinusulat muna ang test bago ang implementation.",,TDD
+Cloze,"Ang {{c1::red-green-refactor}} ay ang cycle ng TDD: sumulat ng failing test, gawin itong pumasa, tapos refactor.",,red-green-refactor
+Cloze,"Ang {{c1::test isolation}} ay ang pag-ensure na independent ang bawat test sa iba.",,test isolation
+Cloze,"Ang {{c1::flaky test}} ay ang test na minsan pumapasa at minsan nabibigo nang walang dahilan.",,flaky test
+Cloze,"Ang {{c1::assertion}} ay ang statement na nagva-verify ng expected na resulta.",,assertion

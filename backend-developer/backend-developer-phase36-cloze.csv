@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::CI}} ay ang continuous integration na automatic na nagbu-build at nagte-test ng code.",,CI
+Cloze,"Ang {{c1::CD}} ay ang continuous delivery na automatic na nagde-deploy ng code.",,CD
+Cloze,"Ang {{c1::pipeline}} ay ang sequence ng automated steps mula build hanggang deploy.",,pipeline
+Cloze,"Ang {{c1::GitHub Actions}} ay ang CI/CD service ng GitHub na gumagamit ng workflows.",,GitHub Actions
+Cloze,"Ang {{c1::GitLab CI}} ay ang CI/CD service ng GitLab na gumagamit ng .gitlab-ci.yml.",,GitLab CI
+Cloze,"Ang {{c1::Jenkins}} ay ang self-hosted CI/CD server na may plugins.",,Jenkins
+Cloze,"Ang {{c1::artifact}} ay ang build output na ini-store para sa deployment.",,artifact
+Cloze,"Ang {{c1::trigger}} ay ang event na nag-start ng pipeline tulad ng push o PR.",,trigger
+Cloze,"Ang {{c1::stage}} ay ang phase ng pipeline tulad ng build, test, at deploy.",,stage
