@@ -30,11 +30,11 @@
 
 ## Data & Persistence
 
-- [ ] **Phase 18** — Preferences: SharedPreferences, DataStore, settings patterns
-- [ ] **Phase 19** — Room: entities, DAOs, database, flows, migrations
-- [ ] **Phase 20** — SQLite: queries, relations, indices, performance
-- [ ] **Phase 21** — WorkManager: background tasks, constraints, chaining, retries
-- [ ] **Phase 22** — File storage: internal vs external, scoped storage, caching
+- [x] **Phase 18** — Preferences: SharedPreferences, DataStore, settings patterns
+- [x] **Phase 19** — Room: entities, DAOs, database, flows, migrations
+- [x] **Phase 20** — SQLite: queries, relations, indices, performance
+- [x] **Phase 21** — WorkManager: background tasks, constraints, chaining, retries
+- [x] **Phase 22** — File storage: internal vs external, scoped storage, caching
 
 ## Networking & APIs
 
