@@ -28,10 +28,10 @@
 
 ## AI Safety & Ethics
 
-- [ ] **Phase 16** — AI safety issues: bias and fairness, hallucination, privacy concerns
-- [ ] **Phase 17** — Prompt injection attacks: attack types, mitigation, robust prompting
-- [ ] **Phase 18** — Security & privacy: end-user IDs in prompts, constraining inputs and outputs
-- [ ] **Phase 19** — Safety best practices: adversarial testing, content moderation APIs, know your use cases
+- [x] **Phase 16** — AI safety issues: bias and fairness, hallucination, privacy concerns
+- [x] **Phase 17** — Prompt injection attacks: attack types, mitigation, robust prompting
+- [x] **Phase 18** — Security & privacy: end-user IDs in prompts, constraining inputs and outputs
+- [x] **Phase 19** — Safety best practices: adversarial testing, content moderation APIs, know your use cases
 
 ## Working with LLMs
 
