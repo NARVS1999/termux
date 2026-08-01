@@ -51,12 +51,12 @@
 
 ## RAG (Retrieval-Augmented Generation)
 
-- [ ] **Phase 30** — RAG fundamentals: what is RAG, use cases, RAG vs fine-tuning
-- [ ] **Phase 31** — RAG pipeline: chunking, embedding, vector database, retrieval, generation
-- [ ] **Phase 32** — Implementing RAG: using SDKs directly, LangChain, LlamaIndex
-- [ ] **Phase 33** — RAG frameworks: Haystack, RAGFlow
-- [ ] **Phase 34** — Advanced RAG: external memory, dynamic filters, context compaction, context isolation
-- [ ] **Phase 35** — RAG evaluation: retrieval quality, groundedness, RAGAS, DeepEval
+- [x] **Phase 30** — RAG fundamentals: what is RAG, use cases, RAG vs fine-tuning
+- [x] **Phase 31** — RAG pipeline: chunking, embedding, vector database, retrieval, generation
+- [x] **Phase 32** — Implementing RAG: using SDKs directly, LangChain, LlamaIndex
+- [x] **Phase 33** — RAG frameworks: Haystack, RAGFlow
+- [x] **Phase 34** — Advanced RAG: external memory, dynamic filters, context compaction, context isolation
+- [x] **Phase 35** — RAG evaluation: retrieval quality, groundedness, RAGAS, DeepEval
 
 ## AI Agents & MCP
 
