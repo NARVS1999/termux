@@ -34,10 +34,10 @@
 
 ## Hash Tables & Maps
 
-- [ ] **Phase 19** — Hash table design: functions, collisions, load factor
-- [ ] **Phase 20** — Frequency counting: counts, modes, anagrams
-- [ ] **Phase 21** — Pattern mapping: two-sum style, lookups, grouping
-- [ ] **Phase 22** — Sets & intervals: uniqueness, ranges, merging
+- [x] **Phase 19** — Hash table design: functions, collisions, load factor
+- [x] **Phase 20** — Frequency counting: counts, modes, anagrams
+- [x] **Phase 21** — Pattern mapping: two-sum style, lookups, grouping
+- [x] **Phase 22** — Sets & intervals: uniqueness, ranges, merging
 
 ## Trees
 
