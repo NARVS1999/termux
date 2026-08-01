@@ -12,10 +12,10 @@
 
 ## How LLMs Work
 
-- [ ] **Phase 6** — LLM architecture: transformer basics, attention, next-token prediction
-- [ ] **Phase 7** — Model lifecycle: pre-training, fine-tuning, alignment
-- [ ] **Phase 8** — Proprietary models: OpenAI (GPT, o-series), Anthropic Claude, Google Gemini
-- [ ] **Phase 9** — Open source models: Meta Llama, Mistral, Cohere, Gemma, Qwen
+- [x] **Phase 6** — LLM architecture: transformer basics, attention, next-token prediction
+- [x] **Phase 7** — Model lifecycle: pre-training, fine-tuning, alignment
+- [x] **Phase 8** — Proprietary models: OpenAI (GPT, o-series), Anthropic Claude, Google Gemini
+- [x] **Phase 9** — Open source models: Meta Llama, Mistral, Cohere, Gemma, Qwen
 
 ## Prompt Engineering
 
