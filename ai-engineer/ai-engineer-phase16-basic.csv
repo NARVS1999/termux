@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-detect ang bias sa model outputs?",,"I-test ang model sa diverse na set ng inputs at i-check kung may pattern ng hindi patas na sagot."
+Application,"Paano bawasan ang hallucination?",,"I-ground ang model sa verified sources gamit ang RAG o magdagdag ng caveats."
+Application,"Paano protektahan ang user privacy sa AI app?",,"I-anonymize ang data at huwag i-store ang personal info nang walang consent."
+Application,"Paano i-handle ang sensitive data sa prompts?",,"I-sanitize at i-redact ang PII bago ipadala sa model."
+Application,"Paano i-audit ang fairness ng AI system?",,"Mag-run ng fairness metrics sa iba't ibang demographic groups."

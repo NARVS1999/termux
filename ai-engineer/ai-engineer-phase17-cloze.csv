@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::prompt injection}} ay ang pag-manipulate sa model para magsagawa ng unintended actions.",,prompt injection
+Cloze,"Ang {{c1::direct injection}} ay nangyayari kapag ang malicious instruction ay galing mismo sa user input.",,direct injection
+Cloze,"Ang {{c1::indirect injection}} ay nangyayari kapag ang malicious instruction ay naka-embed sa external content tulad ng web pages.",,indirect injection
+Cloze,"Ang {{c1::jailbreak}} ay ang pag-bypass ng model safety measures gamit ang cleverly crafted prompts.",,jailbreak
+Cloze,"Ang {{c1::input sanitization}} ay ang paglilinis ng user input bago i-prompt sa model.",,input sanitization
+Cloze,"Ang {{c1::delimiting}} ay ang paghihiwalay ng untrusted data sa mga instructions para maiwasan ang injection.",,delimiting
+Cloze,"Ang {{c1::output filtering}} ay ang pag-check sa model output para sa malicious o dangerous content.",,output filtering
+Cloze,"Ang {{c1::least privilege}} ay ang pagbibigay lang sa model ng pinaka-kaunting permissions na kailangan.",,least privilege
+Cloze,"Ang {{c1::adversarial testing}} ay ang sistematikong paghahanap ng prompt injection vulnerabilities.",,adversarial testing

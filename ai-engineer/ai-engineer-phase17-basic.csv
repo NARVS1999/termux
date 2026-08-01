@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano protektahan ang system prompt mula sa injection?",,"Ihiwalay ang system prompt sa user input at i-treat ang user content bilang data, hindi instructions."
+Application,"Paano maiwasan ang indirect injection?",,"I-sanitize at i-validate ang external content bago isama sa prompt."
+Application,"Paano i-detect ang jailbreak attempts?",,"I-monitor ang prompts para sa suspicious patterns at gumamit ng moderation."
+Application,"Paano i-secure ang tool calls ng model?",,"I-validate ang arguments at i-enforce ang least privilege access."
+Application,"Paano gumawa ng injection-resistant prompt?",,"Gumamit ng delimiters, i-reinforce ang instructions, at i-filter ang outputs."

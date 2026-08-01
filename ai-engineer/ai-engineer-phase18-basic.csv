@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-enforce ng per-user limits sa AI usage?",,"Magdagdag ng end-user ID sa bawat request at mag-implement ng rate limiting."
+Application,"Paano i-constrain ang input ng model?",,"Mag-set ng max length at i-validate ang mga pwedeng i-upload."
+Application,"Paano i-constrain ang output ng model?",,"I-filter ang output base sa allowlist o gumamit ng structured format."
+Application,"Paano i-secure ang data in transit?",,"Gamitin ang HTTPS at encryption para sa lahat ng API communication."
+Application,"Paano mag-monitor ng AI system usage?",,"Mag-log ng lahat ng requests na may user IDs at i-review ang audit logs."

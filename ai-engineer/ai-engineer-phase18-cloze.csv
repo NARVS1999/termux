@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang pagdagdag ng {{c1::end-user IDs}} sa prompts ay nakakatulong sa pag-track ng usage at pag-enforce ng policies.",,end-user IDs
+Cloze,"Ang {{c1::rate limiting}} ay ang paglilimita sa bilang ng requests na pwedeng gawin ng isang user o IP.",,rate limiting
+Cloze,"Ang {{c1::input constraints}} ay mga limits sa kung ano ang pwedeng ipasok sa model (hal. max length).",,input constraints
+Cloze,"Ang {{c1::output constraints}} ay mga limits sa kung ano ang pwedeng ilabas ng model (hal. allowed formats).",,output constraints
+Cloze,"Ang {{c1::data retention}} ay ang policy kung gaano katagal iniimbak ang data ng users.",,data retention
+Cloze,"Ang {{c1::encryption}} ay ang pag-encode ng data para hindi ito mabasa ng unauthorized parties.",,encryption
+Cloze,"Ang {{c1::access control}} ay ang paglilimita kung sino ang pwedeng gumamit ng AI system.",,access control
+Cloze,"Ang {{c1::audit logs}} ay mga tala ng lahat ng requests at actions para sa monitoring.",,audit logs
+Cloze,"Ang {{c1::sandboxing}} ay ang pagpapatakbo ng untrusted code sa isolated na environment.",,sandboxing

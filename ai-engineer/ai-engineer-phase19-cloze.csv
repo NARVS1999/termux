@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::adversarial testing}} ay ang pagsubok sa model gamit ang mga inputs na dinisenyo para mag-fail ito.",,adversarial testing
+Cloze,"Ang {{c1::content moderation}} ay ang pag-filter ng content na nakakasama o lumalabag sa policies.",,content moderation
+Cloze,"Ang {{c1::moderation APIs}} ay mga services na awtomatikong nag-che-check ng content para sa safety.",,moderation APIs
+Cloze,"Ang pag-alam sa {{c1::use cases}} ng iyong app ay importante para ma-assess ang safety risks.",,use cases
+Cloze,"Ang {{c1::human review}} ay ang pagpasok ng tao sa loop para i-verify ang borderline outputs.",,human review
+Cloze,"Ang {{c1::safety policies}} ay mga guidelines na nagdedefine kung ano ang acceptable na content.",,safety policies
+Cloze,"Ang {{c1::monitoring}} ay ang patuloy na pag-observe ng AI system para sa issues.",,monitoring
+Cloze,"Ang {{c1::feedback loops}} ay ang paggamit ng user feedback para i-improve ang system.",,feedback loops
+Cloze,"Ang {{c1::safety evals}} ay ang pag-test sa system laban sa isang set ng safety scenarios.",,safety evals

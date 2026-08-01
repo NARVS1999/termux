@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::bias}} sa AI ay ang hindi patas na pagtrato sa ilang grupo base sa training data o algorithms.",,bias
+Cloze,"Ang {{c1::fairness}} ay ang pagtiyak na pantay ang treatment ng AI sa lahat ng users.",,fairness
+Cloze,"Ang {{c1::hallucination}} ay ang pag-generate ng model ng maling impormasyon na parang totoo.",,hallucination
+Cloze,"Ang {{c1::privacy}} concern ay ang pag-expose ng personal na impormasyon ng users sa AI systems.",,privacy
+Cloze,"Ang {{c1::data poisoning}} ay ang deliberate na pagpasok ng maling data sa training set.",,data poisoning
+Cloze,"Ang {{c1::transparency}} ay ang kakayahang ipaliwanag kung bakit ganun ang naging desisyon ng AI.",,transparency
+Cloze,"Ang {{c1::accountability}} ay ang pagtukoy kung sino ang responsable sa mga aksyon ng AI system.",,accountability
+Cloze,"Ang {{c1::consent}} ay ang pagkuha ng pahintulot ng users bago gamitin ang kanilang data.",,consent
+Cloze,"Ang {{c1::red teaming}} ay ang pagsubok sa AI system para makahanap ng vulnerabilities at failures.",,red teaming
