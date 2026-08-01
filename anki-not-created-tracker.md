@@ -3,18 +3,18 @@
 Tracks folders that have a roadmap file but no Anki cards created yet.
 Unchecked = roadmap exists, no cards. Mark [x] once cards are created.
 
-## Not Created (38)
+## Not Created (36)
 
 - [ ] **ai-agents** — https://roadmap.sh/ai-agents
 - [ ] **ai-product-builder** — https://roadmap.sh/ai-product-builder
-- [ ] **android** — https://roadmap.sh/android
+- [x] **android** — https://roadmap.sh/android
 - [ ] **api-design** — https://roadmap.sh/api-design
 - [ ] **cloudflare** — https://roadmap.sh/cloudflare
 - [ ] **code-review** — https://roadmap.sh/code-review
 - [ ] **computer-science** — https://roadmap.sh/computer-science
 - [ ] **cyber-security** — https://roadmap.sh/cyber-security
 - [ ] **data-engineer** — https://roadmap.sh/data-engineer
-- [ ] **datastructures-and-algorithms** — https://roadmap.sh/datastructures-and-algorithms
+- [x] **datastructures-and-algorithms** — https://roadmap.sh/datastructures-and-algorithms
 - [ ] **design-system** — https://roadmap.sh/design-system
 - [ ] **devops** — https://roadmap.sh/devops
 - [ ] **devsecops** — https://roadmap.sh/devsecops
