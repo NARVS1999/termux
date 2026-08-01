@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-solve ng 0/1 knapsack?","dp[i][w] = max(dp[i-1][w], dp[i-1][w-weight[i]] + value[i]).","for i in 0..n: for w in 0..W: dp[i][w] = max(dp[i-1][w], dp[i-1][w-wt[i]]+val[i])"
+Application,"Paano mag-solve ng subset sum?","dp[i] = true if may subset na may sum = i.","dp[0] = true; for num in nums: for i in target downTo num: dp[i] = dp[i] || dp[i-num]"
+Application,"Paano mag-solve ng coin change 2?","dp[amount] += dp[amount - coin] for each coin.","dp[0] = 1; for coin in coins: for a in coin..amount: dp[a] += dp[a-coin]"
+Application,"Paano mag-solve ng partition equal subset?","I-check kung may subset na may sum = totalSum/2.","return subsetSum(nums, totalSum/2)"
+Application,"Paano mag-solve ng target sum?","I-convert sa subset sum problem: P - N = target.","return subsetSum(nums, (total + target) / 2)"

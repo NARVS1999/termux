@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::climbing stairs}} ay classic 1D DP problem na nag-c-counts ng ways to reach nth step.",,climbing stairs
+Cloze,"Ang {{c1::coin change}} ay problem na nag-f-finds ng minimum coins para sa target amount.",,coin change
+Cloze,"Ang {{c1::house robber}} ay problem na nag-m-maximizes ng stolen amount nang hindi nag-aadjacent.",,house robber
+Cloze,"Ang {{c1::1D DP}} ay dynamic programming na nag-u-uses ng single dimensional array.",,1D DP
+Cloze,"Ang {{c1::recurrence}} para sa climbing stairs ay dp[i] = dp[i-1] + dp[i-2].",,recurrence
+Cloze,"Ang {{c1::base case}} para sa coin change ay dp[0] = 0 at dp[x] = infinity.",,base case
+Cloze,"Ang {{c1::state transition}} ay rule na nag-c-computes ng next state mula sa current.",,state transition
+Cloze,"Ang {{c1::unbounded}} ay variant na pwedeng i-reuse ang same item multiple times.",,unbounded

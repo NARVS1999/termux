@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::tabulation}} ay bottom-up DP technique na nag-f-fills ng table iteratively.",,tabulation
+Cloze,"Ang {{c1::bottom-up}} ay approach na nag-s-start sa smallest subproblems.",,bottom-up
+Cloze,"Ang {{c1::space optimization}} ay technique na nag-r-reduces ng space complexity.",,space optimization
+Cloze,"Ang {{c1::DP table}} ay 2D o 1D array na nag-s-stores ng tabulated results.",,DP table
+Cloze,"Ang {{c1::base case}} sa tabulation ay initial values na kailangan i-set.",,base case
+Cloze,"Ang {{c1::iteration order}} ay sequence ng pag-f-fill ng DP table.",,iteration order
+Cloze,"Ang {{c1::rolling array}} ay space optimization technique na nag-ke-keep lang ng constant rows.",,rolling array
+Cloze,"Ang {{c1::transition}} ay rule na nag-c-computes ng dp[i] base sa previous values.",,transition

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::LCS}} ay longest common subsequence sa dalawang strings.",,LCS
+Cloze,"Ang {{c1::edit distance}} ay minimum number of operations para i-convert ang string A to B.",,edit distance
+Cloze,"Ang {{c1::2D DP}} ay dynamic programming na nag-u-uses ng 2D table.",,2D DP
+Cloze,"Ang {{c1::grid DP}} ay 2D DP na nag-n-navigate sa matrix.",,grid DP
+Cloze,"Ang {{c1::string matching}} ay problem na nag-f-finds ng patterns sa text.",,string matching
+Cloze,"Ang {{c1::insertion}} sa edit distance ay pag-a-add ng character.",,insertion
+Cloze,"Ang {{c1::deletion}} sa edit distance ay pag-a-remove ng character.",,deletion
+Cloze,"Ang {{c1::substitution}} sa edit distance ay pagpapalit ng character.",,substitution

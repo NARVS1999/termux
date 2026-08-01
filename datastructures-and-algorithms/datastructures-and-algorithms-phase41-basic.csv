@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-implement ng tabulation?","I-fill ang DP table mula sa base case papunta sa target.","dp[0] = 0; dp[1] = 1; for i in 2..n: dp[i] = dp[i-1] + dp[i-2]"
+Application,"Paano mag-optimize ng space?","I-keep lang ang last two values para sa Fibonacci.","var a = 0; var b = 1; for i in 2..n: temp = a+b; a = b; b = temp"
+Application,"Paano mag-determine ng iteration order?","Tignan kung aling subproblems ang kailangan muna.","dp[i] depends on dp[i-1], so iterate forward"
+Application,"Paano mag-set ng base case?","I-set ang initial values para sa smallest subproblems.","dp[0] = 0; dp[1] = 1"
+Application,"Paano mag-solve ng knapsack gamit tabulation?","I-fill ang 2D table na may items at capacity.","for i in 0..n: for w in 0..W: dp[i][w] = max(include, exclude)"

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::memoization}} ay top-down DP technique na nag-c-caches ng function results.",,memoization
+Cloze,"Ang {{c1::top-down}} ay approach na nag-s-start sa original problem at nag-b-break down.",,top-down
+Cloze,"Ang {{c1::state definition}} ay process ng pag-d-determine ng minimal state para sa DP.",,state definition
+Cloze,"Ang {{c1::cache}} ay storage na nag-s-stores ng previously computed results.",,cache
+Cloze,"Ang {{c1::overlapping subproblems}} ay situation na ang same subproblems ay na-s-solve multiple times.",,overlapping subproblems
+Cloze,"Ang {{c1::optimal substructure}} ay property na ang optimal solution ay nag-c-contains ng optimal sub-solutions.",,optimal substructure
+Cloze,"Ang {{c1::recursive relation}} ay equation na nag-d-defines ng current state based sa subproblems.",,recursive relation
+Cloze,"Ang {{c1::DP array}} ay memoization table na nag-s-stores ng computed results.",,DP array

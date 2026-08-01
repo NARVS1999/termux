@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::knapsack}} ay optimization problem na nag-m-maximizes ng value sa loob ng capacity constraint.",,knapsack
+Cloze,"Ang {{c1::0/1 knapsack}} ay variant na ang bawat item ay pwedeng i-take lang isang beses.",,0/1 knapsack
+Cloze,"Ang {{c1::unbounded knapsack}} ay variant na pwedeng i-reuse ang items.",,unbounded knapsack
+Cloze,"Ang {{c1::subset sum}} ay problem na nag-v-verifies kung may subset na may sum equals target.",,subset sum
+Cloze,"Ang {{c1::partition}} ay problem na nag-h-hati ng array sa two equal sum subsets.",,partition
+Cloze,"Ang {{c1::target sum}} ay problem na nag-a-assign ng + at - para ma-reach ang target.",,target sum
+Cloze,"Ang {{c1::bounded}} ay constraint na may limit sa number of items na pwedeng kunin.",,bounded
+Cloze,"Ang {{c1::knapsack recurrence}} ay dp[i][w] = max(include item, exclude item).",,knapsack recurrence
