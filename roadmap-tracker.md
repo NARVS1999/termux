@@ -2,13 +2,13 @@
 
 Tracks which roadmap.sh topics have a roadmap + Anki cards created in this repo. Unchecked = not yet created.
 
-## Created (1)
+## Created (2)
 
 - [x] **react** — https://roadmap.sh/react
+- [x] **frontend** — https://roadmap.sh/frontend
 
-## Not Created (38)
+## Not Created (37)
 
-- [ ] **frontend** — https://roadmap.sh/frontend
 - [ ] **full-stack** — https://roadmap.sh/full-stack
 - [ ] **android** — https://roadmap.sh/android
 - [ ] **devops** — https://roadmap.sh/devops
