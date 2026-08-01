@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-test ng Compose UI?","Gamitin ang createComposeRule at setContent rule.","@get:Rule val composeTestRule = createComposeRule()"
+Application,"Paano mag-find ng composable?","Gamitin ang onNodeWithText matcher.","composeTestRule.onNodeWithText(\"Hello\")"
+Application,"Paano mag-test ng click?","I-chain ang performClick sa node.","composeTestRule.onNodeWithText(\"Button\").performClick()"
+Application,"Paano mag-verify na displayed?","Gamitin ang assertIsDisplayed assertion.","composeTestRule.onNodeWithText(\"Title\").assertIsDisplayed()"
+Application,"Paano mag-set ng test content?","Gamitin ang setContent block sa test.","composeTestRule.setContent { MyComposable() }"

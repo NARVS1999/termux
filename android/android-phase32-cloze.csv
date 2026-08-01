@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::JUnit}} ay testing framework na ginagamit para mag-write at mag-run ng unit tests sa Android.",,JUnit
+Cloze,"Ang {{c1::MockK}} ay Kotlin mocking library na ginagamit para mag-create ng test doubles.",,MockK
+Cloze,"Sa Android, ang {{c1::coroutine testing}} ay test utilities para ma-verify ang suspend functions.",,coroutine testing
+Cloze,"Ang {{c1::coverage}} ay metric na nag-i-indicate ng percentage ng code na na-test.",,coverage
+Cloze,"Ang {{c1::@Test}} annotation ay nag-m-mark ng function na test method.",,@Test
+Cloze,"Ang {{c1::@Before}} annotation ay tinatawag before bawat test para mag-set up ng test fixtures.",,@Before
+Cloze,"Ang {{c1::assertions}} ay methods na nag-v-verify ng expected vs actual results sa tests.",,assertions
+Cloze,"Ang {{c1::runTest}} ay test builder na nag-e-execute ng suspend function sa test context.",,runTest
+Cloze,"Ang {{c1::mockk()}} function ay nag-c-creates ng mock object para sa testing.",,mockk()

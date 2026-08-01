@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Espresso}} ay testing framework para sa Android instrumentation tests na nag-s-simulates ng user interactions.",,Espresso
+Cloze,"Ang {{c1::instrumentation test}} ay test na nag-r-runs sa real device o emulator.",,instrumentation test
+Cloze,"Sa Android, ang {{c1::emulator}} ay virtual device na ginagamit para mag-test ng app.",,emulator
+Cloze,"Ang {{c1::ViewMatchers}} ay utility class na nag-f-finds ng views based sa properties.",,ViewMatchers
+Cloze,"Ang {{c1::ViewActions}} ay set ng user actions na pwedeng i-perform sa views.",,ViewActions
+Cloze,"Ang {{c1::ViewAssertions}} ay methods na nag-v-verify ng view state.",,ViewAssertions
+Cloze,"Ang {{c1::onView}} function ay entry point para sa Espresso test interactions.",,onView
+Cloze,"Ang {{c1::IdlingResource}} ay mechanism para mag-wait sa async operations bago mag-proceed.",,IdlingResource

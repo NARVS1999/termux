@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::lint}} ay static analysis tool na nag-d-detect ng code smells at bugs sa Android.",,lint
+Cloze,"Ang {{c1::detekt}} ay Kotlin static analysis tool na nag-m-measures ng code quality.",,detekt
+Cloze,"Sa Android, ang {{c1::ktlint}} ay formatter na nag-e-enforces ng Kotlin coding conventions.",,ktlint
+Cloze,"Ang {{c1::code quality}} ay metric na nag-i-indicate ng maintainability, readability, at reliability ng code.",,code quality
+Cloze,"Ang {{c1::@Suppress}} annotation ay ginagamit para mag-skip ng specific lint warnings.",,@Suppress
+Cloze,"Ang {{c1::build.gradle}} lint block ay configuration para sa Android Lint behavior.",,build.gradle lint block
+Cloze,"Ang {{c1::ktfmt}} ay alternative Kotlin formatter na may Google Java style.",,ktfmt
+Cloze,"Ang {{c1::static analysis}} ay process ng pag-a-analyze ng code nang hindi nag-e-executing.",,static analysis
