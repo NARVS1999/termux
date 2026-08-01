@@ -2,6 +2,6 @@ Type,Front,Hint,Back
 Cloze,"Ang {{c1::primary key}} ay ang unique identifier ng bawat row — isang column o combination na hindi nagre-repeat.",,primary key
 Cloze,"Ang {{c1::single-column primary key}} ay ang primary key na gumagamit ng iisang column lang.",,single-column primary key
 Cloze,"Ang {{c1::composite primary key}} ay ang primary key na gumagamit ng dalawa o higit pang columns.",,composite primary key
-Cloze,"Ang {{c1::surrogate key}} ay ang artificial na ID na ginagawang创造 (ex. auto-increment ID).",,surrogate key
-Cloze,"Ang {{c1::natural key}} ay ang existing data na unique sa现实 (ex. email, SSN).",,natural key
+Cloze,"Ang {{c1::surrogate key}} ay ang artificial na ID na ginagawangcreate (ex. auto-increment ID).",,surrogate key
+Cloze,"Ang {{c1::natural key}} ay ang existing data na unique sareal (ex. email, SSN).",,natural key
 Cloze,"Ang {{c1::PRIMARY KEY}} constraint ay nagde-define ng primary key sa CREATE TABLE.",,PRIMARY KEY

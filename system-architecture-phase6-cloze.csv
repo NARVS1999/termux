@@ -1,6 +1,6 @@
 Type,Front,Hint,Back
 Cloze,"Ang {{c1::monolithic architecture}} ay ang pattern kung saan ang buong application ay nasa iisang deployable unit.",,monolithic architecture
-Cloze,"Ang {{c1::monolith benefits}} ay简单 deployment, madaling testing, walang network latency sa loob.",,monolith benefits
+Cloze,"Ang {{c1::monolith benefits}} aysimple deployment, madaling testing, walang network latency sa loob.",,monolith benefits
 Cloze,"Ang {{c1::monolith drawbacks}} ay mahirap mag-scale, slow deployment, tight coupling.",,monolith drawbacks
 Cloze,"Ang {{c1::single codebase}} sa monolith ay ang lahat ng features ay nasa iisang repository.",,single codebase
 Cloze,"Ang {{c1::modular monolith}} ay ang monolith na nahati sa logical modules para sa better organization.",,modular monolith

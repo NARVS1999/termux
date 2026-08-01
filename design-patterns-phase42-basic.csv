@@ -1,5 +1,5 @@
 Type,Front,Hint,Back
-Application,"Paano makilala ang Spaghetti Code?",,"walang structure,到处 goto statements, walang separation of concerns — mahirap i-follow ang flow"
+Application,"Paano makilala ang Spaghetti Code?",,"walang structure,kahit saan goto statements, walang separation of concerns — mahirap i-follow ang flow"
 Application,"Paano i-refactor ang Spaghetti Code?",,"i-extract ang layers: UI → Controller → Service → Repository, i-dependency injection ang connections"
 Application,"Bakit nagiging Spaghetti?",,"walang initial design, quick fixes, copy-paste, walang code review — technical debt ang dulot"
 Application,"Paano maiwasan ang Spaghetti?",,"i-apply ang clean architecture, i-separate ang concerns, i-review ang code regularly"

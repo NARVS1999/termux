@@ -1,7 +1,7 @@
 Type,Front,Hint,Back
 Cloze,"Ang {{c1::layered architecture}} ay isang design pattern kung saan hinihiwalay ang application sa distinct layers (presentation, business, data).",,layered architecture
 Cloze,"Ang {{c1::service layer}} ay isang layer na nag-e-encapsulate ng business logic sa loob ng services na hiwalay sa controllers.",,service layer
-Cloze,"Ang {{c1::clean architecture}} ay isang design approach na naglalagay ng business logic sa gitna at pinapалиng ang external dependencies.",,clean architecture
+Cloze,"Ang {{c1::clean architecture}} ay isang design approach na naglalagay ng business logic sa gitna at pinaliit ang external dependencies.",,clean architecture
 Cloze,"Ang {{c1::domain layer}} sa clean architecture ay naglalaman ng business rules at entities na walang external dependencies.",,domain layer
 Cloze,"Ang {{c1::use case}} ay isang class na nag-e-encapsulate ng specific na business operation o action.",,use case
 Cloze,"Ang {{c1::repository pattern}} ay isang abstraction layer sa pagitan ng business logic at data access layer.",,repository pattern

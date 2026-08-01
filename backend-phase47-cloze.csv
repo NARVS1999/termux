@@ -5,5 +5,5 @@ Cloze,"Ang {{c1::SLA}} o Service Level Agreement ay ang agreed-upon na target pa
 Cloze,"Ang {{c1::on-call}} rotation ay ang schedule kung saan ang developers ay handang mag-respond sa incidents.",,on-call
 Cloze,"Ang {{c1::root cause analysis}} ay ang proseso ng paghanap ng tunay na dahilan ng problema, hindi lang ang symptoms.",,root cause analysis
 Cloze,"Ang {{c1::blameless post-mortem}} ay ang approach kung saan nakafocus sa systems at processes, hindi sa tao.",,blameless post-mortem
-Cloze,"Ang {{c1::incident timeline}} ay ang chronological na记录 ng lahat ng actions at events during the incident.",,incident timeline
+Cloze,"Ang {{c1::incident timeline}} ay ang chronological narecord ng lahat ng actions at events during the incident.",,incident timeline
 Cloze,"Ang {{c1::action items}} sa post-mortem ay ang specific tasks para i-prevent ang recurrence ng issue.",,action items
