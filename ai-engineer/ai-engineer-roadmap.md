@@ -60,12 +60,12 @@
 
 ## AI Agents & MCP
 
-- [ ] **Phase 36** — AI agents: what they are, use cases, agent workflows
-- [ ] **Phase 37** — Tools & function calling: tool definitions, execution loop
-- [ ] **Phase 38** — Agent frameworks: OpenAI AgentKit & Agent SDK, Claude Agent SDK, Google ADK
-- [ ] **Phase 39** — ReAct prompting: reasoning + acting loop, manual implementation
-- [ ] **Phase 40** — Model Context Protocol (MCP): core components, host, server, client, data layer, transport layer
-- [ ] **Phase 41** — Multi-agent systems: multi-agents, orchestration patterns
+- [x] **Phase 36** — AI agents: what they are, use cases, agent workflows
+- [x] **Phase 37** — Tools & function calling: tool definitions, execution loop
+- [x] **Phase 38** — Agent frameworks: OpenAI AgentKit & Agent SDK, Claude Agent SDK, Google ADK
+- [x] **Phase 39** — ReAct prompting: reasoning + acting loop, manual implementation
+- [x] **Phase 40** — Model Context Protocol (MCP): core components, host, server, client, data layer, transport layer
+- [x] **Phase 41** — Multi-agent systems: multi-agents, orchestration patterns
 
 ## Multimodal AI
 
