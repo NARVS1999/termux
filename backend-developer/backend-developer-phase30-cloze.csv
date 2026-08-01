@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::OWASP}} ay ang open standard na naglilista ng mga web application security risks.",,OWASP
+Cloze,"Ang {{c1::SQL injection}} ay ang pag-inject ng malicious SQL statements sa isang query.",,SQL injection
+Cloze,"Ang {{c1::XSS}} ay ang pag-inject ng malicious scripts sa web page na tinitignan ng ibang users.",,XSS
+Cloze,"Ang {{c1::CSRF}} ay ang pag-force sa user na mag-send ng unwanted requests sa website.",,CSRF
+Cloze,"Ang {{c1::SSRF}} ay ang pagpapagawa sa server ng requests papunta sa internal resources.",,SSRF
+Cloze,"Ang {{c1::IDOR}} ay ang pag-access ng resources ng ibang user gamit ang manipulated IDs.",,IDOR
+Cloze,"Ang {{c1::mass assignment}} ay ang pag-overwrite ng protected fields sa pamamagitan ng request payload.",,mass assignment
+Cloze,"Ang {{c1::parameterized queries}} ay ang safe na paraan ng paggawa ng SQL queries.",,parameterized queries
+Cloze,"Ang {{c1::input validation}} ay ang pag-validate ng user input bago ito i-process.",,input validation
+Cloze,"Ang {{c1::sanitization}} ay ang paglilinis ng input para alisin ang malicious content.",,sanitization

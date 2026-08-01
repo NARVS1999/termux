@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::authentication}} ay ang proseso ng pag-verify ng identity ng isang user.",,authentication
+Cloze,"Ang {{c1::password hashing}} ay ang pag-convert ng password sa hash para secure itong i-store.",,password hashing
+Cloze,"Ang {{c1::bcrypt}} ay ang popular na password hashing algorithm na may built-in salt.",,bcrypt
+Cloze,"Ang {{c1::salt}} ay ang random na data na idinadagdag sa password bago ito i-hash.",,salt
+Cloze,"Ang {{c1::session authentication}} ay ang pag-i-store ng session ID sa server at cookie sa client.",,session authentication
+Cloze,"Ang {{c1::token authentication}} ay ang pagpapadala ng token sa bawat request para i-verify ang user.",,token authentication
+Cloze,"Ang {{c1::JWT}} ay ang JSON Web Token na may encoded na claims ng user.",,JWT
+Cloze,"Ang {{c1::access token}} ay ang token na nagbibigay ng access sa mga resources.",,access token
+Cloze,"Ang {{c1::refresh token}} ay ang token na ginagamit para kumuha ng bagong access token.",,refresh token
+Cloze,"Ang {{c1::multi-factor authentication}} ay ang pag-require ng dalawa o higit pang verification factors.",,multi-factor authentication

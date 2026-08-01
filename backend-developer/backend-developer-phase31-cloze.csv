@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::hardening}} ay ang proseso ng pag-secure ng server configuration.",,hardening
+Cloze,"Ang {{c1::secrets management}} ay ang secure na pag-iimbak ng API keys at credentials.",,secrets management
+Cloze,"Ang {{c1::CSP}} ay ang Content Security Policy na pumipigil sa XSS attacks.",,CSP
+Cloze,"Ang {{c1::firewall}} ay ang filter ng network traffic papasok at palabas ng server.",,firewall
+Cloze,"Ang {{c1::least privilege}} ay ang principle na ang minimal na access lamang ang ibinibigay.",,least privilege
+Cloze,"Ang {{c1::environment variables}} ay ang secure na lugar para mag-imbak ng configuration.",,environment variables
+Cloze,"Ang {{c1::vault}} ay ang tool para sa secure na pag-iimbak ng secrets.",,vault
+Cloze,"Ang {{c1::security headers}} ay ang HTTP headers na nagpapatibay ng web security.",,security headers
+Cloze,"Ang {{c1::patch management}} ay ang regular na pag-update ng software para sa security fixes.",,patch management

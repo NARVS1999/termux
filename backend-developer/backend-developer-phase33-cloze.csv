@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::authorization}} ay ang pag-determine kung ano ang pinapayagang gawin ng isang user.",,authorization
+Cloze,"Ang {{c1::OAuth2}} ay ang framework para sa delegated authorization ng third-party apps.",,OAuth2
+Cloze,"Ang {{c1::scopes}} ay ang mga permissions na hinihingi ng OAuth2 client sa user.",,scopes
+Cloze,"Ang {{c1::authorization code}} ay ang intermediate code sa OAuth2 authorization flow.",,authorization code
+Cloze,"Ang {{c1::OpenID Connect}} ay ang identity layer na nakapatong sa OAuth2.",,OpenID Connect
+Cloze,"Ang {{c1::ID token}} ay ang JWT na may identity claims ng user sa OpenID Connect.",,ID token
+Cloze,"Ang {{c1::SAML}} ay ang XML-based na protocol para sa single sign-on.",,SAML
+Cloze,"Ang {{c1::RBAC}} ay ang role-based access control na nag-a-assign ng permissions sa roles.",,RBAC
+Cloze,"Ang {{c1::policy}} ay ang rule na nag-define ng access permissions.",,policy
+Cloze,"Ang {{c1::SSO}} ay ang single sign-on na nagpapahintulot ng isang login para sa maraming applications.",,SSO

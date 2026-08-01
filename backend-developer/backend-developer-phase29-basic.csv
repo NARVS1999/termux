@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-secure ang website mula sa eavesdropping?",,"Gamitin ang HTTPS na may valid SSL certificate mula sa CA."
+Application,"Paano malaman kung valid ang SSL certificate ng site?",,"I-check ang certificate details sa browser at i-verify ang issuer."
+Application,"Paano mag-setup ng HTTPS sa local development?",,"Gumamit ng self-signed certificate o tools tulad ng mkcert."
+Application,"Paano i-renew ang expiring SSL certificate?",,"Gamitin ang Let's Encrypt na may automatic renewal o i-manual renew."
+Application,"Paano i-protect ang data habang nasa transit?",,"I-enable ang TLS encryption sa lahat ng connections."

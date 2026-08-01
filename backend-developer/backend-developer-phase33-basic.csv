@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-implement ang role-based permissions?",,"Gumamit ng RBAC: mag-assign ng roles sa users at permissions sa roles."
+Application,"Paano hayaan ang third-party app na ma-access ang user data?",,"Gumamit ng OAuth2 flow na may scopes para sa limited access."
+Application,"Paano mag-implement ng login gamit ang Google account?",,"Gumamit ng OpenID Connect na nagbibigay ng ID token ng user."
+Application,"Paano mag-enforce ng authorization sa API endpoints?",,"I-check ang role o permission ng user bago payagan ang request."
+Application,"Paano mag-login ang user sa maraming apps nang isang beses lang?",,"Gumamit ng SSO na may identity provider na nag-centralize ng authentication."

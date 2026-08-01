@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::HTTPS}} ay ang secure na bersyon ng HTTP na nag-e-encrypt ng communication.",,HTTPS
+Cloze,"Ang {{c1::TLS}} ay ang protocol na nag-e-encrypt ng data sa pagitan ng client at server.",,TLS
+Cloze,"Ang {{c1::SSL certificate}} ay ang digital certificate na nagve-verify ng identity ng server.",,SSL certificate
+Cloze,"Ang {{c1::handshake}} ay ang proseso ng pag-establish ng secure connection sa pagitan ng client at server.",,handshake
+Cloze,"Ang {{c1::symmetric encryption}} ay ang pag-encrypt gamit ang iisang key para sa encrypt at decrypt.",,symmetric encryption
+Cloze,"Ang {{c1::asymmetric encryption}} ay ang pag-encrypt gamit ang public at private key pair.",,asymmetric encryption
+Cloze,"Ang {{c1::certificate authority}} ay ang trusted entity na nag-i-issue ng digital certificates.",,certificate authority
+Cloze,"Ang {{c1::self-signed certificate}} ay ang certificate na hindi galing sa trusted CA.",,self-signed certificate
+Cloze,"Ang {{c1::key exchange}} ay ang proseso ng pag-share ng session keys sa pagitan ng client at server.",,key exchange
+Cloze,"Ang {{c1::cipher suite}} ay ang set ng encryption algorithms na ginagamit sa TLS.",,cipher suite

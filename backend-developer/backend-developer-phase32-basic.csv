@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-store ng password nang secure?",,"I-hash ito gamit ang bcrypt na may salt imbes na i-store ang plain text."
+Application,"Paano i-verify ang password ng user sa login?",,"I-hash ang input at i-compare sa naka-store na hash gamit ang bcrypt.compare."
+Application,"Paano mag-identify ng user sa bawat request?",,"Magpadala ng JWT sa Authorization header at i-verify ang signature sa server."
+Application,"Paano i-logout ang user sa session-based auth?",,"I-delete ang session sa server at i-clear ang session cookie."
+Application,"Paano mag-extend ng login nang hindi nag-login ulit?",,"Gumamit ng refresh token na kumukuha ng bagong access token kapag expired."
