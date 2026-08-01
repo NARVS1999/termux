@@ -19,10 +19,10 @@
 
 ## Linked Lists
 
-- [ ] **Phase 10** — Singly linked lists: traversal, insertion, deletion
-- [ ] **Phase 11** — Doubly linked lists: operations, tail access
-- [ ] **Phase 12** — Cycle detection: Floyd's algorithm, fast/slow pointers
-- [ ] **Phase 13** — List patterns: reversal, merging, removal, kth from end
+- [x] **Phase 10** — Singly linked lists: traversal, insertion, deletion
+- [x] **Phase 11** — Doubly linked lists: operations, tail access
+- [x] **Phase 12** — Cycle detection: Floyd's algorithm, fast/slow pointers
+- [x] **Phase 13** — List patterns: reversal, merging, removal, kth from end
 
 ## Stacks & Queues
 
