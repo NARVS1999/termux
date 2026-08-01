@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::NoSQL}} ay ang database na hindi relational at mas flexible sa schema.",,NoSQL
+Cloze,"Ang {{c1::document database}} ay ang database na nag-i-store ng data bilang JSON-like documents.",,document database
+Cloze,"Ang {{c1::key-value store}} ay ang pinakasimpleng NoSQL na nag-i-store ng key-value pairs.",,key-value store
+Cloze,"Ang {{c1::column database}} ay ang database na nag-i-store ng data ayon sa columns.",,column database
+Cloze,"Ang {{c1::graph database}} ay ang database na nag-i-store ng nodes at edges para sa relationships.",,graph database
+Cloze,"Ang {{c1::schema-less}} ay ang katangian ng NoSQL na walang fixed schema na kailangan sundin.",,schema-less
+Cloze,"Ang {{c1::horizontal scaling}} ay ang pagdagdag ng mas maraming servers para sa capacity.",,horizontal scaling
+Cloze,"Ang {{c1::CAP theorem}} ay ang principle na dalawa lang sa tatlo ang mapipili: consistency, availability, partition tolerance.",,CAP theorem
+Cloze,"Ang {{c1::eventual consistency}} ay ang consistency model kung saan magco-consistent ang data sa kalaunan.",,eventual consistency

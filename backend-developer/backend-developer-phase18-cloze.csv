@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Cassandra}} ay ang columnar NoSQL database na sikat sa high availability.",,Cassandra
+Cloze,"Ang {{c1::InfluxDB}} ay ang time-series database para sa metrics at monitoring data.",,InfluxDB
+Cloze,"Ang {{c1::TimescaleDB}} ay ang time-series extension ng PostgreSQL.",,TimescaleDB
+Cloze,"Ang {{c1::ClickHouse}} ay ang column-oriented OLAP database para sa analytics.",,ClickHouse
+Cloze,"Ang {{c1::Neo4j}} ay ang graph database na gumagamit ng Cypher query language.",,Neo4j
+Cloze,"Ang {{c1::time-series data}} ay ang data na may timestamp tulad ng server metrics.",,time-series data
+Cloze,"Ang {{c1::OLAP}} ay ang workload na nakatuon sa analytics at aggregations.",,OLAP
+Cloze,"Ang {{c1::OLTP}} ay ang workload na nakatuon sa transactions at real-time operations.",,OLTP
+Cloze,"Ang {{c1::node}} ay ang entity o point sa isang graph database.",,node

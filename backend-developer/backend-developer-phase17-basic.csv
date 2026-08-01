@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-insert ng document sa MongoDB?",,"Gamitin ang: db.users.insertOne({ name: 'Juan', age: 25 });"
+Application,"Paano mag-cache ng data na mag-e-expire pagkatapos ng 1 oras?",,"Gamitin ang Redis na may TTL: SET key value EX 3600."
+Application,"Paano mag-query ng users sa MongoDB?",,"Gamitin ang: db.users.find({ age: { $gte: 18 } });"
+Application,"Paano mag-store ng nested na data sa NoSQL?",,"Mag-embed ng object o array sa document tulad ng ginagawa sa MongoDB."
+Application,"Paano mag-handle ng data na kailangan i-access nang super bilis?",,"Gamitin ang in-memory store tulad ng Redis imbes na disk-based database."

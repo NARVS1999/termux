@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::replication}} ay ang pagkopya ng data sa multiple servers para sa availability.",,replication
+Cloze,"Ang {{c1::leader-follower}} ay ang replication model na may isang writer at maraming readers.",,leader-follower
+Cloze,"Ang {{c1::sharding}} ay ang paghahati ng data sa mga shards para sa scalability.",,sharding
+Cloze,"Ang {{c1::hash-based sharding}} ay ang pag-shard ng data gamit ang hash ng shard key.",,hash-based sharding
+Cloze,"Ang {{c1::CAP theorem}} ay ang tradeoff sa pagitan ng consistency, availability, at partition tolerance.",,CAP theorem
+Cloze,"Ang {{c1::Elasticsearch}} ay ang search engine na nakabase sa Apache Lucene.",,Elasticsearch
+Cloze,"Ang {{c1::inverted index}} ay ang data structure para sa full-text search.",,inverted index
+Cloze,"Ang {{c1::read replica}} ay ang copy ng database na ginagamit para sa read operations.",,read replica
+Cloze,"Ang {{c1::failover}} ay ang automatic na paglipat sa backup server kapag may failure.",,failover
+Cloze,"Ang {{c1::partition tolerance}} ay ang kakayahan ng system na gumana kahit may network partition.",,partition tolerance
