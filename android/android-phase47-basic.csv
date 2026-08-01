@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-setup ng Crashlytics?","I-add ang Firebase dependency at i-initialize.","FirebaseCrashlytics.getInstance().recordException(exception)"
+Application,"Paano mag-log ng non-fatal exception?","Gamitin ang recordException method.","FirebaseCrashlytics.getInstance().recordException(exception)"
+Application,"Paano mag-set ng custom key?","Gamitin ang setCustomKey method.","FirebaseCrashlytics.getInstance().setCustomKey(\"user_id\", userId)"
+Application,"Paano mag-track ng event sa Analytics?","Gamitin ang logEvent method.","firebaseAnalytics.logEvent(\"item_purchased\", bundle)"
+Application,"Paano mag-set ng crash alert?","I-configure ang alerts sa Firebase Console.","Firebase Console > Crashlytics > Alerts"

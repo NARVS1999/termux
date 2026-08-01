@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::staged rollout}} ay gradual na pag-release ng update sa percentage of users.",,staged rollout
+Cloze,"Ang {{c1::update monitoring}} ay process ng pag-o-observe ng crash rates at feedback pagkatapos ng release.",,update monitoring
+Cloze,"Sa Google Play, ang {{c1::rollback}} ay action na nag-r-reverts ng release sa previous version.",,rollback
+Cloze,"Ang {{c1::Play Console dashboards}} ay analytics tools na nag-m-monitor ng app performance.",,Play Console dashboards
+Cloze,"Ang {{c1::release notes}} ay text description ng changes at improvements sa bagong version.",,release notes
+Cloze,"Ang {{c1::country targeting}} ay configuration na nag-s-specifies ng countries na available ang app.",,country targeting
+Cloze,"Ang {{c1::pre-registration}} ay feature na nag-a-allows ng early access sign-ups bago ang official launch.",,pre-registration
+Cloze,"Ang {{c1::phased rollout}} ay same concept sa staged rollout na may incremental percentage increase.",,phased rollout

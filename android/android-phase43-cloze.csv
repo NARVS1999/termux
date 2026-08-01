@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::release build}} ay production-ready APK/AAB na optimized at signed para sa distribution.",,release build
+Cloze,"Ang {{c1::keystore}} ay file na nag-c-contains ng signing keys para sa APK signing.",,keystore
+Cloze,"Ang {{c1::minification}} ay process ng pag-c-compact ng code at pag-r-removes ng unused classes.",,minification
+Cloze,"Ang {{c1::versionCode}} ay integer na nag-i-increase ng bawat release para sa update detection.",,versionCode
+Cloze,"Ang {{c1::versionName}} ay string na nag-r-represents ng user-visible version number.",,versionName
+Cloze,"Ang {{c1::Play App Signing}} ay Google service na nag-s-signs ng APK gamit ang managed key.",,Play App Signing
+Cloze,"Sa Android, ang {{c1::signingConfigs}} ay section sa build.gradle na nag-m-manages ng signing keys.",,signingConfigs
+Cloze,"Ang {{c1::R8}} ay tool na nag-m-minifies, obfuscates, at optimizes ang release code.",,R8

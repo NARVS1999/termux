@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::App Bundle}} (.aab) ay publishing format na nag-o-optimizes ng APK para sa bawat device.",,App Bundle
+Cloze,"Ang {{c1::APK}} ay Android Package file na nag-c-contains ng app installation data.",,APK
+Cloze,"Ang {{c1::asset delivery}} ay Play Feature Delivery na nag-d-dynamic ng features based sa need.",,asset delivery
+Cloze,"Sa Google Play, ang {{c1::store size limits}} ay maximum na app size: 100MB APK, 150MB AAB.",,store size limits
+Cloze,"Ang {{c1::dynamic delivery}} ay feature ng Play Store na nag-d-downloads ng parts lang ng app.",,dynamic delivery
+Cloze,"Ang {{c1::split APKs}} ay feature ng App Bundle na nag-s-splits ng app sa multiple smaller APKs.",,split APKs
+Cloze,"Ang {{c1::on-demand module}} ay feature na pwedeng i-download lang kapag kailangan ng user.",,on-demand module
+Cloze,"Ang {{c1::bundletool}} ay command-line tool para mag-test ng App Bundle locally.",,bundletool

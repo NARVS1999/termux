@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-build ng App Bundle?","Gamitin ang Build > Build Bundle(s) / APK(s) > Build Bundle(s).","Build > Build Bundle(s) / APK(s) > Build Bundle(s)"
+Application,"Paano mag-test ng App Bundle locally?","Gamitin ang bundletool command.","bundletool install-apks --apks=output.apks"
+Application,"Paano mag-set ng asset delivery?","I-add ang dynamic features sa build.gradle.","implementation ':dynamic-feature'"
+Application,"Paano mag-check ng APK size?","Gamitin ang Android Studio APK Analyzer.","Build > Analyze APK > select APK file"
+Application,"Paano mag-create ng on-demand module?","I-create ang dynamic feature module sa Android Studio.","File > New > New Module > Dynamic Feature Module"

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Crashlytics}} ay Firebase service na nag-c-collect at nag-a-analyze ng app crashes.",,Crashlytics
+Cloze,"Ang {{c1::Firebase Analytics}} ay free analytics service na nag-t-tracks ng user behavior.",,Firebase Analytics
+Cloze,"Ang {{c1::alerts}} ay notifications na nag-n-nag-a-alert sa developers ng critical issues.",,alerts
+Cloze,"Sa Firebase, ang {{c1::breadcrumbs}} ay chronological log ng events bago mag-crash.",,breadcrumbs
+Cloze,"Ang {{c1::custom keys}} ay developer-defined values na nag-a-add ng context sa crash reports.",,custom keys
+Cloze,"Ang {{c1::non-fatal exceptions}} ay caught exceptions na na-log sa Crashlytics.",,non-fatal exceptions
+Cloze,"Ang {{c1::Crashlytics dashboard}} ay web UI na nag-s-shows ng crash analytics at trends.",,Crashlytics dashboard
+Cloze,"Ang {{c1::Firebase Performance}} ay service na nag-m-measures ng app startup time at network requests.",,Firebase Performance

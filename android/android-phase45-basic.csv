@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-upload ng release?","I-upload ang AAB/APK sa Play Console > Release > Production.","Play Console > Release > Production > Create new release"
+Application,"Paano mag-add ng internal testers?","I-add ang emails sa Play Console > Testing > Internal testing.","Play Console > Testing > Internal testing > Testers"
+Application,"Paano mag-set ng store listing?","I-fill up ang Store listing section sa Play Console.","Play Console > Store listing > Add descriptions"
+Application,"Paano mag-create ng release?","I-click ang Create release button sa Play Console.","Create release > Upload AAB > Review"
+Application,"Paano mag-set ng content rating?","I-complete ang content rating questionnaire.","Play Console > Store listing > Content rating"

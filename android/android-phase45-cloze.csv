@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Play Console}} ay web-based platform para sa pag-m-manage ng app distribution.",,Play Console
+Cloze,"Sa Play Console, ang {{c1::tracks}} ay categories para sa releasing: internal, closed, open, production.",,tracks
+Cloze,"Ang {{c1::testing channels}} ay ways para mag-test ng app bago i-release sa production.",,testing channels
+Cloze,"Ang {{c1::store listing}} ay page ng app sa Play Store na may title, description, at screenshots.",,store listing
+Cloze,"Ang {{c1::internal track}} ay testing channel na accessible lang sa designated testers.",,internal track
+Cloze,"Ang {{c1::production track}} ay public release channel na accessible sa lahat ng users.",,production track
+Cloze,"Ang {{c1::content rating}} ay questionnaire-based classification ng app content.",,content rating
+Cloze,"Ang {{c1::store listing experiments}} ay A/B testing ng app store listing elements.",,store listing experiments
