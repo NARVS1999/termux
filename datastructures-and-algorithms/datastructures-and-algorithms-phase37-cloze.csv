@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::binary search}} ay O(log n) algorithm na nag-f-find ng target sa sorted array.",,binary search
+Cloze,"Ang {{c1::left bound}} variant ay nag-f-finds ng leftmost occurrence ng target.",,left bound
+Cloze,"Ang {{c1::right bound}} variant ay nag-f-finds ng rightmost occurrence ng target.",,right bound
+Cloze,"Ang {{c1::rotated array}} ay sorted array na na-rotate sa unknown pivot.",,rotated array
+Cloze,"Ang {{c1::search space}} ay range ng possible answers na nag-n-narrows down.",,search space
+Cloze,"Ang {{c1::mid}} ay computation na (left + right) / 2 para sa binary search.",,mid
+Cloze,"Ang {{c1::lower bound}} ay first position kung saan ang element ay >= target.",,lower bound
+Cloze,"Ang {{c1::upper bound}} ay first position kung saan ang element ay > target.",,upper bound

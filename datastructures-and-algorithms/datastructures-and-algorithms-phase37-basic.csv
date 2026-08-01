@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-implement ng binary search?","I-compare ang target sa mid at i-narrow ang search space.","var lo = 0; var hi = n-1; while(lo <= hi) { mid = (lo+hi)/2; if(arr[mid]==target) return mid }"
+Application,"Paano mag-find ng leftmost occurrence?","I-search ang left bound: i-move right kapag arr[mid] >= target.","while(lo < hi) { mid = (lo+hi)/2; if(arr[mid] >= target) hi = mid else lo = mid+1 }"
+Application,"Paano mag-search sa rotated array?","I-check kung aling half ang sorted tapos mag-search doon.","if (arr[lo] <= arr[mid]) { if(target >= arr[lo] && target < arr[mid]) hi = mid-1 }"
+Application,"Paano mag-find ng insertion point?","Gamitin ang binary search na may lo = hi sa end.","while(lo <= hi) { mid = (lo+hi)/2; if(arr[mid] < target) lo = mid+1 else hi = mid-1 }; return lo"
+Application,"Paano mag-find ng peak element?","Gamitin ang binary search: i-move sa direksyon ng mas malaking neighbor.","if (arr[mid] < arr[mid+1]) lo = mid+1 else hi = mid"

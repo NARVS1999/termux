@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::bubble sort}} ay O(n^2) sorting algorithm na nag-s-swaps ng adjacent elements.",,bubble sort
+Cloze,"Ang {{c1::selection sort}} ay O(n^2) sorting algorithm na nag-fi-find ng minimum sa bawat pass.",,selection sort
+Cloze,"Ang {{c1::insertion sort}} ay O(n^2) sorting algorithm na nag-i-insert ng element sa tamang position.",,insertion sort
+Cloze,"Ang {{c1::comparison sort}} ay sorting algorithm na nag-c-compares ng elements.",,comparison sort
+Cloze,"Ang {{c1::swap}} operation ay pagpapalitan ng values sa dalawang positions.",,swap
+Cloze,"Ang {{c1::stable sort}} ay algorithm na nag-p-preserve ng relative order ng equal elements.",,stable sort
+Cloze,"Ang {{c1::in-place sort}} ay sorting na walang extra space bukwan sa input array.",,in-place sort
+Cloze,"Ang {{c1::adaptive}} sorting ay algorithm na mas mabilis kapag partially sorted na ang input.",,adaptive

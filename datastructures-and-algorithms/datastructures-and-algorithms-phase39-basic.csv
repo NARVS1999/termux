@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-implement ng counting sort?","I-count ang frequencies tapos i-reconstruct ang sorted array.","count = IntArray(max+1); for x in arr: count[x]++; for i in 0..max: while(count[i]-- > 0) result.add(i)"
+Application,"Paano mag-implement ng radix sort?","I-apply ang counting sort sa bawat digit mula sa least significant.","for digit in 0..maxDigits: countingSortByDigit(arr, digit)"
+Application,"Paano mag-implement ng bucket sort?","I-distribute ang elements sa buckets, i-sort bawat bucket, tapos i-concatenate.","for x in arr: buckets[(x * bucketSize).toInt()].add(x); result = buckets.flatMap { it.sorted() }"
+Application,"Paano mag-determine kung kailangan ng counting sort?","Kapag may bounded integer range at small k relative sa n.","Use counting sort when range k is O(n)"
+Application,"Paano mag-stabilize ng counting sort?","I-convert ang counting sort sa prefix sums bago mag-place.","for i in 1..max: count[i] += count[i-1]; for x in reversed(arr): result[--count[x]] = x"

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::quickselect}} ay selection algorithm na average O(n) para mag-find ng k-th element.",,quickselect
+Cloze,"Ang {{c1::median}} ay middle element sa sorted array.",,median
+Cloze,"Ang {{c1::k-th smallest}} ay element na naka-rank sa k-th position.",,k-th smallest
+Cloze,"Ang {{c1::pivot selection}} sa quickselect ay critical para sa performance.",,pivot selection
+Cloze,"Ang {{c1::partial sort}} ay sorting na hindi kailangan i-sort ang buong array.",,partial sort
+Cloze,"Ang {{c1::selection problem}} ay pag-f-find ng k-th order statistic.",,selection problem
+Cloze,"Ang {{c1::median of medians}} ay pivot selection strategy na guarantees O(n) worst case.",,median of medians
+Cloze,"Ang {{c1::Hoare's selection}} ay algorithm variant na nag-m-minimizes ng swaps.",,Hoare's selection

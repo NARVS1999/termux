@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-implement ng mergesort?","I-hati ang array, i-sort recursively, tapos i-merge.","fun mergesort(arr) { if (arr.size <= 1) return; mid = arr.size/2; merge(mergesort(left), mergesort(right)) }"
+Application,"Paano mag-implement ng quicksort?","I-pick pivot, i-partition, tapos i-sort recursively ang partitions.","fun quicksort(arr, lo, hi) { p = partition(arr, lo, hi); quicksort(arr, lo, p-1); quicksort(arr, p+1, hi) }"
+Application,"Paano mag-implement ng merge?","Gamitin ang two pointers para i-combine ang sorted arrays.","while(i < m && j < n) { if (left[i] <= right[j]) result[k++] = left[i++] }"
+Application,"Paano mag-pick ng pivot?","Gamitin ang random pivot para maiwasan ang worst case.","pivotIndex = Random.nextInt(lo, hi); swap(arr, lo, pivotIndex)"
+Application,"Paano mag-implement ng Lomuto partition?","I-use ang last element bilang pivot.","pivot = arr[hi]; i = lo; for j in lo..hi-1: if arr[j] < pivot: swap(arr, i++, j)"

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::counting sort}} ay non-comparison sort na O(n + k) para sa bounded integers.",,counting sort
+Cloze,"Ang {{c1::radix sort}} ay sorting algorithm na nag-s-sorts digit by digit.",,radix sort
+Cloze,"Ang {{c1::bucket sort}} ay sorting algorithm na nag-g-groups ng elements sa buckets.",,bucket sort
+Cloze,"Ang {{c1::non-comparison sort}} ay algorithm na hindi nag-c-compares ng elements directly.",,non-comparison sort
+Cloze,"Ang {{c1::linear time}} sorting ay possible gamit ang non-comparison sorts.",,linear time
+Cloze,"Ang {{c1::digit}} ay component ng number na ginagamit sa radix sort.",,digit
+Cloze,"Ang {{c1::stable sort}} requirement ay kailangan para sa correct radix sort.",,stable sort
+Cloze,"Ang {{c1::frequency array}} ay ginagamit sa counting sort para mag-count ng occurrences.",,frequency array
