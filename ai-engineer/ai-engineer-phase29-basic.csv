@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-implement ng vector search sa Chroma?",,"Gumawa ng collection, mag-add ng embeddings, at mag-query gamit ang query_embeddings."
+Application,"Paano i-filter ang search base sa metadata?",,"Magdagdag ng where condition sa query (hal. where={'category': 'x'})."
+Application,"Paano i-measure ang search quality?",,"I-compute ang precision at recall sa isang labeled test set."
+Application,"Paano i-improve ang retrieval results?",,"Gumamit ng re-ranking pagkatapos ng initial similarity search."
+Application,"Paano i-pick ang similarity metric?",,"Gamitin ang cosine para sa text embeddings; euclidean para sa geometric data."

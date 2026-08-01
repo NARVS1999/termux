@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng embedding gamit ang OpenAI?",,"client.embeddings.create(model='text-embedding-3-small', input='text')"
+Application,"Paano mag-embed ng text locally?",,"model.encode('text') gamit ang SentenceTransformer."
+Application,"Paano i-embed ang maraming texts nang sabay?",,"I-pass ang list ng texts sa isang API call para sa batching."
+Application,"Paano pumili ng embedding model?",,"I-test ang retrieval accuracy ng bawat model sa sariling dataset."
+Application,"Paano malaman ang dimension ng embedding?",,"I-print ang length ng result vector (hal. len(embedding))."

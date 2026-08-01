@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::indexing}} ay ang pag-organize ng embeddings para sa mabilis na paghahanap.",,indexing
+Cloze,"Ang {{c1::similarity search}} ay ang paghahanap ng vectors na pinaka-malapit sa query vector.",,similarity search
+Cloze,"Ang {{c1::HNSW}} (Hierarchical Navigable Small World) ay isang sikat na ANN algorithm para sa vector search.",,HNSW
+Cloze,"Ang {{c1::cosine similarity}} ay sinusukat ang angle sa pagitan ng dalawang vectors.",,cosine similarity
+Cloze,"Ang {{c1::brute force search}} ay ang pag-compare ng query sa lahat ng vectors (mabagal pero exact).",,brute force search
+Cloze,"Ang {{c1::pre-filtering}} ay ang pag-filter ng vectors base sa metadata bago ang similarity computation.",,pre-filtering
+Cloze,"Ang {{c1::recall}} ay ang sukatan kung gaano karaming tamang results ang nahanap.",,recall
+Cloze,"Ang {{c1::precision}} ay ang sukatan kung gaano karami sa mga nahanap na results ang relevant.",,precision
+Cloze,"Ang {{c1::re-ranking}} ay ang muling pag-aayos ng search results para mas accurate ang top results.",,re-ranking

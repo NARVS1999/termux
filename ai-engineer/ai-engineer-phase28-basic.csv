@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-insert ng vector sa Qdrant?",,"client.upsert(collection_name='c', points=[PointStruct(id=1, vector=[...])])"
+Application,"Paano mag-query sa Weaviate?",,"Gamitin ang GraphQL query na may nearVector parameter."
+Application,"Paano gumamit ng pgvector sa Supabase?",,"Gumawa ng column na may vector type at gamitin ang <=> operator."
+Application,"Paano mag-set up ng vector search sa MongoDB Atlas?",,"Gumawa ng Atlas Search index sa collection na may vector field."
+Application,"Paano mag-run ng LanceDB sa app?",,"I-install ang lancedb package at mag-create ng table gamit ang data."

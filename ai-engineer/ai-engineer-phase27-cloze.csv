@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::vector database}} ay isang database na espesyal na dinisenyo para mag-store at mag-search ng embeddings.",,vector database
+Cloze,"Ang pangunahing {{c1::function}} ng vector DB ay ang mabilis na similarity search sa malalaking datasets.",,function
+Cloze,"Ang {{c1::Chroma}} ay isang open source vector database na madaling i-set up locally.",,Chroma
+Cloze,"Ang {{c1::FAISS}} ay isang library ng Meta para sa efficient na similarity search.",,FAISS
+Cloze,"Ang {{c1::index}} ay ang data structure na ginagamit para mapabilis ang vector search.",,index
+Cloze,"Ang {{c1::metadata}} ay ang extra information na naka-store kasama ng bawat vector.",,metadata
+Cloze,"Ang {{c1::similarity metric}} (hal. cosine, euclidean) ay nagdedetermine kung paano susukatin ang distance.",,similarity metric
+Cloze,"Ang {{c1::ANN}} (Approximate Nearest Neighbor) ay ang technique para sa mabilis ngunit approximate na search.",,ANN
+Cloze,"Ang {{c1::upsert}} ay ang operation na nag-iinsert o nag-uupdate ng vectors sa collection.",,upsert

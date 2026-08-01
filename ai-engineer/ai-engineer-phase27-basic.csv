@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-insert ng vectors sa Chroma?",,"collection.add(ids=[...], embeddings=[...], metadatas=[...])"
+Application,"Paano mag-query ng similar vectors sa Chroma?",,"collection.query(query_embeddings=[...], n_results=5)"
+Application,"Paano gumawa ng FAISS index?",,"index = faiss.IndexFlatL2(dimension)"
+Application,"Paano mag-search sa FAISS?",,"index.search(query_vector, k=5)"
+Application,"Paano mag-store ng metadata sa vector DB?",,"I-pass ang metadata sa add o upsert operation."

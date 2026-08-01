@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::embedding}} ay isang vector representation ng text o data na naglalaman ng semantic meaning.",,embedding
+Cloze,"Ang {{c1::semantic search}} ay ang paghahanap batay sa kahulugan, hindi sa eksaktong keywords.",,semantic search
+Cloze,"Ang {{c1::recommendation systems}} ay gumagamit ng embeddings para mag-suggest ng mga related items.",,recommendation systems
+Cloze,"Ang {{c1::anomaly detection}} ay gumagamit ng embeddings para makahanap ng unusual data points.",,anomaly detection
+Cloze,"Ang {{c1::data classification}} ay gumagamit ng embeddings para ma-group ang mga similar texts.",,data classification
+Cloze,"Ang {{c1::similarity}} sa pagitan ng embeddings ay sinusukat gamit ang cosine similarity o distance metrics.",,similarity
+Cloze,"Ang {{c1::dimension}} ng embedding ay tumutukoy sa bilang ng numbers sa vector.",,dimension
+Cloze,"Ang {{c1::document embeddings}} ay ang mga vector representations ng buong documents.",,document embeddings
+Cloze,"Ang {{c1::deduplication}} ay isang use case ng embeddings para makahanap ng mga duplicate na content.",,deduplication
