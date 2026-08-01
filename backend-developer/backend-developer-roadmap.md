@@ -35,11 +35,11 @@
 
 ## APIs & Web Services
 
-- [ ] **Phase 20** — RESTful API design: resources, methods, status codes, versioning
-- [ ] **Phase 21** — JSON APIs & OpenAPI: JSON conventions, Open API specs, API documentation
-- [ ] **Phase 22** — GraphQL: schema design, queries, mutations, subscriptions
-- [ ] **Phase 23** — gRPC & SOAP: protocol buffers, streaming, legacy integration
-- [ ] **Phase 24** — Message brokers: RabbitMQ, Kafka, SQS, backpressure, polling, SSE, WebSockets
+- [x] **Phase 20** — RESTful API design: resources, methods, status codes, versioning
+- [x] **Phase 21** — JSON APIs & OpenAPI: JSON conventions, Open API specs, API documentation
+- [x] **Phase 22** — GraphQL: schema design, queries, mutations, subscriptions
+- [x] **Phase 23** — gRPC & SOAP: protocol buffers, streaming, legacy integration
+- [x] **Phase 24** — Message brokers: RabbitMQ, Kafka, SQS, backpressure, polling, SSE, WebSockets
 
 ## Caching & Performance
 
