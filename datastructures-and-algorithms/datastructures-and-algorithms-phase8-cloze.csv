@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::prefix sum}} ay pre-computed array na nag-c-contains ng cumulative sums.",,prefix sum
+Cloze,"Sa prefix sums, ang {{c1::range sum}} ay computation ng sum sa loob ng [left, right] range.",,range sum
+Cloze,"Ang {{c1::subarray sum}} ay sum ng contiguous elements sa array.",,subarray sum
+Cloze,"Ang {{c1::2D prefix sum}} ay extension ng prefix sum sa matrices.",,2D prefix sum
+Cloze,"Ang {{c1::cumulative}} ay property na nag-a-add ng current value sa running total.",,cumulative
+Cloze,"Ang {{c1::difference array}} ay technique na nag-m-maintains ng range updates efficiently.",,difference array
+Cloze,"Sa prefix sum, ang {{c1::formula}} ay prefix[right+1] - prefix[left] para sa range sum.",,formula
+Cloze,"Ang {{c1::running total}} ay same concept sa prefix sum na nag-a-add habang nag-i-iterate.",,running total

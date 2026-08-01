@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::sliding window}} ay technique na nag-c-creates ng subarray/window na nag-m-moves sa array.",,sliding window
+Cloze,"Ang {{c1::fixed window}} ay sliding window na may constant na size.",,fixed window
+Cloze,"Ang {{c1::dynamic window}} ay sliding window na nag-a-adjust ng size based sa condition.",,dynamic window
+Cloze,"Sa sliding window, ang {{c1::window sum}} ay running total ng elements sa current window.",,window sum
+Cloze,"Ang {{c1::expand}} operation ay nag-a-add ng element sa window.",,expand
+Cloze,"Ang {{c1::shrink}} operation ay nag-a-remove ng element mula sa window.",,shrink
+Cloze,"Ang {{c1::two pointer sliding}} ay combination ng two pointers at sliding window.",,two pointer sliding
+Cloze,"Ang {{c1::substring}} ay contiguous sequence ng characters sa string.",,substring

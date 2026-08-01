@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-access ng array element?","Gamitin ang zero-based index.","val x = arr[0]"
+Application,"Paano mag-slice ng array?","Gamitin ang slice function na may start at end index.","arr.slice(1, 4)"
+Application,"Paano mag-reverse ng array in-place?","Gamitin ang two pointers na nag-s-swap sa opposite ends.","var i = 0; var j = n-1; while(i < j) swap(arr, i++, j--)"
+Application,"Paano mag-insert sa gitna ng array?","I-shift ang elements pakanan at i-insert ang bago.","arr.add(index, value)"
+Application,"Paano mag-traverse ng array?","Gamitin ang for loop o forEach.","for (item in arr) { process(item) }"

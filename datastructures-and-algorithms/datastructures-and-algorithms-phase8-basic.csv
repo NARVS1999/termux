@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-build ng prefix sum array?","I-cumulate ang sums mula sa left.","prefix[0] = 0; for i in 0..n: prefix[i+1] = prefix[i] + arr[i]"
+Application,"Paano mag-compute ng range sum?","Gamitin ang prefix[right+1] - prefix[left].","sum = prefix[r+1] - prefix[l]"
+Application,"Paano mag-solve ng subarray sum equals k?","Gamitin ang prefix sum na may HashMap.","prefixSum - k sa HashMap means may subarray na sum = k"
+Application,"Paano mag-apply ng 2D prefix sum?","I-compute ang cumulative sum sa rows then columns.","prefix[i][j] = prefix[i-1][j] + prefix[i][j-1] - prefix[i-1][j-1]"
+Application,"Paano mag-solve ng range update?","Gamitin ang difference array technique.","diff[left] += val; diff[right+1] -= val"

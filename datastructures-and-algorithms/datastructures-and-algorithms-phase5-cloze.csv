@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::array}} ay contiguous block of memory na nag-i-store ng elements sa sequential order.",,array
+Cloze,"Ang {{c1::indexing}} ay pag-a-access ng array element gamit ang zero-based position.",,indexing
+Cloze,"Ang {{c1::slicing}} ay pag-c-create ng subarray mula sa start hanggang end index.",,slicing
+Cloze,"Ang {{c1::in-place operation}} ay array manipulation na walang extra space bukwan sa input.",,in-place operation
+Cloze,"Ang {{c1::traversal}} ay pag-i-iterate sa bawat element ng array.",,traversal
+Cloze,"Ang {{c1::length}} property ay nag-b-balik ng total number of elements sa array.",,length
+Cloze,"Sa arrays, ang {{c1::access}} operation ay O(1) dahil sa direct index computation.",,access
+Cloze,"Ang {{c1::insertion}} sa gitna ng array ay O(n) dahil kailangan i-shift ang elements.",,insertion

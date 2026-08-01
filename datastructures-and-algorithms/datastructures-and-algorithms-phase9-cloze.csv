@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::matrix}} ay 2D array na nag-i-store ng elements sa rows at columns.",,matrix
+Cloze,"Ang {{c1::traversal}} sa matrix ay pag-i-iterate sa bawat element.",,traversal
+Cloze,"Ang {{c1::rotation}} ay pagpapalit ng orientation ng matrix: 90, 180, o 270 degrees.",,rotation
+Cloze,"Sa matrices, ang {{c1::diagonal}} ay elements na nasa same position ng row at column index.",,diagonal
+Cloze,"Ang {{c1::transpose}} ay operation na nag-s-swaps ng rows at columns.",,transpose
+Cloze,"Ang {{c1::spiral order}} ay traversal pattern na nag-m-move sa labas papunta sa loob.",,spiral order
+Cloze,"Ang {{c1::flood fill}} ay algorithm na nag-c-colors ng connected regions sa matrix.",,flood fill
+Cloze,"Ang {{c1::path finding}} ay algorithm na nag-n-navigate mula sa start hanggang end sa matrix.",,path finding

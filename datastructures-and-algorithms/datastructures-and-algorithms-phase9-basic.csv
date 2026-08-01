@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-traverse ng matrix?","Gamitin ang nested loops: rows then columns.","for i in 0..rows { for j in 0..cols { process(matrix[i][j]) } }"
+Application,"Paano mag-transpose ng matrix?","I-swap ang matrix[i][j] sa matrix[j][i].","for i in 0..n { for j in i+1..n: swap(matrix[i][j], matrix[j][i]) }"
+Application,"Paano mag-rotate ng 90 degrees?","I-transpose tapos i-reverse ang bawat row.","transpose(matrix); for row in matrix: row.reverse()"
+Application,"Paano mag-traverse ng spiral?","Gamitin ang boundaries: top, bottom, left, right.","while(top <= bottom && left <= right) { traverse edges; update boundaries }"
+Application,"Paano mag-solve ng flood fill?","Gamitin ang BFS o DFS mula sa starting point.","bfs(matrix, startRow, startCol, newColor)"

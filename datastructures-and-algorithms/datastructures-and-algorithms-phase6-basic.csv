@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-find ng pair na may sum?","Gamitin ang two pointers sa sorted array.","left=0, right=n-1; while(left<right) sum=arr[left]+arr[right]"
+Application,"Paano mag-partition ng array?","Gamitin ang pivot at i-move ang smaller elements sa left.","pivot = arr[high]; i = low; for j in low..high"
+Application,"Paano mag-merge ng two sorted arrays?","Gamitin ang two pointers at i-compare elements.","while(i < m && j < n) { if (a[i] < b[j]) result.add(a[i++]) }"
+Application,"Paano mag-remove ng duplicates?","Gamitin ang two pointers: slow para sa unique, fast para sa traversal.","slow = 0; for fast in 1..n { if (arr[fast] != arr[slow]) arr[++slow] = arr[fast] }"
+Application,"Paano mag-check ng palindrome?","Gamitin ang two pointers sa opposite ends.","left=0, right=n-1; while(left<right) if(arr[left++]!=arr[right--]) return false"

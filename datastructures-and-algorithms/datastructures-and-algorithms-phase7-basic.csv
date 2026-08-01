@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-find ng max subarray sum of size k?","Gamitin ang fixed sliding window.","windowSum = sum of first k elements; for i in k..n: max = max(max, windowSum)"
+Application,"Paano mag-find ng longest substring without repeats?","Gamitin ang dynamic sliding window na may HashMap.","left=0; for right in 0..n: if duplicate, move left"
+Application,"Paano mag-compute ng running sum?","I-maintain ang window sum habang nag-m-move.","windowSum += arr[right]; windowSum -= arr[left]"
+Application,"Paano mag-solve ng minimum window?","I-expand hanggang satisfied, then i-shrink para mag-optimize.","expand right until condition met; shrink left to minimize"
+Application,"Paano mag-find ng max average?","Gamitin ang fixed window na may sum division.","maxAvg = max(windowSum / k for all windows)"

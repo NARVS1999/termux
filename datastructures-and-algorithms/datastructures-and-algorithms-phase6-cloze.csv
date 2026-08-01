@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::two pointers}} ay technique na nag-g-gamit ng dalawang indices para mag-traverse ng array.",,two pointers
+Cloze,"Ang {{c1::sorted array}} ay prerequisite para sa two pointers na naka-arrange sa ascending order.",,sorted array
+Cloze,"Ang {{c1::partitioning}} ay process ng pag-h-hati ng array sa sections base sa condition.",,partitioning
+Cloze,"Ang {{c1::merging}} ay process ng pag-c-combine ng dalawang sorted arrays sa isang sorted result.",,merging
+Cloze,"Sa two pointers, ang {{c1::opposite ends}} approach ay nagsisimula sa left at right.",,opposite ends
+Cloze,"Ang {{c1::same direction}} approach ay nag-m-move ng dalawang pointers sa iisang direksyon.",,same direction
+Cloze,"Ang {{c1::convergence}} ay point kung saan nag-meet ang dalawang pointers.",,convergence
+Cloze,"Ang {{c1::swap}} operation ay pagpapalitan ng values sa dalawang array positions.",,swap
