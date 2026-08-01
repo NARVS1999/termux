@@ -21,7 +21,7 @@ This skill **references** `anki-taglish-cards-SKILL.md` for card generation rule
 
 User provides:
 - A roadmap file: `auto-create-anki for {topic}-roadmap.md`
-- Or just the topic: `auto-create-anki react` (look for `{topic}-roadmap.md` in the current directory)
+- Or just the topic: `auto-create-anki react` (look for `{topic}/{topic}-roadmap.md` in the `{topic}/` folder)
 
 ## Topic Extraction
 
@@ -31,13 +31,13 @@ From the input, extract the `{topic}`:
 - `auto-create-anki for docker-roadmap.md` → topic = `docker`
 
 This `{topic}` is used for:
-- CSV file naming: `{topic}-phase{N}-cloze.csv`, `{topic}-phase{N}-basic.csv`
+- CSV file naming: `{topic}/{topic}-phase{N}-cloze.csv`, `{topic}/{topic}-phase{N}-basic.csv`
 - Git commit messages: `{topic} phase {start} - {end} cards`
 
 ## Workflow (Fully Automatic — No Pauses)
 
 ### Step 1: Read & Parse Roadmap
-1. Read `{topic}-roadmap.md`
+1. Read `{topic}/{topic}-roadmap.md`
 2. Parse all `## Section` headers and their phases
 3. For each phase line, check:
    - `[x]` → already done, **skip**
@@ -78,7 +78,7 @@ Application,"Paano {verb} {object}?",,"{one-line answer}"
 
 #### 2b. Git Commit & Push (CSVs)
 ```bash
-git add {topic}-phase{start}-cloze.csv {topic}-phase{start}-basic.csv ... {topic}-phase{end}-cloze.csv {topic}-phase{end}-basic.csv
+git add {topic}/{topic}-phase{start}-cloze.csv {topic}/{topic}-phase{start}-basic.csv ... {topic}/{topic}-phase{end}-cloze.csv {topic}/{topic}-phase{end}-basic.csv
 git commit -m "{topic} phase {start} - {end} cards"
 git push origin main
 ```
@@ -89,7 +89,7 @@ git push origin main
 
 #### 2d. Git Commit & Push (Roadmap)
 ```bash
-git add {topic}-roadmap.md
+git add {topic}/{topic}-roadmap.md
 git commit -m "mark done {topic} phase {start} - {end}"
 git push origin main
 ```
@@ -156,9 +156,9 @@ For each section:
 
 | File | Format |
 |------|--------|
-| CSV (cloze) | `{topic}-phase{N}-cloze.csv` |
-| CSV (basic) | `{topic}-phase{N}-basic.csv` |
-| Roadmap | `{topic}-roadmap.md` |
+| CSV (cloze) | `{topic}/{topic}-phase{N}-cloze.csv` |
+| CSV (basic) | `{topic}/{topic}-phase{N}-basic.csv` |
+| Roadmap | `{topic}/{topic}-roadmap.md` |
 
 ## Git Commit Messages
 
@@ -172,7 +172,7 @@ For each section:
 User says: `auto-create-anki for react-roadmap.md`
 
 1. Topic = `react`
-2. Read `react-roadmap.md`
+2. Read `react/react-roadmap.md`
 3. Section 1 (Phases 1-5): all `[ ]`
    - Generate 10 CSVs (5 cloze + 5 basic)
    - Commit: `react phase 1 - 5 cards`
@@ -188,7 +188,7 @@ User says: `auto-create-anki for react-roadmap.md`
 
 ## Error Handling
 
-- If roadmap file not found: report error, list available `*-roadmap.md` files
+- If roadmap file not found: report error, list available `{topic}/*-roadmap.md` files
 - If no unchecked phases: report "All phases already complete"
 - If git push fails: report the error, suggest manual push
 - If CSV generation fails for a phase: skip that phase, continue with next, report at end
@@ -206,6 +206,6 @@ After completion, present:
 - {N} total cards
 - {N} commits pushed to origin/main
 
-📁 Files: {topic}-phase{1}-{total}-cloze.csv, {topic}-phase{1}-{total}-basic.csv
+📁 Files: {topic}/{topic}-phase{1}-{total}-cloze.csv, {topic}/{topic}-phase{1}-{total}-basic.csv
 📝 Roadmap: All {total} phases marked [x]
 ```

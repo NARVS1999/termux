@@ -97,7 +97,7 @@ Not all sections are required — pick the 7–11 that make sense for the topic.
 4. **Distribute phases** — Assign 3–7 phases per section, totaling ~47
 5. **Write phase descriptions** — Short, keyword-rich, non-overlapping
 6. **Select learning path** — Pick 7 priority phases
-7. **Generate the file** — Save as `{topic-slug}-roadmap.md`
+7. **Generate the file** — Save as `{topic-slug}/{topic-slug}-roadmap.md`
 8. **Confirm with user** — Show the file path and phase count
 
 ## Customization Options
@@ -111,11 +111,11 @@ User may specify:
 
 ## File Naming
 
-Save the roadmap as: `{topic-slug}-roadmap.md`
-- `react` → `react-roadmap.md`
-- `vue js` → `vue-roadmap.md`
-- `docker` → `docker-roadmap.md`
-- `laravel` → `laravel-roadmap.md`
+Save the roadmap as: `{topic-slug}/{topic-slug}-roadmap.md`
+- `react` → `react/react-roadmap.md`
+- `vue js` → `vue/vue-roadmap.md`
+- `docker` → `docker/docker-roadmap.md`
+- `laravel` → `laravel/laravel-roadmap.md`
 
 ## Example Trigger Phrases
 
