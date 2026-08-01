@@ -20,11 +20,11 @@
 
 ## Relational Databases
 
-- [ ] **Phase 11** — Relational database options: PostgreSQL, MySQL, MariaDB, SQLite, MS SQL, Oracle
-- [ ] **Phase 12** — SQL fundamentals: CRUD, joins, aggregations, subqueries
-- [ ] **Phase 13** — Database design: normalization, data modeling, more about databases
-- [ ] **Phase 14** — Transactions & ACID: isolation levels, locking, migrations
-- [ ] **Phase 15** — Indexing & performance: database indexes, N+1 problem, query optimization
+- [x] **Phase 11** — Relational database options: PostgreSQL, MySQL, MariaDB, SQLite, MS SQL, Oracle
+- [x] **Phase 12** — SQL fundamentals: CRUD, joins, aggregations, subqueries
+- [x] **Phase 13** — Database design: normalization, data modeling, more about databases
+- [x] **Phase 14** — Transactions & ACID: isolation levels, locking, migrations
+- [x] **Phase 15** — Indexing & performance: database indexes, N+1 problem, query optimization
 
 ## NoSQL & Data Scaling
 
