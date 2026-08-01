@@ -12,11 +12,11 @@
 
 ## Backend Language Mastery
 
-- [ ] **Phase 6** — Pick a backend language: Go, Rust, Python, Java, JavaScript (Node.js), PHP, Ruby
-- [ ] **Phase 7** — Language fundamentals: syntax, data types, control flow, error handling
-- [ ] **Phase 8** — Advanced language features: concurrency, async/await, memory management
-- [ ] **Phase 9** — Package management: package managers, dependencies, versioning
-- [ ] **Phase 10** — Code quality: refactoring, code reviews, documentation generation
+- [x] **Phase 6** — Pick a backend language: Go, Rust, Python, Java, JavaScript (Node.js), PHP, Ruby
+- [x] **Phase 7** — Language fundamentals: syntax, data types, control flow, error handling
+- [x] **Phase 8** — Advanced language features: concurrency, async/await, memory management
+- [x] **Phase 9** — Package management: package managers, dependencies, versioning
+- [x] **Phase 10** — Code quality: refactoring, code reviews, documentation generation
 
 ## Relational Databases
 
