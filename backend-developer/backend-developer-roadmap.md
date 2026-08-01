@@ -28,10 +28,10 @@
 
 ## NoSQL & Data Scaling
 
-- [ ] **Phase 16** — NoSQL fundamentals: document, key-value, column, graph databases
-- [ ] **Phase 17** — Document & key-value stores: MongoDB, Redis, DynamoDB
-- [ ] **Phase 18** — Specialized databases: Cassandra, InfluxDB, TimescaleDB, ClickHouse, Neo4j
-- [ ] **Phase 19** — Scaling databases: data replication, sharding strategies, CAP theorem, search engines
+- [x] **Phase 16** — NoSQL fundamentals: document, key-value, column, graph databases
+- [x] **Phase 17** — Document & key-value stores: MongoDB, Redis, DynamoDB
+- [x] **Phase 18** — Specialized databases: Cassandra, InfluxDB, TimescaleDB, ClickHouse, Neo4j
+- [x] **Phase 19** — Scaling databases: data replication, sharding strategies, CAP theorem, search engines
 
 ## APIs & Web Services
 
