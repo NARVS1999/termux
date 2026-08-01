@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::remember}} composable function ay nag-s-stores ng value na nag-s-survive sa recomposition.",,remember
+Cloze,"Ang {{c1::mutableStateOf}} ay factory function na nag-c-creates ng observable state object sa Compose.",,mutableStateOf
+Cloze,"Ang {{c1::state hoisting}} ay pattern na nag-m-move ng state pataas at data pababa sa composable tree.",,state hoisting
+Cloze,"Sa Compose, ang {{c1::recomposition}} ay process ng pag-re-render ng composables kapag nag-bago ang state.",,recomposition
+Cloze,"Ang {{c1::by remember}} delegation ay ginagamit para mag-initialize at mag-preserve ng state sa composable.",,by remember
+Cloze,"Ang {{c1::derivedStateOf}} ay nag-c-creates ng computed state na nag-b-bago lang kapag nag-bago ang inputs.",,derivedStateOf
+Cloze,"Sa Compose, ang {{c1::collectAsState}} ay nag-c-convert ng Flow to State na nag-u-update sa recomposition.",,collectAsState
+Cloze,"Ang {{c1::viewModel()}} composable ay nag-a-access ng ViewModel na nag-s-survive sa configuration changes.",,viewModel
+Cloze,"Ang {{c1::snapshotFlow}} ay nag-c-creates ng Flow na nag-e-emits ng Compose state changes.",,snapshotFlow

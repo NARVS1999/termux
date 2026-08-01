@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-animate ng opacity sa Compose?","Gamitin ang animateFloatAsState.","val alpha by animateFloatAsState(if (visible) 1f else 0f)"
+Application,"Paano mag-show/hide ng content with animation?","Gamitin ang AnimatedVisibility composable.","AnimatedVisibility(visible = show) { Text(\"Animated\") }"
+Application,"Paano mag-animate ng size changes?","Gamitin ang animateContentSize modifier.","Modifier.animateContentSize()"
+Application,"Paano mag-play ng Lottie animation?","Gamitin ang LottieAnimation composable na may compositionSpec.","LottieAnimation(composition = composition)"
+Application,"Paano mag-create ng spring animation?","I-specify ang spring spec sa animation.","animate(0f, 1f, animationSpec = spring(dampingRatio = 0.5f))"

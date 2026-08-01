@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng text input sa Compose?","Gamitin ang TextField na may value at onValueChange.","TextField(value = text, onValueChange = { text = it })"
+Application,"Paano mag-validate ng user input?","I-check ang condition at i-update ang error state.","val isValid = text.isNotBlank()"
+Application,"Paano mag-set ng keyboard type?","Gamitin ang keyboardOptions parameter.","keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Email)"
+Application,"Paano mag-handle ng text field focus?","Gamitin ang focusRequester at focus modifier.","Modifier.focusRequester(focusRequester).focusTarget()"
+Application,"Paano mag-add ng custom gesture?","Gamitin ang pointerInput modifier na may detectTapGestures.","Modifier.pointerInput(Unit) { detectTapGestures { onTap() } }"

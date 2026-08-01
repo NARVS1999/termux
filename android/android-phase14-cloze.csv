@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::ConstraintLayout}} ay layout system na nag-a-arrange ng views gamit ang constraints sa iba pang views.",,ConstraintLayout
+Cloze,"Ang {{c1::LinearLayout}} ay layout na nag-a-arrange ng children either vertically o horizontally.",,LinearLayout
+Cloze,"Sa Android, ang {{c1::view binding}} ay type-safe na way para mag-access ng views nang hindi nag-c-calling ng findViewById.",,view binding
+Cloze,"Ang {{c1::FrameLayout}} ay layout na nag-o-overlap ng children sa same position, useful para sa fragments.",,FrameLayout
+Cloze,"Ang {{c1::layout_weight}} property ay nag-d-distribute ng extra space sa LinearLayout children.",,layout_weight
+Cloze,"Ang {{c1::constraintStart_toStartOf}} ay constraint type na nag-a-align ng view sa start ng parent.",,constraintStart_toStartOf
+Cloze,"Sa XML, ang {{c1::wrap_content}} ay layout parameter na nag-s-sizes ng view ayon sa content.",,wrap_content
+Cloze,"Ang {{c1::match_parent}} ay layout parameter na nag-f-fills ng available space ng parent container.",,match_parent

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Material 3}} ay latest version ng Material Design na may updated components at theming.",,Material 3
+Cloze,"Sa Android, ang {{c1::color scheme}} ay set ng primary, secondary, at tertiary colors na nag-de-define ng app appearance.",,color scheme
+Cloze,"Ang {{c1::typography}} ay system ng font styles na nag-s-specify ng headings, body, at label styles.",,typography
+Cloze,"Ang {{c1::MaterialTheme}} composable ay nag-a-apply ng Material 3 theme sa composable tree.",,MaterialTheme
+Cloze,"Ang {{c1::Dynamic Color}} ay feature na nag-c-creates ng color scheme base sa device wallpaper.",,Dynamic Color
+Cloze,"Ang {{c1::shape}} system sa Material 3 ay nag-d-defines ng corner styles: small, medium, large.",,shape
+Cloze,"Sa Android, ang {{c1::color.xml}} resource ay nag-i-store ng color definitions para sa light at dark themes.",,color.xml
+Cloze,"Ang {{c1::elevation}} ay Material Design concept na nag-a-add ng shadow para sa depth perception.",,elevation

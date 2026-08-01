@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::@Composable}} annotation ay nag-m-mark ng function na nagde-define ng UI sa Jetpack Compose.",,@Composable
+Cloze,"Ang {{c1::Column}} ay composable na nag-a-arrange ng children vertically.",,Column
+Cloze,"Ang {{c1::Row}} ay composable na nag-a-arrange ng children horizontally.",,Row
+Cloze,"Ang {{c1::Box}} ay composable na nag-o-overlap ng children sa loob ng same container.",,Box
+Cloze,"Sa Compose, ang {{c1::Modifier}} ay chainable object na nag-a-add ng behavior at styling sa composables.",,Modifier
+Cloze,"Ang {{c1::padding}} modifier ay nag-a-add ng space sa labas ng composable.",,padding
+Cloze,"Ang {{c1::fillMaxWidth}} modifier ay nag-s-sets ng width ng composable para mag-fill ng available space.",,fillMaxWidth
+Cloze,"Ang {{c1::clickable}} modifier ay nag-e-enable ng click handling sa composable.",,clickable
+Cloze,"Ang {{c1::Text}} composable ay nag-r-render ng text sa screen.",,Text
+Cloze,"Ang {{c1::Image}} composable ay nag-d-display ng image gamit ang painter parameter.",,Image

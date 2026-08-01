@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::animate*AsState}} composable ay nag-a-animate ng value changes gamit ang smoothly interpolated animation.",,animate*AsState
+Cloze,"Ang {{c1::AnimatedVisibility}} composable ay nag-a-animate ng enter at exit transitions ng content.",,AnimatedVisibility
+Cloze,"Sa Compose, ang {{c1::crossfade}} animation ay nag-c-creates ng smooth transition sa pagitan ng content states.",,crossfade
+Cloze,"Ang {{c1::updateTransition}} ay state holder na nag-m-manages ng multiple animations para sa complex transitions.",,updateTransition
+Cloze,"Ang {{c1::Lottie}} ay library na nag-p-plays ng JSON-based animations mula sa After Effects.",,Lottie
+Cloze,"Ang {{c1::animateContentSize}} modifier ay nag-a-animate ng size changes ng composable.",,animateContentSize
+Cloze,"Sa Compose, ang {{c1::transition}} composable ay nag-d-defines ng enter at exit transitions.",,transition
+Cloze,"Ang {{c1::spring}} animation spec ay physics-based animation na nag-a-add ng natural movement.",,spring

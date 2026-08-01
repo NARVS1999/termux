@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::TextField}} composable ay ginagamit para mag-c-create ng text input sa Jetpack Compose.",,TextField
+Cloze,"Sa Android, ang {{c1::validation}} ay process ng pag-verify ng user input bago i-process.",,validation
+Cloze,"Ang {{c1::OutlinedTextField}} ay Material Design text field na may visible border.",,OutlinedTextField
+Cloze,"Ang {{c1::onValueChange}} callback ay tinatawag kapag nag-bago ang value sa text field.",,onValueChange
+Cloze,"Ang {{c1::keyboardOptions}} ay modifier na nag-s-specify ng keyboard type at IME actions.",,keyboardOptions
+Cloze,"Ang {{c1::focusRequester}} ay object na nag-c-controls ng focus state sa composables.",,focusRequester
+Cloze,"Sa Compose, ang {{c1::pointerInput}} modifier ay nag-e-enables ng custom gesture detection.",,pointerInput
+Cloze,"Ang {{c1::BasicTextField}} ay low-level text field na walang Material styling.",,BasicTextField
