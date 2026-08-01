@@ -4,11 +4,11 @@
 
 ## Kotlin & Language Fundamentals (Prerequisites)
 
-- [ ] **Phase 1** — Kotlin basics: variables, data types, control flow, null safety
-- [ ] **Phase 2** — OOP in Kotlin: classes, inheritance, interfaces, sealed classes
-- [ ] **Phase 3** — Functions & lambdas: higher-order functions, scope functions, extensions
-- [ ] **Phase 4** — Collections: lists, maps, sets, filtering, mapping, sorting
-- [ ] **Phase 5** — Coroutines basics: launch, async, suspend functions, scopes
+- [x] **Phase 1** — Kotlin basics: variables, data types, control flow, null safety
+- [x] **Phase 2** — OOP in Kotlin: classes, inheritance, interfaces, sealed classes
+- [x] **Phase 3** — Functions & lambdas: higher-order functions, scope functions, extensions
+- [x] **Phase 4** — Collections: lists, maps, sets, filtering, mapping, sorting
+- [x] **Phase 5** — Coroutines basics: launch, async, suspend functions, scopes
 
 ## Android Fundamentals
 
