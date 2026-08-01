@@ -50,11 +50,11 @@
 
 ## Web Security
 
-- [ ] **Phase 29** — HTTPS & TLS: certificates, SSL/TLS handshake, encryption
-- [ ] **Phase 30** — OWASP risks: injection, XSS, CSRF, SSRF, IDOR, mass assignment
-- [ ] **Phase 31** — Server security: hardening, secrets management, CSP, firewall
-- [ ] **Phase 32** — Authentication: password hashing, session auth, token auth, JWT
-- [ ] **Phase 33** — Authorization & identity: OAuth2, OpenID Connect, SAML, role-based access
+- [x] **Phase 29** — HTTPS & TLS: certificates, SSL/TLS handshake, encryption
+- [x] **Phase 30** — OWASP risks: injection, XSS, CSRF, SSRF, IDOR, mass assignment
+- [x] **Phase 31** — Server security: hardening, secrets management, CSP, firewall
+- [x] **Phase 32** — Authentication: password hashing, session auth, token auth, JWT
+- [x] **Phase 33** — Authorization & identity: OAuth2, OpenID Connect, SAML, role-based access
 
 ## Testing & CI/CD
 
