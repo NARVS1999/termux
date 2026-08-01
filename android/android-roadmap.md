@@ -73,11 +73,11 @@
 
 ## Publishing & App Store
 
-- [ ] **Phase 43** — Release builds: signing, minification, versioning, Play App Signing
-- [ ] **Phase 44** — App Bundles: AAB vs APK, asset delivery, store size limits
-- [ ] **Phase 45** — Play Console: releases, tracks, testing channels, store listing
-- [ ] **Phase 46** — Updates & rollout: staged rollout, update monitoring, migrations
-- [ ] **Phase 47** — Crash reporting & analytics: Crashlytics, Firebase Analytics, alerts
+- [x] **Phase 43** — Release builds: signing, minification, versioning, Play App Signing
+- [x] **Phase 44** — App Bundles: AAB vs APK, asset delivery, store size limits
+- [x] **Phase 45** — Play Console: releases, tracks, testing channels, store listing
+- [x] **Phase 46** — Updates & rollout: staged rollout, update monitoring, migrations
+- [x] **Phase 47** — Crash reporting & analytics: Crashlytics, Firebase Analytics, alerts
 
 ## Recommended Learning Path (priority order)
 
