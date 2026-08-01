@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Python}} ay ang pinaka-common na programming language para sa AI development.",,Python
+Cloze,"Ang {{c1::API}} ay ang interface para ma-access ang model services mula sa code.",,API
+Cloze,"Ang {{c1::requests}} library ay ginagamit para mag-send ng HTTP requests sa APIs.",,requests
+Cloze,"Ang {{c1::JSON}} ay ang standard na format para sa data exchange ng APIs.",,JSON
+Cloze,"Ang {{c1::pandas}} ay ginagamit para sa data manipulation at analysis sa Python.",,pandas
+Cloze,"Ang {{c1::environment variables}} ay ginagamit para i-store ang API keys nang hindi nasa code.",,environment variables
+Cloze,"Ang {{c1::error handling}} ay importante kapag nag-call sa APIs dahil pwedeng mag-fail ang network.",,error handling
+Cloze,"Ang {{c1::virtual environment}} ay nag-i-isolate ng dependencies para sa bawat project.",,virtual environment
+Cloze,"Ang pag-test ng API calls ay madalas ginagawa sa {{c1::Jupyter Notebook}} o REPL.",,Jupyter Notebook

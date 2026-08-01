@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano malaman kung ML o DL ang gamitin?",,"DL para sa complex patterns tulad ng images at speech; ML para sa structured data."
+Application,"Paano gumamit ng LLM para sa text generation?",,"Mag-call sa model API na may prompt at i-receive ang generated text."
+Application,"Paano i-train ang model sa sariling data?",,"I-prepare ang labeled dataset at i-fine-tune ang pre-trained model."
+Application,"Paano mag-run ng inference sa trained model?",,"I-feed ang input sa model at i-interpret ang output."
+Application,"Paano ma-distinguish ang AI sa ML?",,"AI ang umbrella term; ML ang technique para mag-aral mula sa data."

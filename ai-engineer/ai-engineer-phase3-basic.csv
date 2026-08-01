@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-estimate ang token count ng isang text?",,"I-approximate: 1 token ay humigit-kumulang 0.75 words sa English text."
+Application,"Paano maiwasan ang pag-exceed sa context window?",,"I-summarize o i-chunk ang input text bago ipadala sa model."
+Application,"Paano gumamit ng pre-trained model sa app?",,"I-import ang model weights o mag-call sa hosted API."
+Application,"Paano i-handle ang hallucination?",,"Magdagdag ng grounding o verified sources sa prompt."
+Application,"Paano malaman kung AGI na ba ang isang system?",,"Kung kayang mag-generalize sa lahat ng tasks na kaya ng tao."

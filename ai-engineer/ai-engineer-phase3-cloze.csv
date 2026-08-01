@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::token}} ay ang pinakamaliit na unit ng text na pinoproseso ng LLM (mga subword o character).",,token
+Cloze,"Ang {{c1::context window}} ay ang maximum na bilang ng tokens na kayang i-handle ng model sa isang request.",,context window
+Cloze,"Ang {{c1::pre-trained models}} ay mga models na natuto na sa malalaking dataset bago pa man i-fine-tune.",,pre-trained models
+Cloze,"Ang {{c1::AGI}} ay isang hypothetical na AI na may general intelligence na katulad ng tao.",,AGI
+Cloze,"Ang {{c1::AI}} ay ang simulated intelligence ng machines para mag-perform ng tasks.",,AI
+Cloze,"Ang pag-exceed sa context window ay nagreresulta sa {{c1::truncation}} ng mas lumang context.",,truncation
+Cloze,"Ang {{c1::context}} ay ang buong text na nakikita ng model bago ito mag-generate ng sagot.",,context
+Cloze,"Ang {{c1::hallucination}} ay kapag gumagawa ang model ng maling impormasyon na mukhang totoo.",,hallucination
+Cloze,"Ang {{c1::token limit}} ay tumutukoy sa maximum na haba ng input at output ng model.",,token limit

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::AI}} ay ang malawak na field ng paggawa ng machines na kayang mag-simulate ng human intelligence.",,AI
+Cloze,"Ang {{c1::Machine Learning}} ay isang subset ng AI kung saan natututo ang system mula sa data.",,Machine Learning
+Cloze,"Ang {{c1::Deep Learning}} ay isang subset ng ML na gumagamit ng neural networks na maraming layers.",,Deep Learning
+Cloze,"Ang {{c1::Large Language Model}} (LLM) ay isang model na trained sa malalaking text data para maka-generate ng language.",,Large Language Model
+Cloze,"Ang {{c1::training}} ay ang phase kung saan natututo ang model mula sa data sa pamamagitan ng pag-adjust ng weights.",,training
+Cloze,"Ang {{c1::inference}} ay ang phase kung saan gumagawa na ang model ng predictions sa bagong input.",,inference
+Cloze,"Ang neural network na may maraming hidden layers ay tinatawag na {{c1::deep neural network}}.",,deep neural network
+Cloze,"Ang {{c1::foundation model}} ay isang malaking pre-trained model na pwedeng i-adapt sa iba't ibang tasks.",,foundation model
+Cloze,"Sa {{c1::supervised learning}}, natututo ang model mula sa labeled data na may tamang sagot.",,supervised learning

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Sa {{c1::frontend}}, ang AI ay pwedeng mag-power ng chatbots at smart UI components.",,frontend
+Cloze,"Sa {{c1::backend}}, ang AI ay ginagamit para sa data processing at model inference.",,backend
+Cloze,"Ang {{c1::full-stack}} AI developers ay kayang mag-integrate ng AI sa buong application stack.",,full-stack
+Cloze,"Ang {{c1::use cases}} ng AI ay kasama ang customer support, content generation, at personalization.",,use cases
+Cloze,"Ang AI-powered {{c1::chatbots}} ay nakakapagbawas ng customer support load.",,chatbots
+Cloze,"Ang {{c1::recommendation systems}} ay nagpapakita ng personalized na content sa users.",,recommendation systems
+Cloze,"Ang {{c1::content moderation}} ay gumagamit ng AI para mag-filter ng inappropriate content.",,content moderation
+Cloze,"Ang AI integration sa produkto ay nangangailangan ng collaboration ng {{c1::cross-functional teams}}.",,cross-functional teams
+Cloze,"Ang {{c1::product metrics}} tulad ng engagement ay nag-improve kapag maayos ang AI integration.",,product metrics

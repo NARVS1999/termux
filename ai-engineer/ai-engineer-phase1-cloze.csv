@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::AI Engineer}} ay gumagamit ng pre-trained models at AI tools para mapabuti ang user experience nang hindi gumagawa ng model mula sa simula.",,AI Engineer
+Cloze,"Ang {{c1::ML Engineer}} ay mas naka-focus sa pag-train at pag-build ng sariling models mula sa scratch.",,ML Engineer
+Cloze,"Ang {{c1::responsibilities}} ng AI Engineer ay ang pag-integrate ng AI sa mga produkto at pag-optimize ng performance.",,responsibilities
+Cloze,"Ang paggamit ng {{c1::pre-trained models}} ay ang paraan ng AI Engineer para hindi mag-train mula sa zero.",,pre-trained models
+Cloze,"Ang {{c1::AI Researcher}} ay nagde-develop ng bagong algorithms at AI theory.",,AI Researcher
+Cloze,"Ang {{c1::AI tools}} tulad ng APIs at SDKs ay ginagamit ng AI Engineer para i-build ang features.",,AI tools
+Cloze,"Ang pangunahing goal ng AI Engineer ay ang mag-{{c1::improve}} ng user experience gamit ang AI.",,improve
+Cloze,"Ang AI Engineer ay nag-{{c1::evaluate}} ng model performance para malaman kung viable sa production.",,evaluate
+Cloze,"Ang {{c1::product integration}} ay kung saan inilalagay ang AI capabilities sa existing applications.",,product integration

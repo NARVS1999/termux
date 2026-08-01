@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-install ng Python packages?",,"pip install requests openai"
+Application,"Paano mag-call sa API gamit ang requests?",,"response = requests.post(url, json=data); response.json()"
+Application,"Paano i-handle ang API errors?",,"I-wrap sa try/except at i-check ang status code."
+Application,"Paano i-load ang API key mula sa environment?",,"os.getenv('OPENAI_API_KEY')"
+Application,"Paano mag-load ng CSV data sa Python?",,"pd.read_csv('file.csv')"
