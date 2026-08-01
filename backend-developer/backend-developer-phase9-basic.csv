@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-install ng package sa Node.js project?",,"Gamitin ang npm: npm install package-name."
+Application,"Paano i-pin ang exact version ng dependency?",,"Gamitin ang lockfile o i-specify ang exact version sa package.json."
+Application,"Paano mag-update ng lahat ng dependencies?",,"Gamitin ang command: npm update o yarn upgrade."
+Application,"Paano malaman kung outdated ang dependencies?",,"Gamitin ang command: npm outdated."
+Application,"Paano mag-install ng dev-only package?",,"Gamitin ang flag: npm install --save-dev package-name."

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::package manager}} ay ang tool na nag-i-install at nagma-manage ng dependencies ng project.",,package manager
+Cloze,"Ang {{c1::dependency}} ay ang external package na kailangan ng project para gumana.",,dependency
+Cloze,"Ang {{c1::versioning}} ay ang sistema ng pagta-track ng versions ng packages.",,versioning
+Cloze,"Ang {{c1::semantic versioning}} ay ang versioning scheme na gumagamit ng MAJOR.MINOR.PATCH.",,semantic versioning
+Cloze,"Ang {{c1::lockfile}} ay ang file na nagla-lock ng exact versions ng dependencies.",,lockfile
+Cloze,"Ang {{c1::registry}} ay ang central repository kung saan naka-publish ang mga packages.",,registry
+Cloze,"Ang {{c1::transitive dependencies}} ay ang mga dependencies ng iyong dependencies.",,transitive dependencies
+Cloze,"Ang {{c1::dev dependency}} ay ang package na kailangan lamang para sa development.",,dev dependency
+Cloze,"Ang {{c1::package.json}} ay ang manifest file ng Node.js project na naglilista ng dependencies.",,package.json

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano pumili ng backend language para sa bagong project?",,"Ibase sa team skills, ecosystem, performance needs, at job market ng target na stack."
+Application,"Paano patakbuhin ang Go program?",,"I-compile at i-run gamit ang: go run main.go."
+Application,"Paano mag-run ng Node.js script?",,"Gamitin ang command: node index.js."
+Application,"Bakit memory-safe ang Rust nang walang garbage collector?",,"Gamit ang ownership system na nag-e-enforce ng memory rules sa compile time."
+Application,"Paano mag-i-install ng Python packages?",,"Gamitin ang package manager: pip install package-name."

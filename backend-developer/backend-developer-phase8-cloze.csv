@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::concurrency}} ay ang kakayahan ng program na humawak ng maraming tasks nang sabay-sabay.",,concurrency
+Cloze,"Ang {{c1::async/await}} ay ang syntax pattern para mag-handle ng asynchronous operations.",,async/await
+Cloze,"Ang {{c1::memory management}} ay ang proseso ng pag-allocate at pag-release ng memory.",,memory management
+Cloze,"Ang {{c1::garbage collector}} ay ang mekanismo na awtomatikong naglilinis ng unused memory.",,garbage collector
+Cloze,"Ang {{c1::thread}} ay ang pinakamaliit na unit ng execution sa loob ng isang process.",,thread
+Cloze,"Ang {{c1::mutex}} ay ang synchronization primitive na pumipigil sa race conditions.",,mutex
+Cloze,"Ang {{c1::deadlock}} ay ang estado kung saan naghihintay ang dalawang threads sa isa't isa nang tuluyan.",,deadlock
+Cloze,"Ang {{c1::promise}} ay ang object na kumakatawan sa eventual na result ng async operation.",,promise
+Cloze,"Ang {{c1::event loop}} ay ang mekanismo na nag-p-process ng async callbacks sa single-threaded runtime.",,event loop
+Cloze,"Ang {{c1::race condition}} ay ang bug kung saan depende sa timing ang resulta ng concurrent operations.",,race condition

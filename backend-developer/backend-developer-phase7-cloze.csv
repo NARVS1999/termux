@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::syntax}} ay ang rules na namamahala sa structure ng valid statements sa isang language.",,syntax
+Cloze,"Ang {{c1::data types}} ay ang mga uri ng values tulad ng integers, strings, booleans, at arrays.",,data types
+Cloze,"Ang {{c1::control flow}} ay ang order ng pag-execute ng statements gamit ang conditions at loops.",,control flow
+Cloze,"Ang {{c1::error handling}} ay ang mekanismo para i-catch at i-handle ang exceptions.",,error handling
+Cloze,"Ang {{c1::variable}} ay ang named storage para sa mga values sa program.",,variable
+Cloze,"Ang {{c1::function}} ay ang reusable block ng code na may specific na task.",,function
+Cloze,"Ang {{c1::loop}} ay ang construct na umuulit ng block ng code hanggang sa matugunan ang condition.",,loop
+Cloze,"Ang {{c1::conditional}} ay ang construct na nag-execute ng code batay sa isang condition.",,conditional
+Cloze,"Ang {{c1::exception}} ay ang error na nangyayari habang tumatakbo ang program.",,exception
+Cloze,"Ang {{c1::operator}} ay ang simbolo na gumagawa ng operations sa mga values.",,operator

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::refactoring}} ay ang proseso ng pag-improve ng code structure nang hindi nagbabago ang behavior.",,refactoring
+Cloze,"Ang {{c1::code review}} ay ang proseso ng pag-review ng code ng ibang developer bago i-merge.",,code review
+Cloze,"Ang {{c1::documentation generation}} ay ang paggawa ng docs mula sa code comments at annotations.",,documentation generation
+Cloze,"Ang {{c1::code smell}} ay ang indicator ng masamang design sa code.",,code smell
+Cloze,"Ang {{c1::technical debt}} ay ang presyo na binabayaran sa hinaharap dahil sa quick-and-dirty solutions.",,technical debt
+Cloze,"Ang {{c1::linting}} ay ang automated na pagsusuri ng code para sa potential errors.",,linting
+Cloze,"Ang {{c1::static analysis}} ay ang pagsusuri ng code nang hindi ito nire-run.",,static analysis
+Cloze,"Ang {{c1::readability}} ay ang sukatan kung gaano kadali maintindihan ang code.",,readability
+Cloze,"Ang {{c1::separation of concerns}} ay ang principle na hinahati ang code sa iba't ibang responsibilities.",,separation of concerns

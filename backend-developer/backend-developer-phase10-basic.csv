@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-improve ang code nang hindi binabago ang behavior?",,"Mag-refactor: hatiin ang malalaking functions at alisin ang duplications."
+Application,"Paano makahanap ng potential issues bago i-run ang code?",,"Gamitin ang linting at static analysis tools."
+Application,"Paano mag-review ng pull request?",,"Suriin ang logic, naming, tests, at security; mag-iwan ng constructive comments."
+Application,"Paano i-document ang public API ng module?",,"Gumamit ng doc comments at generate docs gamit ang tools tulad ng JSDoc."
+Application,"Paano bawasan ang technical debt?",,"Mag-allocate ng oras para sa refactoring at ayusin ang code smells agad."

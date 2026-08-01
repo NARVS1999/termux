@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Go}} ay ang compiled language ng Google na kilala sa concurrency at simplicity.",,Go
+Cloze,"Ang {{c1::Rust}} ay ang systems language na may memory safety nang walang garbage collector.",,Rust
+Cloze,"Ang {{c1::Python}} ay ang versatile na language na sikat sa backend at data work.",,Python
+Cloze,"Ang {{c1::Java}} ay ang mature na object-oriented language na tumatakbo sa JVM.",,Java
+Cloze,"Ang {{c1::Node.js}} ay ang runtime na nagpapatakbo ng JavaScript sa server side.",,Node.js
+Cloze,"Ang {{c1::PHP}} ay ang server-side scripting language na sikat sa web development.",,PHP
+Cloze,"Ang {{c1::Ruby}} ay ang object-oriented language na kilala sa elegant na syntax.",,Ruby
+Cloze,"Ang {{c1::compiled language}} ay ang language na nagco-convert ng code papunta sa machine code bago i-run.",,compiled language
+Cloze,"Ang {{c1::interpreted language}} ay ang language na nire-run ng line by line nang walang compilation.",,interpreted language
+Cloze,"Ang {{c1::framework}} ay ang tool na nagbibigay ng structure para bumuo ng web applications.",,framework
