@@ -75,9 +75,9 @@
 
 ## Evaluation & Observability
 
-- [ ] **Phase 45** — LLM evaluations: deterministic, model-based, human evals, metrics, regression testing
-- [ ] **Phase 46** — Observability: tracing & logging, cost/latency monitoring, production monitoring
-- [ ] **Phase 47** — Eval tools: LangSmith, Langfuse, Helicone, Arize AI, evaluation types
+- [x] **Phase 45** — LLM evaluations: deterministic, model-based, human evals, metrics, regression testing
+- [x] **Phase 46** — Observability: tracing & logging, cost/latency monitoring, production monitoring
+- [x] **Phase 47** — Eval tools: LangSmith, Langfuse, Helicone, Arize AI, evaluation types
 
 ## Recommended Learning Path (priority order)
 
