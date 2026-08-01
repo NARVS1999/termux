@@ -53,10 +53,10 @@
 
 ## Testing & Quality
 
-- [ ] **Phase 32** — Unit testing: JUnit, MockK, coroutine testing, coverage
-- [ ] **Phase 33** — Compose UI tests: testing APIs, assertions, semantics
-- [ ] **Phase 34** — Instrumentation tests: Espresso, emulator testing, test devices
-- [ ] **Phase 35** — Code quality: lint, detekt, formatting, ktlint
+- [x] **Phase 32** — Unit testing: JUnit, MockK, coroutine testing, coverage
+- [x] **Phase 33** — Compose UI tests: testing APIs, assertions, semantics
+- [x] **Phase 34** — Instrumentation tests: Espresso, emulator testing, test devices
+- [x] **Phase 35** — Code quality: lint, detekt, formatting, ktlint
 
 ## Performance & Optimization
 
