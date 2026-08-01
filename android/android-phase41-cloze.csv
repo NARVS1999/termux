@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::HTTPS}} ay encrypted HTTP protocol na nag-p-protect ng data in transit.",,HTTPS
+Cloze,"Ang {{c1::certificate pinning}} ay technique na nag-v-verifies ng server certificate.",,certificate pinning
+Cloze,"Ang {{c1::cleartext policy}} ay configuration na nag-b-block ng unencrypted HTTP traffic.",,cleartext policy
+Cloze,"Sa Android, ang {{c1::network security config}} XML ay file na nag-d-defines ng security rules.",,network security config
+Cloze,"Ang {{c1::SSL/TLS}} ay cryptographic protocols na nag-p-protect ng network communication.",,SSL/TLS
+Cloze,"Ang {{c1::TrustManager}} ay component na nag-v-verifies ng server certificates.",,TrustManager
+Cloze,"Ang {{c1::hostname verification}} ay check na nag-s-sures na ang server hostname ay matches sa certificate.",,hostname verification
+Cloze,"Sa Android 9+, ang {{c1::cleartext traffic}} ay disabled by default para sa security.",,cleartext traffic

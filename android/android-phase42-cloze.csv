@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::runtime permissions}} ay permissions na kailangan i-request habang nag-r-running na ang app.",,runtime permissions
+Cloze,"Ang {{c1::AndroidManifest}} ay file na nag-d-declare ng required permissions ng app.",,AndroidManifest
+Cloze,"Ang {{c1::permission rationale}} ay dialog na nag-e-explains kung bakit kailangan ng permission.",,permission rationale
+Cloze,"Sa Android, ang {{c1::ActivityCompat.requestPermissions}} ay method para mag-request ng runtime permission.",,ActivityCompat.requestPermissions
+Cloze,"Ang {{c1::onRequestPermissionsResult}} callback ay tinatawag pagkatapos mag-response ang user.",,onRequestPermissionsResult
+Cloze,"Ang {{c1::shouldShowRequestPermissionRationale}} ay method na nag-i-check kung kailangan ng rationale.",,shouldShowRequestPermissionRationale
+Cloze,"Ang {{c1::scoped storage}} permission model ay nag-l-limits ng access sa specific na files.",,scoped storage
+Cloze,"Ang {{c1::POST_NOTIFICATIONS}} ay runtime permission na required para sa Android 13+ notifications.",,POST_NOTIFICATIONS

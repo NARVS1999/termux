@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-request ng permission?","Gamitin ang ActivityResultContracts.","registerForActivityResult(RequestPermission()) { granted -> }"
+Application,"Paano mag-check ng granted permission?","Gamitin ang checkSelfPermission.","ContextCompat.checkSelfPermission(ctx, Manifest.permission.CAMERA)"
+Application,"Paano mag-show ng rationale?","Gamitin ang shouldShowRequestPermissionRationale.","if (shouldShowRationale) showExplanationDialog()"
+Application,"Paano mag-declare ng permission sa manifest?","I-add ang uses-permission tag sa AndroidManifest.xml.","<uses-permission android:name=\"android.permission.CAMERA\" />"
+Application,"Paano mag-handle ng permission result?","I-check ang grant results sa callback.","if (resultCode == PackageManager.PERMISSION_GRANTED) { grantAccess() }"

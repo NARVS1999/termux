@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Android Keystore}} ay system facility na nag-s-stores ng cryptographic keys nang secure.",,Android Keystore
+Cloze,"Ang {{c1::EncryptedSharedPreferences}} ay SharedPreferences wrapper na nag-e-encrypt ng data.",,EncryptedSharedPreferences
+Cloze,"Ang {{c1::biometrics}} ay authentication mechanism na nag-u-uses ng fingerprint, face, o iris.",,biometrics
+Cloze,"Sa Android, ang {{c1::KeyGenerator}} ay utility para mag-c-create ng cryptographic keys.",,KeyGenerator
+Cloze,"Ang {{c1::KeyStore}} ay tamper-resistant storage para sa cryptographic keys.",,KeyStore
+Cloze,"Ang {{c1::MasterKey}} ay encryption key na ginagamit ng EncryptedSharedPreferences.",,MasterKey
+Cloze,"Ang {{c1::BiometricPrompt}} ay system dialog na nag-p-prompts ng biometric authentication.",,BiometricPrompt
+Cloze,"Sa Android, ang {{c1::EncryptedFile}} ay file encryption wrapper mula sa Security library.",,EncryptedFile
+Cloze,"Ang {{c1::AES}} ay symmetric encryption algorithm na ginagamit para sa data protection.",,AES
