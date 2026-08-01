@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-define ang tool para sa model?",,"I-declare bilang JSON schema na may name, description, at parameters."
+Application,"Paano i-execute ang tool call ng model?",,"I-parse ang function name at arguments, i-run ang function, at ibalik ang result."
+Application,"Paano i-handle ang tool execution errors?",,"I-catch ang exception at ibalik ang error message sa model."
+Application,"Paano i-limit ang tool calls ng agent?",,"I-set ang max_iterations sa loop ng agent."
+Application,"Paano i-pass ang tool result pabalik sa model?",,"I-append ang tool result bilang assistant tool message sa history."

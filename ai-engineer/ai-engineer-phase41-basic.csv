@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng multi-agent system?",,"Mag-define ng mga specialized agents at i-configure ang orchestration pattern."
+Application,"Paano mag-handoff ng task sa ibang agent?",,"Gamitin ang handoff tool o mechanism ng framework."
+Application,"Paano mag-run ng agents nang sunod-sunod?",,"I-chain ang output ng isang agent bilang input ng susunod."
+Application,"Paano mag-run ng agents nang sabay-sabay?",,"I-delegate ang independent tasks sa parallel agents."
+Application,"Paano i-share ang state sa pagitan ng agents?",,"Gumamit ng shared memory o state object na na-a-access ng lahat."

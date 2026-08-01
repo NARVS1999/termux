@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-connect ng MCP server sa host?",,"I-configure ang MCP server sa config file ng host application."
+Application,"Paano gumawa ng MCP server?",,"Gamitin ang MCP SDK at i-define ang tools at resources ng server."
+Application,"Paano mag-run ng MCP server over stdio?",,"I-run ang server script na gumagamit ng stdio transport."
+Application,"Paano mag-access ng MCP server remotely?",,"Gamitin ang HTTP o SSE transport para sa remote connection."
+Application,"Paano mag-define ng tool sa MCP server?",,"I-declare ang tool na may name, schema, at handler function."

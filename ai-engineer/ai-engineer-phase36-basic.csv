@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng simpleng AI agent?",,"Pagsamahin ang LLM at tools sa isang loop na nag-i-iterate hanggang sa sagot."
+Application,"Paano magdagdag ng tool sa agent?",,"I-define ang function at i-register ito sa tool list ng agent."
+Application,"Paano i-limit ang autonomy ng agent?",,"Magdagdag ng human approval step bago mag-execute ng critical actions."
+Application,"Paano magbigay ng memory sa agent?",,"I-store ang conversation history at i-pass sa bawat LLM call."
+Application,"Paano gumawa ng customer support agent?",,"I-call ang agent sa knowledge base at ticket system tools."

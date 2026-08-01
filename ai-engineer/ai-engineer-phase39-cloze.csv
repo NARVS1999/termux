@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::ReAct}} ay isang pattern na nagpapalit-palit ng reasoning (thought) at action.",,ReAct
+Cloze,"Ang {{c1::Thought}} ay ang hakbang kung saan nagpaplano o nag-iisip ang model.",,Thought
+Cloze,"Ang {{c1::Action}} ay ang hakbang kung saan nag-call ang model ng tool.",,Action
+Cloze,"Ang {{c1::Observation}} ay ang resulta ng action na ginagamit para sa susunod na thought.",,Observation
+Cloze,"Ang manual ReAct implementation ay ginagawa sa pamamagitan ng {{c1::prompt templates}}.",,prompt templates
+Cloze,"Ang ReAct ay mabisa para sa {{c1::multi-step}} na mga problem.",,multi-step
+Cloze,"Ang ReAct loop ay nagtatapos kapag nagbigay na ang model ng {{c1::Final Answer}}.",,Final Answer
+Cloze,"Ang {{c1::reasoning}} sa ReAct ay nagpapaliwanag kung bakit ginagawa ang action.",,reasoning
+Cloze,"Ang {{c1::grounding}} ng agent sa tools ay nakakatulong maiwasan ang hallucination.",,grounding

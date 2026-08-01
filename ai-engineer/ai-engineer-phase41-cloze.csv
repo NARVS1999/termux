@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::multi-agent system}} ay isang setup kung saan maraming agents ang nagtutulungan para sa isang task.",,multi-agent system
+Cloze,"Ang {{c1::orchestration}} ay ang pagko-coordinate ng mga agents at ang kanilang mga tasks.",,orchestration
+Cloze,"Ang {{c1::specialized agents}} ay ang mga agents na may specific na role sa system.",,specialized agents
+Cloze,"Ang {{c1::handoff}} ay ang paglilipat ng task mula sa isang agent papunta sa iba.",,handoff
+Cloze,"Ang {{c1::hierarchical}} orchestration ay may supervisor agent na nagde-delegate ng tasks.",,hierarchical
+Cloze,"Ang {{c1::sequential}} orchestration ay nagpapatakbo ng agents nang sunod-sunod.",,sequential
+Cloze,"Ang {{c1::parallel}} orchestration ay nagpapatakbo ng mga agents nang sabay-sabay.",,parallel
+Cloze,"Ang {{c1::shared state}} ay ang common na data na na-a-access ng lahat ng agents.",,shared state
+Cloze,"Ang {{c1::inter-agent communication}} ay ang pagpapalitan ng messages sa pagitan ng agents.",,inter-agent communication

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::function calling}} ay ang kakayahan ng model na mag-request ng pag-execute ng functions.",,function calling
+Cloze,"Ang {{c1::tool definitions}} ay ang mga function schemas na binibigay sa model.",,tool definitions
+Cloze,"Ang {{c1::execution loop}} ay ang paulit-ulit na proseso ng LLM call at tool execution.",,execution loop
+Cloze,"Ang {{c1::arguments}} ay ang mga parameters na ibinibigay sa function ng model.",,arguments
+Cloze,"Ang {{c1::tool_choice}} ay nagko-control kung aling tool ang pwedeng gamitin ng model.",,tool_choice
+Cloze,"Ang {{c1::tool result}} ay ang output ng executed function na ibinabalik sa model.",,tool result
+Cloze,"Ang {{c1::conversation history}} ay naglalaman ng lahat ng messages kabilang ang tool calls.",,conversation history
+Cloze,"Ang pag-validate ng {{c1::tool arguments}} ay importante para maiwasan ang errors.",,tool arguments
+Cloze,"Ang {{c1::max iterations}} ay ang limit sa bilang ng tool calls na pwedeng gawin ng agent.",,max iterations

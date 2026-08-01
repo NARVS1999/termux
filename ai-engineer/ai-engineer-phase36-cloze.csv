@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::AI agent}} ay isang system na gumagamit ng LLM para mag-decide at mag-execute ng actions.",,AI agent
+Cloze,"Ang mga {{c1::use cases}} ng AI agents ay kasama ang customer support, data analysis, at automation.",,use cases
+Cloze,"Ang {{c1::agent workflow}} ay ang proseso kung paano nag-iisip, kumikilos, at nag-aadjust ang agent.",,agent workflow
+Cloze,"Ang {{c1::tools}} ay ang mga external functions na pwedeng i-call ng agent.",,tools
+Cloze,"Ang {{c1::planning}} ay ang kakayahan ng agent na i-break ang task sa mga steps.",,planning
+Cloze,"Ang {{c1::memory}} ay nagpapahintulot sa agent na matandaan ang context ng conversation.",,memory
+Cloze,"Ang {{c1::autonomy}} ay ang antas ng kalayaan ng agent na kumilos nang walang human input.",,autonomy
+Cloze,"Ang {{c1::human-in-the-loop}} ay ang pattern kung saan may tao pang nag-aapprove ng agent actions.",,human-in-the-loop
+Cloze,"Ang {{c1::agent loop}} ay ang cycle ng thought, action, at observation na inuulit hanggang matapos ang task.",,agent loop

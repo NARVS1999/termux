@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::OpenAI AgentKit}} ay ang toolkit ng OpenAI para mag-build ng AI agents.",,OpenAI AgentKit
+Cloze,"Ang {{c1::OpenAI Agent SDK}} ay ang opisyal na SDK ng OpenAI para sa agents.",,OpenAI Agent SDK
+Cloze,"Ang {{c1::Claude Agent SDK}} ay ang Anthropic SDK para mag-build ng agents gamit ang Claude.",,Claude Agent SDK
+Cloze,"Ang {{c1::Google ADK}} (Agent Development Kit) ay ang Google framework para sa agents.",,Google ADK
+Cloze,"Ang mga agent frameworks ay nagbibigay ng built-in na {{c1::loop management}} para sa tool calls.",,loop management
+Cloze,"Ang {{c1::Agent class}} ay ang pangunahing abstraction sa OpenAI Agent SDK.",,Agent class
+Cloze,"Ang {{c1::Runner}} sa OpenAI Agent SDK ay ang component na nagpapatakbo ng agent.",,Runner
+Cloze,"Ang {{c1::streaming}} ay sinusuportahan ng mga agent SDKs para sa real-time na output.",,streaming
+Cloze,"Ang pag-pick ng agent framework ay depende sa {{c1::model provider}} na ginagamit mo.",,model provider
