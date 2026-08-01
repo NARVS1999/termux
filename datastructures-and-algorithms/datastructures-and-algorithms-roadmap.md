@@ -67,11 +67,11 @@
 
 ## Dynamic Programming
 
-- [ ] **Phase 40** — Memoization: top-down, state definition, caches
-- [ ] **Phase 41** — Tabulation: bottom-up, iteration, space optimization
-- [ ] **Phase 42** — 1D patterns: climbing, coins, house robber
-- [ ] **Phase 43** — 2D patterns: grids, strings, LCS, edit distance
-- [ ] **Phase 44** — Classic problems: knapsack, subsets, partitions
+- [x] **Phase 40** — Memoization: top-down, state definition, caches
+- [x] **Phase 41** — Tabulation: bottom-up, iteration, space optimization
+- [x] **Phase 42** — 1D patterns: climbing, coins, house robber
+- [x] **Phase 43** — 2D patterns: grids, strings, LCS, edit distance
+- [x] **Phase 44** — Classic problems: knapsack, subsets, partitions
 
 ## Advanced Topics & Practice
 
