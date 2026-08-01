@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::OpenAI}} ay nagpo-provide ng mga models tulad ng GPT at o-series para sa text generation at reasoning.",,OpenAI
+Cloze,"Ang {{c1::GPT}} (Generative Pre-trained Transformer) ay ang serye ng models ng OpenAI para sa text generation.",,GPT
+Cloze,"Ang {{c1::o-series}} ay ang reasoning-focused models ng OpenAI.",,o-series
+Cloze,"Ang {{c1::Anthropic Claude}} ay isang proprietary model na kilala sa safety at long-context capabilities.",,Anthropic Claude
+Cloze,"Ang {{c1::Google Gemini}} ay isang multimodal model family ng Google na sumusuporta sa text, image, at audio.",,Google Gemini
+Cloze,"Ang {{c1::proprietary models}} ay ina-access sa pamamagitan ng paid APIs at hindi open source.",,proprietary models
+Cloze,"Ang {{c1::model card}} ay nagbibigay ng detalye tungkol sa isang model tulad ng capabilities at limitations.",,model card
+Cloze,"Ang pag-pick ng {{c1::model}} ay nakadepende sa task, cost, at performance requirements.",,model
+Cloze,"Ang {{c1::rate limits}} ay naglilimita sa kung ilang requests ang pwedeng gawin ng isang user sa isang period.",,rate limits

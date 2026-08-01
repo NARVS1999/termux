@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Meta Llama}} ay isang open source model family na mada-download at pwedeng i-deploy sa sariling infra.",,Meta Llama
+Cloze,"Ang {{c1::Mistral}} ay isang open source model na kilala sa efficiency at performance.",,Mistral
+Cloze,"Ang {{c1::Cohere}} ay nagpo-provide ng mga models para sa text generation, RAG, at embeddings.",,Cohere
+Cloze,"Ang {{c1::Gemma}} ay ang open source model family ng Google na gawa sa parehong research ng Gemini.",,Gemma
+Cloze,"Ang {{c1::Qwen}} ay isang open source model family na may magandang multilingual support.",,Qwen
+Cloze,"Ang {{c1::open source models}} ay pwedeng i-run locally o sa sariling servers nang walang API fees.",,open source models
+Cloze,"Ang {{c1::weights}} ng open source models ay pwedeng i-download mula sa Hugging Face Hub.",,weights
+Cloze,"Ang {{c1::license}} ng open source models ay nagdidikta kung paano pwedeng gamitin ang model.",,license
+Cloze,"Ang {{c1::self-hosting}} ay ang pag-run ng model sa sariling infrastructure para sa full control at privacy.",,self-hosting

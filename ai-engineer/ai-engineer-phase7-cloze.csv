@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::pre-training}} ay ang phase kung saan natututo ang model ng language patterns mula sa malawak na text data.",,pre-training
+Cloze,"Ang {{c1::fine-tuning}} ay ang pag-adapt ng pre-trained model sa specific na task gamit ang mas maliit na labeled dataset.",,fine-tuning
+Cloze,"Ang {{c1::alignment}} ay ang proseso ng pag-a-adjust sa model para sumunod sa human intent at values.",,alignment
+Cloze,"Ang {{c1::RLHF}} (Reinforcement Learning from Human Feedback) ay ginagamit para i-align ang model base sa human preferences.",,RLHF
+Cloze,"Ang {{c1::base model}} ay ang pre-trained na model na hindi pa na-fine-tune para sa specific na task.",,base model
+Cloze,"Ang {{c1::transfer learning}} ay ang paggamit ng knowledge mula sa isang task para mapabilis ang pag-aaral sa ibang task.",,transfer learning
+Cloze,"Ang {{c1::instruction tuning}} ay ang fine-tuning ng model gamit ang instruction-response pairs.",,instruction tuning
+Cloze,"Ang {{c1::evaluation}} pagkatapos ng training ay importante para malaman kung maganda ba ang performance ng model.",,evaluation
+Cloze,"Ang {{c1::checkpoint}} ay ang naka-save na state ng model weights sa isang partikular na punto ng training.",,checkpoint

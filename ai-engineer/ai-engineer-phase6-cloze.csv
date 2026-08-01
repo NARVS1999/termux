@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::transformer}} ay ang neural network architecture na pinagbabatayan ng mga modernong LLM.",,transformer
+Cloze,"Ang {{c1::attention}} mechanism ay nagbibigay-daan sa model na i-weigh ang kahalagahan ng bawat token sa input.",,attention
+Cloze,"Ang LLM ay nag-generate ng text sa pamamagitan ng pag-predict sa susunod na {{c1::token}} base sa mga naunang tokens.",,token
+Cloze,"Ang {{c1::self-attention}} ay nagpapahintulot sa bawat token na mag-refer sa lahat ng ibang tokens sa sequence.",,self-attention
+Cloze,"Ang {{c1::positional encoding}} ay nagbibigay sa model ng impormasyon tungkol sa order ng mga tokens.",,positional encoding
+Cloze,"Ang {{c1::embedding}} ay ang vector representation ng bawat token na ginagamit ng model para ma-process ang text.",,embedding
+Cloze,"Ang {{c1::multi-head attention}} ay nagpapahintulot sa model na tumingin sa iba't ibang aspects ng sequence nang sabay-sabay.",,multi-head attention
+Cloze,"Ang {{c1::autoregressive}} generation ay ang paggawa ng isang token sa bawat step na naka-condition sa mga nauna.",,autoregressive
+Cloze,"Ang {{c1::context length}} ay tumutukoy sa kung gaano karaming tokens ang kayang i-hold ng model sa isang time.",,context length

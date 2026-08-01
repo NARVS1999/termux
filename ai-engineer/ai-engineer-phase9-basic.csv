@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-download ng open source model?",,"I-download ang weights mula sa Hugging Face Hub gamit ang transformers library."
+Application,"Paano mag-run ng open source model locally?",,"Gamitin ang Ollama, LM Studio, o transformers library sa local machine."
+Application,"Paano i-check kung legal bang gamitin ang isang model?",,"Basahin ang license ng model sa Hugging Face model page."
+Application,"Paano i-deploy ang open source model sa production?",,"I-host sa GPU server gamit ang vLLM o TGI at i-expose bilang API."
+Application,"Paano pumili sa pagitan ng open at proprietary model?",,"I-compare ang cost, privacy, performance, at support requirements."

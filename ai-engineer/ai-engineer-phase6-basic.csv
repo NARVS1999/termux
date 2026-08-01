@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano nag-generate ang LLM ng bagong text?",,"Token by token, ginagamit ang mga naunang tokens para i-predict ang susunod."
+Application,"Paano i-represent ang isang token para sa model?",,"I-convert sa embedding vector sa pamamagitan ng embedding layer."
+Application,"Paano malaman kung aling tokens ang importante sa input?",,"I-check ang attention weights ng model sa bawat token."
+Application,"Paano i-train ang model para mahulaan ang susunod na token?",,"Gamitin ang language modeling objective sa malaking text dataset."
+Application,"Paano i-limit ang haba ng generated text?",,"I-set ang max tokens o max new tokens parameter."
