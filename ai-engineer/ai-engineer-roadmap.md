@@ -69,9 +69,9 @@
 
 ## Multimodal AI
 
-- [ ] **Phase 42** — Multimodal tasks: image understanding, image generation, video understanding, audio processing
-- [ ] **Phase 43** — Multimodal APIs: OpenAI Vision API, DALL-E, Whisper, TTS, speech-to-text
-- [ ] **Phase 44** — Multimodal apps: LangChain and LlamaIndex for multimodal, Hugging Face models
+- [x] **Phase 42** — Multimodal tasks: image understanding, image generation, video understanding, audio processing
+- [x] **Phase 43** — Multimodal APIs: OpenAI Vision API, DALL-E, Whisper, TTS, speech-to-text
+- [x] **Phase 44** — Multimodal apps: LangChain and LlamaIndex for multimodal, Hugging Face models
 
 ## Evaluation & Observability
 
