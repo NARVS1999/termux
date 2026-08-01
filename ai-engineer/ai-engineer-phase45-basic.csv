@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng eval set?",,"Gumawa ng mga tanong na may golden answers na representative ng real use cases."
+Application,"Paano mag-run ng deterministic eval?",,"I-compare ang model output sa golden answer gamit ang exact match o fuzzy match."
+Application,"Paano gumamit ng LLM-as-judge?",,"I-prompt ang isang LLM na i-rate ang output base sa criteria at rubric."
+Application,"Paano mag-run ng regression testing?",,"I-run ang eval set sa luma at bagong version, pagkatapos i-compare ang scores."
+Application,"Paano mag-measure ng accuracy?",,"I-divide ang bilang ng correct outputs sa kabuuang test cases."

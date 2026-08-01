@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::observability}} ay ang kakayahang makita at maunawaan ang estado ng system sa production.",,observability
+Cloze,"Ang {{c1::tracing}} ay ang pag-track ng buong flow ng isang request sa mga components.",,tracing
+Cloze,"Ang {{c1::logging}} ay ang pag-record ng mga events at data ng system para sa analysis.",,logging
+Cloze,"Ang {{c1::cost monitoring}} ay ang pagsubaybay sa gastos ng bawat LLM call.",,cost monitoring
+Cloze,"Ang {{c1::latency monitoring}} ay ang pagsukat ng oras ng bawat request o call.",,latency monitoring
+Cloze,"Ang {{c1::production monitoring}} ay ang patuloy na pag-observe ng live system.",,production monitoring
+Cloze,"Ang {{c1::token usage}} ay ang dami ng tokens na ginagamit sa bawat call na direktang nakakaapekto sa cost.",,token usage
+Cloze,"Ang {{c1::alerts}} ay mga notification na nagpo-trigger kapag may anomaly sa system.",,alerts
+Cloze,"Ang {{c1::dashboards}} ay ang visual na display ng metrics para sa monitoring.",,dashboards

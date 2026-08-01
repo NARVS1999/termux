@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::LangSmith}} ay ang observability at evaluation platform ng LangChain.",,LangSmith
+Cloze,"Ang {{c1::Langfuse}} ay isang open source platform para sa LLM observability.",,Langfuse
+Cloze,"Ang {{c1::Helicone}} ay isang proxy na nagko-collect ng metrics ng LLM calls.",,Helicone
+Cloze,"Ang {{c1::Arize AI}} ay isang platform para sa ML at LLM observability at evaluations.",,Arize AI
+Cloze,"Ang {{c1::traces}} sa mga platform na ito ay nagpapakita ng buong flow ng LLM call.",,traces
+Cloze,"Ang {{c1::spans}} ay ang mga individual na segments ng isang trace.",,spans
+Cloze,"Ang {{c1::evaluation types}} ay ang mga iba't ibang paraan ng pag-evaluate (offline vs online).",,evaluation types
+Cloze,"Ang {{c1::online evaluation}} ay ang pag-evaluate gamit ang live production data.",,online evaluation
+Cloze,"Ang {{c1::offline evaluation}} ay ang pag-evaluate gamit ang pre-collected dataset.",,offline evaluation

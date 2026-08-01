@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::LLM evaluations}} ay ang sistematikong pagsukat ng quality ng model outputs.",,LLM evaluations
+Cloze,"Ang {{c1::deterministic evals}} ay mga evaluations na may tiyak na tamang sagot (hal. exact match).",,deterministic evals
+Cloze,"Ang {{c1::model-based evals}} ay gumagamit ng isa pang LLM para i-judge ang output quality.",,model-based evals
+Cloze,"Ang {{c1::human evals}} ay ang pag-review ng mga tao sa quality ng model outputs.",,human evals
+Cloze,"Ang {{c1::evaluation metrics}} ay ang mga quantitative na sukat tulad ng accuracy at F1 score.",,evaluation metrics
+Cloze,"Ang {{c1::regression testing}} ay ang pag-check na hindi bumababa ang quality sa mga bagong update.",,regression testing
+Cloze,"Ang {{c1::eval set}} ay ang curated na set ng mga test cases para sa evaluation.",,eval set
+Cloze,"Ang {{c1::golden answers}} ay ang mga inaasahang tamang sagot sa eval set.",,golden answers
+Cloze,"Ang {{c1::LLM-as-judge}} ay ang pattern kung saan ang isang LLM ang nagre-rate ng output ng isa pang LLM.",,LLM-as-judge
