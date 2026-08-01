@@ -35,11 +35,11 @@
 
 ## Working with LLMs
 
-- [ ] **Phase 20** — Model selection: closed vs open source, self-hosted models, trade-offs
-- [ ] **Phase 21** — Local tooling: Ollama, LM Studio, Hugging Face Hub, Transformers.js
-- [ ] **Phase 22** — OpenAI APIs: Responses API, embeddings, SDKs
-- [ ] **Phase 23** — Other providers: Google Gemini API, Anthropic Messages API, OpenAI-compatible APIs
-- [ ] **Phase 24** — Platforms & ecosystem: Hugging Face Inference SDK, OpenRouter, Vertex AI Agent Builder
+- [x] **Phase 20** — Model selection: closed vs open source, self-hosted models, trade-offs
+- [x] **Phase 21** — Local tooling: Ollama, LM Studio, Hugging Face Hub, Transformers.js
+- [x] **Phase 22** — OpenAI APIs: Responses API, embeddings, SDKs
+- [x] **Phase 23** — Other providers: Google Gemini API, Anthropic Messages API, OpenAI-compatible APIs
+- [x] **Phase 24** — Platforms & ecosystem: Hugging Face Inference SDK, OpenRouter, Vertex AI Agent Builder
 
 ## Embeddings & Vector Databases
 
