@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::retrieval quality}} ay sumusukat kung gaano relevant ang mga na-retrieve na chunks.",,retrieval quality
+Cloze,"Ang {{c1::groundedness}} ay sumusukat kung ang sagot ay suportado ng retrieved context.",,groundedness
+Cloze,"Ang {{c1::RAGAS}} ay isang framework para mag-evaluate ng RAG systems.",,RAGAS
+Cloze,"Ang {{c1::DeepEval}} ay isang framework para sa LLM at RAG evaluation.",,DeepEval
+Cloze,"Ang {{c1::context precision}} ay sumusukat kung gaano ka-relevant ang retrieved context sa query.",,context precision
+Cloze,"Ang {{c1::faithfulness}} ay sumusukat kung ang sagot ay consistent sa retrieved documents.",,faithfulness
+Cloze,"Ang {{c1::answer relevance}} ay sumusukat kung ang sagot ay tumutugon sa tanong.",,answer relevance
+Cloze,"Ang {{c1::eval dataset}} ay ang set ng mga question-answer pairs na ginagamit sa evaluation.",,eval dataset
+Cloze,"Ang {{c1::golden documents}} ay ang mga expected na documents para sa bawat test query.",,golden documents

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang unang hakbang sa RAG pipeline ay ang {{c1::chunking}} ng documents sa mas maliliit na pieces.",,chunking
+Cloze,"Ang {{c1::embedding}} ay ang pag-convert ng bawat chunk sa vector representation.",,embedding
+Cloze,"Ang mga embeddings ay naka-store sa {{c1::vector database}} para sa retrieval.",,vector database
+Cloze,"Ang {{c1::retrieval}} ay ang pagkuha ng pinaka-relevant na chunks para sa query.",,retrieval
+Cloze,"Ang {{c1::generation}} ay ang paggawa ng LLM ng sagot gamit ang retrieved chunks.",,generation
+Cloze,"Ang {{c1::chunk size}} ay nakakaapekto sa quality ng retrieval.",,chunk size
+Cloze,"Ang {{c1::overlap}} sa pagitan ng chunks ay nakakatulong mapanatili ang context continuity.",,overlap
+Cloze,"Ang {{c1::query embedding}} ay ginagamit para maghanap ng similar chunks sa vector DB.",,query embedding
+Cloze,"Ang retrieved chunks ay naka-{{c1::insert}} sa prompt bilang context ng LLM.",,insert

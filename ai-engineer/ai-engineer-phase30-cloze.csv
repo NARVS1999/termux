@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::RAG}} (Retrieval-Augmented Generation) ay ang pag-combine ng retrieval ng documents sa generation ng sagot.",,RAG
+Cloze,"Ang RAG ay ginagamit para i-ground ang model sa {{c1::up-to-date}} o private na information.",,up-to-date
+Cloze,"Ang {{c1::RAG use cases}} ay kasama ang customer support, document Q&A, at knowledge assistants.",,RAG use cases
+Cloze,"Ang {{c1::fine-tuning}} ay nagba-bago sa model weights, samantalang ang RAG ay hindi.",,fine-tuning
+Cloze,"Ang RAG ay mas {{c1::mura}} at mas mabilis i-update kaysa sa fine-tuning.",,mura
+Cloze,"Ang RAG ay nakakatulong mabawasan ang {{c1::hallucination}} sa pamamagitan ng pagbibigay ng source context.",,hallucination
+Cloze,"Ang {{c1::retrieval}} ay ang hakbang na kumukuha ng relevant documents base sa query.",,retrieval
+Cloze,"Ang RAG ay angkop kapag mabilis na nagbabago ang {{c1::knowledge base}} ng app.",,knowledge base
+Cloze,"Ang {{c1::citations}} ay pwedeng i-provide ng RAG para mas credible ang sagot.",,citations

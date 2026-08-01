@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-evaluate ang RAG system?",,"Gumamit ng RAGAS o DeepEval na may eval dataset ng Q&A pairs."
+Application,"Paano i-measure ang faithfulness?",,"I-check kung ang bawat claim sa sagot ay nasa retrieved documents."
+Application,"Paano gumawa ng eval dataset?",,"Gumawa ng mga tanong na may inaasahang sagot at expected sources."
+Application,"Paano i-measure ang retrieval quality?",,"I-check kung ang golden documents ay kasama sa top-k retrieved results."
+Application,"Paano i-verify ang groundedness ng sagot?",,"I-compare ang sagot sa retrieved chunks para sa consistency."

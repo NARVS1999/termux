@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::external memory}} sa RAG ay ang paggamit ng storage sa labas ng model para sa knowledge.",,external memory
+Cloze,"Ang {{c1::dynamic filters}} ay ang pag-filter ng retrieval base sa runtime context o user preferences.",,dynamic filters
+Cloze,"Ang {{c1::context compaction}} ay ang pagbabawas ng context size para hindi ma-exceed ang token limit.",,context compaction
+Cloze,"Ang {{c1::context isolation}} ay ang paghihiwalay ng iba't ibang data sources o tenants.",,context isolation
+Cloze,"Ang {{c1::reranking}} ay ang pagre-rank ng retrieved chunks para mas accurate ang top results.",,reranking
+Cloze,"Ang {{c1::HyDE}} (Hypothetical Document Embeddings) ay ang pag-embed ng hypothetical answer para mas magandang retrieval.",,HyDE
+Cloze,"Ang {{c1::query expansion}} ay ang pagpapalawak ng query para mas maraming relevant documents.",,query expansion
+Cloze,"Ang {{c1::multi-stage retrieval}} ay ang paggamit ng ilang retrieval methods nang sunud-sunod.",,multi-stage retrieval
+Cloze,"Ang {{c1::metadata filtering}} ay ang pag-filter ng retrieval gamit ang metadata attributes.",,metadata filtering

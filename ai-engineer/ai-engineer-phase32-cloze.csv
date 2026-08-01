@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang pag-implement ng RAG ay pwedeng gawin gamit ang {{c1::SDKs}} nang direkta.",,SDKs
+Cloze,"Ang {{c1::LangChain}} ay isang framework na nagpapadali sa pagbuo ng RAG pipelines.",,LangChain
+Cloze,"Ang {{c1::LlamaIndex}} ay isang framework na naka-focus sa data ingestion at retrieval para sa RAG.",,LlamaIndex
+Cloze,"Ang pag-implement ng RAG nang manual ay nagbibigay ng {{c1::full control}} sa bawat hakbang.",,full control
+Cloze,"Ang paggamit ng framework ay nakakapag-{{c1::mapabilis}} ng development pero may learning curve.",,mapabilis
+Cloze,"Sa LangChain, ang {{c1::Document Loaders}} ay ginagamit para mag-load ng data mula sa sources.",,Document Loaders
+Cloze,"Sa LangChain, ang {{c1::Text Splitters}} ay ginagamit para i-chunk ang documents.",,Text Splitters
+Cloze,"Sa LlamaIndex, ang {{c1::VectorStoreIndex}} ay ang pangunahing structure para sa retrieval.",,VectorStoreIndex
+Cloze,"Ang {{c1::retriever}} ay ang component na kumukuha ng relevant documents sa query.",,retriever

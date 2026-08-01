@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng RAG gamit ang LangChain?",,"Gumamit ng Document Loader, Text Splitter, VectorStore, at RetrievalQA chain."
+Application,"Paano gumawa ng RAG gamit ang LlamaIndex?",,"VectorStoreIndex.from_documents(docs) pagkatapos index.as_query_engine().query('...')"
+Application,"Paano gumawa ng RAG nang walang framework?",,"Manual: chunk, embed, store, retrieve, at i-prompt ang LLM."
+Application,"Paano mag-load ng PDF sa LangChain?",,"Gamitin ang PyPDFLoader mula sa langchain_community.document_loaders."
+Application,"Paano mag-set up ng retriever sa LangChain?",,"Gamitin ang vectorstore.as_retriever() para makuha ang retriever object."

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-ground ang model sa sariling data?",,"Gamitin ang RAG: i-retrieve ang relevant documents at i-append sa prompt."
+Application,"Kailan gagamitin ang RAG vs fine-tuning?",,"RAG para sa dynamic na knowledge; fine-tuning para sa style at behavior."
+Application,"Paano bawasan ang hallucination sa answers?",,"Magdagdag ng retrieved context sa prompt at i-require na i-cite ang sources."
+Application,"Paano i-update ang knowledge ng app nang hindi nag-retrain?",,"I-update lang ang documents sa vector database."
+Application,"Paano gumawa ng document Q&A app?",,"Gamitin ang RAG pipeline: ingest documents, i-embed, i-retrieve, at i-generate."

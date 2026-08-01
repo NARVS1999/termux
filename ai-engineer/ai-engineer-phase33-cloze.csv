@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Haystack}} ay isang framework para mag-build ng production-ready RAG systems.",,Haystack
+Cloze,"Ang {{c1::RAGFlow}} ay isang open source platform para sa RAG na may visual workflow.",,RAGFlow
+Cloze,"Sa Haystack, ang mga components ay naka-connect sa pamamagitan ng {{c1::Pipelines}}.",,Pipelines
+Cloze,"Ang RAGFlow ay may suporta para sa {{c1::deep document understanding}} kabilang ang layout analysis.",,deep document understanding
+Cloze,"Sa Haystack, ang {{c1::DocumentStore}} ay kung saan naka-store ang documents.",,DocumentStore
+Cloze,"Ang {{c1::Retriever}} sa Haystack ay kumukuha ng documents mula sa DocumentStore.",,Retriever
+Cloze,"Ang {{c1::AnswerGenerator}} sa Haystack ay gumagawa ng sagot base sa retrieved docs.",,AnswerGenerator
+Cloze,"Ang RAGFlow ay madalas na ine-deploy gamit ang {{c1::Docker}}.",,Docker
+Cloze,"Ang pag-pick ng RAG framework ay depende sa {{c1::team skills}} at requirements ng project.",,team skills
