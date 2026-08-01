@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::two-sum}} ay problem na nag-f-find ng dalawang numbers na may sum equals target.",,two-sum
+Cloze,"Ang {{c1::complement}} ay value na kailangan i-add sa current para ma-reach ang target.",,complement
+Cloze,"Ang {{c1::pattern mapping}} ay technique na nag-m-maps ng elements base sa shared pattern.",,pattern mapping
+Cloze,"Sa HashMap, ang {{c1::lookup}} ay O(1) average time complexity.",,lookup
+Cloze,"Ang {{c1::grouping}} ay pag-c-collect ng elements na may same pattern.",,grouping
+Cloze,"Ang {{c1::subarray sum}} ay sum ng contiguous elements na naka-store sa HashMap.",,subarray sum
+Cloze,"Ang {{c1::running sum}} ay cumulative sum habang nag-i-iterate sa array.",,running sum
+Cloze,"Ang {{c1::prefix sum}} ay pre-computed sum na nag-e-enable ng O(1) range queries.",,prefix sum

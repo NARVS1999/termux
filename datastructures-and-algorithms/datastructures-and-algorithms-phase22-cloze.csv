@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::set}} ay collection na nag-i-store ng unique elements lang.",,set
+Cloze,"Ang {{c1::interval}} ay range na may start at end value.",,interval
+Cloze,"Ang {{c1::union}} ay operation na nag-c-combines ng dalawang sets.",,union
+Cloze,"Ang {{c1::intersection}} ay operation na nag-f-finds ng common elements.",,intersection
+Cloze,"Ang {{c1::interval merging}} ay process ng pag-c-combine ng overlapping intervals.",,interval merging
+Cloze,"Ang {{c1::HashSet}} ay Set implementation na nag-u-uses ng hash table.",,HashSet
+Cloze,"Ang {{c1::sorted set}} ay Set na naka-arrange sa ascending order.",,sorted set
+Cloze,"Ang {{c1::uniqueness}} ay property ng set na nag-p-prevents ng duplicates.",,uniqueness

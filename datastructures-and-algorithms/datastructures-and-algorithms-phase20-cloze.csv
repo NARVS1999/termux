@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::frequency counting}} ay technique na nag-c-counts ng occurrences ng elements.",,frequency counting
+Cloze,"Ang {{c1::count}} ay number of times na nag-a-appear ang element sa data.",,count
+Cloze,"Ang {{c1::mode}} ay element na may pinakamataas na frequency.",,mode
+Cloze,"Ang {{c1::anagram}} ay string na may same characters pero different order.",,anagram
+Cloze,"Ang {{c1::HashMap}} ay data structure na nag-i-stores ng key-value pairs sa O(1) access.",,HashMap
+Cloze,"Ang {{c1::Counter}} ay utility na nag-c-creates ng frequency map mula sa collection.",,Counter
+Cloze,"Sa frequency counting, ang {{c1::character frequency}} ay count ng bawat character sa string.",,character frequency
+Cloze,"Ang {{c1::grouping}} ay process ng pag-c-collect ng elements base sa common property.",,grouping

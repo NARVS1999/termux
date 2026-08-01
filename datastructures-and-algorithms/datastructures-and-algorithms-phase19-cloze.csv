@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::hash function}} ay function na nag-c-convert ng key sa index sa hash table.",,hash function
+Cloze,"Ang {{c1::collision}} ay situation kung saan dalawang keys ay nag-m-map sa same index.",,collision
+Cloze,"Ang {{c1::load factor}} ay ratio ng total entries sa capacity ng hash table.",,load factor
+Cloze,"Ang {{c1::chaining}} ay collision resolution na nag-l-links ng entries sa same bucket.",,chaining
+Cloze,"Ang {{c1::open addressing}} ay collision resolution na nag-s-search ng empty slot.",,open addressing
+Cloze,"Ang {{c1::bucket}} ay slot sa hash table na nag-c-contains ng entries.",,bucket
+Cloze,"Ang {{c1::hash code}} ay integer na nag-r-represent ng hashed key value.",,hash code
+Cloze,"Ang {{c1::resizing}} ay process ng pag-l-laki ng hash table kapag puno na.",,resizing

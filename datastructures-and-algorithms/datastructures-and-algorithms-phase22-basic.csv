@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-merge ng intervals?","I-sort tapos i-check kung overlapping ang adjacent intervals.","intervals.sortBy { it.start }; for i in 1..n: if (intervals[i].start <= intervals[i-1].end)"
+Application,"Paano mag-check ng duplicate?","Gamitin ang HashSet.","val seen = HashSet<T>(); for (item in list) if (!seen.add(item)) return true"
+Application,"Paano mag-combine ng two sets?","Gamitin ang union operation.","val union = set1.union(set2)"
+Application,"Paano mag-find ng common elements?","Gamitin ang intersection.","val common = set1.intersect(set2)"
+Application,"Paano mag-solve ng missing number?","Gamitin ang set difference.","val full = (0..n).toSet(); val missing = full - actualSet"
