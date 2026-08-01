@@ -12,12 +12,12 @@
 
 ## Android Fundamentals
 
-- [ ] **Phase 6** — Project structure: Gradle, manifest, SDK levels, build variants
-- [ ] **Phase 7** — Activities & lifecycle: states, config changes, saved state
-- [ ] **Phase 8** — Intents: explicit vs implicit, intent filters, deep links
-- [ ] **Phase 9** — Fragments & navigation: fragment lifecycle, back stack, NavController
-- [ ] **Phase 10** — RecyclerView: adapters, ViewHolders, diffing, list rendering
-- [ ] **Phase 11** — App resources: strings, drawables, themes, localization, configurations
+- [x] **Phase 6** — Project structure: Gradle, manifest, SDK levels, build variants
+- [x] **Phase 7** — Activities & lifecycle: states, config changes, saved state
+- [x] **Phase 8** — Intents: explicit vs implicit, intent filters, deep links
+- [x] **Phase 9** — Fragments & navigation: fragment lifecycle, back stack, NavController
+- [x] **Phase 10** — RecyclerView: adapters, ViewHolders, diffing, list rendering
+- [x] **Phase 11** — App resources: strings, drawables, themes, localization, configurations
 
 ## UI Development
 
