@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Room}} ay persistence library ng Android na nag-a-add ng abstraction layer sa SQLite database.",,Room
+Cloze,"Ang {{c1::@Entity}} annotation ay nag-m-mark ng data class na nagre-represent ng database table.",,@Entity
+Cloze,"Ang {{c1::@Dao}} annotation ay nag-m-mark ng interface na nag-d-defines ng database operations.",,@Dao
+Cloze,"Ang {{c1::@Database}} annotation ay nag-c-creates ng Room database na may version management.",,@Database
+Cloze,"Sa Room, ang {{c1::@Query}} annotation ay ginagamit para mag-define ng custom SQL queries.",,@Query
+Cloze,"Ang {{c1::@Insert}} annotation ay ginagamit para mag-insert ng data sa database.",,@Insert
+Cloze,"Ang {{c1::@Update}} annotation ay ginagamit para mag-update ng existing records sa database.",,@Update
+Cloze,"Ang {{c1::@Delete}} annotation ay ginagamit para mag-remove ng records sa database.",,@Delete
+Cloze,"Ang {{c1::migration}} ay class na nag-a-adjust ng database schema sa newer version.",,migration

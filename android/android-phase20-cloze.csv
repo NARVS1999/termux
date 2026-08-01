@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::SQLite}} ay lightweight relational database na built-in sa Android.",,SQLite
+Cloze,"Sa SQLite, ang {{c1::query}} ay SQL statement na nag-r-retrieves ng data mula sa tables.",,query
+Cloze,"Ang {{c1::relations}} sa SQLite ay nag-c-connect ng tables gamit ang foreign keys.",,relations
+Cloze,"Ang {{c1::indices}} ay database optimization na nag-f-fastens ng query execution sa columns.",,indices
+Cloze,"Ang {{c1::SQLiteOpenHelper}} ay class na nag-m-manages ng database creation at version upgrades.",,SQLiteOpenHelper
+Cloze,"Sa SQLite, ang {{c1::WHERE}} clause ay ginagamit para mag-filter ng rows base sa condition.",,WHERE
+Cloze,"Ang {{c1::JOIN}} ay SQL operation na nag-c-combines ng data mula sa multiple tables.",,JOIN
+Cloze,"Ang {{c1::cursor}} ay object na nag-i-iterate ng query results row by row.",,cursor

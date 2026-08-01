@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-schedule ng background task?","Gamitin ang WorkManager at OneTimeWorkRequest.","val work = OneTimeWorkRequestBuilder<MyWorker>().build(); WorkManager.getInstance(ctx).enqueue(work)"
+Application,"Paano mag-add ng constraints sa task?","Gamitin ang setConstraints sa WorkRequest.Builder.","val constraints = Constraints.Builder().setRequiredNetworkType(NetworkType.CONNECTED).build()"
+Application,"Paano mag-chain ng multiple tasks?","Gamitin ang beginWith at then methods.","WorkManager.getInstance(ctx).beginWith(task1).then(task2).then(task3).enqueue()"
+Application,"Paano mag-schedule ng periodic task?","Gamitin ang PeriodicWorkRequestBuilder na may interval.","PeriodicWorkRequestBuilder<SyncWorker>(1, TimeUnit.HOURS).build()"
+Application,"Paano mag-check ng task status?","I-observe ang WorkInfo mula sa WorkManager.","WorkManager.getInstance(ctx).getWorkInfoByIdLiveData(work.id)"

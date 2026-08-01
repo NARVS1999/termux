@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::WorkManager}} ay Jetpack library na nag-g-guarantee ng background task execution.",,WorkManager
+Cloze,"Ang {{c1::Worker}} ay class na nag-i-implement ng background task logic sa WorkManager.",,Worker
+Cloze,"Sa WorkManager, ang {{c1::constraints}} ay conditions na kailangan i-meet bago mag-execute ang task.",,constraints
+Cloze,"Ang {{c1::OneTimeWorkRequest}} ay request na nag-e-execute ng task isang beses lang.",,OneTimeWorkRequest
+Cloze,"Ang {{c1::PeriodicWorkRequest}} ay request na nag-e-repeats ng task sa regular intervals.",,PeriodicWorkRequest
+Cloze,"Ang {{c1::chaining}} ay pattern na nag-o-order ng multiple tasks na mag-s-start sa pagkakasunod-sunod.",,chaining
+Cloze,"Sa WorkManager, ang {{c1::WorkRequest.Builder}} ay factory para mag-c-create ng work requests.",,WorkRequest.Builder
+Cloze,"Ang {{c1::enqueue}} method ay nag-a-add ng work request sa WorkManager queue.",,enqueue
+Cloze,"Ang {{c1::backoff policy}} ay retry strategy na nag-d-determines ng delay bago mag-retry ang failed task.",,backoff policy

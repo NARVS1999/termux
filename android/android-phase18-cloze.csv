@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::SharedPreferences}} ay Android API na nag-i-store ng simple key-value pairs na persistent.",,SharedPreferences
+Cloze,"Ang {{c1::DataStore}} ay modern replacement sa SharedPreferences na may type-safe at async support.",,DataStore
+Cloze,"Sa Android, ang {{c1::preferencesDataStore}} delegate ay ginagamit para mag-create ng DataStore instance.",,preferencesDataStore
+Cloze,"Ang {{c1::edit}} function sa SharedPreferences ay ginagamit para mag-update ng values atomically.",,edit
+Cloze,"Ang {{c1::apply()}} method ay nag-s-stores ng SharedPreferences values nang hindi nag-w-wait sa completion.",,apply
+Cloze,"Ang {{c1::commit()}} method ay nag-s-stores ng SharedPreferences values at nag-b-balik ng success indicator.",,commit
+Cloze,"Ang {{c1::EncryptedSharedPreferences}} ay security wrapper na nag-e-encrypt ng SharedPreferences data.",,EncryptedSharedPreferences
+Cloze,"Sa DataStore, ang {{c1::data store preferences}} ay typed keys na nag-p-prevent ng runtime type errors.",,data store preferences
+Cloze,"Ang {{c1::settings pattern}} ay design approach para sa pag-m-manage ng user preferences sa app.",,settings pattern

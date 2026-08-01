@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::internal storage}} ay private directory na accessible lang ng app na nag-owns nito.",,internal storage
+Cloze,"Ang {{c1::external storage}} ay shared storage na pwedeng i-access ng multiple apps.",,external storage
+Cloze,"Ang {{c1::scoped storage}} ay Android 10+ feature na nag-l-limits ng app access sa own files.",,scoped storage
+Cloze,"Ang {{c1::cacheDir}} ay directory para sa temporary files na pwedeng i-delete ng system.",,cacheDir
+Cloze,"Ang {{c1::filesDir}} ay internal directory na persistent para sa app-specific files.",,filesDir
+Cloze,"Ang {{c1::MediaStore}} ay content provider na nag-m-manages ng media files sa shared storage.",,MediaStore
+Cloze,"Sa Android, ang {{c1::openFileOutput}} method ay ginagamit para mag-write ng file sa internal storage.",,openFileOutput
+Cloze,"Ang {{c1::getExternalFilesDir}} method ay nag-b-balik ng app-specific directory sa external storage.",,getExternalFilesDir

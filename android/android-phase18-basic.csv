@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-save ng value sa SharedPreferences?","I-get ang editor at i-apply ang change.","sharedPreferences.edit().putString(\"key\", \"value\").apply()"
+Application,"Paano mag-read ng SharedPreferences value?","Gamitin ang getString() na may default value.","sharedPreferences.getString(\"key\", \"default\")"
+Application,"Paano mag-create ng DataStore?","I-define ang preferences key at i-create ang DataStore instance.","val Context.settingsDataStore by preferencesDataStore(name = \"settings\")"
+Application,"Paano mag-save ng value sa DataStore?","Gamitin ang edit function na may suspend.","context.settingsDataStore.edit { it[stringPreferencesKey(\"theme\")] = \"dark\" }"
+Application,"Paano mag-read ng DataStore value?","I-collect ang data flow mula sa DataStore.","context.settingsDataStore.data.map { it[stringPreferencesKey(\"theme\")] }"
