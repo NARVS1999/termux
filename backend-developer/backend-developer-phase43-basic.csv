@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-convert ang text sa numerical form para sa search?",,"Gamitin ang embedding model para i-convert ang text sa vectors."
+Application,"Paano mag-search ng documents na may parehong meaning?",,"Gamitin ang vector similarity search sa vector store."
+Application,"Paano malaman kung magkasya ang prompt sa model?",,"I-check ang token count laban sa context window ng model."
+Application,"Paano mag-generate ng output mula sa LLM?",,"Magpadala ng request sa LLM API na may prompt at i-receive ang response."
+Application,"Paano i-store at i-query ang embeddings?",,"I-save sa vector store at gumamit ng cosine similarity para sa search."

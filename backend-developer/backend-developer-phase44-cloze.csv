@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::RAG}} ay ang retrieval-augmented generation na nag-a-connect ng LLM sa external knowledge.",,RAG
+Cloze,"Ang {{c1::agents}} ay ang AI systems na nagpa-plano at gumagamit ng tools para tapusin ang tasks.",,agents
+Cloze,"Ang {{c1::function calling}} ay ang kakayahan ng LLM na tumawag ng mga tools o functions.",,function calling
+Cloze,"Ang {{c1::structured outputs}} ay ang pag-generate ng LLM output sa isang fixed format.",,structured outputs
+Cloze,"Ang {{c1::knowledge base}} ay ang source ng data na kinukuha sa RAG pipeline.",,knowledge base
+Cloze,"Ang {{c1::embedding search}} ay ang paghahanap gamit ang semantic similarity ng vectors.",,embedding search
+Cloze,"Ang {{c1::tool}} ay ang external function na ginagamit ng agent para sa specific na task.",,tool
+Cloze,"Ang {{c1::chain}} ay ang sequence ng LLM calls o processing steps.",,chain
+Cloze,"Ang {{c1::grounding}} ay ang pag-connect ng LLM output sa verified na data.",,grounding

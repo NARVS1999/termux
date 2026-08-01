@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::AI-assisted workflow}} ay ang development process na may AI integration sa mga steps.",,AI-assisted workflow
+Cloze,"Ang {{c1::evaluation}} ay ang pagsukat ng quality ng LLM output.",,evaluation
+Cloze,"Ang {{c1::hallucination}} ay ang pag-generate ng LLM ng maling impormasyon.",,hallucination
+Cloze,"Ang {{c1::human review}} ay ang pag-review ng tao sa AI-generated output.",,human review
+Cloze,"Ang {{c1::loadshifting}} ay ang paglipat ng workload mula sa developer papunta sa AI.",,loadshifting
+Cloze,"Ang {{c1::quality gate}} ay ang checkpoint na pumipigil sa low-quality AI output.",,quality gate
+Cloze,"Ang {{c1::feedback loop}} ay ang cycle ng pag-improve ng AI output base sa results.",,feedback loop
+Cloze,"Ang {{c1::guardrails}} ay ang mga constraints na pumipigil sa harmful na AI output.",,guardrails
+Cloze,"Ang {{c1::LLM observability}} ay ang pag-track ng LLM calls, costs, at output quality.",,LLM observability

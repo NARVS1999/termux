@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::OpenAI API}} ay ang cloud API para sa GPT models.",,OpenAI API
+Cloze,"Ang {{c1::Anthropic}} ay ang provider ng Claude family ng models.",,Anthropic
+Cloze,"Ang {{c1::Gemini}} ay ang model family ng Google para sa AI applications.",,Gemini
+Cloze,"Ang {{c1::prompting}} ay ang paggawa ng instructions para i-guide ang LLM.",,prompting
+Cloze,"Ang {{c1::system prompt}} ay ang instruction na nag-set ng behavior ng model.",,system prompt
+Cloze,"Ang {{c1::few-shot prompting}} ay ang pagbibigay ng examples sa prompt para i-guide ang model.",,few-shot prompting
+Cloze,"Ang {{c1::chain-of-thought}} ay ang prompting technique na nagpapaisip ng step by step.",,chain-of-thought
+Cloze,"Ang {{c1::MCP}} ay ang Model Context Protocol para sa standardized tool integration.",,MCP
+Cloze,"Ang {{c1::temperature}} ay ang parameter na kumokontrol sa randomness ng output.",,temperature
+Cloze,"Ang {{c1::token limit}} ay ang maximum na output tokens ng isang LLM request.",,token limit

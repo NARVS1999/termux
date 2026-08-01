@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::GitHub Copilot}} ay ang AI pair programmer na naka-integrate sa editor.",,GitHub Copilot
+Cloze,"Ang {{c1::Claude Code}} ay ang AI coding agent ng Anthropic para sa terminal.",,Claude Code
+Cloze,"Ang {{c1::Cursor}} ay ang AI-powered code editor na may built-in na AI features.",,Cursor
+Cloze,"Ang {{c1::code completion}} ay ang auto-suggest ng code habang nagta-type ang developer.",,code completion
+Cloze,"Ang {{c1::code review agent}} ay ang AI na nagre-review ng code para sa mga issues.",,code review agent
+Cloze,"Ang {{c1::prompt engineering}} ay ang paggawa ng effective na prompts para sa AI tools.",,prompt engineering
+Cloze,"Ang {{c1::AI pair programming}} ay ang pag-collaborate ng developer at AI sa pag-code.",,AI pair programming
+Cloze,"Ang {{c1::context window}} ay ang dami ng code na kayang i-hold ng AI sa isang session.",,context window
+Cloze,"Ang {{c1::AI-generated code}} ay ang code na ginawa ng AI model.",,AI-generated code

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano maiwasan ang pag-deploy ng AI-generated na buggy code?",,"Mag-set ng quality gate: i-run ang tests at code review bago i-merge."
+Application,"Paano malaman kung tama ang LLM answer?",,"Gamitin ang evaluation: i-compare ang output sa expected answers."
+Application,"Paano pigilan ang AI na gumawa ng harmful content?",,"Mag-implement ng guardrails at output filtering."
+Application,"Paano i-monitor ang AI costs sa production?",,"Gumamit ng LLM observability na nagta-track ng token usage at costs."
+Application,"Paano mapabuti ang AI output sa paglipas ng panahon?",,"Mag-build ng feedback loop na nag-aadjust ng prompts base sa results."

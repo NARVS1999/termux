@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::LLM}} ay ang language model na sinanay sa napakalaking text data.",,LLM
+Cloze,"Ang {{c1::token}} ay ang unit ng text na pinaghiwa-hiwalay para i-process ng LLM.",,token
+Cloze,"Ang {{c1::embedding}} ay ang numerical representation ng text na kumukuha ng meaning.",,embedding
+Cloze,"Ang {{c1::vector}} ay ang array ng numbers na kumakatawan sa meaning ng data.",,vector
+Cloze,"Ang {{c1::vector store}} ay ang database na nag-iimbak ng embeddings para sa similarity search.",,vector store
+Cloze,"Ang {{c1::model weights}} ay ang learned parameters ng isang model.",,model weights
+Cloze,"Ang {{c1::inference}} ay ang pag-generate ng output mula sa trained model.",,inference
+Cloze,"Ang {{c1::training}} ay ang proseso ng pag-aadjust ng weights para matuto ang model.",,training
+Cloze,"Ang {{c1::context window}} ay ang maximum tokens na kayang i-process ng model sa isang request.",,context window
+Cloze,"Ang {{c1::tokenizer}} ay ang tool na naghahati ng text sa mga tokens.",,tokenizer

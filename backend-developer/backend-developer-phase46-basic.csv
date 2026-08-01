@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-speed up ng coding gamit ang AI?",,"Gumamit ng AI coding tool tulad ng Copilot o Claude Code para sa autocomplete at refactors."
+Application,"Paano mag-review ng code gamit ang AI?",,"Gamitin ang code review agent para maghanap ng bugs at improvements."
+Application,"Paano mag-refactor ng malaking function gamit ang AI?",,"I-paste ang function sa AI tool na may malinaw na instruction para i-refactor."
+Application,"Paano mag-generate ng boilerplate code?",,"Gumamit ng AI assistant na may prompt na naglalarawan ng kailangang code."
+Application,"Paano mag-debug gamit ang AI?",,"Ibigay ang error message at code context sa AI para mag-suggest ng fix."

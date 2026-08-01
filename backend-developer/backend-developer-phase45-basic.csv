@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-call ng LLM API sa backend?",,"Mag-send ng POST request sa LLM API na may messages at i-parse ang response."
+Application,"Paano i-control ang creativity ng LLM output?",,"I-adjust ang temperature parameter: mas mababa ay mas deterministic."
+Application,"Paano mag-set ng role ng assistant sa LLM?",,"Gamitin ang system prompt para i-define ang behavior at constraints."
+Application,"Paano magbigay ng context sa LLM bago ang task?",,"Isama ang relevant na instructions at examples sa prompt."
+Application,"Paano i-integrate ang tool access sa LLM?",,"Gamitin ang function calling o MCP para i-expose ang tools sa model."
