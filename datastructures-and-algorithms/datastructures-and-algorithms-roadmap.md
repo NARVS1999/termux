@@ -59,11 +59,11 @@
 
 ## Sorting & Searching
 
-- [ ] **Phase 35** — Comparison sorts: bubble, selection, insertion
-- [ ] **Phase 36** — Divide & conquer: mergesort, quicksort, stability
-- [ ] **Phase 37** — Binary search: variants, bounds, rotated arrays
-- [ ] **Phase 38** — Selection algorithms: quickselect, medians, k-th
-- [ ] **Phase 39** — Non-comparison sorts: counting, radix, use cases
+- [x] **Phase 35** — Comparison sorts: bubble, selection, insertion
+- [x] **Phase 36** — Divide & conquer: mergesort, quicksort, stability
+- [x] **Phase 37** — Binary search: variants, bounds, rotated arrays
+- [x] **Phase 38** — Selection algorithms: quickselect, medians, k-th
+- [x] **Phase 39** — Non-comparison sorts: counting, radix, use cases
 
 ## Dynamic Programming
 
