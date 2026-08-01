@@ -67,9 +67,9 @@
 
 ## Security & Best Practices
 
-- [ ] **Phase 40** — Secure storage: Keystore, EncryptedSharedPreferences, biometrics
-- [ ] **Phase 41** — Networking security: HTTPS, certificate pinning, cleartext policy
-- [ ] **Phase 42** — Permissions: runtime permissions, scoped models, rationale flows
+- [x] **Phase 40** — Secure storage: Keystore, EncryptedSharedPreferences, biometrics
+- [x] **Phase 41** — Networking security: HTTPS, certificate pinning, cleartext policy
+- [x] **Phase 42** — Permissions: runtime permissions, scoped models, rationale flows
 
 ## Publishing & App Store
 
