@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Git}} ay ang distributed version control system na nagta-track ng changes sa code.",,Git
+Cloze,"Ang {{c1::commit}} ay ang snapshot ng mga changes sa repository sa isang punto ng panahon.",,commit
+Cloze,"Ang {{c1::branch}} ay ang independent na linya ng development sa loob ng repository.",,branch
+Cloze,"Ang {{c1::repository}} ay ang folder na may kasamang history ng lahat ng changes ng project.",,repository
+Cloze,"Ang {{c1::merge}} ay ang proseso ng pagsasama ng mga changes mula sa isang branch papunta sa iba.",,merge
+Cloze,"Ang {{c1::GitHub}} ay ang cloud-based repo hosting service na may collaboration features.",,GitHub
+Cloze,"Ang {{c1::GitLab}} ay ang repo hosting service na may built-in na CI/CD pipelines.",,GitLab
+Cloze,"Ang {{c1::pull request}} ay ang proposal para i-merge ang changes mula sa isang branch papunta sa main.",,pull request
+Cloze,"Ang {{c1::clone}} ay ang command para kopyahin ang repository sa local machine.",,clone

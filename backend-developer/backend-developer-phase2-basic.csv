@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-send ng data mula sa client papunta sa server?",,"Gamitin ang POST method: ilagay ang data sa request body."
+Application,"Paano malaman kung success o failed ang HTTP request?",,"Tingnan ang status code: 200 para sa success, 4xx para sa client errors, 5xx para sa server errors."
+Application,"Paano mag-identify ng user sa susunod na request?",,"Mag-send ng cookie na naglalaman ng session ID na ini-store ng browser."
+Application,"Paano i-secure ang communication sa pagitan ng client at server?",,"Gamitin ang HTTPS na nag-e-encrypt ng data gamit ang TLS."
+Application,"Paano mag-request ng data mula sa server?",,"Gumawa ng GET request: GET /api/users HTTP/1.1."

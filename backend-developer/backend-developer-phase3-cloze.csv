@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::HTML}} ay ang markup language na nag-i-structure ng content ng isang web page.",,HTML
+Cloze,"Ang {{c1::CSS}} ay ang language na kumukontrol sa presentation at styling ng web page.",,CSS
+Cloze,"Ang {{c1::JavaScript}} ay ang programming language na nagpapa-dynamic ng web page sa browser.",,JavaScript
+Cloze,"Ang {{c1::DOM}} ay ang tree structure ng HTML elements na in-manipulate ng JavaScript.",,DOM
+Cloze,"Ang {{c1::tags}} ay ang building blocks ng HTML tulad ng div, p, at h1.",,tags
+Cloze,"Ang {{c1::attributes}} ay ang additional properties ng HTML elements tulad ng class at id.",,attributes
+Cloze,"Ang {{c1::selectors}} ay ang patterns sa CSS na nagta-target ng mga elements para i-style.",,selectors
+Cloze,"Ang {{c1::event listeners}} ay ang JavaScript code na tumutugon sa user interactions tulad ng clicks.",,event listeners
+Cloze,"Ang {{c1::fetch API}} ay ang browser feature para gumawa ng HTTP requests mula sa JavaScript.",,fetch API

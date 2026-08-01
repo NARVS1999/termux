@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::HTTP}} ay ang protocol na ginagamit para sa communication sa pagitan ng client at web server.",,HTTP
+Cloze,"Ang {{c1::HTTP methods}} ay ang mga action na ginagawa ng client sa server tulad ng GET, POST, PUT, at DELETE.",,HTTP methods
+Cloze,"Ang {{c1::status codes}} ay ang tatlong-digit na response mula sa server na nagpapakita ng resulta ng request.",,status codes
+Cloze,"Ang {{c1::headers}} ay ang key-value pairs na nagdadala ng metadata ng HTTP request o response.",,headers
+Cloze,"Ang {{c1::cookies}} ay ang maliliit na data na ini-store sa browser para maalala ang user sessions.",,cookies
+Cloze,"Ang {{c1::HTTPS}} ay ang secure na bersyon ng HTTP na gumagamit ng encryption.",,HTTPS
+Cloze,"Ang {{c1::GET request}} ay ang HTTP method na kumukuha ng data mula sa server nang walang side effects.",,GET request
+Cloze,"Ang {{c1::POST request}} ay ang HTTP method na nagpapadala ng data sa server para gumawa ng bagong resource.",,POST request
+Cloze,"Ang {{c1::200 OK}} ay ang status code na nangangahulugang success ang request.",,200 OK
+Cloze,"Ang {{c1::404 Not Found}} ay ang status code na nangangahulugang hindi mahanap ang resource.",,404 Not Found

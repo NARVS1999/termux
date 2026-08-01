@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::internet}} ay ang global network ng mga interconnected computers na gumagamit ng standardized protocols para mag-share ng impormasyon.",,internet
+Cloze,"Ang {{c1::IP address}} ay ang unique numerical identifier ng bawat device na konektado sa network.",,IP address
+Cloze,"Ang {{c1::packet}} ay ang unit ng data na ipinapadala sa network mula sa source papunta sa destination.",,packet
+Cloze,"Ang {{c1::client}} ay ang device na humihingi ng data o serbisyo mula sa isang server.",,client
+Cloze,"Ang {{c1::server}} ay ang computer na nag-proprovide ng data o serbisyo sa ibang mga clients.",,server
+Cloze,"Ang {{c1::DNS}} ay ang system na nagta-translate ng domain names papunta sa IP addresses.",,DNS
+Cloze,"Ang {{c1::domain name}} ay ang human-readable address na inu-map sa IP address ng server.",,domain name
+Cloze,"Ang {{c1::hosting}} ay ang serbisyo na nagpapa-renta ng server space para i-host ang website.",,hosting
+Cloze,"Ang {{c1::DNS resolution}} ay ang proseso ng pag-convert ng domain name papunta sa IP address.",,DNS resolution
+Cloze,"Ang {{c1::protocol}} ay ang set ng rules na namamahala kung paano nag-uusap ang mga device sa network.",,protocol

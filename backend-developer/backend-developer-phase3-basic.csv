@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-style ang lahat ng p elements?",,"Gamitin ang CSS: p { color: red; } para i-target ang lahat ng paragraph elements."
+Application,"Paano mag-handle ng button click sa JavaScript?",,"Magdagdag ng event listener: button.addEventListener('click', handler);"
+Application,"Paano mag-send ng HTTP request mula sa browser?",,"Gamitin ang fetch API: fetch('/api/users').then(r => r.json());"
+Application,"Paano i-select ang element na may id na header sa CSS?",,"Gamitin ang id selector: #header { font-weight: bold; }"
+Application,"Paano mag-insert ng dynamic content sa web page?",,"Gamitin ang DOM: document.getElementById('app').innerHTML = content;"

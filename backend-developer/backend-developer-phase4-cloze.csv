@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::web server}} ay ang software na humahawak ng HTTP requests at nagse-serve ng web content.",,web server
+Cloze,"Ang {{c1::Nginx}} ay ang high-performance web server na kilala sa handling ng maraming concurrent connections.",,Nginx
+Cloze,"Ang {{c1::Apache}} ay ang web server na gumagamit ng .htaccess files para sa per-directory configuration.",,Apache
+Cloze,"Ang {{c1::Caddy}} ay ang web server na may automatic HTTPS gamit ang Let's Encrypt.",,Caddy
+Cloze,"Ang {{c1::MS IIS}} ay ang web server ng Microsoft na tumatakbo sa Windows.",,MS IIS
+Cloze,"Ang {{c1::reverse proxy}} ay ang server na nagfo-forward ng client requests papunta sa backend servers.",,reverse proxy
+Cloze,"Ang {{c1::virtual hosts}} ay ang configuration na nagpapahintulot ng maraming websites sa iisang server.",,virtual hosts
+Cloze,"Ang {{c1::static files}} ay ang mga direktang files tulad ng HTML, CSS, at images na siniserve ng web server.",,static files
+Cloze,"Ang {{c1::load balancing}} ay ang pagdi-distribute ng traffic sa maraming servers para maiwasan ang overload.",,load balancing

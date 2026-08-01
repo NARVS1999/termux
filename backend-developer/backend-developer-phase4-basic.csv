@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-serve ang static website gamit ang Nginx?",,"I-configure ang server block: root /var/www/html; at i-restart ang Nginx."
+Application,"Paano mag-enable ng HTTPS sa Caddy?",,"Automatic ito: basta ilagay ang domain name sa Caddyfile."
+Application,"Paano mag-host ng dalawang websites sa iisang server?",,"Gumawa ng virtual hosts o server blocks para sa bawat domain."
+Application,"Paano mag-proxy ng requests papunta sa backend app?",,"I-configure ang reverse proxy: location / { proxy_pass http://localhost:3000; }"
+Application,"Paano i-restart ang Nginx pagkatapos ng config change?",,"Gamitin ang command: sudo nginx -s reload."

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-resolve ng domain name papunta sa IP address?",,"Gamitin ang DNS: mag-query sa DNS server para makuha ang IP address ng domain."
+Application,"Paano mag-communicate ang client at server sa internet?",,"Nagpapadala ang client ng request sa server at nagre-respond ang server ng response gamit ang protocols."
+Application,"Paano i-access ang website gamit ang domain name?",,"Mag-type ng domain name sa browser at hahanapin ng DNS ang kanyang IP address."
+Application,"Paano i-host ang isang website para makita sa internet?",,"Mag-rent ng hosting plan at i-upload ang website files sa server."
+Application,"Paano malaman ang IP address ng isang website?",,"Gamitin ang command: nslookup example.com o dig example.com."
