@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Activity}} ay component na nagre-represent ng single screen sa Android app.",,Activity
+Cloze,"Ang {{c1::onCreate}} method ay tinatawag pagkatapos i-create ng system ang Activity.",,onCreate
+Cloze,"Ang {{c1::onResume}} method ay tinatawag kapag ang Activity ay nasa foreground at pwedeng mag-interact.",,onResume
+Cloze,"Ang {{c1::onPause}} method ay tinatawag kapag ang Activity ay partly visible pero hindi na interactive.",,onPause
+Cloze,"Ang {{c1::onDestroy}} method ay tinatawag bago i-destroy ng system ang Activity.",,onDestroy
+Cloze,"Ang {{c1::configuration changes}} ay mga pagbabago sa device orientation o locale na nag-ca-c-calls ng lifecycle.",,configuration changes
+Cloze,"Sa Android, ang {{c1::saved instance state}} ay mechanism para i-preserve ang UI state sa configuration changes.",,saved instance state
+Cloze,"Ang {{c1::ViewModel}} ay ginagamit para mag-store ng UI-related data na nag-sa-survive sa configuration changes.",,ViewModel
+Cloze,"Ang {{c1::onSaveInstanceState}} method ay tinatawag para i-save ang transient UI state bago mag-destroy.",,onSaveInstanceState

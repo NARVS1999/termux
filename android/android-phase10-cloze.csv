@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::RecyclerView}} ay efficient ViewGroup na nag-d display ng scrollable list of items.",,RecyclerView
+Cloze,"Ang {{c1::adapter}} ay component na nag-b-bridge sa data at RecyclerView para mag-render ng items.",,adapter
+Cloze,"Ang {{c1::ViewHolder}} ay object na nag-h-holds ng views para sa bawat item sa list para sa recycling.",,ViewHolder
+Cloze,"Sa Android, ang {{c1::DiffUtil}} ay algorithm na nag-c-compute ng minimal changes sa list para efficient updates.",,DiffUtil
+Cloze,"Ang {{c1::LayoutManager}} ay nag-d determine kung paano i-arrange ang items: linear, grid, o staggered.",,LayoutManager
+Cloze,"Ang {{c1::ListAdapter}} ay RecyclerView.Adapter na may built-in DiffUtil support para sa efficient list updates.",,ListAdapter
+Cloze,"Ang {{c1::onBindViewHolder}} method ay tinatawag para mag-populate ng data sa views ng ViewHolder.",,onBindViewHolder
+Cloze,"Ang {{c1::item decoration}} ay RecyclerView.ItemDecoration na nag-a-add ng dividers o spacing sa items.",,item decoration

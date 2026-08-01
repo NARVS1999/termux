@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-add ng dependency sa Gradle?","Gamitin ang implementation keyword sa build.gradle.","implementation 'com.squareup.okhttp3:okhttp:4.12.0'"
+Application,"Paano mag-set ng minimum SDK version?","I-set ang minSdkVersion sa build.gradle.","minSdk = 24"
+Application,"Paano mag-d declare ng activity sa manifest?","Mag-add ng activity tag sa AndroidManifest.xml.","<activity android:name='.MainActivity' />"
+Application,"Paano mag-create ng build variant?","I-combine ang build type at product flavor sa build.gradle.","productFlavors { demo {} full {} }"
+Application,"Paano mag-enable ng view binding?","I-set ang buildFeatures sa build.gradle.","buildFeatures { viewBinding = true }"

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::explicit intent}} ay intent na nag-ta-target ng specific na component sa loob ng app.",,explicit intent
+Cloze,"Ang {{c1::implicit intent}} ay intent na nag-a-request ng action mula sa system na walang specific target.",,implicit intent
+Cloze,"Ang {{c1::intent filters}} ay declaration sa manifest na nag-s-specify ng actions na pwedeng tanggapin ng component.",,intent filters
+Cloze,"Ang {{c1::deep link}} ay URI na nag-na-navigate sa specific screen sa app mula sa external source.",,deep link
+Cloze,"Sa Android, ang {{c1::PendingIntent}} ay wrapper na nagbibigay ng permission sa ibang app para mag-execute ng action.",,PendingIntent
+Cloze,"Ang {{c1::Bundle}} ay container na nag-i-store ng data na ipi-pass sa pagitan ng components via intents.",,Bundle
+Cloze,"Ang {{c1::setData}} method ay ginagamit para mag-set ng URI data sa implicit intent.",,setData
+Cloze,"Ang {{c1::action}} sa intent ay string na nag-s-specify ng generic na operation na gagawin.",,action

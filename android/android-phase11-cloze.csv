@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::strings.xml}} ay resource file na nag-i-store ng text values para sa localization at easy editing.",,strings.xml
+Cloze,"Ang {{c1::drawables}} ay resource directory na nag-h-holds ng images, icons, at XML-based graphics.",,drawables
+Cloze,"Sa Android, ang {{c1::themes}} ay style na nag-a-apply ng colors, typography, at spacing sa buong app.",,themes
+Cloze,"Ang {{c1::localization}} ay process ng pag-a-adapt ng app para sa iba't ibang languages at regions.",,localization
+Cloze,"Ang {{c1::resources qualifier}} ay naming convention na nag-s-specify ng device conditions para sa resources.",,resources qualifier
+Cloze,"Ang {{c1::Material Theme}} ay pre-built theme system ng Material Design na may color scheme at typography.",,Material Theme
+Cloze,"Sa Android, ang {{c1::dimens.xml}} ay resource file na nag-i-store ng dimension values para sa spacing at sizing.",,dimens.xml
+Cloze,"Ang {{c1::configuration qualifier}} ay folder naming na nag-a-adapt ng resources based sa locale, orientation, at density.",,configuration qualifier

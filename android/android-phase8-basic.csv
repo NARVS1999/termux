@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng explicit intent?","I-specify ang target activity sa constructor.","Intent(this, DetailActivity::class.java)"
+Application,"Paano mag-open ng web URL gamit intent?","Gamitin ang ACTION_VIEW sa implicit intent.","val intent = Intent(Intent.ACTION_VIEW, Uri.parse(\"https://google.com\"))"
+Application,"Paano mag-add ng data sa intent?","Gamitin ang putExtra method.","intent.putExtra(\"id\", userId)"
+Application,"Paano mag-retrieve ng data mula sa intent?","Gamitin ang getStringExtra o getParcelableExtra.","val name = intent.getStringExtra(\"name\")"
+Application,"Paano mag-set ng deep link sa activity?","I-declare ang intent-filter na may data scheme sa manifest.","<intent-filter><data android:scheme=\"myapp\" android:host=\"detail\" /></intent-filter>"

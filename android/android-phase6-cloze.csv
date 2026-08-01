@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Gradle}} ay build system na ginagamit sa Android para mag-manage ng dependencies at build process.",,Gradle
+Cloze,"Ang {{c1::AndroidManifest.xml}} ay file na nag-d declare ng components, permissions, at app configuration.",,AndroidManifest.xml
+Cloze,"Ang {{c1::minSdkVersion}} ay minimum na Android version na kailangan para ma-run ang app.",,minSdkVersion
+Cloze,"Ang {{c1::targetSdkVersion}} ay Android version na optimized ang app for compliance at features.",,targetSdkVersion
+Cloze,"Ang {{c1::compileSdkVersion}} ay Android version na ginagamit para i-compile ang app code.",,compileSdkVersion
+Cloze,"Sa Android, ang {{c1::build.gradle}} ay configuration file na nag-c-define ng app settings at dependencies.",,build.gradle
+Cloze,"Ang {{c1::build variants}} ay combination ng build types at product flavors na nag-produce ng different APK versions.",,build variants
+Cloze,"Ang {{c1::dependency injection}} sa Gradle ay ginagamit para mag-add ng libraries gamit ang implementation keyword.",,dependency injection
+Cloze,"Ang {{c1::ProGuard}} ay code obfuscation tool na ginagamit para i-protect at i-compress ang app output.",,ProGuard

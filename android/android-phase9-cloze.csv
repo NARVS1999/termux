@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Fragment}} ay reusable UI component na naka-live sa loob ng Activity.",,Fragment
+Cloze,"Ang {{c1::fragment lifecycle}} ay series ng callbacks na sinasama ang onAttach, onCreate, onCreateView, at onDestroyView.",,fragment lifecycle
+Cloze,"Ang {{c1::back stack}} ay stack na nag-ta-track ng fragments para sa reverse navigation gamit ang back button.",,back stack
+Cloze,"Ang {{c1::NavController}} ay component ng Navigation Component na nag-na-navigate sa pagitan ng destinations.",,NavController
+Cloze,"Sa Android, ang {{c1::NavHostFragment}} ay container na nag-h-host ng destinations at nag-m-manage ng navigation.",,NavHostFragment
+Cloze,"Ang {{c1::navigation graph}} ay resource file na nag-d defines ng destinations at transitions sa pagitan nila.",,navigation graph
+Cloze,"Ang {{c1::FragmentTransaction}} ay set ng commands para mag-add, remove, o replace fragments.",,FragmentTransaction
+Cloze,"Ang {{c1::commit}} method ay nag-a-apply ng fragment transaction sa system.",,commit
