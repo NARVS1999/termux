@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Sa Kotlin, ang {{c1::val}} ay ginagamit para sa immutable na variable na hindi na mababago pagkatapos i-assign.",,val
+Cloze,"Sa Kotlin, ang {{c1::var}} ay ginagamit para sa mutable na variable na pwedeng baguhin ang value.",,var
+Cloze,"Ang {{c1::String}} ay isang data type sa Kotlin na nagre-represent ng text o characters.",,String
+Cloze,"Ang {{c1::Int}} ay data type para sa whole numbers, habang ang {{c1::Double}} ay para sa decimal numbers.",,Int
+Cloze,"Ang {{c1::Boolean}} ay data type na may dalawang possible na value: true o false.",,Boolean
+Cloze,"Sa Kotlin, ang {{c1::if}} expression ay ginagamit para sa conditional logic na pwedeng mag-return ng value.",,if
+Cloze,"Ang {{c1::when}} expression ay ginagamit bilang replacement para sa switch-case statement sa ibang languages.",,when
+Cloze,"Sa Kotlin, ang {{c1::nullable}} types ay mina-mark ng question mark (?) para pwedeng mag-hold ng null value.",,nullable
+Cloze,"Ang {{c1::safe call}} operator (?.) ay ginagamit para mag-access ng properties nang hindi nag-c-crash kapag null.",,safe call
+Cloze,"Ang {{c1::elvis}} operator (?:) ay nagbibigay ng default value kapag ang expression ay null.",,elvis

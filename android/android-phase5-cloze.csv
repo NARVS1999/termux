@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::coroutine}} ay lightweight thread na ginagamit para mag-run ng asynchronous code sa Kotlin.",,coroutine
+Cloze,"Sa Kotlin, ang {{c1::suspend}} function ay function na pwedeng i-pause at i-resume habang naghihintay ng result.",,suspend
+Cloze,"Ang {{c1::launch}} coroutine builder ay nag-start ng bagong coroutine na hindi naghihintay sa completion.",,launch
+Cloze,"Ang {{c1::async}} coroutine builder ay nag-start ng coroutine na nagbabalik ng Deferred result.",,async
+Cloze,"Ang {{c1::CoroutineScope}} ay nag-determine kung kailan mamamatay ang mga coroutines na naka-bind dito.",,CoroutineScope
+Cloze,"Sa Kotlin, ang {{c1::GlobalScope}} ay scope na nananatili buhay hangga't hindi explicitly tinatapos.",,GlobalScope
+Cloze,"Ang {{c1::Dispatchers.Main}} ay ginagamit para mag-run ng coroutines sa main thread para sa UI operations.",,Dispatchers.Main
+Cloze,"Ang {{c1::Dispatchers.IO}} ay optimized para sa network calls, disk I/O, at iba pang blocking operations.",,Dispatchers.IO
+Cloze,"Ang {{c1::withContext}} function ay ginagamit para mag-switch ng dispatcher sa loob ng coroutine.",,withContext

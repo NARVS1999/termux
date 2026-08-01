@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng lambda function sa Kotlin?","Gamitin ang curly braces at arrow syntax.","{ x: Int -> x * 2 }"
+Application,"Paano mag-use ng let para sa nullable handling?","I-chain ang let block sa nullable variable.","name?.let { println(it) }"
+Application,"Paano mag-create ng extension function?","I-prefix ang function name sa class name.","fun String.addExclamation() = this + \"!\""
+Application,"Paano mag-use ng apply para mag-configure ng object?","I-call ang apply block sa object instance.","val tv = TextView(ctx).apply { text = \"Hi\" }"
+Application,"Paano mag-pass ng function as parameter?","Gamitin ang function type syntax.","fun execute(action: () -> Unit) { action() }"

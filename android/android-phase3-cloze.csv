@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::higher-order function}} ay function na tumatanggap ng ibang function as parameter o nagbabalik ng function.",,higher-order function
+Cloze,"Sa Kotlin, ang {{c1::lambda}} ay anonymous function na pwedeng i-store sa variable at i-pass sa functions.",,lambda
+Cloze,"Ang {{c1::scope functions}} (let, run, with, apply, also) ay ginagamit para i-execute block ng code sa context ng object.",,scope functions
+Cloze,"Ang {{c1::let}} scope function ay ginagamit para mag-transform o mag-filter ng nullable values.",,let
+Cloze,"Ang {{c1::apply}} scope function ay ginagamit para i-configure ang object nang hindi na kailangan pang i-return ito.",,apply
+Cloze,"Ang {{c1::extension function}} ay function na nag-a-add ng behavior sa existing class nang hindi nag-i-inherit.",,extension function
+Cloze,"Sa Kotlin, ang {{c1::inline}} function ay ginagamit para i-optimize ang lambda allocations sa compile time.",,inline
+Cloze,"Ang {{c1::it}} keyword ay implicit reference sa lambda parameter kapag isa lang ang parameter.",,it
+Cloze,"Sa Kotlin, ang {{c1::function type}} ay syntax para mag-specify ng function signature as parameter type.",,function type

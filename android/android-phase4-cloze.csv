@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::List}} ay immutable collection sa Kotlin na hindi pwedeng baguhin pagkatapos ng creation.",,List
+Cloze,"Ang {{c1::MutableList}} ay mutable version ng List na pwedeng i-add, i-remove, at i-update ng elements.",,MutableList
+Cloze,"Ang {{c1::Map}} ay collection na nag-i-store ng key-value pairs na immutable by default.",,Map
+Cloze,"Ang {{c1::Set}} ay collection na hindi nag-i-duplicate ng values at naka-arrange by order.",,Set
+Cloze,"Sa Kotlin, ang {{c1::filter}} function ay ginagamit para mag-select ng elements na mag-meet sa condition.",,filter
+Cloze,"Ang {{c1::map}} function ay ginagamit para i-transform ang bawat element sa collection.",,map
+Cloze,"Ang {{c1::sortedBy}} function ay nag-a-sort ng elements based sa specified na property o comparator.",,sortedBy
+Cloze,"Sa Kotlin, ang {{c1::reduce}} function ay nag-c-collapse ng collection sa isang value gamit ang accumulator.",,reduce
+Cloze,"Ang {{c1::groupBy}} function ay nag-i-group ng elements base sa key na i-specify.",,groupBy
+Cloze,"Sa Kotlin, ang {{c1::destructuring}} ay ginagamit para i-extract ang multiple values mula sa collection o object.",,destructuring

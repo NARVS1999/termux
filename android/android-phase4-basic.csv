@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-filter ng list sa Kotlin?","Gamitin ang filter function na may lambda.","numbers.filter { it > 5 }"
+Application,"Paano mag-sort ng list by property?","Gamitin ang sortedBy function.","users.sortedBy { it.name }"
+Application,"Paano mag-group ng list of objects?","Gamitin ang groupBy function na may key selector.","items.groupBy { it.category }"
+Application,"Paano mag-create ng mutable map sa Kotlin?","Gamitin ang mutableMapOf function.","val map = mutableMapOf(\"a\" to 1)"
+Application,"Paano mag-extract values mula sa data class?","Gamitin ang destructuring declaration.","val (name, age) = user"
