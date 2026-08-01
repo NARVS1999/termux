@@ -75,9 +75,9 @@
 
 ## Advanced Topics & Practice
 
-- [ ] **Phase 45** — Greedy: correctness, exchanges, interval problems
-- [ ] **Phase 46** — Backtracking: permutations, combinations, pruning
-- [ ] **Phase 47** — Practice strategy: spaced review, contest drills, debugging
+- [x] **Phase 45** — Greedy: correctness, exchanges, interval problems
+- [x] **Phase 46** — Backtracking: permutations, combinations, pruning
+- [x] **Phase 47** — Practice strategy: spaced review, contest drills, debugging
 
 ## Recommended Learning Path (priority order)
 
