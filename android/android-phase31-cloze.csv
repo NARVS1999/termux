@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::StateFlow}} ay Flow na nag-e-emits ng single value at nag-r-ree-emits sa configuration changes.",,StateFlow
+Cloze,"Ang {{c1::SharedFlow}} ay Flow na nag-e-emits ng events na pwedeng i-collect ng multiple collectors.",,SharedFlow
+Cloze,"Sa Kotlin, ang {{c1::collectLatest}} operator ay nag-c-cancels ng previous collection bago mag-collect ng bago.",,collectLatest
+Cloze,"Ang {{c1::stateIn}} operator ay nag-c-convert ng Flow to StateFlow na may initial value.",,stateIn
+Cloze,"Ang {{c1::conflated}} property ay nag-s-sures na latest value lang ang ipi-process.",,conflated
+Cloze,"Sa Android, ang {{c1::repeatOnLifecycle}} ay safe way para mag-collect ng flows sa lifecycle-aware manner.",,repeatOnLifecycle
+Cloze,"Ang {{c1::MutableSharedFlow}} ay mutable version ng SharedFlow na pwedeng i-emit ng events.",,MutableSharedFlow
+Cloze,"Ang {{c1::first}} terminal operator ay nag-b-balik ng first emitted value mula sa flow.",,first

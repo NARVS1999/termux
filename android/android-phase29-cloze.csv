@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Hilt}} ay dependency injection framework na official ng Android team.",,Hilt
+Cloze,"Ang {{c1::Koin}} ay lightweight DI framework na Kotlin-first at DSL-based.",,Koin
+Cloze,"Sa Android, ang {{c1::manual DI}} ay pag-p-provide ng dependencies nang walang framework.",,manual DI
+Cloze,"Ang {{c1::@Inject}} annotation ay nag-m-mark ng constructor na kailangan ng DI framework.",,@Inject
+Cloze,"Ang {{c1::@Module}} annotation ay nag-c-creates ng container ng dependencies para sa Hilt.",,@Module
+Cloze,"Ang {{c1::@Provides}} annotation ay nag-d-defines ng way para mag-provide ng dependency.",,@Provides
+Cloze,"Ang {{c1::@Singleton}} scope ay nag-s-sures na isang instance lang ng dependency ang gagamitin.",,@Singleton
+Cloze,"Sa Koin, ang {{c1::module}} DSL function ay nag-d-defines ng dependency bindings.",,module
+Cloze,"Ang {{c1::@Component}} annotation ay nag-c-creates ng Hilt component na nag-l-lifetime sa dependencies.",,@Component

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-inject ng dependency gamit Hilt?","I-annotate ang constructor gamit ang @Inject.","class UserRepository @Inject constructor(private val api: ApiService)"
+Application,"Paano mag-provide ng dependency sa Hilt?","I-annotate ang function gamit ang @Provides sa @Module.","@Provides fun provideApi(): ApiService = Retrofit.Builder().build().create(ApiService::class.java)"
+Application,"Paano mag-set up ng Koin module?","I-define ang module na may single o factory.","val appModule = module { single { ApiService() } }"
+Application,"Paano mag-inject sa ViewModel?","I-add ang @Inject sa ViewModel constructor.","class MainViewModel @Inject constructor(private val repo: UserRepository) : ViewModel()"
+Application,"Paano mag-use ng manual DI?","I-create ang dependencies at i-pass sa constructors.","val api = ApiService(); val repo = UserRepositoryImpl(api)"

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Repository}} ay abstraction layer na nag-m-manages ng data operations mula sa multiple sources.",,Repository
+Cloze,"Sa Android, ang {{c1::data sources}} ay pinagkukunan ng data: local database, network, o cache.",,data sources
+Cloze,"Ang {{c1::abstraction}} sa Repository ay nag-i-isolate ng data logic mula sa ViewModel.",,abstraction
+Cloze,"Ang {{c1::caching layer}} ay storage na nag-s-stores ng frequently accessed data para sa faster access.",,caching layer
+Cloze,"Ang {{c1::RemoteDataSource}} ay class na nag-h-handles ng network API calls.",,RemoteDataSource
+Cloze,"Ang {{c1::LocalDataSource}} ay class na nag-h-handles ng database o SharedPreferences operations.",,LocalDataSource
+Cloze,"Sa Repository pattern, ang {{c1::strategy}} ay approach na nag-d-determines kung saan kukuha ng data.",,strategy
+Cloze,"Ang {{c1::flow}} return type ay ginagamit sa Repository para mag-stream ng data updates.",,flow

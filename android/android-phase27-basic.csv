@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng ViewModel?","I-extend ang ViewModel class at i-define ang state.","class MyViewModel : ViewModel() { private val _state = MutableStateFlow(UiState()) }"
+Application,"Paano mag-expose ng state sa UI?","Gamitin ang asStateFlow() para sa immutable state.","val state: StateFlow<UiState> = _state.asStateFlow()"
+Application,"Paano mag-handle ng UI events?","I-create ang events sealed class at i-handle sa ViewModel.","sealed class Event { data class NameChanged(val name: String) : Event() }"
+Application,"Paano mag-update ng state?","I-call ang update function sa MutableStateFlow.","_state.update { it.copy(name = newName) }"
+Application,"Paano mag-collect ng state sa Compose?","Gamitin ang collectAsState sa composable.","val state by viewModel.state.collectAsState()"

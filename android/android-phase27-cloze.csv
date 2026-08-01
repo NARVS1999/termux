@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::MVVM}} ay architecture pattern na nag-s-separates ng UI, business logic, at data layer.",,MVVM
+Cloze,"Ang {{c1::ViewModel}} ay component na nag-h-holds ng UI state at nag-e-exposes ng data sa UI layer.",,ViewModel
+Cloze,"Sa Android, ang {{c1::UI state}} ay data class na nag-r-represents ng lahat ng states ng screen.",,UI state
+Cloze,"Ang {{c1::unidirectional data flow}} ay pattern kung saan data flows down at events flow up.",,unidirectional data flow
+Cloze,"Ang {{c1::LiveData}} ay observable data holder na lifecycle-aware na nag-u-updates ng UI.",,LiveData
+Cloze,"Sa MVVM, ang {{c1::event}} ay one-time action na hindi na uulitin kapag na-consume na.",,event
+Cloze,"Ang {{c1::by viewModels()}} delegation ay ginagamit para mag-obtain ng ViewModel sa Activity/Fragment.",,by viewModels()
+Cloze,"Ang {{c1::MutableStateFlow}} ay mutable observable na nag-s-stores ng current state value.",,MutableStateFlow

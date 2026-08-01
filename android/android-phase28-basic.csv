@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-create ng Repository?","I-define ang interface at i-implement ang class.","interface UserRepository { suspend fun getUsers(): Flow<List<User>> }"
+Application,"Paano mag-combine ng local at remote data?","I-check muna ang local cache, then fetch remote.","fun getUsers() = localDataSource.getUsers().onEmpty { remoteDataSource.fetchUsers() }"
+Application,"Paano mag-inject ng Repository?","I-pass ang dependencies sa constructor.","class UserRepositoryImpl(private val api: ApiService, private val dao: UserDao) : UserRepository"
+Application,"Paano mag-stream ng data updates?","Gamitin ang Flow return type sa Repository.","fun getUsers(): Flow<List<User>> = dao.getAllUsers()"
+Application,"Paano mag-cache ng network data?","I-save muna sa local database, then emit sa flow.","suspend fun getUsers() = flow { emit(api.getUsers().also { dao.insertAll(it) }) }"
