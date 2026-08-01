@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-compute ng diameter?","Gamitin ang height recursion: diameter = max(left height + right height).","fun diameter(node) = max(height(node.left) + height(node.right) + 2)"
+Application,"Paano mag-find ng LCA?","Gamitin ang recursion: kung nasa different sides, current ang LCA.","if (p < node.data && q > node.data) return node"
+Application,"Paano mag-check ng balanced tree?","I-compare heights at i-check recursion sa lahat ng nodes.","fun isBalanced(node) = node == null || abs(height(left) - height(right)) <= 1 && isBalanced(left) && isBalanced(right)"
+Application,"Paano mag-find ng max path sum?","Gamitin ang DFS na may global max tracking.","maxSum = max(maxSum, leftGain + rightGain + node.data)"
+Application,"Paano mag-serialize ng tree?","Gamitin ang preorder traversal na may null markers.","fun serialize(node) = if(node == null) '#' else node.data + serialize(node.left) + serialize(node.right)"

@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-implement ng preorder?","Gamitin ang recursion: process root, then left, then right.","fun preorder(node) { if(node != null) { process(node); preorder(node.left); preorder(node.right) } }"
+Application,"Paano mag-implement ng inorder?","Gamitin ang recursion: left, process root, then right.","fun inorder(node) { if(node != null) { inorder(node.left); process(node); inorder(node.right) } }"
+Application,"Paano mag-implement ng level order?","Gamitin ang queue para sa BFS.","queue.add(root); while(queue not empty) { node = queue.poll(); process(node); add children }"
+Application,"Paano mag-implement ng iterative preorder?","Gamitin ang stack na may push right first.","stack.push(root); while(stack not empty) { node = stack.pop(); process(node); push right, push left }"
+Application,"Paano mag-traverse ng postorder iteratively?","Gamitin ang dalawang stacks o isang stack na may reverse output.","stack1.push(root); while(stack1 not empty) { node = stack1.pop(); stack2.push(node); push children to stack1 }"

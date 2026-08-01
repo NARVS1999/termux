@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-compute ng height?","Gamitin ang recursive formula: 1 + max(left height, right height).","fun height(node) = if (node == null) -1 else 1 + max(height(node.left), height(node.right))"
+Application,"Paano mag-count ng nodes?","Gamitin ang recursion: 1 + left count + right count.","fun count(node) = if (node == null) 0 else 1 + count(node.left) + count(node.right)"
+Application,"Paano mag-check kung balanced?","I-compare ang heights ng left at right subtrees.","abs(height(left) - height(right)) <= 1"
+Application,"Paano mag-find ng depth?","Gamitin ang recursion na may increment per level.","fun depth(root, target) = if (root == target) 0 else 1 + depth(parent, target)"
+Application,"Paano mag-create ng binary tree?","I-create ang nodes at i-link sa isa't isa.","val root = Node(1); root.left = Node(2); root.right = Node(3)"

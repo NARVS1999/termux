@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::binary tree}} ay tree na ang bawat node ay may at most two children: left at right.",,binary tree
+Cloze,"Ang {{c1::root}} ay unang node sa tree na walang parent.",,root
+Cloze,"Ang {{c1::leaf}} ay node na walang children.",,leaf
+Cloze,"Ang {{c1::depth}} ay number of edges mula sa root hanggang sa node.",,depth
+Cloze,"Ang {{c1::height}} ay maximum na depth sa buong tree.",,height
+Cloze,"Ang {{c1::subtree}} ay smaller tree na naka-embed sa loob ng larger tree.",,subtree
+Cloze,"Ang {{c1::level}} ay set ng nodes na may same depth value.",,level
+Cloze,"Ang {{c1::edge}} ay connection sa pagitan ng dalawang nodes sa tree.",,edge

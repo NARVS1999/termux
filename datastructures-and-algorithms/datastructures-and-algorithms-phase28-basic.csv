@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-insert sa trie?","I-traverse ang characters at i-create ang nodes.","var node = root; for (c in word) { node = node.children.getOrPut(c) { TrieNode() } }"
+Application,"Paano mag-search sa trie?","I-traverse ang characters hanggang null o end.","var node = root; for (c in word) { node = node.children[c] ?: return false }; return node.isEnd"
+Application,"Paano mag-check ng prefix?","Gamitin ang startsWith method.","var node = root; for (c in prefix) { node = node.children[c] ?: return false }; return true"
+Application,"Paano mag-find ng words with prefix?","I-traverse hanggang sa prefix end tapos DFS sa subtree.","node = findPrefix(prefix); dfs(node, prefix, results)"
+Application,"Paano mag-solve ng word break?","Gamitin ang trie na may DFS or DP.","trie.insert(word); for (i in 0..n) if (trie.startsWith(s.substring(0, i))) check(i+1)"

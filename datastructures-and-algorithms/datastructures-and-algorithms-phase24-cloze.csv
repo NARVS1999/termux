@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::BST}} ay binary tree na ang left child ay mas maliit at right child ay mas malaki sa parent.",,BST
+Cloze,"Ang {{c1::insert}} sa BST ay O(log n) average kapag balanced.",,insert
+Cloze,"Ang {{c1::search}} sa BST ay O(log n) average time complexity.",,search
+Cloze,"Ang {{c1::delete}} sa BST ay may 3 cases: leaf, one child, two children.",,delete
+Cloze,"Ang {{c1::inorder traversal}} ng BST ay nag-b-balik ng sorted order.",,inorder traversal
+Cloze,"Ang {{c1::successor}} ay pinakamaliit na value na mas malaki sa given node.",,successor
+Cloze,"Ang {{c1::predecessor}} ay pinakamalaki na value na mas maliit sa given node.",,predecessor
+Cloze,"Ang {{c1::validation}} ay pag-v-verify kung valid BST ang given tree.",,validation

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::trie}} ay tree-like data structure na nag-i-store ng strings char by char.",,trie
+Cloze,"Ang {{c1::prefix}} ay common substring na nagsisimula sa simula ng words.",,prefix
+Cloze,"Ang {{c1::autocomplete}} ay feature na nag-s-suggest ng words base sa partial input.",,autocomplete
+Cloze,"Ang {{c1::trie node}} ay may children map at isEndOfWord boolean flag.",,trie node
+Cloze,"Ang {{c1::insertion}} sa trie ay O(m) kung saan m ay length ng string.",,insertion
+Cloze,"Ang {{c1::search}} sa trie ay O(m) kung saan m ay length ng string.",,search
+Cloze,"Ang {{c1::startsWith}} method ay nag-v-verifies kung may words na may given prefix.",,startsWith
+Cloze,"Ang {{c1::word break}} ay problem na nag-s-splits ng string sa valid dictionary words.",,word break

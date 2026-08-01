@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::max heap}} ay complete binary tree na ang parent ay laging mas malaki sa children.",,max heap
+Cloze,"Ang {{c1::min heap}} ay complete binary tree na ang parent ay laging mas maliit sa children.",,min heap
+Cloze,"Ang {{c1::heapify}} ay operation na nag-a-restore ng heap property sa subtree.",,heapify
+Cloze,"Ang {{c1::heap sort}} ay comparison-based sorting algorithm na O(n log n).",,heap sort
+Cloze,"Ang {{c1::build heap}} ay process ng pag-c-convert ng array to heap sa O(n) time.",,build heap
+Cloze,"Ang {{c1::heap property}} ay condition na nag-s-sure ng parent-child ordering.",,heap property
+Cloze,"Ang {{c1::complete binary tree}} ay tree na filled sa lahat ng levels except possibly the last.",,complete binary tree
+Cloze,"Ang {{c1::sift down}} ay operation na nag-m-moves ng element pababa hanggang satisfied ang heap.",,sift down

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::diameter}} ay longest path sa pagitan ng dalawang nodes sa tree.",,diameter
+Cloze,"Ang {{c1::path}} ay sequence ng nodes na connected by edges.",,path
+Cloze,"Ang {{c1::LCA}} ay lowest common ancestor: pinakamababang node na ancestor ng dalawang nodes.",,LCA
+Cloze,"Ang {{c1::balancing}} ay process ng pag-e-ensure na ang tree ay hindi nag-i-skew.",,balancing
+Cloze,"Ang {{c1::max path sum}} ay path na may pinakamalaking sum ng values.",,max path sum
+Cloze,"Ang {{c1::vertical traversal}} ay pag-i-iterate ng nodes base sa column index.",,vertical traversal
+Cloze,"Ang {{c1::boundary traversal}} ay pag-visits ng outer boundary nodes ng tree.",,boundary traversal
+Cloze,"Ang {{c1::serialize}} ay process ng pag-c-convert ng tree to string format.",,serialize

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::preorder traversal}} ay Root-Left-Right na pag-i-iterate sa tree.",,preorder traversal
+Cloze,"Ang {{c1::inorder traversal}} ay Left-Root-Right na traversal na nag-b-balis ng sorted sa BST.",,inorder traversal
+Cloze,"Ang {{c1::postorder traversal}} ay Left-Right-Root na traversal na ginagamit sa deletion.",,postorder traversal
+Cloze,"Ang {{c1::level order traversal}} ay BFS na nag-i-iterate level by level.",,level order traversal
+Cloze,"Ang {{c1::iterative traversal}} ay non-recursive na traversal gamit ang stack.",,iterative traversal
+Cloze,"Ang {{c1::recursive traversal}} ay traversal na nag-c-calls ng sarili para sa left at right.",,recursive traversal
+Cloze,"Ang {{c1::DFS}} ay depth-first search na nag-m-move sa deepest node muna.",,DFS
+Cloze,"Ang {{c1::BFS}} ay breadth-first search na nag-v-visits ng lahat sa current level.",,BFS
