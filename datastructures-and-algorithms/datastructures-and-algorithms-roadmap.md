@@ -50,12 +50,12 @@
 
 ## Graphs
 
-- [ ] **Phase 29** — Representations: adjacency lists, matrices, edges
-- [ ] **Phase 30** — BFS & DFS: traversal, levels, components, flood fill
-- [ ] **Phase 31** — Shortest paths: Dijkstra, Bellman-Ford, BFS weights
-- [ ] **Phase 32** — Cycle detection: directed, undirected, topological sort
-- [ ] **Phase 33** — Topological ordering: Kahn's, DFS-based, dependencies
-- [ ] **Phase 34** — Union-find: disjoint sets, connectivity, unions by rank
+- [x] **Phase 29** — Representations: adjacency lists, matrices, edges
+- [x] **Phase 30** — BFS & DFS: traversal, levels, components, flood fill
+- [x] **Phase 31** — Shortest paths: Dijkstra, Bellman-Ford, BFS weights
+- [x] **Phase 32** — Cycle detection: directed, undirected, topological sort
+- [x] **Phase 33** — Topological ordering: Kahn's, DFS-based, dependencies
+- [x] **Phase 34** — Union-find: disjoint sets, connectivity, unions by rank
 
 ## Sorting & Searching
 
