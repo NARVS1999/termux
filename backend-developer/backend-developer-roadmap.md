@@ -73,11 +73,11 @@
 
 ## AI & LLM Engineering
 
-- [ ] **Phase 43** — LLM fundamentals: how LLMs work, embeddings, vectors, vector stores
-- [ ] **Phase 44** — RAG & agents: RAGs, agents, function calling, structured outputs
-- [ ] **Phase 45** — LLM APIs & tooling: OpenAI, Anthropic, Gemini, prompting techniques, MCP
-- [ ] **Phase 46** — AI-assisted coding: GitHub Copilot, Claude Code, Cursor, AI vs traditional coding
-- [ ] **Phase 47** — AI in backend systems: AI-assisted coding workflows, evaluating LLM output, loadshifting
+- [x] **Phase 43** — LLM fundamentals: how LLMs work, embeddings, vectors, vector stores
+- [x] **Phase 44** — RAG & agents: RAGs, agents, function calling, structured outputs
+- [x] **Phase 45** — LLM APIs & tooling: OpenAI, Anthropic, Gemini, prompting techniques, MCP
+- [x] **Phase 46** — AI-assisted coding: GitHub Copilot, Claude Code, Cursor, AI vs traditional coding
+- [x] **Phase 47** — AI in backend systems: AI-assisted coding workflows, evaluating LLM output, loadshifting
 
 ## Recommended Learning Path (priority order)
 
