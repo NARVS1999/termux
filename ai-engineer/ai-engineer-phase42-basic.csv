@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-analyze ng image gamit ang AI?",,"I-send ang image sa multimodal model kasama ang tanong tungkol dito."
+Application,"Paano gumawa ng image mula sa text?",,"Gamitin ang image generation API tulad ng DALL-E o Stable Diffusion."
+Application,"Paano mag-transcribe ng audio?",,"Gamitin ang speech-to-text model tulad ng Whisper."
+Application,"Paano mag-generate ng speech mula sa text?",,"Gamitin ang text-to-speech API."
+Application,"Paano mag-analyze ng video?",,"I-extract ang frames at i-process sa multimodal model."

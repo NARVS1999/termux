@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::multimodal AI}} ay ang kakayahan ng AI na mag-process ng iba't ibang uri ng data tulad ng text, image, at audio.",,multimodal AI
+Cloze,"Ang {{c1::image understanding}} ay ang kakayahan ng model na mag-analyze ng mga larawan.",,image understanding
+Cloze,"Ang {{c1::image generation}} ay ang paggawa ng mga larawan mula sa text descriptions.",,image generation
+Cloze,"Ang {{c1::video understanding}} ay ang pag-analyze ng model ng mga video content.",,video understanding
+Cloze,"Ang {{c1::audio processing}} ay ang pag-unawa at pag-generate ng mga audio data.",,audio processing
+Cloze,"Ang {{c1::text-to-speech}} (TTS) ay ang pag-convert ng text sa speech.",,text-to-speech
+Cloze,"Ang {{c1::speech-to-text}} (STT) ay ang pag-convert ng speech sa text.",,speech-to-text
+Cloze,"Ang {{c1::multimodal use cases}} ay kasama ang visual Q&A, captioning, at content moderation.",,multimodal use cases
+Cloze,"Ang {{c1::multimodal models}} ay mga models na trained sa maraming modalities nang sabay.",,multimodal models

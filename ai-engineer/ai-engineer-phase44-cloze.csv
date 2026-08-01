@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::LangChain}} ay may support para sa multimodal LLMs sa pamamagitan ng multi-modal messages.",,LangChain
+Cloze,"Ang {{c1::LlamaIndex}} ay sumusuporta sa multimodal data para sa retrieval at Q&A.",,LlamaIndex
+Cloze,"Ang {{c1::Hugging Face models}} ay may maraming multimodal models na open source.",,Hugging Face models
+Cloze,"Ang {{c1::BLIP}} ay isang image captioning model na available sa Hugging Face.",,BLIP
+Cloze,"Ang {{c1::CLIP}} ay isang model na nag-u-understand ng relationship ng text at images.",,CLIP
+Cloze,"Ang {{c1::image embeddings}} ay ginagamit para sa visual search at retrieval.",,image embeddings
+Cloze,"Ang {{c1::multimodal pipeline}} ay ang pag-combine ng iba't ibang modality processing steps.",,multimodal pipeline
+Cloze,"Ang {{c1::cross-modal retrieval}} ay ang paghahanap ng images gamit ang text queries.",,cross-modal retrieval
+Cloze,"Ang {{c1::multimodal RAG}} ay ang retrieval ng images o documents na may visual content.",,multimodal RAG

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::OpenAI Vision API}} ay nagpapahintulot sa model na mag-analyze ng mga images.",,OpenAI Vision API
+Cloze,"Ang {{c1::DALL-E}} ay ang image generation model ng OpenAI.",,DALL-E
+Cloze,"Ang {{c1::Whisper}} ay ang speech-to-text model ng OpenAI.",,Whisper
+Cloze,"Ang {{c1::TTS API}} ng OpenAI ay nagko-convert ng text sa natural na speech.",,TTS API
+Cloze,"Ang {{c1::image_url}} ay ang paraan ng pag-pass ng image sa OpenAI API.",,image_url
+Cloze,"Ang pag-send ng image sa API ay pwedeng via {{c1::base64}} encoding o URL.",,base64
+Cloze,"Ang {{c1::prompt}} sa image generation ay naglalarawan kung ano ang gagawing image.",,prompt
+Cloze,"Ang {{c1::size}} parameter sa DALL-E ay nagko-control sa dimensions ng generated image.",,size
+Cloze,"Ang {{c1::voice}} parameter sa TTS API ay pumipili ng boses na gagamitin.",,voice
