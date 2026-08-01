@@ -41,12 +41,12 @@
 
 ## Trees
 
-- [ ] **Phase 23** — Binary trees: nodes, traversal, depth, properties
-- [ ] **Phase 24** — BSTs: insert, search, delete, validation, successors
-- [ ] **Phase 25** — Tree traversals: pre/in/post-order, level order, iterative
-- [ ] **Phase 26** — Tree problems: diameter, paths, LCA, balancing
-- [ ] **Phase 27** — Heaps: max/min, heapify, heap sort, use cases
-- [ ] **Phase 28** — Tries: insertion, search, prefixes, autocomplete
+- [x] **Phase 23** — Binary trees: nodes, traversal, depth, properties
+- [x] **Phase 24** — BSTs: insert, search, delete, validation, successors
+- [x] **Phase 25** — Tree traversals: pre/in/post-order, level order, iterative
+- [x] **Phase 26** — Tree problems: diameter, paths, LCA, balancing
+- [x] **Phase 27** — Heaps: max/min, heapify, heap sort, use cases
+- [x] **Phase 28** — Tries: insertion, search, prefixes, autocomplete
 
 ## Graphs
 
