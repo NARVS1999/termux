@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::understand}} phase ay pag-c-clear ng problem statement at identifying ang input/output.",,understand
+Cloze,"Ang {{c1::plan}} phase ay pag-d-design ng algorithm approach bago mag-code.",,plan
+Cloze,"Ang {{c1::implement}} phase ay actual coding ng solution gamit ang planned approach.",,implement
+Cloze,"Ang {{c1::test}} phase ay pag-v-verify ng solution gamit ang test cases.",,test
+Cloze,"Ang {{c1::edge cases}} ay extreme or unusual inputs na pwedeng mag-break ng solution.",,edge cases
+Cloze,"Ang {{c1::brute force}} ay unang solution na dumating sa isip, usually hindi optimal.",,brute force
+Cloze,"Ang {{c1::optimal solution}} ay pinaka-efficient na algorithm sa time at space.",,optimal solution
+Cloze,"Ang {{c1::dry run}} ay manual na pag-s simulate ng algorithm gamit ang sample inputs.",,dry run

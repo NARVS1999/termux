@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-understand ng problem?","Basahin nang mabuti, mag-draw ng examples, at i-clarify ang constraints.","Read problem > draw examples > clarify constraints"
+Application,"Paano mag-plan ng solution?","I-list ang possible approaches at i-compare ang time/space complexity.","List approaches > compare O(n) vs O(n log n)"
+Application,"Paano mag-test ng edge cases?","Mag-isip ng empty input, single element, at boundary values.","Test: empty array, one element, all same values"
+Application,"Paano mag-dry run ng algorithm?","I-trace ang code gamit ang pen at paper na may sample input.","Trace: i=0, arr[0]=3, swap arr[0] and arr[1]"
+Application,"Paano mag-optimize ng brute force?","Tignan ang patterns: kaya bang i-convert sa O(n) gamit ang HashMap.","Brute force O(n^2) → optimize to O(n) using HashMap"

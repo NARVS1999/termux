@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::loop analysis}} ay pag-a-analyze ng time complexity ng iterative code.",,loop analysis
+Cloze,"Ang {{c1::recursion}} ay technique na nag-c-calls ng function sa sarili nito.",,recursion
+Cloze,"Ang {{c1::nested structure}} ay code na may loops o recursion sa loob ng loops.",,nested structure
+Cloze,"Sa code analysis, ang {{c1::base case}} ay condition na nag-t-stops ng recursion.",,base case
+Cloze,"Ang {{c1::recurrence relation}} ay equation na nag-d-defines ng time complexity ng recursive function.",,recurrence relation
+Cloze,"Ang {{c1::call stack}} ay stack na nag-t-tracks ng active function calls sa recursion.",,call stack
+Cloze,"Ang {{c1::tail recursion}} ay recursion na ang last operation ay ang recursive call.",,tail recursion
+Cloze,"Ang {{c1::stack overflow}} ay error kapag nalampasan ng recursion ang maximum call stack size.",,stack overflow

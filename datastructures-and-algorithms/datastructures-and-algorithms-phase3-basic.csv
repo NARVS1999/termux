@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-analyze ng single loop?","Bilangin ang iterations: kung nag-i-iterate sa n elements, ang complexity ay O(n).","for (i in 0..n) → O(n)"
+Application,"Paano mag-analyze ng nested loops?","Multiply ang iterations ng bawat loop: O(n) * O(m) = O(n*m).","for i in 0..n { for j in 0..m { } } → O(nm)"
+Application,"Paano mag-analyze ng recursion?","Gamitin ang recurrence relation at Master Theorem.","T(n) = 2T(n/2) + O(n) → O(n log n)"
+Application,"Paano mag-detect ng tail recursion?","Tignan kung ang recursive call ay last operation sa function.","fun factorial(n, acc) = if (n == 0) acc else factorial(n-1, n*acc)"
+Application,"Paano mag-analyze ng mixed loop at recursion?","I-separate ang analysis: loop iterations * recursive calls per iteration.","Loop calling recursive function → O(n * T(k))"

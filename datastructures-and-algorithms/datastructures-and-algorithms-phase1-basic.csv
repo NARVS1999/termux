@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-determine ang time complexity ng loop?","Bilangin kung ilang beses tumatakbo ang loop relative sa input size.","for (i in 0..n) → O(n)"
+Application,"Paano mag-compare ng O(n) vs O(log n)?","Ang O(log n) ay mas mabilis kasi nag-h-halves ang search space.","Binary search O(log n) vs Linear search O(n)"
+Application,"Paano mag-identify ng O(n^2)?","Kapag may nested loop na parehong nag-i-iterate sa input.","for i in 0..n { for j in 0..n { } } → O(n^2)"
+Application,"Paano mag-express ng constant time?","Gamitin ang O(1) kapag fixed ang operations regardless of input.","val x = arr[5] → O(1)"
+Application,"Paano mag-analyze ng recursive algorithm?","Gamitin ang recurrence relation: T(n) = T(n/2) + O(1) for binary search.","T(n) = 2T(n/2) + O(n) → O(n log n)"

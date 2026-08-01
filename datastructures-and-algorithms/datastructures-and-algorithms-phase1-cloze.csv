@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Big-O notation}} ay mathematical notation na nag-r-represent ng upper bound ng algorithm's growth rate.",,Big-O notation
+Cloze,"Ang {{c1::O(1)}} ay constant time complexity na hindi nag-change kahit lumaki ang input.",,O(1)
+Cloze,"Ang {{c1::O(n)}} ay linear time complexity na nag-i-increase proportionally sa input size.",,O(n)
+Cloze,"Ang {{c1::O(n^2)}} ay quadratic time complexity na nag-s-squares ang execution time.",,O(n^2)
+Cloze,"Ang {{c1::O(log n)}} ay logarithmic time complexity na nag-h-halves ang search space.",,O(log n)
+Cloze,"Ang {{c1::best case}} ay minimum number of operations na kailangan ng algorithm.",,best case
+Cloze,"Ang {{c1::worst case}} ay maximum number of operations na possible sa algorithm.",,worst case
+Cloze,"Ang {{c1::average case}} ay expected number of operations base sa probability distribution ng inputs.",,average case
+Cloze,"Ang {{c1::growth rate}} ay speed kung saan nag-i-increase ang time complexity habang lumalaki ang input.",,growth rate

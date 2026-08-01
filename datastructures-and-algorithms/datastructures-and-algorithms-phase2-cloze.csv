@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::time complexity}} ay measure ng execution time ng algorithm relative sa input size.",,time complexity
+Cloze,"Ang {{c1::space complexity}} ay measure ng memory na ginagamit ng algorithm.",,space complexity
+Cloze,"Ang {{c1::tradeoff}} ay situation kung saan ang pag-improve ng isang aspect ay nag-d-degrade ng isa.",,tradeoff
+Cloze,"Ang {{c1::constraints}} ay limits na nag-d-determine ng acceptable na algorithm based sa input size.",,constraints
+Cloze,"Sa algorithm analysis, ang {{c1::auxiliary space}} ay extra memory na ginagamit bukwan sa input.",,auxiliary space
+Cloze,"Ang {{c1::in-place}} algorithm ay gumagamit ng O(1) extra space bukwan sa input storage.",,in-place
+Cloze,"Ang {{c1::stable}} sorting algorithm ay nag-p-preserve ng relative order ng equal elements.",,stable
+Cloze,"Ang {{c1::immutable}} data structure ay hindi nagbabago pagkatapos ng creation.",,immutable
