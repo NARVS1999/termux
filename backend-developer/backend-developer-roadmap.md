@@ -43,10 +43,10 @@
 
 ## Caching & Performance
 
-- [ ] **Phase 25** — Caching fundamentals: CDN, client-side caching, server-side caching, HTTP caching
-- [ ] **Phase 26** — Redis & Memcached: cache strategies, eviction policies, invalidation
-- [ ] **Phase 27** — Performance profiling: profiling tools, load testing, bottleneck analysis
-- [ ] **Phase 28** — Building for scale: load balancing, throttling, rate limiting
+- [x] **Phase 25** — Caching fundamentals: CDN, client-side caching, server-side caching, HTTP caching
+- [x] **Phase 26** — Redis & Memcached: cache strategies, eviction policies, invalidation
+- [x] **Phase 27** — Performance profiling: profiling tools, load testing, bottleneck analysis
+- [x] **Phase 28** — Building for scale: load balancing, throttling, rate limiting
 
 ## Web Security
 
