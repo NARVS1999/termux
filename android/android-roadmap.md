@@ -38,10 +38,10 @@
 
 ## Networking & APIs
 
-- [ ] **Phase 23** — Retrofit & OkHttp: endpoints, interceptors, error handling
-- [ ] **Phase 24** — Serialization: kotlinx.serialization, Gson/Moshi, model mapping
-- [ ] **Phase 25** — Image loading: Coil, Glide, caching, placeholder handling
-- [ ] **Phase 26** — Connectivity: network state, timeouts, offline handling, retries
+- [x] **Phase 23** — Retrofit & OkHttp: endpoints, interceptors, error handling
+- [x] **Phase 24** — Serialization: kotlinx.serialization, Gson/Moshi, model mapping
+- [x] **Phase 25** — Image loading: Coil, Glide, caching, placeholder handling
+- [x] **Phase 26** — Connectivity: network state, timeouts, offline handling, retries
 
 ## Architecture & Patterns
 
