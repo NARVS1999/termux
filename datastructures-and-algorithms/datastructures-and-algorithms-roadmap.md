@@ -26,11 +26,11 @@
 
 ## Stacks & Queues
 
-- [ ] **Phase 14** — Stack basics: push/pop, applications, parentheses
-- [ ] **Phase 15** — Monotonic stacks: next greater, ranges, maintenance
-- [ ] **Phase 16** — Queue & deque: FIFO, sliding window max, BFS queue
-- [ ] **Phase 17** — Priority queues: heaps, k-th problems, merging
-- [ ] **Phase 18** — Stack/queue design: min-stack, two-stack queue
+- [x] **Phase 14** — Stack basics: push/pop, applications, parentheses
+- [x] **Phase 15** — Monotonic stacks: next greater, ranges, maintenance
+- [x] **Phase 16** — Queue & deque: FIFO, sliding window max, BFS queue
+- [x] **Phase 17** — Priority queues: heaps, k-th problems, merging
+- [x] **Phase 18** — Stack/queue design: min-stack, two-stack queue
 
 ## Hash Tables & Maps
 
