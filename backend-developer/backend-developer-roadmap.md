@@ -58,10 +58,10 @@
 
 ## Testing & CI/CD
 
-- [ ] **Phase 34** — Testing strategies: unit testing, integration testing, functional testing, E2E
-- [ ] **Phase 35** — Test quality: mocking, fixtures, test coverage, TDD
-- [ ] **Phase 36** — CI/CD pipelines: GitHub Actions, GitLab CI, Jenkins
-- [ ] **Phase 37** — Containerization & deployment: Docker, Kubernetes, LXC, serverless
+- [x] **Phase 34** — Testing strategies: unit testing, integration testing, functional testing, E2E
+- [x] **Phase 35** — Test quality: mocking, fixtures, test coverage, TDD
+- [x] **Phase 36** — CI/CD pipelines: GitHub Actions, GitLab CI, Jenkins
+- [x] **Phase 37** — Containerization & deployment: Docker, Kubernetes, LXC, serverless
 
 ## Architecture & Observability
 
