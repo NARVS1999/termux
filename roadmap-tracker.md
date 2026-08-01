@@ -2,7 +2,7 @@
 
 Tracks which roadmap.sh topics have a roadmap + Anki cards created in this repo. Unchecked = not yet created.
 
-## Created (19)
+## Created (20)
 
 - [x] **react** — https://roadmap.sh/react
 - [x] **frontend** — https://roadmap.sh/frontend
@@ -23,10 +23,10 @@ Tracks which roadmap.sh topics have a roadmap + Anki cards created in this repo.
 - [x] **game-developer** — https://roadmap.sh/game-developer
 - [x] **product-manager** — https://roadmap.sh/product-manager
 - [x] **api-design** — https://roadmap.sh/api-design
+- [x] **computer-science** — https://roadmap.sh/computer-science
 
-## Not Created (20)
+## Not Created (19)
 
-- [ ] **computer-science** — https://roadmap.sh/computer-science
 - [ ] **sql** — https://roadmap.sh/sql
 - [ ] **javascript** — https://roadmap.sh/javascript
 - [ ] **typescript** — https://roadmap.sh/typescript
