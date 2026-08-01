@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-schedule ng task na depende sa battery?","Gamitin ang WorkManager constraints.","Constraints.Builder().setRequiresBatteryNotLow(true).build()"
+Application,"Paano mag-optimize ng network requests?","I-batch ang requests at i-cache ang responses.","val batched = requests.chunked(10)"
+Application,"Paano mag-handle ng Doze mode?","Gamitin ang WorkManager para sa deferrable tasks.","WorkManager.getInstance(ctx).enqueue(workRequest)"
+Application,"Paano mag-set ng background limits?","I-declare ang foreground service o WorkManager.","<uses-permission android:name=\"android.permission.FOREGROUND_SERVICE\" />"
+Application,"Paano mag-reduce ng battery usage?","I-minimize ang location updates at i-batch ang network calls.","locationRequest.interval = 60000L"

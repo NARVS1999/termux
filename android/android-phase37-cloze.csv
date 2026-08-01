@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::memory leak}} ay situation kung saan ang objects ay hindi na-ga-garbage collect.",,memory leak
+Cloze,"Ang {{c1::weak reference}} ay reference type na hindi nag-p-prevent sa garbage collection.",,weak reference
+Cloze,"Ang {{c1::bitmap handling}} ay technique para i-optimize ng images para sa memory efficiency.",,bitmap handling
+Cloze,"Ang {{c1::ProGuard}} ay code obfuscation at shrinking tool na nag-r-removes ng unused code.",,ProGuard
+Cloze,"Ang {{c1::R8}} ay replacement sa ProGuard na mas mabilis at efficient na code optimizer.",,R8
+Cloze,"Sa Android, ang {{c1::LeakCanary}} ay library na nag-a-automate ng memory leak detection.",,LeakCanary
+Cloze,"Ang {{c1::onDestroy}} method ay dapat i-clear ng listeners at references para maiwasan ang leaks.",,onDestroy
+Cloze,"Ang {{c1::inSampleSize}} property ay nag-s-scales down ng bitmap para sa reduced memory usage.",,inSampleSize

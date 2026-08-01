@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-detect ng memory leak?","Gamitin ang LeakCanary library.","LeakCanary.install(application)"
+Application,"Paano mag-optimize ng bitmap?","I-scale down gamit ang inSampleSize.","options.inSampleSize = 4"
+Application,"Paano mag-clear ng references?","I-nullify ang references sa onDestroy.","override fun onDestroy() { listener = null }"
+Application,"Paano mag-enable ng ProGuard?","I-set ang minifyEnabled sa build.gradle.","android { buildTypes { release { minifyEnabled true } } }"
+Application,"Paano mag-use ng weak reference?","Gamitin ang WeakReference class.","val weakRef = WeakReference(activity)"

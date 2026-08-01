@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::CPU profiler}} ay tool na nag-a-analyze ng CPU usage at method execution times.",,CPU profiler
+Cloze,"Ang {{c1::memory profiler}} ay tool na nag-m-monitor ng memory allocation at garbage collection.",,memory profiler
+Cloze,"Sa Android, ang {{c1::network profiler}} ay tool na nag-i-inspects ng HTTP requests at responses.",,network profiler
+Cloze,"Ang {{c1::Systrace}} ay tracing tool na nag-r-records ng system events para sa performance analysis.",,Systrace
+Cloze,"Ang {{c1::Android Studio Profiler}} ay integrated tool na nag-o-overview ng CPU, memory, network, at battery.",,Android Studio Profiler
+Cloze,"Ang {{c1::method tracing}} ay technique na nag-m-measures ng execution time ng individual methods.",,method tracing
+Cloze,"Sa profiling, ang {{c1::flame chart}} ay visual representation ng method call stacks at their durations.",,flame chart
+Cloze,"Ang {{c1::allocations}} tracking ay feature na nag-t-tracks ng memory allocations para sa leak detection.",,allocations

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Doze}} ay Android feature na nag-l-limits ng background activity kapag naka-idle ang device.",,Doze
+Cloze,"Ang {{c1::background limits}} ay restrictions na nag-c-controls ng background execution.",,background limits
+Cloze,"Ang {{c1::efficient requests}} ay strategy na nag-m-minimizes ng battery drain sa network calls.",,efficient requests
+Cloze,"Sa Android, ang {{c1::Battery Saver}} mode ay nag-r-reduces ng performance para mag-extend ng battery life.",,Battery Saver
+Cloze,"Ang {{c1::WorkManager}} ay recommended na way para mag-s-schedule ng deferrable background tasks.",,WorkManager
+Cloze,"Ang {{c1::JobScheduler}} ay system service na nag-s-schedules ng jobs based sa conditions.",,JobScheduler
+Cloze,"Ang {{c1::setRequiresBatteryNotLow}} ay WorkManager constraint na nag-s-skips ng task kapag low battery.",,setRequiresBatteryNotLow
+Cloze,"Ang {{c1::batching}} ay technique na nag-g-groups ng network requests para sa efficiency.",,batching

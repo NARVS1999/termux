@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::cold start}} ay startup process mula sa walang app state hanggang ma-render ang screen.",,cold start
+Cloze,"Ang {{c1::lazy initialization}} ay technique na nag-d-defers ng object creation hanggang kailangan.",,lazy initialization
+Cloze,"Ang {{c1::baseline profile}} ay pre-compiled code paths na nag-s-speeds up ng app startup.",,baseline profile
+Cloze,"Sa Android, ang {{c1::Application class}} ay first na na-create sa app lifecycle.",,Application class
+Cloze,"Ang {{c1::startup library}} ay Jetpack component na nag-m-measures ng app startup times.",,startup library
+Cloze,"Ang {{c1::content provider initialization}} ay isang naunang startup step na nag-a-add ng delay.",,content provider initialization
+Cloze,"Ang {{c1::splash screen}} ay initial UI na nag-d-display habang nag-lo-load pa ang app.",,splash screen
+Cloze,"Ang {{c1::by lazy}} delegation sa Kotlin ay nag-i-initialize ng property on first access lang.",,by lazy

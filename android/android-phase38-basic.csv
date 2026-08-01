@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-optimize ng cold start?","Gamitin ang baseline profiles at i-defer ang non-essential init.","BaselineProfileGenerator().generateProfiles()"
+Application,"Paano mag-lazy load ng objects?","Gamitin ang by lazy delegation.","val heavyObject by lazy { createHeavyObject() }"
+Application,"Paano mag-measure ng startup time?","Gamitin ang Startup library metrics.","componentActivity.lifecycle.addObserver(StartupLogger())"
+Application,"Paano mag-defer ng initialization?","I-delay ang non-critical init gamit ang CoroutineScope.","scope.launch { delay(3000); initAnalytics() }"
+Application,"Paano mag-create ng splash screen?","Gamitin ang Android 12+ SplashScreen API.","installSplashScreen().apply { setKeepOnScreenCondition { !isReady } }"
