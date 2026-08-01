@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::cache-aside}} ay ang strategy kung saan ang application mismo ang naglo-load ng data sa cache.",,cache-aside
+Cloze,"Ang {{c1::write-through}} ay ang strategy kung saan sabay na sinusulat ang data sa cache at database.",,write-through
+Cloze,"Ang {{c1::write-back}} ay ang strategy kung saan sa cache muna isinusulat ang data bago sa database.",,write-back
+Cloze,"Ang {{c1::eviction policy}} ay ang rule kung aling entries ang aalisin kapag puno na ang cache.",,eviction policy
+Cloze,"Ang {{c1::LRU}} ay ang eviction policy na nag-aalis ng least recently used entries.",,LRU
+Cloze,"Ang {{c1::TTL}} ay ang expiration time ng mga cache entries.",,TTL
+Cloze,"Ang {{c1::cache stampede}} ay ang problema kapag sabay-sabay nag-query ang requests kapag nag-expire ang cache.",,cache stampede
+Cloze,"Ang {{c1::Redis}} ay ang in-memory data store na may advanced features tulad ng pub/sub.",,Redis
+Cloze,"Ang {{c1::Memcached}} ay ang distributed memory caching system para sa key-value data.",,Memcached

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::load balancer}} ay ang component na nagdi-distribute ng traffic sa maraming servers.",,load balancer
+Cloze,"Ang {{c1::round-robin}} ay ang load balancing strategy na nag-rotate ng requests sa servers isa-isa.",,round-robin
+Cloze,"Ang {{c1::throttling}} ay ang paglimita ng resource usage ng system.",,throttling
+Cloze,"Ang {{c1::rate limiting}} ay ang paglilimita ng bilang ng requests per user sa isang time window.",,rate limiting
+Cloze,"Ang {{c1::horizontal scaling}} ay ang pagdagdag ng mas maraming server instances.",,horizontal scaling
+Cloze,"Ang {{c1::vertical scaling}} ay ang pag-upgrade ng hardware ng iisang server.",,vertical scaling
+Cloze,"Ang {{c1::auto-scaling}} ay ang automatic na pagdagdag o pagbawas ng servers batay sa load.",,auto-scaling
+Cloze,"Ang {{c1::health check}} ay ang pagsusuri kung buhay at healthy ang isang server.",,health check
+Cloze,"Ang {{c1::session affinity}} ay ang pag-pin ng isang user sa iisang server.",,session affinity

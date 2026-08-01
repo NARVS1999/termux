@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::caching}} ay ang pag-i-store ng data para mas mabilis ang mga future requests.",,caching
+Cloze,"Ang {{c1::cache hit}} ay ang request na na-serve mula sa cache.",,cache hit
+Cloze,"Ang {{c1::cache miss}} ay ang request na hindi nahanap sa cache kaya kinailangang i-fetch.",,cache miss
+Cloze,"Ang {{c1::CDN}} ay ang network ng servers na nagdi-distribute ng static content.",,CDN
+Cloze,"Ang {{c1::client-side caching}} ay ang pag-cache ng data sa browser ng user.",,client-side caching
+Cloze,"Ang {{c1::server-side caching}} ay ang pag-cache ng data sa server.",,server-side caching
+Cloze,"Ang {{c1::HTTP caching}} ay ang pag-cache gamit ang HTTP headers.",,HTTP caching
+Cloze,"Ang {{c1::Cache-Control}} ay ang HTTP header na kumokontrol sa caching behavior.",,Cache-Control
+Cloze,"Ang {{c1::TTL}} ay ang time-to-live bago mag-expire ang isang cached data.",,TTL
+Cloze,"Ang {{c1::cache invalidation}} ay ang proseso ng pag-alis ng stale data sa cache.",,cache invalidation

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::profiling}} ay ang pagsusuri ng performance ng code para mahanap ang mga issues.",,profiling
+Cloze,"Ang {{c1::profiler}} ay ang tool na sumusukat kung saan gumugugol ng oras ang code.",,profiler
+Cloze,"Ang {{c1::load testing}} ay ang pag-test ng system sa ilalim ng mataas na load.",,load testing
+Cloze,"Ang {{c1::bottleneck}} ay ang parte ng system na naglilimita sa kabuuang performance.",,bottleneck
+Cloze,"Ang {{c1::latency}} ay ang oras bago mag-respond ang system sa request.",,latency
+Cloze,"Ang {{c1::throughput}} ay ang bilang ng requests na kayang i-process ng system kada segundo.",,throughput
+Cloze,"Ang {{c1::flame graph}} ay ang visualization ng function call stack at oras ng pag-execute.",,flame graph
+Cloze,"Ang {{c1::microbenchmark}} ay ang pagsukat ng performance ng isang maliit na code segment.",,microbenchmark
+Cloze,"Ang {{c1::percentile}} ay ang sukatan ng latency distribution tulad ng p95.",,percentile

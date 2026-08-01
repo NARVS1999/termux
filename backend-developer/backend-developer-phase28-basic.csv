@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-distribute ang traffic sa 3 servers?",,"Maglagay ng load balancer sa harap ng mga servers na nagdi-distribute ng requests."
+Application,"Paano protektahan ang API mula sa abuse?",,"Mag-implement ng rate limiting: maximum na 100 requests per minute per user."
+Application,"Paano mag-handle ng sudden traffic spike?",,"Gumamit ng auto-scaling na nag-a-add ng servers kapag tumataas ang load."
+Application,"Paano alisin ang server na sira sa rotation?",,"Mag-implement ng health checks na nagre-remove ng unhealthy servers sa pool."
+Application,"Paano mag-scale para sa mas mataas na performance?",,"Mag-horizontal scale: magdagdag ng instances sa likod ng load balancer."
