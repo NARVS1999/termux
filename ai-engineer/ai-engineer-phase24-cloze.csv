@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Hugging Face Inference SDK}} ay nagpapadali ng pag-call sa hosted models sa Hub.",,Hugging Face Inference SDK
+Cloze,"Ang {{c1::OpenRouter}} ay isang platform na nagbibigay ng access sa maraming models sa isang API.",,OpenRouter
+Cloze,"Ang {{c1::Vertex AI Agent Builder}} ay ang Google platform para mag-build ng AI agents.",,Vertex AI Agent Builder
+Cloze,"Ang {{c1::LangChain}} ay isang framework para mag-build ng LLM-powered applications.",,LangChain
+Cloze,"Ang {{c1::LlamaIndex}} ay isang framework na naka-focus sa data connection at retrieval para sa LLMs.",,LlamaIndex
+Cloze,"Ang {{c1::Hugging Face Spaces}} ay hosting para sa ML demos at apps.",,Hugging Face Spaces
+Cloze,"Ang {{c1::OpenRouter}} ay sumusuporta sa OpenAI-compatible request format.",,OpenRouter
+Cloze,"Ang {{c1::Inference Endpoints}} ay ang managed serving ng Hugging Face para sa mga models.",,Inference Endpoints
+Cloze,"Ang {{c1::ecosystem}} ng AI tools ay tumutukoy sa buong set ng libraries at platforms na available.",,ecosystem

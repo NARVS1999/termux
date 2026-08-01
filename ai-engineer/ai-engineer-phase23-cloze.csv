@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Gemini API}} ay ang Google API para sa Gemini models.",,Gemini API
+Cloze,"Ang {{c1::Messages API}} ay ang Anthropic API para sa Claude models.",,Messages API
+Cloze,"Ang {{c1::OpenAI-compatible APIs}} ay mga interfaces na sumusunod sa OpenAI request format.",,OpenAI-compatible APIs
+Cloze,"Ang {{c1::Claude 3.5 Sonnet}} ay isang modelo ng Anthropic na kilala sa reasoning at coding.",,Claude 3.5 Sonnet
+Cloze,"Ang {{c1::Google AI Studio}} ay ang web tool para mag-experiment sa Gemini models.",,Google AI Studio
+Cloze,"Ang {{c1::Anthropic SDK}} ay ang official library para sa Claude models.",,Anthropic SDK
+Cloze,"Ang {{c1::generation_config}} ay kung saan naka-set ang temperature at iba pang parameters sa Gemini.",,generation_config
+Cloze,"Ang {{c1::max_tokens}} ay ang parameter na naglilimita sa haba ng sagot ng Claude.",,max_tokens
+Cloze,"Ang paggamit ng {{c1::multi-provider}} approach ay nagbibigay ng flexibility sa pag-switch ng vendors.",,multi-provider

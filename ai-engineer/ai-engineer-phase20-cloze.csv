@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::closed models}} ay mga proprietary models na ina-access lang sa pamamagitan ng paid APIs.",,closed models
+Cloze,"Ang {{c1::open source models}} ay mga models na pwedeng i-download at patakbuhin sa sariling infra.",,open source models
+Cloze,"Ang {{c1::self-hosted models}} ay mga models na naka-deploy sa sariling servers para sa full control.",,self-hosted models
+Cloze,"Ang pag-pick ng model ay dapat base sa {{c1::trade-offs}} sa pagitan ng cost, performance, at control.",,trade-offs
+Cloze,"Ang {{c1::vendor lock-in}} ay ang risk na mahirap nang lumipat sa ibang provider.",,vendor lock-in
+Cloze,"Ang {{c1::latency}} ng self-hosted models ay pwedeng mas mababa kaysa sa cloud APIs.",,latency
+Cloze,"Ang {{c1::data privacy}} ay mas kontrolado kapag self-hosted ang model.",,data privacy
+Cloze,"Ang {{c1::benchmark}} ay ang standard na paraan para i-compare ang performance ng models.",,benchmark
+Cloze,"Ang {{c1::scaling}} ay ang kakayahan ng deployment na humawak ng lumalaking workload.",,scaling

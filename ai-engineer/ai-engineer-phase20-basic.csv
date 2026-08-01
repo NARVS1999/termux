@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-decide kung closed o open source model?",,"I-compare ang budget, privacy requirements, at kung kailangan ng full control."
+Application,"Paano i-deploy ang self-hosted model?",,"Gamitin ang vLLM o TGI sa GPU server at i-expose bilang API."
+Application,"Paano maiwasan ang vendor lock-in?",,"Gumamit ng abstraction layer o OpenAI-compatible APIs para madaling lumipat."
+Application,"Paano i-compare ang mga models?",,"I-run ang parehong prompts sa benchmark set at i-compare ang results."
+Application,"Paano i-scale ang model deployment?",,"Gumamit ng load balancer at auto-scaling sa server infrastructure."

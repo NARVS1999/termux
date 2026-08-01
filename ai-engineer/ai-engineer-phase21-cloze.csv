@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Ollama}} ay isang tool para mag-run ng open source models sa local machine.",,Ollama
+Cloze,"Ang {{c1::LM Studio}} ay isang desktop app para mag-download at mag-run ng local models.",,LM Studio
+Cloze,"Ang {{c1::Hugging Face Hub}} ay ang pinaka-popular na repository ng models at datasets.",,Hugging Face Hub
+Cloze,"Ang {{c1::Transformers.js}} ay nagpapahintulot mag-run ng models sa browser gamit ang JavaScript.",,Transformers.js
+Cloze,"Ang {{c1::Ollama CLI}} ay ginagamit para mag-pull at mag-run ng models sa command line.",,Ollama CLI
+Cloze,"Ang {{c1::model quantization}} ay ang pagbabawas ng model size para mas mabilis at mas magaan ito.",,model quantization
+Cloze,"Ang {{c1::GPU acceleration}} ay ginagamit para mas mabilis ang inference ng local models.",,GPU acceleration
+Cloze,"Ang {{c1::Hugging Face Inference SDK}} ay ginagamit para mag-call sa hosted models sa Hub.",,Hugging Face Inference SDK
+Cloze,"Ang {{c1::transformers}} library ay ang Python library para sa model loading at inference.",,transformers

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Responses API}} ay ang bagong API ng OpenAI para sa chat at agent tasks.",,Responses API
+Cloze,"Ang {{c1::OpenAI SDK}} ay ang official na library para mag-call sa OpenAI APIs.",,OpenAI SDK
+Cloze,"Ang {{c1::embeddings}} API ay ginagamit para i-convert ang text sa vector representations.",,embeddings
+Cloze,"Ang {{c1::Chat Completions}} ay ang mas lumang endpoint ng OpenAI para sa chat conversations.",,Chat Completions
+Cloze,"Ang {{c1::GPT-4o}} ay isang multimodal model ng OpenAI na kayang mag-handle ng text at images.",,GPT-4o
+Cloze,"Ang {{c1::model selection}} ay ang pagpili ng tamang model variant base sa task at cost.",,model selection
+Cloze,"Ang {{c1::API key}} ay ang authentication na ginagamit para ma-access ang OpenAI services.",,API key
+Cloze,"Ang {{c1::temperature}} at iba pang parameters ay pwedeng i-set sa API request para i-control ang output.",,temperature
+Cloze,"Ang {{c1::usage}} field sa response ay nagpapakita ng token consumption ng bawat request.",,usage

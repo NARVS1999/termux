@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-call sa Gemini model?",,"model.generate_content('Hello') gamit ang Google Generative AI SDK."
+Application,"Paano mag-call sa Claude model?",,"client.messages.create(model='claude-3-5-sonnet', max_tokens=1024, messages=[...])"
+Application,"Paano gumamit ng OpenAI-compatible endpoint sa ibang provider?",,"I-set ang base_url ng OpenAI client sa provider endpoint."
+Application,"Paano i-switch mula OpenAI papuntang Claude?",,"I-adapt ang request format sa Messages API at palitan ang model ID."
+Application,"Paano mag-run ng multi-provider setup?",,"Gumamit ng abstraction na pwedeng mag-route sa iba't ibang providers."

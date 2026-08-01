@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-call sa OpenAI gamit ang SDK?",,"client.responses.create(model='gpt-4o', input='Hello world')"
+Application,"Paano gumawa ng embeddings sa OpenAI?",,"client.embeddings.create(model='text-embedding-3-small', input='text')"
+Application,"Paano mag-set ng API key?",,"os.environ['OPENAI_API_KEY'] = 'your-key-here'"
+Application,"Paano i-stream ang response ng OpenAI?",,"I-set ang stream=True sa request at i-iterate sa response."
+Application,"Paano malaman ang token usage ng request?",,"I-check ang usage field sa response object."

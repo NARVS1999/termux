@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-run ng model gamit ang Ollama?",,"ollama run llama3"
+Application,"Paano mag-download ng model mula sa Hugging Face?",,"Gamitin ang transformers library: AutoModel.from_pretrained('model-id')"
+Application,"Paano mag-run ng model sa browser?",,"Gamitin ang Transformers.js para mag-load ng model sa client side."
+Application,"Paano i-reduce ang memory ng model?",,"Gamitin ang quantization (hal. 4-bit o 8-bit) para bawasan ang size."
+Application,"Paano mag-load ng quantized model?",,"Gamitin ang load_in_8bit o load_in_4bit parameter sa transformers."
