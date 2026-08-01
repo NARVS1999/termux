@@ -4,10 +4,10 @@
 
 ## Complexity & Fundamentals (Prerequisites)
 
-- [ ] **Phase 1** — Big-O: notation, growth rates, best/avg/worst cases
-- [ ] **Phase 2** — Time vs space: tradeoffs, constraints, analysis
-- [ ] **Phase 3** — Analyzing code: loops, recursion, nested structures
-- [ ] **Phase 4** — Problem-solving approach: understand, plan, implement, test
+- [x] **Phase 1** — Big-O: notation, growth rates, best/avg/worst cases
+- [x] **Phase 2** — Time vs space: tradeoffs, constraints, analysis
+- [x] **Phase 3** — Analyzing code: loops, recursion, nested structures
+- [x] **Phase 4** — Problem-solving approach: understand, plan, implement, test
 
 ## Arrays & Strings
 
