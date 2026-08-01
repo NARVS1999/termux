@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-implement ng BFS?","Gamitin ang queue at visited set.","queue.add(start); visited.add(start); while(queue not empty) { node = queue.poll(); for neighbor in adj[node] }"
+Application,"Paano mag-implement ng DFS?","Gamitin ang recursion o stack.","fun dfs(node) { visited.add(node); for (neighbor in adj[node]) if (neighbor !in visited) dfs(neighbor) }"
+Application,"Paano mag-count ng components?","I-traverse ang graph at mag-increment count kapag may bagong unvisited node.","for node in 0..n if node !in visited { dfs(node); count++ }"
+Application,"Paano mag-solve ng flood fill?","Gamitin ang BFS/DFS mula sa starting cell.","bfs(matrix, startRow, startCol, newColor, oldColor)"
+Application,"Paano mag-check ng connected graph?","I-check kung na-visit ang lahat ng nodes pagkatapos ng traversal.","return visited.size == totalNodes"

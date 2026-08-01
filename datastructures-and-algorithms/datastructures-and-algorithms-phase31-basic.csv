@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-implement ng Dijkstra?","Gamitin ang PriorityQueue at relaxation.","dist[source] = 0; pq.add(0, source); while(pq not empty) { d, u = pq.poll(); for v,w in adj[u]: if(dist[u]+w < dist[v]) relax }"
+Application,"Paano mag-implement ng Bellman-Ford?","I-relax ang lahat ng edges V-1 times.","for i in 0..V-1: for edge in edges: if dist[edge.from] + edge.weight < dist[edge.to] relax"
+Application,"Paano mag-detect ng negative cycle?","I-check kung nag-update pa after V-1 iterations.","if (iteration == V && updated) return true // negative cycle"
+Application,"Paano mag-solve ng shortest path gamit BFS?","Kapag unweighted graph, gamitin ang BFS.","bfs(source); dist[node] = level of node"
+Application,"Paano mag-reconstruct ng path?","I-maintain ang parent array habang nag-u-update ng distances.","parent[v] = u; // kapag na-relax ang edge u-v"

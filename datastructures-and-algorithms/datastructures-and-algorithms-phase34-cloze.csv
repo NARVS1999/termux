@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::union-find}} ay data structure na nag-d-determines ng connectivity sa pagitan ng elements.",,union-find
+Cloze,"Ang {{c1::disjoint set}} ay collection ng non-overlapping sets.",,disjoint set
+Cloze,"Ang {{c1::find}} operation ay nag-b-balik ng representative ng set.",,find
+Cloze,"Ang {{c1::union}} operation ay nag-c-combines ng dalawang sets.",,union
+Cloze,"Ang {{c1::path compression}} ay optimization na nag-f-flattens ng tree structure.",,path compression
+Cloze,"Ang {{c1::union by rank}} ay optimization na nag-a-attach ng smaller tree sa larger.",,union by rank
+Cloze,"Ang {{c1::connected components}} ay kaya nitong i-count gamit ang union-find.",,connected components
+Cloze,"Ang {{c1::amortized near O(1)}} ay time complexity ng find at union gamit ang optimizations.",,amortized near O(1)

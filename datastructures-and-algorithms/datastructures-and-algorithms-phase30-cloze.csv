@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::BFS}} ay breadth-first traversal na nag-v-visits ng lahat sa current level bago mag-proceed.",,BFS
+Cloze,"Ang {{c1::DFS}} ay depth-first traversal na nag-m-move sa deepest node bago mag-backtrack.",,DFS
+Cloze,"Ang {{c1::component}} ay connected group ng nodes sa graph.",,component
+Cloze,"Ang {{c1::flood fill}} ay algorithm na nag-c-colors ng connected region sa matrix.",,flood fill
+Cloze,"Ang {{c1::visited}} set ay nag-t-tracks ng na-visit na nodes para maiwasan ang revisits.",,visited
+Cloze,"Ang {{c1::level}} ay distance ng node mula sa source sa BFS.",,level
+Cloze,"Ang {{c1::connected components}} ay count ng separate groups sa undirected graph.",,connected components
+Cloze,"Ang {{c1::cycle}} ay path na nagsisimula at nag-e-end sa same node.",,cycle

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Kahn's algorithm}} ay BFS-based topological sort na nag-u-uses ng in-degree.",,Kahn's algorithm
+Cloze,"Ang {{c1::topological order}} ay valid na sequence kung saan bawat node ay na-process bago ang mga dependent.",,topological order
+Cloze,"Ang {{c1::DFS-based}} topological sort ay nag-s-sorts ng nodes sa reverse finish order.",,DFS-based
+Cloze,"Ang {{c1::dependency}} ay relationship kung saan ang isang task ay naka-rely sa isa pang task.",,dependency
+Cloze,"Ang {{c1::in-degree 0}} node ay node na walang incoming edges na pwedeng i-process muna.",,in-degree 0
+Cloze,"Ang {{c1::cycle check}} gamit topological sort: kapag walang valid ordering may cycle.",,cycle check
+Cloze,"Ang {{c1::task scheduling}} ay classic application ng topological sort.",,task scheduling
+Cloze,"Ang {{c1::course schedule}} ay LeetCode problem na nag-s-solves gamit ang topological sort.",,course schedule

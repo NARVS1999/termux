@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-topological sort gamit Kahn's?","I-compute in-degree, i-process ang 0 in-degree nodes, i-reduce ang in-degree ng neighbors.","queue all with inDegree 0; while queue: process node; for neighbor: inDegree[neighbor]--"
+Application,"Paano mag-topological sort gamit DFS?","I-DFS tapos i-add sa front ng list pagkatapos ma-finish.","dfs(node): visited.add(node); for neighbor: dfs(neighbor); result.add(0, node)"
+Application,"Paano mag-solve ng course schedule?","Gamitin ang topological sort: kung valid ordering lahat matatapos.","return topologicalSort.size == numCourses"
+Application,"Paano mag-check ng valid ordering?","I-check kung walang cycle gamit topological sort.","val result = topologicalSort(); return result != null"
+Application,"Paano mag-solve ng task dependencies?","Gamitin ang topological sort para mag-determine ng execution order.","for task in topologicalOrder: execute(task)"

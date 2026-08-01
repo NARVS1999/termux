@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-implement ng find?","Gamitin ang path compression.","fun find(x) = if (parent[x] != x) parent[x] = find(parent[x]) else x"
+Application,"Paano mag-implement ng union?","Gamitin ang union by rank.","fun union(x, y) { rx = find(x); ry = find(y); if (rank[rx] < rank[ry]) swap }"
+Application,"Paano mag-check ng connectivity?","I-check kung same representative ang dalawang nodes.","return find(x) == find(y)"
+Application,"Paano mag-count ng connected components?","I-count ang unique representatives.","count = 0; for i in 0..n: if parent[i] == i: count++"
+Application,"Paano mag-detect ng cycle gamit union-find?","Kapag iisang set na ang edge endpoints may cycle.","if (find(u) == find(v)) return true else union(u, v)"

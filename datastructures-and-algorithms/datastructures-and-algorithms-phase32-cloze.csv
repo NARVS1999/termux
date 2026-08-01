@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::cycle detection}} sa graph ay pag-detect kung may cycle ang graph.",,cycle detection
+Cloze,"Ang {{c1::directed cycle}} ay cycle na sumusunod sa edge directions.",,directed cycle
+Cloze,"Ang {{c1::undirected cycle}} ay cycle sa undirected graph na may back edge.",,undirected cycle
+Cloze,"Ang {{c1::back edge}} ay edge na nag-c-connect sa node sa current DFS path.",,back edge
+Cloze,"Ang {{c1::topological sort}} ay linear ordering ng vertices na nag-s-satisfy ng all constraints.",,topological sort
+Cloze,"Ang {{c1::in-degree}} ay number of edges na papasok sa node.",,in-degree
+Cloze,"Ang {{c1::out-degree}} ay number of edges na palabas ng node.",,out-degree
+Cloze,"Ang {{c1::DAG}} ay directed acyclic graph na walang cycles.",,DAG

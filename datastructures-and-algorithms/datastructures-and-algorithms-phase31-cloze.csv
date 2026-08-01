@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Dijkstra}} ay algorithm na nag-f-find ng shortest path mula sa source sa lahat ng nodes.",,Dijkstra
+Cloze,"Ang {{c1::Bellman-Ford}} ay shortest path algorithm na nag-h-handles ng negative weights.",,Bellman-Ford
+Cloze,"Ang {{c1::negative weight}} ay edge na may negative value na nag-d-distorts ng shortest path.",,negative weight
+Cloze,"Ang {{c1::priority queue}} sa Dijkstra ay nag-s-serves ng pinakamalapit na node.",,priority queue
+Cloze,"Ang {{c1::relaxation}} ay process ng pag-u-update ng shortest distance kapag may mas maikling path.",,relaxation
+Cloze,"Ang {{c1::single source}} ay shortest path algorithm na nag-f-finds mula sa iisang node.",,single source
+Cloze,"Ang {{c1::negative cycle}} ay cycle na may total negative weight na nag-c-causes ng infinite loop.",,negative cycle
+Cloze,"Ang {{c1::greedy approach}} ng Dijkstra ay laging pinipili ang pinakamalapit na node.",,greedy approach

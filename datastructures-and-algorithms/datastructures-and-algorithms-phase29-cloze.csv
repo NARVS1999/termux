@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::graph}} ay collection ng nodes (vertices) na connected by edges.",,graph
+Cloze,"Ang {{c1::adjacency list}} ay representation na nag-l-links ng bawat node sa list ng neighbors.",,adjacency list
+Cloze,"Ang {{c1::adjacency matrix}} ay 2D array na nag-i-indicate ng connections sa pagitan ng nodes.",,adjacency matrix
+Cloze,"Ang {{c1::directed graph}} ay graph na ang edges ay may direction.",,directed graph
+Cloze,"Ang {{c1::undirected graph}} ay graph na ang edges ay walang direction.",,undirected graph
+Cloze,"Ang {{c1::weighted graph}} ay graph na ang edges ay may associated values.",,weighted graph
+Cloze,"Ang {{c1::sparse graph}} ay graph na may kaunti lang edges relative sa possible na connections.",,sparse graph
+Cloze,"Ang {{c1::dense graph}} ay graph na may maraming edges relative sa possible na connections.",,dense graph
