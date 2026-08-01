@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::kotlinx.serialization}} ay Kotlin-first serialization library na nag-c-compile ng JSON code at compile time.",,kotlinx.serialization
+Cloze,"Ang {{c1::@Serializable}} annotation ay nag-m-mark ng class na pwedeng i-serialize/deserialize.",,@Serializable
+Cloze,"Sa Android, ang {{c1::Gson}} ay Java-based library na nag-c-convert ng objects to/from JSON.",,Gson
+Cloze,"Ang {{c1::Moshi}} ay modern JSON library na may code generation at Kotlin support.",,Moshi
+Cloze,"Ang {{c1::model mapping}} ay process ng pag-c-convert ng API response to Kotlin data classes.",,model mapping
+Cloze,"Sa serialization, ang {{c1::@SerialName}} annotation ay ginagamit para mag-override ng JSON key name.",,@SerialName
+Cloze,"Ang {{c1::Json}} object sa kotlinx.serialization ay central configuration for encode/decode.",,Json
+Cloze,"Ang {{c1::TypeAdapter}} ay Gson component na nag-c-customize ng serialization behavior para sa specific type.",,TypeAdapter

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Coil}} ay Kotlin-first image loading library na ginagamit sa Jetpack Compose at XML.",,Coil
+Cloze,"Ang {{c1::Glide}} ay popular image loading library na may built-in caching at transformations.",,Glide
+Cloze,"Sa Android, ang {{c1::caching}} ay process ng pag-s-store ng images para sa faster loading.",,caching
+Cloze,"Ang {{c1::placeholder}} ay default image na nag-d-display habang nag-lo-load pa ang actual image.",,placeholder
+Cloze,"Ang {{c1::AsyncImage}} composable ay Coil's Compose component para sa image loading.",,AsyncImage
+Cloze,"Ang {{c1::disk cache}} ay storage na nag-s-stores ng images sa device's file system.",,disk cache
+Cloze,"Ang {{c1::memory cache}} ay in-memory storage na nag-s-stores ng recently loaded images.",,memory cache
+Cloze,"Ang {{c1::GlideModule}} ay configuration class na nag-c-customize ng Glide behavior globally.",,GlideModule

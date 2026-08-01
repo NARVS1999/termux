@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-display ng image gamit Coil sa Compose?","Gamitin ang AsyncImage composable.","AsyncImage(model = url, contentDescription = \"Photo\")"
+Application,"Paano mag-add ng placeholder sa image?","I-set ang placeholder parameter sa Coil o Glide.","AsyncImage(model = url, placeholder = painterResource(R.drawable.loading))"
+Application,"Paano mag-load ng image gamit Glide sa XML?","Gamitin ang into() method sa ImageView.","imageView.into(R.drawable.photo)"
+Application,"Paano mag-configure ng image cache?","I-set ang memoryCache at diskCache sa Coil ImageLoader.","ImageLoader.Builder(context).memoryCache { MemoryCache.Builder(context).maxSize(256.mb).build() }"
+Application,"Paano mag-apply ng image transformation?","I-chain ang transform() sa image request.","Glide.with(ctx).load(url).circleCrop().into(imageView)"

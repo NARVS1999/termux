@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Retrofit}} ay type-safe HTTP client na ginagamit para mag-connect sa REST APIs sa Android.",,Retrofit
+Cloze,"Ang {{c1::OkHttp}} ay HTTP client na nag-h-handles ng low-level networking at connection management.",,OkHttp
+Cloze,"Sa Android, ang {{c1::@GET}} annotation ay ginagamit para mag-define ng GET API endpoint sa Retrofit.",,@GET
+Cloze,"Ang {{c1::@POST}} annotation ay ginagamit para mag-define ng POST API endpoint sa Retrofit.",,@POST
+Cloze,"Ang {{c1::interceptor}} ay component na nag-a-add ng custom logic sa HTTP requests at responses.",,interceptor
+Cloze,"Ang {{c1::Retrofit.Builder}} ay factory na nag-c-creates ng Retrofit instance na may base URL at converters.",,Retrofit.Builder
+Cloze,"Sa Android, ang {{c1::suspend}} function ay pwedeng i-use sa Retrofit interface para async na API calls.",,suspend
+Cloze,"Ang {{c1::Response}} class ay wrapper na nag-c-contains ng HTTP status, headers, at body.",,Response
+Cloze,"Ang {{c1::BaseUrl}} ay root URL na nag-s-specify ng API server location.",,BaseUrl

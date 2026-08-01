@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::ConnectivityManager}} ay system service na nag-c-check ng network state.",,ConnectivityManager
+Cloze,"Sa Android, ang {{c1::NetworkCapabilities}} ay nag-s-specify ng network type at capabilities.",,NetworkCapabilities
+Cloze,"Ang {{c1::timeout}} ay maximum na oras na hihintayin ng network request bago mag-fail.",,timeout
+Cloze,"Ang {{c1::offline handling}} ay strategy para mag-f-function ng app kapag walang internet connection.",,offline handling
+Cloze,"Ang {{c1::retry}} ay mechanism na nag-e-execute ulit ng failed request na may backoff strategy.",,retry
+Cloze,"Sa Android, ang {{c1::INTERNET}} permission ay required para mag-send ng network requests.",,INTERNET permission
+Cloze,"Ang {{c1::NetworkCallback}} ay listener na nag-n-notifies ng network state changes.",,NetworkCallback
+Cloze,"Ang {{c1::isConnected}} property ay boolean na nag-i-indicate ng active network connection.",,isConnected

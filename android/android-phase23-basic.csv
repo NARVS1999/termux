@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-set up ng Retrofit?","I-create ang Retrofit instance na may base URL at GsonConverterFactory.","Retrofit.Builder().baseUrl(\"https://api.example.com/\").addConverterFactory(GsonConverterFactory.create()).build()"
+Application,"Paano mag-define ng API endpoint?","I-annotate ang suspend function gamit ang @GET o @POST.","@GET(\"users\") suspend fun getUsers(): List<User>"
+Application,"Paano mag-add ng interceptor sa OkHttp?","I-add ang interceptor sa OkHttpClient.Builder.","OkHttpClient.Builder().addInterceptor(authInterceptor).build()"
+Application,"Paano mag-handle ng API error?","I-check ang response.isSuccessful at i-catch ang exceptions.","if (!response.isSuccessful) throw IOException(\"Error\")"
+Application,"Paano mag-add ng Authorization header?","Gamitin ang interceptor na may addHeader method.","Interceptor { chain -> chain.proceed(chain.request().newBuilder().addHeader(\"Authorization\", token).build()) }"
