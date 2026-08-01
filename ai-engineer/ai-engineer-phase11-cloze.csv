@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::zero-shot}} prompting ay ang pagtatanong sa model nang walang anumang examples.",,zero-shot
+Cloze,"Ang {{c1::few-shot}} prompting ay ang pagbibigay ng ilang examples sa prompt bago ang aktwal na task.",,few-shot
+Cloze,"Ang {{c1::chain-of-thought}} (CoT) ay ang paghihikayat sa model na mag-isip nang step by step bago sumagot.",,chain-of-thought
+Cloze,"Ang {{c1::zero-shot CoT}} ay ginagawa sa pamamagitan ng pag-add ng 'Let's think step by step' sa prompt.",,zero-shot CoT
+Cloze,"Ang {{c1::self-consistency}} ay ang pag-run ng CoT ng maraming beses at pag-pick ng pinaka-consistent na sagot.",,self-consistency
+Cloze,"Ang mga examples sa few-shot ay dapat na {{c1::representative}} ng task na ginagawa.",,representative
+Cloze,"Ang {{c1::prompt template}} ay isang reusable na prompt na may placeholders para sa dynamic na content.",,prompt template
+Cloze,"Ang CoT ay partikular na kapaki-pakinabang sa {{c1::reasoning}} tasks tulad ng math at logic.",,reasoning
+Cloze,"Ang pag-aayos ng examples mula simple hanggang complex ay tinatawag na {{c1::curriculum}} ordering.",,curriculum

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::structured output}} ay ang paggawa ng model ng output sa isang specific na schema o format.",,structured output
+Cloze,"Ang {{c1::JSON mode}} ay nagpapagawa sa model ng valid na JSON na pwedeng i-parse sa code.",,JSON mode
+Cloze,"Ang {{c1::function calling}} ay ang kakayahan ng model na mag-trigger ng predefined functions.",,function calling
+Cloze,"Ang {{c1::output schema}} ay ang definition ng inaasahang structure ng response.",,output schema
+Cloze,"Ang {{c1::tool call}} ay ang request ng model na mag-execute ng isang function na may specific arguments.",,tool call
+Cloze,"Sa function calling, ang {{c1::tool_choice}} ay nagko-control kung aling tool ang pwedeng gamitin ng model.",,tool_choice
+Cloze,"Ang pag-declare ng {{c1::function parameters}} ay ginagawa gamit ang JSON schema.",,function parameters
+Cloze,"Ang {{c1::Pydantic}} o marshmallow ay ginagamit para i-validate ang structured outputs sa Python.",,Pydantic
+Cloze,"Ang {{c1::streaming}} ay nagpapadala ng output nang paunti-unti habang ginagawa ito ng model.",,streaming

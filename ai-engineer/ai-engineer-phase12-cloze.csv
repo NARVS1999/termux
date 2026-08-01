@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::ReAct}} ay isang prompting technique na nagpapalit-palit ng reasoning at action.",,ReAct
+Cloze,"Sa ReAct, ang model ay nag-iisip ({{c1::thought}}) bago gumawa ng aksyon (action).",,thought
+Cloze,"Ang {{c1::role prompting}} ay ang pagbibigay sa model ng specific na persona para i-guide ang sagot.",,role prompting
+Cloze,"Ang {{c1::behavior}} specification ay ang pagtuturo sa model kung paano kumilos (hal. maging concise).",,behavior
+Cloze,"Ang {{c1::constraints}} ay mga restrictions tulad ng format, haba, o topics na pwedeng sagutin.",,constraints
+Cloze,"Sa ReAct, ang {{c1::observation}} ay ang resulta ng action na binabalik sa model para sa susunod na thought.",,observation
+Cloze,"Ang {{c1::tool use}} sa ReAct ay ang pag-call ng external tools tulad ng search o calculator.",,tool use
+Cloze,"Ang {{c1::chain-of-thought}} ay ang pag-break ng complex problem sa mga smaller steps.",,chain-of-thought
+Cloze,"Ang pag-set ng {{c1::persona}} ay nakakatulong i-adapt ang tone at style ng model.",,persona

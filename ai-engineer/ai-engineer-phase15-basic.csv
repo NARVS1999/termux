@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano bawasan ang cost ng paulit-ulit na prompts?",,"Gamitin ang prompt caching para hindi na ma-process ulit ang parehong prefix."
+Application,"Paano mag-stream ng response sa user?",,"I-set ang stream=True at i-iterate sa response events."
+Application,"Paano i-track ang token usage?",,"I-parse ang usage field sa response at i-accumulate sa logs."
+Application,"Paano bawasan ang latency ng app?",,"Gumamit ng mas maliit na model o i-reduce ang context length."
+Application,"Paano i-optimize ang context na ipinapadala?",,"I-trim ang hindi relevant na history at i-keep lang ang importanteng context."

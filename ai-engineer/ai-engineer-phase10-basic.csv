@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng prompt na may malinaw na instruction?",,"Magsimula sa verb: 'Summarize', 'Translate', o 'List' ang task na gusto mong gawin."
+Application,"Paano i-separate ang instructions sa user data?",,"Gamitin ang delimiters tulad ng triple quotes o <input> tags."
+Application,"Paano i-specify ang output format ng model?",,"Sabihin sa prompt: 'Return the answer as JSON' o 'Answer in bullet points'."
+Application,"Paano magbigay ng context sa prompt?",,"Ilagay ang relevant background info bago ang aktwal na question."
+Application,"Paano i-limit ang haba ng sagot?",,"Magdagdag ng constraint tulad ng 'Answer in at most 5 sentences'."

@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::temperature}} ay nagkokontrol kung gaano ka-random ang mga sagot ng model.",,temperature
+Cloze,"Ang mababang {{c1::temperature}} (hal. 0.1) ay gumagawa ng mas deterministic at focused na output.",,temperature
+Cloze,"Ang {{c1::top-k}} sampling ay naglilimita sa pagpili ng susunod na token sa top k na pinakamalamang.",,top-k
+Cloze,"Ang {{c1::top-p}} (nucleus) sampling ay pumipili ng tokens hanggang sa ma-reach ang cumulative probability na p.",,top-p
+Cloze,"Ang {{c1::repetition penalty}} ay nagpapababa ng chance na maulit ng model ang mga nasabi na nitong tokens.",,repetition penalty
+Cloze,"Ang {{c1::seed}} ay ginagamit para mag-reproduce ng parehong output sa ilang sampling scenarios.",,seed
+Cloze,"Ang {{c1::max tokens}} ay naglilimita sa haba ng generated na sagot.",,max tokens
+Cloze,"Ang mataas na temperature ay angkop para sa {{c1::creative}} tasks tulad ng brainstorming.",,creative
+Cloze,"Ang mababang temperature ay angkop para sa {{c1::factual}} tasks tulad ng extraction.",,factual

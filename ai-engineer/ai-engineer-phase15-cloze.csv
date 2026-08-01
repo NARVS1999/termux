@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::prompt caching}} ay ang pag-store ng paulit-ulit na prompt parts para mas mabilis at mura ang calls.",,prompt caching
+Cloze,"Ang {{c1::streaming responses}} ay ang pag-receive ng tokens nang paunti-unti habang nagko-generate ang model.",,streaming responses
+Cloze,"Ang {{c1::context engineering}} ay ang pagdidisenyo ng context para ma-maximize ang relevance at efficiency.",,context engineering
+Cloze,"Ang {{c1::token usage}} tracking ay importante para ma-manage ang cost ng API calls.",,token usage
+Cloze,"Ang {{c1::cache hit}} ay nangyayari kapag may nakita na ring kaparehong prompt na na-cache na.",,cache hit
+Cloze,"Ang {{c1::latency}} ay ang oras mula sa pag-send ng request hanggang sa pag-receive ng sagot.",,latency
+Cloze,"Ang pag-sort ng {{c1::system prompts}} at static context sa simula ay nakakatulong sa prompt caching.",,system prompts
+Cloze,"Ang {{c1::cost optimization}} ay ang pagbabawas ng token consumption nang hindi sinasakripisyo ang quality.",,cost optimization
+Cloze,"Ang {{c1::dynamic context}} ay ang context na nagbabago base sa user input o state.",,dynamic context

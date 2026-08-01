@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::instruction}} ay ang bahagi ng prompt na nagsasabi sa model kung ano ang gagawin.",,instruction
+Cloze,"Ang {{c1::input format}} ay kung paano naka-istruktura ang data na ibibigay sa model.",,input format
+Cloze,"Ang {{c1::system prompt}} ay ang pangunahing instruction na nagse-set ng behavior ng model sa buong session.",,system prompt
+Cloze,"Ang {{c1::context}} sa prompt ay ang background information na kailangan ng model para sumagot nang tama.",,context
+Cloze,"Ang {{c1::delimiters}} ay mga markers na ginagamit para ihiwalay ang iba't ibang bahagi ng prompt.",,delimiters
+Cloze,"Ang {{c1::few-shot examples}} ay mga halimbawa na inilalagay sa prompt para i-guide ang format ng sagot.",,few-shot examples
+Cloze,"Ang {{c1::output format}} ay ang specification kung paano dapat i-format ang sagot (hal. JSON).",,output format
+Cloze,"Ang {{c1::role}} sa prompt ay ang persona na ginagampanan ng model (hal. helpful assistant).",,role
+Cloze,"Ang {{c1::constraints}} ay mga limits na inilalagay sa prompt para i-control ang output.",,constraints

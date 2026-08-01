@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-prompt nang walang examples?",,"Gamitin ang zero-shot: direktang tanong ang model gamit ang malinaw na instruction."
+Application,"Paano mag-improve ng accuracy sa classification tasks?",,"Gumamit ng few-shot prompting na may mga labeled examples."
+Application,"Paano i-encourage ang model na mag-isip nang hakbang-hakbang?",,"Magdagdag ng 'Let's think step by step' sa prompt."
+Application,"Paano i-improve ang reliability ng reasoning answers?",,"Gamitin ang self-consistency: mag-sample ng maraming sagot at i-vote."
+Application,"Paano gumawa ng reusable prompt para sa maraming inputs?",,"Gumawa ng template na may placeholder tulad ng {input} at i-fill kada call."
