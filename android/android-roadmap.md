@@ -60,10 +60,10 @@
 
 ## Performance & Optimization
 
-- [ ] **Phase 36** — Profiling: CPU, memory, network profiling tools
-- [ ] **Phase 37** — Memory: leaks, weak references, bitmap handling, ProGuard/R8
-- [ ] **Phase 38** — App startup: cold start, lazy init, baseline profiles
-- [ ] **Phase 39** — Battery & network: Doze, background limits, efficient requests
+- [x] **Phase 36** — Profiling: CPU, memory, network profiling tools
+- [x] **Phase 37** — Memory: leaks, weak references, bitmap handling, ProGuard/R8
+- [x] **Phase 38** — App startup: cold start, lazy init, baseline profiles
+- [x] **Phase 39** — Battery & network: Doze, background limits, efficient requests
 
 ## Security & Best Practices
 
