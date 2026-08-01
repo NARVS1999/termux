@@ -21,12 +21,12 @@
 
 ## UI Development
 
-- [ ] **Phase 12** — Jetpack Compose basics: composables, layout, modifiers, state
-- [ ] **Phase 13** — Compose state: remember, mutableStateOf, state hoisting, ViewModel state
-- [ ] **Phase 14** — XML layouts: ConstraintLayout, LinearLayout, view binding
-- [ ] **Phase 15** — Material Design: Material 3, theming, color systems, typography
-- [ ] **Phase 16** — Forms & inputs: TextFields, validation, gestures, focus handling
-- [ ] **Phase 17** — Animation: Compose animations, transitions, Lottie, motion
+- [x] **Phase 12** — Jetpack Compose basics: composables, layout, modifiers, state
+- [x] **Phase 13** — Compose state: remember, mutableStateOf, state hoisting, ViewModel state
+- [x] **Phase 14** — XML layouts: ConstraintLayout, LinearLayout, view binding
+- [x] **Phase 15** — Material Design: Material 3, theming, color systems, typography
+- [x] **Phase 16** — Forms & inputs: TextFields, validation, gestures, focus handling
+- [x] **Phase 17** — Animation: Compose animations, transitions, Lottie, motion
 
 ## Data & Persistence
 
