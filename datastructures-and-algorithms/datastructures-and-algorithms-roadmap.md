@@ -11,11 +11,11 @@
 
 ## Arrays & Strings
 
-- [ ] **Phase 5** — Array basics: indexing, slicing, in-place ops
-- [ ] **Phase 6** — Two pointers: sorted arrays, partitioning, merging
-- [ ] **Phase 7** — Sliding window: fixed and dynamic windows
-- [ ] **Phase 8** — Prefix sums: ranges, subarrays, 2D variants
-- [ ] **Phase 9** — Matrix manipulation: traversal, rotation, paths
+- [x] **Phase 5** — Array basics: indexing, slicing, in-place ops
+- [x] **Phase 6** — Two pointers: sorted arrays, partitioning, merging
+- [x] **Phase 7** — Sliding window: fixed and dynamic windows
+- [x] **Phase 8** — Prefix sums: ranges, subarrays, 2D variants
+- [x] **Phase 9** — Matrix manipulation: traversal, rotation, paths
 
 ## Linked Lists
 
