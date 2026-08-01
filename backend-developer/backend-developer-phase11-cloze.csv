@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::relational database}} ay ang database na nag-i-store ng data sa tables na may relations sa isa't isa.",,relational database
+Cloze,"Ang {{c1::PostgreSQL}} ay ang open-source relational database na kilala sa advanced features.",,PostgreSQL
+Cloze,"Ang {{c1::MySQL}} ay ang sikat na open-source relational database para sa web applications.",,MySQL
+Cloze,"Ang {{c1::MariaDB}} ay ang community fork ng MySQL.",,MariaDB
+Cloze,"Ang {{c1::SQLite}} ay ang lightweight database na naka-embed mismo sa application.",,SQLite
+Cloze,"Ang {{c1::MS SQL}} ay ang relational database ng Microsoft na tumatakbo sa Windows.",,MS SQL
+Cloze,"Ang {{c1::Oracle}} ay ang enterprise-level relational database na kilala sa scalability.",,Oracle
+Cloze,"Ang {{c1::table}} ay ang collection ng rows at columns sa relational database.",,table
+Cloze,"Ang {{c1::primary key}} ay ang unique identifier ng bawat row sa isang table.",,primary key
+Cloze,"Ang {{c1::foreign key}} ay ang column na nagli-link sa primary key ng ibang table.",,foreign key

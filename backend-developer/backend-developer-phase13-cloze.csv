@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::normalization}} ay ang proseso ng pag-eliminate ng data redundancy sa database.",,normalization
+Cloze,"Ang {{c1::data modeling}} ay ang pag-design ng structure ng database bago ito i-build.",,data modeling
+Cloze,"Ang {{c1::entity}} ay ang object o concept na nire-represent sa database.",,entity
+Cloze,"Ang {{c1::relationship}} ay ang link sa pagitan ng dalawang entities.",,relationship
+Cloze,"Ang {{c1::one-to-many}} ay ang relationship kung saan ang isang record ay may maraming related records.",,one-to-many
+Cloze,"Ang {{c1::many-to-many}} ay ang relationship na nangangailangan ng junction table.",,many-to-many
+Cloze,"Ang {{c1::schema}} ay ang structure ng database tables at kanilang relations.",,schema
+Cloze,"Ang {{c1::denormalization}} ay ang intentional na pagdagdag ng redundancy para sa performance.",,denormalization
+Cloze,"Ang {{c1::ER diagram}} ay ang visual na representasyon ng entities at kanilang relationships.",,ER diagram

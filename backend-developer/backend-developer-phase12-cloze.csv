@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::CRUD}} ay ang Create, Read, Update, at Delete operations sa database.",,CRUD
+Cloze,"Ang {{c1::SELECT}} ay ang SQL statement para kumuha ng data mula sa table.",,SELECT
+Cloze,"Ang {{c1::INSERT}} ay ang SQL statement para magdagdag ng bagong row.",,INSERT
+Cloze,"Ang {{c1::UPDATE}} ay ang SQL statement para magbago ng existing row.",,UPDATE
+Cloze,"Ang {{c1::DELETE}} ay ang SQL statement para magtanggal ng row.",,DELETE
+Cloze,"Ang {{c1::JOIN}} ay ang operation para pagsamahin ang rows mula sa dalawang tables.",,JOIN
+Cloze,"Ang {{c1::aggregation}} ay ang pagcompute ng summary values gamit ang COUNT, SUM, at AVG.",,aggregation
+Cloze,"Ang {{c1::subquery}} ay ang query na nakalagay sa loob ng isa pang query.",,subquery
+Cloze,"Ang {{c1::WHERE clause}} ay ang filter na pumipili kung aling rows ang isasama.",,WHERE clause
+Cloze,"Ang {{c1::GROUP BY}} ay ang clause na nag-g-group ng rows batay sa isang column.",,GROUP BY

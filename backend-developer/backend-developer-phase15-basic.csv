@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano pabilisin ang query sa column na madalas i-filter?",,"Magdagdag ng index sa column: CREATE INDEX idx_email ON users(email);"
+Application,"Paano makita kung ginagamit ng query ang index?",,"Gamitin ang: EXPLAIN SELECT * FROM users WHERE email = 'a@b.com';"
+Application,"Paano iwasan ang N+1 problem sa ORM?",,"Gamitin ang eager loading o join queries para i-fetch ang related data nang sabay."
+Application,"Paano mag-find ng slow queries?",,"I-enable ang slow query log o i-analyze gamit ang query profiling."
+Application,"Paano pabilisin ang search sa dalawang columns nang sabay?",,"Gumawa ng composite index sa parehong columns."

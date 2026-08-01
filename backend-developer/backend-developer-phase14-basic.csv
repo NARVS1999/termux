@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-guarantee na either magtatagumpay ang lahat ng operations o mabibigo?",,"I-wrap ang mga operations sa isang transaction at i-commit o i-rollback."
+Application,"Paano i-cancel ang transaction na may error?",,"Gamitin ang: ROLLBACK; para ibalik ang database sa dating estado."
+Application,"Paano i-save ang transaction sa database?",,"Gamitin ang: COMMIT; para gawing permanent ang changes."
+Application,"Paano i-prevent ang dalawang users na mag-edit ng parehong row?",,"Gamitin ang row locking o transaction isolation."
+Application,"Paano mag-add ng column sa table nang hindi nasisira ang data?",,"Gumawa ng migration na nag-a-add ng column gamit ang ALTER TABLE."

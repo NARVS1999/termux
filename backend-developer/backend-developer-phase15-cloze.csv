@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::index}} ay ang data structure na nagpapabilis ng query lookups sa database.",,index
+Cloze,"Ang {{c1::composite index}} ay ang index na binubuo ng dalawa o higit pang columns.",,composite index
+Cloze,"Ang {{c1::primary index}} ay ang index na awtomatikong ginagawa sa primary key.",,primary index
+Cloze,"Ang {{c1::covering index}} ay ang index na naglalaman ng lahat ng columns na kailangan ng query.",,covering index
+Cloze,"Ang {{c1::N+1 problem}} ay ang performance issue kung saan maraming queries ang ginagawa para sa related records.",,N+1 problem
+Cloze,"Ang {{c1::query optimization}} ay ang pag-improve ng query performance para bumilis ang execution.",,query optimization
+Cloze,"Ang {{c1::EXPLAIN}} ay ang command para makita ang execution plan ng isang query.",,EXPLAIN
+Cloze,"Ang {{c1::full table scan}} ay ang pag-scan ng buong table kapag walang naaangkop na index.",,full table scan
+Cloze,"Ang {{c1::slow query}} ay ang query na tumatagal ng masyadong matagal bago matapos.",,slow query

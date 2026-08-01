@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano kumuha ng lahat ng users?",,"Gamitin ang: SELECT * FROM users;"
+Application,"Paano mag-filter ng users na nasa 18 pataas?",,"Gamitin ang: SELECT * FROM users WHERE age >= 18;"
+Application,"Paano mag-add ng bagong user?",,"Gamitin ang: INSERT INTO users (name, age) VALUES ('Juan', 25);"
+Application,"Paano pagsamahin ang users at orders?",,"Gamitin ang: SELECT * FROM users JOIN orders ON users.id = orders.user_id;"
+Application,"Paano bilangin ang bilang ng users?",,"Gamitin ang: SELECT COUNT(*) FROM users;"

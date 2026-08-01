@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::transaction}} ay ang sequence ng operations na ginagamot bilang isang unit.",,transaction
+Cloze,"Ang {{c1::ACID}} ay ang acronym para sa Atomicity, Consistency, Isolation, at Durability.",,ACID
+Cloze,"Ang {{c1::atomicity}} ay ang property na ang lahat ng operations ay magtatagumpay o lahat mabibigo.",,atomicity
+Cloze,"Ang {{c1::isolation}} ay ang property na hindi nakikita ng isang transaction ang partial results ng iba.",,isolation
+Cloze,"Ang {{c1::durability}} ay ang property na magpapatuloy ang committed data kahit mag-crash ang system.",,durability
+Cloze,"Ang {{c1::consistency}} ay ang property na valid ang estado ng database bago at pagkatapos ng transaction.",,consistency
+Cloze,"Ang {{c1::isolation levels}} ay ang antas ng paghihiwalay ng mga concurrent transactions.",,isolation levels
+Cloze,"Ang {{c1::locking}} ay ang mekanismo para i-prevent ang concurrent modifications sa data.",,locking
+Cloze,"Ang {{c1::migration}} ay ang versioned na pagbabago sa database schema.",,migration
+Cloze,"Ang {{c1::rollback}} ay ang pagbabalik ng database sa estado bago magsimula ang transaction.",,rollback
