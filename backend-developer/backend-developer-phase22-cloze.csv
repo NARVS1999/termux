@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::GraphQL}} ay ang query language para sa APIs na nagbibigay ng kontrol sa client.",,GraphQL
+Cloze,"Ang {{c1::schema}} ay ang definition ng types at operations sa GraphQL.",,schema
+Cloze,"Ang {{c1::query}} ay ang GraphQL operation para kumuha ng data.",,query
+Cloze,"Ang {{c1::mutation}} ay ang GraphQL operation para magbago ng data.",,mutation
+Cloze,"Ang {{c1::subscription}} ay ang GraphQL operation para sa real-time updates.",,subscription
+Cloze,"Ang {{c1::resolver}} ay ang function na nagsasabi kung paano kukunin ang data para sa field.",,resolver
+Cloze,"Ang {{c1::type}} ay ang definition ng data shape sa GraphQL schema.",,type
+Cloze,"Ang {{c1::field}} ay ang property na maaaring i-request sa isang GraphQL type.",,field
+Cloze,"Ang {{c1::fragments}} ay ang reusable na set ng fields sa GraphQL.",,fragments
+Cloze,"Ang {{c1::introspection}} ay ang kakayahan na i-query ang GraphQL schema mismo.",,introspection

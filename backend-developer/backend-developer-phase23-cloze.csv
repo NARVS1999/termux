@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::gRPC}} ay ang high-performance RPC framework na ginawa ng Google.",,gRPC
+Cloze,"Ang {{c1::protocol buffers}} ay ang binary serialization format na ginagamit ng gRPC.",,protocol buffers
+Cloze,"Ang {{c1::.proto file}} ay ang definition file ng gRPC services at messages.",,.proto file
+Cloze,"Ang {{c1::streaming}} ay ang pagpapadala ng data in chunks imbes na isang malaking response.",,streaming
+Cloze,"Ang {{c1::unary call}} ay ang gRPC call na may isang request at isang response.",,unary call
+Cloze,"Ang {{c1::SOAP}} ay ang legacy XML-based web service protocol.",,SOAP
+Cloze,"Ang {{c1::WSDL}} ay ang XML definition ng isang SOAP service.",,WSDL
+Cloze,"Ang {{c1::XML}} ay ang markup language na ginagamit ng SOAP para sa messages.",,XML
+Cloze,"Ang {{c1::RPC}} ay ang remote procedure call na nagpapatawag ng function sa ibang server.",,RPC

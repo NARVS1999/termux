@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::message broker}} ay ang middleware para sa asynchronous communication ng services.",,message broker
+Cloze,"Ang {{c1::RabbitMQ}} ay ang message broker na gumagamit ng AMQP protocol.",,RabbitMQ
+Cloze,"Ang {{c1::Kafka}} ay ang distributed event streaming platform.",,Kafka
+Cloze,"Ang {{c1::queue}} ay ang buffer ng messages na hinihintay ng consumer.",,queue
+Cloze,"Ang {{c1::producer}} ay ang nagpapadala ng messages sa broker.",,producer
+Cloze,"Ang {{c1::consumer}} ay ang tumatanggap at nag-p-process ng messages mula sa queue.",,consumer
+Cloze,"Ang {{c1::backpressure}} ay ang paglimita sa rate ng producers kapag overload ang consumers.",,backpressure
+Cloze,"Ang {{c1::long polling}} ay ang technique kung saan hinihintay ng client ang response hanggang may bagong data.",,long polling
+Cloze,"Ang {{c1::SSE}} ay ang server-sent events para sa one-way real-time updates.",,SSE
+Cloze,"Ang {{c1::WebSockets}} ay ang full-duplex na communication channel sa pagitan ng client at server.",,WebSockets

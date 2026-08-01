@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano kumuha ng user at ang kanyang posts sa isang request?",,"Gumamit ng GraphQL query na may nested fields: query { user(id: 1) { name posts { title } } }"
+Application,"Paano mag-add ng bagong user sa GraphQL?",,"Gumawa ng mutation: mutation { createUser(name: 'Juan') { id } }"
+Application,"Paano mag-request lang ng specific fields sa GraphQL?",,"Ilista ang gustong fields sa query imbes na lahat."
+Application,"Paano mag-receive ng real-time updates sa GraphQL?",,"Gumamit ng subscription na nag-aabang ng events sa server."
+Application,"Paano malaman ang available na types ng GraphQL API?",,"Gumamit ng introspection: query { __schema { types { name } } }"

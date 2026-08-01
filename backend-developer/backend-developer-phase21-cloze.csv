@@ -1,0 +1,10 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::JSON}} ay ang data format na karaniwang ginagamit sa API responses.",,JSON
+Cloze,"Ang {{c1::OpenAPI}} ay ang specification para i-describe ang structure ng isang API.",,OpenAPI
+Cloze,"Ang {{c1::API documentation}} ay ang docs na nagpapaliwanag kung paano gamitin ang API.",,API documentation
+Cloze,"Ang {{c1::schema}} ay ang definition ng data structure sa OpenAPI spec.",,schema
+Cloze,"Ang {{c1::Swagger}} ay ang toolset na nakabase sa OpenAPI para sa API docs.",,Swagger
+Cloze,"Ang {{c1::serialization}} ay ang pag-convert ng object papunta sa JSON format.",,serialization
+Cloze,"Ang {{c1::deserialization}} ay ang pag-convert ng JSON papunta sa object.",,deserialization
+Cloze,"Ang {{c1::content negotiation}} ay ang pagpili ng response format batay sa Accept header.",,content negotiation
+Cloze,"Ang {{c1::RESTful conventions}} ay ang pag-naming ng endpoints gamit ang plural nouns.",,RESTful conventions

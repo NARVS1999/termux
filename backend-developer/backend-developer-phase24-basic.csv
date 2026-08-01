@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-decouple ng email sending sa main request?",,"Mag-publish ng message sa broker at magkaroon ng separate consumer na nag-sesend ng email."
+Application,"Paano magpadala ng event sa maraming services?",,"Gumamit ng Kafka topic na ini-subscribe ng iba't ibang consumers."
+Application,"Paano mag-handle ng slow consumer na hindi nakakasabay?",,"Mag-apply ng backpressure o dagdagan ang number ng consumers."
+Application,"Paano mag-receive ng push updates mula sa server?",,"Gumamit ng WebSockets para sa two-way real-time communication."
+Application,"Paano mag-receive ng one-way notifications sa browser?",,"Gamitin ang SSE (Server-Sent Events) na nag-stream ng updates."

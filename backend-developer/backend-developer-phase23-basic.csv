@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng gRPC service?",,"Mag-define ng service at messages sa .proto file, tapos i-generate ang code."
+Application,"Paano magpadala ng malaking data nang paunti-unti?",,"Gumamit ng gRPC streaming na nagpapadala ng chunks."
+Application,"Paano mag-call ng function sa remote server?",,"Gumamit ng RPC framework na nag-a-abstract ng network communication."
+Application,"Paano i-integrate sa legacy SOAP service?",,"Gumamit ng SOAP client na nagbu-build ng XML envelopes at kumakain ng WSDL."
+Application,"Paano pumili sa pagitan ng gRPC at REST?",,"Gamitin ang gRPC para sa internal services at performance; REST para sa public APIs."

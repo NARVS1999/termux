@@ -1,0 +1,11 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::REST}} ay ang architectural style para sa APIs na gumagamit ng HTTP at resources.",,REST
+Cloze,"Ang {{c1::resource}} ay ang entity na nire-represent ng isang URL sa API.",,resource
+Cloze,"Ang {{c1::endpoint}} ay ang URL kung saan ina-access ang isang resource.",,endpoint
+Cloze,"Ang {{c1::HTTP methods}} ay ang GET, POST, PUT, at DELETE para sa CRUD operations.",,HTTP methods
+Cloze,"Ang {{c1::idempotent}} ay ang operation na pareho ang resulta kahit ilang beses i-execute.",,idempotent
+Cloze,"Ang {{c1::status codes}} ay ang tatlong-digit na response na nagpapakita ng resulta ng request.",,status codes
+Cloze,"Ang {{c1::API versioning}} ay ang pag-manage ng API changes para hindi masira ang clients.",,API versioning
+Cloze,"Ang {{c1::query parameters}} ay ang pag-filter, pag-sort, at pag-paginate ng results.",,query parameters
+Cloze,"Ang {{c1::pagination}} ay ang paghahati ng results sa mga pages.",,pagination
+Cloze,"Ang {{c1::payload}} ay ang data na dala ng isang request o response.",,payload

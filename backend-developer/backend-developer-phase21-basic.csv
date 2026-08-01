@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-describe ang API para sa auto-generated docs?",,"Gumawa ng OpenAPI spec file (openapi.yaml) na naglalarawan ng endpoints."
+Application,"Paano i-convert ang JSON string papunta sa object?",,"Gamitin ang deserialization: JSON.parse(jsonString) sa JavaScript."
+Application,"Paano i-convert ang object papunta sa JSON?",,"Gamitin ang serialization: JSON.stringify(obj) sa JavaScript."
+Application,"Paano mag-request ng XML response imbes na JSON?",,"Mag-set ng Accept header: Accept: application/xml."
+Application,"Paano i-document ang API request at response formats?",,"Gamitin ang OpenAPI spec at tools tulad ng Swagger UI."
