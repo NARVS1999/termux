@@ -45,11 +45,11 @@
 
 ## Architecture & Patterns
 
-- [ ] **Phase 27** — MVVM: ViewModel, UI state, unidirectional data flow
-- [ ] **Phase 28** — Repository pattern: data sources, abstractions, caching layers
-- [ ] **Phase 29** — Dependency injection: Hilt, Koin, manual DI, modules
-- [ ] **Phase 30** — Clean architecture: layers, use cases, domain models
-- [ ] **Phase 31** — Flows & state: StateFlow, SharedFlow, collecting flows safely
+- [x] **Phase 27** — MVVM: ViewModel, UI state, unidirectional data flow
+- [x] **Phase 28** — Repository pattern: data sources, abstractions, caching layers
+- [x] **Phase 29** — Dependency injection: Hilt, Koin, manual DI, modules
+- [x] **Phase 30** — Clean architecture: layers, use cases, domain models
+- [x] **Phase 31** — Flows & state: StateFlow, SharedFlow, collecting flows safely
 
 ## Testing & Quality
 
