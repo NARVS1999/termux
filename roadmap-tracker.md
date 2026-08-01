@@ -2,7 +2,7 @@
 
 Tracks which roadmap.sh topics have a roadmap + Anki cards created in this repo. Unchecked = not yet created.
 
-## Created (12)
+## Created (13)
 
 - [x] **react** — https://roadmap.sh/react
 - [x] **frontend** — https://roadmap.sh/frontend
@@ -16,10 +16,10 @@ Tracks which roadmap.sh topics have a roadmap + Anki cards created in this repo.
 - [x] **ios** — https://roadmap.sh/ios
 - [x] **qa** — https://roadmap.sh/qa
 - [x] **software-architect** — https://roadmap.sh/software-architect
+- [x] **cyber-security** — https://roadmap.sh/cyber-security
 
-## Not Created (27)
+## Not Created (26)
 
-- [ ] **cyber-security** — https://roadmap.sh/cyber-security
 - [ ] **product-design** — https://roadmap.sh/product-design
 - [ ] **ux-design** — https://roadmap.sh/ux-design
 - [ ] **technical-writer** — https://roadmap.sh/technical-writer
