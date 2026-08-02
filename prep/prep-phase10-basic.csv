@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-dispatch ang isang job nang asynchronous?",,"ProcessPodcast::dispatch($podcast);"
+Application,"Paano i-delay ang isang job ng 10 minutes?",,"ProcessPodcast::dispatch($podcast)->delay(now()->addMinutes(10));"
+Application,"Paano mag-schedule ng command na tumatakbo araw-araw ng hatinggabi?",,"$schedule->command('emails:send')->daily();"
+Application,"Paano mag-dispatch ng event at i-listen ito?",,"OrderCreated::dispatch($order); at i-register ang listener sa EventServiceProvider."
+Application,"Paano i-retry ang lahat ng failed jobs?",,"php artisan queue:retry all"

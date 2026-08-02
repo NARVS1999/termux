@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-model ang many-to-many relationship ng users at roles?",,"Gumawa ng pivot table na may user_id at role_id na columns."
+Application,"Paano i-enforce na laging valid ang department_id ng isang employee?",,"Magdagdag ng foreign key constraint sa department_id column."
+Application,"Paano alisin ang paulit-ulit na data sa isang column?",,"I-normalize: i-extract sa sariling table at i-reference gamit ang foreign key."
+Application,"Paano pabilisin ang pagbabasa ng data na laging kasama ng parent record?",,"I-denormalize sa pamamagitan ng pagdagdag ng cached column."
+Application,"Paano i-prevent ang pag-insert ng duplicate email?",,"Magdagdag ng unique constraint sa email column."

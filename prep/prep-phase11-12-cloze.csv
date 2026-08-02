@@ -1,0 +1,3 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::notification}} ay nagpapadala ng mensahe sa isang user sa pamamagitan ng channels tulad ng mail at database.",,notification
+Cloze,"Ang {{c1::broadcasting}} ay nag-stream ng events sa real-time papunta sa mga client gamit ang WebSockets.",,broadcasting

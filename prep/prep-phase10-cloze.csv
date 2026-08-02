@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::queue}} ay nagpapa-delay ng processing ng heavy tasks para hindi ma-block ang HTTP response.",,queue
+Cloze,"Ang {{c1::job}} ay isang class na nire-queue para iproseso nang asynchronous sa likod.",,job
+Cloze,"Ang {{c1::queue worker}} ay ang proseso na nagpo-poll sa queue para kunin at i-process ang mga jobs.",,queue worker
+Cloze,"Ang {{c1::failed jobs}} ay ini-store para ma-retry o ma-inspect kapag nag-fail ang processing.",,failed jobs
+Cloze,"Ang {{c1::scheduler}} ay nagpapatakbo ng scheduled tasks nang hindi na kailangan ng manual cron entries.",,scheduler
+Cloze,"Ang {{c1::event}} ay nagbibigay-daan sa decoupled communication sa pagitan ng mga bahagi ng app.",,event
+Cloze,"Ang {{c1::listener}} ay tumutugon kapag na-dispatch ang event na pinapakinggan nito.",,listener
+Cloze,"Ang {{c1::observer}} ay nakikinig sa model lifecycle events tulad ng created, updated, at deleted.",,observer

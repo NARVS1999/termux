@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::normalization}} ay nag-aalis ng redundancy sa pamamagitan ng paghahati ng data sa mas maliliit na tables.",,normalization
+Cloze,"Ang {{c1::denormalization}} ay sadyang nagdadagdag ng duplicate data para mapabilis ang pagbabasa.",,denormalization
+Cloze,"Ang {{c1::primary key}} ay uniquely nag-i-identify ng bawat row sa isang table.",,primary key
+Cloze,"Ang {{c1::foreign key}} ay nagre-refer sa primary key ng ibang table para ma-enforce ang relationships.",,foreign key
+Cloze,"Ang {{c1::pivot table}} ay ginagamit para i-represent ang many-to-many relationships.",,pivot table
+Cloze,"Ang {{c1::third normal form}} ay nagsasabing walang non-key attribute na dapat mag-depend sa ibang non-key attribute.",,third normal form
+Cloze,"Ang {{c1::index}} ay nagpapabilis ng SELECT queries sa pamamagitan ng isang sorted structure.",,index
+Cloze,"Ang {{c1::data integrity}} ay tinitiyak na tama at consistent ang data sa lahat ng oras.",,data integrity
