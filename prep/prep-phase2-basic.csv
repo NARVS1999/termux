@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano magdagdag ng bagong payment method nang hindi binabago ang existing code?",,"Mag-create ng bagong class na nag-implement ng PaymentGateway interface."
+Application,"Paano i-inject ang dependency sa halip na mag-new sa loob ng class?",,"public function __construct(private Mailer $mailer) {}"
+Application,"Paano ayusin ang malaking interface na pinipilit i-implement ng lahat ng classes?",,"Hatiin ito sa mas maliliit na focused interfaces at i-implement lang ang kailangan."
+Application,"Paano i-test ang isang class na may external dependency?",,"I-pass ang mock o fake ng dependency sa constructor nito."
+Application,"Paano mag-compose ng behavior sa halip na mag-inherit?",,"I-inject ang collaborator object at i-delegate ang behavior dito."

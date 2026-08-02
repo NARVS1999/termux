@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Sa PHP 8, ang {{c1::enum}} ay isang type na may fixed set ng possible values na may labels.",,enum
+Cloze,"Ang {{c1::readonly}} property ay pwedeng i-assign nang isang beses lang pagkatapos ng declaration.",,readonly
+Cloze,"Sa PHP 8, ang {{c1::attributes}} ay structured metadata na pwedeng i-attach sa classes, methods, at properties.",,attributes
+Cloze,"Sa {{c1::named arguments}}, hindi mo na kailangang sundin ang parameter order kapag nag-call ng function.",,named arguments
+Cloze,"Ang {{c1::match}} expression ay nagre-return ng value at hindi nangangailangan ng break statement.",,match
+Cloze,"Ang {{c1::constructor property promotion}} ay nagde-declare ng property direkta sa constructor parameter.",,constructor property promotion
+Cloze,"Ang {{c1::nullsafe operator}} (?->) ay bumabalik ng null sa halip na mag-throw kapag null ang object.",,nullsafe operator
+Cloze,"Ang {{c1::union types}} ay nagpapahintulot ng higit sa isang type sa isang parameter o return type.",,union types

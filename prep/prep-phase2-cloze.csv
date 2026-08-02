@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Single Responsibility}} principle ay nagsasabing ang isang class ay dapat may isang reason lang para magbago.",,Single Responsibility
+Cloze,"Ang {{c1::Open/Closed}} principle ay nagsasabing ang class ay dapat open for extension pero closed for modification.",,Open/Closed
+Cloze,"Ang {{c1::Liskov Substitution}} principle ay nagsasabing dapat ma-replace ang child class ng parent nito nang hindi nagba-break ang app.",,Liskov Substitution
+Cloze,"Ang {{c1::Interface Segregation}} principle ay nagsasabing huwag pilitin ang class na mag-implement ng interface na hindi nito ginagamit.",,Interface Segregation
+Cloze,"Ang {{c1::Dependency Inversion}} principle ay nagsasabing mag-depend sa abstractions, hindi sa konkretong implementations.",,Dependency Inversion
+Cloze,"Ang {{c1::composition}} ay mas pinipili kaysa inheritance kapag may shared behavior na hindi lohikal na isang hierarchy.",,composition
+Cloze,"Ang {{c1::dependency injection}} ay pagpasa ng dependencies sa constructor sa halip na mag-instantiate sa loob ng class.",,dependency injection
+Cloze,"Ang {{c1::god class}} ay karaniwang senyales ng SRP violation dahil hawak nito ang masyadong maraming responsibilities.",,god class

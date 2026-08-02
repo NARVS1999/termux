@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-isolate ang mga database queries mula sa controllers?",,"Gumawa ng repository class na nag-e-encapsulate ng lahat ng query logic sa likod ng interface."
+Application,"Paano gumawa ng object gamit ang factory pattern?",,"I-return ang bagong instance sa loob ng factory method: return new PaymentProcessor($this->config);"
+Application,"Paano magpalit ng shipping calculation depende sa country?",,"Mag-define ng ShippingStrategy interface at i-inject ang tamang strategy sa runtime."
+Application,"Paano mag-notify ng maraming bahagi ng app kapag may bagong order?",,"Mag-dispatch ng OrderCreated event at magrehistro ng mga listeners dito."
+Application,"Paano gamitin ang lumang payment API na iba ang interface?",,"Gumawa ng adapter class na nagsa-translate ng lumang API papunta sa bagong interface."

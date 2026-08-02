@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Repository}} pattern ay nag-aabstact ng data access sa likod ng isang interface.",,Repository
+Cloze,"Ang {{c1::Factory}} pattern ay gumagawa ng objects nang hindi inilalantad ang instantiation logic sa client.",,Factory
+Cloze,"Ang {{c1::Strategy}} pattern ay nagpapalit ng algorithm sa runtime sa pamamagitan ng isang interface.",,Strategy
+Cloze,"Ang {{c1::Observer}} pattern ay nag-no-notify ng multiple listeners kapag nagbago ang state ng subject.",,Observer
+Cloze,"Ang {{c1::Adapter}} pattern ay nagco-convert ng isang interface para magkasya sa inaasahan ng client.",,Adapter
+Cloze,"Ang {{c1::Facade}} pattern ay nagbibigay ng simplified interface sa isang complex subsystem.",,Facade
+Cloze,"Ang {{c1::abstract factory}} ay nag-grupo ng mga related factory methods sa iisang interface.",,abstract factory
+Cloze,"Sa Laravel, ang {{c1::service container}} ang karaniwang ginagamit para i-wire ang Repository interface sa implementation nito.",,service container
