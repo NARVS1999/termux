@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Pest}} ay isang testing framework na may expressive syntax na binuo sa PHPUnit.",,Pest
+Cloze,"Ang {{c1::RefreshDatabase}} trait ay nagmi-migrate at nagwi-wipe ng database sa pagitan ng mga tests.",,RefreshDatabase
+Cloze,"Ang {{c1::TestCase}} ay ang base class na nagse-set up ng application environment para sa mga tests.",,TestCase
+Cloze,"Ang {{c1::phpunit.xml}} ay nagko-configure ng testing environment tulad ng database at cache drivers.",,phpunit.xml
+Cloze,"Ang {{c1::assertDatabaseHas}} ay nagve-verify na may record sa database na tumutugma sa condition.",,assertDatabaseHas
+Cloze,"Ang {{c1::state}} sa factory ay nag-o-override ng attributes para sa isang specific scenario.",,state
+Cloze,"Ang {{c1::withoutMiddleware}} ay nagbe-bypass ng middleware sa isang test.",,withoutMiddleware
+Cloze,"Ang {{c1::assertDatabaseCount}} ay nagve-verify ng eksaktong bilang ng records sa isang table.",,assertDatabaseCount

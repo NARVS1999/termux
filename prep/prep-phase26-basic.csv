@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-check kung may permission ang user sa Spatie?",,"$user->hasPermissionTo('edit posts');"
+Application,"Paano i-define ang authorization sa isang policy?",,"I-define ang update() method sa policy class at i-return ang condition."
+Application,"Paano i-apply ang policy sa isang route?",,"Route::middleware('can:update,post')->... o $this->authorize('update', $post);"
+Application,"Paano i-assign ang role sa isang user?",,"$user->assignRole('admin');"
+Application,"Paano i-define ang gate nang walang policy?",,"Gate::define('manage-users', fn ($user) => $user->is_admin);"

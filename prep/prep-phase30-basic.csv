@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng test user?",,"$user = User::factory()->create();"
+Application,"Paano i-verify na nai-save ang order sa database?",,"$this->assertDatabaseHas('orders', ['id' => $order->id]);"
+Application,"Paano gumawa ng user na may specific na role gamit ang factory?",,"User::factory()->create(['role' => 'admin']);"
+Application,"Paano i-run ang buong test suite?",,"php artisan test"
+Application,"Paano mag-generate ng coverage report?",,"php artisan test --coverage"

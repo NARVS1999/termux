@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::authentication}} ay nagve-verify kung sino ang user sa pamamagitan ng identity.",,authentication
+Cloze,"Ang {{c1::authorization}} ay nagde-determine kung ano ang pwedeng gawin ng isang user.",,authorization
+Cloze,"Ang {{c1::policy}} ay nagco-contain ng authorization logic para sa isang partikular na model.",,policy
+Cloze,"Ang {{c1::gate}} ay nagbibigay ng closure-based authorization sa Laravel.",,gate
+Cloze,"Ang {{c1::Spatie Permission}} package ay nagbibigay ng roles at permissions management.",,Spatie Permission
+Cloze,"Ang {{c1::role}} ay isang grupo ng permissions na ina-assign sa isang user.",,role
+Cloze,"Ang {{c1::permission}} ay isang granular action na pwedeng i-check tulad ng edit posts.",,permission
+Cloze,"Ang {{c1::can}} middleware ay nagfi-filter ng requests base sa ability na mayroon ang user.",,can

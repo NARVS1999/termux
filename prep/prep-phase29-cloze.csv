@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::unit test}} ay nagte-test ng isang class o method nang hiwalay sa mga dependencies nito.",,unit test
+Cloze,"Ang {{c1::feature test}} ay nagte-test ng isang buong flow sa pamamagitan ng HTTP request.",,feature test
+Cloze,"Ang {{c1::integration test}} ay nagve-verify na nagtutulungan nang tama ang mga components.",,integration test
+Cloze,"Ang {{c1::test doubles}} ay mga mocks at fakes na nagpapalit sa totoong dependencies.",,test doubles
+Cloze,"Ang {{c1::assertion}} ay nagve-verify na ang actual result ay katumbas ng inaasahan.",,assertion
+Cloze,"Ang {{c1::red-green-refactor}} ay ang siklo ng TDD: failing test, i-pass ito, saka mag-refactor.",,red-green-refactor
+Cloze,"Ang {{c1::arrange-act-assert}} ay ang karaniwang structure ng isang test.",,arrange-act-assert
+Cloze,"Ang {{c1::coverage}} ay sumusukat kung ilang porsyento ng code ang na-execute ng mga tests.",,coverage

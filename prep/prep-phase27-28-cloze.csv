@@ -1,0 +1,3 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::encryption}} ay ginagamit para i-protektahan ang sensitive data at rest gamit ang app key.",,encryption
+Cloze,"Ang {{c1::audit log}} ay nagre-record kung sino ang gumawa ng ano at kailan sa isang system.",,audit log

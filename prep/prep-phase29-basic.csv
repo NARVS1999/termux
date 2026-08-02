@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-test ang isang service na may external dependency?",,"I-mock ang dependency at i-pass ito sa constructor ng service."
+Application,"Paano i-test ang isang API endpoint?",,"$this->get('/api/posts')->assertOk();"
+Application,"Paano i-verify ang structure ng API response?",,"$response->assertJsonStructure(['data' => ['id', 'title']]);"
+Application,"Paano mag-run ng isang test lang?",,"php artisan test --filter=testName"
+Application,"Paano i-reset ang database sa bawat test?",,"Gamitin ang RefreshDatabase trait sa TestCase."
