@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::layered architecture}} ay hinahati ang app sa presentation, application, domain, at infrastructure layers.",,layered architecture
+Cloze,"Ang {{c1::service layer}} ay naglalagay ng business logic sa labas ng mga controllers.",,service layer
+Cloze,"Ang {{c1::clean architecture}} ay naglalagay ng dependencies na naka-point papasok sa core.",,clean architecture
+Cloze,"Ang {{c1::dependency rule}} ay nagsasabing ang inner layers ay hindi dapat mag-depend sa outer layers.",,dependency rule
+Cloze,"Ang {{c1::fat controller}} ay senyales na dapat ilipat ang business logic sa service layer.",,fat controller
+Cloze,"Ang {{c1::use case}} ay isang business action na naka-implement sa application layer.",,use case
+Cloze,"Ang {{c1::domain layer}} ay naglalaman ng core business rules at entities.",,domain layer
+Cloze,"Ang {{c1::infrastructure layer}} ay nag-i-implement ng external concerns tulad ng database at API clients.",,infrastructure layer

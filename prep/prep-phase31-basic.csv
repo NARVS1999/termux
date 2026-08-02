@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-verify na na-dispatch ang isang job?",,"Queue::fake(); ... Queue::assertPushed(ProcessOrder::class);"
+Application,"Paano i-test ang endpoint habang naka-login ang user?",,"$this->actingAs($user)->get('/dashboard')->assertOk();"
+Application,"Paano i-fake ang payment gateway response?",,"Http::fake(['api.stripe.com/*' => Http::response(['ok' => true])]);"
+Application,"Paano i-verify ang redirect pagkatapos ng POST?",,"$this->post('/posts', $data)->assertRedirect('/posts');"
+Application,"Paano i-verify na na-send ang notification sa user?",,"Notification::fake(); Notification::assertSentTo($user, InvoicePaid::class);"

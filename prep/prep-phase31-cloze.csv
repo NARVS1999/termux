@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::mock}} ay isang test double na nagve-verify kung paano tinawag ang mga dependencies.",,mock
+Cloze,"Ang {{c1::fake}} ay isang test double na gumagana tulad ng totoo pero walang side effects.",,fake
+Cloze,"Ang {{c1::Queue::fake()}} ay nagco-capture ng mga na-dispatch na jobs nang hindi ito nirun.",,Queue::fake()
+Cloze,"Ang {{c1::Mail::fake()}} ay nagpre-prevent ng pagpadala ng totoong email habang nagte-test.",,Mail::fake()
+Cloze,"Ang {{c1::Event::fake()}} ay nagha-hijack ng mga event listeners nang hindi ito nirun.",,Event::fake()
+Cloze,"Ang {{c1::Http::fake()}} ay nagre-return ng fake responses sa halip na gumawa ng totoong HTTP calls.",,Http::fake()
+Cloze,"Ang {{c1::actingAs}} ay nag-a-authenticate ng isang user para sa test request.",,actingAs
+Cloze,"Ang {{c1::assertStatus}} ay nagve-verify ng HTTP status code ng isang response.",,assertStatus

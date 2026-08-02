@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-refactor ang fat controller?",,"I-extract ang business logic sa service class at i-inject ito sa controller."
+Application,"Paano i-keep ang domain na independent sa framework?",,"I-define ang domain bilang plain PHP classes na walang framework imports."
+Application,"Paano i-call ang business logic mula sa controller?",,"I-inject ang service at i-call ang method: $this->orderService->placeOrder($data);"
+Application,"Paano i-decouple ang app sa database?",,"Gumamit ng repository interface sa application layer at implementation sa infrastructure."
+Application,"Paano i-structure ang folders para sa layered architecture?",,"Hatiin sa app/Domain, app/Application, at app/Infrastructure o modules."

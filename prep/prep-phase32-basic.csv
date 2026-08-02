@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-block ang deploy kapag pumalpak ang tests?",,"I-configure ang CI job na mag-run ng vendor/bin/phpunit at mag-fail sa non-zero exit."
+Application,"Paano mag-apply ng TDD sa bagong feature?",,"Isulat ang failing test, i-confirm na fail ito, saka i-implement hanggang mag-pass."
+Application,"Paano i-enforce ang consistent code style sa CI?",,"I-run ang pint o phpcs sa isang CI job."
+Application,"Paano i-cache ang dependencies sa CI para mas mabilis?",,"I-store ang composer vendor cache gamit ang cache action."
+Application,"Paano i-ensure na hiwalay ang tests sa isa't isa?",,"Gumamit ng RefreshDatabase at huwag mag-share ng state sa pagitan ng tests."

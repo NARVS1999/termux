@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::TDD}} ay pagsusulat ng failing test bago pa man isulat ang implementation.",,TDD
+Cloze,"Ang {{c1::code coverage}} ay sumusukat kung ilang lines at branches ng code ang na-test.",,code coverage
+Cloze,"Ang {{c1::CI}} ay awtomatikong nagre-run ng tests sa bawat push sa repository.",,CI
+Cloze,"Ang {{c1::pipeline}} sa CI ay ang sequence ng steps tulad ng tests, lint, at deploy.",,pipeline
+Cloze,"Ang {{c1::minimum coverage}} threshold ay nagpapa-fail ng build kapag mas mababa ang coverage.",,minimum coverage
+Cloze,"Ang {{c1::test isolation}} ay tinitiyak na ang mga tests ay hindi nagde-depend sa isa't isa.",,test isolation
+Cloze,"Ang {{c1::GitHub Actions}} ay isang sikat na CI tool na gumagamit ng YAML workflows.",,GitHub Actions
+Cloze,"Ang {{c1::linter}} ay nagch-check ng code style sa CI para i-enforce ang consistency.",,linter
