@@ -1,0 +1,3 @@
+Type,Front,Hint,Back
+Application,"Paano i-serve ang Laravel sa production?",,"I-point ang Nginx sa public/ folder at i-connect ito sa PHP-FPM socket."
+Application,"Paano mag-deploy nang walang downtime?",,"Gumamit ng blue-green o rolling deployment para hindi ma-interrupt ang traffic."

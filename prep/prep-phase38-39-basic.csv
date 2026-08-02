@@ -1,0 +1,3 @@
+Type,Front,Hint,Back
+Application,"Paano i-deploy sa tuwing may merge sa main?",,"I-configure ang CI pipeline na mag-run ng tests at mag-deploy pagkatapos mag-pass."
+Application,"Paano i-run ang app sa container na may kasamang database?",,"Gumamit ng docker-compose na may app at db services."

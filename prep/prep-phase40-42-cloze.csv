@@ -1,0 +1,3 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::PHP-FPM}} ay ang FastCGI process manager na nag-e-execute ng mga PHP scripts.",,PHP-FPM
+Cloze,"Ang {{c1::blue-green deployment}} ay nagde-deploy ng bagong version sa parallel environment bago i-switch ang traffic.",,blue-green deployment

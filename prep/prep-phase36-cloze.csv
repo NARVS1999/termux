@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::retry}} ay pag-uulit ng isang failed operation na may kasamang backoff.",,retry
+Cloze,"Ang {{c1::circuit breaker}} ay tumitigil sa pagtawag ng failing service para hindi lumala ang problema.",,circuit breaker
+Cloze,"Ang {{c1::graceful degradation}} ay patuloy na pagse-serve ng app kahit may sira ang isang dependency.",,graceful degradation
+Cloze,"Ang {{c1::timeout}} ay naglilimita kung gaano katagal maghihintay ang isang external call.",,timeout
+Cloze,"Ang {{c1::fallback}} ay alternate na result kapag nag-fail ang primary source.",,fallback
+Cloze,"Ang {{c1::backoff}} ay pagtaas ng paghihintay sa pagitan ng mga retry attempts.",,backoff
+Cloze,"Ang {{c1::jitter}} ay random delay sa mga retries para maiwasan ang thundering herd.",,jitter
+Cloze,"Ang {{c1::health check}} ay nagmo-monitor kung buhay at healthy pa ba ang isang service.",,health check

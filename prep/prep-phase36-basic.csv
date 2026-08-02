@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-retry ang isang job ng 5 beses na may backoff?",,"I-set ang public $tries = 5; at i-define ang backoff() method sa job."
+Application,"Paano i-limit ang paghihintay sa external API call?",,"Http::timeout(5)->get($url);"
+Application,"Paano magbigay ng fallback kapag down ang cache?",,"I-wrap sa try/catch at i-compute direct mula sa database kapag nag-fail."
+Application,"Paano maiwasan ang thundering herd sa sabay-sabay na retries?",,"Magdagdag ng jitter sa backoff para i-randomize ang paghihintay."
+Application,"Paano i-monitor kung may outage ang isang service?",,"I-set up ang health check endpoint at i-alert sa monitoring tool."

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::structured logging}} ay nagsusulat ng logs sa isang consistent at machine-readable na format.",,structured logging
+Cloze,"Ang {{c1::monitoring}} ay patuloy na pag-track ng metrics at availability ng system.",,monitoring
+Cloze,"Ang {{c1::alerting}} ay nag-aabiso sa team kapag may na-cross na threshold.",,alerting
+Cloze,"Ang {{c1::Sentry}} ay isang error tracking tool na nag-a-aggregate ng mga exceptions.",,Sentry
+Cloze,"Ang {{c1::tracing}} ay sumusubaybay sa isang request sa kabuuan ng mga services.",,tracing
+Cloze,"Ang {{c1::log levels}} ay nagco-classify ng severity ng logs tulad ng info at error.",,log levels
+Cloze,"Ang {{c1::metrics}} ay mga numerical measurements tulad ng response time at error rate.",,metrics
+Cloze,"Ang {{c1::context}} sa logging ay nagdadagdag ng metadata tulad ng user id at request id.",,context
