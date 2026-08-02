@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::eager loading}} ay nilo-load ang relationships kasama ng parent query gamit ang with().",,eager loading
+Cloze,"Ang {{c1::N+1 problem}} ay nangyayari kapag may hiwalay na query para sa bawat record sa loob ng isang loop.",,N+1 problem
+Cloze,"Ang {{c1::model events}} ay tumatakbo sa mga puntos ng lifecycle ng isang model tulad ng creating at updating.",,model events
+Cloze,"Ang {{c1::casts}} ay nagco-convert ng attribute values papunta sa ibang type tulad ng array o boolean.",,casts
+Cloze,"Ang {{c1::query scopes}} ay mga reusable query constraints na pwedeng i-chain sa Eloquent queries.",,query scopes
+Cloze,"Ang {{c1::polymorphic relationship}} ay nagpapahintulot ng isang model na i-belong sa maraming ibang models.",,polymorphic relationship
+Cloze,"Ang {{c1::accessor}} ay nagbabago kung paano nire-retrieve ang isang attribute value.",,accessor
+Cloze,"Ang {{c1::lazy loading}} ay nangyayari kapag nire-resolve ang relationship pagkatapos ma-query ang parent.",,lazy loading

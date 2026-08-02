@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::middleware}} ay nagfi-filter ng HTTP requests bago o pagkatapos ma-handle ng controller.",,middleware
+Cloze,"Ang {{c1::pipeline}} ay dinadaanan ng request sa lahat ng middleware nang sunod-sunod hanggang sa core.",,pipeline
+Cloze,"Ang {{c1::kernel}} ang nagco-coordinate ng request lifecycle mula sa entry point hanggang sa response.",,kernel
+Cloze,"Ang {{c1::handle}} method ay ang entry point ng bawat middleware na tumatanggap ng request at $next closure.",,handle
+Cloze,"Ang {{c1::route middleware}} ay ina-assign sa isang route o route group at tumatakbo lamang dito.",,route middleware
+Cloze,"Ang {{c1::global middleware}} ay nirerehistro sa HTTP kernel at tumatakbo sa bawat request ng app.",,global middleware
+Cloze,"Ang {{c1::terminate}} method ay tumatakbo pagkatapos maipadala ang response sa browser.",,terminate
+Cloze,"Sa {{c1::public/index.php}} nagsisimula ang request lifecycle sa pag-receive ng request at pag-load ng framework.",,public/index.php

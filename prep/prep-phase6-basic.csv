@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano magrehistro ng interface binding sa service container?",,"$this->app->bind(PaymentGateway::class, StripeGateway::class);"
+Application,"Paano mag-share ng iisang instance sa buong request lifecycle?",,"$this->app->singleton(CartService::class);"
+Application,"Paano i-resolve ang isang dependency nang manu-mano?",,"app(ReportService::class) o App::make(ReportService::class)"
+Application,"Paano gumawa ng custom facade?",,"Mag-extend ng Facade at i-override ang getFacadeAccessor() para i-return ang binding key."
+Application,"Paano i-register ang custom service provider sa app?",,"Idagdag ang provider class sa providers array sa config/app.php."

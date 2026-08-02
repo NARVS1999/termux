@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng middleware na nag-che-check ng condition?",,"php artisan make:middleware EnsureAgeIsValid"
+Application,"Paano i-assign ang middleware sa isang route?",,"Route::get('/admin', fn () => ...)->middleware('auth');"
+Application,"Paano mag-proceed sa susunod na middleware sa pipeline?",,"return $next($request);"
+Application,"Paano i-block ang request at mag-return ng 403?",,"abort(403); o return response()->json(['message' => 'Forbidden'], 403);"
+Application,"Paano magpatakbo ng code pagkatapos maipadala ang response?",,"I-override ang terminate($request, $response) method sa middleware."

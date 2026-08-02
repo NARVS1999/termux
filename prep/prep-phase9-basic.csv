@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-wrap ang multiple operations sa isang transaction?",,"DB::transaction(function () { ... });"
+Application,"Paano i-prevent ang race condition sa pagde-decrement ng stock?",,"Product::where('id', $id)->lockForUpdate()->first();"
+Application,"Paano i-check kung efficient ang isang query?",,"Patakbuhin ang EXPLAIN SELECT ... sa database at suriin ang execution plan."
+Application,"Paano mag-insert ng multiple rows sa isang call?",,"DB::table('users')->insert([['name' => 'A'], ['name' => 'B']]);"
+Application,"Paano mag-count ng records gamit ang query builder?",,"DB::table('products')->count();"

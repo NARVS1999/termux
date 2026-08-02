@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano i-load ang author relationship kasabay ng posts?",,"Post::with('author')->get();"
+Application,"Paano ayusin ang N+1 sa listahan ng posts na may comments?",,"Magdagdag ng with('comments') sa query at tanggalin ang per-record query sa loop."
+Application,"Paano gumawa ng reusable scope para sa published posts?",,"public function scopePublished($query) { return $query->where('status', 'published'); }"
+Application,"Paano mag-run ng code tuwing may bagong user na ginagawa?",,"Mag-register ng creating event sa boot() ng model o gumamit ng observer."
+Application,"Paano i-load ang relationship ng existing model instance?",,"$post->load('author');"

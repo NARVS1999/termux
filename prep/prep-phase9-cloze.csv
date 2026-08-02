@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::query builder}} ay nagbibigay ng fluent interface para gumawa ng SQL queries nang walang raw SQL.",,query builder
+Cloze,"Ang {{c1::transaction}} ay nag-grupo ng database operations na dapat mag-succeed lahat o mag-fail lahat.",,transaction
+Cloze,"Ang {{c1::pessimistic locking}} ay nagla-lock ng mga rows habang pinoproseso ang mga ito para maiwasan ang conflicts.",,pessimistic locking
+Cloze,"Ang {{c1::lockForUpdate}} ay nagla-lock ng rows para hindi mabasa ng ibang transaction hangga't hindi nag-commit.",,lockForUpdate
+Cloze,"Ang {{c1::shared lock}} ay nagpapahintulot ng pagbabasa ng ibang transactions pero hindi ng pagsusulat.",,shared lock
+Cloze,"Ang {{c1::deadlock}} ay nangyayari kapag dalawang transactions ang naghihintay sa locks ng isa't isa.",,deadlock
+Cloze,"Ang {{c1::EXPLAIN}} ay nagpapakita kung paano nire-execute ng database ang isang query.",,EXPLAIN
+Cloze,"Ang {{c1::join}} ay nagco-combine ng rows mula sa dalawang tables gamit ang matching condition.",,join

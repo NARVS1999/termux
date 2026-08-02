@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::service container}} ay ang central registry kung saan nirerehistro at nireresolve ang mga dependencies.",,service container
+Cloze,"Ang {{c1::service provider}} ay nagre-register ng bindings at nagbo-bootstrap ng services sa container.",,service provider
+Cloze,"Ang {{c1::facade}} ay nagbibigay ng static-like interface sa isang service na naka-resolve sa container.",,facade
+Cloze,"Ang {{c1::binding}} sa container ay tumutukoy kung paano ginagawa ang isang class o interface kapag hiniling.",,binding
+Cloze,"Ang {{c1::singleton}} binding ay nagbabalik ng parehong instance sa bawat resolution ng container.",,singleton
+Cloze,"Ang {{c1::deferred provider}} ay hindi nagla-load hangga't hindi nire-resolve ang isa sa mga service nito.",,deferred provider
+Cloze,"Ang {{c1::contextual binding}} ay nagbibigay ng ibang implementation depende sa kung sinong class ang nagre-require nito.",,contextual binding
+Cloze,"Ang {{c1::real-time facade}} ay ginagawang facade ang anumang class sa pamamagitan ng Facades prefix.",,real-time facade
