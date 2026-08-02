@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::REST}} ay gumagamit ng HTTP methods bilang mga verb sa resources.",,REST
+Cloze,"Ang {{c1::versioning}} ay pinapanatili ang backward compatibility kapag nagbabago ang API.",,versioning
+Cloze,"Ang {{c1::pagination}} ay naghahati ng malalaking resulta sa mas maliliit na pages.",,pagination
+Cloze,"Ang {{c1::filtering}} ay nagpapahintulot ng pagfi-filter ng resources base sa query parameters.",,filtering
+Cloze,"Ang {{c1::status code}} 201 ay ginagamit kapag may bagong resource na na-create.",,status code
+Cloze,"Ang {{c1::idempotent}} na method tulad ng PUT ay nagbibigay ng parehong resulta kahit paulit-ulit.",,idempotent
+Cloze,"Ang {{c1::resource controller}} ay nagma-map ng mga RESTful actions sa mga methods nito.",,resource controller
+Cloze,"Ang {{c1::API resource}} ay nagto-transform ng models papunta sa JSON structure na ipinapadala.",,API resource

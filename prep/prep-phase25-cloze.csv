@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::XSS}} ay pag-inject ng malicious script na nire-render ng browser ng ibang user.",,XSS
+Cloze,"Ang {{c1::SQL injection}} ay pagma-manipulate ng query sa pamamagitan ng user input.",,SQL injection
+Cloze,"Ang {{c1::CSRF}} ay pagpapa-submit ng request sa behalf ng isang authenticated user nang hindi nito alam.",,CSRF
+Cloze,"Ang {{c1::SSRF}} ay pagpapagawa sa server ng request papunta sa internal network.",,SSRF
+Cloze,"Ang {{c1::IDOR}} ay pag-access ng resource ng ibang user sa pamamagitan ng pagma-manipulate ng ID.",,IDOR
+Cloze,"Ang {{c1::mass assignment}} ay pag-save ng mga fields na hindi dapat i-assign ng user.",,mass assignment
+Cloze,"Ang {{c1::parameterized query}} ay nagpre-prevent ng SQL injection sa pamamagitan ng pagbi-bind ng values.",,parameterized query
+Cloze,"Ang {{c1::authorization check}} ay dapat i-apply sa bawat resource access para maiwasan ang IDOR.",,authorization check

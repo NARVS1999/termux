@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-list ng posts na may pagination?",,"Post::paginate(15); o i-access ang /api/posts?page=2"
+Application,"Paano i-filter ang products ayon sa category?",,"Gamitin ang query parameter: /api/products?category=electronics at i-validate sa controller."
+Application,"Paano mag-return ng 201 status kapag may na-create?",,"return response()->json($post, 201);"
+Application,"Paano i-version ang API para hindi masira ang existing clients?",,"Gumamit ng /api/v1 prefix o header-based versioning."
+Application,"Paano i-expose lang ang ilang attributes ng model sa API?",,"Gumawa ng API Resource class at tukuyin ang toArray() dito."

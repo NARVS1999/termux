@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Sanctum}} ay nagbibigay ng token-based authentication para sa SPAs at mobile apps.",,Sanctum
+Cloze,"Ang {{c1::Passport}} ay isang full OAuth2 server implementation para sa Laravel.",,Passport
+Cloze,"Ang {{c1::JWT}} ay isang self-contained token na may naka-sign na payload.",,JWT
+Cloze,"Ang {{c1::OAuth2}} ay nagpapahintulot ng third-party apps na mag-access ng resources nang walang credentials.",,OAuth2
+Cloze,"Ang {{c1::personal access token}} ay ginagamit para sa machine-to-machine authentication.",,personal access token
+Cloze,"Ang {{c1::authorization code}} flow ay ang pinaka-secure na OAuth2 flow para sa server-side apps.",,authorization code
+Cloze,"Ang {{c1::refresh token}} ay ginagamit para kumuha ng bagong access token kapag nag-expire ang luma.",,refresh token
+Cloze,"Ang {{c1::auth:sanctum}} middleware ay nagpo-protect ng routes para sa mga token-bearing requests.",,auth:sanctum

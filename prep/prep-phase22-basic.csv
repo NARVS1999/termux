@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano mag-issue ng token pagkatapos mag-login sa Sanctum?",,"$token = $user->createToken('device')->plainTextToken;"
+Application,"Paano i-protect ang API route para sa mga authenticated users?",,"Route::middleware('auth:sanctum')->get('/user', ...);"
+Application,"Paano i-validate ang JWT sa bawat request?",,"Gumamit ng JWT middleware na nagche-check ng signature at expiration."
+Application,"Paano i-revoke ang lahat ng tokens ng isang user?",,"$user->tokens()->delete();"
+Application,"Paano mag-access ng third-party API gamit ang OAuth2?",,"I-exchange ang authorization code para sa access token."
