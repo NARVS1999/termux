@@ -1,0 +1,6 @@
+Type,Front,Hint,Back
+Application,"Paano gumawa ng migration para sa users table?",,"php artisan make:migration create_users_table"
+Application,"Paano mag-define ng foreign key na may cascade delete sa migration?",,"$table->foreignId('user_id')->constrained()->onDelete('cascade');"
+Application,"Paano i-run ang lahat ng pending migrations?",,"php artisan migrate"
+Application,"Paano gumawa ng 50 fake users para sa testing?",,"User::factory()->count(50)->create();"
+Application,"Paano mag-seed ng default admin user?",,"I-call ang DB::table('users')->insert([...]) sa loob ng seeder class."

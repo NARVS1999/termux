@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::cache-aside}} strategy ay nagla-load ng data papunta sa cache lamang kapag na-miss ito.",,cache-aside
+Cloze,"Ang {{c1::write-through}} strategy ay nagsusulat ng data sa cache at database nang magkasabay.",,write-through
+Cloze,"Ang {{c1::cache invalidation}} ay ang pagtanggal o pag-update ng stale na cache entries.",,cache invalidation
+Cloze,"Ang {{c1::cache stampede}} ay nangyayari kapag maraming requests ang sabay-sabay na nag-miss sa cache.",,cache stampede
+Cloze,"Ang {{c1::remember}} method ay nag-cache ng result ng closure at ina-update ito kapag nag-expire.",,remember
+Cloze,"Ang {{c1::logical expiration}} ay pag-set ng mas maikling TTL para maiwasan ang masyadong lumang data.",,logical expiration
+Cloze,"Ang {{c1::versioned key}} ay nagbe-bump ng cache key kapag nagbago ang data structure o content.",,versioned key
+Cloze,"Ang {{c1::cache warming}} ay pagpapa-populate ng cache nang maaga bago pa ang expected traffic.",,cache warming

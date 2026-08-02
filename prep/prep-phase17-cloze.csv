@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::Redis}} ay isang in-memory data store na ginagamit para sa cache, queues, at sessions.",,Redis
+Cloze,"Ang {{c1::Memcached}} ay isang simpleng distributed memory caching system.",,Memcached
+Cloze,"Ang {{c1::cache tags}} ay nagpapahintulot ng pagde-delete ng maraming cache keys na may parehong tag.",,cache tags
+Cloze,"Ang {{c1::lock}} ay nagpre-prevent ng concurrent execution ng parehong operation.",,lock
+Cloze,"Ang {{c1::rate limiting}} ay nagli-limit kung ilang requests ang pwedeng gawin sa loob ng isang window.",,rate limiting
+Cloze,"Ang {{c1::TTL}} ay nagsasabi kung gaano katagal bago ma-expire ang isang cache entry.",,TTL
+Cloze,"Ang {{c1::atomic lock}} sa Laravel ay gumagamit ng Cache::lock() para mag-sync ng shared resource.",,atomic lock
+Cloze,"Ang {{c1::cache driver}} ay tumutukoy kung saan ini-store ang cache tulad ng file, redis, o database.",,cache driver

@@ -1,0 +1,9 @@
+Type,Front,Hint,Back
+Cloze,"Ang {{c1::migration}} ay ang version control ng database schema ng isang app.",,migration
+Cloze,"Ang {{c1::seeder}} ay nagfi-fill ng database ng test o default na data.",,seeder
+Cloze,"Ang {{c1::factory}} ay nagge-generate ng realistic test data para sa isang model.",,factory
+Cloze,"Ang {{c1::foreign key constraint}} ay nagpre-prevent ng pagde-delete ng parent record na may mga anak.",,foreign key constraint
+Cloze,"Ang {{c1::rollback}} ay nagre-revert sa huling batch ng migrations na na-run.",,rollback
+Cloze,"Ang {{c1::unique constraint}} ay nag-i-ensure na walang duplicate values sa isang column.",,unique constraint
+Cloze,"Ang {{c1::cascade}} ay awtomatikong nagde-delete ng dependent rows kapag na-delete ang parent.",,cascade
+Cloze,"Ang {{c1::schema builder}} ay nagbibigay ng fluent API para mag-define ng tables at columns.",,schema builder
