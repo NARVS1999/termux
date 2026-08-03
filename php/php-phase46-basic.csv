@@ -1,0 +1,5 @@
+Application,"Paano mag-dispatch ng job?",,"ProcessPodcast::dispatch($podcast);"
+Application,"Paano mag-run ng queue worker?",,"php artisan queue:work"
+Application,"Paano mag-schedule ng task?",,"$schedule->command('report:send')->daily();"
+Application,"Paano i-retry ang failed jobs?",,"php artisan queue:retry all"
+Application,"Paano mag-schedule ng custom command?",,"I-add ang command sa schedule() method ng Kernel."

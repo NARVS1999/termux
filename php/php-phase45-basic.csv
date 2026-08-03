@@ -1,0 +1,5 @@
+Application,"Paano mag-cache ng query result?",,"$posts = Cache::remember('posts', 600, fn() => Post::all());"
+Application,"Paano i-invalidate ang cache kapag may update?",,"Cache::forget('posts');"
+Application,"Paano mag-cache ng full page?",,"Gamitin ang HTTP cache middleware o reverse proxy."
+Application,"Paano mag-cache gamit ang tags?",,"Cache::tags(['users'])->put('user.1', $user, 600);"
+Application,"Paano maiwasan ang cache stampede?",,"Gumamit ng locking o longer TTL sa mga expensive computations."

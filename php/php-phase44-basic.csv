@@ -1,0 +1,5 @@
+Application,"Paano i-enable ang OPcache?",,"I-set ang opcache.enable=1 sa php.ini."
+Application,"Paano mag-cache ng value sa Laravel?",,"Cache::put('key', $value, 600);"
+Application,"Paano i-clear ang cache?",,"php artisan cache:clear"
+Application,"Paano mag-set ng redis bilang cache driver?",,"I-set ang CACHE_STORE=redis sa .env."
+Application,"Paano i-check kung may cache entry?",,"Cache::has('key')"

@@ -1,0 +1,5 @@
+Application,"Paano mag-deploy ng PHP application?",,"I-upload ang code, i-run ang composer install --no-dev, at i-set ang tamang permissions."
+Application,"Paano mag-set up ng CI/CD?",,"I-configure ang pipeline na mag-run ng tests at mag-deploy pagkatapos mag-pass."
+Application,"Paano mag-health check?",,"I-access ang health endpoint at i-check ang status code."
+Application,"Paano mag-rollback ng deployment?",,"I-switch ang symlink papunta sa dating release."
+Application,"Paano i-enable ang maintenance mode sa Laravel?",,"php artisan down"

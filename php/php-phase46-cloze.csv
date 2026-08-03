@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::queue}} ay nagpapa-delay ng heavy tasks para i-process sa background.",,queue
+Cloze,"Ang {{c1::job}} ay ang unit ng trabaho na naka-queue.",,job
+Cloze,"Ang {{c1::queue driver}} ay tumutukoy sa backend ng queue.",,queue driver
+Cloze,"Ang {{c1::worker}} ay ang process na nagpro-process ng mga jobs.",,worker
+Cloze,"Ang {{c1::scheduling}} ay ang pag-arrange ng tasks na tumatakbo sa specific times.",,scheduling
+Cloze,"Ang {{c1::queue:work}} ay ang command na nagpapatakbo ng worker.",,queue:work
+Cloze,"Ang {{c1::failed job}} ay ang job na nag-fail at nai-save para sa retry.",,failed job
+Cloze,"Ang {{c1::dispatch}} ay ang paglalagay ng job sa queue.",,dispatch
+Cloze,"Ang {{c1::schedule:run}} ay ang command na nagti-trigger ng scheduled tasks.",,schedule:run
+Cloze,"Ang {{c1::retry}} ay ang pagsubok muli ng failed job.",,retry

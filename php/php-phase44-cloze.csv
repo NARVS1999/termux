@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::OPcache}} ay nag-cache ng compiled PHP opcodes.",,OPcache
+Cloze,"Ang {{c1::opcode}} ay ang compiled na bersyon ng PHP script.",,opcode
+Cloze,"Ang {{c1::cache driver}} ay tumutukoy sa backend ng cache tulad ng file o redis.",,cache driver
+Cloze,"Ang {{c1::cache invalidation}} ay ang pagtanggal ng stale cache entries.",,cache invalidation
+Cloze,"Ang {{c1::opcache.enable}} ay ang setting na nagbubukas ng OPcache.",,opcache.enable
+Cloze,"Ang {{c1::cache TTL}} ay ang expiration time ng isang cache entry.",,cache TTL
+Cloze,"Ang {{c1::redis}} ay isang popular na in-memory cache backend.",,redis
+Cloze,"Ang {{c1::memcached}} ay isang distributed memory caching system.",,memcached
+Cloze,"Ang {{c1::cache key}} ay ang identifier ng isang cache entry.",,cache key
+Cloze,"Ang {{c1::cache hit}} ay nangyayari kapag may nahanap na cache entry.",,cache hit

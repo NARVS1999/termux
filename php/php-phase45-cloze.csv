@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::query caching}} ay nag-cache ng resulta ng database queries.",,query caching
+Cloze,"Ang {{c1::view caching}} ay nag-iimbak ng rendered views.",,view caching
+Cloze,"Ang {{c1::full-page caching}} ay nag-cache ng buong HTTP response.",,full-page caching
+Cloze,"Ang {{c1::cache-aside}} pattern ay nag-load muna ng data sa cache bago mag-query.",,cache-aside
+Cloze,"Ang {{c1::write-through}} pattern ay nagsusulat sa cache at database nang sabay.",,write-through
+Cloze,"Ang {{c1::cache stampede}} ay nangyayari kapag maraming requests ang nag-rebuild ng cache nang sabay.",,cache stampede
+Cloze,"Ang {{c1::cache invalidation}} ay ang pag-update ng cache kapag nagbago ang data.",,cache invalidation
+Cloze,"Ang {{c1::remember()}} method ay nag-cache ng result at nagsa-save kung wala pa.",,remember() method
+Cloze,"Ang {{c1::cache tags}} ay nagpapahintulot ng group invalidation.",,cache tags
+Cloze,"Ang {{c1::stale data}} ay ang lumang cache data na hindi na updated.",,stale data
