@@ -1,0 +1,5 @@
+Application,"Paano mag-set ng custom route key para sa model binding?",,"I-override ang getRouteKeyName() method sa model para i-return ang 'slug'."
+Application,"Paano mag-register ng explicit model binding?",,"Route::model('user', User::class);"
+Application,"Paano gumamit ng implicit binding sa controller?",,"public function show(Post $post) { return $post; }"
+Application,"Paano mag-scope ng nested binding sa parent model?",,"Route::get('/posts/{post}/comments/{comment}', ...)->scopeBindings();"
+Application,"Paano mag-customize ang resolution kung walang match?",,"I-return ang null o mag-throw ng ModelNotFoundException sa resolveRouteBinding()."

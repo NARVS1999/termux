@@ -1,0 +1,5 @@
+Application,"Paano mag-register ng lahat ng resource routes para sa posts?",,"Route::resource('posts', PostController::class);"
+Application,"Paano mag-register ng resource routes na walang create at edit?",,"Route::apiResource('posts', PostController::class);"
+Application,"Paano mag-register ng ilang resource routes lang?",,"Route::resource('posts', PostController::class)->only(['index', 'show']);"
+Application,"Paano mag-exclude ng isang resource route?",,"Route::resource('posts', PostController::class)->except(['destroy']);"
+Application,"Paano mag-register ng nested resource routes?",,"Route::resource('posts.comments', CommentController::class);"

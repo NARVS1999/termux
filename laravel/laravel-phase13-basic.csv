@@ -1,0 +1,5 @@
+Application,"Paano mag-group ng admin routes na may prefix?",,"Route::prefix('admin')->group(function () { });"
+Application,"Paano mag-apply ng auth middleware sa isang route?",,"Route::get('/dashboard', ...)->middleware('auth');"
+Application,"Paano mag-limit ng requests sa isang route group?",,"Route::middleware('throttle:60,1')->group(...);"
+Application,"Paano mag-assign ng middleware alias sa AppServiceProvider?",,"I-register ang alias sa $middlewareAliases array gamit ang ->aliasMiddleware()."
+Application,"Paano mag-add ng name prefix sa isang route group?",,"Route::name('admin.')->group(function () { });"

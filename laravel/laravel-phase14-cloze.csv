@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::resource controller}} ay nagbibigay ng RESTful CRUD methods sa isang controller.",,resource controller
+Cloze,"Ang {{c1::resource route}} ay nagre-register ng lahat ng CRUD routes para sa isang resource.",,resource route
+Cloze,"Ang {{c1::RESTful mapping}} ay nagma-map ng HTTP methods at URLs sa controller actions.",,RESTful mapping
+Cloze,"Ang {{c1::partial routes}} ay tumutukoy sa subset ng resource routes na hindi naka-register.",,partial routes
+Cloze,"Ang {{c1::only}} option ay naglilimita kung aling resource routes ang ire-register.",,only option
+Cloze,"Ang {{c1::except}} option ay nag-e-exclude ng specific resource routes sa pag-register.",,except option
+Cloze,"Ang {{c1::apiResource}} ay nagre-register ng resource routes para sa APIs nang walang form routes.",,apiResource
+Cloze,"Ang {{c1::Route::resource}} ay gumagawa ng index, create, store, show, edit, update, at destroy routes.",,Route::resource
+Cloze,"Ang {{c1::parameter name}} ng resource route ay awtomatikong nakabase sa resource name.",,parameter name
+Cloze,"Ang {{c1::nested resource}} ay nagre-register ng resource routes sa loob ng isang parent resource.",,nested resource

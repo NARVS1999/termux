@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::named route}} ay nagbibigay ng pangalan sa route para madaling ma-reference sa views at controllers.",,named route
+Cloze,"Ang {{c1::route()}} helper ay gumagawa ng URL gamit ang pangalan ng route.",,route() helper
+Cloze,"Ang {{c1::fallback route}} ay nagha-handle ng lahat ng requests na hindi tumutugma sa ibang routes.",,fallback route
+Cloze,"Ang {{c1::route parameters}} ay dynamic segments ng URL na ipinapasa sa route callback.",,route parameters
+Cloze,"Ang {{c1::required parameter}} ay kinakailangang maibigay para ma-match ang route.",,required parameter
+Cloze,"Ang {{c1::route caching}} ay nagpapabilis ng route registration gamit ang artisan command.",,route caching
+Cloze,"Ang {{c1::Route::view}} ay nagre-register ng route na nagre-return ng view nang walang controller.",,Route::view
+Cloze,"Ang {{c1::redirect route}} ay nagre-redirect ng isang URL papunta sa ibang URL.",,redirect route
+Cloze,"Ang {{c1::URL generation}} ay ang paggawa ng kumpletong URL mula sa route names o controller actions.",,URL generation
+Cloze,"Ang {{c1::current route}} ay ang route na tumutugma sa kasalukuyang request.",,current route

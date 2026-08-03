@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng URL gamit ang named route?",,"route('posts.show', $post)"
+Application,"Paano mag-check kung ang current route ay may pangalan?",,"request()->route()->named('posts.index')"
+Application,"Paano mag-register ng fallback route?",,"Route::fallback(function () { return 'Not found'; });"
+Application,"Paano mag-redirect ng /home papunta sa /dashboard?",,"Route::redirect('/home', '/dashboard');"
+Application,"Paano mag-cache ang mga routes?",,"php artisan route:cache"

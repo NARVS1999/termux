@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::implicit route model binding}} ay awtomatikong nag-i-inject ng model instance base sa route parameter.",,implicit route model binding
+Cloze,"Ang {{c1::explicit route model binding}} ay manu-manong nagre-register ng binding para sa isang parameter.",,explicit route model binding
+Cloze,"Ang {{c1::scoped binding}} ay nagre-restrict ng child model sa pamamagitan ng parent model sa nested routes.",,scoped binding
+Cloze,"Ang {{c1::resolveRouteBinding}} ay custom method na nagbabago kung paano hinahanap ang model sa route binding.",,resolveRouteBinding
+Cloze,"Ang {{c1::type-hinted model}} sa controller method ay ang nag-trigger ng implicit binding.",,type-hinted model
+Cloze,"Ang {{c1::route key}} ay ang column na ginagamit para hanapin ang model sa route binding.",,route key
+Cloze,"Ang {{c1::missing model}} sa route binding ay nagre-return ng 404 response.",,missing model
+Cloze,"Ang {{c1::whereHas}} constraint sa scoped binding ay nagfi-filter ng parent-child relationship.",,whereHas constraint
+Cloze,"Ang {{c1::custom resolution}} ay nagpapahintulot ng custom logic sa pagha-hanap ng model.",,custom resolution
+Cloze,"Ang {{c1::binding field}} ay nagtutukoy kung aling column ang gagamitin sa paghahanap ng model.",,binding field

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::api routes}} ay naka-register sa routes/api.php at walang session state.",,api routes
+Cloze,"Ang {{c1::route prefix}} para sa API ay karaniwang 'api' na idinadagdag sa lahat ng API URLs.",,route prefix
+Cloze,"Ang {{c1::API versioning}} ay gumagamit ng URL o header para tukuyin ang version ng API.",,API versioning
+Cloze,"Ang {{c1::API response}} ay karaniwang nasa JSON format para ma-consume ng clients.",,API response
+Cloze,"Ang {{c1::api middleware group}} ay may kasamang throttle at bindings middleware.",,api middleware group
+Cloze,"Ang {{c1::JSON response}} ay ginagamitan ng response()->json() para mag-return ng data.",,JSON response
+Cloze,"Ang {{c1::status code}} ay nagpapahiwatig ng resulta ng API request tulad ng 200 o 404.",,status code
+Cloze,"Ang {{c1::API token}} ay ginagamit para mag-authenticate ng mga requests sa API.",,API token
+Cloze,"Ang {{c1::v1 prefix}} ay karaniwang ginagamit para i-version ang API URLs.",,v1 prefix
+Cloze,"Ang {{c1::API resource}} ay nag-transform ng model data para sa API responses.",,API resource

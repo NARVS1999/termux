@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::route group}} ay nagbabahagi ng attributes tulad ng middleware at prefix sa mga routes.",,route group
+Cloze,"Ang {{c1::middleware}} ay nagfi-filter ng HTTP requests bago o pagkatapos ma-handle ng controller.",,middleware
+Cloze,"Ang {{c1::auth middleware}} ay nagre-restrict ng access sa mga routes para sa logged-in users lang.",,auth middleware
+Cloze,"Ang {{c1::throttle middleware}} ay nagli-limit ng bilang ng requests na kayang i-handle sa isang period.",,throttle middleware
+Cloze,"Ang {{c1::route prefix}} ay idinaragdag sa simula ng lahat ng URLs sa isang group.",,route prefix
+Cloze,"Ang {{c1::scope}} ay tumutukoy sa limitasyon ng access o functionality ng isang route o token.",,scope
+Cloze,"Ang {{c1::middleware group}} ay isang koleksyon ng middleware na ina-apply sa isang set ng routes.",,middleware group
+Cloze,"Ang {{c1::route name prefix}} ay idinaragdag sa lahat ng route names sa isang group.",,route name prefix
+Cloze,"Ang {{c1::middleware alias}} ay nagbibigay ng maikling pangalan sa isang middleware class.",,middleware alias
+Cloze,"Ang {{c1::route middleware}} ay ina-assign sa specific routes o groups gamit ang ->middleware() method.",,route middleware

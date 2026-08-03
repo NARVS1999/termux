@@ -1,0 +1,5 @@
+Application,"Paano mag-register ng API routes na may version prefix?",,"Route::prefix('v1')->group(function () { });"
+Application,"Paano mag-return ng JSON response na may status code?",,"return response()->json($data, 201);"
+Application,"Paano i-check kung ang request ay galing sa API?",,"Sa Request, i-check ang $request->is('api/*')."
+Application,"Paano mag-declare ng API-only resource routes?",,"Route::apiResource('posts', PostController::class);"
+Application,"Paano mag-set ng custom API response format?",,"Gumamit ng API Resource classes para i-transform ang data bago i-return."
