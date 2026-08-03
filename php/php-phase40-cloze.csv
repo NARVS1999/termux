@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::SQL injection}} ay nangyayari kapag nag-i-inject ng malicious SQL sa query.",,SQL injection
+Cloze,"Ang {{c1::prepared statement}} ay naghihiwalay ng SQL code sa data.",,prepared statement
+Cloze,"Ang {{c1::parameterization}} ay ang paggamit ng placeholders para sa user input.",,parameterization
+Cloze,"Ang {{c1::placeholder}} ay ang ? o named parameter sa prepared statement.",,placeholder
+Cloze,"Ang {{c1::bindValue}} ay nagba-bind ng value sa isang parameter.",,bindValue
+Cloze,"Ang {{c1::escape}} ay hindi sapat na proteksyon laban sa SQL injection.",,escape
+Cloze,"Ang {{c1::quote()}} method ng PDO ay nagba-quote ng string values.",,quote() method
+Cloze,"Ang {{c1::parameterized query}} ay ligtas laban sa SQL injection.",,parameterized query
+Cloze,"Ang {{c1::user input}} ay hindi dapat direktang i-concatenate sa SQL string.",,user input
+Cloze,"Ang {{c1::whitelisting}} ay naglilimita sa mga pinapayagang values.",,whitelisting

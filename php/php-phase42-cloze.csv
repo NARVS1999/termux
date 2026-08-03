@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::password hashing}} ay ang pagko-convert ng password sa hindi mababasa na form.",,password hashing
+Cloze,"Ang {{c1::password_hash()}} ay gumagawa ng secure password hash.",,password_hash()
+Cloze,"Ang {{c1::password_verify()}} ay nagve-verify ng password laban sa hash.",,password_verify()
+Cloze,"Ang {{c1::bcrypt}} ay ang default na hashing algorithm ng PHP.",,bcrypt
+Cloze,"Ang {{c1::salt}} ay idinadagdag sa password bago i-hash para sa karagdagang seguridad.",,salt
+Cloze,"Ang {{c1::Argon2}} ay isang mas modernong hashing algorithm ng PHP.",,Argon2
+Cloze,"Ang {{c1::password_needs_rehash}} ay nagcha-check kung kailangan i-rehash ang password.",,password_needs_rehash
+Cloze,"Ang {{c1::password policy}} ay ang mga requirement para sa malalakas na passwords.",,password policy
+Cloze,"Ang {{c1::plain text}} na password ay hindi dapat iimbak sa database.",,plain text
+Cloze,"Ang {{c1::timing attack}} ay iniiwasan ng password_verify dahil sa constant-time comparison.",,timing attack

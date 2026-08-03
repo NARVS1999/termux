@@ -1,0 +1,5 @@
+Application,"Paano mag-execute ng ligtas na query na may user input?",,"$stmt = $pdo->prepare('SELECT * FROM users WHERE email = ?'); $stmt->execute([$email]);"
+Application,"Paano mag-bind ng named parameter?",,"$stmt = $pdo->prepare('SELECT * FROM users WHERE id = :id'); $stmt->bindValue(':id', $id);"
+Application,"Paano maiwasan ang SQL injection?",,"Gamitin ang prepared statements imbes na i-concatenate ang input sa SQL."
+Application,"Paano mag-quote ng string sa PDO?",,"$pdo->quote($value);"
+Application,"Paano i-validate ang input bago i-query?",,"I-filter o i-whitelist ang input bago gamitin sa query."

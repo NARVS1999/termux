@@ -1,0 +1,5 @@
+Application,"Paano mag-access ng environment variable sa PHP?",,"getenv('APP_ENV') o $_ENV['APP_ENV']"
+Application,"Paano i-secure ang .env file?",,"I-add ang .env sa .gitignore at i-set ang tamang file permissions."
+Application,"Paano mag-hide ng errors sa production?",,"I-set ang display_errors=Off sa php.ini."
+Application,"Paano mag-imbak ng API keys?",,"I-imbak sa environment variables o secret manager, hindi sa code."
+Application,"Paano mag-hardening ng server?",,"I-disable ang hindi ginagamit na modules at i-secure ang file permissions."

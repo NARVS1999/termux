@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::XSS}} attack ay nag-i-inject ng malicious scripts sa page.",,XSS attack
+Cloze,"Ang {{c1::escaping}} ay ang pagko-convert ng special characters para hindi maging code.",,escaping
+Cloze,"Ang {{c1::CSRF token}} ay nagpro-protekt sa forms mula sa cross-site request forgery.",,CSRF token
+Cloze,"Ang {{c1::secure headers}} ay nagdaragdag ng proteksyon sa HTTP responses.",,secure headers
+Cloze,"Ang {{c1::htmlspecialchars}} ay nag-e-escape ng HTML special characters.",,htmlspecialchars
+Cloze,"Ang {{c1::X-Content-Type-Options}} header ay pumipigil sa MIME sniffing.",,X-Content-Type-Options
+Cloze,"Ang {{c1::Content-Security-Policy}} ay nagli-limit sa mga pinapayagang source ng content.",,Content-Security-Policy
+Cloze,"Ang {{c1::SameSite cookie}} ay nagre-restrict sa pagpapadala ng cookies sa cross-site requests.",,SameSite cookie
+Cloze,"Ang {{c1::session token}} ay naiiba sa bawat request para sa CSRF protection.",,session token
+Cloze,"Ang {{c1::HTTP-only flag}} ay pumipigil sa JavaScript na ma-access ang cookie.",,HTTP-only flag

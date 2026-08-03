@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::environment variables}} ay nag-iimbak ng configuration nang hiwalay sa code.",,environment variables
+Cloze,"Ang {{c1::secrets}} ay mga sensitive values tulad ng API keys at database passwords.",,secrets
+Cloze,"Ang {{c1::hardening}} ay ang pagpapatibay ng configuration ng server at application.",,hardening
+Cloze,"Ang {{c1::.env.example}} ay ang template ng environment variables na pwede i-commit.",,.env.example
+Cloze,"Ang {{c1::gitignore}} ay pumipigil sa pag-commit ng sensitive files.",,gitignore
+Cloze,"Ang {{c1::getenv()}} ay kumukuha ng environment variable value.",,getenv()
+Cloze,"Ang {{c1::configuration file}} ay hindi dapat maglaman ng hardcoded secrets.",,configuration file
+Cloze,"Ang {{c1::error exposure}} ay ang pagpapakita ng errors na dapat i-hide sa production.",,error exposure
+Cloze,"Ang {{c1::file permissions}} ay dapat na tamang naka-set para hindi ma-access ang sensitive files.",,file permissions
+Cloze,"Ang {{c1::secure defaults}} ay ang paggamit ng ligtas na default configuration.",,secure defaults

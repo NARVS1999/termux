@@ -1,0 +1,5 @@
+Application,"Paano mag-hash ng password?",,"password_hash($password, PASSWORD_BCRYPT);"
+Application,"Paano mag-verify ng password?",,"password_verify($password, $hash);"
+Application,"Paano i-check kung kailangan i-rehash ang password?",,"password_needs_rehash($hash, PASSWORD_BCRYPT);"
+Application,"Paano mag-hash gamit ang Argon2?",,"password_hash($password, PASSWORD_ARGON2ID);"
+Application,"Paano mag-apply ng password policy?",,"I-validate ang minimum length at required characters bago i-save."
