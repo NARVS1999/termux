@@ -21,11 +21,11 @@
 
 ## Routing & Controllers
 
-- [ ] **Phase 12** — Routes: named routes, parameters, fallbacks
-- [ ] **Phase 13** — Route groups & middleware: auth, throttling, scopes
-- [ ] **Phase 14** — Resource controllers: RESTful mapping, partials
-- [ ] **Phase 15** — Route model binding: implicit, explicit, scoping
-- [ ] **Phase 16** — API routes: prefixes, versioning, responses
+- [x] **Phase 12** — Routes: named routes, parameters, fallbacks
+- [x] **Phase 13** — Route groups & middleware: auth, throttling, scopes
+- [x] **Phase 14** — Resource controllers: RESTful mapping, partials
+- [x] **Phase 15** — Route model binding: implicit, explicit, scoping
+- [x] **Phase 16** — API routes: prefixes, versioning, responses
 
 ## Eloquent ORM
 
