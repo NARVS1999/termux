@@ -4,11 +4,11 @@
 
 ## PHP Refresher (Prerequisites)
 
-- [ ] **Phase 1** — PHP basics: syntax, types, arrays, control flow, functions
-- [ ] **Phase 2** — OOP in PHP: classes, inheritance, interfaces, traits
-- [ ] **Phase 3** — Composer: install, autoload, packages, lockfile
-- [ ] **Phase 4** — Namespaces & PSR-4: autoloading, imports
-- [ ] **Phase 5** — Development setup: PHP, extensions, local servers
+- [x] **Phase 1** — PHP basics: syntax, types, arrays, control flow, functions
+- [x] **Phase 2** — OOP in PHP: classes, inheritance, interfaces, traits
+- [x] **Phase 3** — Composer: install, autoload, packages, lockfile
+- [x] **Phase 4** — Namespaces & PSR-4: autoloading, imports
+- [x] **Phase 5** — Development setup: PHP, extensions, local servers
 
 ## Laravel Fundamentals
 
