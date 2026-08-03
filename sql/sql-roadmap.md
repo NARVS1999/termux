@@ -4,11 +4,11 @@
 
 ## SQL Fundamentals
 
-- [ ] **Phase 1** — SELECT basics: columns, expressions, literals, LIMIT
-- [ ] **Phase 2** — WHERE & filtering: operators, IN, BETWEEN, LIKE, NULL handling
-- [ ] **Phase 3** — ORDER BY & pagination: sorting, multiple keys, OFFSET/FETCH
-- [ ] **Phase 4** — DISTINCT & aliases: deduplication, column aliases, table aliases
-- [ ] **Phase 5** — Data types: numeric, string, date/time, booleans, casting
+- [x] **Phase 1** — SELECT basics: columns, expressions, literals, LIMIT
+- [x] **Phase 2** — WHERE & filtering: operators, IN, BETWEEN, LIKE, NULL handling
+- [x] **Phase 3** — ORDER BY & pagination: sorting, multiple keys, OFFSET/FETCH
+- [x] **Phase 4** — DISTINCT & aliases: deduplication, column aliases, table aliases
+- [x] **Phase 5** — Data types: numeric, string, date/time, booleans, casting
 
 ## Joins & Subqueries
 
