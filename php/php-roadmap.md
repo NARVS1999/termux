@@ -44,12 +44,12 @@
 
 ## Laravel Framework
 
-- [ ] **Phase 26** — Laravel setup: install, structure, config, env
-- [ ] **Phase 27** — Routing & controllers: routes, groups, resources
-- [ ] **Phase 28** — Blade templating: layouts, components, directives
-- [ ] **Phase 29** — Eloquent: models, relationships, scopes, casts
-- [ ] **Phase 30** — Middleware: request handling, auth gates, queues
-- [ ] **Phase 31** — Artisan & Tinker: commands, scaffolding, debugging
+- [x] **Phase 26** — Laravel setup: install, structure, config, env
+- [x] **Phase 27** — Routing & controllers: routes, groups, resources
+- [x] **Phase 28** — Blade templating: layouts, components, directives
+- [x] **Phase 29** — Eloquent: models, relationships, scopes, casts
+- [x] **Phase 30** — Middleware: request handling, auth gates, queues
+- [x] **Phase 31** — Artisan & Tinker: commands, scaffolding, debugging
 
 ## APIs & Integration
 
