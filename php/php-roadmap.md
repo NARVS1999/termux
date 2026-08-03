@@ -60,10 +60,10 @@
 
 ## Testing
 
-- [ ] **Phase 36** — PHPUnit: setup, assertions, data providers
-- [ ] **Phase 37** — Feature tests: HTTP tests, database testing, factories
-- [ ] **Phase 38** — TDD: red-green-refactor, test organization
-- [ ] **Phase 39** — Mocking: fakes, spies, dependency stubs
+- [x] **Phase 36** — PHPUnit: setup, assertions, data providers
+- [x] **Phase 37** — Feature tests: HTTP tests, database testing, factories
+- [x] **Phase 38** — TDD: red-green-refactor, test organization
+- [x] **Phase 39** — Mocking: fakes, spies, dependency stubs
 
 ## Security
 
