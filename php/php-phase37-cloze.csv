@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::feature test}} ay sumusubok ng buong request lifecycle.",,feature test
+Cloze,"Ang {{c1::HTTP test}} ay nagpapadala ng requests sa application at nagve-verify ng responses.",,HTTP test
+Cloze,"Ang {{c1::database testing}} ay sumusubok ng database interactions.",,database testing
+Cloze,"Ang {{c1::factory}} ay nagge-generate ng test data para sa models.",,factory
+Cloze,"Ang {{c1::RefreshDatabase}} trait ay nagre-reset ng database sa bawat test.",,RefreshDatabase trait
+Cloze,"Ang {{c1::assertDatabaseHas}} ay nagve-verify na may record sa database.",,assertDatabaseHas
+Cloze,"Ang {{c1::actingAs}} ay nag-a-authenticate ng test request bilang isang user.",,actingAs
+Cloze,"Ang {{c1::assertStatus}} ay nagve-verify ng HTTP status code.",,assertStatus
+Cloze,"Ang {{c1::assertJson}} ay nagve-verify ng JSON response structure.",,assertJson
+Cloze,"Ang {{c1::test transaction}} ay nagse-secure ng database state sa pagitan ng tests.",,test transaction

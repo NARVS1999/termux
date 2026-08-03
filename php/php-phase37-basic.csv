@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng feature test?",,"php artisan make:test UserTest"
+Application,"Paano mag-test ng GET request?",,"$response = $this->get('/home');"
+Application,"Paano mag-assert ng status code?",,"$response->assertStatus(200);"
+Application,"Paano mag-factory ng 10 users?",,"User::factory()->count(10)->create();"
+Application,"Paano i-verify na may record sa database?",,"$this->assertDatabaseHas('users', ['email' => 'test@example.com']);"

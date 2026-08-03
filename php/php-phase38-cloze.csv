@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::TDD}} ay ang test-driven development na sumusulat ng test bago ang code.",,TDD
+Cloze,"Ang {{c1::red phase}} ay kung saan nagfa-fail ang test dahil wala pang implementation.",,red phase
+Cloze,"Ang {{c1::green phase}} ay kung saan pumapasa ang test pagkatapos i-implement.",,green phase
+Cloze,"Ang {{c1::refactor phase}} ay kung saan nililinis ang code nang hindi nababago ang behavior.",,refactor phase
+Cloze,"Ang {{c1::test organization}} ay ang pag-aayos ng tests sa logical folders.",,test organization
+Cloze,"Ang {{c1::unit test}} ay sumusubok ng isang specific na unit ng code.",,unit test
+Cloze,"Ang {{c1::integration test}} ay sumusubok ng interaction ng mga components.",,integration test
+Cloze,"Ang {{c1::test naming}} ay naglalarawan sa inaasahang behavior ng code.",,test naming
+Cloze,"Ang {{c1::coverage}} ay ang sukat kung gaano karaming code ang na-test.",,coverage
+Cloze,"Ang {{c1::regression test}} ay pumipigil sa pagbalik ng dating bugs.",,regression test

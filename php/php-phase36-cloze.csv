@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::PHPUnit}} ay ang standard testing framework ng PHP.",,PHPUnit
+Cloze,"Ang {{c1::setup}} ng PHPUnit ay ginagawa sa pamamagitan ng composer.",,setup
+Cloze,"Ang {{c1::assertion}} ay ang verification na ang isang condition ay totoo.",,assertion
+Cloze,"Ang {{c1::data provider}} ay nagbibigay ng multiple datasets para sa isang test.",,data provider
+Cloze,"Ang {{c1::test method}} ay isang method na may test prefix o @test annotation.",,test method
+Cloze,"Ang {{c1::assertEquals}} ay nagcha-check kung magkapantay ang dalawang values.",,assertEquals
+Cloze,"Ang {{c1::assertTrue}} ay nagcha-check kung true ang value.",,assertTrue
+Cloze,"Ang {{c1::assertSame}} ay nagcha-check kung magkapareho ang type at value.",,assertSame
+Cloze,"Ang {{c1::setUp()}} method ay tumatakbo bago ang bawat test.",,setUp() method
+Cloze,"Ang {{c1::tearDown()}} method ay tumatakbo pagkatapos ng bawat test.",,tearDown() method

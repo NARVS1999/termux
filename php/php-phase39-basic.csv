@@ -1,0 +1,5 @@
+Application,"Paano mag-mock ng class gamit ang Mockery?",,"$mock = Mockery::mock(Service::class);"
+Application,"Paano mag-stub ng return value?",,"$mock->shouldReceive('method')->andReturn('value');"
+Application,"Paano mag-fake ang queue?",,"Queue::fake();"
+Application,"Paano i-verify ang mock call?",,"$mock->shouldHaveReceived('method');"
+Application,"Paano mag-fake ang mail?",,"Mail::fake();"

@@ -1,0 +1,5 @@
+Application,"Paano sumulat ng failing test bago mag-implement?",,"Isulat muna ang test, i-run para makita ang fail, saka i-implement."
+Application,"Paano mag-organize ng tests?",,"I-group ang Unit at Feature tests sa magkahiwalay na folders."
+Application,"Paano mag-run ng specific test file?",,"./vendor/bin/phpunit --filter=UserTest"
+Application,"Paano mag-measure ng coverage?",,"./vendor/bin/phpunit --coverage-html coverage/"
+Application,"Paano mag-iwas sa regression?",,"Magdagdag ng test para sa bawat na-fix na bug."

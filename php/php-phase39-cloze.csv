@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::mock}} ay isang test double na may inaasahang calls.",,mock
+Cloze,"Ang {{c1::spy}} ay nagre-record ng calls para i-verify pagkatapos.",,spy
+Cloze,"Ang {{c1::fake}} ay isang test double na nagre-record ng calls nang hindi nag-e-execute ng real logic.",,fake
+Cloze,"Ang {{c1::stub}} ay isang test double na nagre-return ng fixed values.",,stub
+Cloze,"Ang {{c1::Mockery}} ay ang mocking library ng PHP.",,Mockery
+Cloze,"Ang {{c1::expects()}} ay nagde-declare ng inaasahang method call ng mock.",,expects()
+Cloze,"Ang {{c1::shouldReceive}} ay nagse-set ng inaasahang method calls ng mock.",,shouldReceive
+Cloze,"Ang {{c1::dependency injection}} ay ginagawang madali ang pag-swap ng dependencies sa tests.",,dependency injection
+Cloze,"Ang {{c1::Queue::fake}} ay nagre-record ng dispatched jobs.",,Queue::fake
+Cloze,"Ang {{c1::Mail::fake}} ay nagre-record ng mga sent emails.",,Mail::fake

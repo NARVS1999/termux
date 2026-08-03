@@ -1,0 +1,5 @@
+Application,"Paano mag-install ng PHPUnit?",,"composer require --dev phpunit/phpunit"
+Application,"Paano mag-run ng mga tests?",,"./vendor/bin/phpunit"
+Application,"Paano mag-assert ng equality?",,"$this->assertEquals(4, $result);"
+Application,"Paano mag-define ng test method?",,"public function test_addition() { } o #[Test] attribute"
+Application,"Paano mag-define ng data provider?",,"I-add ang @dataProvider annotation na may provider method."
