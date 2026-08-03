@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::optimization}} ay ang proseso ng pagpapabilis ng application.",,optimization
+Cloze,"Ang {{c1::eager loading}} ay nakakaiwas sa N+1 queries na nagpapabagal ng application.",,eager loading
+Cloze,"Ang {{c1::database index}} ay nagpapabilis ng paghahanap sa database table.",,database index
+Cloze,"Ang {{c1::OPcache}} ay nag-cache ng compiled PHP scripts para mapabilis ang execution.",,OPcache
+Cloze,"Ang {{c1::config cache}} ay pinagsasama ang config files sa isang cached file.",,config cache
+Cloze,"Ang {{c1::route cache}} ay pinapabilis ang route registration.",,route cache
+Cloze,"Ang {{c1::query log}} ay nagpapakita ng mga queries na na-execute sa isang request.",,query log
+Cloze,"Ang {{c1::index column}} ay dapat ilagay sa mga columns na madalas i-filter.",,index column
+Cloze,"Ang {{c1::N+1 detection}} ay nagha-highlight ng mga queries na hindi naka-eager load.",,N+1 detection
+Cloze,"Ang {{c1::performance profiling}} ay nagtutukoy kung saang parte mabagal ang application.",,performance profiling

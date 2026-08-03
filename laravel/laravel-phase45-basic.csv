@@ -1,0 +1,5 @@
+Application,"Paano mag-cache ng value sa loob ng 60 segundo?",,"Cache::put('key', $value, 60);"
+Application,"Paano mag-cache ng query result?",,"$posts = Cache::remember('posts', 600, fn() => Post::all());"
+Application,"Paano i-clear ang cache?",,"Cache::flush(); o php artisan cache:clear"
+Application,"Paano i-check kung may cache ang isang key?",,"Cache::has('key')"
+Application,"Paano mag-cache gamit ang tags?",,"Cache::tags(['posts'])->put('home', $data, 60);"

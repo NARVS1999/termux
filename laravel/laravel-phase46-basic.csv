@@ -1,0 +1,5 @@
+Application,"Paano i-optimize ang queries?",,"Magdagdag ng index sa filtered columns at gumamit ng eager loading."
+Application,"Paano i-enable ang OPcache?",,"I-set ang opcache.enable=1 sa php.ini."
+Application,"Paano i-cache ang config at routes?",,"php artisan config:cache at php artisan route:cache"
+Application,"Paano makita ang mga executed queries?",,"I-enable ang DB::enableQueryLog() at i-check ang DB::getQueryLog()."
+Application,"Paano i-detect ang N+1 problem?",,"Gamitin ang Laravel Debugbar o i-check ang query log."

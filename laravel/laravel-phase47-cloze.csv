@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::deployment}} ay ang proseso ng paglalagay ng application sa production.",,deployment
+Cloze,"Ang {{c1::deployment platform}} tulad ng Forge o Envoyer ay nag-a-automate ng deployment.",,deployment platform
+Cloze,"Ang {{c1::CI/CD}} ay ang automated na proseso ng pagbuo, pag-test, at pag-deploy ng code.",,CI/CD
+Cloze,"Ang {{c1::monitoring}} ay ang pagsubaybay sa health at performance ng application.",,monitoring
+Cloze,"Ang {{c1::maintenance mode}} ay nagpapatigil sa application habang may ginagawang maintenance.",,maintenance mode
+Cloze,"Ang {{c1::deploy script}} ay ang mga hakbang na ginagawa sa bawat deployment.",,deploy script
+Cloze,"Ang {{c1::zero downtime}} deployment ay nagde-deploy nang hindi pinapatigil ang application.",,zero downtime
+Cloze,"Ang {{c1::health check}} ay nagve-verify na okay ang application pagkatapos mag-deploy.",,health check
+Cloze,"Ang {{c1::logging}} ay nagre-record ng mga error at events ng application.",,logging
+Cloze,"Ang {{c1::rollback}} ay ang pagbabalik sa dating version kung may problema ang deployment.",,rollback

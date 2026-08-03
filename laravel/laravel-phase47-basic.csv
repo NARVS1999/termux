@@ -1,0 +1,5 @@
+Application,"Paano i-enable ang maintenance mode?",,"php artisan down"
+Application,"Paano i-disable ang maintenance mode?",,"php artisan up"
+Application,"Paano mag-deploy gamit ang CI/CD?",,"I-configure ang pipeline para mag-run ng tests at mag-deploy pagkatapos mag-pass."
+Application,"Paano i-monitor ang application?",,"Gumamit ng Sentry o Laravel Telescope para sa error at performance monitoring."
+Application,"Paano mag-deploy nang walang downtime?",,"Gumamit ng symlink na deployment o queue-driven deployment."

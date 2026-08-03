@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::cache}} ay nag-iimbak ng madalas na ginagamit na data para mapabilis ang pag-access.",,cache
+Cloze,"Ang {{c1::cache driver}} ay tumutukoy sa backend ng cache tulad ng file o redis.",,cache driver
+Cloze,"Ang {{c1::query caching}} ay nag-cache ng resulta ng mga queries para maiwasan ang paulit-ulit na database calls.",,query caching
+Cloze,"Ang {{c1::view caching}} ay nag-iimbak ng compiled views para mapabilis ang rendering.",,view caching
+Cloze,"Ang {{c1::cache invalidation}} ay ang pagtanggal o pag-update ng stale cache.",,cache invalidation
+Cloze,"Ang {{c1::Cache facade}} ay nagbibigay ng API para sa pag-iimbak ng cache.",,Cache facade
+Cloze,"Ang {{c1::cache tags}} ay nagpapahintulot sa pag-group ng mga cache items para i-invalidate nang sabay.",,cache tags
+Cloze,"Ang {{c1::remember()}} method ay nag-cache ng value at nagsa-save kung wala pa.",,remember() method
+Cloze,"Ang {{c1::TTL}} ay ang time-to-live ng isang cache item.",,TTL
+Cloze,"Ang {{c1::cache hit}} ay nangyayari kapag may nahanap na cache para sa isang key.",,cache hit
