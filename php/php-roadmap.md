@@ -36,11 +36,11 @@
 
 ## Web Development
 
-- [ ] **Phase 21** — HTTP in PHP: superglobals, requests, responses, headers
-- [ ] **Phase 22** — Forms & validation: submission, rules, errors
-- [ ] **Phase 23** — Sessions & cookies: handling, security, storage
-- [ ] **Phase 24** — Routing: patterns, controllers, parameters
-- [ ] **Phase 25** — Error handling: logging, error pages, exceptions
+- [x] **Phase 21** — HTTP in PHP: superglobals, requests, responses, headers
+- [x] **Phase 22** — Forms & validation: submission, rules, errors
+- [x] **Phase 23** — Sessions & cookies: handling, security, storage
+- [x] **Phase 24** — Routing: patterns, controllers, parameters
+- [x] **Phase 25** — Error handling: logging, error pages, exceptions
 
 ## Laravel Framework
 
