@@ -12,11 +12,11 @@
 
 ## OOP in PHP
 
-- [ ] **Phase 6** — Classes & objects: properties, methods, visibility
-- [ ] **Phase 7** — Inheritance & interfaces: extends, implements, abstract
-- [ ] **Phase 8** — Traits & enums: reuse, constants, cases
-- [ ] **Phase 9** — Namespaces & autoloading: PSR-4, use statements
-- [ ] **Phase 10** — Magic methods: __construct, __get, __call, __toString
+- [x] **Phase 6** — Classes & objects: properties, methods, visibility
+- [x] **Phase 7** — Inheritance & interfaces: extends, implements, abstract
+- [x] **Phase 8** — Traits & enums: reuse, constants, cases
+- [x] **Phase 9** — Namespaces & autoloading: PSR-4, use statements
+- [x] **Phase 10** — Magic methods: __construct, __get, __call, __toString
 
 ## Composer & Dependencies
 
