@@ -37,12 +37,12 @@
 
 ## Query Optimization
 
-- [ ] **Phase 22** — Indexes: purpose, types, tradeoffs, column order
-- [ ] **Phase 23** — EXPLAIN plans: reading plans, costs, scan types
-- [ ] **Phase 24** — Query rewriting: join order, subquery unnesting, simplification
-- [ ] **Phase 25** — Normalization: normal forms, avoiding redundancy, tradeoffs
-- [ ] **Phase 26** — Denormalization: when to duplicate, materialization
-- [ ] **Phase 27** — Performance pitfalls: full scans, N+1, missing indexes, functions on columns
+- [x] **Phase 22** — Indexes: purpose, types, tradeoffs, column order
+- [x] **Phase 23** — EXPLAIN plans: reading plans, costs, scan types
+- [x] **Phase 24** — Query rewriting: join order, subquery unnesting, simplification
+- [x] **Phase 25** — Normalization: normal forms, avoiding redundancy, tradeoffs
+- [x] **Phase 26** — Denormalization: when to duplicate, materialization
+- [x] **Phase 27** — Performance pitfalls: full scans, N+1, missing indexes, functions on columns
 
 ## Advanced SQL
 
