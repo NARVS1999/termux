@@ -4,11 +4,11 @@
 
 ## PHP Basics (Prerequisites)
 
-- [ ] **Phase 1** — Syntax: tags, statements, comments, embedding HTML
-- [ ] **Phase 2** — Variables & types: scalars, arrays, objects, strict types
-- [ ] **Phase 3** — Control flow: conditionals, loops, match expressions
-- [ ] **Phase 4** — Functions: parameters, returns, closures, arrow functions
-- [ ] **Phase 5** — Error handling: exceptions, errors, error reporting
+- [x] **Phase 1** — Syntax: tags, statements, comments, embedding HTML
+- [x] **Phase 2** — Variables & types: scalars, arrays, objects, strict types
+- [x] **Phase 3** — Control flow: conditionals, loops, match expressions
+- [x] **Phase 4** — Functions: parameters, returns, closures, arrow functions
+- [x] **Phase 5** — Error handling: exceptions, errors, error reporting
 
 ## OOP in PHP
 
