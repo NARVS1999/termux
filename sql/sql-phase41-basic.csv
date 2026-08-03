@@ -1,0 +1,5 @@
+Application,"Paano i-maintain ang MVCC sa PostgreSQL?",,"I-enable ang autovacuum para i-clean ang mga lumang versions."
+Application,"Paano i-check ang table bloat?",,"I-query ang pg_stat_user_tables para sa dead tuples."
+Application,"Paano mag-run ng vacuum manually?",,"VACUUM ANALYZE users;"
+Application,"Paano maiwasan ang bloat?",,"I-set ang tamang vacuum settings at i-monitor ang dead tuples."
+Application,"Paano mag-explore ng MVCC?",,"I-check ang xmin at xmax system columns sa PostgreSQL."

@@ -1,0 +1,5 @@
+Application,"Paano mag-set ng isolation level sa PostgreSQL?",,"SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;"
+Application,"Paano mag-set ng isolation level sa MySQL?",,"SET SESSION TRANSACTION ISOLATION LEVEL REPEATABLE READ;"
+Application,"Paano maiwasan ang dirty read?",,"Gumamit ng READ COMMITTED o mas mataas na isolation level."
+Application,"Paano maiwasan ang phantom read?",,"Gumamit ng REPEATABLE READ o SERIALIZABLE."
+Application,"Paano i-check ang current isolation level?",,"SELECT current_setting('transaction_isolation') sa PostgreSQL."

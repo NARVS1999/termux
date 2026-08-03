@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::ACID}} ay ang apat na katangian ng transactions.",,ACID
+Cloze,"Ang {{c1::atomicity}} ay nangangahulugang lahat o wala ang transaction.",,atomicity
+Cloze,"Ang {{c1::consistency}} ay ang pagpapanatili ng valid na estado ng database.",,consistency
+Cloze,"Ang {{c1::isolation}} ay ang paghihiwalay ng mga concurrent transactions.",,isolation
+Cloze,"Ang {{c1::durability}} ay ang pagpapatuloy ng committed data kahit mag-fail ang system.",,durability
+Cloze,"Ang {{c1::commit}} ay ginagawang permanent ang mga changes.",,commit
+Cloze,"Ang {{c1::rollback}} ay bumabaliktad ng mga changes.",,rollback
+Cloze,"Ang {{c1::ACID compliant}} ay tumutukoy sa database na sumusunod sa ACID properties.",,ACID compliant
+Cloze,"Ang {{c1::transaction failure}} ay hindi nag-iiwan ng partial na changes.",,transaction failure
+Cloze,"Ang {{c1::isolation violation}} ay ang pagtingin ng transaction sa hindi pa committed na data.",,isolation violation

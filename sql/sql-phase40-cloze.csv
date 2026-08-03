@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::lock}} ay nagre-restrict ng access sa data ng ibang transactions.",,lock
+Cloze,"Ang {{c1::shared lock}} ay nagpapahintulot ng maraming readers ngunit walang writers.",,shared lock
+Cloze,"Ang {{c1::exclusive lock}} ay pumipigil sa ibang transactions na magbasa o magsulat.",,exclusive lock
+Cloze,"Ang {{c1::blocking}} ay ang paghihintay ng transaction sa lock ng iba.",,blocking
+Cloze,"Ang {{c1::deadlock}} ay nangyayari kapag naghihintay sa isa't isa ang dalawang transactions.",,deadlock
+Cloze,"Ang {{c1::deadlock detection}} ay ang pagtukoy ng database sa deadlock at pag-abort ng isang transaction.",,deadlock detection
+Cloze,"Ang {{c1::row lock}} ay ang lock sa isang specific na row.",,row lock
+Cloze,"Ang {{c1::table lock}} ay ang lock sa buong table.",,table lock
+Cloze,"Ang {{c1::lock timeout}} ay ang pag-abort ng waiting transaction pagkatapos ng isang period.",,lock timeout
+Cloze,"Ang {{c1::lock ordering}} ay ang consistent na pagkuha ng locks para maiwasan ang deadlock.",,lock ordering

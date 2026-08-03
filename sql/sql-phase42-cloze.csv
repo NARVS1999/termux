@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::optimistic locking}} ay ang pag-verify ng version bago mag-update.",,optimistic locking
+Cloze,"Ang {{c1::pessimistic locking}} ay ang pag-lock ng rows habang ginagamit.",,pessimistic locking
+Cloze,"Ang {{c1::retry}} ay ang pagsubok muli ng transaction pagkatapos ng conflict.",,retry
+Cloze,"Ang {{c1::version column}} ay ang counter na ginagamit sa optimistic locking.",,version column
+Cloze,"Ang {{c1::conflict}} ay nangyayari kapag may ibang nag-update ng row.",,conflict
+Cloze,"Ang {{c1::concurrency pattern}} ay ang estratehiya para sa sabay-sabay na writes.",,concurrency pattern
+Cloze,"Ang {{c1::optimistic check}} ay ang pag-compare ng version bago i-save.",,optimistic check
+Cloze,"Ang {{c1::lost update}} ay ang pag-overwrite ng update ng ibang transaction.",,lost update
+Cloze,"Ang {{c1::compare-and-swap}} ay ang pattern ng update base sa lumang value.",,compare-and-swap
+Cloze,"Ang {{c1::serializable retry}} ay ang pag-retry ng serializable transaction pagkatapos mag-fail.",,serializable retry

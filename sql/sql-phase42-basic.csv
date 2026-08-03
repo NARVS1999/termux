@@ -1,0 +1,5 @@
+Application,"Paano mag-implement ng optimistic locking?",,"I-add ang version column at i-check ito sa UPDATE."
+Application,"Paano mag-update gamit ang version check?",,"UPDATE products SET price = 100, version = version + 1 WHERE id = 1 AND version = 3;"
+Application,"Paano mag-handle ng conflict sa optimistic locking?",,"I-reload ang data at i-retry ang update."
+Application,"Paano mag-implement ng retry logic?",,"I-wrap ang transaction sa loop na may limitadong retries."
+Application,"Paano maiwasan ang lost update?",,"Gumamit ng optimistic locking o row locks."

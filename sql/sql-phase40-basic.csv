@@ -1,0 +1,5 @@
+Application,"Paano mag-lock ng row sa SELECT?",,"SELECT * FROM users WHERE id = 1 FOR UPDATE;"
+Application,"Paano mag-shared lock?",,"SELECT * FROM users WHERE id = 1 FOR SHARE;"
+Application,"Paano maiwasan ang deadlock?",,"I-lock ang mga rows sa consistent na order."
+Application,"Paano mag-set ng lock timeout?",,"SET lock_timeout = '5s'; sa PostgreSQL."
+Application,"Paano i-handle ang deadlock error?",,"I-retry ang transaction kapag na-abort dahil sa deadlock."

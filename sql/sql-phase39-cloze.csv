@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::isolation level}} ay tumutukoy kung paano naghihiwalay ang transactions.",,isolation level
+Cloze,"Ang {{c1::read committed}} ay ang default level na walang dirty reads.",,read committed
+Cloze,"Ang {{c1::repeatable read}} ay nagpapanatili ng parehong snapshot sa buong transaction.",,repeatable read
+Cloze,"Ang {{c1::serializable}} ay ang pinakamahigpit na isolation level.",,serializable
+Cloze,"Ang {{c1::dirty read}} ay ang pagbabasa ng uncommitted data.",,dirty read
+Cloze,"Ang {{c1::non-repeatable read}} ay ang pagbabago ng data sa pagitan ng dalawang reads.",,non-repeatable read
+Cloze,"Ang {{c1::phantom read}} ay ang bagong rows na lumalabas sa pagitan ng reads.",,phantom read
+Cloze,"Ang {{c1::read uncommitted}} ay ang level na may dirty reads.",,read uncommitted
+Cloze,"Ang {{c1::snapshot}} ay ang consistent view ng data sa isang punto ng oras.",,snapshot
+Cloze,"Ang {{c1::tradeoff}} ng mataas na isolation ay mas mababang concurrency.",,tradeoff

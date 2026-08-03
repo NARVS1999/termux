@@ -1,0 +1,5 @@
+Application,"Paano i-ensure ang atomicity?",,"I-wrap ang lahat ng operations sa isang transaction."
+Application,"Paano i-ensure ang durability?",,"I-commit ang transaction para i-save ang data sa permanent storage."
+Application,"Paano i-handle ang failure sa transaction?",,"I-rollback ang transaction sa halip na iwan ang partial changes."
+Application,"Paano i-check ang isolation?",,"I-verify na walang transaction ang nakakakita ng uncommitted changes ng iba."
+Application,"Paano i-apply ang ACID sa code?",,"Gamitin ang transaction wrappers tulad ng DB::transaction()."

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::MVCC}} ay ang multi-version concurrency control.",,MVCC
+Cloze,"Ang {{c1::snapshot isolation}} ay ang pagbabasa ng consistent na snapshot ng data.",,snapshot isolation
+Cloze,"Ang {{c1::versions}} ay ang mga lumang bersyon ng rows sa MVCC.",,versions
+Cloze,"Ang {{c1::vacuum}} ay ang paglilinis ng mga lumang row versions sa PostgreSQL.",,vacuum
+Cloze,"Ang {{c1::cleanup}} ay ang pagtanggal ng hindi na kailangang versions.",,cleanup
+Cloze,"Ang {{c1::readers don't block writers}} ay ang pangunahing benepisyo ng MVCC.",,readers don't block writers
+Cloze,"Ang {{c1::transaction id}} ay ang identifier ng transaction para sa versioning.",,transaction id
+Cloze,"Ang {{c1::visible row}} ay ang row version na nakikita ng transaction.",,visible row
+Cloze,"Ang {{c1::bloat}} ay ang paglaki ng table dahil sa lumang versions.",,bloat
+Cloze,"Ang {{c1::autovacuum}} ay ang awtomatikong vacuum ng PostgreSQL.",,autovacuum
