@@ -75,9 +75,9 @@
 
 ## Performance & Deployment
 
-- [ ] **Phase 45** — Caching: cache drivers, queries, views, invalidation
-- [ ] **Phase 46** — Optimization: eager loading, indexes, opcache
-- [ ] **Phase 47** — Deployment: platforms, CI/CD, monitoring, maintenance
+- [x] **Phase 45** — Caching: cache drivers, queries, views, invalidation
+- [x] **Phase 46** — Optimization: eager loading, indexes, opcache
+- [x] **Phase 47** — Deployment: platforms, CI/CD, monitoring, maintenance
 
 ## Recommended Learning Path (priority order)
 
