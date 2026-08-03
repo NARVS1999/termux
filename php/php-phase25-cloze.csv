@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::logging}} ay ang pagre-record ng mga events at errors ng application.",,logging
+Cloze,"Ang {{c1::error page}} ay ang page na ipinapakita kapag may error.",,error page
+Cloze,"Ang {{c1::error log}} ay ang file o stream kung saan nire-record ang errors.",,error log
+Cloze,"Ang {{c1::exception handler}} ay humahawak ng mga uncaught exceptions.",,exception handler
+Cloze,"Ang {{c1::error handler}} ay humahawak ng mga PHP errors.",,error handler
+Cloze,"Ang {{c1::set_error_handler}} ay nagrerehistro ng custom error handler.",,set_error_handler
+Cloze,"Ang {{c1::set_exception_handler}} ay nagrerehistro ng custom exception handler.",,set_exception_handler
+Cloze,"Ang {{c1::log levels}} ay tumutukoy sa severity ng log tulad ng error at warning.",,log levels
+Cloze,"Ang {{c1::error_log()}} function ay nagsusulat ng error sa log.",,error_log() function
+Cloze,"Ang {{c1::stack trace}} ay nagpapakita ng sequence ng function calls bago ang error.",,stack trace

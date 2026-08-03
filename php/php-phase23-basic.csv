@@ -1,0 +1,5 @@
+Application,"Paano mag-start ng session?",,"session_start();"
+Application,"Paano mag-imbak ng value sa session?",,"$_SESSION['user_id'] = $userId;"
+Application,"Paano mag-set ng cookie?",,"setcookie('theme', 'dark', time() + 3600);"
+Application,"Paano i-destroy ang session?",,"session_destroy();"
+Application,"Paano protektahan ang session?",,"I-call ang session_regenerate_id() pagkatapos mag-login."

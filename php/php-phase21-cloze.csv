@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::superglobal}} ay isang predefined PHP array na accessible kahit saan sa script.",,superglobal
+Cloze,"Ang {{c1::$_GET}} ay naglalaman ng query string parameters ng URL.",,$_GET
+Cloze,"Ang {{c1::$_POST}} ay naglalaman ng form data na ipinadala gamit ang POST method.",,$_POST
+Cloze,"Ang {{c1::$_REQUEST}} ay naglalaman ng GET, POST, at COOKIE data.",,$_REQUEST
+Cloze,"Ang {{c1::$_SERVER}} ay naglalaman ng server at execution environment information.",,$_SERVER
+Cloze,"Ang {{c1::$_SESSION}} ay nag-iimbak ng session data ng user.",,$_SESSION
+Cloze,"Ang {{c1::$_COOKIE}} ay naglalaman ng cookies na ipinadala ng browser.",,$_COOKIE
+Cloze,"Ang {{c1::$_FILES}} ay naglalaman ng uploaded files data.",,$_FILES
+Cloze,"Ang {{c1::header()}} function ay nagpapadala ng HTTP headers.",,header() function
+Cloze,"Ang {{c1::HTTP request}} ay ang data na ipinadala ng client sa server.",,HTTP request

@@ -1,0 +1,5 @@
+Application,"Paano i-validate ang email?",,"filter_var($email, FILTER_VALIDATE_EMAIL)"
+Application,"Paano mag-sanitize ng string input?",,"htmlspecialchars($_POST['name'], ENT_QUOTES);"
+Application,"Paano i-check kung may laman ang field?",,"if (empty($_POST['email'])) { $errors[] = 'Email is required'; }"
+Application,"Paano i-trim ang input?",,"trim($_POST['username']);"
+Application,"Paano mag-display ng validation error?",,"echo $errors['email'] ?? '';"

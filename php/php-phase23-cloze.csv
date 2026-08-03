@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::session}} ay nag-iimbak ng user data sa server sa pagitan ng requests.",,session
+Cloze,"Ang {{c1::cookie}} ay isang maliit na data na iniimbak sa browser.",,cookie
+Cloze,"Ang {{c1::session_start()}} ay nagsisimula ng session.",,session_start()
+Cloze,"Ang {{c1::session id}} ay ang unique identifier ng session ng user.",,session id
+Cloze,"Ang {{c1::session hijacking}} ay ang pagnanakaw ng session ng ibang user.",,session hijacking
+Cloze,"Ang {{c1::setcookie()}} ay gumagawa ng cookie sa browser.",,setcookie()
+Cloze,"Ang {{c1::session fixation}} ay ang pag-force sa user na gumamit ng known session id.",,session fixation
+Cloze,"Ang {{c1::session_regenerate_id}} ay nagpapalit ng session id para maiwasan ang fixation.",,session_regenerate_id
+Cloze,"Ang {{c1::session storage}} ay kung saan iniimbak ang session data tulad ng file o database.",,session storage
+Cloze,"Ang {{c1::HttpOnly cookie}} ay hindi ma-access ng JavaScript.",,HttpOnly cookie

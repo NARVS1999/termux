@@ -1,0 +1,5 @@
+Application,"Paano ma-access ang GET parameter?",,"$_GET['id']"
+Application,"Paano mag-redirect sa ibang page?",,"header('Location: /dashboard'); exit;"
+Application,"Paano ma-access ang form POST data?",,"$_POST['email']"
+Application,"Paano mag-set ng response header?",,"header('Content-Type: application/json');"
+Application,"Paano makuha ang request method?",,"$_SERVER['REQUEST_METHOD']"

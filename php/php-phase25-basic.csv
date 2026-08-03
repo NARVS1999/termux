@@ -1,0 +1,5 @@
+Application,"Paano mag-log ng error?",,"error_log('Something failed');"
+Application,"Paano mag-register ng custom error handler?",,"set_error_handler(function ($severity, $message) { log($message); });"
+Application,"Paano mag-register ng exception handler?",,"set_exception_handler(fn($e) => log($e->getMessage()));"
+Application,"Paano mag-hide ng errors sa production?",,"I-set ang display_errors=Off at log_errors=On sa php.ini."
+Application,"Paano mag-customize ang 500 error page?",,"Gumawa ng error handler na nagre-render ng custom template."

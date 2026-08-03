@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::form validation}} ay ang pag-verify ng data bago ito i-process.",,form validation
+Cloze,"Ang {{c1::required field}} ay isang field na dapat may laman bago i-submit.",,required field
+Cloze,"Ang {{c1::validation rule}} ay tumutukoy sa requirement ng isang field.",,validation rule
+Cloze,"Ang {{c1::validation error}} ay ang mensahe na ipinapakita kapag mali ang input.",,validation error
+Cloze,"Ang {{c1::sanitization}} ay ang paglilinis ng input para tanggalin ang mga mapanganib na character.",,sanitization
+Cloze,"Ang {{c1::filter_var}} ay ginagamit para i-validate at i-sanitize ang data.",,filter_var
+Cloze,"Ang {{c1::htmlspecialchars}} ay nag-e-escape ng HTML characters.",,htmlspecialchars
+Cloze,"Ang {{c1::trim()}} ay nagtatanggal ng whitespace sa simula at dulo ng string.",,trim()
+Cloze,"Ang {{c1::email validation}} ay nag-cha-check kung valid ang email format.",,email validation
+Cloze,"Ang {{c1::error message}} ay ipinapakita sa user kapag may invalid na input.",,error message

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::router}} ay nagma-map ng URLs sa mga handlers.",,router
+Cloze,"Ang {{c1::route pattern}} ay ang URL template na tinutugma sa mga requests.",,route pattern
+Cloze,"Ang {{c1::controller}} ay ang class na humahawak ng isang request.",,controller
+Cloze,"Ang {{c1::route parameter}} ay ang dynamic na bahagi ng URL.",,route parameter
+Cloze,"Ang {{c1::front controller}} ay ang single entry point ng application.",,front controller
+Cloze,"Ang {{c1::HTTP method routing}} ay tumutugma sa GET, POST, PUT, at DELETE requests.",,HTTP method routing
+Cloze,"Ang {{c1::middleware}} ay nagpro-process ng request bago umabot sa controller.",,middleware
+Cloze,"Ang {{c1::route matching}} ay ang paghahanap ng tugmang route para sa request.",,route matching
+Cloze,"Ang {{c1::404 response}} ay ibinabalik kapag walang tugmang route.",,404 response
+Cloze,"Ang {{c1::route collection}} ay ang listahan ng lahat ng registered routes.",,route collection
