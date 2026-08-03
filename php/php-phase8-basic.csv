@@ -1,0 +1,5 @@
+Application,"Paano mag-define ng trait?",,"trait Notifiable { public function notify() {} }"
+Application,"Paano gamitin ang trait sa class?",,"class User { use Notifiable; }"
+Application,"Paano mag-define ng backed enum?",,"enum Status: string { case Active = 'active'; }"
+Application,"Paano i-access ang enum case?",,"Status::Active"
+Application,"Paano mag-define ng constant sa class?",,"const VERSION = '1.0';"

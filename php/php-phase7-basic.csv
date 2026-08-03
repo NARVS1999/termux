@@ -1,0 +1,5 @@
+Application,"Paano mag-extend ng class?",,"class Admin extends User { }"
+Application,"Paano mag-implement ng interface?",,"class Order implements Payable { }"
+Application,"Paano mag-define ng abstract method?",,"abstract public function pay();"
+Application,"Paano mag-call ng parent constructor?",,"parent::__construct($name);"
+Application,"Paano i-prevent ang pag-extend ng class?",,"I-mark ang class bilang final."

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::trait}} ay isang mekanismo ng code reuse sa PHP.",,trait
+Cloze,"Ang {{c1::use trait}} ay ang syntax para i-import ang trait sa class.",,use trait
+Cloze,"Ang {{c1::enum}} ay isang type na may fixed set ng possible values.",,enum
+Cloze,"Ang {{c1::enum case}} ay isang possible value ng isang enum.",,enum case
+Cloze,"Ang {{c1::backed enum}} ay enum na may kalakip na scalar value.",,backed enum
+Cloze,"Ang {{c1::pure enum}} ay enum na walang kalakip na value.",,pure enum
+Cloze,"Ang {{c1::const}} ay isang constant na value sa loob ng class o enum.",,const
+Cloze,"Ang {{c1::trait conflict}} ay nangyayari kapag may parehong method name ang mga traits.",,trait conflict
+Cloze,"Ang {{c1::insteadof}} ay nagre-resolve ng trait method conflicts.",,insteadof
+Cloze,"Ang {{c1::case keyword}} ay ginagamit sa pagde-declare ng enum cases.",,case keyword

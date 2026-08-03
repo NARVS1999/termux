@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::magic method}} ay isang special method na nagsisimula sa double underscore.",,magic method
+Cloze,"Ang {{c1::__construct}} ay ang magic method na awtomatikong tinatawag kapag gumawa ng object.",,__construct
+Cloze,"Ang {{c1::__get}} ay tinatawag kapag nag-access ng inaccessible property.",,__get
+Cloze,"Ang {{c1::__set}} ay tinatawag kapag nag-assign ng value sa inaccessible property.",,__set
+Cloze,"Ang {{c1::__call}} ay tinatawag kapag nag-call ng inaccessible method.",,__call
+Cloze,"Ang {{c1::__toString}} ay nagko-convert ng object sa string.",,__toString
+Cloze,"Ang {{c1::__invoke}} ay nagpapahintulot sa object na tawagin bilang function.",,__invoke
+Cloze,"Ang {{c1::__destruct}} ay tinatawag kapag na-unset ang object.",,__destruct
+Cloze,"Ang {{c1::__clone}} ay tinatawag kapag nag-clone ng object.",,__clone
+Cloze,"Ang {{c1::__isset}} ay tinatawag kapag nag-check ng inaccessible property gamit ang isset().",,__isset

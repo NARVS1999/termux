@@ -1,0 +1,5 @@
+Application,"Paano mag-instantiate ng object?",,"$user = new User();"
+Application,"Paano mag-define ng class na may property?",,"class User { public string $name; }"
+Application,"Paano mag-access ng public property?",,"$user->name"
+Application,"Paano mag-define ng constructor?",,"public function __construct(public string $name) {}"
+Application,"Paano mag-call ng method sa object?",,"$user->greet();"

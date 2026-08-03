@@ -1,0 +1,5 @@
+Application,"Paano mag-declare ng namespace?",,"namespace App\Models;"
+Application,"Paano mag-import ng class?",,"use App\Models\User;"
+Application,"Paano mag-alias ng imported class?",,"use App\Services\Mailer as EmailMailer;"
+Application,"Paano i-reference ang class gamit ang buong path?",,"\App\Models\User::find($id);"
+Application,"Paano mag-register ng PSR-4 autoload?",,"I-add ang \"App\\\\\": \"app/\" sa composer.json autoload.psr-4."

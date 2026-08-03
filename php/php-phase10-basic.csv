@@ -1,0 +1,5 @@
+Application,"Paano mag-define ng __toString?",,"public function __toString() { return $this->name; }"
+Application,"Paano mag-define ng __invoke?",,"public function __invoke($arg) { return $arg * 2; }"
+Application,"Paano i-trigger ang __get?",,"I-access ang isang inaccessible o undefined property."
+Application,"Paano mag-define ng __call?",,"public function __call($name, $args) { return $this->{$name}($args); }"
+Application,"Paano mag-clone ng object?",,"$copy = clone $original;"

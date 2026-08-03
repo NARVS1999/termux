@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::namespace}} ay nag-o-organize ng code at nag-iwas sa name collisions.",,namespace
+Cloze,"Ang {{c1::PSR-4}} ay isang autoloading standard na nagma-map ng namespaces sa directories.",,PSR-4
+Cloze,"Ang {{c1::use statement}} ay nag-i-import ng class mula sa isang namespace.",,use statement
+Cloze,"Ang {{c1::autoloading}} ay awtomatikong naglo-load ng classes kapag ginamit ang mga ito.",,autoloading
+Cloze,"Ang {{c1::fully qualified name}} ay ang buong namespace path ng isang class.",,fully qualified name
+Cloze,"Ang {{c1::composer autoload}} ay nagma-map ng PSR-4 namespaces sa folder paths.",,composer autoload
+Cloze,"Ang {{c1::alias}} ay ang alternatibong pangalan para sa imported class.",,alias
+Cloze,"Ang {{c1::namespace separator}} ay ang backslash sa PHP.",,namespace separator
+Cloze,"Ang {{c1::App namespace}} ay ang root namespace ng Laravel application.",,App namespace
+Cloze,"Ang {{c1::spl_autoload_register}} ay nagrerehistro ng custom autoloader function.",,spl_autoload_register

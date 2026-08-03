@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::class}} ay isang blueprint para sa paggawa ng objects.",,class
+Cloze,"Ang {{c1::object}} ay isang instance ng isang class.",,object
+Cloze,"Ang {{c1::property}} ay isang variable na kabilang sa isang class.",,property
+Cloze,"Ang {{c1::method}} ay isang function na kabilang sa isang class.",,method
+Cloze,"Ang {{c1::visibility}} ay kumokontrol sa access ng properties at methods.",,visibility
+Cloze,"Ang {{c1::public}} visibility ay nagpapahintulot ng access kahit saan.",,public
+Cloze,"Ang {{c1::protected}} visibility ay nagpapahintulot ng access sa class at subclasses lamang.",,protected
+Cloze,"Ang {{c1::private}} visibility ay nagpapahintulot ng access sa loob ng class lamang.",,private
+Cloze,"Ang {{c1::constructor}} ay ang method na awtomatikong tumatakbo sa pag-instantiate ng object.",,constructor
+Cloze,"Ang {{c1::new}} keyword ay ginagamit para gumawa ng bagong object.",,new keyword
