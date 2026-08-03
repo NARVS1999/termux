@@ -1,3 +1,2 @@
-Type,Front,Hint,Back
 Application,"Paano mag-install ng package na may specific version?",,"composer require vendor/package:^2.0"
 Application,"Paano i-check ang type safety ng buong codebase bago i-deploy?",,"Patakbuhin ang vendor/bin/phpstan analyse sa CI o locally."

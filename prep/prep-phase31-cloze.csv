@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::mock}} ay isang test double na nagve-verify kung paano tinawag ang mga dependencies.",,mock
 Cloze,"Ang {{c1::fake}} ay isang test double na gumagana tulad ng totoo pero walang side effects.",,fake
 Cloze,"Ang {{c1::Queue::fake()}} ay nagco-capture ng mga na-dispatch na jobs nang hindi ito nirun.",,Queue::fake()

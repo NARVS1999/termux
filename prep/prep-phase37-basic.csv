@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-log ng error na may metadata?",,"Log::error('Payment failed', ['order_id' => $order->id]);"
 Application,"Paano i-capture ang exception sa Sentry?",,"report($e); o i-initialize ang Sentry para awtomatiko itong mag-capture."
 Application,"Paano i-group ang logs ng isang request?",,"Magdagdag ng request id sa log context sa pamamagitan ng middleware."

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::TDD}} ay pagsusulat ng failing test bago pa man isulat ang implementation.",,TDD
 Cloze,"Ang {{c1::code coverage}} ay sumusukat kung ilang lines at branches ng code ang na-test.",,code coverage
 Cloze,"Ang {{c1::CI}} ay awtomatikong nagre-run ng tests sa bawat push sa repository.",,CI

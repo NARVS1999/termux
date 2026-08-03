@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::structured logging}} ay nagsusulat ng logs sa isang consistent at machine-readable na format.",,structured logging
 Cloze,"Ang {{c1::monitoring}} ay patuloy na pag-track ng metrics at availability ng system.",,monitoring
 Cloze,"Ang {{c1::alerting}} ay nag-aabiso sa team kapag may na-cross na threshold.",,alerting

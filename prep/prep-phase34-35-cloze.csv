@@ -1,3 +1,2 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::refactoring}} ay pagbabago ng internal structure nang hindi binabago ang external behavior.",,refactoring
 Cloze,"Ang {{c1::multi-tenant}} ay pagse-serve ng parehong codebase sa maraming tenants na may isolated data.",,multi-tenant

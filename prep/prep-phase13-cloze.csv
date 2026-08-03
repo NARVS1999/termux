@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::normalization}} ay nag-aalis ng redundancy sa pamamagitan ng paghahati ng data sa mas maliliit na tables.",,normalization
 Cloze,"Ang {{c1::denormalization}} ay sadyang nagdadagdag ng duplicate data para mapabilis ang pagbabasa.",,denormalization
 Cloze,"Ang {{c1::primary key}} ay uniquely nag-i-identify ng bawat row sa isang table.",,primary key

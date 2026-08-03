@@ -1,3 +1,2 @@
-Type,Front,Hint,Back
 Application,"Paano magpadala ng email notification sa isang user?",,"$user->notify(new InvoicePaid($invoice));"
 Application,"Paano mag-broadcast ng event sa real-time channel?",,"broadcast(new OrderShipped($order));"

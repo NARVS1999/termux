@@ -1,3 +1,2 @@
-Type,Front,Hint,Back
 Application,"Paano mag-safely na mag-refactor ng legacy code?",,"I-secure muna ang behavior gamit ang tests bago magpalit ng implementation."
 Application,"Paano i-isolate ang data ng bawat tenant?",,"Magdagdag ng tenant_id sa mga tables o gumamit ng database-per-tenant strategy."

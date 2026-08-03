@@ -1,3 +1,2 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::composite index}} ay isang index sa multiple columns na sumusunod sa leftmost prefix rule.",,composite index
 Cloze,"Ang {{c1::window function}} ay nagco-compute sa isang set ng rows habang pinapanatili ang bawat indibidwal na row.",,window function

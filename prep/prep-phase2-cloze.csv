@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Single Responsibility}} principle ay nagsasabing ang isang class ay dapat may isang reason lang para magbago.",,Single Responsibility
 Cloze,"Ang {{c1::Open/Closed}} principle ay nagsasabing ang class ay dapat open for extension pero closed for modification.",,Open/Closed
 Cloze,"Ang {{c1::Liskov Substitution}} principle ay nagsasabing dapat ma-replace ang child class ng parent nito nang hindi nagba-break ang app.",,Liskov Substitution

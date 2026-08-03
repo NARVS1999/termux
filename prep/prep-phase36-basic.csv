@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-retry ang isang job ng 5 beses na may backoff?",,"I-set ang public $tries = 5; at i-define ang backoff() method sa job."
 Application,"Paano i-limit ang paghihintay sa external API call?",,"Http::timeout(5)->get($url);"
 Application,"Paano magbigay ng fallback kapag down ang cache?",,"I-wrap sa try/catch at i-compute direct mula sa database kapag nag-fail."

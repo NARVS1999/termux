@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-prevent ang SQL injection sa Eloquent?",,"Gumamit ng query builder o Eloquent na may binding sa halip na raw string concatenation."
 Application,"Paano i-protect ang forms laban sa CSRF?",,"Maglagay ng @csrf directive sa form o i-set ang X-CSRF-TOKEN header sa AJAX."
 Application,"Paano i-escape ang user content sa Blade?",,"Gumamit ng {{ }} na awtomatikong nag-e-escape ng output."

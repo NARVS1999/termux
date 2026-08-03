@@ -1,3 +1,2 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::OPcache}} ay nag-i-store ng compiled PHP bytecode para hindi na ulitin ang compilation sa bawat request.",,OPcache
 Cloze,"Ang {{c1::Laravel Debugbar}} ay nagpapakita ng queries, memory usage, at timing habang bumubuo ng page.",,Laravel Debugbar

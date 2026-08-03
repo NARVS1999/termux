@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::eager loading}} ay nilo-load ang relationships kasama ng parent query gamit ang with().",,eager loading
 Cloze,"Ang {{c1::N+1 problem}} ay nangyayari kapag may hiwalay na query para sa bawat record sa loob ng isang loop.",,N+1 problem
 Cloze,"Ang {{c1::model events}} ay tumatakbo sa mga puntos ng lifecycle ng isang model tulad ng creating at updating.",,model events

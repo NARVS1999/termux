@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::middleware}} ay nagfi-filter ng HTTP requests bago o pagkatapos ma-handle ng controller.",,middleware
 Cloze,"Ang {{c1::pipeline}} ay dinadaanan ng request sa lahat ng middleware nang sunod-sunod hanggang sa core.",,pipeline
 Cloze,"Ang {{c1::kernel}} ang nagco-coordinate ng request lifecycle mula sa entry point hanggang sa response.",,kernel

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::cache-aside}} strategy ay nagla-load ng data papunta sa cache lamang kapag na-miss ito.",,cache-aside
 Cloze,"Ang {{c1::write-through}} strategy ay nagsusulat ng data sa cache at database nang magkasabay.",,write-through
 Cloze,"Ang {{c1::cache invalidation}} ay ang pagtanggal o pag-update ng stale na cache entries.",,cache invalidation

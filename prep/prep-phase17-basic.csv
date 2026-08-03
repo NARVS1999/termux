@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-set ng cache value na may expiration?",,"Cache::put('key', $value, now()->addMinutes(10));"
 Application,"Paano mag-lock ng critical section para iisa lang ang mag-process?",,"$lock = Cache::lock('processing', 60); $lock->get();"
 Application,"Paano i-throttle ang API requests per user?",,"RateLimiter::for('api', fn ($user) => Limit::perMinute(60));"

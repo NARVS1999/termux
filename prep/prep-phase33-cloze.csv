@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::layered architecture}} ay hinahati ang app sa presentation, application, domain, at infrastructure layers.",,layered architecture
 Cloze,"Ang {{c1::service layer}} ay naglalagay ng business logic sa labas ng mga controllers.",,service layer
 Cloze,"Ang {{c1::clean architecture}} ay naglalagay ng dependencies na naka-point papasok sa core.",,clean architecture

@@ -1,3 +1,2 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::idempotency key}} ay tinitiyak na ang paulit-ulit na request ay hindi magdodoble ng effect.",,idempotency key
 Cloze,"Ang {{c1::webhook}} ay isang HTTP callback na ipinapadala ng provider kapag may nangyaring event.",,webhook

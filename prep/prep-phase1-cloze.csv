@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Sa PHP 8, ang {{c1::enum}} ay isang type na may fixed set ng possible values na may labels.",,enum
 Cloze,"Ang {{c1::readonly}} property ay pwedeng i-assign nang isang beses lang pagkatapos ng declaration.",,readonly
 Cloze,"Sa PHP 8, ang {{c1::attributes}} ay structured metadata na pwedeng i-attach sa classes, methods, at properties.",,attributes

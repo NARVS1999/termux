@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::migration}} ay ang version control ng database schema ng isang app.",,migration
 Cloze,"Ang {{c1::seeder}} ay nagfi-fill ng database ng test o default na data.",,seeder
 Cloze,"Ang {{c1::factory}} ay nagge-generate ng realistic test data para sa isang model.",,factory

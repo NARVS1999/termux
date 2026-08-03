@@ -1,3 +1,2 @@
-Type,Front,Hint,Back
 Application,"Paano i-encrypt ang isang value bago i-store?",,"Crypt::encryptString($value); o gumamit ng encrypted cast sa model."
 Application,"Paano i-track kung sino ang nag-delete ng isang record?",,"Magdagdag ng audit log listener na nagre-record ng user, action, at timestamp."

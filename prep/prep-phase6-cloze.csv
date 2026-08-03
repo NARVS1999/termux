@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::service container}} ay ang central registry kung saan nirerehistro at nireresolve ang mga dependencies.",,service container
 Cloze,"Ang {{c1::service provider}} ay nagre-register ng bindings at nagbo-bootstrap ng services sa container.",,service provider
 Cloze,"Ang {{c1::facade}} ay nagbibigay ng static-like interface sa isang service na naka-resolve sa container.",,facade

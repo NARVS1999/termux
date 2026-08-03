@@ -1,3 +1,2 @@
-Type,Front,Hint,Back
 Application,"Paano i-rank ang mga users ayon sa kanilang points?",,"SELECT name, RANK() OVER (ORDER BY points DESC) FROM users"
 Application,"Paano i-speed up ang query na may WHERE condition sa dalawang columns?",,"Gumawa ng composite index sa parehong columns."

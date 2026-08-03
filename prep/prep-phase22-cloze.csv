@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Sanctum}} ay nagbibigay ng token-based authentication para sa SPAs at mobile apps.",,Sanctum
 Cloze,"Ang {{c1::Passport}} ay isang full OAuth2 server implementation para sa Laravel.",,Passport
 Cloze,"Ang {{c1::JWT}} ay isang self-contained token na may naka-sign na payload.",,JWT

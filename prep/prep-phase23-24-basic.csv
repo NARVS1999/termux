@@ -1,3 +1,2 @@
-Type,Front,Hint,Back
 Application,"Paano i-verify na galing talaga sa Stripe ang webhook request?",,"I-verify ang signature gamit ang webhook secret na binigay ng provider."
 Application,"Paano i-prevent ng duplicate payment processing?",,"I-store ang idempotency key at i-check ito bago mag-process ulit."

@@ -1,3 +1,2 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::static analysis}} sa PHPStan ay nakaka-detect ng type errors bago pa man i-run ang code.",,static analysis
 Cloze,"Ang {{c1::PSR-4}} autoloading ay nagma-map ng namespace ng isang class sa directory path ng file nito.",,PSR-4

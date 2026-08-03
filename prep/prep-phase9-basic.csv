@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-wrap ang multiple operations sa isang transaction?",,"DB::transaction(function () { ... });"
 Application,"Paano i-prevent ang race condition sa pagde-decrement ng stock?",,"Product::where('id', $id)->lockForUpdate()->first();"
 Application,"Paano i-check kung efficient ang isang query?",,"Patakbuhin ang EXPLAIN SELECT ... sa database at suriin ang execution plan."

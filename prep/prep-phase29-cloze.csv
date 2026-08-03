@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::unit test}} ay nagte-test ng isang class o method nang hiwalay sa mga dependencies nito.",,unit test
 Cloze,"Ang {{c1::feature test}} ay nagte-test ng isang buong flow sa pamamagitan ng HTTP request.",,feature test
 Cloze,"Ang {{c1::integration test}} ay nagve-verify na nagtutulungan nang tama ang mga components.",,integration test

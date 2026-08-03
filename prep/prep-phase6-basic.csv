@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano magrehistro ng interface binding sa service container?",,"$this->app->bind(PaymentGateway::class, StripeGateway::class);"
 Application,"Paano mag-share ng iisang instance sa buong request lifecycle?",,"$this->app->singleton(CartService::class);"
 Application,"Paano i-resolve ang isang dependency nang manu-mano?",,"app(ReportService::class) o App::make(ReportService::class)"

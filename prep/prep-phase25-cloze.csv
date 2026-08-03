@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::XSS}} ay pag-inject ng malicious script na nire-render ng browser ng ibang user.",,XSS
 Cloze,"Ang {{c1::SQL injection}} ay pagma-manipulate ng query sa pamamagitan ng user input.",,SQL injection
 Cloze,"Ang {{c1::CSRF}} ay pagpapa-submit ng request sa behalf ng isang authenticated user nang hindi nito alam.",,CSRF

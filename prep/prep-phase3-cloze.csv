@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Repository}} pattern ay nag-aabstact ng data access sa likod ng isang interface.",,Repository
 Cloze,"Ang {{c1::Factory}} pattern ay gumagawa ng objects nang hindi inilalantad ang instantiation logic sa client.",,Factory
 Cloze,"Ang {{c1::Strategy}} pattern ay nagpapalit ng algorithm sa runtime sa pamamagitan ng isang interface.",,Strategy

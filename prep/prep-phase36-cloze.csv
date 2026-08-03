@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::retry}} ay pag-uulit ng isang failed operation na may kasamang backoff.",,retry
 Cloze,"Ang {{c1::circuit breaker}} ay tumitigil sa pagtawag ng failing service para hindi lumala ang problema.",,circuit breaker
 Cloze,"Ang {{c1::graceful degradation}} ay patuloy na pagse-serve ng app kahit may sira ang isang dependency.",,graceful degradation

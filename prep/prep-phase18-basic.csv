@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-cache ang expensive query result ng 1 hour?",,"Cache::remember('reports.daily', 3600, fn () => $report->generate());"
 Application,"Paano i-invalidate ang cache kapag na-update ang isang post?",,"Cache::forget('post.' . $post->id) pagkatapos mag-save."
 Application,"Paano maiwasan ang cache stampede sa popular na key?",,"Gumamit ng lock o atomic cache update para iisa lang ang mag-recompute."

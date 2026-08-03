@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::REST}} ay gumagamit ng HTTP methods bilang mga verb sa resources.",,REST
 Cloze,"Ang {{c1::versioning}} ay pinapanatili ang backward compatibility kapag nagbabago ang API.",,versioning
 Cloze,"Ang {{c1::pagination}} ay naghahati ng malalaking resulta sa mas maliliit na pages.",,pagination

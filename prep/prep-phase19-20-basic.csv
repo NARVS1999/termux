@@ -1,3 +1,2 @@
-Type,Front,Hint,Back
 Application,"Paano i-enable ang HTTP caching para sa mga static assets?",,"I-set ang Cache-Control headers sa Nginx o gumamit ng middleware."
 Application,"Paano makita kung aling query ang mabagal sa isang page?",,"Buksan ang Debugbar o Telescope at suriin ang queries tab."
