@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::backup}} ay ang kopya ng database para sa pag-recover.",,backup
+Cloze,"Ang {{c1::restore}} ay ang pagbabalik ng data mula sa backup.",,restore
+Cloze,"Ang {{c1::dump}} ay ang export ng database sa isang file.",,dump
+Cloze,"Ang {{c1::point-in-time recovery}} ay ang pag-recover sa isang specific na oras.",,point-in-time recovery
+Cloze,"Ang {{c1::recovery testing}} ay ang pag-verify na gumagana ang backup at restore.",,recovery testing
+Cloze,"Ang {{c1::pg_dump}} ay ang backup tool ng PostgreSQL.",,pg_dump
+Cloze,"Ang {{c1::mysqldump}} ay ang backup tool ng MySQL.",,mysqldump
+Cloze,"Ang {{c1::WAL}} ay ang write-ahead log na ginagamit para sa point-in-time recovery.",,WAL
+Cloze,"Ang {{c1::backup strategy}} ay ang plano ng pag-backup at pag-recover ng data.",,backup strategy
+Cloze,"Ang {{c1::RPO}} ay ang recovery point objective o ang maximum na tinatanggap na data loss.",,RPO

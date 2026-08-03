@@ -1,0 +1,5 @@
+Application,"Paano mag-grant ng SELECT permission?",,"GRANT SELECT ON users TO app_user;"
+Application,"Paano mag-revoke ng permission?",,"REVOKE DELETE ON users FROM app_user;"
+Application,"Paano maiwasan ang SQL injection?",,"Gamitin ang prepared statements o parameterized queries."
+Application,"Paano mag-encrypt ng database data?",,"Gamitin ang transparent data encryption ng database."
+Application,"Paano i-secure ang database connection?",,"I-enable ang SSL/TLS sa database connection."

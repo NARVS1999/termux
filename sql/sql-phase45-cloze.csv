@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::privilege}} ay ang permission ng user sa database objects.",,privilege
+Cloze,"Ang {{c1::GRANT}} ay nagbibigay ng priviliges sa user.",,GRANT
+Cloze,"Ang {{c1::REVOKE}} ay nag-aalis ng priviliges sa user.",,REVOKE
+Cloze,"Ang {{c1::injection prevention}} ay ang pagprotekta sa queries mula sa SQL injection.",,injection prevention
+Cloze,"Ang {{c1::encryption}} ay ang pagko-convert ng data sa hindi mababasang form.",,encryption
+Cloze,"Ang {{c1::least privilege}} ay ang pagbibigay ng minimal na permissions lang.",,least privilege
+Cloze,"Ang {{c1::prepared statement}} ay ang ligtas na paraan ng pag-execute ng queries.",,prepared statement
+Cloze,"Ang {{c1::role}} ay ang grupo ng priviliges na naa-assign sa users.",,role
+Cloze,"Ang {{c1::transparent encryption}} ay ang automatic encryption ng data sa storage.",,transparent encryption
+Cloze,"Ang {{c1::network encryption}} ay ang SSL/TLS na ginagamit sa database connections.",,network encryption

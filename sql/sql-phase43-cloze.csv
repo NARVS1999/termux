@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::PostgreSQL}} ay isang advanced na open-source relational database.",,PostgreSQL
+Cloze,"Ang {{c1::MySQL}} ay isang popular na open-source relational database.",,MySQL
+Cloze,"Ang {{c1::SQLite}} ay isang embedded database na walang server.",,SQLite
+Cloze,"Ang {{c1::workload}} ay ang pattern ng paggamit ng database tulad ng OLTP o OLAP.",,workload
+Cloze,"Ang {{c1::OLTP}} ay ang workload na may maraming transactional reads at writes.",,OLTP
+Cloze,"Ang {{c1::OLAP}} ay ang workload na may mabibigat na analytical queries.",,OLAP
+Cloze,"Ang {{c1::database selection}} ay ang pagpili ng database base sa requirements.",,database selection
+Cloze,"Ang {{c1::ACID support}} ay ang lakas ng PostgreSQL at MySQL sa transactions.",,ACID support
+Cloze,"Ang {{c1::embedded database}} ay ang database na nakapaloob sa application tulad ng SQLite.",,embedded database
+Cloze,"Ang {{c1::scalability}} ay ang kakayahan ng database na lumaki kasabay ng workload.",,scalability

@@ -1,0 +1,5 @@
+Application,"Paano mag-query gamit ang ORM?",,"User::where('active', 1)->get();"
+Application,"Paano maiwasan ang N+1 sa ORM?",,"Gamitin ang eager loading gamit ang with()."
+Application,"Paano gumamit ng connection pooling?",,"I-configure ang pool sa application o connection string."
+Application,"Paano i-wrap ang operations sa transaction?",,"DB::transaction(function () { ... });"
+Application,"Paano mag-execute ng safe query sa application?",,"Gumamit ng parameterized queries o query builder."

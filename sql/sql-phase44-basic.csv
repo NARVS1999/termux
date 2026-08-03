@@ -1,0 +1,5 @@
+Application,"Paano mag-limit ng results sa PostgreSQL?",,"SELECT * FROM users LIMIT 10;"
+Application,"Paano mag-limit ng results sa MySQL?",,"SELECT * FROM users LIMIT 10;"
+Application,"Paano mag-case-insensitive search sa PostgreSQL?",,"SELECT * FROM users WHERE name ILIKE 'juan%';"
+Application,"Paano gumawa ng auto-increment sa MySQL?",,"id INT AUTO_INCREMENT PRIMARY KEY"
+Application,"Paano gumawa ng auto-increment sa PostgreSQL?",,"id SERIAL PRIMARY KEY"

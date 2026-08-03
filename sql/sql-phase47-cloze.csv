@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::ORM}} ay nagma-map ng database tables sa programming language objects.",,ORM
+Cloze,"Ang {{c1::parameterization}} ay ang paggamit ng placeholders sa queries mula sa application.",,parameterization
+Cloze,"Ang {{c1::connection pooling}} ay ang pag-reuse ng database connections.",,connection pooling
+Cloze,"Ang {{c1::query builder}} ay ang API na gumagawa ng queries nang walang raw SQL.",,query builder
+Cloze,"Ang {{c1::migrations}} ay ang version-controlled schema changes mula sa application.",,migrations
+Cloze,"Ang {{c1::N+1 problem}} sa ORM ay ang pag-load ng relationships ng paisa-isa.",,N+1 problem
+Cloze,"Ang {{c1::eager loading}} sa ORM ay ang pag-load ng relationships nang sabay.",,eager loading
+Cloze,"Ang {{c1::transactions}} sa application ay ang pag-wrap ng operations para sa atomicity.",,transactions
+Cloze,"Ang {{c1::connection limit}} ay ang bilang ng sabay-sabay na connections sa database.",,connection limit
+Cloze,"Ang {{c1::database driver}} ay ang library na nagko-connect ng application sa database.",,database driver

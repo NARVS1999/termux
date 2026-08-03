@@ -1,0 +1,5 @@
+Application,"Paano pumili ng database para sa transactional app?",,"Gamitin ang PostgreSQL o MySQL na may malakas na ACID support."
+Application,"Paano pumili ng database para sa mobile app?",,"Gamitin ang SQLite dahil embedded at walang server."
+Application,"Paano pumili ng database para sa analytics?",,"Gamitin ang OLAP database o data warehouse."
+Application,"Paano i-test ang database performance?",,"I-benchmark ang workload gamit ang realistic queries."
+Application,"Paano mag-decide sa pagitan ng PostgreSQL at MySQL?",,"I-consider ang advanced features, ecosystem, at team experience."

@@ -1,0 +1,5 @@
+Application,"Paano mag-backup ng PostgreSQL database?",,"pg_dump -U user -F c dbname > backup.dump"
+Application,"Paano mag-restore ng PostgreSQL backup?",,"pg_restore -U user -d dbname backup.dump"
+Application,"Paano mag-backup ng MySQL database?",,"mysqldump -u user -p dbname > backup.sql"
+Application,"Paano mag-restore ng MySQL backup?",,"mysql -u user -p dbname < backup.sql"
+Application,"Paano mag-set up ng point-in-time recovery?",,"I-enable ang WAL archiving at i-store ang logs para sa replay."

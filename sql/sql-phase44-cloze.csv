@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::dialect}} ay ang variant ng SQL na ginagamit ng isang database.",,dialect
+Cloze,"Ang {{c1::dialect differences}} ay ang mga pagkakaiba ng SQL syntax sa pagitan ng databases.",,dialect differences
+Cloze,"Ang {{c1::vendor feature}} ay ang feature na exclusive sa isang database.",,vendor feature
+Cloze,"Ang {{c1::syntax}} ay ang pagsulat ng query na maaaring magkaiba sa bawat database.",,syntax
+Cloze,"Ang {{c1::LIMIT}} ay sinusuportahan ng MySQL ngunit ang PostgreSQL ay gumagamit ng LIMIT o FETCH.",,LIMIT
+Cloze,"Ang {{c1::ILIKE}} ay ang case-insensitive na LIKE sa PostgreSQL.",,ILIKE
+Cloze,"Ang {{c1::AUTO_INCREMENT}} ay ang MySQL na syntax para sa auto-increment column.",,AUTO_INCREMENT
+Cloze,"Ang {{c1::SERIAL}} ay ang PostgreSQL na syntax para sa auto-increment column.",,SERIAL
+Cloze,"Ang {{c1::portability}} ay ang kakayahan ng query na gumana sa iba't ibang databases.",,portability
+Cloze,"Ang {{c1::date functions}} ay nag-iiba sa pagitan ng MySQL at PostgreSQL.",,date functions
