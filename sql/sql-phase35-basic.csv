@@ -1,0 +1,5 @@
+Application,"Paano mag-add ng primary key?",,"I-declare ang PRIMARY KEY sa CREATE TABLE o ALTER TABLE."
+Application,"Paano mag-add ng unique constraint?",,"ALTER TABLE users ADD CONSTRAINT uq_email UNIQUE (email);"
+Application,"Paano mag-add ng check constraint?",,"ALTER TABLE products ADD CONSTRAINT chk_price CHECK (price >= 0);"
+Application,"Paano mag-set ng default value?",,"ALTER TABLE users ALTER COLUMN active SET DEFAULT 1;"
+Application,"Paano gumawa ng composite primary key?",,"PRIMARY KEY (order_id, product_id)"

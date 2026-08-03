@@ -1,0 +1,5 @@
+Application,"Paano mag-migrate ng schema sa Laravel?",,"php artisan make:migration add_phone_to_users_table"
+Application,"Paano mag-rollback ng migration?",,"php artisan migrate:rollback"
+Application,"Paano mag-backfill ng existing data?",,"Gumawa ng migration na nag-i-update ng existing rows bago i-add ang NOT NULL constraint."
+Application,"Paano mag-apply ng migrations sa production?",,"I-run ang php artisan migrate --force sa deployment."
+Application,"Paano mag-add ng column na may default?",,"$table->string('status')->default('active');"

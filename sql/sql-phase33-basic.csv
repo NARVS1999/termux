@@ -1,0 +1,5 @@
+Application,"Paano i-model ang one-to-many relationship?",,"I-add ang foreign key column sa child table na tumutukoy sa parent table."
+Application,"Paano i-model ang many-to-many relationship?",,"Gumawa ng junction table na may parehong foreign keys."
+Application,"Paano mag-identify ng entities?",,"Ilista ang mga pangunahing konsepto ng domain at ang kanilang attributes."
+Application,"Paano i-model ang one-to-one relationship?",,"I-share ang parehong primary key o mag-add ng unique foreign key."
+Application,"Paano i-model ang inheritance sa database?",,"Gamitin ang table-per-type o table-per-hierarchy pattern."

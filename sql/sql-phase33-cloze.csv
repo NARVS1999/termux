@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::data modeling}} ay ang pagdidisenyo ng structure ng database.",,data modeling
+Cloze,"Ang {{c1::entity}} ay isang bagay o konsepto na iniimbak sa database.",,entity
+Cloze,"Ang {{c1::attribute}} ay ang property ng isang entity.",,attribute
+Cloze,"Ang {{c1::relationship}} ay ang ugnayan sa pagitan ng mga entities.",,relationship
+Cloze,"Ang {{c1::one-to-one}} relationship ay ang isa-sa-isang ugnayan ng entities.",,one-to-one
+Cloze,"Ang {{c1::one-to-many}} relationship ay ang isa-sa-maraming ugnayan.",,one-to-many
+Cloze,"Ang {{c1::many-to-many}} relationship ay ang marami-sa-maraming ugnayan.",,many-to-many
+Cloze,"Ang {{c1::conceptual model}} ay ang mataas na level na disenyo ng data.",,conceptual model
+Cloze,"Ang {{c1::logical model}} ay ang detalyadong disenyo na may attributes at keys.",,logical model
+Cloze,"Ang {{c1::physical model}} ay ang aktwal na pagpapatupad ng schema.",,physical model

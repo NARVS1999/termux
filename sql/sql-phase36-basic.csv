@@ -1,0 +1,5 @@
+Application,"Paano i-fix ang 1NF violation?",,"Ihiwalay ang mga multi-value na column sa sariling table."
+Application,"Paano i-fix ang partial dependency?",,"Ihiwalay ang dependent columns sa bagong table na may partial key."
+Application,"Paano i-fix ang transitive dependency?",,"Ihiwalay ang dependent non-key columns sa sariling table."
+Application,"Paano i-check kung 3NF ang schema?",,"Siguraduhing walang non-key column na nakadepende sa ibang non-key column."
+Application,"Paano mag-balance ng normalization?",,"I-normalize hanggang 3NF at mag-denormalize lang kung may performance issue."

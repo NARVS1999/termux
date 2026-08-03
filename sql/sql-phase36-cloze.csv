@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::1NF}} ay nangangailangan ng atomic values at walang duplicate rows.",,1NF
+Cloze,"Ang {{c1::2NF}} ay nangangailangan ng walang partial dependency sa composite key.",,2NF
+Cloze,"Ang {{c1::3NF}} ay nangangailangan ng walang transitive dependency.",,3NF
+Cloze,"Ang {{c1::BCNF}} ay nangangailangan na ang bawat determinant ay candidate key.",,BCNF
+Cloze,"Ang {{c1::functional dependency}} ay ang ugnayan ng column sa ibang column.",,functional dependency
+Cloze,"Ang {{c1::partial dependency}} ay ang dependency sa bahagi lang ng composite key.",,partial dependency
+Cloze,"Ang {{c1::transitive dependency}} ay ang dependency sa non-key column.",,transitive dependency
+Cloze,"Ang {{c1::determinant}} ay ang column na tumutukoy sa value ng ibang column.",,determinant
+Cloze,"Ang {{c1::practical balance}} ay ang pagtitimbang ng normalization sa performance.",,practical balance
+Cloze,"Ang {{c1::normalized schema}} ay karaniwang hanggang 3NF na ginagawa.",,normalized schema

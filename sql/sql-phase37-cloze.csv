@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::schema migration}} ay ang pagbabago ng database schema na may version control.",,schema migration
+Cloze,"Ang {{c1::versioning}} ay ang pagti-track ng mga migration files.",,versioning
+Cloze,"Ang {{c1::rollback}} ay ang pagbabalik ng schema sa dating estado.",,rollback
+Cloze,"Ang {{c1::data backfill}} ay ang pagpuno ng bagong columns ng existing data.",,data backfill
+Cloze,"Ang {{c1::migration file}} ay ang naka-save na pagbabago ng schema.",,migration file
+Cloze,"Ang {{c1::up migration}} ay ang pag-a-apply ng changes sa schema.",,up migration
+Cloze,"Ang {{c1::down migration}} ay ang pagbabaliktad ng changes.",,down migration
+Cloze,"Ang {{c1::migration table}} ay nagre-record ng mga na-apply na migrations.",,migration table
+Cloze,"Ang {{c1::backfill script}} ay nag-i-update ng existing rows para sa bagong schema.",,backfill script
+Cloze,"Ang {{c1::expanding migration}} ay ang pag-add muna ng optional na changes bago i-require.",,expanding migration

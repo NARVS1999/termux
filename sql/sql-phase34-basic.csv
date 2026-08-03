@@ -1,0 +1,5 @@
+Application,"Paano gumuhit ng ERD?",,"Gumamit ng tools tulad ng draw.io o dbdiagram.io at i-model ang entities at relationships."
+Application,"Paano i-represent ang one-to-many sa ERD?",,"Gamitin ang crow's foot sa maraming bahagi ng relationship."
+Application,"Paano i-represent ang many-to-many sa ERD?",,"Gumawa ng junction entity at i-connect sa parehong entities."
+Application,"Paano i-indicate ang mandatory relationship?",,"Gumamit ng perpendicular line marker para sa required side."
+Application,"Paano mag-validate ng ERD?",,"I-check na kumpleto ang cardinality at walang missing relationships."

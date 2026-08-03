@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::primary key}} ay ang unique identifier ng bawat row.",,primary key
+Cloze,"Ang {{c1::foreign key}} ay nagli-link ng table sa isa pang table.",,foreign key
+Cloze,"Ang {{c1::unique constraint}} ay pumipigil sa duplicate values sa column.",,unique constraint
+Cloze,"Ang {{c1::check constraint}} ay nagve-validate ng values ng column.",,check constraint
+Cloze,"Ang {{c1::default value}} ay ang value na gagamitin kapag walang ibinigay.",,default value
+Cloze,"Ang {{c1::NOT NULL}} ay nagbabawal ng NULL values sa column.",,NOT NULL
+Cloze,"Ang {{c1::composite key}} ay ang primary key na binubuo ng maraming columns.",,composite key
+Cloze,"Ang {{c1::candidate key}} ay ang column na pwede maging primary key.",,candidate key
+Cloze,"Ang {{c1::referential integrity}} ay ang pagpapatupad na valid lang ang foreign keys.",,referential integrity
+Cloze,"Ang {{c1::surrogate key}} ay ang artipisyal na key tulad ng auto-increment id.",,surrogate key

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::ERD}} ay ang entity-relationship diagram.",,ERD
+Cloze,"Ang {{c1::diagram}} ay ang visual na representasyon ng database design.",,diagram
+Cloze,"Ang {{c1::cardinality}} ay ang bilang ng ugnayan sa pagitan ng entities.",,cardinality
+Cloze,"Ang {{c1::crow's foot notation}} ay ang simbolo para sa cardinality sa ERD.",,crow's foot notation
+Cloze,"Ang {{c1::one-to-many symbol}} sa crow's foot ay ang linya na may isang marker at foot.",,one-to-many symbol
+Cloze,"Ang {{c1::many-to-many symbol}} ay ang crow's foot sa parehong dulo ng relationship.",,many-to-many symbol
+Cloze,"Ang {{c1::entity box}} ay ang rectangle na kumakatawan sa entity sa ERD.",,entity box
+Cloze,"Ang {{c1::relationship line}} ay ang linya na nag-uugnay ng entities.",,relationship line
+Cloze,"Ang {{c1::optionality}} ay kung ang relationship ay required o optional.",,optionality
+Cloze,"Ang {{c1::Chen notation}} ay ang alternatibong estilo ng ERD notation.",,Chen notation
