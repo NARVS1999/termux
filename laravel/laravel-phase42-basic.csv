@@ -1,0 +1,5 @@
+Application,"Paano mag-dispatch ng event?",,"event(new OrderShipped($order));"
+Application,"Paano gumawa ng event at listener?",,"php artisan make:event OrderShipped at php artisan make:listener SendShipmentNotification"
+Application,"Paano mag-register ng event listener?",,"I-add ang mapping sa EventServiceProvider sa $listen array."
+Application,"Paano mag-register ng subscriber?",,"I-register ang subscriber class sa EventServiceProvider."
+Application,"Paano mag-queue ng listener?",,"I-implement ang ShouldQueue interface sa listener."

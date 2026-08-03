@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::mailable}} ay isang class na nagre-represent ng isang email sa Laravel.",,mailable
+Cloze,"Ang {{c1::notification}} ay nagpapadala ng mensahe sa user sa pamamagitan ng channels tulad ng mail at database.",,notification
+Cloze,"Ang {{c1::channel}} ay ang paraan ng paghahatid ng notification tulad ng mail o SMS.",,channel
+Cloze,"Ang {{c1::queued mail}} ay nagpapadala ng email sa background para hindi ma-block ang response.",,queued mail
+Cloze,"Ang {{c1::Mail::to()}} method ay tumutukoy sa receiver ng email.",,Mail::to() method
+Cloze,"Ang {{c1::notify()}} method ay nagpapadala ng notification sa isang notifiable model.",,notify() method
+Cloze,"Ang {{c1::via()}} method ay tumutukoy kung saang channels ipapadala ang notification.",,via() method
+Cloze,"Ang {{c1::mailables}} ay may build() method na nagse-set ng subject at view.",,build() method
+Cloze,"Ang {{c1::toMail}} method ay nagko-convert ng notification sa mailable form.",,toMail method
+Cloze,"Ang {{c1::Notification facade}} ay nagpapadala ng notification nang walang model.",,Notification facade

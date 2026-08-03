@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::event}} ay isang notification na may data na nangyari sa application.",,event
+Cloze,"Ang {{c1::listener}} ay isang class na tumutugon sa isang event.",,listener
+Cloze,"Ang {{c1::dispatch}} ng event ay ang pag-trigger ng event para ma-execute ang mga listeners.",,dispatch
+Cloze,"Ang {{c1::subscriber}} ay isang class na nagrerehistro ng maraming event listeners.",,subscriber
+Cloze,"Ang {{c1::Event::listen}} ay nagre-register ng listener para sa isang event.",,Event::listen
+Cloze,"Ang {{c1::event class}} ay naglalaman ng data na ipinapasa sa mga listeners.",,event class
+Cloze,"Ang {{c1::shouldQueue}} ay nagpapahintulot sa listener na i-process sa queue.",,shouldQueue
+Cloze,"Ang {{c1::EventServiceProvider}} ay kung saan nirerehistro ang event-listener mappings.",,EventServiceProvider
+Cloze,"Ang {{c1::handle()}} method ay ang entry point ng listener kapag na-dispatch ang event.",,handle() method
+Cloze,"Ang {{c1::event discovery}} ay awtomatikong naghahanap ng listeners para sa mga events.",,event discovery

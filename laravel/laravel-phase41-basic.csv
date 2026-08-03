@@ -1,0 +1,5 @@
+Application,"Paano mag-dispatch ng job nang asynchronous?",,"ProcessPodcast::dispatch($podcast);"
+Application,"Paano mag-run ng queue worker?",,"php artisan queue:work"
+Application,"Paano mag-process ng job nang synchronous?",,"ProcessPodcast::dispatchSync($podcast);"
+Application,"Paano i-retry ang isang failed job?",,"php artisan queue:retry {job-id}"
+Application,"Paano i-set ang tries ng job?",,"I-declare ang public $tries = 3; sa job class."

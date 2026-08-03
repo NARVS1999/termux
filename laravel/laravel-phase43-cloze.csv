@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::task scheduling}} ay nag-a-arrange ng mga automated tasks na tumatakbo sa specific times.",,task scheduling
+Cloze,"Ang {{c1::cron}} ay ang system tool na nagra-run ng scheduled commands.",,cron
+Cloze,"Ang {{c1::schedule}} ay tumutukoy kung kailan dapat tumakbo ang isang command.",,schedule
+Cloze,"Ang {{c1::schedule:run}} command ay nag-trigger ng mga naka-schedule na tasks.",,schedule:run
+Cloze,"Ang {{c1::artisan schedule}} ay nagde-defines ng scheduled tasks sa Kernel.php.",,artisan schedule
+Cloze,"Ang {{c1::withoutOverlapping}} ay pumipigil sa pagtakbo ng task habang may tumatakbo pa.",,withoutOverlapping
+Cloze,"Ang {{c1::daily}} ay isang schedule frequency na tumatakbo isang beses kada araw.",,daily
+Cloze,"Ang {{c1::everyMinute}} ay isang schedule frequency na tumatakbo bawat minuto.",,everyMinute
+Cloze,"Ang {{c1::cron expression}} ay nagse-specify ng eksaktong schedule ng isang task.",,cron expression
+Cloze,"Ang {{c1::onOneServer}} ay nagpre-prevent ng duplicate execution ng task sa multiple servers.",,onOneServer

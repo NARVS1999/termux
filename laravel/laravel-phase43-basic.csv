@@ -1,0 +1,5 @@
+Application,"Paano mag-schedule ng command araw-araw?",,"$schedule->command('report:send')->daily();"
+Application,"Paano mag-run ng scheduler nang isang beses?",,"php artisan schedule:run"
+Application,"Paano mag-run ng scheduler bawat minuto?",,"I-set ang cron entry na * * * * * na tumatawag sa schedule:run."
+Application,"Paano pigilan ang overlapping ng task?",,"I-add ang ->withoutOverlapping() sa scheduled task."
+Application,"Paano mag-schedule ng task sa specific na oras?",,"$schedule->command('backup:run')->dailyAt('02:00');"

@@ -1,0 +1,5 @@
+Application,"Paano magpadala ng email notification sa user?",,"$user->notify(new InvoicePaid($invoice));"
+Application,"Paano gumawa ng mailable?",,"php artisan make:mail OrderShipped"
+Application,"Paano magpadala ng mailable?",,"Mail::to($user)->send(new OrderShipped($order));"
+Application,"Paano magpadala ng notification sa background?",,"I-implement ang ShouldQueue interface sa notification."
+Application,"Paano i-define ang notification channels?",,"I-override ang via() method para i-return ang ['mail', 'database']."
