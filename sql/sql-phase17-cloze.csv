@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::INSERT}} statement ay nagdadagdag ng bagong rows sa table.",,INSERT
+Cloze,"Ang {{c1::single-row insert}} ay nag-i-insert ng isang record lamang.",,single-row insert
+Cloze,"Ang {{c1::multi-row insert}} ay nag-i-insert ng maraming records sa isang statement.",,multi-row insert
+Cloze,"Ang {{c1::SELECT INTO}} ay nagkokopya ng data mula sa isang table papunta sa bago.",,SELECT INTO
+Cloze,"Ang {{c1::RETURNING}} clause ay nagre-return ng inserted data.",,RETURNING
+Cloze,"Ang {{c1::column list}} sa INSERT ay tumutukoy kung aling columns ang lalagyan ng values.",,column list
+Cloze,"Ang {{c1::VALUES}} keyword ay tumutukoy sa mga value na i-i-insert.",,VALUES
+Cloze,"Ang {{c1::default value}} ay ang value na gagamitin kung hindi binigyan ng value ang column.",,default value
+Cloze,"Ang {{c1::INSERT SELECT}} ay nag-i-insert ng resulta ng query.",,INSERT SELECT
+Cloze,"Ang {{c1::auto-increment}} na column ay hindi kailangan i-insert dahil awtomatikong nag-ge-generate ng value.",,auto-increment

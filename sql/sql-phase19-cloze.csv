@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::transaction}} ay isang grupo ng operations na dapat magtagumpay nang sabay.",,transaction
+Cloze,"Ang {{c1::BEGIN}} ay nagsisimula ng isang transaction.",,BEGIN
+Cloze,"Ang {{c1::COMMIT}} ay nagse-save ng lahat ng changes ng transaction.",,COMMIT
+Cloze,"Ang {{c1::ROLLBACK}} ay bumabaliktad ng lahat ng changes ng transaction.",,ROLLBACK
+Cloze,"Ang {{c1::savepoint}} ay isang marker sa loob ng transaction para sa partial rollback.",,savepoint
+Cloze,"Ang {{c1::atomicity}} ay nangangahulugang lahat o wala ang transaction.",,atomicity
+Cloze,"Ang {{c1::transaction block}} ay ang sequence ng statements sa pagitan ng BEGIN at COMMIT.",,transaction block
+Cloze,"Ang {{c1::ROLLBACK TO}} ay bumabalik sa isang savepoint.",,ROLLBACK TO
+Cloze,"Ang {{c1::RELEASE SAVEPOINT}} ay nagtatanggal ng savepoint.",,RELEASE SAVEPOINT
+Cloze,"Ang {{c1::implicit commit}} ay ang awtomatikong commit ng ilang statements.",,implicit commit

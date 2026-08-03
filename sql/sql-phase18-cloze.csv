@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::UPDATE}} statement ay nagbabago ng existing rows.",,UPDATE
+Cloze,"Ang {{c1::DELETE}} statement ay nagtatanggal ng mga rows.",,DELETE
+Cloze,"Ang {{c1::SET}} clause sa UPDATE ay tumutukoy sa mga column na babaguhin.",,SET clause
+Cloze,"Ang {{c1::filter}} ay ang WHERE condition na tumutukoy kung aling rows ang a-update o d-delete.",,filter
+Cloze,"Ang {{c1::update join}} ay ang pag-update ng rows gamit ang data mula sa ibang table.",,update join
+Cloze,"Ang {{c1::cascade}} ay ang awtomatikong pag-update o pag-delete ng related rows.",,cascade
+Cloze,"Ang {{c1::RETURNING}} ay nagre-return ng modified rows sa UPDATE o DELETE.",,RETURNING
+Cloze,"Ang {{c1::unfiltered DELETE}} ay nagtatanggal ng lahat ng rows ng table.",,unfiltered DELETE
+Cloze,"Ang {{c1::delete join}} ay ang pag-delete ng rows base sa join sa ibang table.",,delete join
+Cloze,"Ang {{c1::affected rows}} ay ang bilang ng rows na binago ng statement.",,affected rows

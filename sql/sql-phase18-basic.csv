@@ -1,0 +1,5 @@
+Application,"Paano mag-update ng isang row?",,"UPDATE users SET name = 'Pedro' WHERE id = 1;"
+Application,"Paano mag-delete ng specific rows?",,"DELETE FROM users WHERE active = 0;"
+Application,"Paano mag-update gamit ang data ng ibang table?",,"UPDATE products p SET price = n.price FROM new_prices n WHERE p.id = n.product_id;"
+Application,"Paano mag-delete gamit ang subquery?",,"DELETE FROM users WHERE id IN (SELECT user_id FROM banned);"
+Application,"Paano mag-return ng updated rows?",,"UPDATE users SET active = 1 WHERE id = 1 RETURNING *;"

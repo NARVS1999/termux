@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::DDL}} ay ang data definition language na tumutukoy sa schema.",,DDL
+Cloze,"Ang {{c1::CREATE}} ay gumagawa ng mga objects tulad ng tables at indexes.",,CREATE
+Cloze,"Ang {{c1::DROP}} ay nagtatanggal ng mga database objects.",,DROP
+Cloze,"Ang {{c1::ALTER}} ay nagbabago ng structure ng existing table.",,ALTER
+Cloze,"Ang {{c1::constraint}} ay isang rule na ipinapatupad sa data.",,constraint
+Cloze,"Ang {{c1::index}} ay nagpapabilis ng paghahanap sa table.",,index
+Cloze,"Ang {{c1::PRIMARY KEY}} constraint ay tumutukoy sa unique identifier ng rows.",,PRIMARY KEY
+Cloze,"Ang {{c1::FOREIGN KEY}} constraint ay nag-e-enforce ng referential integrity.",,FOREIGN KEY
+Cloze,"Ang {{c1::UNIQUE}} constraint ay pumipigil sa duplicate values.",,UNIQUE
+Cloze,"Ang {{c1::CHECK}} constraint ay nag-validate ng values na pumapasok sa column.",,CHECK

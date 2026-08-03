@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng table?",,"CREATE TABLE users (id SERIAL PRIMARY KEY, name VARCHAR(100) NOT NULL);"
+Application,"Paano mag-add ng column?",,"ALTER TABLE users ADD COLUMN phone VARCHAR(20);"
+Application,"Paano mag-drop ng table?",,"DROP TABLE old_users;"
+Application,"Paano gumawa ng index?",,"CREATE INDEX idx_users_email ON users (email);"
+Application,"Paano mag-add ng foreign key?",,"ALTER TABLE orders ADD CONSTRAINT fk_user FOREIGN KEY (user_id) REFERENCES users(id);"

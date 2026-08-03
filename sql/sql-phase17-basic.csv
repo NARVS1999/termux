@@ -1,0 +1,5 @@
+Application,"Paano mag-insert ng isang user?",,"INSERT INTO users (name, email) VALUES ('Juan', 'juan@example.com');"
+Application,"Paano mag-insert ng maraming rows?",,"INSERT INTO products (name, price) VALUES ('A', 10), ('B', 20);"
+Application,"Paano mag-insert mula sa isang query?",,"INSERT INTO archive SELECT * FROM old_orders WHERE created_at < '2020-01-01';"
+Application,"Paano mag-return ng inserted id sa PostgreSQL?",,"INSERT INTO users (name) VALUES ('Juan') RETURNING id;"
+Application,"Paano mag-copy ng table gamit ang SELECT INTO?",,"SELECT * INTO new_users FROM users;"

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::UPSERT}} ay ang pag-insert o pag-update kung may existing record.",,UPSERT
+Cloze,"Ang {{c1::ON CONFLICT}} clause ay tumutukoy kung ano ang gagawin kapag may conflict.",,ON CONFLICT
+Cloze,"Ang {{c1::MERGE}} ay ang SQL standard na syntax para sa upsert.",,MERGE
+Cloze,"Ang {{c1::idempotent write}} ay ang write na ligtas ulitin kahit ilang beses.",,idempotent write
+Cloze,"Ang {{c1::ON CONFLICT DO UPDATE}} ay nag-u-update ng existing row sa conflict.",,ON CONFLICT DO UPDATE
+Cloze,"Ang {{c1::ON CONFLICT DO NOTHING}} ay walang ginagawa sa conflict.",,ON CONFLICT DO NOTHING
+Cloze,"Ang {{c1::conflict target}} ay ang column na pinagbabasehan ng conflict.",,conflict target
+Cloze,"Ang {{c1::EXCLUDED}} ay tumutukoy sa proposed values sa ON CONFLICT DO UPDATE.",,EXCLUDED
+Cloze,"Ang {{c1::INSERT IGNORE}} ay ang MySQL na paraan ng pag-ignore sa conflicts.",,INSERT IGNORE
+Cloze,"Ang {{c1::REPLACE INTO}} ay ang MySQL na paraan ng pag-replace ng duplicate row.",,REPLACE INTO

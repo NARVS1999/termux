@@ -1,0 +1,5 @@
+Application,"Paano mag-upsert sa PostgreSQL?",,"INSERT INTO users (id, name) VALUES (1, 'Juan') ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name;"
+Application,"Paano mag-ignore sa conflict?",,"INSERT INTO users (id, name) VALUES (1, 'Juan') ON CONFLICT (id) DO NOTHING;"
+Application,"Paano mag-upsert gamit ang MERGE?",,"MERGE INTO users u USING new_users n ON u.id = n.id WHEN MATCHED THEN UPDATE SET name = n.name WHEN NOT MATCHED THEN INSERT (id, name) VALUES (n.id, n.name);"
+Application,"Paano mag-upsert sa MySQL?",,"INSERT INTO users (id, name) VALUES (1, 'Juan') ON DUPLICATE KEY UPDATE name = VALUES(name);"
+Application,"Paano i-ignore ang duplicates sa MySQL?",,"INSERT IGNORE INTO users (id, name) VALUES (1, 'Juan');"

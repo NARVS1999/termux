@@ -1,0 +1,5 @@
+Application,"Paano mag-start ng transaction?",,"BEGIN;"
+Application,"Paano i-commit ang transaction?",,"COMMIT;"
+Application,"Paano i-rollback ang transaction?",,"ROLLBACK;"
+Application,"Paano mag-set ng savepoint?",,"SAVEPOINT before_update;"
+Application,"Paano mag-rollback sa isang savepoint?",,"ROLLBACK TO before_update;"
