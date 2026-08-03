@@ -12,12 +12,12 @@
 
 ## Joins & Subqueries
 
-- [ ] **Phase 6** — INNER JOIN: matching rows, join conditions, multiple joins
-- [ ] **Phase 7** — Outer joins: LEFT, RIGHT, FULL, unmatched rows, nulls
-- [ ] **Phase 8** — Self joins & cross joins: hierarchies, comparisons, Cartesian products
-- [ ] **Phase 9** — Subqueries: scalar, row, table subqueries
-- [ ] **Phase 10** — Correlated subqueries: per-row evaluation, EXISTS
-- [ ] **Phase 11** — Set operations: UNION, INTERSECT, EXCEPT, precedence
+- [x] **Phase 6** — INNER JOIN: matching rows, join conditions, multiple joins
+- [x] **Phase 7** — Outer joins: LEFT, RIGHT, FULL, unmatched rows, nulls
+- [x] **Phase 8** — Self joins & cross joins: hierarchies, comparisons, Cartesian products
+- [x] **Phase 9** — Subqueries: scalar, row, table subqueries
+- [x] **Phase 10** — Correlated subqueries: per-row evaluation, EXISTS
+- [x] **Phase 11** — Set operations: UNION, INTERSECT, EXCEPT, precedence
 
 ## Aggregation & Window Functions
 
