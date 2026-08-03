@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::variable}} ay isang container ng data na nagsisimula sa $ sign.",,variable
+Cloze,"Ang {{c1::scalar types}} ay ang mga basic types tulad ng int, float, string, at bool.",,scalar types
+Cloze,"Ang {{c1::array}} ay isang type na nag-iimbak ng maraming values.",,array
+Cloze,"Ang {{c1::object}} ay isang instance ng isang class.",,object
+Cloze,"Ang {{c1::strict types}} ay nangangailangan ng eksaktong type match sa function calls.",,strict types
+Cloze,"Ang {{c1::null}} ay isang type na kumakatawan sa walang value.",,null
+Cloze,"Ang {{c1::type juggling}} ay ang implicit conversion ng types sa PHP.",,type juggling
+Cloze,"Ang {{c1::declare(strict_types=1)}} ay nag-e-enable ng strict type checking.",,declare(strict_types=1)
+Cloze,"Ang {{c1::gettype()}} function ay nagre-return ng type ng isang variable.",,gettype() function
+Cloze,"Ang {{c1::constant}} ay isang value na hindi mababago pagkatapos i-define.",,constant

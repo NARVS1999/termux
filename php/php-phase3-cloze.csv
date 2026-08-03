@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::if statement}} ay nag-e-execute ng code kung true ang condition.",,if statement
+Cloze,"Ang {{c1::else}} ay nag-e-execute ng code kung false ang condition ng if.",,else
+Cloze,"Ang {{c1::elseif}} ay nag-cha-check ng karagdagang condition pagkatapos ng if.",,elseif
+Cloze,"Ang {{c1::for loop}} ay nag-uulit ng code na may counter.",,for loop
+Cloze,"Ang {{c1::while loop}} ay nag-uulit ng code habang true ang condition.",,while loop
+Cloze,"Ang {{c1::foreach}} ay nag-i-iterate sa bawat elemento ng array.",,foreach
+Cloze,"Ang {{c1::match expression}} ay nagre-return ng value nang walang break.",,match expression
+Cloze,"Ang {{c1::switch}} ay nagbibigay ng multiple case na conditional execution.",,switch
+Cloze,"Ang {{c1::break}} ay nagpapatigil sa loop o switch.",,break
+Cloze,"Ang {{c1::continue}} ay lumalaktaw sa susunod na iteration ng loop.",,continue

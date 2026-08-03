@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::PHP tags}} ay ang <?php ... ?> na ginagamit para mag-embed ng PHP code sa HTML.",,PHP tags
+Cloze,"Ang {{c1::statement}} ay isang instruksyon sa PHP na nagtatapos sa semicolon.",,statement
+Cloze,"Ang {{c1::comment}} ay bahagi ng code na hindi nira-run at ginagamit para sa documentation.",,comment
+Cloze,"Ang {{c1::HTML embedding}} ay ang paghahalo ng PHP code sa HTML gamit ang <?php ?> tags.",,HTML embedding
+Cloze,"Ang {{c1::echo}} ay ang construct na ginagamit para mag-output ng text.",,echo
+Cloze,"Ang {{c1::semicolon}} ay ang terminator ng bawat PHP statement.",,semicolon
+Cloze,"Ang {{c1::closing tag}} ay ang ?> na tumatapos sa PHP block.",,closing tag
+Cloze,"Ang {{c1::short echo tag}} ay ang <?= ?> na maikling paraan ng pag-echo ng value.",,short echo tag
+Cloze,"Ang {{c1::PHP file}} ay karaniwang may extension na .php.",,PHP file
+Cloze,"Ang {{c1::interpreted language}} ay nangangahulugang hindi kailangang i-compile ang PHP bago i-run.",,interpreted language

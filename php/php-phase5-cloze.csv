@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::exception}} ay isang object na nagre-represent ng isang error sa PHP.",,exception
+Cloze,"Ang {{c1::try}} block ay naglalaman ng code na maaaring mag-throw ng exception.",,try block
+Cloze,"Ang {{c1::catch}} block ay humahawak ng exception na na-throw sa try block.",,catch block
+Cloze,"Ang {{c1::finally}} block ay tumatakbo kahit may exception o wala.",,finally block
+Cloze,"Ang {{c1::throw}} ay ginagamit para mag-trigger ng exception.",,throw
+Cloze,"Ang {{c1::error reporting}} ay kumokontrol kung anong mga errors ang ipinapakita.",,error reporting
+Cloze,"Ang {{c1::Error class}} ay humahawak ng mga fatal errors imbes na exceptions.",,Error class
+Cloze,"Ang {{c1::exception message}} ay ang detalye ng exception na makikita sa getMessage().",,exception message
+Cloze,"Ang {{c1::multiple catch}} ay humahawak ng iba't ibang exception types nang magkahiwalay.",,multiple catch
+Cloze,"Ang {{c1::custom exception}} ay isang exception class na nag-e-extend ng Exception.",,custom exception

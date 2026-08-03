@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::function}} ay isang reusable block ng code.",,function
+Cloze,"Ang {{c1::parameter}} ay ang input na tinatanggap ng function.",,parameter
+Cloze,"Ang {{c1::return}} ay nagre-return ng value mula sa function.",,return
+Cloze,"Ang {{c1::default parameter}} ay may fallback na value kung hindi ibinigay.",,default parameter
+Cloze,"Ang {{c1::type hint}} ay nagtutukoy ng expected type ng parameter o return value.",,type hint
+Cloze,"Ang {{c1::closure}} ay isang anonymous function na maaaring i-assign sa variable.",,closure
+Cloze,"Ang {{c1::arrow function}} ay isang maikling syntax ng closure gamit ang fn keyword.",,arrow function
+Cloze,"Ang {{c1::variadic parameter}} ay tumatanggap ng walang limitasyong bilang ng arguments.",,variadic parameter
+Cloze,"Ang {{c1::named arguments}} ay nagpapahintulot sa pag-pass ng arguments sa anumang order.",,named arguments
+Cloze,"Ang {{c1::void}} return type ay nangangahulugang walang ibinabalik na value ang function.",,void return type

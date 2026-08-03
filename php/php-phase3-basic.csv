@@ -1,0 +1,5 @@
+Application,"Paano mag-execute ng code kung true ang condition?",,"if ($age >= 18) { echo 'Adult'; }"
+Application,"Paano mag-loop ng 5 beses gamit ang for?",,"for ($i = 0; $i < 5; $i++) { echo $i; }"
+Application,"Paano mag-iterate sa array gamit ang foreach?",,"foreach ($items as $item) { echo $item; }"
+Application,"Paano mag-return ng value gamit ang match?",,"return match ($status) { 'a' => 'Active', default => 'Unknown' };"
+Application,"Paano mag-loop habang true ang condition?",,"while ($count < 10) { $count++; }"

@@ -1,0 +1,5 @@
+Application,"Paano mag-output ng text sa PHP?",,"echo 'Hello, World!';"
+Application,"Paano mag-embed ng PHP sa HTML?",,"<p><?php echo $name; ?></p>"
+Application,"Paano mag-output gamit ang short echo tag?",,"<?= $name ?>"
+Application,"Paano magdagdag ng single-line comment?",,"// Ito ay comment"
+Application,"Paano magdagdag ng multi-line comment?",,"/* Multi-line comment */"

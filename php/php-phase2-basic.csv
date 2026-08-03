@@ -1,0 +1,5 @@
+Application,"Paano mag-declare ng variable?",,"$name = 'Juan';"
+Application,"Paano mag-declare ng integer variable?",,"$count = 10;"
+Application,"Paano mag-declare ng array?",,"$items = [1, 2, 3];"
+Application,"Paano i-enable ang strict types?",,"I-declare ang declare(strict_types=1); sa unang linya ng file."
+Application,"Paano mag-define ng constant?",,"define('APP_NAME', 'MyApp'); o const APP_NAME = 'MyApp';"

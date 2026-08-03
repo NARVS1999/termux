@@ -1,0 +1,5 @@
+Application,"Paano mag-handle ng exception?",,"try { riskyOperation(); } catch (Exception $e) { log($e->getMessage()); }"
+Application,"Paano mag-throw ng exception?",,"throw new InvalidArgumentException('Invalid input');"
+Application,"Paano mag-execute ng code kahit may exception?",,"Gamitin ang finally block pagkatapos ng catch."
+Application,"Paano mag-handle ng ibang exception types?",,"Gumamit ng maraming catch blocks na may ibang exception types."
+Application,"Paano i-enable ang lahat ng error reporting?",,"error_reporting(E_ALL);"
