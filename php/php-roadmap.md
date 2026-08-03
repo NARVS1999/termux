@@ -20,11 +20,11 @@
 
 ## Composer & Dependencies
 
-- [ ] **Phase 11** — Composer: init, install, require, scripts
-- [ ] **Phase 12** — Packages: finding, versions, updates, lockfile
-- [ ] **Phase 13** — Autoloading: PSR-4 mapping, classmaps, files
-- [ ] **Phase 14** — Versioning: semver, constraints, stability
-- [ ] **Phase 15** — PSR standards: PSR-1, PSR-12, PSR-4, PSR-7
+- [x] **Phase 11** — Composer: init, install, require, scripts
+- [x] **Phase 12** — Packages: finding, versions, updates, lockfile
+- [x] **Phase 13** — Autoloading: PSR-4 mapping, classmaps, files
+- [x] **Phase 14** — Versioning: semver, constraints, stability
+- [x] **Phase 15** — PSR standards: PSR-1, PSR-12, PSR-4, PSR-7
 
 ## Databases
 
