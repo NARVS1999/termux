@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::Composer}} ay ang dependency manager ng PHP na nagma-manage ng packages at autoloading.",,Composer
+Cloze,"Ang {{c1::composer.json}} ay ang configuration file na naglilista ng mga dependencies ng project.",,composer.json
+Cloze,"Ang {{c1::composer.lock}} ay nagne-lock ng eksaktong versions ng bawat installed package.",,composer.lock
+Cloze,"Ang {{c1::autoloading}} ay awtomatikong naglo-load ng classes nang walang manual na require statements.",,autoloading
+Cloze,"Ang {{c1::Packagist}} ay ang default package repository ng Composer.",,Packagist
+Cloze,"Ang {{c1::vendor directory}} ay kung saan ini-install ng Composer ang lahat ng dependencies.",,vendor directory
+Cloze,"Ang {{c1::require}} ay ang Composer command para mag-add ng bagong package.",,require
+Cloze,"Ang {{c1::update}} ay ang Composer command na nag-a-update ng mga dependencies base sa composer.json.",,update
+Cloze,"Ang {{c1::semantic versioning}} ay gumagamit ng MAJOR.MINOR.PATCH na version numbers.",,semantic versioning
+Cloze,"Ang {{c1::dev-dependencies}} ay mga package na para lamang sa development environment tulad ng testing tools.",,dev-dependencies

@@ -1,0 +1,5 @@
+Application,"Paano mag-define ng class na may constructor?",,"class User { public function __construct(public string $name) {} }"
+Application,"Paano mag-extend ng parent class?",,"class Admin extends User { }"
+Application,"Paano mag-implement ng interface?",,"class Order implements Payable { }"
+Application,"Paano gumamit ng trait sa loob ng class?",,"class User { use Notifiable; }"
+Application,"Paano mag-call ng static method nang walang object?",,"User::find($id);"

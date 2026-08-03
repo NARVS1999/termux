@@ -1,0 +1,5 @@
+Application,"Paano mag-run ng PHP built-in server sa port 8000?",,"php -S localhost:8000"
+Application,"Paano i-check ang PHP version na naka-install?",,"php -v"
+Application,"Paano mag-list ng mga enabled PHP extensions?",,"php -m"
+Application,"Paano mag-start ng Laravel development server?",,"php artisan serve"
+Application,"Paano i-enable ang error display sa development?",,"I-edit ang php.ini at i-set ang display_errors=On."

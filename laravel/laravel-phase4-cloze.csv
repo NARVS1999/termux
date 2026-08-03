@@ -1,0 +1,9 @@
+Cloze,"Ang {{c1::namespace}} ay nag-o-organize ng code at nag-iwas sa name collisions sa pagitan ng mga classes.",,namespace
+Cloze,"Ang {{c1::PSR-4}} ay isang standard na nagma-map ng namespaces sa directory structure para sa autoloading.",,PSR-4
+Cloze,"Ang {{c1::use statement}} ay nag-i-import ng class mula sa isang namespace nang hindi ginagamit ang buong path.",,use statement
+Cloze,"Ang {{c1::fully qualified name}} ay ang kumpletong namespace path ng isang class simula sa root.",,fully qualified name
+Cloze,"Ang {{c1::alias}} ay nagbibigay ng alternatibong pangalan sa isang imported class.",,alias
+Cloze,"Ang {{c1::App namespace}} ay ang root namespace ng mga application classes ng Laravel.",,App namespace
+Cloze,"Ang {{c1::directory structure mapping}} ng PSR-4 ay nagsasabing ang namespace segment ay tumutugma sa folder path.",,directory structure mapping
+Cloze,"Ang {{c1::composer autoload}} ay nagsasabi sa Composer kung paano mag-auto-load ng project classes.",,composer autoload
+Cloze,"Ang {{c1::backslash}} ay ginagamit bilang separator ng namespace segments sa PHP.",,backslash

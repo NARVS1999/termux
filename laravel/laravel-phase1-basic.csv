@@ -1,0 +1,5 @@
+Application,"Paano mag-define ng associative array na may key-value pairs?",,"$user = ['name' => 'Juan', 'age' => 25];"
+Application,"Paano mag-print ng output sa screen?",,"echo 'Hello, World!';"
+Application,"Paano mag-iterate sa isang array gamit ang foreach?",,"foreach ($items as $item) { echo $item; }"
+Application,"Paano mag-declare ng function na may default parameter?",,"function greet($name = 'Guest') { return \"Hi $name\"; }"
+Application,"Paano mag-execute ng code kung hindi true ang condition?",,"if (!$loggedIn) { redirect('/login'); }"

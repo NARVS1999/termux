@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::class}} ay blueprint para sa paggawa ng objects na may mga properties at methods.",,class
+Cloze,"Ang {{c1::inheritance}} ay nagpapahintulot sa child class na magmana ng properties at methods mula sa parent class.",,inheritance
+Cloze,"Ang {{c1::interface}} ay nagde-declare ng method signatures na dapat i-implement ng isang class.",,interface
+Cloze,"Ang {{c1::trait}} ay nagpapahintulot ng code reuse sa multiple classes nang walang inheritance.",,trait
+Cloze,"Ang {{c1::constructor}} ay isang magic method na awtomatikong tumatakbo kapag nag-instantiate ng object.",,constructor
+Cloze,"Ang {{c1::abstract class}} ay hindi maaaring i-instantiate at maaaring maglaman ng abstract methods.",,abstract class
+Cloze,"Ang {{c1::visibility}} ay kumokontrol sa access level ng properties at methods gamit ang public, protected, at private.",,visibility
+Cloze,"Ang {{c1::polymorphism}} ay nagpapahintulot sa magkakaibang classes na i-handle ang parehong method call nang magkaiba.",,polymorphism
+Cloze,"Ang {{c1::static method}} ay tinatawag direkta sa class nang hindi nag-i-instantiate ng object.",,static method
+Cloze,"Ang {{c1::property}} ay isang variable na nabibilang sa loob ng isang class.",,property

@@ -1,0 +1,5 @@
+Application,"Paano mag-install ng isang package?",,"composer require vendor/package"
+Application,"Paano mag-install ng lahat ng dependencies mula sa lockfile?",,"composer install"
+Application,"Paano mag-update ng mga dependencies?",,"composer update"
+Application,"Paano magdagdag ng package na pang-development lamang?",,"composer require --dev phpunit/phpunit"
+Application,"Paano mag-regenerate ng autoload files?",,"composer dump-autoload"

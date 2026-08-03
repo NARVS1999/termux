@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::PHP CLI}} ay ang command-line interface para mag-run ng PHP scripts.",,PHP CLI
+Cloze,"Ang {{c1::extension}} ay isang compiled library na nagdadagdag ng functionality sa PHP.",,extension
+Cloze,"Ang {{c1::php.ini}} ay ang configuration file ng PHP runtime settings.",,php.ini
+Cloze,"Ang {{c1::built-in web server}} ay inilulunsad ng php -S para sa local development.",,built-in web server
+Cloze,"Ang {{c1::version manager}} ay nagpapahintulot sa pagpalit ng PHP versions per project.",,version manager
+Cloze,"Ang {{c1::artisan serve}} ay ang Laravel command na nagra-run ng development server.",,artisan serve
+Cloze,"Ang {{c1::local server stack}} tulad ng XAMPP o Laragon ay nagbibigay ng bundled PHP, web server, at database.",,local server stack
+Cloze,"Ang {{c1::error reporting}} ay nagpapakita ng PHP errors para mas madali ang debugging.",,error reporting
+Cloze,"Ang {{c1::environment}} ay tumutukoy sa configuration ng application sa development versus production.",,environment
+Cloze,"Ang {{c1::Xdebug}} ay isang extension na ginagamit para sa debugging at profiling ng PHP code.",,Xdebug

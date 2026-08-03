@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::PHP tags}} ay ginagamit para mag-embed ng PHP code sa loob ng HTML gamit ang <?php ... ?>.",,PHP tags
+Cloze,"Ang {{c1::string}} ay isang PHP data type na nag-iimbak ng text na naka-enclose sa quotes.",,string
+Cloze,"Ang {{c1::array}} ay isang PHP data structure na nag-iimbak ng maraming values sa isang variable.",,array
+Cloze,"Ang {{c1::foreach}} loop ay ginagamit para mag-iterate sa bawat elemento ng isang array.",,foreach
+Cloze,"Ang {{c1::function}} ay isang reusable block ng code na tumatanggap ng parameters at nagre-return ng value.",,function
+Cloze,"Ang {{c1::variable}} ay isang named container na nag-iimbak ng data at nagsisimula sa $ sign.",,variable
+Cloze,"Ang {{c1::if-else}} statement ay nag-e-execute ng code base sa kung true o false ang condition.",,if-else
+Cloze,"Ang {{c1::return type}} ay nagde-declare kung anong type ng value ang ibabalik ng isang function.",,return type
+Cloze,"Ang {{c1::associative array}} ay gumagamit ng named keys imbes na numeric index.",,associative array
+Cloze,"Ang {{c1::operator}} ay simbolo tulad ng +, ==, at && na nag-o-operate sa mga values.",,operator
