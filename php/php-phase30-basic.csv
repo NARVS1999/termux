@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng middleware?",,"php artisan make:middleware EnsureAgeIsValid"
+Application,"Paano mag-apply ng middleware sa route?",,"Route::get('/admin', ...)->middleware('auth');"
+Application,"Paano mag-define ng gate?",,"Gate::define('update-post', fn(User $user, Post $post) => $user->id === $post->user_id);"
+Application,"Paano mag-dispatch ng job sa queue?",,"ProcessPodcast::dispatch($podcast);"
+Application,"Paano mag-register ng middleware?",,"I-add ang middleware sa Kernel.php sa $middleware o $routeMiddleware."

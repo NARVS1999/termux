@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::Laravel installation}} ay ginagawa gamit ang composer create-project.",,Laravel installation
+Cloze,"Ang {{c1::application structure}} ay ang folder layout ng Laravel tulad ng app, routes, at config.",,application structure
+Cloze,"Ang {{c1::artisan}} ay ang command-line tool ng Laravel.",,artisan
+Cloze,"Ang {{c1::.env file}} ay nag-iimbak ng environment-specific configuration.",,.env file
+Cloze,"Ang {{c1::config directory}} ay naglalaman ng mga configuration files ng Laravel.",,config directory
+Cloze,"Ang {{c1::APP_KEY}} ay ang encryption key ng application.",,APP_KEY
+Cloze,"Ang {{c1::routes directory}} ay naglalaman ng web, api, at console routes.",,routes directory
+Cloze,"Ang {{c1::bootstrap}} ay naglo-load ng application sa simula ng bawat request.",,bootstrap
+Cloze,"Ang {{c1::public directory}} ay ang web root ng application.",,public directory
+Cloze,"Ang {{c1::service providers}} ay nagrerehistro ng application services.",,service providers

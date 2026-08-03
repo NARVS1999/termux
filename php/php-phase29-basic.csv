@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng model?",,"php artisan make:model Post"
+Application,"Paano mag-define ng hasMany relationship?",,"return $this->hasMany(Post::class);"
+Application,"Paano mag-define ng scope?",,"public function scopeActive($query) { return $query->where('active', 1); }"
+Application,"Paano mag-cast ng attribute?",,"protected $casts = ['is_admin' => 'boolean'];"
+Application,"Paano mag-eager load ng relationship?",,"Post::with('author')->get();"

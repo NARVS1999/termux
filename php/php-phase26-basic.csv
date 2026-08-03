@@ -1,0 +1,5 @@
+Application,"Paano mag-install ng Laravel?",,"composer create-project laravel/laravel app-name"
+Application,"Paano mag-start ng development server?",,"php artisan serve"
+Application,"Paano i-generate ang application key?",,"php artisan key:generate"
+Application,"Paano i-list ang mga artisan commands?",,"php artisan list"
+Application,"Paano i-configure ang database?",,"I-set ang DB_DATABASE, DB_USERNAME, at DB_PASSWORD sa .env."

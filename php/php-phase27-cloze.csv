@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::route}} ay nagma-map ng HTTP request sa isang handler.",,route
+Cloze,"Ang {{c1::controller}} ay ang class na humahawak ng request logic.",,controller
+Cloze,"Ang {{c1::route group}} ay nagbabahagi ng attributes sa mga routes.",,route group
+Cloze,"Ang {{c1::resource route}} ay nagrerehistro ng RESTful CRUD routes.",,resource route
+Cloze,"Ang {{c1::named route}} ay nagbibigay ng pangalan sa route.",,named route
+Cloze,"Ang {{c1::route middleware}} ay nagfi-filter ng requests.",,route middleware
+Cloze,"Ang {{c1::route parameter}} ay ang dynamic segment ng URL.",,route parameter
+Cloze,"Ang {{c1::Route::get}} ay nagrerehistro ng GET route.",,Route::get
+Cloze,"Ang {{c1::route prefix}} ay idinaragdag sa simula ng URLs.",,route prefix
+Cloze,"Ang {{c1::route model binding}} ay nag-i-inject ng model sa controller.",,route model binding

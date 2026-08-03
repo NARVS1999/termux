@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::middleware}} ay nagpro-process ng HTTP request bago umabot sa controller.",,middleware
+Cloze,"Ang {{c1::request handling}} ay ang daloy ng request mula browser papunta sa response.",,request handling
+Cloze,"Ang {{c1::auth middleware}} ay nagre-restrict ng access sa logged-in users.",,auth middleware
+Cloze,"Ang {{c1::gate}} ay nagde-defines ng authorization rules.",,gate
+Cloze,"Ang {{c1::queue}} ay nagpapa-delay ng heavy tasks.",,queue
+Cloze,"Ang {{c1::pipeline}} ay ang sequence ng middleware na dadaan sa request.",,pipeline
+Cloze,"Ang {{c1::terminable middleware}} ay tumatakbo pagkatapos maipadala ang response.",,terminable middleware
+Cloze,"Ang {{c1::Gate::allows}} ay nagche-check kung pinapayagan ang action.",,Gate::allows
+Cloze,"Ang {{c1::job}} ay ang unit ng trabaho sa queue.",,job
+Cloze,"Ang {{c1::middleware group}} ay ang koleksyon ng middleware para sa isang route set.",,middleware group

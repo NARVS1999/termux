@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::Blade}} ay ang templating engine ng Laravel.",,Blade
+Cloze,"Ang {{c1::layout}} ay ang base template na ginagamit ng ibang views.",,layout
+Cloze,"Ang {{c1::component}} ay isang reusable UI block.",,component
+Cloze,"Ang {{c1::directive}} ay ang Blade syntax na nagsisimula sa @.",,directive
+Cloze,"Ang {{c1::@extends}} ay nagpapahiwatig na ang view ay gumagamit ng layout.",,@extends
+Cloze,"Ang {{c1::@section}} ay nagde-defines ng content para sa layout section.",,@section
+Cloze,"Ang {{c1::@yield}} ay nagpapakita ng section content sa layout.",,@yield
+Cloze,"Ang {{c1::{{ }} syntax}} ay nag-e-echo ng value sa Blade.",,{{ }} syntax
+Cloze,"Ang {{c1::component slot}} ay ang content na ipinapasa sa component.",,component slot
+Cloze,"Ang {{c1::@if}} directive ay nagko-conditional na nagpapakita ng content.",,@if directive

@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng custom artisan command?",,"php artisan make:command SendReport"
+Application,"Paano mag-run ng Tinker?",,"php artisan tinker"
+Application,"Paano gumawa ng migration?",,"php artisan make:migration create_posts_table"
+Application,"Paano mag-run ng seeders?",,"php artisan db:seed"
+Application,"Paano i-debug sa Tinker?",,"I-type ang \User::first() sa Tinker para i-query ang user."

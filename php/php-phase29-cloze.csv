@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::Eloquent}} ay ang ORM ng Laravel.",,Eloquent
+Cloze,"Ang {{c1::model}} ay ang PHP class na kumakatawan sa table.",,model
+Cloze,"Ang {{c1::relationship}} ay ang koneksyon sa pagitan ng models.",,relationship
+Cloze,"Ang {{c1::scope}} ay isang reusable query constraint.",,scope
+Cloze,"Ang {{c1::cast}} ay nagko-convert ng attribute sa specific na type.",,cast
+Cloze,"Ang {{c1::accessor}} ay nag-trans-form ng attribute kapag in-access.",,accessor
+Cloze,"Ang {{c1::mutator}} ay nag-trans-form ng attribute bago i-save.",,mutator
+Cloze,"Ang {{c1::eager loading}} ay naglo-load ng relationships kasabay ng parent query.",,eager loading
+Cloze,"Ang {{c1::mass assignment}} ay ang pag-save ng maraming attributes nang sabay.",,mass assignment
+Cloze,"Ang {{c1::$fillable}} ay naglilimita kung aling attributes ang mass assignable.",,$fillable

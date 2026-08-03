@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::Artisan}} ay ang command-line interface ng Laravel.",,Artisan
+Cloze,"Ang {{c1::Tinker}} ay ang interactive PHP REPL ng Laravel.",,Tinker
+Cloze,"Ang {{c1::artisan command}} ay isang custom o built-in na CLI command.",,artisan command
+Cloze,"Ang {{c1::scaffolding}} ay ang pag-generate ng boilerplate code gamit ang artisan.",,scaffolding
+Cloze,"Ang {{c1::debugging}} ay ang paghahanap at pag-aayos ng mga bugs.",,debugging
+Cloze,"Ang {{c1::php artisan make:model}} ay gumagawa ng bagong model.",,php artisan make:model
+Cloze,"Ang {{c1::php artisan migrate}} ay nagrere-run ng mga migrations.",,php artisan migrate
+Cloze,"Ang {{c1::php artisan tinker}} ay nagbubukas ng interactive shell.",,php artisan tinker
+Cloze,"Ang {{c1::custom command}} ay ginagawa gamit ang make:command.",,custom command
+Cloze,"Ang {{c1::schedule}} ay nag-a-automate ng mga tasks sa pamamagitan ng artisan.",,schedule

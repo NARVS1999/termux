@@ -1,0 +1,5 @@
+Application,"Paano mag-echo ng value sa Blade?",,"{{ $user->name }}"
+Application,"Paano mag-extend ng layout?",,"@extends('layouts.app')"
+Application,"Paano mag-render ng component?",,"<x-alert message=\"Error\" />"
+Application,"Paano mag-iterate sa Blade?",,"@foreach ($items as $item) {{ $item }} @endforeach"
+Application,"Paano mag-display ng section?",,"@yield('content')"

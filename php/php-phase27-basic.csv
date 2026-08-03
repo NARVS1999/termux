@@ -1,0 +1,5 @@
+Application,"Paano mag-register ng route?",,"Route::get('/home', [HomeController::class, 'index']);"
+Application,"Paano mag-group ng routes na may prefix?",,"Route::prefix('admin')->group(function () { });"
+Application,"Paano mag-register ng resource routes?",,"Route::resource('posts', PostController::class);"
+Application,"Paano mag-set ng named route?",,"Route::get('/profile', ...)->name('profile');"
+Application,"Paano gumawa ng controller?",,"php artisan make:controller PostController"
