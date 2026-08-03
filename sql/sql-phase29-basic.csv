@@ -1,0 +1,5 @@
+Application,"Paano mag-traverse ng employee hierarchy?",,"WITH RECURSIVE org AS (SELECT id, name, manager_id FROM employees WHERE manager_id IS NULL UNION ALL SELECT e.id, e.name, e.manager_id FROM employees e JOIN org ON e.manager_id = org.id) SELECT * FROM org;"
+Application,"Paano maghanap ng lahat ng descendants?",,"Gamitin ang recursive CTE na nagsisimula sa parent at sumasali sa children."
+Application,"Paano mag-traverse ng graph?",,"Gamitin ang recursive CTE na may UNION ALL at edge table."
+Application,"Paano i-prevent ang infinite loop sa recursion?",,"I-limit ang recursion depth o i-track ang visited nodes."
+Application,"Paano makuha ang level ng bawat node?",,"I-add ang level column sa recursive CTE at i-increment sa recursive case."

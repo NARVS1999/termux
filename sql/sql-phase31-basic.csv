@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng trigger?",,"CREATE TRIGGER log_user BEFORE INSERT ON users FOR EACH ROW EXECUTE FUNCTION log_user_fn();"
+Application,"Paano gumawa ng audit log?",,"Gumawa ng trigger na nag-i-insert sa audit table kapag may update."
+Application,"Paano gumawa ng trigger function?",,"CREATE FUNCTION log_user_fn() RETURNS TRIGGER AS $$ BEGIN ... END $$ LANGUAGE plpgsql;"
+Application,"Paano i-prevent ang delete gamit ang trigger?",,"Mag-throw ng exception sa BEFORE DELETE trigger."
+Application,"Paano i-drop ang trigger?",,"DROP TRIGGER log_user ON users;"

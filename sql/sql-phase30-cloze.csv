@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::stored procedure}} ay isang naka-save na grupo ng SQL statements.",,stored procedure
+Cloze,"Ang {{c1::function}} ay nagre-return ng value at maaaring gamitin sa queries.",,function
+Cloze,"Ang {{c1::PL/SQL}} ay ang procedural language ng Oracle.",,PL/SQL
+Cloze,"Ang {{c1::permissions}} ay ang control kung sino ang maaaring mag-run ng procedure.",,permissions
+Cloze,"Ang {{c1::CREATE PROCEDURE}} ay gumagawa ng bagong stored procedure.",,CREATE PROCEDURE
+Cloze,"Ang {{c1::CREATE FUNCTION}} ay gumagawa ng bagong function.",,CREATE FUNCTION
+Cloze,"Ang {{c1::parameter}} ng procedure ay ang input o output na tinatanggap nito.",,parameter
+Cloze,"Ang {{c1::RETURNS}} clause ng function ay tumutukoy sa return type.",,RETURNS clause
+Cloze,"Ang {{c1::SECURITY INVOKER}} ay nagrerepresent ng procedure gamit ang permissions ng caller.",,SECURITY INVOKER
+Cloze,"Ang {{c1::GRANT}} ay nagbibigay ng permission sa procedure o function.",,GRANT

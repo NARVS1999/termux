@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::CTE}} ay ang common table expression na gumagamit ng WITH clause.",,CTE
+Cloze,"Ang {{c1::WITH clause}} ay nagde-defines ng named temporary result sets.",,WITH clause
+Cloze,"Ang {{c1::readability}} ay ang pagpapalinaw ng complex queries gamit ang CTE.",,readability
+Cloze,"Ang {{c1::recursion}} ay ang kakayahan ng CTE na tumukoy sa sarili nito.",,recursion
+Cloze,"Ang {{c1::named CTE}} ay ang CTE na may pangalan at ginagamit sa pangunahing query.",,named CTE
+Cloze,"Ang {{c1::multiple CTEs}} ay ang pag-declare ng ilang CTEs sa isang WITH clause.",,multiple CTEs
+Cloze,"Ang {{c1::CTE scope}} ay limitado sa iisang query statement.",,CTE scope
+Cloze,"Ang {{c1::modifiable CTE}} sa PostgreSQL ay maaaring may INSERT o UPDATE.",,modifiable CTE
+Cloze,"Ang {{c1::inline CTE}} ay ang CTE na isang beses lang ginagamit.",,inline CTE
+Cloze,"Ang {{c1::recursive CTE}} ay gumagamit ng UNION ALL sa sarili nito.",,recursive CTE

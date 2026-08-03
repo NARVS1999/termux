@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng view?",,"CREATE VIEW active_users AS SELECT * FROM users WHERE active = 1;"
+Application,"Paano mag-query ng view?",,"SELECT * FROM active_users;"
+Application,"Paano gumawa ng materialized view?",,"CREATE MATERIALIZED VIEW sales_summary AS SELECT user_id, SUM(amount) FROM orders GROUP BY user_id;"
+Application,"Paano i-refresh ang materialized view?",,"REFRESH MATERIALIZED VIEW sales_summary;"
+Application,"Paano i-drop ang view?",,"DROP VIEW active_users;"

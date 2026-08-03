@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::recursive query}} ay isang query na tumutukoy sa sarili nito.",,recursive query
+Cloze,"Ang {{c1::base case}} ay ang panimulang row ng recursive query.",,base case
+Cloze,"Ang {{c1::recursive case}} ay ang bahagi na nagpapalawak ng resulta.",,recursive case
+Cloze,"Ang {{c1::hierarchy}} ay ang tree structure na kayang i-traverse ng recursive query.",,hierarchy
+Cloze,"Ang {{c1::graph traversal}} ay ang paglalakbay sa mga node ng graph.",,graph traversal
+Cloze,"Ang {{c1::UNION ALL}} sa recursive CTE ay pinagsasama ang base at recursive results.",,UNION ALL
+Cloze,"Ang {{c1::RECURSIVE}} keyword ay nagma-mark ng recursive CTE.",,RECURSIVE keyword
+Cloze,"Ang {{c1::termination}} ay ang pagtigil ng recursion kapag walang bagong rows.",,termination
+Cloze,"Ang {{c1::cycle}} sa recursion ay nangyayari kapag may loop sa data.",,cycle
+Cloze,"Ang {{c1::level}} ay ang depth ng bawat node sa traversal.",,level

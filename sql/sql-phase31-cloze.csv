@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::trigger}} ay awtomatikong tumatakbo base sa events ng table.",,trigger
+Cloze,"Ang {{c1::event-driven logic}} ay ang logic na na-trigger ng INSERT, UPDATE, o DELETE.",,event-driven logic
+Cloze,"Ang {{c1::auditing}} ay ang pagtatala ng mga changes sa data gamit ang triggers.",,auditing
+Cloze,"Ang {{c1::constraint}} na gawa sa trigger ay ang pag-validate ng data sa insert o update.",,constraint
+Cloze,"Ang {{c1::BEFORE trigger}} ay tumatakbo bago ang event.",,BEFORE trigger
+Cloze,"Ang {{c1::AFTER trigger}} ay tumatakbo pagkatapos ng event.",,AFTER trigger
+Cloze,"Ang {{c1::trigger function}} ay ang function na ina-call ng trigger.",,trigger function
+Cloze,"Ang {{c1::NEW}} ay tumutukoy sa bagong row ng INSERT o UPDATE.",,NEW
+Cloze,"Ang {{c1::OLD}} ay tumutukoy sa lumang row ng UPDATE o DELETE.",,OLD
+Cloze,"Ang {{c1::trigger event}} ay ang INSERT, UPDATE, o DELETE na nag-trigger nito.",,trigger event

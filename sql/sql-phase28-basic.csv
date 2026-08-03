@@ -1,0 +1,5 @@
+Application,"Paano gumamit ng CTE?",,"WITH active_users AS (SELECT * FROM users WHERE active = 1) SELECT * FROM active_users;"
+Application,"Paano gumamit ng maraming CTEs?",,"WITH a AS (...), b AS (...) SELECT * FROM a JOIN b ON ...;"
+Application,"Paano i-rewrite ang subquery bilang CTE?",,"I-extract ang subquery at i-name ito sa WITH clause."
+Application,"Paano gumamit ng CTE para sa aggregation?",,"WITH sales AS (SELECT user_id, SUM(amount) AS total FROM orders GROUP BY user_id) SELECT * FROM sales WHERE total > 100;"
+Application,"Paano mag-delete gamit ang CTE sa PostgreSQL?",,"WITH old AS (SELECT id FROM orders WHERE created_at < '2020-01-01') DELETE FROM orders WHERE id IN (SELECT id FROM old);"

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::view}} ay isang saved query na parang virtual na table.",,view
+Cloze,"Ang {{c1::simple view}} ay isang view na mula sa iisang table.",,simple view
+Cloze,"Ang {{c1::complex view}} ay isang view na may joins at aggregates.",,complex view
+Cloze,"Ang {{c1::materialized view}} ay ang stored result ng view query.",,materialized view
+Cloze,"Ang {{c1::permissions}} ng view ay kumokontrol sa access sa data.",,permissions
+Cloze,"Ang {{c1::CREATE VIEW}} ay gumagawa ng bagong view.",,CREATE VIEW
+Cloze,"Ang {{c1::updatable view}} ay ang view na pwedeng i-update sa ilang databases.",,updatable view
+Cloze,"Ang {{c1::security}} ng view ay pumipigil sa direktang access sa underlying tables.",,security
+Cloze,"Ang {{c1::refreshing}} ay ang pag-update ng materialized view data.",,refreshing
+Cloze,"Ang {{c1::view definition}} ay ang query na bumubuo sa view.",,view definition

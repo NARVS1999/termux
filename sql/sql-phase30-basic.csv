@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng stored procedure?",,"CREATE PROCEDURE get_user(IN uid INT) BEGIN SELECT * FROM users WHERE id = uid; END;"
+Application,"Paano gumawa ng function?",,"CREATE FUNCTION double_value(x INT) RETURNS INT AS $$ SELECT x * 2 $$ LANGUAGE SQL;"
+Application,"Paano mag-call ng function?",,"SELECT double_value(5);"
+Application,"Paano mag-call ng procedure?",,"CALL get_user(1);"
+Application,"Paano mag-grant ng permission?",,"GRANT EXECUTE ON PROCEDURE get_user TO app_user;"
