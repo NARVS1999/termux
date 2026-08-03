@@ -60,11 +60,11 @@
 
 ## Testing
 
-- [ ] **Phase 36** — PHPUnit setup: config, environment, databases
-- [ ] **Phase 37** — Feature tests: HTTP, auth, database transactions
-- [ ] **Phase 38** — Factories & seeders: model factories, test data
-- [ ] **Phase 39** — Mocking & fakes: queues, mail, events
-- [ ] **Phase 40** — Test organization: suites, helpers, coverage
+- [x] **Phase 36** — PHPUnit setup: config, environment, databases
+- [x] **Phase 37** — Feature tests: HTTP, auth, database transactions
+- [x] **Phase 38** — Factories & seeders: model factories, test data
+- [x] **Phase 39** — Mocking & fakes: queues, mail, events
+- [x] **Phase 40** — Test organization: suites, helpers, coverage
 
 ## Queues, Jobs & Events
 
