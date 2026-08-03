@@ -1,0 +1,5 @@
+Application,"Paano mag-filter ng groups na may higit sa 5 orders?",,"SELECT user_id, COUNT(*) FROM orders GROUP BY user_id HAVING COUNT(*) > 5;"
+Application,"Paano mag-filter ng groups base sa total amount?",,"SELECT user_id, SUM(amount) FROM orders GROUP BY user_id HAVING SUM(amount) > 1000;"
+Application,"Paano mag-filter ng groups base sa average?",,"SELECT category, AVG(price) FROM products GROUP BY category HAVING AVG(price) > 50;"
+Application,"Paano i-combine ang WHERE at HAVING?",,"SELECT user_id, COUNT(*) FROM orders WHERE status = 'paid' GROUP BY user_id HAVING COUNT(*) > 3;"
+Application,"Paano mag-filter ng groups na may 2 o higit pang items?",,"SELECT order_id, COUNT(*) FROM order_items GROUP BY order_id HAVING COUNT(*) >= 2;"

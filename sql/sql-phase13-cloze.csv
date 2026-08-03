@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::HAVING}} clause ay nagfi-filter ng mga groups base sa condition.",,HAVING
+Cloze,"Ang {{c1::group filter}} ay ang filter na ina-apply sa mga groups imbes na rows.",,group filter
+Cloze,"Ang {{c1::aggregate comparison}} ay ang pag-compare ng aggregate value sa HAVING.",,aggregate comparison
+Cloze,"Ang {{c1::WHERE vs HAVING}} ay ang WHERE para sa rows at HAVING para sa groups.",,WHERE vs HAVING
+Cloze,"Ang {{c1::HAVING COUNT}} ay nagfi-filter ng groups base sa bilang ng rows.",,HAVING COUNT
+Cloze,"Ang {{c1::alias}} ng aggregate ay maaaring gamitin sa HAVING sa ilang databases.",,alias
+Cloze,"Ang {{c1::grouped condition}} ay ang condition na may aggregate function.",,grouped condition
+Cloze,"Ang {{c1::HAVING SUM}} ay nagfi-filter ng groups base sa total.",,HAVING SUM
+Cloze,"Ang {{c1::filtering order}} ay ang WHERE bago ang GROUP BY at HAVING pagkatapos.",,filtering order
+Cloze,"Ang {{c1::non-aggregate condition}} ay dapat ilagay sa WHERE imbes na HAVING.",,non-aggregate condition

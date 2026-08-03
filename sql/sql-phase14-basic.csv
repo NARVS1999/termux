@@ -1,0 +1,5 @@
+Application,"Paano mag-count ng kabuuang users?",,"SELECT COUNT(*) FROM users;"
+Application,"Paano mag-compute ng average price?",,"SELECT AVG(price) FROM products;"
+Application,"Paano makuha ang pinakamataas na price?",,"SELECT MAX(price) FROM products;"
+Application,"Paano mag-count ng unique cities?",,"SELECT COUNT(DISTINCT city) FROM users;"
+Application,"Paano mag-sum ng kabuuang amount?",,"SELECT SUM(amount) FROM orders;"

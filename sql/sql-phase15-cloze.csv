@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::window function}} ay nagko-compute ng value base sa isang set ng rows nang hindi nagko-collapse.",,window function
+Cloze,"Ang {{c1::PARTITION BY}} ay naghahati ng rows sa mga window partitions.",,PARTITION BY
+Cloze,"Ang {{c1::window ORDER BY}} ay nag-aayos ng rows sa loob ng bawat partition.",,window ORDER BY
+Cloze,"Ang {{c1::frame}} ay ang range ng rows na ginagamit ng window function.",,frame
+Cloze,"Ang {{c1::OVER()}} clause ay tumutukoy sa window definition.",,OVER() clause
+Cloze,"Ang {{c1::ROWS BETWEEN}} ay tumutukoy sa frame boundaries.",,ROWS BETWEEN
+Cloze,"Ang {{c1::UNBOUNDED PRECEDING}} ay nagsisimula ang frame sa unang row ng partition.",,UNBOUNDED PRECEDING
+Cloze,"Ang {{c1::CURRENT ROW}} ay ang kasalukuyang row sa frame.",,CURRENT ROW
+Cloze,"Ang {{c1::running total}} ay ang cumulative sum gamit ang window function.",,running total
+Cloze,"Ang {{c1::window alias}} ay ang named window gamit ang WINDOW clause.",,window alias

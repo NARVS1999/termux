@@ -1,0 +1,5 @@
+Application,"Paano mag-compute ng running total?",,"SELECT id, amount, SUM(amount) OVER (ORDER BY id) AS running_total FROM orders;"
+Application,"Paano mag-compute ng average per partition?",,"SELECT name, dept, salary, AVG(salary) OVER (PARTITION BY dept) FROM employees;"
+Application,"Paano mag-compute ng moving average?",,"SELECT date, price, AVG(price) OVER (ORDER BY date ROWS BETWEEN 2 PRECEDING AND CURRENT ROW) FROM stock_prices;"
+Application,"Paano mag-lag ng previous value?",,"SELECT id, amount, LAG(amount) OVER (ORDER BY id) FROM orders;"
+Application,"Paano mag-lead ng susunod na value?",,"SELECT id, amount, LEAD(amount) OVER (ORDER BY id) FROM orders;"

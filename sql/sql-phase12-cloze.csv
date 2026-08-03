@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::GROUP BY}} ay nag-grupo ng rows base sa isang column o expression.",,GROUP BY
+Cloze,"Ang {{c1::grouping}} ay ang pagpapangkat ng rows na may parehong values.",,grouping
+Cloze,"Ang {{c1::grouping sets}} ay nagbibigay ng maraming grouping levels sa isang query.",,grouping sets
+Cloze,"Ang {{c1::ROLLUP}} ay nagdadagdag ng subtotal at grand total rows sa grouping.",,ROLLUP
+Cloze,"Ang {{c1::CUBE}} ay nag-generate ng lahat ng kombinasyon ng groupings.",,CUBE
+Cloze,"Ang {{c1::grouped column}} ay ang column na nakalista sa GROUP BY.",,grouped column
+Cloze,"Ang {{c1::aggregate}} sa SELECT ay dapat na may katugmang GROUP BY.",,aggregate
+Cloze,"Ang {{c1::NULL grouping}} ay ang group ng mga NULL values sa GROUP BY.",,NULL grouping
+Cloze,"Ang {{c1::multi-column GROUP BY}} ay nag-grupo base sa ilang columns.",,multi-column GROUP BY
+Cloze,"Ang {{c1::GROUPING SETS}} syntax ay ginagamit sa PostgreSQL at SQL Server.",,GROUPING SETS

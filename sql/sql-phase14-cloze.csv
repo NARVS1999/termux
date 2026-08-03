@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::COUNT}} ay nagbibilang ng bilang ng rows o values.",,COUNT
+Cloze,"Ang {{c1::SUM}} ay nagdadagdag ng lahat ng numeric values.",,SUM
+Cloze,"Ang {{c1::AVG}} ay nagko-compute ng average ng numeric values.",,AVG
+Cloze,"Ang {{c1::MIN}} ay nagre-return ng pinakamaliit na value.",,MIN
+Cloze,"Ang {{c1::MAX}} ay nagre-return ng pinakamalaking value.",,MAX
+Cloze,"Ang {{c1::DISTINCT aggregate}} ay nag-a-aggregate ng unique values lamang.",,DISTINCT aggregate
+Cloze,"Ang {{c1::COUNT(*)}} ay nagbibilang ng lahat ng rows kasama ang NULL.",,COUNT(*)
+Cloze,"Ang {{c1::COUNT(column)}} ay nagbibilang ng non-NULL values ng column.",,COUNT(column)
+Cloze,"Ang {{c1::aggregate function}} ay nagre-return ng iisang value mula sa grupo ng rows.",,aggregate function
+Cloze,"Ang {{c1::NULL handling}} ng aggregates ay ang pag-ignore ng NULL sa SUM at AVG.",,NULL handling

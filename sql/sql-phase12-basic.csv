@@ -1,0 +1,5 @@
+Application,"Paano mag-count ng orders per user?",,"SELECT user_id, COUNT(*) FROM orders GROUP BY user_id;"
+Application,"Paano mag-group gamit ang dalawang columns?",,"SELECT category, status, COUNT(*) FROM products GROUP BY category, status;"
+Application,"Paano mag-add ng subtotals gamit ang ROLLUP?",,"SELECT category, SUM(price) FROM products GROUP BY ROLLUP(category);"
+Application,"Paano mag-group gamit ang expression?",,"SELECT DATE(created_at), COUNT(*) FROM orders GROUP BY DATE(created_at);"
+Application,"Paano mag-group ng lahat ng kombinasyon gamit ang CUBE?",,"SELECT category, status, COUNT(*) FROM products GROUP BY CUBE(category, status);"

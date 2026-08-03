@@ -1,0 +1,5 @@
+Application,"Paano mag-number ng rows per partition?",,"SELECT id, ROW_NUMBER() OVER (PARTITION BY user_id ORDER BY created_at) FROM orders;"
+Application,"Paano mag-rank ng users ayon sa points?",,"SELECT name, RANK() OVER (ORDER BY points DESC) FROM users;"
+Application,"Paano gumamit ng DENSE_RANK?",,"SELECT name, DENSE_RANK() OVER (ORDER BY points DESC) FROM users;"
+Application,"Paano mag-hiwa ng users sa 4 na quartiles?",,"SELECT name, NTILE(4) OVER (ORDER BY points DESC) FROM users;"
+Application,"Paano makuha ang top 3 per group?",,"Gamitin ang ROW_NUMBER() na may PARTITION BY at i-filter sa outer query."

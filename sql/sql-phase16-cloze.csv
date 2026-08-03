@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::ROW_NUMBER}} ay nagbibigay ng unique na sequential number sa bawat row.",,ROW_NUMBER
+Cloze,"Ang {{c1::RANK}} ay nagbibigay ng rank na may gaps para sa ties.",,RANK
+Cloze,"Ang {{c1::DENSE_RANK}} ay nagbibigay ng rank na walang gaps para sa ties.",,DENSE_RANK
+Cloze,"Ang {{c1::NTILE}} ay naghahati ng rows sa N bilang ng buckets.",,NTILE
+Cloze,"Ang {{c1::ranking function}} ay nag-a-assign ng rank sa mga rows sa isang window.",,ranking function
+Cloze,"Ang {{c1::tie}} ay ang mga rows na may parehong value sa ORDER BY ng window.",,tie
+Cloze,"Ang {{c1::gaps}} sa RANK ay nangyayari kapag may ties.",,gaps
+Cloze,"Ang {{c1::percentile}} ay ang posisyon ng value sa distribution.",,percentile
+Cloze,"Ang {{c1::PERCENT_RANK}} ay nagre-return ng relative rank ng row.",,PERCENT_RANK
+Cloze,"Ang {{c1::bucket}} ay ang grupo na kinukumpilan ng NTILE.",,bucket
