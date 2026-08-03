@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng anonymous component?",,"Gumawa ng blade file sa resources/views/components/ folder."
+Application,"Paano i-render ang component sa view?",,"<x-alert type=\"error\" message=\"Invalid input\" />"
+Application,"Paano mag-pass ng slot content sa component?",,"<x-card>Content dito</x-card>"
+Application,"Paano mag-declare ng props sa component class?",,"public string $message;"
+Application,"Paano gumamit ng named slot?",,"<x-slot name=\"title\">Title</x-slot>"

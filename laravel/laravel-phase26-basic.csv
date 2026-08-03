@@ -1,0 +1,5 @@
+Application,"Paano magdagdag ng CSRF token sa form?",,"I-add ang @csrf sa loob ng form tag."
+Application,"Paano ipakita ang old value ng input field?",,"value=\"{{ old('email') }}\""
+Application,"Paano ipakita ang error ng isang field?",,"@error('email') <span>{{ $message }}</span> @enderror"
+Application,"Paano gumamit ng PUT method sa form?",,"I-add ang @method('PUT') sa form."
+Application,"Paano i-check kung may validation errors?",,"I-check ang $errors->any() sa view."

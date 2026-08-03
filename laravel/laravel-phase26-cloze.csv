@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::CSRF token}} ay pinoprotektahan ang forms mula sa cross-site request forgery attacks.",,CSRF token
+Cloze,"Ang {{c1::@csrf}} directive ay nag-i-embed ng CSRF token sa form.",,@csrf directive
+Cloze,"Ang {{c1::old input}} ay ang dating submitted value na ipinapakita pagkatapos ng validation error.",,old input
+Cloze,"Ang {{c1::old()}} helper ay nagre-return ng dating input value para sa isang field.",,old() helper
+Cloze,"Ang {{c1::validation errors}} ay ipinapakita sa view gamit ang $errors variable.",,validation errors
+Cloze,"Ang {{c1::@error}} directive ay nagpapakita ng error message para sa isang specific field.",,@error directive
+Cloze,"Ang {{c1::form method}} sa Blade ay gumagamit ng @method() para sa PUT at DELETE.",,form method
+Cloze,"Ang {{c1::action attribute}} ng form ay tumutukoy kung saang route isusubmit ang form.",,action attribute
+Cloze,"Ang {{c1::value attribute}} ay nagse-set ng default value ng isang form field.",,value attribute
+Cloze,"Ang {{c1::label}} ay nagbibigay ng text description sa isang form field.",,label

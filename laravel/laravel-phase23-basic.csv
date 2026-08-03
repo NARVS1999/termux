@@ -1,0 +1,5 @@
+Application,"Paano mag-define ng layout sa Blade?",,"Gumawa ng app.blade.php na may @yield('content')."
+Application,"Paano mag-extend ng layout sa isang view?",,"@extends('layouts.app')"
+Application,"Paano mag-define ng section content?",,"@section('content') ... @endsection"
+Application,"Paano mag-include ng partial?",,"@include('partials.header')"
+Application,"Paano mag-include ng partial na may data?",,"@include('partials.card', ['post' => $post])"

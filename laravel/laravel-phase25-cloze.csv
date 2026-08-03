@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::directive}} ay isang Blade syntax na nagsisimula sa @ sign.",,directive
+Cloze,"Ang {{c1::@if}} directive ay nagko-conditional na nagpapakita ng content.",,@if directive
+Cloze,"Ang {{c1::@foreach}} directive ay nag-i-iterate sa isang array o collection.",,@foreach directive
+Cloze,"Ang {{c1::@auth}} directive ay nagpapakita ng content para sa mga logged-in users.",,@auth directive
+Cloze,"Ang {{c1::@guest}} directive ay nagpapakita ng content para sa mga hindi naka-login.",,@guest directive
+Cloze,"Ang {{c1::@for}} directive ay nag-i-iterate gamit ang isang counter.",,@for directive
+Cloze,"Ang {{c1::@while}} directive ay nag-uulit ng content habang true ang condition.",,@while directive
+Cloze,"Ang {{c1::@forelse}} directive ay may kasamang @empty block para sa walang laman na collection.",,@forelse directive
+Cloze,"Ang {{c1::@unless}} directive ay nagpapakita ng content kapag false ang condition.",,@unless directive
+Cloze,"Ang {{c1::@switch}} directive ay nagbibigay ng multiple case na conditional rendering.",,@switch directive

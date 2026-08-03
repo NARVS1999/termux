@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::Blade template}} ay ang templating engine ng Laravel para sa mga views.",,Blade template
+Cloze,"Ang {{c1::layout}} ay ang base template na pinagkukunan ng ibang views.",,layout
+Cloze,"Ang {{c1::section}} ay isang block ng content sa layout na pwede i-override ng child view.",,section
+Cloze,"Ang {{c1::yield}} directive ay nagpapakita ng content ng isang section sa layout.",,yield directive
+Cloze,"Ang {{c1::@extends}} directive ay nagsasabi sa view na gumamit ng isang layout.",,@extends directive
+Cloze,"Ang {{c1::@include}} directive ay nag-i-embed ng isang partial view sa loob ng isa pang view.",,@include directive
+Cloze,"Ang {{c1::@section}} directive ay nagde-defines ng content para sa isang section.",,@section directive
+Cloze,"Ang {{c1::template inheritance}} ay nagpapahintulot sa child views na mag-override ng parent layout sections.",,template inheritance
+Cloze,"Ang {{c1::partial}} ay isang reusable view snippet na isinasama sa ibang views.",,partial
+Cloze,"Ang {{c1::component slot}} ay placeholder sa component kung saan nilalagay ang content.",,component slot

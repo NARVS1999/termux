@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::Blade component}} ay reusable UI block na may sariling template at logic.",,Blade component
+Cloze,"Ang {{c1::class-based component}} ay may kalakip na PHP class para sa logic.",,class-based component
+Cloze,"Ang {{c1::anonymous component}} ay isang component na tinutukoy lang ng template file.",,anonymous component
+Cloze,"Ang {{c1::component attributes}} ay mga data na ipinapasa sa component mula sa parent view.",,component attributes
+Cloze,"Ang {{c1::slot}} ay naglalaman ng content na ipinasok sa pagitan ng component tags.",,slot
+Cloze,"Ang {{c1::x- prefix}} ay ginagamit para i-render ang Blade components sa templates.",,x- prefix
+Cloze,"Ang {{c1::props}} ay nagde-declare ng mga attributes na tinatanggap ng component.",,props
+Cloze,"Ang {{c1::default slot}} ay ang content na walang named slot na itinalaga.",,default slot
+Cloze,"Ang {{c1::named slots}} ay mga specific slots na may sariling pangalan.",,named slots
+Cloze,"Ang {{c1::component class}} ay ang PHP class na may public methods at properties para sa component.",,component class
