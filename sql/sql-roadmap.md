@@ -70,11 +70,11 @@
 
 ## SQL in Practice
 
-- [ ] **Phase 43** — Database selection: PostgreSQL, MySQL, SQLite, workloads
-- [ ] **Phase 44** — Dialect differences: syntax, functions, vendor features
-- [ ] **Phase 45** — Security: privileges, injection prevention, encryption
-- [ ] **Phase 46** — Backup & restore: dumps, point-in-time, recovery testing
-- [ ] **Phase 47** — SQL in applications: ORMs, parameterization, connection pooling
+- [x] **Phase 43** — Database selection: PostgreSQL, MySQL, SQLite, workloads
+- [x] **Phase 44** — Dialect differences: syntax, functions, vendor features
+- [x] **Phase 45** — Security: privileges, injection prevention, encryption
+- [x] **Phase 46** — Backup & restore: dumps, point-in-time, recovery testing
+- [x] **Phase 47** — SQL in applications: ORMs, parameterization, connection pooling
 
 ## Recommended Learning Path (priority order)
 
