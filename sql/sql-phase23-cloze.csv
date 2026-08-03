@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::EXPLAIN}} ay nagpapakita ng execution plan ng query.",,EXPLAIN
+Cloze,"Ang {{c1::execution plan}} ay ang hakbang na gagawin ng database para i-run ang query.",,execution plan
+Cloze,"Ang {{c1::cost}} ay ang tinatayang halaga ng pag-execute ng query.",,cost
+Cloze,"Ang {{c1::scan type}} ay tumutukoy kung paano binabasa ang table.",,scan type
+Cloze,"Ang {{c1::seq scan}} ay ang pagbabasa ng buong table nang sunod-sunod.",,seq scan
+Cloze,"Ang {{c1::index scan}} ay ang paggamit ng index para mahanap ang rows.",,index scan
+Cloze,"Ang {{c1::bitmap scan}} ay ang pagsasama ng maraming index results.",,bitmap scan
+Cloze,"Ang {{c1::EXPLAIN ANALYZE}} ay nagre-run ng query at nagpapakita ng actual performance.",,EXPLAIN ANALYZE
+Cloze,"Ang {{c1::rows estimate}} ay ang tinatayang bilang ng rows na ipoproseso.",,rows estimate
+Cloze,"Ang {{c1::plan reading}} ay ang pag-aaral ng bawat node ng execution plan.",,plan reading

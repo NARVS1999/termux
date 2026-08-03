@@ -1,0 +1,5 @@
+Application,"Paano makita ang execution plan ng query?",,"EXPLAIN SELECT * FROM users WHERE email = 'a@b.com';"
+Application,"Paano makita ang actual execution time?",,"EXPLAIN ANALYZE SELECT * FROM users;"
+Application,"Paano i-check kung gumagamit ng index ang query?",,"I-check kung index scan ang scan type sa EXPLAIN output."
+Application,"Paano i-compare ang cost ng dalawang queries?",,"I-run ang EXPLAIN sa parehong queries at i-compare ang cost."
+Application,"Paano i-detect ang full table scan?",,"Hanapin ang Seq Scan sa EXPLAIN output."

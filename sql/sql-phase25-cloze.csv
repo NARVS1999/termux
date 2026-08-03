@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::normalization}} ay ang pag-aayos ng data para maiwasan ang redundancy.",,normalization
+Cloze,"Ang {{c1::normal form}} ay ang level ng normalization ng schema.",,normal form
+Cloze,"Ang {{c1::redundancy}} ay ang pag-uulit ng parehong data sa maraming lugar.",,redundancy
+Cloze,"Ang {{c1::tradeoff}} ng normalization ay mas maraming joins para sa queries.",,tradeoff
+Cloze,"Ang {{c1::1NF}} ay nangangailangan ng atomic values at unique rows.",,1NF
+Cloze,"Ang {{c1::2NF}} ay nangangailangan ng walang partial dependency.",,2NF
+Cloze,"Ang {{c1::3NF}} ay nangangailangan ng walang transitive dependency.",,3NF
+Cloze,"Ang {{c1::BCNF}} ay ang mas mahigpit na bersyon ng 3NF.",,BCNF
+Cloze,"Ang {{c1::anomaly}} ay ang inconsistency na nangyayari sa unnormalized data.",,anomaly
+Cloze,"Ang {{c1::decomposition}} ay ang paghahati ng table sa mas maliliit na tables.",,decomposition

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::full scan}} ay ang pagbabasa ng buong table na walang index.",,full scan
+Cloze,"Ang {{c1::N+1 problem}} ay ang pag-run ng maraming queries para sa bawat row.",,N+1 problem
+Cloze,"Ang {{c1::missing index}} ay nagreresulta sa mabagal na paghahanap.",,missing index
+Cloze,"Ang {{c1::function on column}} ay pumipigil sa paggamit ng index.",,function on column
+Cloze,"Ang {{c1::sargable condition}} ay ang condition na kayang gumamit ng index.",,sargable condition
+Cloze,"Ang {{c1::non-sargable}} ay ang condition na hindi kayang gumamit ng index.",,non-sargable
+Cloze,"Ang {{c1::index abuse}} ay ang sobrang daming indexes na nakakapagpabagal ng writes.",,index abuse
+Cloze,"Ang {{c1::select star}} ay ang pagpili ng lahat ng columns na hindi kailangan.",,select star
+Cloze,"Ang {{c1::pagination pitfall}} ay ang mabagal na OFFSET sa malalaking tables.",,pagination pitfall
+Cloze,"Ang {{c1::query smell}} ay ang pattern ng query na nagpapahiwatig ng performance issue.",,query smell

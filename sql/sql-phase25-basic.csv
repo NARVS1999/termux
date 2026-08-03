@@ -1,0 +1,5 @@
+Application,"Paano mag-normalize ng table?",,"Ihiwalay ang duplicate data sa sariling tables at gumamit ng foreign keys."
+Application,"Paano i-check ang 1NF compliance?",,"Siguraduhin na atomic ang bawat value at unique ang bawat row."
+Application,"Paano i-check ang 3NF compliance?",,"Siguraduhing walang non-key column na nakadepende sa ibang non-key column."
+Application,"Paano iwasan ang update anomaly?",,"I-normalize ang schema para isang lugar lang ang pagbabago ng data."
+Application,"Paano i-balance ang normalization?",,"I-consider ang read patterns bago mag-normalize nang sobra."

@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng index?",,"CREATE INDEX idx_users_email ON users (email);"
+Application,"Paano gumawa ng composite index?",,"CREATE INDEX idx_orders_user_date ON orders (user_id, created_at);"
+Application,"Paano gumawa ng unique index?",,"CREATE UNIQUE INDEX idx_unique_email ON users (email);"
+Application,"Paano i-drop ang index?",,"DROP INDEX idx_users_email;"
+Application,"Paano i-check ang mga indexes ng table?",,"I-query ang pg_indexes (PostgreSQL) o SHOW INDEX (MySQL)."

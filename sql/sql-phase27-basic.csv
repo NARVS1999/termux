@@ -1,0 +1,5 @@
+Application,"Paano maiwasan ang N+1 problem?",,"I-load ang mga relationships nang sabay gamit ang JOIN o eager loading."
+Application,"Paano i-fix ang function on column?",,"I-rewrite ang WHERE DATE(created_at) = ... sa range condition."
+Application,"Paano mag-iwas sa full scan?",,"Magdagdag ng index sa columns na ginagamit sa WHERE."
+Application,"Paano i-optimize ang pagination?",,"Gumamit ng keyset pagination imbes na malaking OFFSET."
+Application,"Paano i-rewrite ang non-sargable condition?",,"Iwasan ang LIKE '%value%' at function sa column sa WHERE."

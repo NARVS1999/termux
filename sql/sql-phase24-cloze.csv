@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::query rewriting}} ay ang pagbabago ng query para mas mabilis i-execute.",,query rewriting
+Cloze,"Ang {{c1::join order}} ay ang sequence ng pag-join ng mga tables.",,join order
+Cloze,"Ang {{c1::subquery unnesting}} ay ang pag-convert ng subquery sa join.",,subquery unnesting
+Cloze,"Ang {{c1::simplification}} ay ang pagbabawas ng mga redundant na bahagi ng query.",,simplification
+Cloze,"Ang {{c1::query optimizer}} ay awtomatikong nagre-rewrite ng queries.",,query optimizer
+Cloze,"Ang {{c1::flattening}} ay ang pag-alis ng nested subqueries.",,flattening
+Cloze,"Ang {{c1::redundant condition}} ay ang condition na hindi kailangan sa query.",,redundant condition
+Cloze,"Ang {{c1::pushdown}} ay ang paglipat ng filter sa mas mababang bahagi ng plan.",,pushdown
+Cloze,"Ang {{c1::rewritten plan}} ay ang pinagbuting execution plan ng optimizer.",,rewritten plan
+Cloze,"Ang {{c1::equivalence}} ay ang pagpapatunay na magkapareho ang resulta ng dalawang queries.",,equivalence

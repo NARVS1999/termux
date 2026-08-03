@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::denormalization}} ay ang pagdodoble ng data para mapabilis ang reads.",,denormalization
+Cloze,"Ang {{c1::duplication}} ay ang pag-imbak ng parehong data sa maraming tables.",,duplication
+Cloze,"Ang {{c1::materialization}} ay ang pag-iimbak ng computed results sa table.",,materialization
+Cloze,"Ang {{c1::denormalized schema}} ay nagre-reduce ng joins sa queries.",,denormalized schema
+Cloze,"Ang {{c1::materialized view}} ay ang stored result ng query na na-update periodically.",,materialized view
+Cloze,"Ang {{c1::read performance}} ay ang bilis ng mga read queries.",,read performance
+Cloze,"Ang {{c1::write complexity}} ay ang dagdag na trabaho sa pag-update ng duplicated data.",,write complexity
+Cloze,"Ang {{c1::summary table}} ay nag-iimbak ng pre-computed aggregates.",,summary table
+Cloze,"Ang {{c1::cache column}} ay ang duplicated value para maiwasan ang join.",,cache column
+Cloze,"Ang {{c1::consistency}} ay ang panganib ng denormalization kapag may duplication.",,consistency

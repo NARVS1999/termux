@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::index}} ay nagpapabilis ng paghahanap sa table.",,index
+Cloze,"Ang {{c1::index type}} ay tumutukoy sa uri ng index tulad ng B-tree o hash.",,index type
+Cloze,"Ang {{c1::tradeoff}} ng index ay mas mabilis na read pero mas mabagal na write.",,tradeoff
+Cloze,"Ang {{c1::column order}} sa composite index ay mahalaga sa performance.",,column order
+Cloze,"Ang {{c1::B-tree index}} ay ang default na index type para sa equality at range queries.",,B-tree index
+Cloze,"Ang {{c1::unique index}} ay pumipigil sa duplicate values at nagpapabilis ng lookup.",,unique index
+Cloze,"Ang {{c1::composite index}} ay index sa maraming columns.",,composite index
+Cloze,"Ang {{c1::leftmost prefix}} ay ang rule na dapat magsimula sa unang column ng index.",,leftmost prefix
+Cloze,"Ang {{c1::covering index}} ay naglalaman ng lahat ng columns na kailangan ng query.",,covering index
+Cloze,"Ang {{c1::index maintenance}} ay ang overhead ng pag-update ng index sa bawat write.",,index maintenance

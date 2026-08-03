@@ -1,0 +1,5 @@
+Application,"Paano mag-denormalize para sa dashboard?",,"Mag-create ng summary table na may pre-computed counts at sums."
+Application,"Paano gumawa ng materialized view?",,"CREATE MATERIALIZED VIEW daily_sales AS SELECT DATE(created_at), SUM(amount) FROM orders GROUP BY DATE(created_at);"
+Application,"Paano i-refresh ang materialized view?",,"REFRESH MATERIALIZED VIEW daily_sales;"
+Application,"Paano mag-reduce ng joins?",,"I-duplicate ang frequently accessed column sa pangunahing table."
+Application,"Paano i-maintain ang consistency sa denormalized data?",,"I-update ang duplicated data sa parehong transaction o gamitin ang triggers."

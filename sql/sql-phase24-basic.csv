@@ -1,0 +1,5 @@
+Application,"Paano i-rewrite ang subquery para mas mabilis?",,"Palitan ang IN subquery ng JOIN kung angkop."
+Application,"Paano i-simplify ang query?",,"Tanggalin ang hindi kinakailangang DISTINCT at redundant conditions."
+Application,"Paano i-optimize ang join order?",,"I-join muna ang mas maliit na tables at i-filter nang maaga."
+Application,"Paano i-convert ang EXISTS sa JOIN?",,"Palitan ang EXISTS subquery ng INNER JOIN sa tamang context."
+Application,"Paano i-check ang pinagbuting plan?",,"I-compare ang EXPLAIN plans bago at pagkatapos i-rewrite."
