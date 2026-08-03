@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::controller}} ay nag-o-organize ng request handling logic sa mga methods.",,controller
+Cloze,"Ang {{c1::action}} ay isang public method sa controller na nagha-handle ng isang request.",,action
+Cloze,"Ang {{c1::dependency injection}} ay nagpapasa ng dependencies sa controller methods o constructors.",,dependency injection
+Cloze,"Ang {{c1::response}} ay ang ibinabalik ng controller action sa client.",,response
+Cloze,"Ang {{c1::type-hinted dependency}} sa controller method ay awtomatikong nireresolve ng container.",,type-hinted dependency
+Cloze,"Ang {{c1::single action controller}} ay isang controller na may isang __invoke method.",,single action controller
+Cloze,"Ang {{c1::resource controller}} ay nagbibigay ng CRUD methods base sa RESTful conventions.",,resource controller
+Cloze,"Ang {{c1::redirect}} ay isang response na nagdadala sa user sa ibang URL.",,redirect
+Cloze,"Ang {{c1::JSON response}} ay nagre-return ng data sa JSON format para sa APIs.",,JSON response
+Cloze,"Ang {{c1::view response}} ay nagre-return ng rendered Blade template.",,view response

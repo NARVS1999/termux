@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::composer create-project}} ay ang command na nag-install ng bagong Laravel application.",,composer create-project
+Cloze,"Ang {{c1::Laravel installer}} ay isang tool na gumagawa ng bagong Laravel project gamit ang laravel new command.",,Laravel installer
+Cloze,"Ang {{c1::server requirements}} ng Laravel ay kinabibilangan ng PHP version, extensions, at Composer.",,server requirements
+Cloze,"Ang {{c1::application key}} ay ang random string sa .env na nag-e-encrypt ng data at sessions.",,application key
+Cloze,"Ang {{c1::.env}} ay ang file na nag-iimbak ng environment-specific configuration ng application.",,.env
+Cloze,"Ang {{c1::storage permissions}} ay kailangan para makapag-write ang application sa storage at bootstrap folders.",,storage permissions
+Cloze,"Ang {{c1::debug mode}} ay nagpapakita ng error details kapag naka-ON sa .env.",,debug mode
+Cloze,"Ang {{c1::version constraints}} sa composer ay tumutukoy kung anong Laravel version ang mai-install.",,version constraints
+Cloze,"Ang {{c1::skeleton}} ay ang default project structure na nalilikha kapag nag-install ng Laravel.",,skeleton
+Cloze,"Ang {{c1::herd}} ay isang local development environment tool para sa Laravel at PHP projects.",,herd

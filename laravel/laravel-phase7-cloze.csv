@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::app directory}} ay naglalaman ng core code tulad ng controllers, models, at services.",,app directory
+Cloze,"Ang {{c1::routes directory}} ay naglalaman ng mga route definitions ng application.",,routes directory
+Cloze,"Ang {{c1::config directory}} ay naglalaman ng mga configuration files ng application.",,config directory
+Cloze,"Ang {{c1::resources directory}} ay naglalaman ng views, assets, at language files.",,resources directory
+Cloze,"Ang {{c1::database directory}} ay naglalaman ng migrations, seeders, at factories.",,database directory
+Cloze,"Ang {{c1::bootstrap directory}} ay naglalaman ng app bootstrapping at service provider cache.",,bootstrap directory
+Cloze,"Ang {{c1::public directory}} ay ang web root na naglalaman ng index.php at assets.",,public directory
+Cloze,"Ang {{c1::artisan}} ay ang command-line tool ng Laravel para sa mga management tasks.",,artisan
+Cloze,"Ang {{c1::service providers}} ay ang central place kung saan nirerehistro ang application services.",,service providers
+Cloze,"Ang {{c1::migrations}} ay nagma-manage ng database schema changes gamit ang PHP files.",,migrations

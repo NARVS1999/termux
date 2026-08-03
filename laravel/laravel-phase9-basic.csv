@@ -1,0 +1,5 @@
+Application,"Paano mag-register ng GET route para sa home page?",,"Route::get('/', function () { return view('welcome'); });"
+Application,"Paano mag-define ng route na may parameter?",,"Route::get('/user/{id}', [UserController::class, 'show']);"
+Application,"Paano mag-set ng route na may pangalan?",,"Route::get('/profile', ...)->name('profile');"
+Application,"Paano mag-register ng POST route?",,"Route::post('/submit', [FormController::class, 'store']);"
+Application,"Paano mag-define ng optional route parameter?",,"Route::get('/user/{id?}', ...);"

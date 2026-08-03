@@ -1,0 +1,5 @@
+Application,"Paano i-list ang lahat ng artisan commands?",,"php artisan list"
+Application,"Paano mag-create ng controller?",,"php artisan make:controller UserController"
+Application,"Paano mag-create ng model?",,"php artisan make:model Post"
+Application,"Paano i-run ang migrations?",,"php artisan migrate"
+Application,"Saan matatagpuan ang web routes ng application?",,"Sa routes/web.php file."

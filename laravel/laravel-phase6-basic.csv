@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng bagong Laravel project?",,"composer create-project laravel/laravel blog"
+Application,"Paano i-generate ang application key?",,"php artisan key:generate"
+Application,"Paano i-check ang version ng Laravel?",,"php artisan --version"
+Application,"Paano i-start ang development server pagkatapos mag-install?",,"php artisan serve"
+Application,"Paano i-enable ang debug mode sa development?",,"I-set ang APP_DEBUG=true sa .env file."

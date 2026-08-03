@@ -1,0 +1,5 @@
+Application,"Paano mag-create ng controller?",,"php artisan make:controller PostController"
+Application,"Paano mag-inject ng Request sa controller method?",,"public function store(Request $request) { }"
+Application,"Paano mag-return ng JSON response?",,"return response()->json(['success' => true]);"
+Application,"Paano mag-return ng view mula sa controller?",,"return view('posts.index', ['posts' => $posts]);"
+Application,"Paano mag-redirect pagkatapos ng form submission?",,"return redirect()->route('posts.index');"

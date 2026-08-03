@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::service container}} ay ang central registry kung saan nirerehistro at nireresolve ang mga dependencies.",,service container
+Cloze,"Ang {{c1::binding}} ay ang pagrerehistro ng isang class o interface sa service container.",,binding
+Cloze,"Ang {{c1::resolution}} ay ang proseso ng pagkuha ng instance mula sa service container.",,resolution
+Cloze,"Ang {{c1::facade}} ay nagbibigay ng static-like interface sa mga services sa container.",,facade
+Cloze,"Ang {{c1::singleton}} ay isang binding na nagre-return ng parehong instance sa bawat resolution.",,singleton
+Cloze,"Ang {{c1::app()}} helper ay nagre-resolve ng services mula sa container.",,app() helper
+Cloze,"Ang {{c1::make()}} method ay gumagawa ng bagong instance ng isang class sa pamamagitan ng container.",,make() method
+Cloze,"Ang {{c1::contextual binding}} ay nagre-resolve ng ibang implementation depende sa consuming class.",,contextual binding
+Cloze,"Ang {{c1::service provider}} ay kung saan nirerehistro ang mga bindings sa container.",,service provider
+Cloze,"Ang {{c1::auto-resolution}} ay awtomatikong nirere-resolve ng container ang type-hinted dependencies.",,auto-resolution

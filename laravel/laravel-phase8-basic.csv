@@ -1,0 +1,5 @@
+Application,"Paano i-read ang database config value?",,"config('database.default')"
+Application,"Paano i-clear ang config cache?",,"php artisan config:clear"
+Application,"Paano mag-set ng environment variable para sa production?",,"I-edit ang .env at i-set ang APP_ENV=production."
+Application,"Paano i-expose ang env variable sa config file?",,"I-return ang env('DB_PASSWORD') mula sa config file."
+Application,"Paano mag-cache ang mga config files?",,"php artisan config:cache"

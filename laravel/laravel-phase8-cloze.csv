@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::.env}} file ay nag-iimbak ng environment-specific variables tulad ng database credentials.",,.env file
+Cloze,"Ang {{c1::env()}} helper ay nagbabasa ng value mula sa .env file.",,env() helper
+Cloze,"Ang {{c1::config caching}} ay pinapabilis ang application sa pamamagitan ng pag-cache ng config files.",,config caching
+Cloze,"Ang {{c1::secrets}} ay mga sensitive values na hindi dapat i-commit sa version control.",,secrets
+Cloze,"Ang {{c1::config()}} helper ay nag-a-access ng configuration values mula sa config files.",,config() helper
+Cloze,"Ang {{c1::APP_KEY}} ay ang secret key na ginagamit para sa encryption ng data.",,APP_KEY
+Cloze,"Ang {{c1::environment detection}} ay tinutukoy ng APP_ENV variable kung development o production.",,environment detection
+Cloze,"Ang {{c1::.env.example}} ay ang template file na naglilista ng mga kinakailangang environment variables.",,.env.example
+Cloze,"Ang {{c1::config:cache}} command ay pinagsasama ang lahat ng config files sa isang cached file.",,config:cache
+Cloze,"Ang {{c1::environment file}} ay hindi dapat i-commit sa git dahil naglalaman ito ng credentials.",,environment file

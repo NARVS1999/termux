@@ -1,0 +1,5 @@
+Application,"Paano mag-bind ng interface sa implementation?",,"$this->app->bind(PaymentGateway::class, StripeGateway::class);"
+Application,"Paano mag-resolve ng service mula sa container?",,"$userRepo = app(UserRepository::class);"
+Application,"Paano mag-register ng singleton?",,"$this->app->singleton(CacheManager::class);"
+Application,"Paano i-access ang Cache facade?",,"Cache::put('key', 'value', 60);"
+Application,"Paano mag-register ng binding sa service provider?",,"Sa register() method ng service provider, gamitin ang $this->app->bind()."
