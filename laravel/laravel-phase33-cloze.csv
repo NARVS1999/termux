@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::Sanctum}} ay ang lightweight authentication package ng Laravel para sa APIs at SPAs.",,Sanctum
+Cloze,"Ang {{c1::token authentication}} ay gumagamit ng personal access tokens para i-authenticate ang requests.",,token authentication
+Cloze,"Ang {{c1::SPA authentication}} ay gumagamit ng cookies at CSRF protection imbes na tokens.",,SPA authentication
+Cloze,"Ang {{c1::token scopes}} ay nagli-limit ng permissions ng isang API token.",,token scopes
+Cloze,"Ang {{c1::createToken()}} method ay gumagawa ng bagong personal access token para sa user.",,createToken() method
+Cloze,"Ang {{c1::Bearer token}} ay ipinapasa sa Authorization header ng request.",,Bearer token
+Cloze,"Ang {{c1::plainTextToken}} ay ang token na makikita nang isang beses lang pagkatapos i-create.",,plainTextToken
+Cloze,"Ang {{c1::token abilities}} ay tumutukoy kung anong actions ang kaya ng token.",,token abilities
+Cloze,"Ang {{c1::sanctum middleware}} ay nag-a-authenticate ng mga requests gamit ang token o session.",,sanctum middleware
+Cloze,"Ang {{c1::currentAccessToken}} ay ang token na ginagamit ng kasalukuyang request.",,currentAccessToken

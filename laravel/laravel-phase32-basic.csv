@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng API resource?",,"php artisan make:resource UserResource"
+Application,"Paano mag-return ng isang resource?",,"return new UserResource($user);"
+Application,"Paano mag-return ng collection ng resources?",,"return UserResource::collection($users);"
+Application,"Paano mag-trans-form ng paginated results?",,"return UserResource::collection(User::paginate(15));"
+Application,"Paano mag-add ng metadata sa resource?",,"I-override ang with() method sa resource class."

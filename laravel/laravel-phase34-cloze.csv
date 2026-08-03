@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::HTTP tests}} ay sumusubok ng mga API endpoints gamit ang test client.",,HTTP tests
+Cloze,"Ang {{c1::assertStatus}} ay nag-verify ng HTTP status code ng response.",,assertStatus
+Cloze,"Ang {{c1::assertJson}} ay nag-verify ng JSON structure ng response.",,assertJson
+Cloze,"Ang {{c1::getJson}} method ay nagpapadala ng GET request sa isang API endpoint.",,getJson method
+Cloze,"Ang {{c1::postJson}} method ay nagpapadala ng POST request na may JSON payload.",,postJson method
+Cloze,"Ang {{c1::assertOk}} ay nag-verify ng 200 status code.",,assertOk
+Cloze,"Ang {{c1::pagination test}} ay nag-verify ng paginated API response structure.",,pagination test
+Cloze,"Ang {{c1::assertJsonCount}} ay nag-verify ng bilang ng items sa JSON response.",,assertJsonCount
+Cloze,"Ang {{c1::actingAs}} method ay nag-a-authenticate ng test request bilang isang user.",,actingAs method
+Cloze,"Ang {{c1::assertJsonPath}} ay nag-verify ng value sa isang specific JSON path.",,assertJsonPath

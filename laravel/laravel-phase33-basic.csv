@@ -1,0 +1,5 @@
+Application,"Paano mag-install ng Sanctum?",,"composer require laravel/sanctum"
+Application,"Paano gumawa ng token para sa user?",,"$user->createToken('api-token')->plainTextToken;"
+Application,"Paano mag-pass ng token sa request?",,"Authorization: Bearer <token> header."
+Application,"Paano i-restrict ang token sa isang ability?",,"$user->createToken('token', ['posts:read']);"
+Application,"Paano i-protect ang API routes gamit ang Sanctum?",,"I-apply ang auth:sanctum middleware sa routes."

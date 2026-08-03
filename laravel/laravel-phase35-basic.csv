@@ -1,0 +1,5 @@
+Application,"Paano mag-version ng API sa URL?",,"I-wrap ang routes sa Route::prefix('v1')->group(...)."
+Application,"Paano mag-version gamit ang Accept header?",,"I-check ang request header para sa version bago mag-route."
+Application,"Paano mag-document ng API?",,"Gumamit ng Scribe o Postman para mag-generate ng documentation."
+Application,"Paano mag-handle ng breaking changes?",,"Gumawa ng bagong version (v2) at i-deprecate ang luma."
+Application,"Paano i-announce ang deprecation?",,"Magdagdag ng deprecation warning sa changelog at documentation."

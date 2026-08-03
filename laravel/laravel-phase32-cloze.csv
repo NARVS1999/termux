@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::API resource}} ay nagko-convert ng models sa JSON format para sa API responses.",,API resource
+Cloze,"Ang {{c1::resource collection}} ay nagtrans-form ng collection ng models sa API format.",,resource collection
+Cloze,"Ang {{c1::transformation}} ay ang proseso ng pag-reshape ng data bago i-return sa client.",,transformation
+Cloze,"Ang {{c1::ApiResource}} ay ang base class para sa API resource transformations.",,ApiResource
+Cloze,"Ang {{c1::toArray}} method ay nagde-defines kung anong data ang isasama sa response.",,toArray method
+Cloze,"Ang {{c1::Resource::collection()}} ay nagre-return ng collection ng resources.",,Resource::collection()
+Cloze,"Ang {{c1::additional data}} ay idinadagdag sa resource response gamit ang additional() method.",,additional data
+Cloze,"Ang {{c1::conditional attributes}} ay isinasama lang sa response kung may value.",,conditional attributes
+Cloze,"Ang {{c1::with()}} method ng resource ay nag-add ng metadata sa response.",,with() method
+Cloze,"Ang {{c1::pagination}} sa resources ay awtomatikong nag-i-include ng meta links.",,pagination

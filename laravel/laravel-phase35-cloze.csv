@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::API versioning}} ay nagbibigay ng stable na interface habang nagbabago ang API.",,API versioning
+Cloze,"Ang {{c1::URL versioning}} ay gumagamit ng /v1/ sa URL para tukuyin ang version.",,URL versioning
+Cloze,"Ang {{c1::header versioning}} ay gumagamit ng Accept header para tukuyin ang version.",,header versioning
+Cloze,"Ang {{c1::v1 at v2}} ay mga halimbawa ng version segments ng API.",,v1 at v2
+Cloze,"Ang {{c1::API documentation}} ay naglalarawan ng endpoints, parameters, at responses ng API.",,API documentation
+Cloze,"Ang {{c1::breaking change}} ay isang change na hindi compatible sa dating version.",,breaking change
+Cloze,"Ang {{c1::deprecation}} ay ang proseso ng pag-announce na hindi na susuportahan ang lumang feature.",,deprecation
+Cloze,"Ang {{c1::backward compatibility}} ay nangangahulugang hindi masisira ang mga existing clients.",,backward compatibility
+Cloze,"Ang {{c1::changelog}} ay nagtatala ng mga pagbabago sa bawat version ng API.",,changelog
+Cloze,"Ang {{c1::Postman}} o {{c1::Scribe}} ay mga tools para sa API documentation at testing.",,Postman o Scribe

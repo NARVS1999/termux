@@ -1,0 +1,5 @@
+Application,"Paano mag-test ng GET API endpoint?",,"$response = $this->getJson('/api/posts');"
+Application,"Paano mag-assert ng 200 status?",,"$response->assertOk();"
+Application,"Paano mag-assert ng JSON structure?",,"$response->assertJson(['success' => true]);"
+Application,"Paano mag-test ng authenticated endpoint?",,"$this->actingAs($user)->getJson('/api/posts');"
+Application,"Paano i-verify ang pagination meta?",,"$response->assertJsonStructure(['data', 'links', 'meta']);"
