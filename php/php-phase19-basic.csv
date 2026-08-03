@@ -1,0 +1,5 @@
+Application,"Paano mag-define ng hasMany relationship sa Eloquent?",,"return $this->hasMany(Post::class);"
+Application,"Paano mag-query ng lahat ng users?",,"User::all();"
+Application,"Paano mag-find ng user sa pamamagitan ng id?",,"User::find($id);"
+Application,"Paano mag-eager load ng relationship?",,"Post::with('author')->get();"
+Application,"Paano mag-create ng record gamit ang Eloquent?",,"User::create(['name' => 'Juan']);"

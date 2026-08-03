@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::ORM}} ay nagma-map ng database tables sa PHP objects.",,ORM
+Cloze,"Ang {{c1::Eloquent}} ay ang ORM ng Laravel.",,Eloquent
+Cloze,"Ang {{c1::Doctrine}} ay isang PHP ORM na gumagamit ng annotations at repositories.",,Doctrine
+Cloze,"Ang {{c1::relationship}} ay ang koneksyon sa pagitan ng models.",,relationship
+Cloze,"Ang {{c1::hasMany}} relationship ay kung saan ang isang model ay may maraming related models.",,hasMany
+Cloze,"Ang {{c1::belongsTo}} relationship ay kung saan ang model ay nabibilang sa isang parent model.",,belongsTo
+Cloze,"Ang {{c1::many-to-many}} relationship ay gumagamit ng pivot table.",,many-to-many
+Cloze,"Ang {{c1::model}} ay ang PHP class na kumakatawan sa isang table.",,model
+Cloze,"Ang {{c1::repository pattern}} ay nag-a-abstract ng data access logic.",,repository pattern
+Cloze,"Ang {{c1::entity}} sa Doctrine ay ang class na kumakatawan sa isang table.",,entity

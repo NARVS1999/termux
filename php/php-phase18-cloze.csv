@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::migration}} ay nagve-version ng database schema changes.",,migration
+Cloze,"Ang {{c1::schema versioning}} ay nagti-track kung aling migrations ang na-apply na.",,schema versioning
+Cloze,"Ang {{c1::rollback}} ay binabaliktad ang mga na-apply na migrations.",,rollback
+Cloze,"Ang {{c1::seeder}} ay nagpop-populate ng database ng test o initial data.",,seeder
+Cloze,"Ang {{c1::up method}} ng migration ay tumutukoy sa mga changes na ia-apply.",,up method
+Cloze,"Ang {{c1::down method}} ng migration ay tumutukoy sa pagbaliktad ng changes.",,down method
+Cloze,"Ang {{c1::migration file}} ay naglalaman ng schema changes para sa isang specific na change.",,migration file
+Cloze,"Ang {{c1::migration table}} ay nagre-record kung aling migrations ang na-run.",,migration table
+Cloze,"Ang {{c1::fresh migration}} ay bumabalik sa zero at nagrere-run ng lahat ng migrations.",,fresh migration
+Cloze,"Ang {{c1::seeding}} ay ang paglagay ng dummy o initial na data sa database.",,seeding

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::PDO}} ay ang PHP extension para sa database access.",,PDO
+Cloze,"Ang {{c1::PDO connection}} ay ginagawa gamit ang DSN, username, at password.",,PDO connection
+Cloze,"Ang {{c1::prepared statement}} ay naghihiwalay ng SQL sa data para maiwasan ang SQL injection.",,prepared statement
+Cloze,"Ang {{c1::transaction}} ay isang grupo ng database operations na dapat magtagumpay nang sabay.",,transaction
+Cloze,"Ang {{c1::DSN}} ay ang data source name na tumutukoy sa driver at database.",,DSN
+Cloze,"Ang {{c1::PDO::ATTR_ERRMODE}} ay kumokontrol kung paano hinahandle ang PDO errors.",,PDO::ATTR_ERRMODE
+Cloze,"Ang {{c1::beginTransaction}} ay nagsisimula ng database transaction.",,beginTransaction
+Cloze,"Ang {{c1::commit}} ay nagse-save ng mga changes sa transaction.",,commit
+Cloze,"Ang {{c1::rollBack}} ay bumabaliktad ng mga changes sa transaction.",,rollBack
+Cloze,"Ang {{c1::bindParam}} ay nagba-bind ng variable sa isang parameter ng prepared statement.",,bindParam

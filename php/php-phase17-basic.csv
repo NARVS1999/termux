@@ -1,0 +1,5 @@
+Application,"Paano mag-execute ng SELECT query?",,"$rows = $pdo->query('SELECT * FROM users')->fetchAll();"
+Application,"Paano mag-fetch ng isang row bilang array?",,"$stmt->fetch(PDO::FETCH_ASSOC);"
+Application,"Paano mag-fetch ng lahat ng rows?",,"$stmt->fetchAll();"
+Application,"Paano mag-handle ng PDO error?",,"I-wrap ang code sa try-catch at i-catch ang PDOException."
+Application,"Paano makuha ang id ng inserted row?",,"$pdo->lastInsertId();"

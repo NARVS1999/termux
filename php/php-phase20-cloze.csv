@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::query optimization}} ay ang pagpapabilis ng database queries.",,query optimization
+Cloze,"Ang {{c1::index}} ay nagpapabilis ng paghahanap sa database table.",,index
+Cloze,"Ang {{c1::eager loading}} ay nakakaiwas sa N+1 query problem.",,eager loading
+Cloze,"Ang {{c1::profiling}} ay ang pagsusukat ng performance ng queries.",,profiling
+Cloze,"Ang {{c1::EXPLAIN}} ay nagpapakita kung paano e-execute ang query ng database.",,EXPLAIN
+Cloze,"Ang {{c1::composite index}} ay index sa multiple columns.",,composite index
+Cloze,"Ang {{c1::query log}} ay nagre-record ng mga na-execute na queries.",,query log
+Cloze,"Ang {{c1::N+1 problem}} ay ang pag-load ng relationships sa bawat row nang paisa-isa.",,N+1 problem
+Cloze,"Ang {{c1::caching}} ay nag-iimbak ng query results para maiwasan ang paulit-ulit na execution.",,caching
+Cloze,"Ang {{c1::select columns}} ay nililimitahan ang columns na kinukuha sa query.",,select columns

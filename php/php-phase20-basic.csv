@@ -1,0 +1,5 @@
+Application,"Paano i-optimize ang query?",,"Magdagdag ng index sa filtered columns at iwasan ang SELECT *."
+Application,"Paano maiwasan ang N+1 problem?",,"Gamitin ang eager loading gamit ang with()."
+Application,"Paano makita ang query plan?",,"I-run ang EXPLAIN sa query."
+Application,"Paano i-profile ang queries?",,"Gamitin ang query log o profiling tools."
+Application,"Paano mag-cache ng query result?",,"Cache::remember('posts', 600, fn() => Post::all());"

@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng migration sa Laravel?",,"php artisan make:migration create_posts_table"
+Application,"Paano mag-run ng migrations?",,"php artisan migrate"
+Application,"Paano i-rollback ang mga migrations?",,"php artisan migrate:rollback"
+Application,"Paano mag-seed ang database?",,"php artisan db:seed"
+Application,"Paano mag-run ng fresh migrations na may seeders?",,"php artisan migrate:fresh --seed"

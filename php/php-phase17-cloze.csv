@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::query}} ay isang database operation na nagre-return ng result set.",,query
+Cloze,"Ang {{c1::fetch}} ay kumukuha ng isang row mula sa result set.",,fetch
+Cloze,"Ang {{c1::fetchAll}} ay kumukuha ng lahat ng rows mula sa result set.",,fetchAll
+Cloze,"Ang {{c1::fetch mode}} ay tumutukoy kung paano ire-represent ang row tulad ng assoc o object.",,fetch mode
+Cloze,"Ang {{c1::error handling}} ay tumutukoy kung paano hinahandle ang database errors.",,error handling
+Cloze,"Ang {{c1::PDOException}} ay ang exception na nira-throw ng PDO kapag may error.",,PDOException
+Cloze,"Ang {{c1::rowCount}} ay nagre-return ng bilang ng affected rows ng query.",,rowCount
+Cloze,"Ang {{c1::FETCH_ASSOC}} ay nagre-return ng row bilang associative array.",,FETCH_ASSOC
+Cloze,"Ang {{c1::FETCH_OBJ}} ay nagre-return ng row bilang object.",,FETCH_OBJ
+Cloze,"Ang {{c1::lastInsertId}} ay nagre-return ng id ng huling inserted row.",,lastInsertId
