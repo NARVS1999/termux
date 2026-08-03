@@ -67,10 +67,10 @@
 
 ## Security
 
-- [ ] **Phase 40** — SQL injection: prepared statements, parameterization
-- [ ] **Phase 41** — XSS & CSRF: escaping, tokens, secure headers
-- [ ] **Phase 42** — Password security: hashing, verification, policies
-- [ ] **Phase 43** — Secure config: env handling, secrets, hardening
+- [x] **Phase 40** — SQL injection: prepared statements, parameterization
+- [x] **Phase 41** — XSS & CSRF: escaping, tokens, secure headers
+- [x] **Phase 42** — Password security: hashing, verification, policies
+- [x] **Phase 43** — Secure config: env handling, secrets, hardening
 
 ## Performance & Deployment
 
