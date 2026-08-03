@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::HTTP client}} ay gumagawa ng outbound HTTP requests mula sa application.",,HTTP client
+Cloze,"Ang {{c1::third-party integration}} ay ang pagkonekta sa mga external services.",,third-party integration
+Cloze,"Ang {{c1::webhook}} ay isang HTTP callback na na-trigger ng isang event.",,webhook
+Cloze,"Ang {{c1::retry}} ay ang pagsubok muli ng failed HTTP request.",,retry
+Cloze,"Ang {{c1::Http facade}} ng Laravel ay gumagawa ng HTTP requests.",,Http facade
+Cloze,"Ang {{c1::timeout}} ay ang maximum na oras ng paghihintay ng response.",,timeout
+Cloze,"Ang {{c1::API key}} ay ang credential para ma-access ang third-party API.",,API key
+Cloze,"Ang {{c1::retry logic}} ay may backoff para hindi ma-overload ang server.",,retry logic
+Cloze,"Ang {{c1::webhook payload}} ay ang data na ipinapadala ng webhook.",,webhook payload
+Cloze,"Ang {{c1::response handling}} ay ang pagpro-process ng response ng HTTP client.",,response handling

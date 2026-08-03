@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::Sanctum}} ay ang lightweight API token authentication ng Laravel.",,Sanctum
+Cloze,"Ang {{c1::Passport}} ay ang OAuth2 server implementation ng Laravel.",,Passport
+Cloze,"Ang {{c1::API token}} ay ginagamit para i-authenticate ang API requests.",,API token
+Cloze,"Ang {{c1::OAuth2}} ay isang protocol para sa delegated authorization.",,OAuth2
+Cloze,"Ang {{c1::Bearer token}} ay ipinapasa sa Authorization header.",,Bearer token
+Cloze,"Ang {{c1::access token}} ay ang token na ginagamit para i-access ang protected resources.",,access token
+Cloze,"Ang {{c1::refresh token}} ay nagbibigay ng bagong access token kapag nag-expire.",,refresh token
+Cloze,"Ang {{c1::client credentials}} grant ay para sa machine-to-machine authentication.",,client credentials
+Cloze,"Ang {{c1::createToken()}} method ay gumagawa ng token para sa user sa Sanctum.",,createToken() method
+Cloze,"Ang {{c1::scopes}} ay nagli-limit ng permissions ng token.",,scopes

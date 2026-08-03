@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng GET request gamit ang Http facade?",,"$response = Http::get('https://api.example.com/posts');"
+Application,"Paano mag-pass ng headers sa request?",,"Http::withHeaders(['Authorization' => 'Bearer ' . $token])->get($url);"
+Application,"Paano mag-handle ng webhook?",,"I-register ang route at i-validate ang payload bago i-process."
+Application,"Paano mag-retry ng failed request?",,"Http::retry(3, 100)->get($url);"
+Application,"Paano mag-set ng timeout sa request?",,"Http::timeout(10)->get($url);"

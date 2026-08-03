@@ -1,0 +1,5 @@
+Application,"Paano mag-encode ng array sa JSON?",,"json_encode($data);"
+Application,"Paano mag-decode ng JSON sa array?",,"json_decode($json, true);"
+Application,"Paano mag-decode ng JSON sa object?",,"json_decode($json);"
+Application,"Paano i-check kung valid ang JSON?",,"I-wrap ang json_decode sa try-catch gamit ang JSON_THROW_ON_ERROR."
+Application,"Paano mag-output ng pretty JSON?",,"json_encode($data, JSON_PRETTY_PRINT);"

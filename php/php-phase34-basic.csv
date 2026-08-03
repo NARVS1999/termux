@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng token sa Sanctum?",,"$user->createToken('api-token')->plainTextToken;"
+Application,"Paano i-protect ang route gamit ang Sanctum?",,"I-apply ang auth:sanctum middleware."
+Application,"Paano mag-install ng Passport?",,"composer require laravel/passport"
+Application,"Paano mag-pass ng Bearer token?",,"I-set ang Authorization: Bearer <token> header."
+Application,"Paano mag-set ng token scopes?",,"$user->createToken('token', ['posts:read']);"

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::JSON encoding}} ay ang pagko-convert ng PHP data sa JSON string.",,JSON encoding
+Cloze,"Ang {{c1::json_encode()}} ay nagko-convert ng PHP array o object sa JSON.",,json_encode()
+Cloze,"Ang {{c1::json_decode()}} ay nagko-convert ng JSON string sa PHP data.",,json_decode()
+Cloze,"Ang {{c1::JSON validation}} ay nag-cha-check kung valid ang JSON string.",,JSON validation
+Cloze,"Ang {{c1::JSON error}} ay nangyayari kapag hindi ma-encode o ma-decode ang JSON.",,JSON error
+Cloze,"Ang {{c1::json_last_error()}} ay nagre-return ng huling JSON error.",,json_last_error()
+Cloze,"Ang {{c1::associative array}} na result ng json_decode ay nangyayari kapag true ang second argument.",,associative array
+Cloze,"Ang {{c1::JSON string}} ay gumagamit ng double quotes para sa keys at strings.",,JSON string
+Cloze,"Ang {{c1::JSON_THROW_ON_ERROR}} flag ay nag-throw ng exception sa JSON errors.",,JSON_THROW_ON_ERROR
+Cloze,"Ang {{c1::pretty print}} ay ang pag-format ng JSON para mas madaling basahin.",,pretty print

@@ -1,0 +1,5 @@
+Application,"Paano mag-return ng JSON response sa Laravel?",,"return response()->json($data);"
+Application,"Paano mag-return ng 404 response?",,"return response()->json(['error' => 'Not found'], 404);"
+Application,"Paano mag-register ng API route?",,"Route::get('/api/posts', [PostController::class, 'index']);"
+Application,"Paano mag-return ng 201 status code?",,"return response()->json($post, 201);"
+Application,"Paano i-parse ang JSON request body?",,"json_decode($request->getContent(), true);"

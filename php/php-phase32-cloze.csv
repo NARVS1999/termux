@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::REST API}} ay gumagamit ng HTTP methods para sa CRUD operations.",,REST API
+Cloze,"Ang {{c1::resource}} ay ang entity na ine-expose ng API tulad ng users o posts.",,resource
+Cloze,"Ang {{c1::response}} ay ang data na ibinabalik ng API sa client.",,response
+Cloze,"Ang {{c1::status code}} ay nagpapahiwatig ng resulta ng request tulad ng 200 o 404.",,status code
+Cloze,"Ang {{c1::GET method}} ay kumukuha ng data mula sa API.",,GET method
+Cloze,"Ang {{c1::POST method}} ay gumagawa ng bagong resource.",,POST method
+Cloze,"Ang {{c1::PUT method}} ay nag-u-update ng buong resource.",,PUT method
+Cloze,"Ang {{c1::DELETE method}} ay nagtatanggal ng resource.",,DELETE method
+Cloze,"Ang {{c1::JSON}} ay ang karaniwang format ng API responses.",,JSON
+Cloze,"Ang {{c1::API endpoint}} ay ang URL kung saan ma-access ang resource.",,API endpoint
