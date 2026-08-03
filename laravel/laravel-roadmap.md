@@ -12,12 +12,12 @@
 
 ## Laravel Fundamentals
 
-- [ ] **Phase 6** — Installation: composer create-project, requirements
-- [ ] **Phase 7** — Project structure: app, routes, config, resources, database
-- [ ] **Phase 8** — Config & env: .env files, config caching, secrets
-- [ ] **Phase 9** — Routing basics: web routes, methods, parameters
-- [ ] **Phase 10** — Controllers: actions, dependencies, responses
-- [ ] **Phase 11** — Service container: bindings, resolution, facades
+- [x] **Phase 6** — Installation: composer create-project, requirements
+- [x] **Phase 7** — Project structure: app, routes, config, resources, database
+- [x] **Phase 8** — Config & env: .env files, config caching, secrets
+- [x] **Phase 9** — Routing basics: web routes, methods, parameters
+- [x] **Phase 10** — Controllers: actions, dependencies, responses
+- [x] **Phase 11** — Service container: bindings, resolution, facades
 
 ## Routing & Controllers
 
