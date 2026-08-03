@@ -46,11 +46,11 @@
 
 ## Advanced SQL
 
-- [ ] **Phase 28** — CTEs: WITH clauses, readability, recursion
-- [ ] **Phase 29** — Recursive queries: hierarchies, graphs, traversal
-- [ ] **Phase 30** — Stored procedures: functions, PL/SQL basics, permissions
-- [ ] **Phase 31** — Triggers: event-driven logic, auditing, constraints
-- [ ] **Phase 32** — Views: simple, complex, materialized, permissions
+- [x] **Phase 28** — CTEs: WITH clauses, readability, recursion
+- [x] **Phase 29** — Recursive queries: hierarchies, graphs, traversal
+- [x] **Phase 30** — Stored procedures: functions, PL/SQL basics, permissions
+- [x] **Phase 31** — Triggers: event-driven logic, auditing, constraints
+- [x] **Phase 32** — Views: simple, complex, materialized, permissions
 
 ## Database Design
 
