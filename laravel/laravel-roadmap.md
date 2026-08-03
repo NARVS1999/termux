@@ -38,10 +38,10 @@
 
 ## Blade Templating
 
-- [ ] **Phase 23** — Templates & layouts: inheritance, sections, includes
-- [ ] **Phase 24** — Components & slots: class-based, anonymous, attributes
-- [ ] **Phase 25** — Directives: conditionals, loops, auth checks
-- [ ] **Phase 26** — Forms & CSRF: token handling, old input, errors
+- [x] **Phase 23** — Templates & layouts: inheritance, sections, includes
+- [x] **Phase 24** — Components & slots: class-based, anonymous, attributes
+- [x] **Phase 25** — Directives: conditionals, loops, auth checks
+- [x] **Phase 26** — Forms & CSRF: token handling, old input, errors
 
 ## Auth & Security
 
