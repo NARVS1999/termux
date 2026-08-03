@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng model factory?",,"php artisan make:factory PostFactory"
+Application,"Paano gumawa ng 10 users gamit ang factory?",,"User::factory()->count(10)->create();"
+Application,"Paano mag-seed ng database?",,"php artisan db:seed"
+Application,"Paano mag-create ng user na may custom attribute?",,"User::factory()->create(['name' => 'Juan']);"
+Application,"Paano gumawa ng user nang hindi nagse-save?",,"User::factory()->make();"

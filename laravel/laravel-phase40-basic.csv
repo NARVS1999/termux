@@ -1,0 +1,5 @@
+Application,"Paano mag-run ng specific test method?",,"php artisan test --filter=test_user_can_login"
+Application,"Paano mag-generate ng coverage report?",,"php artisan test --coverage"
+Application,"Paano mag-organize ng tests per feature?",,"I-group ang mga tests sa folders tulad ng tests/Feature/Auth/."
+Application,"Paano gumawa ng shared test helper?",,"Gumawa ng trait o helper file sa tests/ folder."
+Application,"Paano mag-run ng tests sa CI?",,"I-add ang php artisan test sa CI pipeline pagkatapos ng composer install."

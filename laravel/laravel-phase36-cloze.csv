@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::PHPUnit}} ay ang default testing framework ng Laravel.",,PHPUnit
+Cloze,"Ang {{c1::phpunit.xml}} ay ang configuration file ng PHPUnit para sa tests.",,phpunit.xml
+Cloze,"Ang {{c1::test environment}} ay gumagamit ng sariling database at configuration para sa tests.",,test environment
+Cloze,"Ang {{c1::sqlite memory}} ay isang in-memory database na ginagamit sa tests.",,sqlite memory
+Cloze,"Ang {{c1::TestCase}} ay ang base class para sa mga feature tests.",,TestCase
+Cloze,"Ang {{c1::RefreshDatabase}} trait ay nagre-reset ng database sa bawat test.",,RefreshDatabase trait
+Cloze,"Ang {{c1::DatabaseMigrations}} trait ay nagra-run ng migrations sa simula ng bawat test.",,DatabaseMigrations trait
+Cloze,"Ang {{c1::php artisan test}} ay ang command para mag-run ng mga tests.",,php artisan test
+Cloze,"Ang {{c1::tests directory}} ay naglalaman ng Unit at Feature test folders.",,tests directory
+Cloze,"Ang {{c1::Pest}} ay isang alternatibong testing framework na gumagamit ng simpler syntax.",,Pest

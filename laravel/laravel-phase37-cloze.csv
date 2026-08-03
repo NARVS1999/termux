@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::feature test}} ay sumusubok ng buong request lifecycle ng application.",,feature test
+Cloze,"Ang {{c1::HTTP test}} ay nagpapadala ng HTTP requests sa application at nag-verify ng responses.",,HTTP test
+Cloze,"Ang {{c1::authentication test}} ay nag-verify ng login, logout, at protected routes.",,authentication test
+Cloze,"Ang {{c1::database transaction}} sa tests ay nagse-secure na hindi magulo ang data sa pagitan ng tests.",,database transaction
+Cloze,"Ang {{c1::actingAs}} ay nag-a-authenticate ng test bilang isang specific user.",,actingAs
+Cloze,"Ang {{c1::assertDatabaseHas}} ay nag-verify na may record sa database.",,assertDatabaseHas
+Cloze,"Ang {{c1::assertRedirected}} ay nag-verify na nag-redirect ang response sa isang route.",,assertRedirected
+Cloze,"Ang {{c1::assertSee}} ay nag-verify na nakikita ang text sa response.",,assertSee
+Cloze,"Ang {{c1::assertSessionHasErrors}} ay nag-verify ng validation errors sa session.",,assertSessionHasErrors
+Cloze,"Ang {{c1::post}} method ay nagpapadala ng POST request na may form data.",,post method

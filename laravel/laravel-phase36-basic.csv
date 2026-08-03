@@ -1,0 +1,5 @@
+Application,"Paano mag-run ng lahat ng tests?",,"php artisan test"
+Application,"Paano mag-run ng specific test file?",,"php artisan test --filter=UserTest"
+Application,"Paano mag-configure ng testing database?",,"I-set ang DB_CONNECTION=sqlite at DB_DATABASE=:memory: sa phpunit.xml."
+Application,"Paano gumawa ng test class?",,"php artisan make:test UserTest"
+Application,"Paano i-reset ang database sa bawat test?",,"Gamitin ang RefreshDatabase trait sa test class."

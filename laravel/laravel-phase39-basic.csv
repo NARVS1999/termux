@@ -1,0 +1,5 @@
+Application,"Paano i-fake ang queue sa test?",,"Queue::fake();"
+Application,"Paano i-verify na na-dispatch ang job?",,"Queue::assertPushed(ProcessPodcast::class);"
+Application,"Paano i-fake ang mail?",,"Mail::fake();"
+Application,"Paano i-verify na may naipadalang mail?",,"Mail::assertSent(InvoicePaid::class);"
+Application,"Paano mag-mock ng isang service?",,"$this->mock(PaymentGateway::class, fn($mock) => $mock->shouldReceive('charge')->once());"

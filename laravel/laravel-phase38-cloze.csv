@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::model factory}} ay nagge-generate ng test data para sa models.",,model factory
+Cloze,"Ang {{c1::factory definition}} ay tumutukoy kung paano gumagawa ng fake attributes ang factory.",,factory definition
+Cloze,"Ang {{c1::seeder}} ay nagpop-populate ng database ng initial na data.",,seeder
+Cloze,"Ang {{c1::factory()}} helper ay gumagawa ng model instances gamit ang factory.",,factory() helper
+Cloze,"Ang {{c1::create()}} method ay nagse-save ng factory-created model sa database.",,create() method
+Cloze,"Ang {{c1::make()}} method ay gumagawa ng factory model nang hindi nagsa-save.",,make() method
+Cloze,"Ang {{c1::state}} ay nagde-defines ng variant ng factory data.",,state
+Cloze,"Ang {{c1::afterMaking}} ay isang callback na tumatakbo pagkatapos gumawa ng model.",,afterMaking
+Cloze,"Ang {{c1::faker}} ay nagge-generate ng realistic fake data para sa tests.",,faker
+Cloze,"Ang {{c1::DatabaseSeeder}} ay ang pangunahing seeder na nag-i-invoke ng ibang seeders.",,DatabaseSeeder

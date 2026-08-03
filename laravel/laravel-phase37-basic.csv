@@ -1,0 +1,5 @@
+Application,"Paano mag-test ng login flow?",,"$response = $this->post('/login', ['email' => $user->email, 'password' => 'password']);"
+Application,"Paano i-verify na may record sa database?",,"$this->assertDatabaseHas('users', ['email' => 'test@example.com']);"
+Application,"Paano mag-test ng protected route?",,"$this->actingAs($user)->get('/dashboard')->assertOk();"
+Application,"Paano mag-verify ng validation error?",,"$this->post('/register', [])->assertSessionHasErrors('email');"
+Application,"Paano mag-test na naka-login ang user pagkatapos ng request?",,"$this->assertAuthenticated();"

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::mock}} ay isang test double na nagpapa-fake ng dependencies sa tests.",,mock
+Cloze,"Ang {{c1::fake}} ay isang test double na nagre-record ng mga calls imbes na mag-execute ng real logic.",,fake
+Cloze,"Ang {{c1::Queue::fake}} ay nagre-record ng dispatched jobs nang hindi nila pinapatakbo.",,Queue::fake
+Cloze,"Ang {{c1::Mail::fake}} ay nagre-record ng mga sent mail imbes na magpadala talaga.",,Mail::fake
+Cloze,"Ang {{c1::Event::fake}} ay nagre-record ng dispatched events nang hindi nagra-run ng listeners.",,Event::fake
+Cloze,"Ang {{c1::assertDispatched}} ay nag-verify na na-dispatch ang isang job.",,assertDispatched
+Cloze,"Ang {{c1::assertSent}} ay nag-verify na naipadala ang isang mail.",,assertSent
+Cloze,"Ang {{c1::Mockery}} ay ang mocking library na ginagamit sa Laravel tests.",,Mockery
+Cloze,"Ang {{c1::expects()}} method ay nagde-declare ng inaasahang calls sa isang mock.",,expects() method
+Cloze,"Ang {{c1::shouldReceive}} ay nagde-declare na dapat tawagin ang method ng mock.",,shouldReceive

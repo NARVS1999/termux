@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::test suite}} ay isang grupo ng mga tests na may common na configuration.",,test suite
+Cloze,"Ang {{c1::test helpers}} ay mga reusable functions o traits para sa tests.",,test helpers
+Cloze,"Ang {{c1::test coverage}} ay ang sukat kung gaano karaming code ang na-tetest.",,test coverage
+Cloze,"Ang {{c1::Unit test}} ay sumusubok ng isang specific na unit ng code nang walang framework.",,Unit test
+Cloze,"Ang {{c1::Feature test}} ay sumusubok ng maraming components na nagtutulungan.",,Feature test
+Cloze,"Ang {{c1::@test annotation}} o {{c1::test_ prefix}} ay nagma-mark ng test methods.",,@test annotation
+Cloze,"Ang {{c1::data provider}} ay nagbibigay ng multiple datasets para sa isang test method.",,data provider
+Cloze,"Ang {{c1::coverage report}} ay nagpapakita kung aling lines ang natakpan ng tests.",,coverage report
+Cloze,"Ang {{c1::CI integration}} ay nagra-run ng tests sa bawat push o merge.",,CI integration
+Cloze,"Ang {{c1::test naming}} ay sumusunod sa pattern na may action at expectation.",,test naming
