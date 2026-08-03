@@ -1,0 +1,5 @@
+Application,"Paano mag-combine ng dalawang queries gamit ang UNION?",,"SELECT name FROM users UNION SELECT name FROM admins;"
+Application,"Paano i-combine ang results nang may duplicates?",,"SELECT name FROM users UNION ALL SELECT name FROM admins;"
+Application,"Paano makuha ang rows na nasa parehong queries?",,"SELECT id FROM orders INTERSECT SELECT order_id FROM payments;"
+Application,"Paano makuha ang rows na wala sa pangalawang query?",,"SELECT id FROM users EXCEPT SELECT user_id FROM banned;"
+Application,"Paano mag-sort ng UNION result?",,"I-add ang ORDER BY sa dulo ng buong UNION query."

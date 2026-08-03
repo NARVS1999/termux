@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::LEFT JOIN}} ay nagre-return ng lahat ng rows ng left table kahit walang match.",,LEFT JOIN
+Cloze,"Ang {{c1::RIGHT JOIN}} ay nagre-return ng lahat ng rows ng right table kahit walang match.",,RIGHT JOIN
+Cloze,"Ang {{c1::FULL JOIN}} ay nagre-return ng lahat ng rows ng parehong tables.",,FULL JOIN
+Cloze,"Ang {{c1::unmatched rows}} ay ang rows na walang tugma sa kabilang table.",,unmatched rows
+Cloze,"Ang {{c1::NULL values}} ay lumalabas sa columns ng walang tugmang table.",,NULL values
+Cloze,"Ang {{c1::outer join}} ay nag-i-include ng mga rows na walang match.",,outer join
+Cloze,"Ang {{c1::LEFT OUTER JOIN}} ay ang buong pangalan ng LEFT JOIN.",,LEFT OUTER JOIN
+Cloze,"Ang {{c1::missing related rows}} ay matatagpuan gamit ang IS NULL check.",,missing related rows
+Cloze,"Ang {{c1::join direction}} ay tumutukoy kung aling table ang pinapanatili ang lahat ng rows.",,join direction
+Cloze,"Ang {{c1::FULL OUTER JOIN}} ay sinusuportahan ng PostgreSQL ngunit hindi ng MySQL.",,FULL OUTER JOIN

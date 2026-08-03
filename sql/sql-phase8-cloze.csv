@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::self join}} ay ang pag-join ng table sa sarili nito.",,self join
+Cloze,"Ang {{c1::cross join}} ay nag-produce ng Cartesian product ng dalawang tables.",,cross join
+Cloze,"Ang {{c1::Cartesian product}} ay ang lahat ng kombinasyon ng rows ng dalawang tables.",,Cartesian product
+Cloze,"Ang {{c1::hierarchy}} ay ang tree-like structure tulad ng manager-employee.",,hierarchy
+Cloze,"Ang {{c1::parent-child}} sa self join ay ginagamitan ng dalawang table aliases.",,parent-child
+Cloze,"Ang {{c1::table alias}} ay kailangan sa self join para i-distinguish ang dalawang instances.",,table alias
+Cloze,"Ang {{c1::comparison join}} ay ang pag-compare ng rows sa loob ng parehong table.",,comparison join
+Cloze,"Ang {{c1::CROSS JOIN}} ay walang join condition.",,CROSS JOIN
+Cloze,"Ang {{c1::combinations}} ay ang resulta ng cross join sa lahat ng pairs.",,combinations
+Cloze,"Ang {{c1::unintentional cross join}} ay nagre-resulta sa mabagal na queries.",,unintentional cross join

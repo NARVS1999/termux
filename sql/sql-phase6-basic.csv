@@ -1,0 +1,5 @@
+Application,"Paano mag-join ng dalawang tables?",,"SELECT * FROM orders INNER JOIN users ON orders.user_id = users.id;"
+Application,"Paano mag-join ng tatlong tables?",,"SELECT * FROM orders JOIN users ON ... JOIN payments ON ...;"
+Application,"Paano mag-join gamit ang alias?",,"SELECT u.name FROM users u JOIN orders o ON o.user_id = u.id;"
+Application,"Paano i-filter ang joined result?",,"SELECT * FROM orders JOIN users ON ... WHERE users.active = 1;"
+Application,"Paano mag-join gamit ang column ng parehong pangalan?",,"JOIN ... USING (user_id)"

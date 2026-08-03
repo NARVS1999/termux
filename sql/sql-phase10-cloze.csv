@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::correlated subquery}} ay nagre-refer sa column ng outer query.",,correlated subquery
+Cloze,"Ang {{c1::per-row evaluation}} ay ang pag-e-execute ng subquery para sa bawat row ng outer query.",,per-row evaluation
+Cloze,"Ang {{c1::EXISTS}} operator ay nagre-return ng true kung may rows ang subquery.",,EXISTS operator
+Cloze,"Ang {{c1::NOT EXISTS}} ay nagre-return ng true kung walang rows ang subquery.",,NOT EXISTS
+Cloze,"Ang {{c1::correlation}} ay ang ugnayan ng subquery sa outer query.",,correlation
+Cloze,"Ang {{c1::performance}} ng correlated subquery ay maaaring mabagal sa malalaking tables.",,performance
+Cloze,"Ang {{c1::aliasing}} ay mahalaga para ma-reference ang outer table sa subquery.",,aliasing
+Cloze,"Ang {{c1::EXISTS optimization}} ay mas mabilis kaysa IN sa ilang cases.",,EXISTS optimization
+Cloze,"Ang {{c1::semi-join}} ay ang optimization ng database para sa EXISTS queries.",,semi-join
+Cloze,"Ang {{c1::uncorrelated subquery}} ay naka-evaluate nang isang beses lamang.",,uncorrelated subquery

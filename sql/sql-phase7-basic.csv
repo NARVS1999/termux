@@ -1,0 +1,5 @@
+Application,"Paano makuha ang lahat ng users kahit walang orders?",,"SELECT * FROM users LEFT JOIN orders ON orders.user_id = users.id;"
+Application,"Paano mahanap ang users na walang orders?",,"SELECT * FROM users LEFT JOIN orders ON ... WHERE orders.id IS NULL;"
+Application,"Paano gumamit ng RIGHT JOIN?",,"SELECT * FROM orders RIGHT JOIN users ON orders.user_id = users.id;"
+Application,"Paano gumamit ng FULL JOIN sa PostgreSQL?",,"SELECT * FROM users FULL JOIN orders ON orders.user_id = users.id;"
+Application,"Paano i-count ang orders per user gamit ang LEFT JOIN?",,"SELECT u.name, COUNT(o.id) FROM users u LEFT JOIN orders o ON ... GROUP BY u.name;"

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::UNION}} ay pinagsasama ang results ng dalawang queries at nag-aalis ng duplicates.",,UNION
+Cloze,"Ang {{c1::INTERSECT}} ay nagre-return ng rows na nasa parehong queries.",,INTERSECT
+Cloze,"Ang {{c1::EXCEPT}} ay nagre-return ng rows ng unang query na wala sa pangalawa.",,EXCEPT
+Cloze,"Ang {{c1::set operation}} ay ang pag-combine ng results ng queries.",,set operation
+Cloze,"Ang {{c1::UNION ALL}} ay pinagsasama ang results nang hindi nag-aalis ng duplicates.",,UNION ALL
+Cloze,"Ang {{c1::precedence}} ay ang order ng evaluation ng set operations.",,precedence
+Cloze,"Ang {{c1::column compatibility}} ay nangangailangan ng parehong bilang ng columns sa set operations.",,column compatibility
+Cloze,"Ang {{c1::duplicate removal}} ay awtomatikong ginagawa ng UNION.",,duplicate removal
+Cloze,"Ang {{c1::order by}} sa set operations ay nilalagay sa dulo ng buong query.",,order by
+Cloze,"Ang {{c1::MINUS}} ay ang Oracle na pangalan ng EXCEPT.",,MINUS

@@ -1,0 +1,5 @@
+Application,"Paano mag-self join para makuha ang manager ng bawat employee?",,"SELECT e.name, m.name FROM employees e JOIN employees m ON e.manager_id = m.id;"
+Application,"Paano gumawa ng cross join?",,"SELECT * FROM sizes CROSS JOIN colors;"
+Application,"Paano mag-compare ng rows sa parehong table?",,"I-join ang table sa sarili nito na may ibang alias."
+Application,"Paano makuha ang lahat ng pairs ng products?",,"SELECT a.name, b.name FROM products a CROSS JOIN products b;"
+Application,"Paano i-model ang hierarchy sa self join?",,"I-add ang manager_id column na tumutukoy sa id ng parent row."

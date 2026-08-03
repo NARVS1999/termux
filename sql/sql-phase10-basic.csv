@@ -1,0 +1,5 @@
+Application,"Paano mahanap ang users na may orders gamit ang EXISTS?",,"SELECT * FROM users u WHERE EXISTS (SELECT 1 FROM orders o WHERE o.user_id = u.id);"
+Application,"Paano mahanap ang users na walang orders?",,"SELECT * FROM users u WHERE NOT EXISTS (SELECT 1 FROM orders o WHERE o.user_id = u.id);"
+Application,"Paano mag-filter base sa maximum value ng bawat group?",,"SELECT * FROM orders o WHERE o.amount = (SELECT MAX(amount) FROM orders WHERE user_id = o.user_id);"
+Application,"Paano gumamit ng correlated subquery sa SELECT?",,"SELECT u.name, (SELECT COUNT(*) FROM orders o WHERE o.user_id = u.id) AS order_count FROM users u;"
+Application,"Paano i-rewrite ang correlated subquery para mas mabilis?",,"Gamitin ang JOIN o window functions kung posible."

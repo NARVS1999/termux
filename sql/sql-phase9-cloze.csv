@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::subquery}} ay isang query na naka-embed sa loob ng ibang query.",,subquery
+Cloze,"Ang {{c1::scalar subquery}} ay nagre-return ng iisang value.",,scalar subquery
+Cloze,"Ang {{c1::row subquery}} ay nagre-return ng isang row na may ilang columns.",,row subquery
+Cloze,"Ang {{c1::table subquery}} ay nagre-return ng maraming rows at columns.",,table subquery
+Cloze,"Ang {{c1::derived table}} ay ang subquery sa FROM clause.",,derived table
+Cloze,"Ang {{c1::outer query}} ay ang pangunahing query na naglalaman ng subquery.",,outer query
+Cloze,"Ang {{c1::inner query}} ay ang subquery sa loob ng outer query.",,inner query
+Cloze,"Ang {{c1::IN subquery}} ay nagcha-check kung ang value ay nasa result ng subquery.",,IN subquery
+Cloze,"Ang {{c1::correlated subquery}} ay tumutukoy sa columns ng outer query.",,correlated subquery
+Cloze,"Ang {{c1::EXISTS}} ay nagcha-check kung may rows ang subquery.",,EXISTS

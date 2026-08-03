@@ -1,0 +1,5 @@
+Application,"Paano gumamit ng scalar subquery sa SELECT?",,"SELECT name, (SELECT MAX(price) FROM products) AS max_price FROM categories;"
+Application,"Paano gumamit ng subquery sa WHERE?",,"SELECT * FROM orders WHERE user_id IN (SELECT id FROM users WHERE active = 1);"
+Application,"Paano gumamit ng derived table?",,"SELECT * FROM (SELECT id, name FROM users WHERE active = 1) AS active_users;"
+Application,"Paano i-compare ang column sa subquery result?",,"SELECT * FROM products WHERE price > (SELECT AVG(price) FROM products);"
+Application,"Paano gumamit ng EXISTS?",,"SELECT * FROM users u WHERE EXISTS (SELECT 1 FROM orders o WHERE o.user_id = u.id);"

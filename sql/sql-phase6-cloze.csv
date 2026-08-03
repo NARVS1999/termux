@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::INNER JOIN}} ay nagre-return ng mga rows na may tugma sa parehong tables.",,INNER JOIN
+Cloze,"Ang {{c1::join condition}} ay tumutukoy kung paano nag-uugnay ang dalawang tables.",,join condition
+Cloze,"Ang {{c1::ON}} clause ay ginagamit para i-specify ang join condition.",,ON clause
+Cloze,"Ang {{c1::multiple joins}} ay ang pag-join ng higit sa dalawang tables.",,multiple joins
+Cloze,"Ang {{c1::matching rows}} ay ang rows na nakakatugma sa join condition.",,matching rows
+Cloze,"Ang {{c1::foreign key}} ay ang column na nag-uugnay ng table sa isa pang table.",,foreign key
+Cloze,"Ang {{c1::join key}} ay ang column na ginagamit sa join condition.",,join key
+Cloze,"Ang {{c1::qualified column}} ay ang column na may prefix ng table name sa query.",,qualified column
+Cloze,"Ang {{c1::equi-join}} ay ang join na gumagamit ng equality operator.",,equi-join
+Cloze,"Ang {{c1::filtered join}} ay ang join na may karagdagang WHERE condition.",,filtered join
