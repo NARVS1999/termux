@@ -29,12 +29,12 @@
 
 ## Eloquent ORM
 
-- [ ] **Phase 17** — Models & migrations: schema, columns, rollbacks
-- [ ] **Phase 18** — Relationships: one-to-many, many-to-many, polymorphic
-- [ ] **Phase 19** — Scopes & accessors: query scopes, mutators, casts
-- [ ] **Phase 20** — Eager loading: with, lazy loading, preventing N+1
-- [ ] **Phase 21** — Queries & pagination: builder, aggregates, pagination
-- [ ] **Phase 22** — Collections: methods, transforms, chunks
+- [x] **Phase 17** — Models & migrations: schema, columns, rollbacks
+- [x] **Phase 18** — Relationships: one-to-many, many-to-many, polymorphic
+- [x] **Phase 19** — Scopes & accessors: query scopes, mutators, casts
+- [x] **Phase 20** — Eager loading: with, lazy loading, preventing N+1
+- [x] **Phase 21** — Queries & pagination: builder, aggregates, pagination
+- [x] **Phase 22** — Collections: methods, transforms, chunks
 
 ## Blade Templating
 
