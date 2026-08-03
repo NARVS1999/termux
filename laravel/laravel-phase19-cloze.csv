@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::query scope}} ay nagbibigay ng reusable query constraints sa model.",,query scope
+Cloze,"Ang {{c1::accessor}} ay nag-transform ng attribute value kapag ina-access sa model.",,accessor
+Cloze,"Ang {{c1::mutator}} ay nag-transform ng attribute value bago i-save sa database.",,mutator
+Cloze,"Ang {{c1::cast}} ay nagko-convert ng attribute value sa isang specific type.",,cast
+Cloze,"Ang {{c1::local scope}} ay tinatawag sa model instance gamit ang prefix ng scope method.",,local scope
+Cloze,"Ang {{c1::Append}} attribute ay idinaragdag sa model JSON representation.",,Append attribute
+Cloze,"Ang {{c1::attribute casting}} ay tumutukoy sa $casts property ng model.",,attribute casting
+Cloze,"Ang {{c1::scopeActive}} ay isang halimbawa ng custom query scope para sa active records.",,scopeActive
+Cloze,"Ang {{c1::date cast}} ay nagko-convert ng attribute sa Carbon instance.",,date cast
+Cloze,"Ang {{c1::hidden attributes}} ay hindi kasama sa model JSON o array output.",,hidden attributes

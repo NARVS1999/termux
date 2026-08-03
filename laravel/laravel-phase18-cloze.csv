@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::one-to-many}} relationship ay kung saan ang isang parent model ay may maraming child models.",,one-to-many
+Cloze,"Ang {{c1::many-to-many}} relationship ay nangangailangan ng pivot table para i-link ang dalawang models.",,many-to-many
+Cloze,"Ang {{c1::polymorphic relationship}} ay nagpapahintulot sa isang model na ma-associate sa iba't ibang models.",,polymorphic relationship
+Cloze,"Ang {{c1::hasMany}} ay tumutukoy na ang isang model ay may maraming related models.",,hasMany
+Cloze,"Ang {{c1::belongsTo}} ay tumutukoy na ang model ay nabibilang sa isang parent model.",,belongsTo
+Cloze,"Ang {{c1::belongsToMany}} ay ginagamit para sa many-to-many relationships na may pivot table.",,belongsToMany
+Cloze,"Ang {{c1::pivot table}} ay naglalaman ng foreign keys ng dalawang models sa many-to-many relationship.",,pivot table
+Cloze,"Ang {{c1::morphMany}} ay nagde-declare ng one-to-many polymorphic relationship.",,morphMany
+Cloze,"Ang {{c1::foreign key}} ay ang column na nagli-link ng model sa related model.",,foreign key
+Cloze,"Ang {{c1::relationship method}} ay isang method sa model na nagre-return ng relationship instance.",,relationship method

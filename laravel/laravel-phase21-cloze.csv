@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::query builder}} ay nagbibigay ng fluent interface para gumawa ng SQL queries.",,query builder
+Cloze,"Ang {{c1::aggregate}} ay nagko-compute ng values tulad ng sum, avg, at count.",,aggregate
+Cloze,"Ang {{c1::pagination}} ay hinahati ang mga resulta sa mga pages para mas madaling i-display.",,pagination
+Cloze,"Ang {{c1::select}} ay tumutukoy kung aling columns ang isasama sa query.",,select
+Cloze,"Ang {{c1::where}} clause ay nagfi-filter ng records base sa condition.",,where clause
+Cloze,"Ang {{c1::orderBy}} ay nag-a-arrange ng mga resulta base sa isang column.",,orderBy
+Cloze,"Ang {{c1::paginate()}} method ay nagre-return ng paginated results na may links.",,paginate() method
+Cloze,"Ang {{c1::simplePaginate}} ay nagre-return ng previous at next links lamang.",,simplePaginate
+Cloze,"Ang {{c1::DB facade}} ay ginagamit para sa raw queries at query builder operations.",,DB facade
+Cloze,"Ang {{c1::chunk}} ay nagpro-process ng malalaking results sa mga small batches.",,chunk

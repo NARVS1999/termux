@@ -1,0 +1,5 @@
+Application,"Paano mag-define ng local query scope?",,"public function scopeActive($query) { return $query->where('active', 1); }"
+Application,"Paano mag-define ng accessor?",,"public function getFullNameAttribute() { return $this->first_name . ' ' . $this->last_name; }"
+Application,"Paano mag-cast ng attribute sa boolean?",,"protected $casts = ['is_admin' => 'boolean'];"
+Application,"Paano gumamit ng local scope sa query?",,"User::active()->get();"
+Application,"Paano mag-hide ng attribute sa JSON output?",,"I-add ang pangalan ng attribute sa $hidden property ng model."

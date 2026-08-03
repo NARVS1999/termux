@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::eager loading}} ay nilo-load ang relationships kasabay ng parent query gamit ang with().",,eager loading
+Cloze,"Ang {{c1::lazy loading}} ay nilo-load ang relationship kapag in-access ito pagkatapos ng query.",,lazy loading
+Cloze,"Ang {{c1::N+1 problem}} ay nangyayari kapag nag-e-execute ng karagdagang queries para sa bawat model.",,N+1 problem
+Cloze,"Ang {{c1::with()}} method ay nag-pre-load ng relationships sa isang query.",,with() method
+Cloze,"Ang {{c1::nested eager loading}} ay nilo-load ang relationships ng mga relationships.",,nested eager loading
+Cloze,"Ang {{c1::load()}} method ay nag-eager load ng relationship sa isang existing model collection.",,load() method
+Cloze,"Ang {{c1::withCount}} ay nag-a-add ng count ng related models sa query result.",,withCount
+Cloze,"Ang {{c1::lazy eager loading}} ay naglo-load ng relationship pagkatapos i-retrieve ang models.",,lazy eager loading
+Cloze,"Ang {{c1::constraining eager loads}} ay nagfi-filter ng eager loaded relationships.",,constraining eager loads
+Cloze,"Ang {{c1::$with property}} ay awtomatikong nag-eager load ng relationships sa bawat query.",,$with property

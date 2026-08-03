@@ -1,0 +1,5 @@
+Application,"Paano mag-eager load ng relationship?",,"Post::with('author')->get();"
+Application,"Paano mag-eager load ng nested relationship?",,"Post::with('author.profile')->get();"
+Application,"Paano i-count ang related models?",,"User::withCount('posts')->get();"
+Application,"Paano mag-load ng relationship pagkatapos ng query?",,"$posts->load('comments');"
+Application,"Paano i-check kung na-load na ang relationship?",,"$post->relationLoaded('author')"

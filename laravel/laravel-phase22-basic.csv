@@ -1,0 +1,5 @@
+Application,"Paano mag-transform ng collection gamit ang map?",,"$names = $users->map(fn($u) => $u->name);"
+Application,"Paano mag-filter ng collection?",,"$admins = $users->filter(fn($u) => $u->is_admin);"
+Application,"Paano kunin ang lahat ng name values?",,"$users->pluck('name');"
+Application,"Paano mag-sort ng collection base sa isang field?",,"$users->sortBy('name');"
+Application,"Paano mag-group ng collection base sa isang field?",,"$users->groupBy('role');"

@@ -1,0 +1,5 @@
+Application,"Paano mag-query ng mga users na active?",,"User::where('active', 1)->get();"
+Application,"Paano mag-paginate ng mga posts, 10 per page?",,"Post::paginate(10);"
+Application,"Paano mag-count ng kabuuang posts?",,"Post::count();"
+Application,"Paano mag-order ng posts sa newest?",,"Post::orderBy('created_at', 'desc')->get();"
+Application,"Paano mag-run ng raw SQL query?",,"DB::select('SELECT * FROM users WHERE active = ?', [1]);"

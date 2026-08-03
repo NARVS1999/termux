@@ -1,0 +1,5 @@
+Application,"Paano mag-define ng hasMany relationship?",,"return $this->hasMany(Post::class);"
+Application,"Paano mag-define ng belongsTo relationship?",,"return $this->belongsTo(User::class);"
+Application,"Paano mag-define ng many-to-many relationship?",,"return $this->belongsToMany(Role::class);"
+Application,"Paano mag-access ng related models?",,"$user->posts"
+Application,"Paano mag-create ng related model sa isang relationship?",,"$user->posts()->create(['title' => 'Hello']);"

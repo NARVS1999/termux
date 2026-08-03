@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::collection}} ay isang wrapper ng arrays na may maraming helper methods.",,collection
+Cloze,"Ang {{c1::map}} method ay nag-transform sa bawat item ng collection.",,map method
+Cloze,"Ang {{c1::filter}} method ay nag-aalis ng mga items na hindi pumasa sa condition.",,filter method
+Cloze,"Ang {{c1::reduce}} method ay nag-iipon ng collection sa isang value.",,reduce method
+Cloze,"Ang {{c1::pluck}} method ay kumukuha ng specific column values mula sa collection.",,pluck method
+Cloze,"Ang {{c1::transform}} method ay binabago ang collection in place.",,transform method
+Cloze,"Ang {{c1::chunk}} method ay hinahati ang collection sa mas maliliit na collections.",,chunk method
+Cloze,"Ang {{c1::each}} method ay nag-iterate sa bawat item ng collection.",,each method
+Cloze,"Ang {{c1::collect()}} helper ay gumagawa ng bagong collection mula sa array.",,collect() helper
+Cloze,"Ang {{c1::first}} method ay nagre-return ng unang item na pumasa sa condition.",,first method

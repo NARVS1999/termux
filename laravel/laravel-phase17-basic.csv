@@ -1,0 +1,5 @@
+Application,"Paano mag-create ng migration?",,"php artisan make:migration create_posts_table"
+Application,"Paano i-run ang lahat ng migrations?",,"php artisan migrate"
+Application,"Paano i-rollback ang huling migration batch?",,"php artisan migrate:rollback"
+Application,"Paano mag-add ng string column sa table?",,"$table->string('title');"
+Application,"Paano mag-disable ang timestamps sa model?",,"I-set ang public $timestamps = false; sa model."

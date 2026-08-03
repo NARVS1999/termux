@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::model}} ay kumakatawan sa isang database table at nagbibigay ng Eloquent ORM interface.",,model
+Cloze,"Ang {{c1::migration}} ay nagma-manage ng database schema changes gamit ang version-controlled PHP files.",,migration
+Cloze,"Ang {{c1::schema}} ay tumutukoy sa structure ng database tables at kanilang relationships.",,schema
+Cloze,"Ang {{c1::columns}} ay ang mga fields ng isang database table na tinutukoy sa migration.",,columns
+Cloze,"Ang {{c1::rollback}} ay binabaliktad ang huling batch ng migrations.",,rollback
+Cloze,"Ang {{c1::up method}} ay tumutukoy kung anong changes ang ia-apply sa database.",,up method
+Cloze,"Ang {{c1::down method}} ay tumutukoy kung paano ibabaliktad ang changes ng migration.",,down method
+Cloze,"Ang {{c1::table name}} ng model ay awtomatikong tinutukoy mula sa pluralized class name.",,table name
+Cloze,"Ang {{c1::primary key}} ay ang unique identifier ng bawat row sa isang table.",,primary key
+Cloze,"Ang {{c1::timestamps}} ay awtomatikong nagma-manage ng created_at at updated_at columns.",,timestamps
