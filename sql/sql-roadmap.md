@@ -29,11 +29,11 @@
 
 ## Data Manipulation
 
-- [ ] **Phase 17** — INSERT: single, multi-row, SELECT INTO, RETURNING
-- [ ] **Phase 18** — UPDATE & DELETE: filters, joins, cascades, RETURNING
-- [ ] **Phase 19** — Transactions: BEGIN, COMMIT, ROLLBACK, savepoints
-- [ ] **Phase 20** — DDL: CREATE/DROP/ALTER tables, constraints, indexes
-- [ ] **Phase 21** — UPSERT: ON CONFLICT, MERGE, idempotent writes
+- [x] **Phase 17** — INSERT: single, multi-row, SELECT INTO, RETURNING
+- [x] **Phase 18** — UPDATE & DELETE: filters, joins, cascades, RETURNING
+- [x] **Phase 19** — Transactions: BEGIN, COMMIT, ROLLBACK, savepoints
+- [x] **Phase 20** — DDL: CREATE/DROP/ALTER tables, constraints, indexes
+- [x] **Phase 21** — UPSERT: ON CONFLICT, MERGE, idempotent writes
 
 ## Query Optimization
 
