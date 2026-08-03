@@ -62,11 +62,11 @@
 
 ## Concurrency & Transactions
 
-- [ ] **Phase 38** — ACID: atomicity, consistency, isolation, durability
-- [ ] **Phase 39** — Isolation levels: read committed, repeatable read, serializable
-- [ ] **Phase 40** — Locks & deadlocks: shared/exclusive, blocking, detection
-- [ ] **Phase 41** — MVCC: snapshot isolation, versions, vacuum/cleanup
-- [ ] **Phase 42** — Concurrency patterns: optimistic locking, retries
+- [x] **Phase 38** — ACID: atomicity, consistency, isolation, durability
+- [x] **Phase 39** — Isolation levels: read committed, repeatable read, serializable
+- [x] **Phase 40** — Locks & deadlocks: shared/exclusive, blocking, detection
+- [x] **Phase 41** — MVCC: snapshot isolation, versions, vacuum/cleanup
+- [x] **Phase 42** — Concurrency patterns: optimistic locking, retries
 
 ## SQL in Practice
 
