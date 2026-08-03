@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::Packagist}} ay ang pangunahing repository ng PHP packages.",,Packagist
+Cloze,"Ang {{c1::package}} ay isang reusable na library na naka-install sa pamamagitan ng Composer.",,package
+Cloze,"Ang {{c1::version constraint}} ay tumutukoy kung anong versions ang pinapayagan para sa package.",,version constraint
+Cloze,"Ang {{c1::lockfile}} ay nagpapa-fix ng eksaktong version ng bawat package.",,lockfile
+Cloze,"Ang {{c1::caret constraint}} tulad ng ^1.0 ay nagpapahintulot ng minor at patch updates.",,caret constraint
+Cloze,"Ang {{c1::tilde constraint}} tulad ng ~1.2 ay nagli-limit ng updates sa patch version.",,tilde constraint
+Cloze,"Ang {{c1::dev dependencies}} ay mga package para sa development lamang.",,dev dependencies
+Cloze,"Ang {{c1::--prefer-dist}} ay nagda-download ng packages bilang zip files.",,--prefer-dist
+Cloze,"Ang {{c1::composer outdated}} ay nagpapakita ng mga packages na may mas bagong version.",,composer outdated
+Cloze,"Ang {{c1::transitive dependencies}} ay mga dependencies ng mga dependencies.",,transitive dependencies

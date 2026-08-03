@@ -1,0 +1,5 @@
+Application,"Paano mag-check ng coding standard violations?",,"phpcs --standard=PSR12 path/to/file.php"
+Application,"Paano mag-autoload gamit ang PSR-4?",,"I-configure ang composer.json autoload.psr-4."
+Application,"Paano mag-implement ng PSR-3 logger?",,"I-implement ang Psr\Log\LoggerInterface sa custom logger."
+Application,"Paano gumamit ng PSR-7 request sa code?",,"I-type-hint ang Psr\Http\Message\RequestInterface."
+Application,"Paano i-format ang code ayon sa PSR-12?",,"Gamitin ang php-cs-fixer na may PSR12 config."

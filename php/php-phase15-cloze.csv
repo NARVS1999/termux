@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::PSR-1}} ay ang basic coding standard para sa PHP files.",,PSR-1
+Cloze,"Ang {{c1::PSR-12}} ay ang extended coding style guide ng PHP.",,PSR-12
+Cloze,"Ang {{c1::PSR-4}} ay ang autoloading standard para sa classes.",,PSR-4
+Cloze,"Ang {{c1::PSR-7}} ay ang standard para sa HTTP message interfaces.",,PSR-7
+Cloze,"Ang {{c1::PSR-3}} ay ang standard para sa logger interfaces.",,PSR-3
+Cloze,"Ang {{c1::PSR-2}} ay ang dating coding style standard na pinalitan ng PSR-12.",,PSR-2
+Cloze,"Ang {{c1::coding standard}} ay ang set ng conventions para sa pagsulat ng consistent na code.",,coding standard
+Cloze,"Ang {{c1::PSR-11}} ay ang standard para sa container interfaces.",,PSR-11
+Cloze,"Ang {{c1::PSR-6}} ay ang standard para sa caching interfaces.",,PSR-6
+Cloze,"Ang {{c1::PSR-0}} ay ang lumang autoloading standard na pinalitan ng PSR-4.",,PSR-0

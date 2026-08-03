@@ -1,0 +1,5 @@
+Application,"Paano mag-register ng PSR-4 autoload?",,"I-add ang \"psr-4\": {\"App\\\\\": \"app/\"} sa autoload section."
+Application,"Paano mag-add ng files autoload?",,"I-add ang \"files\": [\"src/helpers.php\"] sa autoload section."
+Application,"Paano mag-require ng autoloader?",,"require __DIR__ . '/vendor/autoload.php';"
+Application,"Paano gumawa ng classmap autoload?",,"I-add ang \"classmap\": [\"src/\"] sa autoload section."
+Application,"Paano mag-regenerate ng autoload files?",,"composer dump-autoload"

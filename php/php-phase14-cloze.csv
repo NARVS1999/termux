@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::semantic versioning}} ay gumagamit ng MAJOR.MINOR.PATCH na format.",,semantic versioning
+Cloze,"Ang {{c1::MAJOR version}} ay tumataas kapag may breaking changes.",,MAJOR version
+Cloze,"Ang {{c1::MINOR version}} ay tumataas kapag may bagong features na backward compatible.",,MINOR version
+Cloze,"Ang {{c1::PATCH version}} ay tumataas kapag may bug fixes.",,PATCH version
+Cloze,"Ang {{c1::version constraint}} ay nagse-specify ng allowed version ranges.",,version constraint
+Cloze,"Ang {{c1::stability}} ay tumutukoy sa maturity ng package tulad ng stable o beta.",,stability
+Cloze,"Ang {{c1::minimum-stability}} ay ang pinakamababang stability na tinatanggap sa composer.json.",,minimum-stability
+Cloze,"Ang {{c1::pre-release}} tulad ng RC at beta ay may kalakip na suffix sa version.",,pre-release
+Cloze,"Ang {{c1::wildcard constraint}} tulad ng 1.* ay tumutugma sa anumang version sa major 1.",,wildcard constraint
+Cloze,"Ang {{c1::exact version}} ay nagli-lock sa isang specific version tulad ng 1.2.3.",,exact version

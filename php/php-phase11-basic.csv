@@ -1,0 +1,5 @@
+Application,"Paano gumawa ng bagong composer.json?",,"composer init"
+Application,"Paano mag-install ng dependencies?",,"composer install"
+Application,"Paano mag-add ng package?",,"composer require vendor/package"
+Application,"Paano mag-add ng custom script?",,"I-add ang \"scripts\": {\"test\": \"phpunit\"} sa composer.json."
+Application,"Paano mag-update ng isang package lang?",,"composer update vendor/package"

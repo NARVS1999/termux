@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::composer init}} ay ang command na gumagawa ng bagong composer.json.",,composer init
+Cloze,"Ang {{c1::composer install}} ay nag-i-install ng dependencies mula sa composer.lock.",,composer install
+Cloze,"Ang {{c1::composer require}} ay nag-a-add at nag-i-install ng bagong package.",,composer require
+Cloze,"Ang {{c1::composer scripts}} ay mga custom commands na tinutukoy sa composer.json.",,composer scripts
+Cloze,"Ang {{c1::composer.json}} ay ang configuration file ng project dependencies.",,composer.json
+Cloze,"Ang {{c1::composer.lock}} ay nagre-record ng eksaktong versions ng naka-install na packages.",,composer.lock
+Cloze,"Ang {{c1::vendor directory}} ay kung saan naka-install ang lahat ng dependencies.",,vendor directory
+Cloze,"Ang {{c1::composer dump-autoload}} ay nagre-regenerate ng autoload files.",,composer dump-autoload
+Cloze,"Ang {{c1::composer update}} ay nag-a-update ng mga dependencies sa latest allowed versions.",,composer update
+Cloze,"Ang {{c1::composer validate}} ay nag-cha-check kung valid ang composer.json.",,composer validate

@@ -1,0 +1,5 @@
+Application,"Paano maghanap ng package?",,"composer search package-name"
+Application,"Paano mag-install ng package na may specific version?",,"composer require vendor/package:^2.0"
+Application,"Paano mag-install ng dev dependency?",,"composer require --dev phpunit/phpunit"
+Application,"Paano makita ang outdated packages?",,"composer outdated"
+Application,"Paano mag-install gamit ang lockfile versions?",,"composer install --no-dev"

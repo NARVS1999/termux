@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::PSR-4 mapping}} ay nagma-map ng namespace prefix sa directory.",,PSR-4 mapping
+Cloze,"Ang {{c1::classmap}} ay nag-scan ng lahat ng classes sa isang directory.",,classmap
+Cloze,"Ang {{c1::files autoload}} ay nag-a-auto-load ng specific files tuwing nagbo-bootstrap ang Composer.",,files autoload
+Cloze,"Ang {{c1::autoload section}} sa composer.json ay tumutukoy kung paano mag-a-auto-load ang classes.",,autoload section
+Cloze,"Ang {{c1::autoload-dev}} ay ang autoloading para sa development classes.",,autoload-dev
+Cloze,"Ang {{c1::namespace prefix}} ay ang root namespace na naka-map sa isang folder.",,namespace prefix
+Cloze,"Ang {{c1::optimized autoloader}} ay nagpapabilis ng autoloading gamit ang classmap.",,optimized autoloader
+Cloze,"Ang {{c1::composer install --optimize-autoloader}} ay gumagawa ng optimized autoloader.",,composer install --optimize-autoloader
+Cloze,"Ang {{c1::autoloader file}} ay ang vendor/autoload.php na kailangang i-require.",,autoloader file
+Cloze,"Ang {{c1::classmap autoload}} ay hindi nangangailangan ng PSR-4 structure.",,classmap autoload
