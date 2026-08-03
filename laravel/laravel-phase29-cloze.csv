@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::XSS}} attack ay nag-i-inject ng malicious scripts sa rendered pages.",,XSS attack
+Cloze,"Ang {{c1::CSRF}} ay isang attack na nagpe-fake ng request mula sa isang authenticated user.",,CSRF
+Cloze,"Ang {{c1::SQL injection}} ay nangyayari kapag nag-i-inject ng malicious SQL sa mga queries.",,SQL injection
+Cloze,"Ang {{c1::mass assignment}} ay ang pag-save ng hindi dapat na-update na attributes sa model.",,mass assignment
+Cloze,"Ang {{c1::escaping}} ay nag-convert ng special characters para hindi i-interpret bilang code.",,escaping
+Cloze,"Ang {{c1::security headers}} tulad ng X-Frame-Options ay nagpro-protekt sa application mula sa attacks.",,security headers
+Cloze,"Ang {{c1::parameterized queries}} ay gumagamit ng placeholders para iwasan ang SQL injection.",,parameterized queries
+Cloze,"Ang {{c1::$fillable}} property ay naglilimita kung aling attributes ang mass assignable.",,$fillable property
+Cloze,"Ang {{c1::password hashing}} ay gumagamit ng bcrypt o argon2 para i-secure ang passwords.",,password hashing
+Cloze,"Ang {{c1::{{ }} syntax}} ay awtomatikong nag-e-escape ng output sa Blade.",,{{ }} syntax

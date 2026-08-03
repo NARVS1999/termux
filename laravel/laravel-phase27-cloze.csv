@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::authentication}} ay ang proseso ng pag-verify ng identity ng isang user.",,authentication
+Cloze,"Ang {{c1::guard}} ay tumutukoy kung paano ine-authenticate ang mga users sa bawat request.",,guard
+Cloze,"Ang {{c1::login flow}} ay ang proseso ng pag-validate ng credentials at pag-set ng authenticated session.",,login flow
+Cloze,"Ang {{c1::scaffolding}} ay ang pre-built authentication views at routes na nililikha ng artisan.",,scaffolding
+Cloze,"Ang {{c1::Auth facade}} ay ginagamit para i-access ang authentication services.",,Auth facade
+Cloze,"Ang {{c1::attempt()}} method ay nag-validate ng credentials at nagsisimula ng session.",,attempt() method
+Cloze,"Ang {{c1::logout}} ay nagtatanggal ng authenticated session ng user.",,logout
+Cloze,"Ang {{c1::auth middleware}} ay nagre-restrict ng access sa mga logged-in users lang.",,auth middleware
+Cloze,"Ang {{c1::remember me}} ay nagpapanatili ng login state gamit ang long-lived token.",,remember me
+Cloze,"Ang {{c1::rate limiter}} para sa login ay nagpapabagal ng brute force attempts.",,rate limiter

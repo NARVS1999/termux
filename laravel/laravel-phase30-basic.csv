@@ -1,0 +1,5 @@
+Application,"Paano mag-validate ng request data sa controller?",,"$validated = $request->validate(['email' => 'required|email']);"
+Application,"Paano gumawa ng form request?",,"php artisan make:request StorePostRequest"
+Application,"Paano mag-set ng custom validation rule?",,"php artisan make:rule Uppercase"
+Application,"Paano mag-check ng unique email sa users table?",,"$request->validate(['email' => 'required|unique:users']);"
+Application,"Paano i-access ang validated data sa form request?",,"$request->validated()"

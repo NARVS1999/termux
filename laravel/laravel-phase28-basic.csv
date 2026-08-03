@@ -1,0 +1,5 @@
+Application,"Paano mag-define ng gate?",,"Gate::define('update-post', fn(User $user, Post $post) => $user->id === $post->user_id);"
+Application,"Paano i-check kung kaya ng user ang action?",,"$user->can('update', $post)"
+Application,"Paano mag-authorize sa controller?",,"$this->authorize('update', $post);"
+Application,"Paano gumawa ng policy?",,"php artisan make:policy PostPolicy --model=Post"
+Application,"Paano i-register ang policy?",,"I-add ang Post::class => PostPolicy::class sa AuthServiceProvider."

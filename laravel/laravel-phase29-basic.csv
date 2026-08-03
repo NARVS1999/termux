@@ -1,0 +1,5 @@
+Application,"Paano iwasan ang mass assignment?",,"I-set ang $fillable sa model o gamitin ang validated data."
+Application,"Paano i-hash ang password?",,"Hash::make($password) o bcrypt($password)"
+Application,"Paano mag-run ng safe query na may user input?",,"Gumamit ng query builder na may where('email', $input) imbes na raw SQL."
+Application,"Paano i-sanitize ang output sa Blade?",,"Gamitin ang {{ $user->bio }} na awtomatikong nag-e-escape."
+Application,"Paano mag-add ng security headers?",,"I-add ang middleware na nagse-set ng headers tulad ng X-Frame-Options."

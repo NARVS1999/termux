@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::authorization}} ay ang proseso ng pagtukoy kung may permission ang user para sa isang action.",,authorization
+Cloze,"Ang {{c1::gate}} ay nagde-defines ng authorization rules gamit ang closures.",,gate
+Cloze,"Ang {{c1::policy}} ay nag-oorganize ng authorization logic base sa isang model.",,policy
+Cloze,"Ang {{c1::ability}} ay ang action na maaaring i-authorize tulad ng update o delete.",,ability
+Cloze,"Ang {{c1::Gate::allows}} ay nag-che-check kung pinapayagan ang isang action.",,Gate::allows
+Cloze,"Ang {{c1::authorize()}} method ay nag-throw ng exception kung hindi pinapayagan ang action.",,authorize() method
+Cloze,"Ang {{c1::can()}} method ay ginagamit sa views at controllers para i-check ang permission.",,can() method
+Cloze,"Ang {{c1::policy class}} ay nakarehistro para sa isang specific model.",,policy class
+Cloze,"Ang {{c1::before method}} sa Gate ay nag-o-override ng lahat ng authorization rules.",,before method
+Cloze,"Ang {{c1::deny}} ay ang resulta kapag walang permission ang user.",,deny

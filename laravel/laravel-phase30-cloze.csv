@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::validation}} ay nag-verify ng data bago ito i-save o i-process.",,validation
+Cloze,"Ang {{c1::validation rule}} ay tumutukoy sa mga requirement para sa isang field.",,validation rule
+Cloze,"Ang {{c1::custom rule}} ay isang user-defined validation rule para sa specific requirement.",,custom rule
+Cloze,"Ang {{c1::form request}} ay isang class na nag-oorganize ng validation at authorization logic.",,form request
+Cloze,"Ang {{c1::validate()}} method ay nagre-return ng validated data o nag-throw ng ValidationException.",,validate() method
+Cloze,"Ang {{c1::required}} rule ay nagsasabing kailangan ang field.",,required rule
+Cloze,"Ang {{c1::unique}} rule ay nag-cha-check na ang value ay hindi pa ginagamit sa isang table.",,unique rule
+Cloze,"Ang {{c1::validation messages}} ay ang mga error messages na ipinapakita sa user.",,validation messages
+Cloze,"Ang {{c1::rule object}} ay isang class-based na custom validation rule.",,rule object
+Cloze,"Ang {{c1::validated()}} method ng form request ay nagre-return ng validated inputs lamang.",,validated() method

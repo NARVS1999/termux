@@ -1,0 +1,5 @@
+Application,"Paano mag-limit ng requests sa isang route?",,"Route::middleware('throttle:60,1')->group(...);"
+Application,"Paano mag-define ng custom rate limiter?",,"Gamitin ang RateLimiter::for('login', fn($req) => Limit::perMinute(5)) sa AppServiceProvider."
+Application,"Paano mag-check kung naka-exceed ang rate limit?",,"I-check ang response status code 429."
+Application,"Paano mag-hit ng rate limit sa API routes?",,"I-add ang throttle middleware sa api route group."
+Application,"Paano i-customize ang throttle key base sa user?",,"I-set ang key gamit ang user id o IP sa RateLimiter::for() definition."

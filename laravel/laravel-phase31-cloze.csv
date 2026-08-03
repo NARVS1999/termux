@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::rate limiting}} ay nagli-limit sa bilang ng requests na kayang gawin ng isang user.",,rate limiting
+Cloze,"Ang {{c1::throttle middleware}} ay nagre-restrict ng requests per time window.",,throttle middleware
+Cloze,"Ang {{c1::rate limiter}} ay nagte-track ng request counts base sa key ng user o IP.",,rate limiter
+Cloze,"Ang {{c1::quota}} ay ang maximum na bilang ng requests sa isang period.",,quota
+Cloze,"Ang {{c1::limit}} ay ang bilang ng requests na pinapayagan sa isang minute.",,limit
+Cloze,"Ang {{c1::RateLimiter facade}} ay nagbibigay ng API para sa custom rate limiting.",,RateLimiter facade
+Cloze,"Ang {{c1::too many requests}} ay nagre-return ng 429 status code.",,too many requests
+Cloze,"Ang {{c1::retry-after header}} ay nagsasabi kung kailan makakapag-retry ang client.",,retry-after header
+Cloze,"Ang {{c1::cache}} ay ginagamit ng rate limiter para mag-imbak ng request counts.",,cache
+Cloze,"Ang {{c1::throttle:60,1}} ay nagpapahintulot ng 60 requests kada minute.",,throttle:60,1

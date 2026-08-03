@@ -1,0 +1,5 @@
+Application,"Paano i-check kung logged in ang user?",,"auth()->check()"
+Application,"Paano i-login ang user gamit ang credentials?",,"Auth::attempt(['email' => $email, 'password' => $password]);"
+Application,"Paano makuha ang current user?",,"auth()->user()"
+Application,"Paano mag-logout ng user?",,"Auth::logout();"
+Application,"Paano protektahan ang isang route para sa logged-in users?",,"I-apply ang ->middleware('auth') sa route."
