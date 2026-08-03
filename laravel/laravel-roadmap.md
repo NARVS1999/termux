@@ -68,10 +68,10 @@
 
 ## Queues, Jobs & Events
 
-- [ ] **Phase 41** — Queues & jobs: drivers, dispatch, retries, failed jobs
-- [ ] **Phase 42** — Events & listeners: dispatching, subscribers
-- [ ] **Phase 43** — Scheduling: tasks, cron, command scheduling
-- [ ] **Phase 44** — Mail & notifications: mailables, channels, queues
+- [x] **Phase 41** — Queues & jobs: drivers, dispatch, retries, failed jobs
+- [x] **Phase 42** — Events & listeners: dispatching, subscribers
+- [x] **Phase 43** — Scheduling: tasks, cron, command scheduling
+- [x] **Phase 44** — Mail & notifications: mailables, channels, queues
 
 ## Performance & Deployment
 
