@@ -21,11 +21,11 @@
 
 ## Aggregation & Window Functions
 
-- [ ] **Phase 12** — GROUP BY: grouping, grouping sets, ROLLUP, CUBE
-- [ ] **Phase 13** — HAVING: filtering groups, comparisons with aggregates
-- [ ] **Phase 14** — Aggregate functions: COUNT, SUM, AVG, MIN, MAX, DISTINCT aggregates
-- [ ] **Phase 15** — Window functions: PARTITION BY, ORDER BY, frames
-- [ ] **Phase 16** — Ranking functions: ROW_NUMBER, RANK, DENSE_RANK, NTILE
+- [x] **Phase 12** — GROUP BY: grouping, grouping sets, ROLLUP, CUBE
+- [x] **Phase 13** — HAVING: filtering groups, comparisons with aggregates
+- [x] **Phase 14** — Aggregate functions: COUNT, SUM, AVG, MIN, MAX, DISTINCT aggregates
+- [x] **Phase 15** — Window functions: PARTITION BY, ORDER BY, frames
+- [x] **Phase 16** — Ranking functions: ROW_NUMBER, RANK, DENSE_RANK, NTILE
 
 ## Data Manipulation
 
