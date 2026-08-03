@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::numeric data type}} ay nag-iimbak ng mga numero tulad ng INTEGER at DECIMAL.",,numeric data type
+Cloze,"Ang {{c1::string data type}} ay nag-iimbak ng text tulad ng VARCHAR at TEXT.",,string data type
+Cloze,"Ang {{c1::date/time type}} ay nag-iimbak ng mga petsa tulad ng DATE at TIMESTAMP.",,date/time type
+Cloze,"Ang {{c1::boolean}} ay nag-iimbak ng true o false values.",,boolean
+Cloze,"Ang {{c1::casting}} ay ang pagko-convert ng value mula sa isang type papunta sa iba.",,casting
+Cloze,"Ang {{c1::INTEGER}} ay nag-iimbak ng buong numero.",,INTEGER
+Cloze,"Ang {{c1::DECIMAL}} ay nag-iimbak ng mga numero na may decimal places.",,DECIMAL
+Cloze,"Ang {{c1::VARCHAR}} ay nag-iimbak ng variable-length na string.",,VARCHAR
+Cloze,"Ang {{c1::TIMESTAMP}} ay nag-iimbak ng petsa at oras.",,TIMESTAMP
+Cloze,"Ang {{c1::implicit conversion}} ay ang awtomatikong pag-convert ng type ng database.",,implicit conversion

@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::DISTINCT}} ay nag-aalis ng duplicate rows sa result.",,DISTINCT
+Cloze,"Ang {{c1::column alias}} ay nagbibigay ng alternatibong pangalan sa column sa result.",,column alias
+Cloze,"Ang {{c1::table alias}} ay nagbibigay ng maikling pangalan sa table sa query.",,table alias
+Cloze,"Ang {{c1::AS}} keyword ay ginagamit para mag-define ng alias.",,AS keyword
+Cloze,"Ang {{c1::deduplication}} ay ang pag-alis ng mga duplicate values.",,deduplication
+Cloze,"Ang {{c1::aliased expression}} ay ang computed value na may pangalan.",,aliased expression
+Cloze,"Ang {{c1::alias}} ay hindi nagbabago sa actual na column name.",,alias
+Cloze,"Ang {{c1::quoted alias}} ay ginagamit kapag may spaces ang alias.",,quoted alias
+Cloze,"Ang {{c1::multi-column DISTINCT}} ay tumutukoy sa unique combination ng columns.",,multi-column DISTINCT
+Cloze,"Ang {{c1::count distinct}} ay nagbibilang ng unique values.",,count distinct

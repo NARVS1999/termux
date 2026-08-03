@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::SELECT}} statement ay ginagamit para kumuha ng data mula sa database.",,SELECT
+Cloze,"Ang {{c1::column}} ay ang field na pinipili sa SELECT statement.",,column
+Cloze,"Ang {{c1::expression}} ay ang computed value sa SELECT tulad ng price * quantity.",,expression
+Cloze,"Ang {{c1::literal}} ay isang fixed value tulad ng 'active' o 42 sa query.",,literal
+Cloze,"Ang {{c1::LIMIT}} clause ay naglilimita sa bilang ng rows na ibabalik.",,LIMIT
+Cloze,"Ang {{c1::SELECT *}} ay pumipili ng lahat ng columns ng table.",,SELECT *
+Cloze,"Ang {{c1::FROM}} clause ay tumutukoy kung saang table kukunin ang data.",,FROM
+Cloze,"Ang {{c1::result set}} ay ang rows na ibinalik ng query.",,result set
+Cloze,"Ang {{c1::row}} ay isang record sa result set.",,row
+Cloze,"Ang {{c1::SELECT DISTINCT}} ay nag-aalis ng duplicate rows.",,SELECT DISTINCT

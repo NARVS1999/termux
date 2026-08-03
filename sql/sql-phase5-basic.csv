@@ -1,0 +1,5 @@
+Application,"Paano i-cast ang value sa integer?",,"SELECT CAST('123' AS INTEGER);"
+Application,"Paano mag-declare ng DECIMAL column?",,"price DECIMAL(10, 2)"
+Application,"Paano mag-imbak ng text na may fixed length?",,"Gamitin ang CHAR(n) na may fixed length."
+Application,"Paano kumuha ng current timestamp?",,"SELECT CURRENT_TIMESTAMP;"
+Application,"Paano i-check ang type ng value?",,"I-query ang information_schema o gumamit ng pg_typeof sa PostgreSQL."

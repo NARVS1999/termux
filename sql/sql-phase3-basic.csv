@@ -1,0 +1,5 @@
+Application,"Paano mag-sort ng users sa pinakabago?",,"SELECT * FROM users ORDER BY created_at DESC;"
+Application,"Paano mag-sort gamit ang dalawang columns?",,"SELECT * FROM products ORDER BY category, price;"
+Application,"Paano mag-paginate gamit ang OFFSET at FETCH?",,"SELECT * FROM posts ORDER BY id OFFSET 20 ROWS FETCH NEXT 10 ROWS ONLY;"
+Application,"Paano mag-sort ascending?",,"SELECT * FROM users ORDER BY name ASC;"
+Application,"Paano kumuha ng pangalawang page ng results?",,"SELECT * FROM posts LIMIT 10 OFFSET 10;"

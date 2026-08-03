@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::ORDER BY}} clause ay nag-aayos ng result base sa isang column.",,ORDER BY
+Cloze,"Ang {{c1::ASC}} ay ang ascending order na default ng ORDER BY.",,ASC
+Cloze,"Ang {{c1::DESC}} ay ang descending order ng ORDER BY.",,DESC
+Cloze,"Ang {{c1::multiple keys}} sa ORDER BY ay pinag-uuri ang rows base sa ilang columns.",,multiple keys
+Cloze,"Ang {{c1::OFFSET}} ay lumalaktaw sa mga unang rows ng result.",,OFFSET
+Cloze,"Ang {{c1::FETCH}} ay tumutukoy kung ilang rows ang kukunin pagkatapos ng OFFSET.",,FETCH
+Cloze,"Ang {{c1::pagination}} ay ang paghahati ng result sa mga pages.",,pagination
+Cloze,"Ang {{c1::sort order}} ay tumutukoy kung ascending o descending ang pag-uuri.",,sort order
+Cloze,"Ang {{c1::LIMIT OFFSET}} ay ang karaniwang paraan ng pag-paginate sa MySQL.",,LIMIT OFFSET
+Cloze,"Ang {{c1::tie-breaking}} ay ang pag-aayos ng pantay-pantay na values sa sort.",,tie-breaking

@@ -1,0 +1,5 @@
+Application,"Paano mag-filter ng users na active?",,"SELECT * FROM users WHERE active = 1;"
+Application,"Paano mag-filter ng users sa isang listahan ng ids?",,"SELECT * FROM users WHERE id IN (1, 2, 3);"
+Application,"Paano mag-filter ng presyo sa isang range?",,"SELECT * FROM products WHERE price BETWEEN 10 AND 100;"
+Application,"Paano maghanap ng name na nagsisimula sa 'J'?",,"SELECT * FROM users WHERE name LIKE 'J%';"
+Application,"Paano mag-filter ng rows na may null email?",,"SELECT * FROM users WHERE email IS NULL;"

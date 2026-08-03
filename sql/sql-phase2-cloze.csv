@@ -1,0 +1,10 @@
+Cloze,"Ang {{c1::WHERE}} clause ay nagfi-filter ng rows base sa condition.",,WHERE
+Cloze,"Ang {{c1::operator}} ay ang simbolo tulad ng =, >, at < para sa pag-compare.",,operator
+Cloze,"Ang {{c1::IN}} operator ay nagche-check kung ang value ay nasa isang list.",,IN operator
+Cloze,"Ang {{c1::BETWEEN}} operator ay nagche-check kung ang value ay nasa isang range.",,BETWEEN
+Cloze,"Ang {{c1::LIKE}} operator ay nagma-match ng string pattern gamit ang % at _.",,LIKE
+Cloze,"Ang {{c1::NULL handling}} ay ginagawa gamit ang IS NULL at IS NOT NULL.",,NULL handling
+Cloze,"Ang {{c1::AND}} ay pinagsasama ang mga condition na dapat lahat ay totoo.",,AND
+Cloze,"Ang {{c1::OR}} ay pinagsasama ang mga condition na kahit isa ay totoo.",,OR
+Cloze,"Ang {{c1::NOT}} operator ay binabaliktad ang result ng condition.",,NOT
+Cloze,"Ang {{c1::wildcard}} ay ang % at _ na ginagamit sa LIKE patterns.",,wildcard

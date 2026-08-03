@@ -1,0 +1,5 @@
+Application,"Paano kumuha ng unique na cities?",,"SELECT DISTINCT city FROM users;"
+Application,"Paano mag-alias ng column?",,"SELECT name AS full_name FROM users;"
+Application,"Paano mag-alias ng table?",,"SELECT u.name FROM users AS u;"
+Application,"Paano mag-alias ng expression?",,"SELECT price * quantity AS total_price FROM orders;"
+Application,"Paano magbilang ng unique na categories?",,"SELECT COUNT(DISTINCT category) FROM products;"

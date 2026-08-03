@@ -1,0 +1,5 @@
+Application,"Paano pumili ng specific columns?",,"SELECT name, email FROM users;"
+Application,"Paano mag-return ng unang 10 rows?",,"SELECT * FROM users LIMIT 10;"
+Application,"Paano gumawa ng computed column?",,"SELECT price * quantity AS total FROM orders;"
+Application,"Paano pumili ng lahat ng columns?",,"SELECT * FROM posts;"
+Application,"Paano mag-select ng literal value?",,"SELECT 'active' AS status;"
