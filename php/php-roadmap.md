@@ -28,11 +28,11 @@
 
 ## Databases
 
-- [ ] **Phase 16** — PDO: connections, prepared statements, transactions
-- [ ] **Phase 17** — SQL with PHP: queries, fetching, error handling
-- [ ] **Phase 18** — Migrations: schema versioning, rollbacks, seeds
-- [ ] **Phase 19** — ORMs: Eloquent, Doctrine basics, relationships
-- [ ] **Phase 20** — Query optimization: indexing, eager loading, profiling
+- [x] **Phase 16** — PDO: connections, prepared statements, transactions
+- [x] **Phase 17** — SQL with PHP: queries, fetching, error handling
+- [x] **Phase 18** — Migrations: schema versioning, rollbacks, seeds
+- [x] **Phase 19** — ORMs: Eloquent, Doctrine basics, relationships
+- [x] **Phase 20** — Query optimization: indexing, eager loading, profiling
 
 ## Web Development
 
