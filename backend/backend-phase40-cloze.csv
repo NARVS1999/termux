@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Nginx}} ay isang high-performance web server na ginagamit bilang reverse proxy para sa Laravel applications.",,Nginx
 Cloze,"Ang {{c1::PHP-FPM}} o FastCGI Process Manager ay ang process manager na nagpapatakbo ng PHP code sa production.",,PHP-FPM
 Cloze,"Ang {{c1::Supervisor}} ay isang process control system na nagmo-monitor at nagre-restart ng mga processes.",,Supervisor

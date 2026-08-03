@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::message broker}} ay ang middleware para sa asynchronous communication ng services.",,message broker
 Cloze,"Ang {{c1::RabbitMQ}} ay ang message broker na gumagamit ng AMQP protocol.",,RabbitMQ
 Cloze,"Ang {{c1::Kafka}} ay ang distributed event streaming platform.",,Kafka

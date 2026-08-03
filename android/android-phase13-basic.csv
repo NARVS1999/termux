@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng mutable state sa Compose?","Gamitin ang remember at mutableStateOf.","val state = remember { mutableStateOf(0) }"
 Application,"Paano mag-hoist ng state mula sa child?","I-pass ang state at callback pataas at data pababa.","fun Parent() { var text by remember { mutableStateOf(\"\") }; Child(text, onTextChange = { text = it }) }"
 Application,"Paano mag-collect ng Flow as state?","Gamitin ang collectAsState sa composable.","val items by viewModel.items.collectAsState()"

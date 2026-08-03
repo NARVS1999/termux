@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Crashlytics}} ay Firebase service na nag-c-collect at nag-a-analyze ng app crashes.",,Crashlytics
 Cloze,"Ang {{c1::Firebase Analytics}} ay free analytics service na nag-t-tracks ng user behavior.",,Firebase Analytics
 Cloze,"Ang {{c1::alerts}} ay notifications na nag-n-nag-a-alert sa developers ng critical issues.",,alerts

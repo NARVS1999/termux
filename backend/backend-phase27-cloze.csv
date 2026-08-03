@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::secrets management}} ay ang proseso ng secure na pag-iimbak at pag-handle ng sensitive data tulad ng API keys, passwords, at tokens.",,secrets management
 Cloze,"Ang {{c1::.env}} file sa Laravel ay ginagamit para mag-imbak ng secrets at configuration na hindi dapat naka-commit sa version control.",,.env
 Cloze,"Ang {{c1::encryption}} ay ang proseso ng pag-convert ng readable data sa unreadable format para sa security.",,encryption

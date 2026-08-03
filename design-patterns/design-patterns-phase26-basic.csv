@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Visitor pattern?",,"gumawa ng visitor interface na may visit() para sa bawat element, i-add ang accept() sa elements"
 Application,"Kailan gumamit ng Visitor?",,"kapag gustong mag-add ng operations sa hierarchy ng objects nang hindi binabago ang classes"
 Application,"Ano ang double dispatch?",,"element.accept(visitor) → visitor.visit(element) — dalawang dispatch: isa para sa accept, isa para sa visit"

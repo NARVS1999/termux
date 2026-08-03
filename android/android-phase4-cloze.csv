@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::List}} ay immutable collection sa Kotlin na hindi pwedeng baguhin pagkatapos ng creation.",,List
 Cloze,"Ang {{c1::MutableList}} ay mutable version ng List na pwedeng i-add, i-remove, at i-update ng elements.",,MutableList
 Cloze,"Ang {{c1::Map}} ay collection na nag-i-store ng key-value pairs na immutable by default.",,Map

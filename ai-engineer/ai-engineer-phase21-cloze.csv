@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Ollama}} ay isang tool para mag-run ng open source models sa local machine.",,Ollama
 Cloze,"Ang {{c1::LM Studio}} ay isang desktop app para mag-download at mag-run ng local models.",,LM Studio
 Cloze,"Ang {{c1::Hugging Face Hub}} ay ang pinaka-popular na repository ng models at datasets.",,Hugging Face Hub

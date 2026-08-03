@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-enable ng HTTPS?","I-declare ang HTTPS sa network security config.","<domain-config cleartextTrafficPermitted=\"false\">"
 Application,"Paano mag-add ng certificate pinning?","I-define ang pins sa network security config.","<pin-set><pin digest=\"SHA-256\">base64hash</pin></pin-set>"
 Application,"Paano mag-block ng cleartext traffic?","I-set ang cleartextTrafficPermitted sa false.","android:networkSecurityConfig=\"@xml/network_security_config\""

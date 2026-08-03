@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::App Bundle}} (.aab) ay publishing format na nag-o-optimizes ng APK para sa bawat device.",,App Bundle
 Cloze,"Ang {{c1::APK}} ay Android Package file na nag-c-contains ng app installation data.",,APK
 Cloze,"Ang {{c1::asset delivery}} ay Play Feature Delivery na nag-d-dynamic ng features based sa need.",,asset delivery

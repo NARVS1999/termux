@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Observer pattern?",,"gumawa ng Subject class na may attach/detach/notify methods, at Observer interface na may update method"
 Application,"Kailan gumamit ng Observer pattern?",,"kapag ang isang object ay kailangang mag-notify ng maraming iba't ibang objects ng changes"
 Application,"Ano ang pagkakaiba ng Observer at pub-sub?",,"Observer: direct subscription. Pub-sub: event bus ang middleman — mas decoupled"

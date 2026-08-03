@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::slow query log}} ay ang MySQL feature na naglo-log ng queries na tumagal ng mahigit sa threshold.",,slow query log
 Cloze,"Ang {{c1::query profiling}} ay ang proseso ng pag-measure ng time na ginugol sa bawat step ng query.",,query profiling
 Cloze,"Ang {{c1::query rewriting}} ay ang technique ng pagbabago ng query para mas mabilis ang execution.",,query rewriting

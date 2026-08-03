@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::authentication}} ay ang proseso ng pag-verify ng identity ng isang user.",,authentication
 Cloze,"Ang {{c1::password hashing}} ay ang pag-convert ng password sa hash para secure itong i-store.",,password hashing
 Cloze,"Ang {{c1::bcrypt}} ay ang popular na password hashing algorithm na may built-in salt.",,bcrypt

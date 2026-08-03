@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::HTTPS}} ay ang secure na bersyon ng HTTP na nag-e-encrypt ng communication.",,HTTPS
 Cloze,"Ang {{c1::TLS}} ay ang protocol na nag-e-encrypt ng data sa pagitan ng client at server.",,TLS
 Cloze,"Ang {{c1::SSL certificate}} ay ang digital certificate na nagve-verify ng identity ng server.",,SSL certificate

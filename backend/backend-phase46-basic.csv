@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mabilis na maintindihan ang bagong Laravel codebase?",,"Simulan sa routes, pagkatapos controllers, models, at services — basahin ang tests para sa understanding"
 Application,"Paano mag-navigate ng malaking Laravel project?",,"Gamitin ang IDE features (Go to Definition, Find References), grep, at mag-start sa entry points"
 Application,"Paano mag-onboard sa bagong team project?",,"Basahin ang README, i-explore ang directory structure, i-run ang tests, at magtanong sa mga unclear parts"

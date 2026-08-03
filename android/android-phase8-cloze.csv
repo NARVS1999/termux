@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::explicit intent}} ay intent na nag-ta-target ng specific na component sa loob ng app.",,explicit intent
 Cloze,"Ang {{c1::implicit intent}} ay intent na nag-a-request ng action mula sa system na walang specific target.",,implicit intent
 Cloze,"Ang {{c1::intent filters}} ay declaration sa manifest na nag-s-specify ng actions na pwedeng tanggapin ng component.",,intent filters

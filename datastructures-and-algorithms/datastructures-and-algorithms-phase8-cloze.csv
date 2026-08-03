@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::prefix sum}} ay pre-computed array na nag-c-contains ng cumulative sums.",,prefix sum
 Cloze,"Sa prefix sums, ang {{c1::range sum}} ay computation ng sum sa loob ng [left, right] range.",,range sum
 Cloze,"Ang {{c1::subarray sum}} ay sum ng contiguous elements sa array.",,subarray sum

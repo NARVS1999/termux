@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-select ng specific columns?",,"SELECT name, email FROM users; — huwag gumamit ng *, piliin ang columns"
 Application,"Paano mag-filter ng results gamit ang WHERE?",,"SELECT * FROM users WHERE age > 18; — i-add ang WHERE clause"
 Application,"Paano mag-sort ng results?",,"SELECT * FROM users ORDER BY name ASC; — ASC para ascending, DESC para descending"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::partitioning}} ay ang proseso ng pag-hati ng isang malaking table sa mas maliliit na physical pieces.",,partitioning
 Cloze,"Ang {{c1::RANGE partitioning}} ay nagha-hati ng rows base sa value range: PARTITION BY RANGE (YEAR(created_at)).",,RANGE partitioning
 Cloze,"Ang {{c1::LIST partitioning}} ay nagha-hati ng rows base sa discrete values: PARTITION BY LIST (status).",,LIST partitioning

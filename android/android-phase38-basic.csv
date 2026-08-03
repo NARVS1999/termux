@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-optimize ng cold start?","Gamitin ang baseline profiles at i-defer ang non-essential init.","BaselineProfileGenerator().generateProfiles()"
 Application,"Paano mag-lazy load ng objects?","Gamitin ang by lazy delegation.","val heavyObject by lazy { createHeavyObject() }"
 Application,"Paano mag-measure ng startup time?","Gamitin ang Startup library metrics.","componentActivity.lifecycle.addObserver(StartupLogger())"

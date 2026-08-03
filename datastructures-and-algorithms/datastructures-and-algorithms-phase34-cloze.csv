@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::union-find}} ay data structure na nag-d-determines ng connectivity sa pagitan ng elements.",,union-find
 Cloze,"Ang {{c1::disjoint set}} ay collection ng non-overlapping sets.",,disjoint set
 Cloze,"Ang {{c1::find}} operation ay nag-b-balik ng representative ng set.",,find

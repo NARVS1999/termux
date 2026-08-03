@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::git flow}} ay isang branching strategy na may dedicated branches para sa features, releases, at hotfixes.",,git flow
 Cloze,"Ang {{c1::trunk-based development}} ay isang strategy kung saan lahat ay nag-co-commit sa iisang main branch.",,trunk-based development
 Cloze,"Ang {{c1::semantic versioning}} ay ang versioning format na Major.Minor.Patch (ex. 1.2.3) na nagpapahiwatig ng type ng changes.",,semantic versioning

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Adapter}} ay isang structural pattern na nagko-convert ng isang interface papunta sa isa pang interface.",,Adapter
 Cloze,"Ang {{c1::Adapter}} ay nagbibigay ng compatibility sa pagitan ng incompatible interfaces.",,Adapter
 Cloze,"Ang {{c1::object adapter}} ay gumagamit ng composition para i-wrap ang adaptee object.",,object adapter

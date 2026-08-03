@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::sliding window}} ay technique na nag-c-creates ng subarray/window na nag-m-moves sa array.",,sliding window
 Cloze,"Ang {{c1::fixed window}} ay sliding window na may constant na size.",,fixed window
 Cloze,"Ang {{c1::dynamic window}} ay sliding window na nag-a-adjust ng size based sa condition.",,dynamic window

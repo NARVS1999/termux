@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::indexing}} ay ang pag-organize ng embeddings para sa mabilis na paghahanap.",,indexing
 Cloze,"Ang {{c1::similarity search}} ay ang paghahanap ng vectors na pinaka-malapit sa query vector.",,similarity search
 Cloze,"Ang {{c1::HNSW}} (Hierarchical Navigable Small World) ay isang sikat na ANN algorithm para sa vector search.",,HNSW

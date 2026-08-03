@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::index}} ay isang database structure na nagpapabilis ng SELECT queries pero nagpapabagal ng INSERT/UPDATE.",,index
 Cloze,"Ang {{c1::composite index}} ay isang index na binubuo ng dalawa o higit pang columns.",,composite index
 Cloze,"Ang {{c1::covering index}} ay isang index na naglalaman ng lahat ng columns na kailangan ng query, kaya hindi na kailangan i-access ang table.",,covering index

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-add ng retry logic sa Laravel?",,"Gamitin ang retry() method: $this->retry(3, 1000)->run(function() { ... });"
 Application,"Paano mag-implement ng circuit breaker sa Laravel?",,"Gamitin ang package tulad ng quepasosimple/laravel-circuit-breaker o gumawa ng custom wrapper"
 Application,"Paano mag-add ng timeout sa HTTP requests sa Laravel?",,"Gamitin ang Http::timeout(5)->get($url) para mag-set ng 5-second timeout"

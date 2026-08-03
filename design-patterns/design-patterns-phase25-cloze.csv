@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Mediator pattern}} ay ang behavioral pattern na nag-centralize ng communications sa pagitan ng objects.",,Mediator pattern
 Cloze,"Ang {{c1::mediator}} ay ang central hub na nagko-coordinate ng interactions sa pagitan ng colleagues.",,mediator
 Cloze,"Ang {{c1::colleague}} ay ang object na nakikipag-ugnayan lang sa mediator, hindi sa isa't isa.",,colleague

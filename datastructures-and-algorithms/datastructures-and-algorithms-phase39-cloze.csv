@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::counting sort}} ay non-comparison sort na O(n + k) para sa bounded integers.",,counting sort
 Cloze,"Ang {{c1::radix sort}} ay sorting algorithm na nag-s-sorts digit by digit.",,radix sort
 Cloze,"Ang {{c1::bucket sort}} ay sorting algorithm na nag-g-groups ng elements sa buckets.",,bucket sort

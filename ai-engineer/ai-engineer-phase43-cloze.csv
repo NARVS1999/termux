@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::OpenAI Vision API}} ay nagpapahintulot sa model na mag-analyze ng mga images.",,OpenAI Vision API
 Cloze,"Ang {{c1::DALL-E}} ay ang image generation model ng OpenAI.",,DALL-E
 Cloze,"Ang {{c1::Whisper}} ay ang speech-to-text model ng OpenAI.",,Whisper

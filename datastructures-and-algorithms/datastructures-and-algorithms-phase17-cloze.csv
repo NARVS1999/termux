@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::priority queue}} ay queue na nag-s-serves ng highest priority element first.",,priority queue
 Cloze,"Ang {{c1::heap}} ay complete binary tree na nag-m-maintains ng heap property.",,heap
 Cloze,"Ang {{c1::max heap}} ay heap na ang parent ay laging mas malaki sa children.",,max heap

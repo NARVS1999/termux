@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Promise}} ay isang object na kumakatawan sa eventual completion o failure ng asynchronous operation.",,Promise
 Cloze,"Ang {{c1::async/await}} ay syntax sugar para sa Promises — nagpo-paalam sa synchronous-looking na asynchronous code.",,async/await
 Cloze,"Ang {{c1::.then()}} method ay nagha-handle ng fulfilled promise at nagre-receive ng result value.",,.then()

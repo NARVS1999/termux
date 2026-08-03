@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Domain-Driven Design}} (DDD) ay ang approach ng pag-o-organize ng code ayon sa business domains.",,Domain-Driven Design
 Cloze,"Ang {{c1::bounded context}} ay ang malinaw na boundary kung saan ang domain model ay applicable.",,bounded context
 Cloze,"Ang {{c1::aggregate}} ay ang cluster ng domain objects na nire-represent ng iisang root entity.",,aggregate

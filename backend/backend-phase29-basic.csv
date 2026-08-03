@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng unit test sa Laravel?",,"i-php artisan make:test UserTest --unit, pagkatapos i-implement ang test methods sa tests/Unit directory"
 Application,"Paano mag-create ng feature test sa Laravel?",,"i-php artisan make:test LoginTest, ang test file ay nasa tests/Feature directory"
 Application,"Paano mag-run ng tests sa Laravel?",,"gamitin ang phpunit o php artisan test command"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::frequency counting}} ay technique na nag-c-counts ng occurrences ng elements.",,frequency counting
 Cloze,"Ang {{c1::count}} ay number of times na nag-a-appear ang element sa data.",,count
 Cloze,"Ang {{c1::mode}} ay element na may pinakamataas na frequency.",,mode

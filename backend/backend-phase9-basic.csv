@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-ensure na ang dalawang DB operations ay parehong mag-succeed o mag-rollback?",,"I-wrap sa DB::transaction(function () { ... });"
 Application,"Paano iwasan ang dalawang users na mag-edit ng same row nang sabay?",,"Gamitin ang lock: DB::table('products')->where('id', 1)->lockForUpdate()->first();"
 Application,"Paano makita kung bakit mabagal ang isang query?",,"Patakbuhin ang EXPLAIN sa query at tingnan ang type, rows, at possible_keys columns."

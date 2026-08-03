@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-serialize ng object to JSON?","Gamitin ang GsontoJson() o Json.encodeToString().","Gson().toJson(user)"
 Application,"Paano mag-deserialize ng JSON to object?","Gamitin ang fromJson() o Json.decodeFromString().","Gson().fromJson(jsonString, User::class.java)"
 Application,"Paano mag-override ng JSON key name?","Gamitin ang @SerialName annotation sa property.","@SerialName(\"user_name\") val name: String"

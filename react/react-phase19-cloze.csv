@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::styled-components}} ay isang CSS-in-JS library na nagpo-paragraph ng styled React components gamit ang tagged template literals.",,styled-components
 Cloze,"Ang {{c1::CSS-in-JS}} ay ang paradigm ng pagsulat ng CSS styles sa loob ng JavaScript files.",,CSS-in-JS
 Cloze,"Ang {{c1::dynamic styles}} sa styled-components ay ang pagpapasa ng props para magbago ng styles: ${props => props.color}.",,dynamic styles

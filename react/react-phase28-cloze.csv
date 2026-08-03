@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::local state}} ay ang state na naka-confine sa loob ng isang component gamit ang useState.",,local state
 Cloze,"Ang {{c1::global state}} ay ang state na accessible sa lahat ng components sa application.",,global state
 Cloze,"Ang {{c1::lifting state up}} ay ang pag-move ng state sa common parent para i-share sa magkakapatid na components.",,lifting state up

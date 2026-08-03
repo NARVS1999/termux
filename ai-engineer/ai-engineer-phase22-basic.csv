@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-call sa OpenAI gamit ang SDK?",,"client.responses.create(model='gpt-4o', input='Hello world')"
 Application,"Paano gumawa ng embeddings sa OpenAI?",,"client.embeddings.create(model='text-embedding-3-small', input='text')"
 Application,"Paano mag-set ng API key?",,"os.environ['OPENAI_API_KEY'] = 'your-key-here'"

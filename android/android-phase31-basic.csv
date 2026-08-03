@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-collect ng flow safely sa Compose?","Gamitin ang collectAsState.","val state by viewModel.state.collectAsState()"
 Application,"Paano mag-collect ng flow sa lifecycle-aware way?","Gamitin ang repeatOnLifecycle.","lifecycleScope.launch { repeatOnLifecycle(STARTED) { flow.collect { } } }"
 Application,"Paano mag-convert ng Flow to StateFlow?","Gamitin ang stateIn operator.","val stateFlow = flow.stateIn(scope, SharingStarted.WhileSubscribed(), initialValue)"

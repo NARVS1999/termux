@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang OAuth2?",,"ang authorization framework na nagbibigay ng limited access sa user data: "Login with Google""
 Application,"Ano ang JWT?",,"compact token na naglalaman ng claims: {user_id: 1, role: 'admin'} — signed pero hindi encrypted"
 Application,"Kailan gumamit ng session vs JWT?",,"session: server-side, mas secure. JWT: stateless, mas scalable pero walang server-side revocation."

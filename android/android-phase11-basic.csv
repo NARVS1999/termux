@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-access ng string resource?","Gamitin ang getString() o R.string reference.","getString(R.string.app_name)"
 Application,"Paano mag-add ng localization?","Mag-create ng values-{lang} folder at i-translate ang strings.xml.","values-es/strings.xml"
 Application,"Paano mag-set ng app theme?","I-set ang theme sa AndroidManifest.xml o styles.xml.","android:theme=\"@style/Theme.Material3.DayNight\""

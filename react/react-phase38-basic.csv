@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-virtualize ang malaking list sa React?",,"<FixedSizeList height={500} itemCount={10000} itemSize={35}>{({index, style}) => <div style={style}>Item {index}</div>}</FixedSizeList>"
 Application,"Kailan kailangan ng virtualization?",,"kapag ang list ay may libu-libong items at nagco-cause ng performance issues"
 Application,"Paano gamitin ang react-window para sa variable height?",,"gamitin ang VariableSizeList component at i-pass ang itemSize function"

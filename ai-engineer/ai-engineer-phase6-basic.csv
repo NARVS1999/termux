@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano nag-generate ang LLM ng bagong text?",,"Token by token, ginagamit ang mga naunang tokens para i-predict ang susunod."
 Application,"Paano i-represent ang isang token para sa model?",,"I-convert sa embedding vector sa pamamagitan ng embedding layer."
 Application,"Paano malaman kung aling tokens ang importante sa input?",,"I-check ang attention weights ng model sa bawat token."

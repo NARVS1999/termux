@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-solve ng two-sum?","Gamitin ang HashMap na may complement lookup.","for (i in 0..n) { complement = target - arr[i]; if (map.containsKey(complement)) return [map[complement], i] }"
 Application,"Paano mag-find ng subarray with sum k?","Gamitin ang prefix sum na may HashMap.","prefixSum = 0; for (i in 0..n) { if (map.containsKey(prefixSum - k)) return indices }"
 Application,"Paano mag-group ng elements?","Gamitin ang HashMap na may key function.","val groups = list.groupBy { it.property }"

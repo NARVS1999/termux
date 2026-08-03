@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::binary tree}} ay tree na ang bawat node ay may at most two children: left at right.",,binary tree
 Cloze,"Ang {{c1::root}} ay unang node sa tree na walang parent.",,root
 Cloze,"Ang {{c1::leaf}} ay node na walang children.",,leaf

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::custom hook}} ay isang function na nagsisimula sa 'use' na nagre-reuse ng stateful logic sa maraming components.",,custom hook
 Cloze,"Ang {{c1::hook rules}} — mga hooks ay pwedeng tawagin lang sa loob ng functional components at custom hooks.",,hook rules
 Cloze,"Ang {{c1::hook composition}} ay ang paggamit ng maraming hooks sa loob ng isang custom hook.",,hook composition

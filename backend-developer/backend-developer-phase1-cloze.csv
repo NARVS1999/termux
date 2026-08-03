@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::internet}} ay ang global network ng mga interconnected computers na gumagamit ng standardized protocols para mag-share ng impormasyon.",,internet
 Cloze,"Ang {{c1::IP address}} ay ang unique numerical identifier ng bawat device na konektado sa network.",,IP address
 Cloze,"Ang {{c1::packet}} ay ang unit ng data na ipinapadala sa network mula sa source papunta sa destination.",,packet

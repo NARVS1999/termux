@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Object Pool sa JavaScript?",,Gumamit ng array bilang pool at i-manage ang available at in-use objects
 Application,"Paano mag-set ng tamang pool size?",,I-balance ang memory usage at performance — gamitin ang profiling para malaman ang optimal size
 Application,"Paano i-handle ang overflow sa Object Pool?",,Mag-add ng queue para sa mga naghihintay o lumikha ng temporary objects

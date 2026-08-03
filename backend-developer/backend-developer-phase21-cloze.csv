@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::JSON}} ay ang data format na karaniwang ginagamit sa API responses.",,JSON
 Cloze,"Ang {{c1::OpenAPI}} ay ang specification para i-describe ang structure ng isang API.",,OpenAPI
 Cloze,"Ang {{c1::API documentation}} ay ang docs na nagpapaliwanag kung paano gamitin ang API.",,API documentation

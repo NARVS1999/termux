@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::thread per connection}} ay ang MySQL handling model kung saan bawat connection ay may sariling thread.",,thread per connection
 Cloze,"Ang {{c1::connection pooling}} ay ang technique ng pag-reuse ng database connections para pabilisin ang access.",,connection pooling
 Cloze,"Ang {{c1::max_connections}} ay ang maximum na bilang ng simultaneous connections na pinapayagan.",,max_connections

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-evaluate ang RAG system?",,"Gumamit ng RAGAS o DeepEval na may eval dataset ng Q&A pairs."
 Application,"Paano i-measure ang faithfulness?",,"I-check kung ang bawat claim sa sagot ay nasa retrieved documents."
 Application,"Paano gumawa ng eval dataset?",,"Gumawa ng mga tanong na may inaasahang sagot at expected sources."

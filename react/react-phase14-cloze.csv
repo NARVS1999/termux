@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::useRef}} hook ay nagbibigay ng mutable ref object na hindi nagco-cause ng re-render kapag nagbabago ang value.",,useRef
 Cloze,"Ang {{c1::DOM ref}} ay ang useRef na ginagamit para i-access ang DOM element directly: useRef(null).",,DOM ref
 Cloze,"Ang {{c1::ref.current}} ay ang property kung saan naka-store ang mutable value sa useRef object.",,ref.current

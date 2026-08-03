@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::React Router}} ay ang declarative routing library para sa React na nagbibigay ng client-side routing.",,React Router
 Cloze,"Ang {{c1::BrowserRouter}} ay ang router component na gumagamit ng HTML5 History API para sa clean URLs.",,BrowserRouter
 Cloze,"Ang {{c1::Routes}} at {{c1::Route}} ay ang components na nagde-define ng URL-to-component mapping.",,Routes and Route

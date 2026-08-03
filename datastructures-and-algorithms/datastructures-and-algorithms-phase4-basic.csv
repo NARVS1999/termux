@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-understand ng problem?","Basahin nang mabuti, mag-draw ng examples, at i-clarify ang constraints.","Read problem > draw examples > clarify constraints"
 Application,"Paano mag-plan ng solution?","I-list ang possible approaches at i-compare ang time/space complexity.","List approaches > compare O(n) vs O(n log n)"
 Application,"Paano mag-test ng edge cases?","Mag-isip ng empty input, single element, at boundary values.","Test: empty array, one element, all same values"

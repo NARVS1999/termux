@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::single-column index}} ay index na gumagamit ng iisang column lang.",,single-column index
 Cloze,"Ang {{c1::composite index}} ay index na gumagamit ng dalawa o higit pang columns.",,composite index
 Cloze,"Ang {{c1::covering index}} ay index na naglalaman ng lahat ng columns na kailangan ng query.",,covering index

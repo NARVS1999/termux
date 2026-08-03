@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-test ng iisang function?",,"Sumulat ng unit test na nag-call sa function at nag-assert ng expected result."
 Application,"Paano mag-test ng interaction ng dalawang modules?",,"Sumulat ng integration test na gumagamit ng tunay na components."
 Application,"Paano mag-test ng buong user flow?",,"Gumamit ng E2E testing tool tulad ng Playwright o Cypress."

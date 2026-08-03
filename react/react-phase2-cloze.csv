@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::map}} method ay nagte-transform ng bawat element sa array at nagre-return ng bagong array.",,map
 Cloze,"Ang {{c1::filter}} method ay nagre-return ng bagong array na naglalaman lang ng elements na pumasa sa condition.",,filter
 Cloze,"Ang {{c1::reduce}} method ay nagco-convert ng array sa isang single value gamit ang accumulator function.",,reduce

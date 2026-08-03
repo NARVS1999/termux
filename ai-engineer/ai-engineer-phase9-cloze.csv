@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Meta Llama}} ay isang open source model family na mada-download at pwedeng i-deploy sa sariling infra.",,Meta Llama
 Cloze,"Ang {{c1::Mistral}} ay isang open source model na kilala sa efficiency at performance.",,Mistral
 Cloze,"Ang {{c1::Cohere}} ay nagpo-provide ng mga models para sa text generation, RAG, at embeddings.",,Cohere

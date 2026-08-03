@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::BST}} ay binary tree na ang left child ay mas maliit at right child ay mas malaki sa parent.",,BST
 Cloze,"Ang {{c1::insert}} sa BST ay O(log n) average kapag balanced.",,insert
 Cloze,"Ang {{c1::search}} sa BST ay O(log n) average time complexity.",,search

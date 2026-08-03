@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Error Boundary}} ay isang React component na nagco-catch ng JavaScript errors sa bawat level ng component tree.",,Error Boundary
 Cloze,"Ang {{c1::getDerivedStateFromError}} ay ang lifecycle method na nagse-set ng state kapag may error.",,getDerivedStateFromError
 Cloze,"Ang {{c1::componentDidCatch}} ay ang lifecycle method na naglo-log ng error details.",,componentDidCatch

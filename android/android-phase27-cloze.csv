@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::MVVM}} ay architecture pattern na nag-s-separates ng UI, business logic, at data layer.",,MVVM
 Cloze,"Ang {{c1::ViewModel}} ay component na nag-h-holds ng UI state at nag-e-exposes ng data sa UI layer.",,ViewModel
 Cloze,"Sa Android, ang {{c1::UI state}} ay data class na nag-r-represents ng lahat ng states ng screen.",,UI state

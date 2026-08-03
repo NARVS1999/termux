@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-backup gamit ang mysqldump?",,"mysqldump -u root -p mydb > backup.sql — i-dump ang buong database sa SQL file"
 Application,"Paano mag-restore ng backup?",,"mysql -u root -p mydb < backup.sql — i-restore ang database mula sa SQL file"
 Application,"Paano mag-backup ng lahat ng databases?",,"mysqldump -u root -p --all-databases > all_backup.sql — i-dump ang lahat"

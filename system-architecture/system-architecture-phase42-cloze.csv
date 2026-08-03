@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::query tuning}} ay ang proseso ng pag-optimize ng SQL queries para sa mas mabilis na execution.",,query tuning
 Cloze,"Ang {{c1::connection pooling}} ay ang technique ng pag-reuse ng database connections.",,connection pooling
 Cloze,"Ang {{c1::read replica}} ay ang database copy na ginagamit para sa read-heavy queries.",,read replica

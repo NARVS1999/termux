@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-call sa GPT model ng OpenAI?",,"client.responses.create(model='gpt-4o', input='Hello')"
 Application,"Paano mag-call sa Claude model?",,"client.messages.create(model='claude-3-5-sonnet', max_tokens=1024, messages=[...])"
 Application,"Paano gumamit ng Gemini para sa multimodal input?",,"I-send ang text at image sa Gemini API sa pamamagitan ng contents parameter."

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng custom middleware?",,"php artisan make:middleware EnsureTokenIsValid"
 Application,"Paano i-attach ang middleware sa isang route?",,"Route::get('users', ...)->middleware('auth')"
 Application,"Paano i-passthrough ang request sa susunod na middleware?",,"return $next($request);"

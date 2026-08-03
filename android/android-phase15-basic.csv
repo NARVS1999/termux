@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-set ng Material 3 theme?","I-define ang colorScheme sa theme composable.","MaterialTheme(colorScheme = lightColorScheme())"
 Application,"Paano mag-customize ng typography?","I-create ang custom Typography object.","val typography = Typography(displayLarge = TextStyle(fontFamily = FontFamily.Monospace))"
 Application,"Paano mag-use ng dynamic color?","I-check ang SDK version at i-apply ang dynamic color scheme.","if (Build.VERSION.SDK_INT >= 31) dynamicColorScheme(context)"

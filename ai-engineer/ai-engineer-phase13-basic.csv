@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng deterministic na output?",,"I-set ang temperature sa 0 para sa pinaka-deterministic na sagot."
 Application,"Paano mag-generate ng mas creative na sagot?",,"Itaas ang temperature (hal. 0.8-1.0)."
 Application,"Paano maiwasan ang paulit-ulit na text?",,"I-set ang repetition penalty na mas mataas sa 0 (hal. 1.2)."

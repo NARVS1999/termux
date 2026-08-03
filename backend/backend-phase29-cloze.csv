@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::unit test}} ay isang test na nag-i-isolate ng maliliit na bahagi ng code (functions, methods) para i-verify ang kanilang behavior nang mag-isa.",,unit test
 Cloze,"Ang {{c1::feature test}} ay isang test na nag-te-test ng buong workflow o feature mula request hanggang response.",,feature test
 Cloze,"Ang {{c1::integration test}} ay isang test na nag-ve-verify kung paano nagko-work together ang iba't ibang components ng application.",,integration test

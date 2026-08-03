@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::React Server Components}} (RSC) ay ang mga components na nagre-render sa server, hindi sa browser.",,React Server Components
 Cloze,"Ang {{c1::server component}} ay ang component na walang state o hooks — nagre-render lang sa server at nagse-send ng HTML.",,server component
 Cloze,"Ang {{c1::client component}} ay ang component na may 'use client' directive na nagre-render sa browser.",,client component

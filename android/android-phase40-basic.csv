@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-encrypt ng SharedPreferences?","Gamitin ang EncryptedSharedPreferences na may MasterKey.","EncryptedSharedPreferences.create(\"secret\", masterKey, PREF_FILE_MODE, PREF_KEY_MODE)"
 Application,"Paano mag-create ng biometric prompt?","Gamitin ang BiometricPrompt na may authentication callback.","BiometricPrompt(activity, executor, callback)"
 Application,"Paano mag-store ng key sa Keystore?","Gamitin ang KeyGenerator na may KeyStore provider.","KeyGenerator.getInstance(\"AES\", \"AndroidKeyStore\")"

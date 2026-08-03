@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::temperature}} ay nagkokontrol kung gaano ka-random ang mga sagot ng model.",,temperature
 Cloze,"Ang mababang {{c1::temperature}} (hal. 0.1) ay gumagawa ng mas deterministic at focused na output.",,temperature
 Cloze,"Ang {{c1::top-k}} sampling ay naglilimita sa pagpili ng susunod na token sa top k na pinakamalamang.",,top-k

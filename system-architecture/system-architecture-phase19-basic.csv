@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Kailan gumamit ng sharding?",,"kapag ang database ay hindi na kaya ng iisang server — malaking data o traffic"
 Application,"Ano ang hash-based sharding?",,"i-hash ang shard key, ang result ang nagde-determine ng shard — evenly distributed"
 Application,"Ano ang range-based sharding?",,"hatiin ayon sa range: orders 1-1M sa shard 1, 1M-2M sa shard 2 — pero hotspots possible"

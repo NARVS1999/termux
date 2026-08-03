@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::migrations}} ay version control para sa database schema ng Laravel.",,migrations
 Cloze,"Ang {{c1::seeder}} ay ginagamit para maglagay ng test o default data sa database.",,seeder
 Cloze,"Ang {{c1::factory}} ay isang class na nag-ge-generate ng fake data para sa models sa tests at seeders.",,factory

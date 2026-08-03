@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::code splitting}} ay ang technique ng paghahati ng bundle sa mas maliliit na chunks para sa faster initial load.",,code splitting
 Cloze,"Ang {{c1::React.lazy()}} ay ang function na nagde-dynamic import ng component: const LazyComp = React.lazy(() => import('./Comp')).",,React.lazy()
 Cloze,"Ang {{c1::Suspense}} component ay ang boundary na nagre-render ng fallback habang naglo-load ang lazy component.",,Suspense

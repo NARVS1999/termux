@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang State pattern?",,"gumawa ng state interface, i-implement ang bawat state class, i-inject sa context"
 Application,"Kailan gumamit ng State pattern?",,"kapag ang behavior ay nagbabago dependi sa state: order status, media player, game states"
 Application,"Ano ang pagkakaiba ng State at Strategy?",,"State: nagbabago ang behavior based sa state transitions. Strategy: pinipili ang algorithm sa runtime."

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang unang hakbang sa RAG pipeline ay ang {{c1::chunking}} ng documents sa mas maliliit na pieces.",,chunking
 Cloze,"Ang {{c1::embedding}} ay ang pag-convert ng bawat chunk sa vector representation.",,embedding
 Cloze,"Ang mga embeddings ay naka-store sa {{c1::vector database}} para sa retrieval.",,vector database

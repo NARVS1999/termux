@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang pod sa Kubernetes?",,"ang smallest deployable unit — naglalaman ng one or more containers na nagsha-share ng network at storage"
 Application,"Ano ang service sa K8s?",,"ang abstraction na nagbibigay ng stable IP at DNS name para saisang set pods — hindi nagbabago kahit nagbabago ang pods"
 Application,"Paano mag-deploy sa Kubernetes?",,"kubectl apply -f deployment.yaml — i-apply ang desired state sa cluster"

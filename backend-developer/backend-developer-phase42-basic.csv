@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-implement ng full-text search sa app?",,"Gamitin ang Elasticsearch na may inverted index para sa mabilis na search."
 Application,"Paano mag-search ng documents na may keyword?",,"Gamitin ang query DSL: GET /index/_search na may match query."
 Application,"Paano mag-pro-process ng data habang dumarating?",,"Gumamit ng streaming platform tulad ng Kafka na may consumers."

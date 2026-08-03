@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::useEffect}} hook ay ginagamit para mag-perform ng side effects: data fetching, subscriptions, DOM manipulation.",,useEffect
 Cloze,"Ang {{c1::cleanup function}} sa useEffect ay ang function na binabalik ng effect para i-cleanup bago mag-unmount.",,cleanup function
 Cloze,"Ang {{c1::dependency array}} sa useEffect ay ang array ng values na nag-trigger ng re-run: useEffect(fn, [dep1, dep2]).",,dependency array

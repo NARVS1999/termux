@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::ADR}} o Architecture Decision Record ay isang document na nagre-record ng mahahalagang architectural decisions.",,ADR
 Cloze,"Ang {{c1::technical documentation}} ay ang written na dokumento na nag-e-explain ng system design, APIs, at processes.",,technical documentation
 Cloze,"Ang {{c1::ADR format}} ay karaniwang may: Title, Status, Context, Decision, at Consequences.",,ADR format

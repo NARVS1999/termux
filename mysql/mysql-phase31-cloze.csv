@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::MVCC}} o Multi-Version Concurrency Control ay technique na nagbibigay ng snapshot sa bawat transaction.",,MVCC
 Cloze,"Ang {{c1::optimistic locking}} ay nagche-check ng version bago mag-write — nag-a-assume na walang conflict.",,optimistic locking
 Cloze,"Ang {{c1::pessimistic locking}} ay naglo-lock ng row bago mag-read — nag-a-assume na may conflict.",,pessimistic locking

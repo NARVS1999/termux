@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::ternary operator}} ay ang conditional rendering syntax: condition ? <A /> : <B />.",,ternary operator
 Cloze,"Ang {{c1::logical AND}} (&&) operator ay ginagamit para i-render ang element kapag true ang condition: {show && <Component />}.",,logical AND
 Cloze,"Ang {{c1::early return}} ay ang pattern ng pag-return ng null o early element kapag hindi pa ready ang data.",,early return

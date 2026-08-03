@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Mediator pattern?",,"gumawa ng mediator interface, i-register ang colleagues, i-dispatch ang events sa tamang colleagues"
 Application,"Kailan gumamit ng Mediator?",,"kapag maraming objects na nagko-communicate: chat rooms, air traffic control, form validation"
 Application,"Ano ang pagkakaiba ng Mediator at Observer?",,"Mediator: central ang coordination. Observer: distributed ang notification — parehong decoupled."

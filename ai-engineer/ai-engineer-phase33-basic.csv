@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng pipeline sa Haystack?",,"Gumamit ng Pipeline class at i-add ang retriever at generator components."
 Application,"Paano i-deploy ang RAGFlow?",,"I-run gamit ang Docker compose gamit ang official na setup guide."
 Application,"Paano mag-handle ng PDFs na may complex layout sa RAGFlow?",,"Gamitin ang deep document understanding features nito."

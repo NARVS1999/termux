@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Espresso}} ay testing framework para sa Android instrumentation tests na nag-s-simulates ng user interactions.",,Espresso
 Cloze,"Ang {{c1::instrumentation test}} ay test na nag-r-runs sa real device o emulator.",,instrumentation test
 Cloze,"Sa Android, ang {{c1::emulator}} ay virtual device na ginagamit para mag-test ng app.",,emulator

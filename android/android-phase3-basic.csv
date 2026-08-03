@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng lambda function sa Kotlin?","Gamitin ang curly braces at arrow syntax.","{ x: Int -> x * 2 }"
 Application,"Paano mag-use ng let para sa nullable handling?","I-chain ang let block sa nullable variable.","name?.let { println(it) }"
 Application,"Paano mag-create ng extension function?","I-prefix ang function name sa class name.","fun String.addExclamation() = this + \"!\""

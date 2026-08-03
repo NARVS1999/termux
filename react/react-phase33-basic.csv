@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-setup ng TanStack Query sa app?",,"<QueryClientProvider client={new QueryClient()}><App /></QueryClientProvider> — i-wrap ang app"
 Application,"Paano mag-fetch ng data gamit ang useQuery?",,"const { data, isLoading, error } = useQuery({ queryKey: ['todos'], queryFn: fetchTodos });"
 Application,"Paano mag-mutate at mag-invalidate ang cache?",,"const mutation = useMutation({ mutationFn: addTodo, onSuccess: () => queryClient.invalidateQueries({ queryKey: ['todos'] }) });"

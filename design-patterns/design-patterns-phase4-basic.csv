@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-apply ang abstraction sa isang class hierarchy?",,Gumamit ng abstract classes at interfaces para magbigay ng simplified interface
 Application,"Paano i-implement ang encapsulation sa JavaScript?",,Gamitin ang closures, classes, o private fields para i-hide ang internal state
 Application,"Paano i-execute ang polymorphism sa runtime?",,I-override ang methods sa subclasses at i-invoke ang mga ito sa pamamagitan ng base class reference

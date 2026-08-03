@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-style ang lahat ng p elements?",,"Gamitin ang CSS: p { color: red; } para i-target ang lahat ng paragraph elements."
 Application,"Paano mag-handle ng button click sa JavaScript?",,"Magdagdag ng event listener: button.addEventListener('click', handler);"
 Application,"Paano mag-send ng HTTP request mula sa browser?",,"Gamitin ang fetch API: fetch('/api/users').then(r => r.json());"

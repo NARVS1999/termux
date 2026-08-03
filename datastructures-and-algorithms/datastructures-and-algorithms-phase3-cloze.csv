@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::loop analysis}} ay pag-a-analyze ng time complexity ng iterative code.",,loop analysis
 Cloze,"Ang {{c1::recursion}} ay technique na nag-c-calls ng function sa sarili nito.",,recursion
 Cloze,"Ang {{c1::nested structure}} ay code na may loops o recursion sa loob ng loops.",,nested structure

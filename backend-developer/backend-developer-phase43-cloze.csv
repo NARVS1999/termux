@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::LLM}} ay ang language model na sinanay sa napakalaking text data.",,LLM
 Cloze,"Ang {{c1::token}} ay ang unit ng text na pinaghiwa-hiwalay para i-process ng LLM.",,token
 Cloze,"Ang {{c1::embedding}} ay ang numerical representation ng text na kumukuha ng meaning.",,embedding

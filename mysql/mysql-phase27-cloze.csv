@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::ACID}} ay ang four properties ng transactions: Atomicity, Consistency, Isolation, Durability.",,ACID
 Cloze,"Ang {{c1::atomicity}} ay nangangailangan na ang transaction ay either lahat o walang gagawin.",,atomicity
 Cloze,"Ang {{c1::consistency}} ay nangangailangan na ang transaction ay mag-leave ng valid state ang database.",,consistency

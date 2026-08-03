@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano iwasan ang SQL injection sa queries?",,"Gumamit ng parameterized queries imbes na i-concatenate ang user input sa SQL."
 Application,"Paano pigilan ang XSS attacks?",,"I-sanitize ang user input at i-escape ang output na nilalaman nito."
 Application,"Paano protektahan ang forms mula sa CSRF?",,"Magdagdag ng CSRF token sa bawat form submission."

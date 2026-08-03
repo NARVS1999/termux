@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::XSS}} o Cross-Site Scripting ay isang attack kung saan nag-iinject ang attacker ng malicious scripts sa web pages na binabrowse ng ibang users.",,XSS
 Cloze,"Ang {{c1::SQL Injection}} ay isang attack kung saan nag-iinject ang attacker ng SQL commands sa input fields para ma-access o ma-manipulate ang database.",,SQL Injection
 Cloze,"Ang {{c1::CSRF}} o Cross-Site Request Forgery ay isang attack na nagpapanggap na ang legitimate user ay nagfa-flashback request mula sa ibang site.",,CSRF

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Retrofit}} ay type-safe HTTP client na ginagamit para mag-connect sa REST APIs sa Android.",,Retrofit
 Cloze,"Ang {{c1::OkHttp}} ay HTTP client na nag-h-handles ng low-level networking at connection management.",,OkHttp
 Cloze,"Sa Android, ang {{c1::@GET}} annotation ay ginagamit para mag-define ng GET API endpoint sa Retrofit.",,@GET

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng agent gamit ang OpenAI Agent SDK?",,"Gumawa ng Agent object na may instructions at tools, pagkatapos i-run gamit ang Runner."
 Application,"Paano gumawa ng agent gamit ang Claude SDK?",,"Gamitin ang Claude Messages API na may tools parameter."
 Application,"Paano gumawa ng agent sa Google ADK?",,"I-define ang agent gamit ang ADK classes at i-run sa session."

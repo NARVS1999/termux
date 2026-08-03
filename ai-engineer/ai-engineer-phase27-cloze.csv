@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::vector database}} ay isang database na espesyal na dinisenyo para mag-store at mag-search ng embeddings.",,vector database
 Cloze,"Ang pangunahing {{c1::function}} ng vector DB ay ang mabilis na similarity search sa malalaking datasets.",,function
 Cloze,"Ang {{c1::Chroma}} ay isang open source vector database na madaling i-set up locally.",,Chroma

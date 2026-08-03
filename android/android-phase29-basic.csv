@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-inject ng dependency gamit Hilt?","I-annotate ang constructor gamit ang @Inject.","class UserRepository @Inject constructor(private val api: ApiService)"
 Application,"Paano mag-provide ng dependency sa Hilt?","I-annotate ang function gamit ang @Provides sa @Module.","@Provides fun provideApi(): ApiService = Retrofit.Builder().build().create(ApiService::class.java)"
 Application,"Paano mag-set up ng Koin module?","I-define ang module na may single o factory.","val appModule = module { single { ApiService() } }"

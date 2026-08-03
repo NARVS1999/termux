@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-update ang cache kapag nagbago ang data sa database?",,"I-call ang Cache::forget('users') o i-update ang cache pagkatapos ng save."
 Application,"Paano iwasan ang cache stampede kapag na-expire ang sikat na item?",,"Gumamit ng locking o longer TTL, o i-rebuild ang cache bago pa man mag-expire."
 Application,"Paano i-implement ang cache-aside nang manu-mano?",,"I-check ang Cache::get(), kapag null, i-fetch sa DB at i-Cache::put()."

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::online schema change}} ay ang pag-modify ng table structure habang tumatakbo ang application.",,online schema change
 Cloze,"Ang {{c1::zero-downtime migration}} ay ang schema change na hindi nagdo-down ang application.",,zero-downtime migration
 Cloze,"Ang {{c1::gh-ost}} ay ang GitHub tool para sa online schema changes na walang locking.",,gh-ost

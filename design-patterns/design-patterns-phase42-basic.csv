@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano makilala ang Spaghetti Code?",,"walang structure,kahit saan goto statements, walang separation of concerns — mahirap i-follow ang flow"
 Application,"Paano i-refactor ang Spaghetti Code?",,"i-extract ang layers: UI → Controller → Service → Repository, i-dependency injection ang connections"
 Application,"Bakit nagiging Spaghetti?",,"walang initial design, quick fixes, copy-paste, walang code review — technical debt ang dulot"

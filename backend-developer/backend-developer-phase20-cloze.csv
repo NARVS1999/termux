@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::REST}} ay ang architectural style para sa APIs na gumagamit ng HTTP at resources.",,REST
 Cloze,"Ang {{c1::resource}} ay ang entity na nire-represent ng isang URL sa API.",,resource
 Cloze,"Ang {{c1::endpoint}} ay ang URL kung saan ina-access ang isang resource.",,endpoint

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::cycle detection}} sa graph ay pag-detect kung may cycle ang graph.",,cycle detection
 Cloze,"Ang {{c1::directed cycle}} ay cycle na sumusunod sa edge directions.",,directed cycle
 Cloze,"Ang {{c1::undirected cycle}} ay cycle sa undirected graph na may back edge.",,undirected cycle

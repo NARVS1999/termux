@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang MVP?",,"ang pattern kung saan ang presenter ang nagpo-process ng logic — ang view ay passive lang"
 Application,"Bakit mas testable ang MVP?",,"dahil ang presenter ay pwedeng i-test nang hindi gumagamit ng view — i-mock lang ang interface"
 Application,"Ano ang passive view?",,"ang view ay nagre-render lang ng data, walang logic — lahat ay nasa presenter"

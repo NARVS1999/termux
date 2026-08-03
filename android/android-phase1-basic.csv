@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-declare ng immutable variable sa Kotlin?","Gamitin ang val keyword.","val name = \"Android\""
 Application,"Paano mag-check ng null value nang hindi nag-crash?","Gamitin ang safe call operator (?.).","name?.length"
 Application,"Paano magbigay ng default value kapag null?","Gamitin ang elvis operator (?:).","name ?: \"default\""

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::codebase navigation}} ay ang ability na mabilis na makahanap at maintindihan ang relevant na code sa isang malaking project.",,codebase navigation
 Cloze,"Ang {{c1::onboarding}} sa codebase ay ang proseso ng pag-aaral ng bagong developer tungkol sa architecture at conventions ng project.",,onboarding
 Cloze,"Ang {{c1::entry points}} sa Laravel ay ang mga file na nag-i-start ng flow: routes, controllers, commands, at providers.",,entry points

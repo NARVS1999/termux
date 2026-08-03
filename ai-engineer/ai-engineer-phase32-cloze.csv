@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang pag-implement ng RAG ay pwedeng gawin gamit ang {{c1::SDKs}} nang direkta.",,SDKs
 Cloze,"Ang {{c1::LangChain}} ay isang framework na nagpapadali sa pagbuo ng RAG pipelines.",,LangChain
 Cloze,"Ang {{c1::LlamaIndex}} ay isang framework na naka-focus sa data ingestion at retrieval para sa RAG.",,LlamaIndex

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Composite}} ay isang structural pattern na nagbibigay ng paraan para tratuhin ang mga individual na objects at compositions ng objects nang pareho.",,Composite
 Cloze,"Ang {{c1::Composite}} ay nagbibigay ng tree structure representation para sa part-whole hierarchy.",,Composite
 Cloze,"Ang {{c1::component}} ay ang base interface para sa lahat ng objects sa composition.",,component

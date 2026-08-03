@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::hash function}} ay function na nag-c-convert ng key sa index sa hash table.",,hash function
 Cloze,"Ang {{c1::collision}} ay situation kung saan dalawang keys ay nag-m-map sa same index.",,collision
 Cloze,"Ang {{c1::load factor}} ay ratio ng total entries sa capacity ng hash table.",,load factor

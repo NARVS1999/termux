@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::structured logging}} ay ang pag-log ng data sa JSON format para sa madaling parsing.",,structured logging
 Cloze,"Ang {{c1::ELK stack}} ay ang Elasticsearch, Logstash, Kibana stack para sa log aggregation.",,ELK stack
 Cloze,"Ang {{c1::log aggregation}} ay ang proseso ng pag-collect ng logs mula sa maraming sources.",,log aggregation

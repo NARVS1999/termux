@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::SELECT}} statement ay ginagamit para mag-query at mag-retrieve ng data mula sa database.",,SELECT
 Cloze,"Ang {{c1::INSERT INTO}} statement ay ginagamit para mag-add ng bagong rows sa table.",,INSERT INTO
 Cloze,"Ang {{c1::UPDATE}} statement ay ginagamit para i-modify ang existing rows sa table.",,UPDATE

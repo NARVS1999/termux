@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::mergesort}} ay divide and conquer sorting algorithm na O(n log n).",,mergesort
 Cloze,"Ang {{c1::quicksort}} ay divide and conquer sorting algorithm na average O(n log n).",,quicksort
 Cloze,"Ang {{c1::divide and conquer}} ay paradigm na nag-h-hati ng problem sa smaller subproblems.",,divide and conquer

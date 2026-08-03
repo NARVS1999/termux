@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang pagkakaiba ng container at VM?",,"container: lightweight, shares host OS, faster. VM: full OS, isolated, heavier."
 Application,"Paano gumawa ng Docker image?",,"gamitin ang Dockerfile: FROM node:18, COPY ., RUN npm install, CMD node server.js"
 Application,"Bakit gumamit ng containers?",,"consistent na environment across dev/staging/prod, easy scaling, fast deployment"

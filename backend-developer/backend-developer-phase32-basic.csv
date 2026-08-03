@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-store ng password nang secure?",,"I-hash ito gamit ang bcrypt na may salt imbes na i-store ang plain text."
 Application,"Paano i-verify ang password ng user sa login?",,"I-hash ang input at i-compare sa naka-store na hash gamit ang bcrypt.compare."
 Application,"Paano mag-identify ng user sa bawat request?",,"Magpadala ng JWT sa Authorization header at i-verify ang signature sa server."

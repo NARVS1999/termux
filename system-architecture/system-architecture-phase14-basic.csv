@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-design ng high available system?",,"i-add ng redundancy sa lahat ng layers: servers, databases, load balancers, networks"
 Application,"Ano ang active-passive failover?",,"ang passive server ay naka-standby — nagte-takeover lang kapag nag-fail ang active"
 Application,"Ano ang active-active failover?",,"lahat ng servers ay nag-handle ng traffic — mas efficient pero mas complex"

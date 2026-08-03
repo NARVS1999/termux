@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-install at mag-setup ng Spatie Laravel Permission?",,"i-composer require spatie/laravel-permission, i-publish ang migration at config, i-run ang migrate"
 Application,"Paano mag-create ng role at i-assign sa user gamit ang Spatie?",,"$role = Role::create(['name' => 'admin']); $user->assignRole('admin');"
 Application,"Paano mag-check ng permission sa Blade template?",,"Gamitin ang @can('permission-name') @endcan directive"

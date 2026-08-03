@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::VPC}} o Virtual Private Cloud ay ang isolated na network environment sa cloud.",,VPC
 Cloze,"Ang {{c1::firewall}} ay ang network security device na nag-filter ng incoming/outgoing traffic.",,firewall
 Cloze,"Ang {{c1::WAF}} o Web Application Firewall ay nagpo-protect ng web apps sa HTTP attacks.",,WAF

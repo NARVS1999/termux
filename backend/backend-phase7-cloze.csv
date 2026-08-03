@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::middleware}} ay nagpapa-filter o nagmo-modify ng HTTP requests bago sila makarating sa controller.",,middleware
 Cloze,"Ang {{c1::request lifecycle}} ay ang buong flow ng request mula sa entry point hanggang sa pag-return ng response.",,request lifecycle
 Cloze,"Ang {{c1::kernel}} ay nagha-handle ng HTTP requests at ang nagpo-proseso ng middleware stack.",,kernel

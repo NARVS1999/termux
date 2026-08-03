@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-destructure ang object properties sa JavaScript?",,"const {name, age} = user; o const {name: userName} = user; para sa alias"
 Application,"Paano gamitin ang spread operator para mag-combine ng arrays?",,"const combined = [...arr1, ...arr2]; para i-merge ang dalawang arrays"
 Application,"Paano gumawa ng arrow function na may multiple expressions?",,"const fn = (a, b) => { const sum = a + b; return sum; }; — kailangan ng curly braces at return"

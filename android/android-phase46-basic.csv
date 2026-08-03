@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-set ng staged rollout?","I-set ang percentage sa Play Console production track.","Production > Staged rollout > 10% > 50% > 100%"
 Application,"Paano mag-monitor ng release?","I-check ang Android vitals sa Play Console.","Play Console > Android vitals > Crash rates"
 Application,"Paano mag-rollback ng release?","I-click ang Rollback button sa Play Console.","Release > Rollback to previous version"

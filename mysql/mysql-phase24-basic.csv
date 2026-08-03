@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gamitin ang EXPLAIN?",,"EXPLAIN SELECT * FROM users WHERE email = 'test@test.com'; — i-add sa taas ng SELECT query"
 Application,"Paano basahin ang EXPLAIN output?",,"tingnan ang type (ALL = bad), key (NULL = walang index), rows (mataas = mabagal)"
 Application,"Kailan gagamit ng EXPLAIN ANALYZE?",,"kapag kailangan ng actual timing at accurate row estimates — mas detailed kaysa sa EXPLAIN lang"

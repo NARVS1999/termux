@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::MVC}} o Model-View-Controller ay ang architectural pattern na naghihiwalay ng data, UI, at logic.",,MVC
 Cloze,"Ang {{c1::model}} sa MVC ay ang data at business logic layer.",,model
 Cloze,"Ang {{c1::view}} sa MVC ay ang UI layer na nagre-render ng data.",,view

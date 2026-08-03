@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Sa {{c1::frontend}}, ang AI ay pwedeng mag-power ng chatbots at smart UI components.",,frontend
 Cloze,"Sa {{c1::backend}}, ang AI ay ginagamit para sa data processing at model inference.",,backend
 Cloze,"Ang {{c1::full-stack}} AI developers ay kayang mag-integrate ng AI sa buong application stack.",,full-stack

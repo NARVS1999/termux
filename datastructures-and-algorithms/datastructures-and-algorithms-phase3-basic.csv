@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-analyze ng single loop?","Bilangin ang iterations: kung nag-i-iterate sa n elements, ang complexity ay O(n).","for (i in 0..n) → O(n)"
 Application,"Paano mag-analyze ng nested loops?","Multiply ang iterations ng bawat loop: O(n) * O(m) = O(n*m).","for i in 0..n { for j in 0..m { } } → O(nm)"
 Application,"Paano mag-analyze ng recursion?","Gamitin ang recurrence relation at Master Theorem.","T(n) = 2T(n/2) + O(n) → O(n log n)"

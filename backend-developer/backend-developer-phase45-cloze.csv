@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::OpenAI API}} ay ang cloud API para sa GPT models.",,OpenAI API
 Cloze,"Ang {{c1::Anthropic}} ay ang provider ng Claude family ng models.",,Anthropic
 Cloze,"Ang {{c1::Gemini}} ay ang model family ng Google para sa AI applications.",,Gemini

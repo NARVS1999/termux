@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-write ng unit test?","I-annotate ang function gamit ang @Test.","@Test fun testAddition() { assertEquals(4, 2 + 2) }"
 Application,"Paano mag-mock ng dependency?","Gamitin ang mockk() function.","val mockApi = mockk<ApiService>()"
 Application,"Paano mag-test ng suspend function?","Gamitin ang runTest builder.","runTest { repository.getUsers() }"

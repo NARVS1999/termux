@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::distributed tracing}} ay ang pag-track ng request sa pamamagitan ng maraming services.",,distributed tracing
 Cloze,"Ang {{c1::Jaeger}} ay ang open-source distributed tracing system para sa microservices.",,Jaeger
 Cloze,"Ang {{c1::OpenTelemetry}} ay ang vendor-neutral observability framework para sa traces, metrics, logs.",,OpenTelemetry

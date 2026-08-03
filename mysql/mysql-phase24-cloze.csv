@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::EXPLAIN}} statement ay nagpapakita ng query execution plan — kung paano nag-run ang MySQL sa query.",,EXPLAIN
 Cloze,"Ang {{c1::EXPLAIN ANALYZE}} ay nag-e-execute talaga ang query at nagbibigay ng actual timing.",,EXPLAIN ANALYZE
 Cloze,"Ang {{c1::type column}} sa EXPLAIN ay nagpapakita ng access type: ALL, index, range, ref, eq_ref, const.",,type column

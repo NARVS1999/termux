@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::named export}} ay ang paraan ng pag-export ng maraming values mula sa isang module: export const name = 'value'.",,named export
 Cloze,"Ang {{c1::default export}} ay ang primary export ng module: export default Component — pwedeng i-import nang walang curly braces.",,default export
 Cloze,"Ang {{c1::import}} statement ay ginagamit para mag-load ng code mula sa ibang modules.",,import

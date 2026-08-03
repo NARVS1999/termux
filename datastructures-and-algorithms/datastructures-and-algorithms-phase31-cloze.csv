@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Dijkstra}} ay algorithm na nag-f-find ng shortest path mula sa source sa lahat ng nodes.",,Dijkstra
 Cloze,"Ang {{c1::Bellman-Ford}} ay shortest path algorithm na nag-h-handles ng negative weights.",,Bellman-Ford
 Cloze,"Ang {{c1::negative weight}} ay edge na may negative value na nag-d-distorts ng shortest path.",,negative weight

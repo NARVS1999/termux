@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::remember}} composable function ay nag-s-stores ng value na nag-s-survive sa recomposition.",,remember
 Cloze,"Ang {{c1::mutableStateOf}} ay factory function na nag-c-creates ng observable state object sa Compose.",,mutableStateOf
 Cloze,"Ang {{c1::state hoisting}} ay pattern na nag-m-move ng state pataas at data pababa sa composable tree.",,state hoisting

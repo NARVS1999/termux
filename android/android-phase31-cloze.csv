@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::StateFlow}} ay Flow na nag-e-emits ng single value at nag-r-ree-emits sa configuration changes.",,StateFlow
 Cloze,"Ang {{c1::SharedFlow}} ay Flow na nag-e-emits ng events na pwedeng i-collect ng multiple collectors.",,SharedFlow
 Cloze,"Sa Kotlin, ang {{c1::collectLatest}} operator ay nag-c-cancels ng previous collection bago mag-collect ng bago.",,collectLatest

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::diameter}} ay longest path sa pagitan ng dalawang nodes sa tree.",,diameter
 Cloze,"Ang {{c1::path}} ay sequence ng nodes na connected by edges.",,path
 Cloze,"Ang {{c1::LCA}} ay lowest common ancestor: pinakamababang node na ancestor ng dalawang nodes.",,LCA

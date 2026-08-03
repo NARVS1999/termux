@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Kailan gumamit ng vertical scaling?",,"kapag maliit ang traffic, walang horizontal scaling option, o ang app ay stateful"
 Application,"Kailan gumamit ng horizontal scaling?",,"kapag malaki ang traffic, kailangan ng high availability, o unpredictable ang demand"
 Application,"Bakit mas maganda ang horizontal scaling?",,"mas maganda ang fault tolerance (isang server lang ang down), walang hardware limit"

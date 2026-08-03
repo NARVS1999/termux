@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano ilapat ang Single Responsibility Principle sa isang class?",,Hatiin ang class sa mga smaller classes na may iisang responsibility lang
 Application,"Paano mai-apply ang Open-Closed Principle?",,Gumamit ng interfaces at abstractions para mag-extend nang hindi binabago ang lumang code
 Application,"Paano i-verify ang Liskov Substitution Principle?",,Siguraduhing lahat ng subclass ay gumagana nang tama kapag pinalitan ang parent class

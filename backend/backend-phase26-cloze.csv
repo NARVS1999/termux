@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Authentication}} (AuthN) ay ang proseso ng pag-verify kung sino ang user — pag-confirm ng identity.",,Authentication
 Cloze,"Ang {{c1::Authorization}} (AuthZ) ay ang proseso ng pag-determine kung ano ang pwedeng gawin ng user pagkatapos ma-authenticate.",,Authorization
 Cloze,"Ang {{c1::Spatie Laravel Permission}} ay isang package na nag-a-add ng roles at permissions system sa Laravel.",,Spatie Laravel Permission

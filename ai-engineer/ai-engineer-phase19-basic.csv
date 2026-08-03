@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-filter ng unsafe content?",,"Gumamit ng content moderation API o classifier bago i-show ang output."
 Application,"Paano mag-handle ng borderline outputs?",,"I-flag para sa human review imbes na i-auto-release."
 Application,"Paano mag-run ng adversarial testing?",,"Gumawa ng set ng adversarial inputs at i-check kung hindi nag-fail ang model."

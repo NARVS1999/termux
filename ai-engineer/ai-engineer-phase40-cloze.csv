@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::MCP}} (Model Context Protocol) ay isang standard para sa pag-connect ng AI apps sa external data at tools.",,MCP
 Cloze,"Ang {{c1::MCP host}} ay ang application na nagse-serve ng AI interface (hal. Claude Desktop).",,MCP host
 Cloze,"Ang {{c1::MCP server}} ay nagpo-provide ng tools at resources sa host.",,MCP server

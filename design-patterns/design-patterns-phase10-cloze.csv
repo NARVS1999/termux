@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Object Pool}} ay isang creational pattern na nagbibigay ng paraan para i-reuse ang mga expensive na objects.",,Object Pool
 Cloze,"Ang {{c1::connection pool}} ay isang halimbawa ng Object Pool na nagre-reuse ng mga database connections.",,connection pool
 Cloze,"Ang {{c1::Object Pool}} ay nagbibigay ng performance improvement sa pamamagitan ng pag-iwas sa object creation overhead.",,Object Pool

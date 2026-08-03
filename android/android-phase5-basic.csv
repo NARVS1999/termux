@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-launch ng coroutine sa Kotlin?","Gamitin ang launch builder sa loob ng CoroutineScope.","scope.launch { delay(1000) }"
 Application,"Paano mag-call ng suspend function?","Gamitin ang suspend keyword sa function declaration.","suspend fun fetchData(): Data"
 Application,"Paano mag-switch sa IO dispatcher?","Gamitin ang withContext(Dispatchers.IO).","withContext(Dispatchers.IO) { readData() }"

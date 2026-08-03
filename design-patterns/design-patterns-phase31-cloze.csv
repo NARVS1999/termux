@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Hexagonal Architecture}} o Ports and Adapters ay ang pattern na naghihiwalay ng core logic mula sa external world.",,Hexagonal Architecture
 Cloze,"Ang {{c1::ports}} ay ang interfaces na nagde-define ng core logic's needs.",,ports
 Cloze,"Ang {{c1::adapters}} ay ang implementations na nagko-connect sa external world.",,adapters

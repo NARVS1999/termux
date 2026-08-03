@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::normalization}} ay ang process ng pag-organize ng database para mabawasan ang data redundancy at dependency.",,normalization
 Cloze,"Ang {{c1::denormalization}} ay ang deliberate na pag-keep ng duplicate data para mapabilis ang reads.",,denormalization
 Cloze,"Ang {{c1::1NF}} ay nagsisiguro na ang bawat column ay may atomic values at walang repeating groups.",,1NF

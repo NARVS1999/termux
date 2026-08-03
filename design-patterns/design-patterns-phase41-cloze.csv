@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::God Object}} ay ang anti-pattern kung saan ang isang class ay may sobrang responsibilities.",,God Object
 Cloze,"Ang {{c1::single responsibility violation}} sa God Object — ang class ay may maraming dahilan para magbago.",,single responsibility violation
 Cloze,"Ang {{c1::refactoring}} mula sa God Object — hatiin ang class sa mas maliliit na classes na may iisang responsibility.",,refactoring

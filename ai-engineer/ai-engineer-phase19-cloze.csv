@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::adversarial testing}} ay ang pagsubok sa model gamit ang mga inputs na dinisenyo para mag-fail ito.",,adversarial testing
 Cloze,"Ang {{c1::content moderation}} ay ang pag-filter ng content na nakakasama o lumalabag sa policies.",,content moderation
 Cloze,"Ang {{c1::moderation APIs}} ay mga services na awtomatikong nag-che-check ng content para sa safety.",,moderation APIs

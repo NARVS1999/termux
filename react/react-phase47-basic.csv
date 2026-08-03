@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-organize ang React project gamit ang feature-based structure?",,"features/auth/, features/dashboard/, features/profile/ — bawat feature may sariling components, hooks, utils"
 Application,"Paano gumawa ng barrel export file?",,"index.js sa loob ng feature folder: export { default as LoginForm } from './LoginForm'; export { useAuth } from './useAuth';"
 Application,"Paano mag-setup ng monorepo para sa React?",,"gamitin ang Turborepo, Nx, o Lerna para i-manage ang mga packages at apps sa iisang repo"

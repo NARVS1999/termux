@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::internal storage}} ay private directory na accessible lang ng app na nag-owns nito.",,internal storage
 Cloze,"Ang {{c1::external storage}} ay shared storage na pwedeng i-access ng multiple apps.",,external storage
 Cloze,"Ang {{c1::scoped storage}} ay Android 10+ feature na nag-l-limits ng app access sa own files.",,scoped storage

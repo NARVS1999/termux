@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::audit table}} ay ang table na nagre-record ng lahat ng changes sa isang entity.",,audit table
 Cloze,"Ang {{c1::soft delete}} ay ang technique ng pag-set ng deleted_at timestamp sa halip na i-delete ang row.",,soft delete
 Cloze,"Ang {{c1::polymorphic association}} ay ang relationship na pwedeng tumukoy sa maraming tables.",,polymorphic association

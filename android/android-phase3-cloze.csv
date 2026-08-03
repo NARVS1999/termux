@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::higher-order function}} ay function na tumatanggap ng ibang function as parameter o nagbabalik ng function.",,higher-order function
 Cloze,"Sa Kotlin, ang {{c1::lambda}} ay anonymous function na pwedeng i-store sa variable at i-pass sa functions.",,lambda
 Cloze,"Ang {{c1::scope functions}} (let, run, with, apply, also) ay ginagamit para i-execute block ng code sa context ng object.",,scope functions

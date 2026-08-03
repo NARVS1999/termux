@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::blue-green deployment}} ay ang strategy na may dalawang identical environments.",,blue-green deployment
 Cloze,"Ang {{c1::blue environment}} ang currently running production.",,blue environment
 Cloze,"Ang {{c1::green environment}} ang bagong version na tinetest.",,green environment

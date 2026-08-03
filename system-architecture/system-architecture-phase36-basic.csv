@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang GitOps?",,"ang operational framework: Git ang single source of truth, declarative infrastructure, automated reconciliation"
 Application,"Paano gumagana ang ArgoCD?",,"nag-o-observe ng Git repo, nag-s-sync ng desired state sa Kubernetes cluster — automatic deployment"
 Application,"Ano ang reconciliation loop?",,"ang continuous na pag-compare ng actual state vs desired state — pag may difference, i-reconcile"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano malaman kung saan mabagal ang code?",,"Mag-run ng profiler para makita kung aling functions ang tumatagal."
 Application,"Paano mag-test kung kaya ng server ang 1000 concurrent users?",,"Gumamit ng load testing tool tulad ng k6 o JMeter."
 Application,"Paano sukatin ang user experience speed?",,"Sukatin ang latency percentiles tulad ng p95 at p99."

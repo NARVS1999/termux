@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::time complexity}} ay measure ng execution time ng algorithm relative sa input size.",,time complexity
 Cloze,"Ang {{c1::space complexity}} ay measure ng memory na ginagamit ng algorithm.",,space complexity
 Cloze,"Ang {{c1::tradeoff}} ay situation kung saan ang pag-improve ng isang aspect ay nag-d-degrade ng isa.",,tradeoff

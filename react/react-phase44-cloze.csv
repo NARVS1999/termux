@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::render props}} ay isang pattern kung saan ang component ay nagbabahagi ng logic gamit ang function as child.",,render props
 Cloze,"Ang {{c1::function as child}} ay ang pattern kung sain ang component ay tumatanggap ng function bilang children.",,function as child
 Cloze,"Ang {{c1::hooks}} ay ang modernong alternative sa render props para sa logic reuse.",,hooks

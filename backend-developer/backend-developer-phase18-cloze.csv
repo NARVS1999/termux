@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Cassandra}} ay ang columnar NoSQL database na sikat sa high availability.",,Cassandra
 Cloze,"Ang {{c1::InfluxDB}} ay ang time-series database para sa metrics at monitoring data.",,InfluxDB
 Cloze,"Ang {{c1::TimescaleDB}} ay ang time-series extension ng PostgreSQL.",,TimescaleDB

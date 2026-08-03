@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::thread pool}} ay ang concurrency pattern na nagre-reuse ng pre-created threads para mag-handle ng tasks.",,thread pool
 Cloze,"Ang {{c1::worker thread}} ay ang thread sa pool na nagko-consume ng tasks mula sa queue.",,worker thread
 Cloze,"Ang {{c1::task queue}} ay ang queue na nagse-store ng tasks habang naghihintay ng available thread.",,task queue

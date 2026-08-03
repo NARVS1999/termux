@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::pattern selection}} ay ang proseso ng pagpili ng tamang design pattern para sa specific na problema.",,pattern selection
 Cloze,"Ang {{c1::problem analysis}} — i-identify muna ang problema bago pumili ng pattern.",,problem analysis
 Cloze,"Ang {{c1::trade-off analysis}} — i-evaluate ang pros at cons ng bawat pattern sa context.",,trade-off analysis

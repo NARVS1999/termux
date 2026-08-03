@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-setup ng database sa tests gamit ang RefreshDatabase?",,"i-add ang use RefreshDatabase; trait sa loob ng test class para auto-refresh ang database"
 Application,"Paano gumamit ng factory sa tests?",,"$user = User::factory()->create(); o $user = User::factory()->create(['name' => 'John']);"
 Application,"Paano gumamit ng Pest sa Laravel?",,"i-install gamit composer require pestphp/pest --dev, pagkatapos gamitin ang pest:test command"

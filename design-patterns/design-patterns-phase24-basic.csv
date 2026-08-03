@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Chain of Responsibility?",,"gumawa ng handler class na may next handler reference, i-pass ang request sa next kapag hindi kayang i-process"
 Application,"Kailan gumamit ng Chain of Responsibility?",,"kapag maraming handlers at hindi alam kung sino ang mag-handle: logging, auth, validation"
 Application,"Ano ang middleware pipeline?",,"ang pag-process ng request sa hanay ng middleware: auth → validation → rate limit → controller"

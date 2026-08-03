@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::mysqldump}} ay ang command-line tool para mag-backup ng MySQL database sa SQL format.",,mysqldump
 Cloze,"Ang {{c1::mysqlpump}} ay ang parallel version ng mysqldump na mas mabilis sa malalaking databases.",,mysqlpump
 Cloze,"Ang {{c1::xtrabackup}} ay ang physical backup tool na nagbibigay ng faster backup at restore.",,xtrabackup

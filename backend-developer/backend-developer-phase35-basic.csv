@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-test ng code na may external API dependency?",,"I-mock ang API call para hindi ma-require ang tunay na network."
 Application,"Paano sumulat ng test bago ang implementation?",,"Gamitin ang TDD: sumulat ng failing test, i-run, tapos i-implement para pumasa."
 Application,"Paano gumamit ng parehong data sa iba't ibang tests?",,"Gumawa ng fixtures na shared na data para sa mga tests."

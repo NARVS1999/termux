@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Strategy pattern}} ay ang behavioral pattern na nagpapalit ng algorithm sa runtime.",,Strategy pattern
 Cloze,"Ang {{c1::strategy interface}} ay ang common interface para sa lahat ng algorithms.",,strategy interface
 Cloze,"Ang {{c1::concrete strategy}} ay ang specific na implementation ng algorithm.",,concrete strategy

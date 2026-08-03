@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::transformer}} ay ang neural network architecture na pinagbabatayan ng mga modernong LLM.",,transformer
 Cloze,"Ang {{c1::attention}} mechanism ay nagbibigay-daan sa model na i-weigh ang kahalagahan ng bawat token sa input.",,attention
 Cloze,"Ang LLM ay nag-generate ng text sa pamamagitan ng pag-predict sa susunod na {{c1::token}} base sa mga naunang tokens.",,token

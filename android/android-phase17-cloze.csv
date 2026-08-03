@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::animate*AsState}} composable ay nag-a-animate ng value changes gamit ang smoothly interpolated animation.",,animate*AsState
 Cloze,"Ang {{c1::AnimatedVisibility}} composable ay nag-a-animate ng enter at exit transitions ng content.",,AnimatedVisibility
 Cloze,"Sa Compose, ang {{c1::crossfade}} animation ay nag-c-creates ng smooth transition sa pagitan ng content states.",,crossfade

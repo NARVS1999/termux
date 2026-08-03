@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Sa {{c1::cache-aside}} strategy, sinusuri muna ang cache; kapag miss, kinukuha sa database at inilalagay sa cache.",,cache-aside
 Cloze,"Sa {{c1::write-through}} strategy, ang data ay sinisulat sa cache at database nang sabay.",,write-through
 Cloze,"Sa {{c1::write-back}} strategy, ang data ay isinusulat muna sa cache at pagkatapos lang i-flush sa database.",,write-back

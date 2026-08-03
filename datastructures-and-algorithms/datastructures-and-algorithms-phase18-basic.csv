@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-implement ng min-stack?","Gamitin ang auxiliary stack na nag-s-stores ng min values.","if (x <= minStack.peek()) minStack.push(x)"
 Application,"Paano mag-implement ng queue gamit ang two stacks?","Gamitin ang input stack at output stack.","enqueue: inputStack.push(x); dequeue: if outputStack empty transfer input to output"
 Application,"Paano mag-check ng balanced parentheses?","Gamitin ang stack na may map ng bracket pairs.","for c in s: if c is opening push else if stack top matches pop"

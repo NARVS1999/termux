@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Kailan gumamit ng Read-Write Lock?",,"kapag mas maraming reads kaysa writes — concurrent reads, exclusive writes para sa data integrity"
 Application,"Ano ang advantage ng Read-Write Lock?",,"mas mabilis kaysa sa mutex — pwedeng mag-read nang sabay-sabay, nag-lock lang sa writes"
 Application,"Paano i-implement?",,"gamitin ang ReentrantReadWriteLock: readLock() para sa reads, writeLock() para sa writes"

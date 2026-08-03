@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::tabulation}} ay bottom-up DP technique na nag-f-fills ng table iteratively.",,tabulation
 Cloze,"Ang {{c1::bottom-up}} ay approach na nag-s-start sa smallest subproblems.",,bottom-up
 Cloze,"Ang {{c1::space optimization}} ay technique na nag-r-reduces ng space complexity.",,space optimization

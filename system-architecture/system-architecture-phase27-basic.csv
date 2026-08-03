@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang reverse proxy?",,"ang server na nagre-receive ng requests at nagfo-forward sa backend — nag-a-add ng security at performance"
 Application,"Kailan gumamit ng Nginx?",,"web server, reverse proxy, load balancer, SSL termination — ang Swiss army knife ng networking"
 Application,"Ano ang API gateway?",,"single entry point para sa lahat ng API calls: authentication, rate limiting, routing"

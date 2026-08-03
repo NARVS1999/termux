@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::JUnit}} ay testing framework na ginagamit para mag-write at mag-run ng unit tests sa Android.",,JUnit
 Cloze,"Ang {{c1::MockK}} ay Kotlin mocking library na ginagamit para mag-create ng test doubles.",,MockK
 Cloze,"Sa Android, ang {{c1::coroutine testing}} ay test utilities para ma-verify ang suspend functions.",,coroutine testing

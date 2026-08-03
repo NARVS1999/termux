@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Go}} ay ang compiled language ng Google na kilala sa concurrency at simplicity.",,Go
 Cloze,"Ang {{c1::Rust}} ay ang systems language na may memory safety nang walang garbage collector.",,Rust
 Cloze,"Ang {{c1::Python}} ay ang versatile na language na sikat sa backend at data work.",,Python

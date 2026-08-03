@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumamit ng named export at import sa JavaScript?",,"Export: export const utils = {}; Import: import { utils } from './utils';"
 Application,"Paano gamitin ang default export sa component?",,"Export: export default function Button() {} Import: import Button from './Button';"
 Application,"Paano mag-dynamic import ng module sa JavaScript?",,"const module = await import('./heavyModule'); — i-load lang kapag kailangan"

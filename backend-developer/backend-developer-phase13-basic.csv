@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-model ang relationship ng users at posts?",,"Gumawa ng users table at posts table na may foreign key sa user_id."
 Application,"Paano mag-handle ng many-to-many relationship?",,"Gumawa ng junction table na may foreign keys sa dalawang tables."
 Application,"Paano iwasan ang data duplication?",,"I-normalize ang schema: hatiin ang data sa mas maliliit na tables."

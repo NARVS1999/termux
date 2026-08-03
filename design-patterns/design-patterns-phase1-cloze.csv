@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Single Responsibility Principle}} ay nagbibigay ng iisang responsibility sa isang class.",,single responsibility
 Cloze,"Ang {{c1::Open-Closed Principle}} ay nagsasabing dapat open for extension pero closed for modification ang mga classes.",,open-closed
 Cloze,"Ang {{c1::Liskov Substitution Principle}} ay nagsasabing ang mga subclass ay dapat mailagay sa lugar ng parent class nang hindi nababago ang behavior.",,Liskov substitution

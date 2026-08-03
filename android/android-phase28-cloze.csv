@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Repository}} ay abstraction layer na nag-m-manages ng data operations mula sa multiple sources.",,Repository
 Cloze,"Sa Android, ang {{c1::data sources}} ay pinagkukunan ng data: local database, network, o cache.",,data sources
 Cloze,"Ang {{c1::abstraction}} sa Repository ay nag-i-isolate ng data logic mula sa ViewModel.",,abstraction

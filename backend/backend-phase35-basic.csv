@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-structure ng modular Laravel app?",,"Gumawa ng Modules directory, bawat module may sariling Routes, Controllers, Models, at ServiceProvider"
 Application,"Paano mag-setup ng multi-tenancy sa Laravel?",,"i-install ang stancl/laravel-tenancy, i-configure ang tenancy.php, at i-set up ang tenant identification"
 Application,"Paano mag-separate ng data per tenant?",,"Gamitin ang database per tenant strategy: bawat tenant ay may sariling DB connection sa config/database.php"

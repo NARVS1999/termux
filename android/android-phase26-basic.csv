@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-check ng network connection?","Gamitin ang ConnectivityManager at NetworkCapabilities.","val cm = getSystemService(ConnectivityManager::class.java); val caps = cm.getNetworkCapabilities(cm.activeNetwork)"
 Application,"Paano mag-set ng timeout?","Gamitin ang OkHttpClient na may connect at read timeouts.","OkHttpClient.Builder().connectTimeout(30, TimeUnit.SECONDS).build()"
 Application,"Paano mag-handle ng offline mode?","I-check ang network state at i-fall back sa cached data.","if (!isConnected) return cachedData"

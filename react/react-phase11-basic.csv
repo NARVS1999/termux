@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-render ng different components based sa condition?",,"Gamitin ang ternary: {isLoggedIn ? <Dashboard /> : <Login />}"
 Application,"Paano mag-render ng component lang kapag true ang condition?",,"Gamitin ang &&: {hasItems && <ItemList />} — hindi nagre-render kapag false"
 Application,"Paano i-handle ang loading state sa React?",,"Early return: if (loading) return <Spinner />; pagkatapos i-render ang main content"

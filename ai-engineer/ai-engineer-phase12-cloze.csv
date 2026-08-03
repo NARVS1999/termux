@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::ReAct}} ay isang prompting technique na nagpapalit-palit ng reasoning at action.",,ReAct
 Cloze,"Sa ReAct, ang model ay nag-iisip ({{c1::thought}}) bago gumawa ng aksyon (action).",,thought
 Cloze,"Ang {{c1::role prompting}} ay ang pagbibigay sa model ng specific na persona para i-guide ang sagot.",,role prompting

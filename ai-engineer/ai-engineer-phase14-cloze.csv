@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::structured output}} ay ang paggawa ng model ng output sa isang specific na schema o format.",,structured output
 Cloze,"Ang {{c1::JSON mode}} ay nagpapagawa sa model ng valid na JSON na pwedeng i-parse sa code.",,JSON mode
 Cloze,"Ang {{c1::function calling}} ay ang kakayahan ng model na mag-trigger ng predefined functions.",,function calling

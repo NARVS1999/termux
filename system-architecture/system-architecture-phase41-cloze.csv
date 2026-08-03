@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Redis patterns}} ay ang mga common na gamit ng Redis: caching, sessions, queues, counters.",,Redis patterns
 Cloze,"Ang {{c1::cache invalidation}} ay ang proseso ng pagtanggal ng cached data kapag nagbago na.",,cache invalidation
 Cloze,"Ang {{c1::TTL}} o Time To Live ay ang oras na ang cached data ay valid bago mag-expire.",,TTL

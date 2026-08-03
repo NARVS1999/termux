@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-answer ang tanong gamit ang data na wala sa LLM training?",,"Gumamit ng RAG: i-retrieve ang relevant documents at i-feed sa prompt."
 Application,"Paano i-ensure na JSON ang format ng LLM output?",,"Gumamit ng structured outputs o i-validate gamit ang JSON schema."
 Application,"Paano paganahin ang LLM na mag-query ng database?",,"Gumamit ng function calling na nagbibigay ng SQL tool sa agent."

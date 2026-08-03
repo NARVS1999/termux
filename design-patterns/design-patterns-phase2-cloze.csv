@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::DRY}} ay nagsasabong huwag mag-duplicate ng code — i-extract ang shared logic.",,DRY
 Cloze,"Ang {{c1::KISS}} ay nagsasabong panatilihin ang code na simple at madaling intindihin.",,KISS
 Cloze,"Ang {{c1::YAGNI}} ay nagsasabong huwag magdagdag ng features na hindi mo pa kailangan ngayon.",,YAGNI

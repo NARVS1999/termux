@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Git}} ay ang distributed version control system na nagta-track ng changes sa code.",,Git
 Cloze,"Ang {{c1::commit}} ay ang snapshot ng mga changes sa repository sa isang punto ng panahon.",,commit
 Cloze,"Ang {{c1::branch}} ay ang independent na linya ng development sa loob ng repository.",,branch

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng layout route sa React Router?",,"<Route path='/dashboard' element={<DashboardLayout />}><Route index element={<Overview />} /><Route path='settings' element={<Settings />} /></Route>"
 Application,"Paano mag-render ng child routes sa layout?",,"<Outlet /> — i-place sa loob ng layout component para mag-render ang active child"
 Application,"Paano mag-setup ng index route?",,"<Route index element={<Home />} /> — magre-render kapag /dashboard lang ang URL"

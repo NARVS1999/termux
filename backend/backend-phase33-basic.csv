@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-structure ng Laravel app gamit ang service layer?",,"Gumawa ng app/Services directory, lumikha ng service classes, at i-inject sa controllers gamit ang dependency injection"
 Application,"Paano mag-apply ng repository pattern sa Laravel?",,"Lumikha ng interfaces sa app/Repositories, i-implement sa loob, at i-bind sa service provider"
 Application,"Paano mag-separate ng business logic sa Laravel controllers?",,"Ilagay ang complex logic sa service classes o action classes, huwag ilagay sa controller ang business rules"

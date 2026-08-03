@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-filter ang retrieval base sa user?",,"Magdagdag ng user ID sa metadata at i-filter sa query time."
 Application,"Paano i-handle ang mahabang context?",,"Gamitin ang context compaction para i-summarize ang hindi critical na parts."
 Application,"Paano i-improve ang retrieval accuracy?",,"Gumamit ng reranking pagkatapos ng initial retrieval."

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-limit ang API requests sa 100 kada minuto kada user?",,"->middleware('throttle:100,1') sa route."
 Application,"Paano maiwasan na ma-process ng dalawang beses ang isang order sa retry?",,"Gumamit ng idempotency key at i-check kung may existing record bago mag-process."
 Application,"Paano i-verify na ang webhook ay galing talaga sa payment gateway?",,"I-compute ang HMAC ng payload gamit ang secret at i-compare sa signature header."

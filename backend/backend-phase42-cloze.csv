@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::load balancer}} ay isang hardware o software na nagdi-distribute ng incoming traffic sa multiple servers para sa scalability.",,load balancer
 Cloze,"Ang {{c1::auto-scaling}} ay ang automatic na pagdagdag o pagbawas ng server instances base sa traffic demand.",,auto-scaling
 Cloze,"Ang {{c1::CDN}} o Content Delivery Network ay isang network ng distributed servers na nagce-serve ng static content malapit sa user.",,CDN

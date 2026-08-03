@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::third-party integration}} ay ang pagkokonekta sa external services (payment, SMS, maps) gamit ang kanilang APIs.",,third-party integration
 Cloze,"Ang {{c1::payment gateway}} ay isang service na humahawak ng pagproseso ng payments (Stripe, PayPal, PayMongo).",,payment gateway
 Cloze,"Ang {{c1::SDK}} ay ang library na ibinibigay ng isang service para mas madaling ma-integrate ang kanilang API.",,SDK

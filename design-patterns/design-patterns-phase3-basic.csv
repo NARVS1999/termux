@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano pumili sa pagitan ng composition at inheritance?",,Gamitin ang inheritance para sa 'is-a' relationship at composition para sa 'has-a' relationship
 Application,"Paano i-refactor ang inheritance hierarchies sa composition?",,I-inject ang dependencies at i-delegate ang behavior sa mga composed objects
 Application,"Paano malalaman kapag overusing ang inheritance?",,Kapag maraming levels ng hierarchy at maraming overridden methods

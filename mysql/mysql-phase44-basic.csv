@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-design ang e-commerce schema?",,"i-create ang products, orders, order_items, inventory, pricing tables na may tamang relationships"
 Application,"Paano i-handle ang product variants?",,"gumawa ng product_variants table: product_id, size, color, sku, price — 1:N sa products"
 Application,"Paano i-track ang inventory?",,"gumawa ng inventory_logs table: product_id, quantity_change, reason, created_at — audit trail"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::understand}} phase ay pag-c-clear ng problem statement at identifying ang input/output.",,understand
 Cloze,"Ang {{c1::plan}} phase ay pag-d-design ng algorithm approach bago mag-code.",,plan
 Cloze,"Ang {{c1::implement}} phase ay actual coding ng solution gamit ang planned approach.",,implement

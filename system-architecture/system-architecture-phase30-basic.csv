@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang VPC?",,"ang isolated na network sa cloud — parang sariling data center pero managed ng cloud provider"
 Application,"Ano ang WAF?",,"ang firewall na specifically para sa web apps: nagfi-filter ng SQL injection, XSS, at iba pang attacks"
 Application,"Paano mag-setup ng network segmentation?",,"hatiin ang network sa subnets: public, private, database — i-control ang traffic sa pagitan"

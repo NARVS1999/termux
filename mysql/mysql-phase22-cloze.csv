@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::index}} ay ang data structure na nagpapabilis ng search operations sa halip na i-scan ang buong table.",,index
 Cloze,"Ang {{c1::B-tree index}} ay ang default na index type ng MySQL na nag-work sa range at equality queries.",,B-tree
 Cloze,"Ang {{c1::hash index}} ay ang index type na mabilis sa equality queries pero hindi sa range.",,hash index

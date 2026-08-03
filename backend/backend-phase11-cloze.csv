@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Notifications}} ay ginagamit para magpadala ng mga paalala sa user sa pamamagitan ng email, SMS, o database.",,Notifications
 Cloze,"Ang {{c1::mailable}} ay isang class na kumakatawan sa isang email na may format at data nito.",,mailable
 Cloze,"Ang {{c1::filesystem}} ay nag-abstract ng file storage sa iba't ibang drivers (local, S3, FTP).",,filesystem

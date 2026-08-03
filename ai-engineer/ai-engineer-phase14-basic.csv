@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-request ng JSON output?",,"I-set ang response_format sa {'type': 'json_object'} o i-instruct sa prompt."
 Application,"Paano mag-define ng function para sa model?",,"I-declare ang function na may name, description, at parameters JSON schema."
 Application,"Paano i-execute ang tool call ng model?",,"I-parse ang function name at arguments, i-run ang function, at ibalik ang result."

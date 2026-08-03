@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::container}} ay ang lightweight na package ng application at mga dependencies nito.",,container
 Cloze,"Ang {{c1::Docker}} ay ang popular na containerization platform.",,Docker
 Cloze,"Ang {{c1::Dockerfile}} ay ang definition file kung paano i-build ang container image.",,Dockerfile

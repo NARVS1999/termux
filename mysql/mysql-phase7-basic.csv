@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-add ng foreign key sa table?",,"CREATE TABLE orders (id INT, user_id INT, FOREIGN KEY (user_id) REFERENCES users(id));"
 Application,"Paano mag-set ng ON DELETE CASCADE?",,"FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE — auto-delete child rows"
 Application,"Paano mag-set ng ON DELETE SET NULL?",,"FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE SET NULL — i-set ang FK sa NULL"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-setup ang master-slave replication?",,"i-configure ang server-id, i-enable ang binlog sa master, i-point ang slave sa master"
 Application,"Paano mag-check ng replication status?",,"SHOW SLAVE STATUS\G — ipapakita ang lag, status, at errors ng replication"
 Application,"Bakit gumamit ng read replica?",,"para i-offload ang read queries mula sa master — mas mabilis at hindi nag-a-load sa master"

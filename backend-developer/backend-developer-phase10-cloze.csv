@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::refactoring}} ay ang proseso ng pag-improve ng code structure nang hindi nagbabago ang behavior.",,refactoring
 Cloze,"Ang {{c1::code review}} ay ang proseso ng pag-review ng code ng ibang developer bago i-merge.",,code review
 Cloze,"Ang {{c1::documentation generation}} ay ang paggawa ng docs mula sa code comments at annotations.",,documentation generation

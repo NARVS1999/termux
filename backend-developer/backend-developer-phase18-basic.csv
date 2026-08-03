@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-analyze ng malaking dataset na may aggregations?",,"Gamitin ang column-oriented OLAP database tulad ng ClickHouse."
 Application,"Paano mag-store ng server metrics na may timestamps?",,"Gamitin ang time-series database tulad ng InfluxDB o TimescaleDB."
 Application,"Paano i-query ang friends of friends sa social graph?",,"Gamitin ang graph database: MATCH (a)-[:FRIEND]->(b) RETURN b;"

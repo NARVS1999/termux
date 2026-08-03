@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-solve ng LCS?","I-create ang 2D DP table na may comparison.","if (s1[i] == s2[j]) dp[i][j] = dp[i-1][j-1] + 1 else dp[i][j] = max(dp[i-1][j], dp[i][j-1])"
 Application,"Paano mag-solve ng edit distance?","dp[i][j] = min(insert, delete, substitute).","if (s1[i] == s2[j]) dp[i][j] = dp[i-1][j-1] else dp[i][j] = 1 + min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1])"
 Application,"Paano mag-traverse ng 2D DP table?","I-start sa top-left at mag-move sa bottom-right.","for i in 1..m: for j in 1..n: dp[i][j] = compute(dp[i-1][j], dp[i][j-1], dp[i-1][j-1])"

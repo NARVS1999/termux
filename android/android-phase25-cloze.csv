@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Coil}} ay Kotlin-first image loading library na ginagamit sa Jetpack Compose at XML.",,Coil
 Cloze,"Ang {{c1::Glide}} ay popular image loading library na may built-in caching at transformations.",,Glide
 Cloze,"Sa Android, ang {{c1::caching}} ay process ng pag-s-store ng images para sa faster loading.",,caching

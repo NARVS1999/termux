@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::type hinting}} ay ang pagde-declare ng expected type ng parameter o return value ng function.",,type hinting
 Cloze,"Ang {{c1::declare(strict_types=1)}} ay nag-e-enforce ng strict type checking sa function calls.",,declare(strict_types=1)
 Cloze,"Ang {{c1::try/catch}} ay ginagamit para i-handle ang exceptions nang hindi nag-crash ang application.",,try/catch

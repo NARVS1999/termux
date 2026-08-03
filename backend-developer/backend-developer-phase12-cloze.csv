@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::CRUD}} ay ang Create, Read, Update, at Delete operations sa database.",,CRUD
 Cloze,"Ang {{c1::SELECT}} ay ang SQL statement para kumuha ng data mula sa table.",,SELECT
 Cloze,"Ang {{c1::INSERT}} ay ang SQL statement para magdagdag ng bagong row.",,INSERT

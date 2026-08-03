@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumamit ng ReAct para sa multi-step problems?",,"I-prompt ang model na mag-thought, action, at observation loop hanggang sa final answer."
 Application,"Paano i-set ang role ng model?",,"Sa system prompt: 'You are a helpful software engineer'."
 Application,"Paano i-constrain ang topic ng sagot?",,"Sabihin: 'Only answer questions about Python programming'."

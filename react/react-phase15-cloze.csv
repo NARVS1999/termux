@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::useContext}} hook ay nagbibigay ng access sa value ng nearest Context Provider sa component tree.",,useContext
 Cloze,"Ang {{c1::useReducer}} hook ay ginagamit para sa complex state logic gamit ang reducer function: useReducer(reducer, initialState).",,useReducer
 Cloze,"Ang {{c1::Context Provider}} ay ang component na nagbabahagi ng data sa lahat ng children nito.",,Context Provider

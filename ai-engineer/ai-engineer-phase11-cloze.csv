@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::zero-shot}} prompting ay ang pagtatanong sa model nang walang anumang examples.",,zero-shot
 Cloze,"Ang {{c1::few-shot}} prompting ay ang pagbibigay ng ilang examples sa prompt bago ang aktwal na task.",,few-shot
 Cloze,"Ang {{c1::chain-of-thought}} (CoT) ay ang paghihikayat sa model na mag-isip nang step by step bago sumagot.",,chain-of-thought

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::array}} ay contiguous block of memory na nag-i-store ng elements sa sequential order.",,array
 Cloze,"Ang {{c1::indexing}} ay pag-a-access ng array element gamit ang zero-based position.",,indexing
 Cloze,"Ang {{c1::slicing}} ay pag-c-create ng subarray mula sa start hanggang end index.",,slicing

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-detect ng cycle?","Gamitin ang Floyd's: slow at fast pointers.","slow = head; fast = head; while(fast != null && fast.next != null) { slow = slow.next; fast = fast.next.next }"
 Application,"Paano mag-find ng cycle start?","Pagkatapos mag-meet, i-reset ang slow sa head at mag-move pareho ng 1 step.","slow = head; while(slow != fast) { slow = slow.next; fast = fast.next }"
 Application,"Paano mag-count ng cycle length?","I-count ang steps bago mag-meet ulit ang fast at slow.","count = 0; do { fast = fast.next; count++ } while (slow != fast)"

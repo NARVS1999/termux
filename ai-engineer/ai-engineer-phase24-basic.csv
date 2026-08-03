@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-call sa Hugging Face hosted model?",,"Gamitin ang InferenceClient: client.text_generation('model-id', prompt=...)"
 Application,"Paano mag-access ng maraming models sa isang API?",,"Gamitin ang OpenRouter na may isang API key para sa lahat ng models."
 Application,"Paano mag-build ng agent sa Vertex AI?",,"Gamitin ang Agent Builder console o API para i-configure ang agent."

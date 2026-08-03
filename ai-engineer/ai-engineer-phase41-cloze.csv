@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::multi-agent system}} ay isang setup kung saan maraming agents ang nagtutulungan para sa isang task.",,multi-agent system
 Cloze,"Ang {{c1::orchestration}} ay ang pagko-coordinate ng mga agents at ang kanilang mga tasks.",,orchestration
 Cloze,"Ang {{c1::specialized agents}} ay ang mga agents na may specific na role sa system.",,specialized agents

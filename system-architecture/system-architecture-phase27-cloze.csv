@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::reverse proxy}} ay ang server na nagre-receive ng incoming requests at nagfo-forward sa backend.",,reverse proxy
 Cloze,"Ang {{c1::Nginx}} ay ang popular na web server at reverse proxy na high-performance.",,Nginx
 Cloze,"Ang {{c1::HAProxy}} ay ang load balancer at reverse proxy na optimized para sa TCP/HTTP.",,HAProxy

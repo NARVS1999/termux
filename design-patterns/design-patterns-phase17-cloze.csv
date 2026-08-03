@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Proxy}} ay isang structural pattern na nagbibigay ng surrogate o placeholder para sa isa pang object.",,Proxy
 Cloze,"Ang {{c1::Proxy}} ay nagkokontrol ng access sa real object.",,Proxy
 Cloze,"Ang {{c1::virtual proxy}} ay naghihintay ng lazy initialization bago i-create ang real object.",,virtual proxy

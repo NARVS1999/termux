@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::staged rollout}} ay gradual na pag-release ng update sa percentage of users.",,staged rollout
 Cloze,"Ang {{c1::update monitoring}} ay process ng pag-o-observe ng crash rates at feedback pagkatapos ng release.",,update monitoring
 Cloze,"Sa Google Play, ang {{c1::rollback}} ay action na nag-r-reverts ng release sa previous version.",,rollback

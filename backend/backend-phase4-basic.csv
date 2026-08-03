@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-ensure na ang function ay tatanggap lang ng integer at magre-return ng integer?",,"Mag-type hint: function calc(int $n): int"
 Application,"Paano mag-handle ng error nang hindi nag-crash ang application?",,"I-wrap sa try/catch ang code na pwedeng mag-throw ng exception."
 Application,"Paano gumawa ng sariling error type para sa specific na scenario (e.g. insufficient balance)?",,"Mag-create ng custom exception class na nag-extend sa Exception."

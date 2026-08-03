@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng Repository?","I-define ang interface at i-implement ang class.","interface UserRepository { suspend fun getUsers(): Flow<List<User>> }"
 Application,"Paano mag-combine ng local at remote data?","I-check muna ang local cache, then fetch remote.","fun getUsers() = localDataSource.getUsers().onEmpty { remoteDataSource.fetchUsers() }"
 Application,"Paano mag-inject ng Repository?","I-pass ang dependencies sa constructor.","class UserRepositoryImpl(private val api: ApiService, private val dao: UserDao) : UserRepository"

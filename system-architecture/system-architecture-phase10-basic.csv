@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Bakit kailangan ng service mesh?",,"para i-manage ang service-to-service communication: mTLS, retry, circuit breaking — nang hindi nag-a-add ng code"
 Application,"Ano ang sidecar proxy?",,"isang container na tumatakbo sa tabi ng main service — nagha-handle ng networking concerns"
 Application,"Ano ang mTLS?",,"ang encryption sa pagitan ng dalawang services — nag-i-verify ng identity ng bawat service"

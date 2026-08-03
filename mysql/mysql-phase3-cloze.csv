@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::INT}} data type ay para sa integer numbers: TINYINT, SMALLINT, MEDIUMINT, INT, BIGINT.",,INT
 Cloze,"Ang {{c1::VARCHAR}} ay ang variable-length string na may maximum na length: VARCHAR(255).",,VARCHAR
 Cloze,"Ang {{c1::TEXT}} data type ay para sa malalaking text values: TEXT, MEDIUMTEXT, LONGTEXT.",,TEXT

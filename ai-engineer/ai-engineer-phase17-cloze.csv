@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::prompt injection}} ay ang pag-manipulate sa model para magsagawa ng unintended actions.",,prompt injection
 Cloze,"Ang {{c1::direct injection}} ay nangyayari kapag ang malicious instruction ay galing mismo sa user input.",,direct injection
 Cloze,"Ang {{c1::indirect injection}} ay nangyayari kapag ang malicious instruction ay naka-embed sa external content tulad ng web pages.",,indirect injection

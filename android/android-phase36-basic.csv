@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-open ng profiler?","Gamitin ang View > Tool Windows > Profiler sa Android Studio.","Open Android Studio > View > Tool Windows > Profiler"
 Application,"Paano mag-record ng CPU trace?","I-click ang record button sa CPU profiler tab.","Click Record > perform actions > Stop Recording"
 Application,"Paano mag-check ng memory usage?","I-observe ang memory timeline sa Memory Profiler.","Observe heap allocations and GC events"

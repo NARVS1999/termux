@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Hugging Face Inference SDK}} ay nagpapadali ng pag-call sa hosted models sa Hub.",,Hugging Face Inference SDK
 Cloze,"Ang {{c1::OpenRouter}} ay isang platform na nagbibigay ng access sa maraming models sa isang API.",,OpenRouter
 Cloze,"Ang {{c1::Vertex AI Agent Builder}} ay ang Google platform para mag-build ng AI agents.",,Vertex AI Agent Builder

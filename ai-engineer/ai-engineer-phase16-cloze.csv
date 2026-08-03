@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::bias}} sa AI ay ang hindi patas na pagtrato sa ilang grupo base sa training data o algorithms.",,bias
 Cloze,"Ang {{c1::fairness}} ay ang pagtiyak na pantay ang treatment ng AI sa lahat ng users.",,fairness
 Cloze,"Ang {{c1::hallucination}} ay ang pag-generate ng model ng maling impormasyon na parang totoo.",,hallucination

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Strategy pattern?",,"gumawa ng strategy interface, i-implement ang bawat algorithm, i-inject sa context"
 Application,"Kailan gumamit ng Strategy pattern?",,"kapag maraming algorithms at gusto mong pumili sa runtime: sorting, payment methods, compression"
 Application,"Ano ang pagkakaiba ng Strategy at State?",,"Strategy: nagpapalit ng algorithm. State: nagpapalit ng behavior base sa state transitions."

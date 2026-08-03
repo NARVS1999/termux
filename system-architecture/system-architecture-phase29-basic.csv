@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang RBAC?",,"ang pag-a-assign ng permissions base sa roles: admin = lahat, editor = manage posts, viewer = read only"
 Application,"Ano ang ABAC?",,"ang pag-decide ng access base sa attributes: user department, time of day, resource sensitivity"
 Application,"Bakit importante ang least privilege?",,"para maiwasan ang security risks — i-grant lang ang kailangan, hindi ang gusto"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang pagkakaiba ng A at CNAME records?",,"A: direktang IP address. CNAME: alias sa ibang domain. Gamitin ang A para sa direct, CNAME para sa alias."
 Application,"Paano mag-set ng low TTL?",,"gumamit ng 300 seconds (5 minutes) para sa rapid changes, 3600 para sa stable records"
 Application,"Paano gumagana ang DNS resolution chain?",,"client → recursive resolver → root nameserver → TLD nameserver → authoritative nameserver → IP"

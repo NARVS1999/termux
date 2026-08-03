@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::State pattern}} ay ang behavioral pattern na nagpapalit ng behavior kapag nagbago ang internal state.",,State pattern
 Cloze,"Ang {{c1::state interface}} ay nagde-define ng actions na pwedeng gawin sa bawat state.",,state interface
 Cloze,"Ang {{c1::context}} ay ang object na nagho-hold ng current state at nagde-delegate ng behavior.",,context

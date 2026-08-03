@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::eager loading}} ay ang pag-load ng relationships nang sabay-sabay para maiwasan ang N+1 query problem.",,eager loading
 Cloze,"Ang {{c1::N+1 problem}} ay nangyayari kapag nag-query ka ng isang beses para sa parent, tapos isang beses pa bawat child.",,N+1 problem
 Cloze,"Ang {{c1::model events}} (creating, created, saving, saved) ay mga hooks na nagrurun sa iba't ibang point ng model lifecycle.",,model events

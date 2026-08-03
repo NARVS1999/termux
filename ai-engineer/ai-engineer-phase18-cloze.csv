@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang pagdagdag ng {{c1::end-user IDs}} sa prompts ay nakakatulong sa pag-track ng usage at pag-enforce ng policies.",,end-user IDs
 Cloze,"Ang {{c1::rate limiting}} ay ang paglilimita sa bilang ng requests na pwedeng gawin ng isang user o IP.",,rate limiting
 Cloze,"Ang {{c1::input constraints}} ay mga limits sa kung ano ang pwedeng ipasok sa model (hal. max length).",,input constraints

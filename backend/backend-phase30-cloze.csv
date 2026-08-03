@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::PHPUnit}} ay ang testing framework na ginagamit ng Laravel para sa lahat ng tests.",,PHPUnit
 Cloze,"Ang {{c1::Pest}} ay isang modern testing framework na built on top of PHPUnit na may mas clean na syntax.",,Pest
 Cloze,"Ang {{c1::TestCase}} ay ang base class ng lahat ng tests sa Laravel na nagbibigay ng convenient testing methods.",,TestCase

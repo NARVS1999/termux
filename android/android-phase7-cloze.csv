@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Activity}} ay component na nagre-represent ng single screen sa Android app.",,Activity
 Cloze,"Ang {{c1::onCreate}} method ay tinatawag pagkatapos i-create ng system ang Activity.",,onCreate
 Cloze,"Ang {{c1::onResume}} method ay tinatawag kapag ang Activity ay nasa foreground at pwedeng mag-interact.",,onResume

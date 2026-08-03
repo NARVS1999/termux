@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng prompt na may malinaw na instruction?",,"Magsimula sa verb: 'Summarize', 'Translate', o 'List' ang task na gusto mong gawin."
 Application,"Paano i-separate ang instructions sa user data?",,"Gamitin ang delimiters tulad ng triple quotes o <input> tags."
 Application,"Paano i-specify ang output format ng model?",,"Sabihin sa prompt: 'Return the answer as JSON' o 'Answer in bullet points'."

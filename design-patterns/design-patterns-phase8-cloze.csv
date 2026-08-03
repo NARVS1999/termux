@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Builder}} ay isang creational pattern na nagbibigay ng step-by-step na paraan para bumuo ng kumplikadong objects.",,Builder
 Cloze,"Ang {{c1::fluent interface}} ay isang technique na nagbibigay ng method chaining para mas madaling gamitin ang builder.",,fluent interface
 Cloze,"Ang {{c1::director}} ay ang class na nag-a-arrange ng construction steps para sa builder.",,director

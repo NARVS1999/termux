@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng functional component sa React?",,"function Greeting() { return <h1>Hello World</h1>; } o const Greeting = () => <h1>Hello</h1>;"
 Application,"Paano i-compose ang mga components?",,"Gamitin ang component sa loob ng ibang component: function App() { return <Header />; }"
 Application,"Paano mag-organize ng component files sa project?",,"Gumawa ng components/ directory, bawat component ay may sariling folder na may index.js at styles"

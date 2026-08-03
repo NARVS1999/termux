@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::refactoring}} ay ang proseso ng pagpapabuti ng internal na structure ng code nang hindi nagbabago ng external behavior.",,refactoring
 Cloze,"Ang {{c1::code review}} ay ang proseso ng pag-examine ng code ng ibang developer para sa quality, correctness, at best practices.",,code review
 Cloze,"Ang {{c1::technical debt}} ay ang implied cost ng rework na dulot ng pagpili ng madaling solusyon sa halip na tamang approach.",,technical debt

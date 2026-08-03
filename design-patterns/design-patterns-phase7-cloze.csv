@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Abstract Factory}} ay isang creational pattern na nagbibigay ng interface para sa paggawa ng mga families ng related objects.",,Abstract Factory
 Cloze,"Ang {{c1::Abstract Factory}} ay nag-i-isolate ang creation logic mula saspecific na mga uri ng objects.",,Abstract Factory
 Cloze,"Ang {{c1::product family}} ay isang set ng mga related objects na ginawa ng iisang factory.",,product family

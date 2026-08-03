@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::composition}} ay nagbibigay ng flexibility sa pamamagitan ng pagkakaroon ng mga objects na naglalaman ng ibang objects.",,composition
 Cloze,"Ang {{c1::inheritance}} ay nagbibigay ng code reuse sa pamamagitan ng pag-aambag ng mga properties at methods mula sa parent class.",,inheritance
 Cloze,"Ang {{c1::favor composition over inheritance}} ay isang design principle na nagsasabong mas mainam ang composition.",,favor composition over inheritance

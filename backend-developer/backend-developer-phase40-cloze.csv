@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::twelve-factor app}} ay ang methodology para sa pagbuo ng modern cloud-native applications.",,twelve-factor app
 Cloze,"Ang {{c1::config}} ay ang lahat ng nagbabago sa pagitan ng environments.",,config
 Cloze,"Ang {{c1::stateless processes}} ay ang processes na walang lokal na estado.",,stateless processes

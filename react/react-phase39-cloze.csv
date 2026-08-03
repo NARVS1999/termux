@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Jest}} ay ang testing framework na ginagamit ng React ecosystem para sa unit at integration tests.",,Jest
 Cloze,"Ang {{c1::jest.fn()}} ay ang function na nagcre-create ng mock function para sa testing.",,jest.fn()
 Cloze,"Ang {{c1::jest.mock()}} ay ang method na nagmo-mock ng modules: jest.mock('./api').",,jest.mock()

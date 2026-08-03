@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::feature-based structure}} ay ang folder layout na hinahati ang code ayon sa features, hindi sa technical type.",,feature-based structure
 Cloze,"Ang {{c1::barrel export}} ay ang index.js file na nagre-export ng lahat ng exports mula sa isang directory.",,barrel export
 Cloze,"Ang {{c1::monorepo}} ay ang repository na naglalaman ng maraming related packages o apps.",,monorepo

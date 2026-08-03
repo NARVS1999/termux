@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-refactor ng isang malaking Laravel method?",,"Hatiin sa mga maliliit na method, pangalanan nang malinaw, at i-test ang bawat bagong method"
 Application,"Paano gumawa ng effective code review?",,"Tingnan ang logic, tests, naming, security, at performance — magbigay ng constructive feedback"
 Application,"Paano i-manage ang technical debt sa Laravel project?",,"mag-create ng issue tracker para sa debt items, i-prioritize, at i-alot ng oras sa sprint para i-address"

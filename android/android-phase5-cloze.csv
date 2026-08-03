@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::coroutine}} ay lightweight thread na ginagamit para mag-run ng asynchronous code sa Kotlin.",,coroutine
 Cloze,"Sa Kotlin, ang {{c1::suspend}} function ay function na pwedeng i-pause at i-resume habang naghihintay ng result.",,suspend
 Cloze,"Ang {{c1::launch}} coroutine builder ay nag-start ng bagong coroutine na hindi naghihintay sa completion.",,launch

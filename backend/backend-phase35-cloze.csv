@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::modular architecture}} ay isang design approach kung saan hinahati ang application sa independent, interchangeable modules.",,modular architecture
 Cloze,"Ang {{c1::multi-tenancy}} ay ang ability ng isang application na mag-serve ng maraming tenants (customers) gamit ang iisang codebase.",,multi-tenancy
 Cloze,"Ang {{c1::tenant}} sa multi-tenant app ay ang individual na customer o organization na may sariling data.",,tenant

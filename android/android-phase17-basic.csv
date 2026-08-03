@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-animate ng opacity sa Compose?","Gamitin ang animateFloatAsState.","val alpha by animateFloatAsState(if (visible) 1f else 0f)"
 Application,"Paano mag-show/hide ng content with animation?","Gamitin ang AnimatedVisibility composable.","AnimatedVisibility(visible = show) { Text(\"Animated\") }"
 Application,"Paano mag-animate ng size changes?","Gamitin ang animateContentSize modifier.","Modifier.animateContentSize()"

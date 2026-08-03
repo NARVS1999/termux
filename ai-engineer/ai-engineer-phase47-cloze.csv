@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::LangSmith}} ay ang observability at evaluation platform ng LangChain.",,LangSmith
 Cloze,"Ang {{c1::Langfuse}} ay isang open source platform para sa LLM observability.",,Langfuse
 Cloze,"Ang {{c1::Helicone}} ay isang proxy na nagko-collect ng metrics ng LLM calls.",,Helicone

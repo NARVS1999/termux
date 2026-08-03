@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::GraphQL}} ay ang query language para sa APIs na nagbibigay ng kontrol sa client.",,GraphQL
 Cloze,"Ang {{c1::schema}} ay ang definition ng types at operations sa GraphQL.",,schema
 Cloze,"Ang {{c1::query}} ay ang GraphQL operation para kumuha ng data.",,query

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::file input}} sa React ay ginagamit gamit ang <input type='file' /> at na-a-access ang files gamit ang ref.",,file input
 Cloze,"Ang {{c1::FormData}} ay ang API para sa pag-send ng file data sa server: new FormData() at append().",,FormData
 Cloze,"Ang {{c1::multi-step form}} ay ang form na hinahati sa maraming steps para sa better UX.",,multi-step form

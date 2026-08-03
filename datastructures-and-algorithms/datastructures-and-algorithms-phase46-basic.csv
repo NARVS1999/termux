@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-generate ng permutations?","Gamitin ang backtracking na may visited set.","fun permute(arr, path, visited) { if (path.size == n) result.add(path); for i in 0..n: if (!visited[i]) { visited[i]=true; permute(arr, path+arr[i], visited) } }"
 Application,"Paano mag-generate ng combinations?","Gamitin ang backtracking na may start index.","fun combine(arr, start, path) { if (path.size == k) result.add(path); for i in start..n: combine(arr, i+1, path+arr[i]) }"
 Application,"Paano mag-prune ng search space?","I-check ang constraint bago mag-explore ng deeper.","if (!isValid(partialSolution)) return"

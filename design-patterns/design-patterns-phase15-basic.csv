@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Facade?",,Lumikha ng facade class na may simplified methods na nag-delegate sa subsystem classes
 Application,"Paano pumili sa Facade at Adapter?",,Ang Facade ay nagbibigay ng simpleng interface sa kumplikadong subsystem, Adapter ay nagko-convert ng interfaces
 Application,"Paano i-apply ang Facade sa third-party libraries?",,I-wrap ang library sa isang facade na may domain-specific na methods

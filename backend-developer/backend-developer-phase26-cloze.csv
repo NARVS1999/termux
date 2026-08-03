@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::cache-aside}} ay ang strategy kung saan ang application mismo ang naglo-load ng data sa cache.",,cache-aside
 Cloze,"Ang {{c1::write-through}} ay ang strategy kung saan sabay na sinusulat ang data sa cache at database.",,write-through
 Cloze,"Ang {{c1::write-back}} ay ang strategy kung saan sa cache muna isinusulat ang data bago sa database.",,write-back

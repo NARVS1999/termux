@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng CTE?",,"WITH active_users AS (SELECT * FROM users WHERE status = 'active') SELECT * FROM active_users WHERE age > 18;"
 Application,"Paano gumawa ng recursive CTE?",,"WITH RECURSIVE org AS (SELECT id, name, manager_id FROM employees WHERE manager_id IS NULL UNION ALL SELECT e.id, e.name, e.manager_id FROM employees e JOIN org o ON e.manager_id = o.id) SELECT * FROM org;"
 Application,"Bakit gumamit ng CTE sa halip na subquery?",,"mas malinis ang read, mas madaling i-maintain, pwedeng i-reference ng multiple times"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::eventual consistency}} ay ang guarantee na ang lahat ng nodes ay magiging consistent pagkatapos ng sufficient time.",,eventual consistency
 Cloze,"Ang {{c1::strong consistency}} ay ang guarantee na ang bawat read ay may most recent na write.",,strong consistency
 Cloze,"Ang {{c1::Saga pattern}} ay ang sequence ng local transactions na may compensating actions.",,Saga pattern

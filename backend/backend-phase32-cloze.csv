@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::TDD}} o Test-Driven Development ay isang approach kung saan ginagawa muna ang tests bago ang actual na code.",,TDD
 Cloze,"Ang {{c1::coverage report}} ay ang generated report na nagpapakita kung aling bahagi ng code ang na-test.",,coverage report
 Cloze,"Ang {{c1::CI}} o Continuous Integration ay ang automated na pag-run ng tests sa bawat code change o commit.",,CI

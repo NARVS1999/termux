@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano pumili sa pagitan ng PostgreSQL at MySQL?",,"Ibase sa features: PostgreSQL para sa advanced features, MySQL para sa simplicity at popularity."
 Application,"Paano gumawa ng table sa SQLite?",,"Gamitin ang: CREATE TABLE users (id INTEGER PRIMARY KEY, name TEXT);"
 Application,"Paano mag-link ng dalawang tables?",,"Gamit ang foreign key na tumutukoy sa primary key ng related table."

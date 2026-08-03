@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Kailan gumamit ng background jobs?",,"kapag matagal ang processing: email sending, report generation, image processing — hindi dapat mag-antay ang user"
 Application,"Paano mag-setup ng job queue?",,"gamitin ang Redis + Bull, RabbitMQ, o SQS — i-produce ang jobs, i-consume ng workers"
 Application,"Ano ang batch processing?",,"pag-handle ng maraming items sa iisang run: bulk email, data migration, report generation"

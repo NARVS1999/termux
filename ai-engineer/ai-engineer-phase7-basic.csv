@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-adapt ang model para sa specific na task?",,"I-fine-tune ang pre-trained model gamit ang labeled dataset ng task."
 Application,"Paano i-align ang model sa human preferences?",,"Gamitin ang RLHF o preference-based optimization."
 Application,"Paano gumawa ng instruction-following model?",,"Mag-fine-tune gamit ang instruction-response pairs."

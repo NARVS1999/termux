@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::normalization}} ay ang proseso ng pag-o-organize ng data para ma-redundancy at ma-improve ang data integrity.",,normalization
 Cloze,"Ang {{c1::1NF}} o First Normal Form ay nangangailangan na ang bawat column ay atomic (hindi multip-valued).",,1NF
 Cloze,"Ang {{c1::2NF}} o Second Normal Form ay nangangailangan na walang partial dependency sa composite primary key.",,2NF

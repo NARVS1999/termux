@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-add ng fragment sa Activity?","Gamitin ang FragmentContainerView sa layout XML.","<FragmentContainerView android:id=\"@+id/nav_host\" />"
 Application,"Paano mag-navigate sa ibang fragment?","Gamitin ang NavController.navigate() method.","navController.navigate(R.id.action_to_detail)"
 Application,"Paano mag-add ng fragment sa back stack?","I-add ang addToBackStack() sa transaction.","fragmentTransaction.addToBackStack(null).commit()"

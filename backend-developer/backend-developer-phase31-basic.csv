@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-iimbak ng API keys nang secure?",,"Gamitin ang environment variables o secrets management tool tulad ng Vault."
 Application,"Paano pigilan ang pag-access ng unauthorize na users sa server?",,"Mag-configure ng firewall at i-apply ang least privilege principle."
 Application,"Paano protektahan ang app mula sa XSS?",,"Magdagdag ng CSP header at i-sanitize ang lahat ng user-generated content."

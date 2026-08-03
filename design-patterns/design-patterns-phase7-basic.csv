@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-distinguish ang Factory Method at Abstract Factory?",,Ang Factory Method ay para sa isang product, Abstract Factory ay para sa mga related na products
 Application,"Paano mag-implement ng UI theme sa Abstract Factory?",,Lumikha ng interface para sa UI components at mga concrete factories para sa bawat theme
 Application,"Paano magdagdag ng bagong product family?",,Lumikha ng bagong concrete factory na nag-i-implement ng abstract factory interface

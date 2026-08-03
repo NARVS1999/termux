@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::CREATE TABLE}} statement ay ginagamit para mag-create ng bagong table sa database.",,CREATE TABLE
 Cloze,"Ang {{c1::NOT NULL}} constraint ay nag-i-sure na ang column ay hindi pwedeng magkaroon ng NULL value.",,NOT NULL
 Cloze,"Ang {{c1::DEFAULT}} constraint ay nagbibigay ng default value kapag hindi nag-specify ng value.",,DEFAULT

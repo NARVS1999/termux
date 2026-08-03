@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::stored procedure}} ay ang pre-compiled na SQL code na naka-store sa database at tinatawag gamit ang CALL.",,stored procedure
 Cloze,"Ang {{c1::CREATE PROCEDURE}} statement ay ginagamit para mag-create ng bagong stored procedure.",,CREATE PROCEDURE
 Cloze,"Ang {{c1::IN parameter}} ay ang parameter na nagpapasa ng value sa procedure (read-only).",,IN parameter

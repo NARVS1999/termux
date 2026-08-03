@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::RAG}} (Retrieval-Augmented Generation) ay ang pag-combine ng retrieval ng documents sa generation ng sagot.",,RAG
 Cloze,"Ang RAG ay ginagamit para i-ground ang model sa {{c1::up-to-date}} o private na information.",,up-to-date
 Cloze,"Ang {{c1::RAG use cases}} ay kasama ang customer support, document Q&A, at knowledge assistants.",,RAG use cases

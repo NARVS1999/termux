@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng use case?","I-define ang class na may invoke operator.","class GetUsersUseCase @Inject constructor(private val repo: UserRepository) { suspend operator fun invoke() = repo.getUsers() }"
 Application,"Paano mag-separate ng layers?","I-create ang separate packages: data, domain, presentation.","com.app.data.repository, com.app.domain.usecase, com.app.presentation.screen"
 Application,"Paano mag-dependency ng layers?","Domain layer wala Android imports, data layer implements domain interfaces.","interface UserRepository (domain) -> class UserRepositoryImpl (data)"

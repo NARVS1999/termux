@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-traverse ng linked list?","Gamitin ang current pointer na nag-m-move sa next.","var current = head; while (current != null) { process(current); current = current.next }"
 Application,"Paano mag-insert sa unang position?","I-set ang bagong node na next sa current head.","newNode.next = head; head = newNode"
 Application,"Paano mag-delete ng node?","I-skip ang node gamit ang previous.next = current.next.","prev.next = curr.next"

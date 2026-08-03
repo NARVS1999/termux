@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::preorder traversal}} ay Root-Left-Right na pag-i-iterate sa tree.",,preorder traversal
 Cloze,"Ang {{c1::inorder traversal}} ay Left-Root-Right na traversal na nag-b-balis ng sorted sa BST.",,inorder traversal
 Cloze,"Ang {{c1::postorder traversal}} ay Left-Right-Root na traversal na ginagamit sa deletion.",,postorder traversal

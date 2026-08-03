@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-build ng study habit?","Mag-solve ng 1-2 problems daily at i-review regularly.","Daily: solve 1 problem > track progress > review weekly"
 Application,"Paano mag-practice ng timed problems?","Mag-set ng 30-minute timer per problem.","Timer: 30 min per problem; if stuck, study solution then redo"
 Application,"Paano mag-identify ng patterns?","I-group ang solved problems by technique.","Group: sliding window, two pointers, BFS/DFS, DP"

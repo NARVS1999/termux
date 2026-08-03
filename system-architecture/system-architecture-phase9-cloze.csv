@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::event-driven architecture}} ay ang pattern kung saan ang components ay nagko-communicate gamit ang events.",,event-driven architecture
 Cloze,"Ang {{c1::event sourcing}} ay ang pattern ng pag-store ng state bilang sequence ng events.",,event sourcing
 Cloze,"Ang {{c1::CQRS}} o Command Query Responsibility Segregation ay ang paghihiwalay ng read at write models.",,CQRS

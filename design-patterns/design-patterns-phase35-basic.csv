@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang Monitor?",,"ang synchronization construct na nagbibigay ng mutual exclusion: isang thread lang ang nasa critical section"
 Application,"Paano gumamit ng condition variable?",,"gamitin ang wait() para maghintay, signal() para mag-notify, broadcast() para i-notify ang lahat"
 Application,"Ano ang mutex?",,"mutual exclusion lock — isang thread lang ang pwedeng mag-hold sa isang oras"

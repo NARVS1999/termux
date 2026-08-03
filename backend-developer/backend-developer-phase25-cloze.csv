@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::caching}} ay ang pag-i-store ng data para mas mabilis ang mga future requests.",,caching
 Cloze,"Ang {{c1::cache hit}} ay ang request na na-serve mula sa cache.",,cache hit
 Cloze,"Ang {{c1::cache miss}} ay ang request na hindi nahanap sa cache kaya kinailangang i-fetch.",,cache miss

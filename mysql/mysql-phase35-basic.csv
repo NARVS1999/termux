@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng scheduled event?",,"CREATE EVENT daily_cleanup ON SCHEDULE EVERY 1 DAY DO DELETE FROM logs WHERE created_at < DATE_SUB(NOW(), INTERVAL 30 DAY);"
 Application,"Paano i-enable ang event scheduler?",,"SET GLOBAL event_scheduler = ON; — kailangan naka-on para mag-run ang events"
 Application,"Paano gumawa ng one-time event?",,"CREATE EVENT one_time ON SCHEDULE AT CURRENT_TIMESTAMP + INTERVAL 1 HOUR DO ..."

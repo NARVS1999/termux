@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng multimodal app gamit ang LangChain?",,"Gamitin ang multimodal message support para i-pass ang images at text sa model."
 Application,"Paano gumawa ng visual search?",,"I-embed ang images gamit ang CLIP o katulad at i-search sa vector DB."
 Application,"Paano mag-load ng multimodal model sa Hugging Face?",,"Gamitin ang pipeline o AutoModel mula sa transformers library."

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::index}} ay ang data structure na nagpapabilis ng query lookups sa database.",,index
 Cloze,"Ang {{c1::composite index}} ay ang index na binubuo ng dalawa o higit pang columns.",,composite index
 Cloze,"Ang {{c1::primary index}} ay ang index na awtomatikong ginagawa sa primary key.",,primary index

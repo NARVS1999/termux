@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::unit testing}} ay ang pag-test ng mga indibidwal na units ng code.",,unit testing
 Cloze,"Ang {{c1::integration testing}} ay ang pag-test ng interaction ng mga components.",,integration testing
 Cloze,"Ang {{c1::functional testing}} ay ang pag-test ng functionality mula sa user perspective.",,functional testing

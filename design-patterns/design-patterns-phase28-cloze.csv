@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::MVP}} o Model-View-Presenter ay ang architectural pattern na nagpo-position ng presenter bilang middleman.",,MVP
 Cloze,"Ang {{c1::presenter}} sa MVP ay nagpo-process ng business logic at nagpo-prepare ng data para sa view.",,presenter
 Cloze,"Ang {{c1::passive view}} sa MVP ay ang view na walang logic — lahat ay nasa presenter.",,passive view

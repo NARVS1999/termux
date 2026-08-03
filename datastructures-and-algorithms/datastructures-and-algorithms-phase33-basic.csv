@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-topological sort gamit Kahn's?","I-compute in-degree, i-process ang 0 in-degree nodes, i-reduce ang in-degree ng neighbors.","queue all with inDegree 0; while queue: process node; for neighbor: inDegree[neighbor]--"
 Application,"Paano mag-topological sort gamit DFS?","I-DFS tapos i-add sa front ng list pagkatapos ma-finish.","dfs(node): visited.add(node); for neighbor: dfs(neighbor); result.add(0, node)"
 Application,"Paano mag-solve ng course schedule?","Gamitin ang topological sort: kung valid ordering lahat matatapos.","return topologicalSort.size == numCourses"

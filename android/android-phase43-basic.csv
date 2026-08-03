@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng release build?","Gamitin ang Build > Generate Signed Bundle/APK sa Android Studio.","Build > Generate Signed Bundle/APK > APK"
 Application,"Paano mag-set ng version code?","I-define ang versionCode sa build.gradle.","android { defaultConfig { versionCode = 1 } }"
 Application,"Paano mag-enable ng R8?","I-set ang minifyEnabled sa release build type.","buildTypes { release { minifyEnabled true } }"

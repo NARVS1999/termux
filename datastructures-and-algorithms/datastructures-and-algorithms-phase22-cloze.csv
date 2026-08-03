@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::set}} ay collection na nag-i-store ng unique elements lang.",,set
 Cloze,"Ang {{c1::interval}} ay range na may start at end value.",,interval
 Cloze,"Ang {{c1::union}} ay operation na nag-c-combines ng dalawang sets.",,union

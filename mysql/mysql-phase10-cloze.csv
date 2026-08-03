@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::denormalization}} ay ang proseso ng pagdagdag ng redundant data para pabilisin ang reads.",,denormalization
 Cloze,"Ang {{c1::read-heavy}} na application ay mas marami ang queries kaysa sa writes.",,read-heavy
 Cloze,"Ang {{c1::write-heavy}} na application ay mas marami ang writes kaysa sa queries.",,write-heavy

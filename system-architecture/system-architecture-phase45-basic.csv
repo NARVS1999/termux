@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng URL shortener?",,"i-generate ang short code (base62), i-store ang mapping (short → long) sa database, i-redirect sa request"
 Application,"Paano maiwasan ang collision?",,"gumamit ng unique ID (auto-increment) o i-check ang uniqueness bago i-store"
 Application,"Paano i-scale ang URL shortener?",,"i-shard ang database, i-cache ang popular URLs, gumamit ng CDN para sa redirection"

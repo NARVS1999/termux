@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::OpenAI AgentKit}} ay ang toolkit ng OpenAI para mag-build ng AI agents.",,OpenAI AgentKit
 Cloze,"Ang {{c1::OpenAI Agent SDK}} ay ang opisyal na SDK ng OpenAI para sa agents.",,OpenAI Agent SDK
 Cloze,"Ang {{c1::Claude Agent SDK}} ay ang Anthropic SDK para mag-build ng agents gamit ang Claude.",,Claude Agent SDK

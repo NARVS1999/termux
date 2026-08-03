@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-numero ng bawat row sa isang query na naka-order?",,"Gamitin ang ROW_NUMBER() OVER (ORDER BY created_at) bilang isang column."
 Application,"Paano mag-compare ng bawat row sa nakaraang row (e.g. price change)?",,"Gamitin ang LAG(price) OVER (ORDER BY created_at)"
 Application,"Paano mag-create ng reusable na temporary result set sa isang query?",,"Gamitin ang CTE: WITH active_users AS (SELECT * FROM users WHERE status = 'active') SELECT ..."

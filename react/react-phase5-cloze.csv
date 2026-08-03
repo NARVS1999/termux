@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::closure}} ay ang combination ng function at lexical environment nito — naaalala ng function ang variables mula sa outer scope.",,closure
 Cloze,"Ang {{c1::hoisting}} ay ang behavior kung saan ina-angat ng JavaScript ang declarations sa taas ng scope bago mag-execute.",,hoisting
 Cloze,"Ang {{c1::event loop}} ay ang mechanism ng JavaScript na nagha-handle ng asynchronous callbacks sa main thread.",,event loop

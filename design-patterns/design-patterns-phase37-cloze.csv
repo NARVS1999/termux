@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Unit of Work}} ay ang enterprise pattern na nagte-track ng changes at nagco-commit ng lahat sa iisang transaction.",,Unit of Work
 Cloze,"Ang {{c1::change tracking}} ay ang pag-record ng lahat ng inserts, updates, at deletes bago mag-commit.",,change tracking
 Cloze,"Ang {{c1::transaction}} sa Unit of Work ay isang atomic na operation — lahat o walang gagawin.",,transaction

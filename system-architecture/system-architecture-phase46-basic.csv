@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-design ng chat system?",,"WebSockets para sa real-time, message queue para sa reliability, database para sa storage"
 Application,"Paano i-handle ang presence?",,"i-store ang online status sa Redis: SET user:123:online EX 300 — auto-expire kapag hindi nag-heartbeat"
 Application,"Paano i-guarantee ang message ordering?",,"gumamit ng sequence numbers o timestamps — i-order sa client side"

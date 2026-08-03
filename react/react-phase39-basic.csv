@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-setup ng Jest sa React project?",,"npx create-react-app ay may built-in na Jest. I-customize sa package.json sa ilalim ng jest config"
 Application,"Paano gumawa ng snapshot test?",,"expect(component).toMatchSnapshot(); — i-save ang snapshot sa unang run, i-compare sa subsequent runs"
 Application,"Paano i-mock ang isang module sa Jest?",,"jest.mock('./api', () => ({ fetchData: jest.fn(() => Promise.resolve([])) }));"

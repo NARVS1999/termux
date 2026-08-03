@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng Room entity?","I-annotate ang data class gamit ang @Entity annotation.","@Entity(tableName = \"users\") data class User(@PrimaryKey val id: Int, val name: String)"
 Application,"Paano mag-create ng DAO?","I-annotate ang interface gamit ang @Dao at i-define ang queries.","@Dao interface UserDao { @Query(\"SELECT * FROM users\") fun getAll(): Flow<List<User>> }"
 Application,"Paano mag-define ng migration?","I-create ang migration class na may version at SQL statements.","Migration(1, 2) { db.execSQL(\"ALTER TABLE users ADD COLUMN age INTEGER\") }"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-handle ng click event sa React?",,"<button onClick={() => alert('Clicked!')}>Click</button> o i-pass ang function reference"
 Application,"Paano mag-handle ng form submission sa React?",,"<form onSubmit={(e) => { e.preventDefault(); handleSubmit(); }}> — gamitin ang preventDefault"
 Application,"Paano gumawa ng controlled input sa React?",,"const [value, setValue] = useState(''); <input value={value} onChange={(e) => setValue(e.target.value)} />"

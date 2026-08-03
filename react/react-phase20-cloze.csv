@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Tailwind CSS}} ay isang utility-first CSS framework na nagbibigay ng mga pre-built classes para sa styling.",,Tailwind CSS
 Cloze,"Ang {{c1::utility-first}} approach ay ang paggamit ng maraming small, composable classes halip na malalaking custom CSS classes.",,utility-first
 Cloze,"Ang {{c1::responsive design}} sa Tailwind ay gumagamit ng breakpoints: sm:, md:, lg:, xl: prefixes.",,responsive design

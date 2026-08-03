@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Read-Write Lock}} ay ang synchronization mechanism na nagbibigay ng concurrent reads pero exclusive writes.",,Read-Write Lock
 Cloze,"Ang {{c1::read lock}} ay ang lock na pwedeng i-share ng maraming readers.",,read lock
 Cloze,"Ang {{c1::write lock}} ay ang lock na exclusive — walang ibang reader o writer.",,write lock

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng table sa MySQL?",,"CREATE TABLE users (id INT PRIMARY KEY, name VARCHAR(100)); — gamitin ang CREATE TABLE statement"
 Application,"Paano mag-insert ng data sa table?",,"INSERT INTO users (id, name) VALUES (1, 'John'); — gamitin ang INSERT INTO"
 Application,"Paano mag-select ng data mula sa table?",,"SELECT * FROM users; — gamitin ang SELECT * para sa lahat ng columns"

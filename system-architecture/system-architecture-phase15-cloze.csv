@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::fault tolerance}} ay ang ability ng system na magpatuloy sa pag-work kahit may failures.",,fault tolerance
 Cloze,"Ang {{c1::graceful degradation}} ay ang pagbaba ng functionality sa halip na total failure.",,graceful degradation
 Cloze,"Ang {{c1::bulkhead}} ay ang pattern ng paghihiwalay ng resources para maiwasan ang cascade failure.",,bulkhead

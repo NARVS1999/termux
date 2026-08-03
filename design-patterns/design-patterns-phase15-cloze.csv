@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Facade}} ay isang structural pattern na nagbibigay ng simplified interface sa kumplikadong subsystem.",,Facade
 Cloze,"Ang {{c1::Facade}} ay nagbabawas ng complexity sa pamamagitan ng pagtatago ng subsystem details.",,Facade
 Cloze,"Ang {{c1::Facade}} ay nagbibigay ng loose coupling sa pagitan ng client at subsystem.",,Facade

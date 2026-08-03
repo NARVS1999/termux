@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::climbing stairs}} ay classic 1D DP problem na nag-c-counts ng ways to reach nth step.",,climbing stairs
 Cloze,"Ang {{c1::coin change}} ay problem na nag-f-finds ng minimum coins para sa target amount.",,coin change
 Cloze,"Ang {{c1::house robber}} ay problem na nag-m-maximizes ng stolen amount nang hindi nag-aadjacent.",,house robber

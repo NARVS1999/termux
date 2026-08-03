@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::AI-assisted workflow}} ay ang development process na may AI integration sa mga steps.",,AI-assisted workflow
 Cloze,"Ang {{c1::evaluation}} ay ang pagsukat ng quality ng LLM output.",,evaluation
 Cloze,"Ang {{c1::hallucination}} ay ang pag-generate ng LLM ng maling impormasyon.",,hallucination

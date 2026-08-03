@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::gRPC}} ay ang high-performance RPC framework na ginawa ng Google.",,gRPC
 Cloze,"Ang {{c1::protocol buffers}} ay ang binary serialization format na ginagamit ng gRPC.",,protocol buffers
 Cloze,"Ang {{c1::.proto file}} ay ang definition file ng gRPC services at messages.",,.proto file

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-handle ng async operation sa JavaScript?",,"Gamitin ang async/await: const data = await fetchData();"
 Application,"Paano mag-iwas sa race condition sa shared state?",,"Gamitin ang lock o mutex para i-synchronize ang access sa shared resource."
 Application,"Paano mag-run ng dalawang task nang sabay sa Go?",,"Gamitin ang goroutines: go task1(); go task2();"

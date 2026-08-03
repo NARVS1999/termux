@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::UNIQUE}} constraint ay nag-i-sure na ang column values ay hindi nagre-repeat sa buong table.",,UNIQUE
 Cloze,"Ang {{c1::CHECK}} constraint ay nagva-validate ng data base sa expression: CHECK (age > 0).",,CHECK
 Cloze,"Ang {{c1::index}} ay ang data structure na nagpapabilis ng search operations sa table.",,index

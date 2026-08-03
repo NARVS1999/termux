@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-decompose ang application sa microservices?",,"hatiin ayon sa business domains: bawat service ay may sariling database at API"
 Application,"Ano ang synchronous vs asynchronous communication?",,"synchronous: HTTP/gRPC, naghihintay ng response. asynchronous: message queues, fire-and-forget."
 Application,"Bakit kailangan ng API gateway?",,"single entry point, rate limiting, authentication, load routing — hindi direktang i-access ang services"

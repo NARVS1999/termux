@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-optimize ng space?","Gamitin ang in-place algorithm na walang extra data structures.","Reverse array in-place: two pointers"
 Application,"Paano mag-decide ng time vs space tradeoff?","Kung may extra memory, mag-prefer ng faster algorithm gamit ang lookup table.","Cache results in HashMap for O(1) lookup"
 Application,"Paano mag-analyze ng space complexity?","Bilangin ang extra variables at data structures na nag-grow sa input size.","HashMap with n entries → O(n) space"

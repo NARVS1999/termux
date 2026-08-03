@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Kahn's algorithm}} ay BFS-based topological sort na nag-u-uses ng in-degree.",,Kahn's algorithm
 Cloze,"Ang {{c1::topological order}} ay valid na sequence kung saan bawat node ay na-process bago ang mga dependent.",,topological order
 Cloze,"Ang {{c1::DFS-based}} topological sort ay nag-s-sorts ng nodes sa reverse finish order.",,DFS-based

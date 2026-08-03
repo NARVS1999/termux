@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumagana ang canary release?",,"i-deploy sa maliit na % ng users, i-monitor, pag okay: i-increase ang percentage"
 Application,"Bakit mas safe ang canary kaysa blue-green?",,"dahil mas maliit ang impact kapag may issue — affected lang ang few percent ng users"
 Application,"Paano mag-monitor ng canary?",,"i-compare ang error rates, latency, satisfaction sa old vs new version"

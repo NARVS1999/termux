@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-encrypt ng data sa Laravel?",,"Gamitin ang Crypt::encrypt($data) at Crypt::decrypt($encryptedData) para sa AES-256 encryption"
 Application,"Paano mag-hash ng password sa Laravel?",,"Gamitin ang Hash::make($password) para i-hash at Hash::check($password, $hash) para i-verify"
 Application,"Paano maiiwasan na ma-commit ang .env file sa git?",,"Gamitin ang .gitignore file at i-add ang .env para hindi ma-track ng git"

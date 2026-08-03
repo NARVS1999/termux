@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-install ng package sa Node.js project?",,"Gamitin ang npm: npm install package-name."
 Application,"Paano i-pin ang exact version ng dependency?",,"Gamitin ang lockfile o i-specify ang exact version sa package.json."
 Application,"Paano mag-update ng lahat ng dependencies?",,"Gamitin ang command: npm update o yarn upgrade."

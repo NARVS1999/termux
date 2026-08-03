@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::two-sum}} ay problem na nag-f-find ng dalawang numbers na may sum equals target.",,two-sum
 Cloze,"Ang {{c1::complement}} ay value na kailangan i-add sa current para ma-reach ang target.",,complement
 Cloze,"Ang {{c1::pattern mapping}} ay technique na nag-m-maps ng elements base sa shared pattern.",,pattern mapping

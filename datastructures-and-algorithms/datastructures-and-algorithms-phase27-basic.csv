@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-heapify ng array?","I-start sa last non-leaf at i-sift down ang bawat node.","for i in n/2-1 downTo 0: siftDown(arr, n, i)"
 Application,"Paano mag-insert sa heap?","I-add sa dulo tapos i-sift up.","arr.add(element); siftUp(arr, arr.size - 1)"
 Application,"Paano mag-extract min/max?","I-swap ang root sa last element, pop, tapos sift down.","swap(arr[0], arr[n-1]); siftDown(arr, n-1, 0)"

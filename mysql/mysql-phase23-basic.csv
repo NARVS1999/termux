@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng single-column index?",,"CREATE INDEX idx_email ON users(email); — i-create ang index sa email column"
 Application,"Paano gumawa ng composite index?",,"CREATE INDEX idx_name_age ON users(name, age); — i-combine ang columns sa index"
 Application,"Paano gumawa ng covering index?",,"CREATE INDEX idx_covering ON orders(user_id, total); — kasama ang lahat ng kailangan ng query"

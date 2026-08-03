@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::innodb_buffer_pool_size}} ay ang pinaka-importanteng config na nagde-determine ng memory para sa InnoDB cache.",,innodb_buffer_pool_size
 Cloze,"Ang {{c1::query_cache}} ay ang feature na nagce-cache ng SELECT results — deprecated sa MySQL 8.0.",,query_cache
 Cloze,"Ang {{c1::thread_cache}} ay ang cache ng threads na nagre-reuse ng connections para pabilisin ang new connections.",,thread_cache

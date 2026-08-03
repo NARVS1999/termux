@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-install ng Python packages?",,"pip install requests openai"
 Application,"Paano mag-call sa API gamit ang requests?",,"response = requests.post(url, json=data); response.json()"
 Application,"Paano i-handle ang API errors?",,"I-wrap sa try/except at i-check ang status code."

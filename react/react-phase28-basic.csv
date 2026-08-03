@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Kailan gumamit ng local state?",,"kapag ang state ay ginagamit lang sa isang component o sa malapit na mga child components"
 Application,"Kailan gumamit ng global state?",,"kapag ang state ay kailangan sa maraming malalayong components o sa buong app (auth, theme, cart)"
 Application,"Paano i-lift ang state sa common parent?",,"I-move ang useState sa parent component, i-pass down bilang props sa magkakapatid na components"

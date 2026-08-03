@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Command pattern}} ay ang behavioral pattern na nag-e-encapsulate ng request bilang object.",,Command pattern
 Cloze,"Ang {{c1::command interface}} ay nagde-define ng execute() method para sa bawat command.",,command interface
 Cloze,"Ang {{c1::receiver}} ay ang object na nag-e-execute ng actual na work.",,receiver

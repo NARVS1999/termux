@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::RAG}} ay ang retrieval-augmented generation na nag-a-connect ng LLM sa external knowledge.",,RAG
 Cloze,"Ang {{c1::agents}} ay ang AI systems na nagpa-plano at gumagamit ng tools para tapusin ang tasks.",,agents
 Cloze,"Ang {{c1::function calling}} ay ang kakayahan ng LLM na tumawag ng mga tools o functions.",,function calling

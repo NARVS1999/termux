@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::chat system}} ay ang real-time messaging platform na nagbibigay ng instant communication.",,chat system
 Cloze,"Ang {{c1::WebSockets}} sa chat ay ang protocol para sa full-duplex, real-time messaging.",,WebSockets
 Cloze,"Ang {{c1::presence}} ay ang feature na nagpapakita kung online ba ang user.",,presence

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Redis}} ay isang in-memory data store na ginagamit para sa caching, queues, at locks.",,Redis
 Cloze,"Ang {{c1::Memcached}} ay isang simple na distributed memory caching system na in-memory lang.",,Memcached
 Cloze,"Ang {{c1::cache tags}} ay nagbibigay ng label sa cache items para sabay-sabay na ma-invalidate.",,cache tags

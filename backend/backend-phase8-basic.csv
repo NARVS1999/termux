@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano iwasan ang N+1 query kapag nag-load ng users na may posts?",,"Gamitin ang eager loading: User::with('posts')->get();"
 Application,"Paano mag-define ng hasMany relationship sa User model?",,"public function posts() { return $this->hasMany(Post::class); }"
 Application,"Paano mag-convert ng JSON column sa array kapag in-access?",,"I-add sa $casts: 'options' => 'array'"

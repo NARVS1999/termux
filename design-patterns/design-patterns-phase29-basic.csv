@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang MVVM?",,"ang pattern na may data binding: ViewModel ang nagpo-prepare ng data, view ang nagre-render — reactive"
 Application,"Ano ang pagkakaiba ng MVVM at MVP?",,"MVP: presenter ang nagpo-update ng view. MVVM: data binding ang nagpo-sync — mas declarative."
 Application,"Paano gumagana ang data binding?",,"kapag nagbago ang ViewModel data, awtomatikong nag-update ang view — walang manual code"

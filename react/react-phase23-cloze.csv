@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::nested routes}} ay ang routes na nasa loob ng ibang routes para mag-share ng layout.",,nested routes
 Cloze,"Ang {{c1::Outlet}} component ay ang placeholder kung saan magre-render ang child routes.",,Outlet
 Cloze,"Ang {{c1::layout route}} ay ang parent route na nagbibigay ng shared UI (header, sidebar) para sa children.",,layout route

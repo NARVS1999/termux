@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::retry}} ay ang proseso ng pag-uulit ng isang failed operation para sa possible success.",,retry
 Cloze,"Ang {{c1::circuit breaker}} ay isang design pattern na nagpo-pause ng requests sa isang failing service para maiwasan ang cascade failure.",,circuit breaker
 Cloze,"Ang {{c1::graceful degradation}} ay ang ability ng system na magpatuloy sa pag-work kahit may ibang components na nag-fail.",,graceful degradation

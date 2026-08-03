@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumamit ng INNER JOIN?",,"SELECT u.name, o.total FROM users u INNER JOIN orders o ON u.id = o.user_id; — lang may tugma"
 Application,"Paano gumamit ng LEFT JOIN?",,"SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id; — lahat ng users kahit walang order"
 Application,"Paano gumamit ng RIGHT JOIN?",,"SELECT u.name, o.total FROM users u RIGHT JOIN orders o ON u.id = o.user_id; — lahat ng orders kahit walang user"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::prompt caching}} ay ang pag-store ng paulit-ulit na prompt parts para mas mabilis at mura ang calls.",,prompt caching
 Cloze,"Ang {{c1::streaming responses}} ay ang pag-receive ng tokens nang paunti-unti habang nagko-generate ang model.",,streaming responses
 Cloze,"Ang {{c1::context engineering}} ay ang pagdidisenyo ng context para ma-maximize ang relevance at efficiency.",,context engineering

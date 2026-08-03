@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::monotonic stack}} ay stack na nag-m-maintains ng increasing o decreasing order.",,monotonic stack
 Cloze,"Ang {{c1::next greater element}} ay pinakamalapit na element sa kanan na mas malaki sa current.",,next greater element
 Cloze,"Ang {{c1::monotonic decreasing}} stack ay nag-s-sure na bawat element ay mas malaki sa ibaba nito.",,monotonic decreasing

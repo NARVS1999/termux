@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::estimation}} ay ang proseso ng pagtantiya kung gaano katagal o kahirap ang isang development task.",,estimation
 Cloze,"Ang {{c1::scoping}} ay ang proseso ng pag-determine ng exactong scope ng isang feature o project.",,scoping
 Cloze,"Ang {{c1::story points}} ay ang relative estimation technique na nag-a-assign ng complexity value sa tasks.",,story points

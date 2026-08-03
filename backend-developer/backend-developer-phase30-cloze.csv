@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::OWASP}} ay ang open standard na naglilista ng mga web application security risks.",,OWASP
 Cloze,"Ang {{c1::SQL injection}} ay ang pag-inject ng malicious SQL statements sa isang query.",,SQL injection
 Cloze,"Ang {{c1::XSS}} ay ang pag-inject ng malicious scripts sa web page na tinitignan ng ibang users.",,XSS

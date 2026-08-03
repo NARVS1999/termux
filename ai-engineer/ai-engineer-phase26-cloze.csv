@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::OpenAI Embeddings API}} ay nagko-convert ng text sa embeddings gamit ang models tulad ng text-embedding-3-small.",,OpenAI Embeddings API
 Cloze,"Ang {{c1::Cohere}} ay nagpo-provide ng embed models na optimized para sa retrieval tasks.",,Cohere
 Cloze,"Ang {{c1::Gemini Embedding}} ay ang embedding model ng Google para sa text at multimodal data.",,Gemini Embedding

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-send ng real-time notification sa lahat ng users sa isang channel?",,"Broadcast::on(new OrderUpdated($order)) — i-broadcast ang event sa isang public channel."
 Application,"Paano i-secure ang channel para sa mga naka-log-in na users lang?",,"Mag-define ng channel authorization sa Broadcast::channel('orders.{orderId}', ...) na may callback."
 Application,"Paano mag-run ng WebSocket server sa local development?",,"php artisan reverb:start (para sa Reverb) o gumamit ng Pusher credentials."

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::syntax}} ay ang rules na namamahala sa structure ng valid statements sa isang language.",,syntax
 Cloze,"Ang {{c1::data types}} ay ang mga uri ng values tulad ng integers, strings, booleans, at arrays.",,data types
 Cloze,"Ang {{c1::control flow}} ay ang order ng pag-execute ng statements gamit ang conditions at loops.",,control flow

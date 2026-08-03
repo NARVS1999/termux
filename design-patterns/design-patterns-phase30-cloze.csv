@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Clean Architecture}} ay ang architectural pattern na naglalagay ng business logic sa gitna.",,Clean Architecture
 Cloze,"Ang {{c1::dependency rule}} sa Clean Architecture ay nagsasabing dependencies ay dapat pumasok lang sa loob.",,dependency rule
 Cloze,"Ang {{c1::entities}} ay ang business objects na nasa pinaka-loob na layer.",,entities

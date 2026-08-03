@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-describe ang API para sa auto-generated docs?",,"Gumawa ng OpenAPI spec file (openapi.yaml) na naglalarawan ng endpoints."
 Application,"Paano i-convert ang JSON string papunta sa object?",,"Gamitin ang deserialization: JSON.parse(jsonString) sa JavaScript."
 Application,"Paano i-convert ang object papunta sa JSON?",,"Gamitin ang serialization: JSON.stringify(obj) sa JavaScript."

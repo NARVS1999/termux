@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::pre-training}} ay ang phase kung saan natututo ang model ng language patterns mula sa malawak na text data.",,pre-training
 Cloze,"Ang {{c1::fine-tuning}} ay ang pag-adapt ng pre-trained model sa specific na task gamit ang mas maliit na labeled dataset.",,fine-tuning
 Cloze,"Ang {{c1::alignment}} ay ang proseso ng pag-a-adjust sa model para sumunod sa human intent at values.",,alignment

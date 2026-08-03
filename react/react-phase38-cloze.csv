@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::virtualization}} ay ang technique ng pag-render lang ng visible items sa halip na buong list para sa performance.",,virtualization
 Cloze,"Ang {{c1::react-window}} ay isang lightweight library para sa list virtualization.",,react-window
 Cloze,"Ang {{c1::react-virtualized}} ay isang feature-rich library para sa efficient rendering ng malalaking lists.",,react-virtualized

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::cardinality}} ay ang bilang ng unique values sa column — mas mataas = mas maganda para sa index.",,cardinality
 Cloze,"Ang {{c1::selectivity}} ay ang ratio ng unique values sa total rows: distinct/total.",,selectivity
 Cloze,"Ang {{c1::index maintenance}} ay ang proseso ng pag-rebuild at pag-optimize ng indexes.",,index maintenance

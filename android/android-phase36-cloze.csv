@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::CPU profiler}} ay tool na nag-a-analyze ng CPU usage at method execution times.",,CPU profiler
 Cloze,"Ang {{c1::memory profiler}} ay tool na nag-m-monitor ng memory allocation at garbage collection.",,memory profiler
 Cloze,"Sa Android, ang {{c1::network profiler}} ay tool na nag-i-inspects ng HTTP requests at responses.",,network profiler

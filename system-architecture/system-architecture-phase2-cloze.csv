@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::REST}} ay ang architectural style na gumagamit ng HTTP methods para sa CRUD operations.",,REST
 Cloze,"Ang {{c1::GraphQL}} ay ang query language na nagbibigay ng clients ng flexibility sa data fetching.",,GraphQL
 Cloze,"Ang {{c1::gRPC}} ay ang high-performance RPC framework na gumagamit ng Protocol Buffers.",,gRPC

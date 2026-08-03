@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::table}} ay ang collection ng rows at columns sa relational database na naglalaman ng related data.",,table
 Cloze,"Ang {{c1::row}} o record ay ang isang entry sa table na naglalaman ng values para sa bawat column.",,row
 Cloze,"Ang {{c1::column}} o field ay ang vertical na structure sa table na nagde-define ng data type.",,column

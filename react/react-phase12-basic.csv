@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-render ng list ng items sa React?",,"gamitin ang items.map(item => <li key={item.id}>{item.name}</li>)"
 Application,"Bakit kailangan ng key prop sa lists?",,"tutulong sa React na malaman kung aling items ang nagbago, nag-add, o nag-remove para sa efficient updates"
 Application,"Paano pumili ng tamang key para sa list?",,"gumamit ng unique ID mula sa data (item.id, item.uuid), hindi ang array index"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-insert sa BST?","I-compare ang value at mag-traverse left o right.","if (value < node.data) node.left = insert(node.left, value)"
 Application,"Paano mag-search sa BST?","I-compare ang target at mag-traverse.","if (target == node.data) return node else if (target < node.data) search(node.left)"
 Application,"Paano mag-delete sa BST?","Kapag two children, i-replace ng successor then i-delete ang successor.","node.data = findMin(node.right); node.right = delete(node.right, node.data)"

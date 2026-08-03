@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::MongoDB}} ay ang sikat na document database na gumagamit ng BSON documents.",,MongoDB
 Cloze,"Ang {{c1::collection}} ay ang MongoDB equivalent ng table sa relational database.",,collection
 Cloze,"Ang {{c1::document}} ay ang MongoDB equivalent ng row na may key-value pairs.",,document

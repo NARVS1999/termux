@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::HTTP caching}} ay nagco-cache ng HTTP responses sa browser o proxy para mabawasan ang server requests.",,HTTP caching
 Cloze,"Ang {{c1::Cache-Control}} header ay nag-uutos sa browser kung gaano katagal i-cache ang response.",,Cache-Control
 Cloze,"Ang {{c1::ETag}} ay isang validator na ginagamit para i-check kung nagbago ba ang resource.",,ETag

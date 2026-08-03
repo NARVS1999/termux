@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-write ng file sa internal storage?","Gamitin ang openFileOutput method.","openFileOutput(\"data.txt\", MODE_PRIVATE).use { it.write(bytes) }"
 Application,"Paano mag-read ng file mula sa internal storage?","Gamitin ang openFileInput method.","openFileInput(\"data.txt\").use { it.readBytes() }"
 Application,"Paano mag-save ng image sa MediaStore?","Gamitin ang MediaStore API na may ContentValues.","contentResolver.insert(MediaStore.Images.Media.EXTERNAL_CONTENT_URI, values)"

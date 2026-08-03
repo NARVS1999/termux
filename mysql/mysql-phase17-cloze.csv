@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::COUNT()}} function ay nagbibilang ng rows: COUNT(*) para sa lahat, COUNT(column) para sa non-NULL.",,COUNT
 Cloze,"Ang {{c1::SUM()}} function ay nag-a-add ng values sa isang numeric column.",,SUM
 Cloze,"Ang {{c1::AVG()}} function ay nagku-compute ng average ng values sa column.",,AVG

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::products table}} ay naglalaman ng product information: id, name, description, price, category_id.",,products table
 Cloze,"Ang {{c1::orders table}} ay nagre-record ng customer purchases: id, user_id, total, status, created_at.",,orders table
 Cloze,"Ang {{c1::order_items table}} ay ang junction table na nagko-connect ng orders at products.",,order_items table

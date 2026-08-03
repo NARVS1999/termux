@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::relational database}} ay ang database na nag-i-store ng data sa tables na may relations sa isa't isa.",,relational database
 Cloze,"Ang {{c1::PostgreSQL}} ay ang open-source relational database na kilala sa advanced features.",,PostgreSQL
 Cloze,"Ang {{c1::MySQL}} ay ang sikat na open-source relational database para sa web applications.",,MySQL

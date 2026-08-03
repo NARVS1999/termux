@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::DTO}} o Data Transfer Object ay ang pattern na nagdadala ng data sa pagitan ng layers nang walang behavior.",,DTO
 Cloze,"Ang {{c1::DTO}} ay plain data object — walang business logic, lang getters at setters.",,DTO
 Cloze,"Ang {{c1::serialization}} sa DTO ay ang pag-convert ng object sa wire format (JSON, XML).",,serialization

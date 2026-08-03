@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::observability}} ay ang kakayahan na maunawaan ang internal state ng system mula sa labas.",,observability
 Cloze,"Ang {{c1::monitoring}} ay ang pag-collect at pag-display ng metrics ng system.",,monitoring
 Cloze,"Ang {{c1::instrumentation}} ay ang pagdagdag ng code para maglabas ng metrics at traces.",,instrumentation

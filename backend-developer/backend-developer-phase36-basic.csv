@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-run ng tests automatic sa bawat push?",,"Mag-setup ng CI pipeline na may trigger sa push at test stage."
 Application,"Paano mag-deploy automatic pagkatapos mag-pass ang tests?",,"Magdagdag ng deploy stage sa CD pipeline na sunod sa test stage."
 Application,"Paano mag-setup ng CI sa GitHub?",,"Gumawa ng workflow file sa .github/workflows na may build at test jobs."

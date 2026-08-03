@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Kailan mag-denormalize ng database?",,"kapag ang JOIN queries ay mabagal, read-heavy na analytics, o reporting na hindi nangangailangan ng real-time"
 Application,"Paano gumawa ng materialized view sa MySQL?",,"i-create ang table gamit ang CREATE TABLE AS SELECT, pagkatapos i-refresh periodically"
 Application,"Paano i-balance ang normalization at denormalization?",,"i-normalize muna, i-profile ang queries, denormalize lang ang hot paths na mabagal"

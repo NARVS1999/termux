@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-configure ng app nang walang hardcoded values?",,"Gamitin ang environment variables para sa config."
 Application,"Paano mag-scale ng stateless app?",,"Magdagdag ng mas maraming instances dahil wala naman itong lokal na estado."
 Application,"Paano mag-log para sa centralized collection?",,"Mag-output ng logs sa stdout at i-collect gamit ang logging service."

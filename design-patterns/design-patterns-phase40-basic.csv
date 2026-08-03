@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang DTO?",,"plain data object na nagdadala ng data sa pagitan ng layers — walang business logic, lang data"
 Application,"Kailan gumamit ng DTO?",,"para mag-padala ng data sa API response, sa pagitan ng layers, o sa serialization boundaries"
 Application,"Ano ang pagkakaiba ng DTO at Entity?",,"entity: may business logic at identity. DTO: plain data, walang behavior, para sa transport lang."

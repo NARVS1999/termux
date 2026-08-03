@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Haystack}} ay isang framework para mag-build ng production-ready RAG systems.",,Haystack
 Cloze,"Ang {{c1::RAGFlow}} ay isang open source platform para sa RAG na may visual workflow.",,RAGFlow
 Cloze,"Sa Haystack, ang mga components ay naka-connect sa pamamagitan ng {{c1::Pipelines}}.",,Pipelines

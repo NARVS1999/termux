@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-set ng constraint sa ConstraintLayout?","I-refer sa parent o ibang view gamit ang constraint attributes.","app:layout_constraintStart_toStartOf=\"parent\""
 Application,"Paano mag-enable ng view binding?","I-set ang buildFeatures sa build.gradle.","buildFeatures { viewBinding = true }"
 Application,"Paano mag-access ng view gamit view binding?","I-inflate ang binding at i-access ang views.","val binding = ActivityMainBinding.inflate(layoutInflater)"

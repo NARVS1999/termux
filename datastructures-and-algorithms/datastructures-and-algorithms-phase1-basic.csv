@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-determine ang time complexity ng loop?","Bilangin kung ilang beses tumatakbo ang loop relative sa input size.","for (i in 0..n) → O(n)"
 Application,"Paano mag-compare ng O(n) vs O(log n)?","Ang O(log n) ay mas mabilis kasi nag-h-halves ang search space.","Binary search O(log n) vs Linear search O(n)"
 Application,"Paano mag-identify ng O(n^2)?","Kapag may nested loop na parehong nag-i-iterate sa input.","for i in 0..n { for j in 0..n { } } → O(n^2)"

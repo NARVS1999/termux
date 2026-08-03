@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Factory Method}} ay isang creational pattern na nagbibigay ng interface para sa paggawa ng objects nang hindi tinutukoy ang exact class.",,Factory Method
 Cloze,"Ang {{c1::factory method}} ay nagpapalit sa direct instantiation (new) ng isang method na nagbabalik ng object.",,factory method
 Cloze,"Ang {{c1::Factory Method}} ay nagbibigay ng flexibility para magdagdag ng bagong uri nang hindi binabago ang client code.",,Factory Method

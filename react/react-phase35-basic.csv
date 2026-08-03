@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng Error Boundary sa React?",,"class ErrorBoundary extends React.Component { constructor(props) { super(props); this.state = { hasError: false }; } static getDerivedStateFromError(error) { return { hasError: true }; } }"
 Application,"Paano i-wrap ang components ng Error Boundary?",,"<ErrorBoundary><ChildComponent /></ErrorBoundary> — i-wrap ang components na maaaring mag-error"
 Application,"Paano mag-show ng fallback UI?",,"if (this.state.hasError) return <h1>Something went wrong</h1>; — i-return ang fallback sa render method"

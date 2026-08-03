@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano kumuha ng listahan ng users?",,"Gumawa ng GET request sa: GET /api/users."
 Application,"Paano gumawa ng bagong user sa API?",,"Gumawa ng POST request sa: POST /api/users na may JSON body."
 Application,"Paano i-update ang user gamit ang API?",,"Gumawa ng PUT request sa: PUT /api/users/123 na may updated data."

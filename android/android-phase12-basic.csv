@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng vertical layout sa Compose?","Gamitin ang Column composable.","Column { Text(\"Hello\") Text(\"World\") }"
 Application,"Paano mag-add ng padding sa composable?","I-chain ang padding modifier.","Modifier.padding(16.dp)"
 Application,"Paano mag-handle ng click sa Compose?","Gamitin ang clickable modifier.","Modifier.clickable { onClick() }"

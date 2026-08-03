@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-define ng enum na may status values (e.g. active, inactive)?",,"enum Status: string { case Active = 'active'; case Inactive = 'inactive'; }"
 Application,"Paano gumawa ng property na hindi na pwedeng baguhin pagkatapos i-instantiate?",,"public readonly string $name;"
 Application,"Paano mag-call ng function nang hindi sinusunod ang parameter order?",,"greet(name: 'Juan', greeting: 'Hello'); — gamitin ang named arguments."

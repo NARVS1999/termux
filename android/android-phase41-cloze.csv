@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::HTTPS}} ay encrypted HTTP protocol na nag-p-protect ng data in transit.",,HTTPS
 Cloze,"Ang {{c1::certificate pinning}} ay technique na nag-v-verifies ng server certificate.",,certificate pinning
 Cloze,"Ang {{c1::cleartext policy}} ay configuration na nag-b-block ng unencrypted HTTP traffic.",,cleartext policy

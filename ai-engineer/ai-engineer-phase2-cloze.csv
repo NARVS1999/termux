@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::AI}} ay ang malawak na field ng paggawa ng machines na kayang mag-simulate ng human intelligence.",,AI
 Cloze,"Ang {{c1::Machine Learning}} ay isang subset ng AI kung saan natututo ang system mula sa data.",,Machine Learning
 Cloze,"Ang {{c1::Deep Learning}} ay isang subset ng ML na gumagamit ng neural networks na maraming layers.",,Deep Learning

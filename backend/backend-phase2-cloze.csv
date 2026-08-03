@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::SOLID}} ay acronym para sa limang object-oriented design principles.",,SOLID
 Cloze,"Ang {{c1::Single Responsibility}} principle ay nagsasabi na ang isang class ay dapat magkaroon ng isang dahilan lang para magbago.",,Single Responsibility
 Cloze,"Ang {{c1::Open/Closed}} principle ay nagsasabi na ang code ay open for extension pero closed for modification.",,Open/Closed

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-check ng buffer pool hit ratio?",,"SHOW STATUS LIKE 'Innodb_buffer_pool_read%'; — ang hit ratio = 1 - (reads / read requests)"
 Application,"Ano ang gagawin kapag mababa ang hit ratio?",,"dagdagan ang innodb_buffer_pool_size para magkasya ang mas maraming data sa memory"
 Application,"Paano i-check ang redo log size?",,"SHOW VARIABLES LIKE 'innodb_log_file_size'; — dapat sapat para sa 1-2 hours ng writes"

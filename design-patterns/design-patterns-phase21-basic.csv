@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Template Method?",,"gumawa ng base class na may final na method, i-define ang steps na pwedeng i-override ng subclass"
 Application,"Kailan gumamit ng Template Method?",,"kapag ang algorithm ay fixed pero ang mga step ay pwedeng mag-ibA: data processing, report generation"
 Application,"Ano ang hook method?",,"ang optional na method na pwedeng i-override — hindi required ang implementation ng subclass"

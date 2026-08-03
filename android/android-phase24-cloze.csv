@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::kotlinx.serialization}} ay Kotlin-first serialization library na nag-c-compile ng JSON code at compile time.",,kotlinx.serialization
 Cloze,"Ang {{c1::@Serializable}} annotation ay nag-m-mark ng class na pwedeng i-serialize/deserialize.",,@Serializable
 Cloze,"Sa Android, ang {{c1::Gson}} ay Java-based library na nag-c-convert ng objects to/from JSON.",,Gson

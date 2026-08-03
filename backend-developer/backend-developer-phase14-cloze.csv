@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::transaction}} ay ang sequence ng operations na ginagamot bilang isang unit.",,transaction
 Cloze,"Ang {{c1::ACID}} ay ang acronym para sa Atomicity, Consistency, Isolation, at Durability.",,ACID
 Cloze,"Ang {{c1::atomicity}} ay ang property na ang lahat ng operations ay magtatagumpay o lahat mabibigo.",,atomicity

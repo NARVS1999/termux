@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-install ng package (e.g. laravel/sanctum)?",,"composer require laravel/sanctum"
 Application,"Paano i-autoload ang sariling classes na nasa App/ namespace?",,"I-define ang PSR-4 mapping sa composer.json (App/ => app/)."
 Application,"Paano i-ensure na pareho ang version ng dependencies sa lahat ng machine?",,"I-commit ang composer.lock at gumamit ng composer install."

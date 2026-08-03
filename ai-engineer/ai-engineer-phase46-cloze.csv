@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::observability}} ay ang kakayahang makita at maunawaan ang estado ng system sa production.",,observability
 Cloze,"Ang {{c1::tracing}} ay ang pag-track ng buong flow ng isang request sa mga components.",,tracing
 Cloze,"Ang {{c1::logging}} ay ang pag-record ng mga events at data ng system para sa analysis.",,logging

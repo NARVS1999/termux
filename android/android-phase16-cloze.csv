@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::TextField}} composable ay ginagamit para mag-c-create ng text input sa Jetpack Compose.",,TextField
 Cloze,"Sa Android, ang {{c1::validation}} ay process ng pag-verify ng user input bago i-process.",,validation
 Cloze,"Ang {{c1::OutlinedTextField}} ay Material Design text field na may visible border.",,OutlinedTextField

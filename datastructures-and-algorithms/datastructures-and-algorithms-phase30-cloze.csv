@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::BFS}} ay breadth-first traversal na nag-v-visits ng lahat sa current level bago mag-proceed.",,BFS
 Cloze,"Ang {{c1::DFS}} ay depth-first traversal na nag-m-move sa deepest node bago mag-backtrack.",,DFS
 Cloze,"Ang {{c1::component}} ay connected group ng nodes sa graph.",,component

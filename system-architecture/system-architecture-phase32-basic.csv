@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang CI?",,"ang automated na pag-build at pag-test ng code sa bawat commit — nag-de-detect ng issues agad"
 Application,"Ano ang CD?",,"ang automated na pag-deploy ng code sa staging o production pagkatapos ng successful na CI"
 Application,"Paano mag-setup ng CI/CD pipeline?",,"gamitin ang GitHub Actions, GitLab CI, o Jenkins — i-define ang stages sa YAML config"

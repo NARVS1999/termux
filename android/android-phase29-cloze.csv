@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Hilt}} ay dependency injection framework na official ng Android team.",,Hilt
 Cloze,"Ang {{c1::Koin}} ay lightweight DI framework na Kotlin-first at DSL-based.",,Koin
 Cloze,"Sa Android, ang {{c1::manual DI}} ay pag-p-provide ng dependencies nang walang framework.",,manual DI

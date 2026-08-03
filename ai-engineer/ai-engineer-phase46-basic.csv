@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-monitor ng LLM cost?",,"I-track ang token usage ng bawat call at i-multiply sa price per token."
 Application,"Paano mag-measure ng latency ng LLM call?",,"I-record ang time mula sa request hanggang sa response."
 Application,"Paano mag-set up ng tracing?",,"Gamitin ang tracing library at i-propagate ang trace ID sa bawat component."

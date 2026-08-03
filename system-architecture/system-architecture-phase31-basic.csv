@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Bakit importante ang secrets management?",,"para maiwasan ang data breach — huwag i-commit ang API keys, passwords, o tokens sa code"
 Application,"Paano i-store ang secrets?",,"gamitin ang Vault, AWS Secrets Manager, o environment variables — huwag sa code o config files"
 Application,"Ano ang key rotation?",,"ang regular na pagbabago ng credentials: DB passwords, API keys — i-automate ang rotation"

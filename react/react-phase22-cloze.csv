@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::useParams}} hook ay nagbibigay ng access sa URL parameters: const { id } = useParams().",,useParams
 Cloze,"Ang {{c1::dynamic route}} ay ang route na may variable segment: <Route path='/users/:id' />.",,dynamic route
 Cloze,"Ang {{c1::useSearchParams}} hook ay ginagamit para basahin at baguhin ang query parameters sa URL.",,useSearchParams

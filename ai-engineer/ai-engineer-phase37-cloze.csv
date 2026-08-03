@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::function calling}} ay ang kakayahan ng model na mag-request ng pag-execute ng functions.",,function calling
 Cloze,"Ang {{c1::tool definitions}} ay ang mga function schemas na binibigay sa model.",,tool definitions
 Cloze,"Ang {{c1::execution loop}} ay ang paulit-ulit na proseso ng LLM call at tool execution.",,execution loop

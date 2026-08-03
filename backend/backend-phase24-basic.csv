@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-integrate ng payment gateway sa Laravel?",,"Mag-install ng SDK (ex. stripe/stripe-php) at gumamit ng PaymentIntent: Stripe::paymentIntents->create(...)"
 Application,"Paano i-secure ang API keys ng third-party services?",,"Ilagay sa .env at i-access gamit ang config: config('services.stripe.secret')"
 Application,"Paano i-verify ang webhook na galing sa Stripe?",,"Gamitin ang Stripe Webhook signature verification: Stripe\Webhook::constructEvent($payload, $sigHeader, $secret)"

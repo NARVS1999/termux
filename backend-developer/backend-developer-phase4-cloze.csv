@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::web server}} ay ang software na humahawak ng HTTP requests at nagse-serve ng web content.",,web server
 Cloze,"Ang {{c1::Nginx}} ay ang high-performance web server na kilala sa handling ng maraming concurrent connections.",,Nginx
 Cloze,"Ang {{c1::Apache}} ay ang web server na gumagamit ng .htaccess files para sa per-directory configuration.",,Apache

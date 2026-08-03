@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-count ng characters?","Gamitin ang HashMap o array na may character frequency.","for (c in s) map[c] = map.getOrDefault(c, 0) + 1"
 Application,"Paano mag-find ng mode?","I-count ang frequencies at i-find ang max count.","val freq = HashMap<T, Int>(); var mode = entries.maxByOrNull { it.value }"
 Application,"Paano mag-check ng anagram?","I-compare ang sorted strings o character frequencies.","return s1.sorted() == s2.sorted()"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-detect ng memory leak?","Gamitin ang LeakCanary library.","LeakCanary.install(application)"
 Application,"Paano mag-optimize ng bitmap?","I-scale down gamit ang inSampleSize.","options.inSampleSize = 4"
 Application,"Paano mag-clear ng references?","I-nullify ang references sa onDestroy.","override fun onDestroy() { listener = null }"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano kumuha ng lahat ng users?",,"Gamitin ang: SELECT * FROM users;"
 Application,"Paano mag-filter ng users na nasa 18 pataas?",,"Gamitin ang: SELECT * FROM users WHERE age >= 18;"
 Application,"Paano mag-add ng bagong user?",,"Gamitin ang: INSERT INTO users (name, age) VALUES ('Juan', 25);"

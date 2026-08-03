@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-break ng class na maraming responsibilities?",,"Gamitin ang SRP: hatiin sa magkakahiwalay na classes, bawat isa may isang responsibility."
 Application,"Paano mag-inject ng dependency sa constructor ng isang Laravel class?",,"public function __construct(private UserRepository $users) {}"
 Application,"Paano mag-extend ng behavior nang hindi binabago ang existing code?",,"Gumamit ng interface + strategy classes, pwedeng magdagdag ng bago nang hindi ginagalaw ang luma (OCP)."

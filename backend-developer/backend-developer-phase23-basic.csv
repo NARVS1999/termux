@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng gRPC service?",,"Mag-define ng service at messages sa .proto file, tapos i-generate ang code."
 Application,"Paano magpadala ng malaking data nang paunti-unti?",,"Gumamit ng gRPC streaming na nagpapadala ng chunks."
 Application,"Paano mag-call ng function sa remote server?",,"Gumamit ng RPC framework na nag-a-abstract ng network communication."

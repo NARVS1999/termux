@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::abstraction}} ay nagtatago ng complexity sa pamamagitan ng pagpapakita lang ng essential features.",,abstraction
 Cloze,"Ang {{c1::encapsulation}} ay nagpoprotekta sa internal state ng isang object sa pamamagitan ng access modifiers.",,encapsulation
 Cloze,"Ang {{c1::polymorphism}} ay nagbibigay ng ability na gumamit ng iba't ibang uri ng objects sa pamamagitan ng iisang interface.",,polymorphism

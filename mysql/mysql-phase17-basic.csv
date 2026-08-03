@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-count ng rows gamit ang COUNT?",,"SELECT COUNT(*) FROM users; —COUNT(*) ay nagbibilang ng lahat ng rows kasama ang NULL"
 Application,"Paano mag-group at mag-aggregate?",,"SELECT user_id, SUM(total) FROM orders GROUP BY user_id; — i-sum ang orders per user"
 Application,"Paano mag-filter ng groups gamit ang HAVING?",,"SELECT user_id, SUM(total) FROM orders GROUP BY user_id HAVING SUM(total) > 1000;"

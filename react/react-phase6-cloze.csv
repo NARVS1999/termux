@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::JSX}} ay ang syntax extension ng JavaScript na ginagamit para mag-describe ng UI — mukhang HTML pero JavaScript siya.",,JSX
 Cloze,"Ang {{c1::JSX expressions}} ay ang paglagay ng JavaScript values sa loob ng JSX gamit ang curly braces: {variable}.",,JSX expressions
 Cloze,"Ang {{c1::Fragment}} (<>...</>) ay ginagamit para mag-group ng elements nang hindi nag-a-add ng extra DOM node.",,Fragment

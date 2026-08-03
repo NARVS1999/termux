@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Android Keystore}} ay system facility na nag-s-stores ng cryptographic keys nang secure.",,Android Keystore
 Cloze,"Ang {{c1::EncryptedSharedPreferences}} ay SharedPreferences wrapper na nag-e-encrypt ng data.",,EncryptedSharedPreferences
 Cloze,"Ang {{c1::biometrics}} ay authentication mechanism na nag-u-uses ng fingerprint, face, o iris.",,biometrics

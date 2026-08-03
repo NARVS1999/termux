@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Singleton sa JavaScript?",,Gamitin ang closures, IIFE, o ES6 classes na may static getInstance method
 Application,"Paano maiwasan ang Singleton anti-pattern?",,I-depend ang mga classes sa halip na gumamit ng global state — gumamit ng dependency injection
 Application,"Paano i-test ang isang Singleton class?",,I-reset ang singleton instance sa bawat test at i-mock ang dependencies nito

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::DNS record types}} ay A, AAAA, CNAME, MX, TXT, NS, SRV para sa iba't ibang pangangailangan.",,DNS record types
 Cloze,"Ang {{c1::A record}} ay nag-ma-map ng domain name sa IPv4 address.",,A record
 Cloze,"Ang {{c1::CNAME record}} ay nag-ma-map ng domain sa isa pang domain (alias).",,CNAME record

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng Context sa React?",,"const ThemeContext = createContext('light'); <ThemeContext.Provider value='dark'>...</ThemeContext.Provider>"
 Application,"Paano gamitin ang useContext hook?",,"const theme = useContext(ThemeContext); — i-access ang value mula sa nearest Provider"
 Application,"Paano gumamit ng useReducer para sa complex state?",,"const [state, dispatch] = useReducer(reducer, initialState); dispatch({type: 'ADD', payload: item});"

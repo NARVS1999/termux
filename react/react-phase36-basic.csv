@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Kailan gumamit ng React.memo?",,"kapag ang component ay nagre-render nang walang pinagbabagong props at may magastos na computation sa loob"
 Application,"Paano i-memoize ang expensive computation?",,"const value = useMemo(() => expensiveOperation(data), [data]); — i-cache ang result"
 Application,"Paano i-memoize ang callback function?",,"const handleClick = useCallback(() => doSomething(id), [id]); — stable ang function reference"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang event sourcing?",,"ang pag-store ng lahat ng changes bilang events: UserCreated, UserUpdated — ang current state ay derived mula sa events"
 Application,"Ano ang CQRS?",,"paghihiwalay ng read model at write model — ang writes ay sa command side, reads ay sa query side"
 Application,"Kailan gumamit ng event-driven architecture?",,"kapag maraming services ang nagko-communicate, kailangan ng audit trail, o event replay"

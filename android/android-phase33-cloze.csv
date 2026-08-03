@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Compose Testing}} ay testing APIs na ginagamit para mag-test ng Compose UI components.",,Compose Testing
 Cloze,"Ang {{c1::createComposeRule}} ay test rule na nag-s-sets up ng Compose test environment.",,createComposeRule
 Cloze,"Sa Compose, ang {{c1::onNodeWithText}} ay matcher na nag-f-finds ng composable based sa text content.",,onNodeWithText

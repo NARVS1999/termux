@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng custom hook sa React?",,"function useCounter(initial = 0) { const [count, setCount] = useState(initial); return { count, increment: () => setCount(c => c + 1) }; }"
 Application,"Paano i-reuse ang custom hook sa ibang components?",,"const { count, increment } = useCounter(0); — tawagin lang ang hook at i-destructure ang returned values"
 Application,"Paano gumawa ng useFetch custom hook?",,"function useFetch(url) { useEffect(() => { fetch(url).then(r => r.json()).then(setData); }, [url]); return data; }"

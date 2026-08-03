@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::circuit breaker}} ay ang pattern na pumipigil sa cascading failures sa system.",,circuit breaker
 Cloze,"Ang {{c1::graceful degradation}} ay ang pagpapatuloy ng core features kahit may failure.",,graceful degradation
 Cloze,"Ang {{c1::failure mode}} ay ang paraan kung paano nabibigo ang isang component.",,failure mode

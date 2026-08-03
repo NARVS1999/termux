@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::matrix}} ay 2D array na nag-i-store ng elements sa rows at columns.",,matrix
 Cloze,"Ang {{c1::traversal}} sa matrix ay pag-i-iterate sa bawat element.",,traversal
 Cloze,"Ang {{c1::rotation}} ay pagpapalit ng orientation ng matrix: 90, 180, o 270 degrees.",,rotation

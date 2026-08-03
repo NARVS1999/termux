@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::queues}} ay nagde-defer ng time-consuming tasks para hindi ma-block ang request.",,queues
 Cloze,"Ang {{c1::job}} ay isang class na naglalaman ng task na pinoproseso ng queue worker.",,job
 Cloze,"Ang {{c1::queue worker}} ay isang process na tumatakbo sa background para i-process ang jobs.",,queue worker

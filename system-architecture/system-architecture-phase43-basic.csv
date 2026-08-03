@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Bakit kailangan ng rate limiting?",,"para protektahan ang server sa abuse, fair usage, at maiwasan ang DDoS attacks"
 Application,"Paano gumagana ang token bucket?",,"may bucket na may tokens, bawat request ay nagko-consume ng token, nagre-refill sa fixed rate"
 Application,"Paano mag-implement ng rate limiting?",,"gamitin ang Redis counters, API gateway rate limiting, o middleware: 100 requests per minute"

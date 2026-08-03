@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::SQL databases}} ay relational databases na gumagamit ng structured schema at ACID transactions.",,SQL databases
 Cloze,"Ang {{c1::NoSQL databases}} ay non-relational databases na nagbibigay ng flexibility sa schema at scaling.",,NoSQL databases
 Cloze,"Ang {{c1::document database}} (MongoDB) ay nagse-store ng JSON-like documents.",,document database

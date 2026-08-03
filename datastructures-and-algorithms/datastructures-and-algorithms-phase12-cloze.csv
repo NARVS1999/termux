@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Floyd's cycle detection}} ay algorithm na nag-d-detect ng cycle gamit ang fast at slow pointers.",,Floyd's cycle detection
 Cloze,"Ang {{c1::fast pointer}} ay nag-m-move ng 2 steps sa bawat iteration.",,fast pointer
 Cloze,"Ang {{c1::slow pointer}} ay nag-m-move ng 1 step sa bawat iteration.",,slow pointer

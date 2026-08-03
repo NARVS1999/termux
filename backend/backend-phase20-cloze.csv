@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Laravel Debugbar}} ay nagpapakita ng queries, memory usage, at execution time sa development.",,Laravel Debugbar
 Cloze,"Ang {{c1::Xdebug}} ay isang PHP extension para sa step debugging at profiling.",,Xdebug
 Cloze,"Ang {{c1::Blackfire}} ay isang profiler na nagpapakita ng performance bottlenecks ng app.",,Blackfire

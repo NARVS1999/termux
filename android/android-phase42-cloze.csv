@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::runtime permissions}} ay permissions na kailangan i-request habang nag-r-running na ang app.",,runtime permissions
 Cloze,"Ang {{c1::AndroidManifest}} ay file na nag-d-declare ng required permissions ng app.",,AndroidManifest
 Cloze,"Ang {{c1::permission rationale}} ay dialog na nag-e-explains kung bakit kailangan ng permission.",,permission rationale

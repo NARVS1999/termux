@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::RBAC}} o Role-Based Access Control ay nag-a-assign ng permissions base sa user roles.",,RBAC
 Cloze,"Ang {{c1::ABAC}} o Attribute-Based Access Control ay nagde-determine ng access base sa attributes.",,ABAC
 Cloze,"Ang {{c1::least privilege}} ay ang principle na magbigay lang ng minimum na permissions na kailangan.",,least privilege

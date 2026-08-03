@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-setup ng Sentry sa Laravel?",,"i-install ang sentry/sentry-laravel, i-configure ang DSN sa .env, at i-throw ang exceptions normally"
 Application,"Paano mag-log ng structured data sa Laravel?",,"Gamitin ang Log::info('event', ['key' => 'value']) para mag-log ng JSON-formatted data"
 Application,"Paano mag-create ng health check endpoint sa Laravel?",,"Gumawa ng route na nagbabalik ng JSON status: Route::get('/health', fn() => response()->json(['status' => 'ok']))"

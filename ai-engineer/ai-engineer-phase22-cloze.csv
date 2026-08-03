@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Responses API}} ay ang bagong API ng OpenAI para sa chat at agent tasks.",,Responses API
 Cloze,"Ang {{c1::OpenAI SDK}} ay ang official na library para mag-call sa OpenAI APIs.",,OpenAI SDK
 Cloze,"Ang {{c1::embeddings}} API ay ginagamit para i-convert ang text sa vector representations.",,embeddings

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Kailan gumamit ng SQL?",,"kapag kailangan ng ACID transactions, complex queries, joins, at structured data"
 Application,"Kailan gumamit ng NoSQL?",,"kapag kailangan ng horizontal scaling, flexible schema, high write throughput"
 Application,"Ano ang document database?",,"ang data ay naka-store bilang documents (JSON): MongoDB, CouchDB — flexible schema"

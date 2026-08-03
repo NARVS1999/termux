@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Flyweight}} ay isang structural pattern na nagbibigay ng pagbabahagi ng common state para sa maraming objects.",,Flyweight
 Cloze,"Ang {{c1::Flyweight}} ay nagbibigay ng memory optimization sa pamamagitan ng pagbabahagi ng intrinsic state.",,Flyweight
 Cloze,"Ang {{c1::intrinsic state}} ay ang state na naka-share sa lahat ng flyweight objects.",,intrinsic state

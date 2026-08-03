@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::defending technical decisions}} ay ang ability na magpaliwanag at mag-justify ng ginawang technical choices sa team.",,defending technical decisions
 Cloze,"Ang {{c1::code review}} ay ang collaborative na proseso ng pag-examine ng code ng kapwa developer para sa quality.",,code review
 Cloze,"Ang {{c1::constructive feedback}} ay ang code review approach na nagpo-point ng issues na may suggested solutions.",,constructive feedback

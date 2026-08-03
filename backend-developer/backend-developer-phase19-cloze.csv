@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::replication}} ay ang pagkopya ng data sa multiple servers para sa availability.",,replication
 Cloze,"Ang {{c1::leader-follower}} ay ang replication model na may isang writer at maraming readers.",,leader-follower
 Cloze,"Ang {{c1::sharding}} ay ang paghahati ng data sa mga shards para sa scalability.",,sharding

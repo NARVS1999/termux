@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::retrieval quality}} ay sumusukat kung gaano relevant ang mga na-retrieve na chunks.",,retrieval quality
 Cloze,"Ang {{c1::groundedness}} ay sumusukat kung ang sagot ay suportado ng retrieved context.",,groundedness
 Cloze,"Ang {{c1::RAGAS}} ay isang framework para mag-evaluate ng RAG systems.",,RAGAS

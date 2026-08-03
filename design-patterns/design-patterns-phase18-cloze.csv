@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Observer pattern}} ay ang behavioral pattern na nagbibigay ng one-to-many dependency para sa automatic na notifications.",,Observer pattern
 Cloze,"Ang {{c1::subject}} ay ang object na nag-o-observe at nagno-notify ng observers kapag nagbago ang state.",,subject
 Cloze,"Ang {{c1::observer}} ay ang object na nag-subscribe sa subject at nagre-receive ng updates.",,observer

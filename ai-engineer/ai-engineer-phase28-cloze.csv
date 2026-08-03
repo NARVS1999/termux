@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Pinecone}} ay isang managed cloud vector database na may mababang maintenance.",,Pinecone
 Cloze,"Ang {{c1::Weaviate}} ay isang open source vector database na may built-in na GraphQL API.",,Weaviate
 Cloze,"Ang {{c1::Qdrant}} ay isang vector database na kilala sa performance at flexibility.",,Qdrant

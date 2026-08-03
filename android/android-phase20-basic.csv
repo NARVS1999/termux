@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng SQLite table?","Gamitin ang CREATE TABLE SQL statement.","db.execSQL(\"CREATE TABLE users (id INTEGER PRIMARY KEY, name TEXT)\")"
 Application,"Paano mag-insert ng data sa SQLite?","Gamitin ang insert method sa ContentValues.","val values = ContentValues().apply { put(\"name\", \"John\") }; db.insert(\"users\", null, values)"
 Application,"Paano mag-query ng data?","Gamitin ang rawQuery method na may SQL statement.","val cursor = db.rawQuery(\"SELECT * FROM users\", null)"

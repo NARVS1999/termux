@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng stored function?",,"CREATE FUNCTION GetAge(birthdate DATE) RETURNS INT DETERMINISTIC RETURN TIMESTAMPDIFF(YEAR, birthdate, CURDATE());"
 Application,"Paano gamitin ang function sa query?",,"SELECT name, GetAge(birthdate) AS age FROM users; — i-call ang function sa SELECT"
 Application,"Ano ang pagkakaiba ng procedure at function?",,"procedure: walang return value, tinatawag gamit ang CALL. function: may return value, ginagamit sa queries."

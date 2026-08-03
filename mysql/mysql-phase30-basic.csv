@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-lock ng row para sa update?",,"SELECT * FROM users WHERE id = 1 FOR UPDATE; — i-lock ang row para walang ibang makakatouch"
 Application,"Paano maiwasan ang deadlock?",,"i-lock ang tables sa parehong order, i-minimize ang transaction duration, i-use ng smaller locks"
 Application,"Paano i-check ang active locks?",,"SHOW ENGINE INNODB STATUS; — ipapakita ang current locks at transactions"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-chunk ang isang document?",,"I-split sa fixed sizes (hal. 500 chars) na may kaunting overlap."
 Application,"Paano i-embed ang mga chunks?",,"I-loop ang bawat chunk at i-call ang embedding API."
 Application,"Paano i-store ang mga embeddings?",,"I-insert sa vector database na may metadata tulad ng source."

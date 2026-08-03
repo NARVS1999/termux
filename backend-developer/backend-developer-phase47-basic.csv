@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano maiwasan ang pag-deploy ng AI-generated na buggy code?",,"Mag-set ng quality gate: i-run ang tests at code review bago i-merge."
 Application,"Paano malaman kung tama ang LLM answer?",,"Gamitin ang evaluation: i-compare ang output sa expected answers."
 Application,"Paano pigilan ang AI na gumawa ng harmful content?",,"Mag-implement ng guardrails at output filtering."

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::zero-downtime deployment}} ay ang deployment strategy na nagde-deploy ng bagong version nang hindi nagdo-down ang application.",,zero-downtime deployment
 Cloze,"Ang {{c1::blue-green deployment}} ay ang strategy kung saan may dalawang identical environments — blue (current) at green (new).",,blue-green deployment
 Cloze,"Ang {{c1::rolling deployment}} ay ang strategy kung saan unti-unting nirereplace ang old instances ng bagong version.",,rolling deployment

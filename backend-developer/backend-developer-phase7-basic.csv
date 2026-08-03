@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-iterate sa isang array sa JavaScript?",,"Gamitin ang loop: for (let item of items) { console.log(item); }"
 Application,"Paano mag-branch ng code batay sa condition?",,"Gamitin ang if/else: if (age >= 18) { adult } else { minor }"
 Application,"Paano i-catch ang error sa try-catch?",,"I-wrap ang risky code: try { riskyCall() } catch (err) { handleError(err) }"

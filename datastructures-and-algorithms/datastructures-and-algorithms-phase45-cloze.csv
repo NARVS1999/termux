@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::greedy algorithm}} ay approach na nag-p-pili ng locally optimal choice hoping for global optimum.",,greedy algorithm
 Cloze,"Ang {{c1::exchange argument}} ay proof technique na nag-s-shows ng correctness ng greedy choice.",,exchange argument
 Cloze,"Ang {{c1::interval scheduling}} ay problem na nag-f-finds ng maximum non-overlapping intervals.",,interval scheduling

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Room}} ay persistence library ng Android na nag-a-add ng abstraction layer sa SQLite database.",,Room
 Cloze,"Ang {{c1::@Entity}} annotation ay nag-m-mark ng data class na nagre-represent ng database table.",,@Entity
 Cloze,"Ang {{c1::@Dao}} annotation ay nag-m-mark ng interface na nag-d-defines ng database operations.",,@Dao

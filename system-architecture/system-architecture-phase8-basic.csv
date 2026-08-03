@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Kailan gumamit ng serverless?",,"kapag event-driven, unpredictable traffic, o small functions na hindi nangangailangan ng persistent state"
 Application,"Ano ang cold start at paano maiwasan?",,"ang delay sa unang invocation — maiwasan gamit ang provisioned concurrency o keep-warm strategies"
 Application,"Ano ang pagkakaiba ng serverless at containers?",,"serverless: managed, auto-scale, pay-per-use. containers: more control, persistent, always-on."

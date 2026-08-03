@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mai-apply ang DRY sa isang codebase?",,I-extract ang duplicate code sa mga functions o utilities na magagamit muli
 Application,"Paano masusunod ang KISS sa coding?",,Piliin ang pinakasimpleng solusyon na gumagana at iwasan ang over-engineering
 Application,"Paano maiwasan ang YAGNI violation?",,Gumawa lang ng features na kasalukuyang kailangan at huwag mag-speculate sa future

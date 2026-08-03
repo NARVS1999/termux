@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Singleton}} ay isang creational pattern na nagtitiyak ng iisang instance lang ng isang class.",,Singleton
 Cloze,"Ang {{c1::lazy initialization}} ay naghihintay ng unang pagkakataon na kailangan ang instance bago ito gumawa ng bago.",,lazy initialization
 Cloze,"Ang {{c1::eager initialization}} ay gumagawa agad ng instance kahit hindi pa kailangan.",,eager initialization

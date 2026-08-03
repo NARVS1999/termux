@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::logging}} ay ang proseso ng pag-record ng events at errors para sa debugging at monitoring.",,logging
 Cloze,"Ang {{c1::Log facade}} sa Laravel ay ginagamit para mag-log ng messages sa iba't ibang levels (info, warning, error).",,Log facade
 Cloze,"Ang {{c1::auditing}} ay ang pag-track ng changes sa data para sa compliance at security purposes.",,auditing

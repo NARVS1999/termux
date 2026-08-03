@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::service mesh}} ay infrastructure layer na nagpo-provide ng service-to-service communication.",,service mesh
 Cloze,"Ang {{c1::sidecar proxy}} ay ang auxiliary container na nagha-handle ng networking para sa main service.",,sidecar proxy
 Cloze,"Ang {{c1::mTLS}} o mutual TLS ay ang encryption sa pagitan ng services para sa secure communication.",,mTLS

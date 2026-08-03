@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::useEffect + fetch}} pattern ay ang basic na data fetching: useEffect(() => { fetch(url).then(...).then(setData); }, [deps]).",,useEffect + fetch
 Cloze,"Ang {{c1::loading state}} ay ang boolean na nag-track kung kasalukuyang naglo-load ang data: const [loading, setLoading] = useState(true).",,loading state
 Cloze,"Ang {{c1::error state}} ay ang state na naglalaman ng error message: const [error, setError] = useState(null).",,error state

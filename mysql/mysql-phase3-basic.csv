@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano pumili ng tamang data type para sa column?",,"VARCHAR para sa strings, INT para sa numbers, DECIMAL para sa money, TIMESTAMP para sa dates"
 Application,"Paano mag-set ng maximum length sa VARCHAR?",,"VARCHAR(255) — i-specify ang maximum na bilang ng characters sa loob ng parentheses"
 Application,"Paano gumamit ng ENUM sa column?",,"gender ENUM('male', 'female', 'other') — i-list ang allowed values sa CREATE TABLE"

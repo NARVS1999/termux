@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Query Builder}} ay ang Laravel interface para gumawa ng SQL queries nang hindi sumusulat ng raw SQL.",,Query Builder
 Cloze,"Ang {{c1::DB::transaction()}} ay nagwawrap ng maraming operations para mag-succeed o mag-rollback lahat.",,DB::transaction()
 Cloze,"Ang {{c1::pessimistic locking}} (lockForUpdate) ay nagla-lock ng rows para maiwasan ang concurrent modification.",,pessimistic locking

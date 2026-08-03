@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang cache-aside pattern?",,"app ay nag-check ng cache, kapag miss: i-query ang DB, i-store sa cache — pinaka-common"
 Application,"Ano ang write-through?",,"app ay nag-write sa cache at DB sabay — data ay palaging consistent pero mas mabagal ang writes"
 Application,"Ano ang write-behind?",,"app ay nag-write sa cache lang, ang cache ang nag-sync sa DB — mabilis pero may data loss risk"

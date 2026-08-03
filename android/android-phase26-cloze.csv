@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::ConnectivityManager}} ay system service na nag-c-check ng network state.",,ConnectivityManager
 Cloze,"Sa Android, ang {{c1::NetworkCapabilities}} ay nag-s-specify ng network type at capabilities.",,NetworkCapabilities
 Cloze,"Ang {{c1::timeout}} ay maximum na oras na hihintayin ng network request bago mag-fail.",,timeout

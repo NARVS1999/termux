@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::incident response}} ay ang structured na proseso ng pag-handle ng production issues at outages.",,incident response
 Cloze,"Ang {{c1::post-mortem}} ay isang document na nagre-review kung ano ang nangyari, bakit, at paano maiiwasan muli.",,post-mortem
 Cloze,"Ang {{c1::SLA}} o Service Level Agreement ay ang agreed-upon na target para sa uptime at response time.",,SLA

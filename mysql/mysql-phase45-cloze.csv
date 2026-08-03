@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::users table}} ay naglalaman ng user accounts: id, name, email, password_hash, status.",,users table
 Cloze,"Ang {{c1::roles table}} ay nagde-define ng user roles: admin, editor, viewer.",,roles table
 Cloze,"Ang {{c1::permissions table}} ay naglalaman ng specific actions: create_post, delete_user.",,permissions table

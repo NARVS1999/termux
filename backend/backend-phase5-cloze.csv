@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Composer}} ay ang dependency manager ng PHP.",,Composer
 Cloze,"Ang {{c1::PSR-4}} autoloading ay nagma-map ng namespace sa directory para awtomatikong ma-load ang classes.",,PSR-4
 Cloze,"Ang {{c1::composer.json}} ay ang configuration file na naglalaman ng dependencies at autoload rules.",,composer.json

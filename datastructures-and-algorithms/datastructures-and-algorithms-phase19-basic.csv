@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-compute ng hash code?","Gamitin ang hashCode() method sa Kotlin.","key.hashCode() % capacity"
 Application,"Paano mag-handle ng collision?","Gamitin ang chaining: linked list sa bawat bucket.","bucket[index].add(entry)"
 Application,"Paano mag-resize ng hash table?","I-create ang bagong table at i-rehash lahat ng entries.","newTable = Array(capacity * 2); for entry in table: insert(newTable, entry)"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::useState}} hook ay nagbibigay ng state variable at function para i-update ito: const [state, setState] = useState(initial).",,useState
 Cloze,"Ang {{c1::state immutability}} ay ang rule na hindi dapat i-mutate ang state directly — gumawa ng bagong object/array.",,state immutability
 Cloze,"Ang {{c1::state batching}} ay ang behavior ng React na naggru-group ng maraming setState calls sa iisang re-render.",,state batching

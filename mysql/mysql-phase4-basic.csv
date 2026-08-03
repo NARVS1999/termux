@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-filter ng range gamit ang BETWEEN?",,"SELECT * FROM orders WHERE total BETWEEN 100 AND 500; — kasama ang 100 at 500"
 Application,"Paano mag-check ng multiple values gamit ang IN?",,"SELECT * FROM users WHERE status IN ('active', 'pending'); — kung ang value ay nasa list"
 Application,"Paano mag-search ng pattern gamit ang LIKE?",,"SELECT * FROM users WHERE name LIKE '%john%'; — ang % ay wildcard para sa any characters"

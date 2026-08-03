@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-convert ng text sa embedding?",,"I-call ang embedding API o gamitin ang sentence-transformers sa local."
 Application,"Paano maghanap ng similar documents?",,"I-embed ang query at i-compare ang similarity sa lahat ng document embeddings."
 Application,"Paano gumawa ng simple recommendation system?",,"I-embed ang items at i-recommend ang pinaka-malapit na vectors."

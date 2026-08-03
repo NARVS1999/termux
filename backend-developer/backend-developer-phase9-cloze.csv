@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::package manager}} ay ang tool na nag-i-install at nagma-manage ng dependencies ng project.",,package manager
 Cloze,"Ang {{c1::dependency}} ay ang external package na kailangan ng project para gumana.",,dependency
 Cloze,"Ang {{c1::versioning}} ay ang sistema ng pagta-track ng versions ng packages.",,versioning

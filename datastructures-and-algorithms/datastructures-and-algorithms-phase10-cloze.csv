@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::singly linked list}} ay data structure na nag-e-extend ng nodes na may data at next pointer.",,singly linked list
 Cloze,"Ang {{c1::node}} ay basic unit ng linked list na nag-c-contains ng data at reference sa next node.",,node
 Cloze,"Ang {{c1::head}} ay unang node sa linked list.",,head

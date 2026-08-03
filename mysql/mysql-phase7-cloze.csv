@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::foreign key}} ay ang constraint na nagko-connect ng dalawang tables gamit ang primary key reference.",,foreign key
 Cloze,"Ang {{c1::REFERENCES}} clause ay nagde-define ng target table at column para sa foreign key.",,REFERENCES
 Cloze,"Ang {{c1::ON DELETE CASCADE}} ay nagde-delete ng child rows kapag na-delete ang parent row.",,ON DELETE CASCADE

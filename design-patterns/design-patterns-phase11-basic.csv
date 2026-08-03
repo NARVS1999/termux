@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Adapter pattern?",,Lumikha ng adapter class na may target interface at i-wrap ang adaptee object
 Application,"Paano pumili sa object at class adapter?",,Gamitin ang object adapter para sa composition at class adapter para sa multiple inheritance
 Application,"Paano i-apply ang Adapter sa legacy code?",,I-wrap ang lumang API sa isang adapter na may modern na interface

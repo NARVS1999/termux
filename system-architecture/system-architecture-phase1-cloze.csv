@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::OSI model}} ay ang 7-layer na framework na naglalarawan kung paano nagko-communicate ang data sa network.",,OSI model
 Cloze,"Ang {{c1::TCP}} o Transmission Control Protocol ay ang reliable, connection-oriented protocol para sa data transmission.",,TCP
 Cloze,"Ang {{c1::UDP}} o User Datagram Protocol ay ang fast, connectionless protocol na walang delivery guarantee.",,UDP

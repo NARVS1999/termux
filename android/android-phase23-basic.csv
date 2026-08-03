@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-set up ng Retrofit?","I-create ang Retrofit instance na may base URL at GsonConverterFactory.","Retrofit.Builder().baseUrl(\"https://api.example.com/\").addConverterFactory(GsonConverterFactory.create()).build()"
 Application,"Paano mag-define ng API endpoint?","I-annotate ang suspend function gamit ang @GET o @POST.","@GET(\"users\") suspend fun getUsers(): List<User>"
 Application,"Paano mag-add ng interceptor sa OkHttp?","I-add ang interceptor sa OkHttpClient.Builder.","OkHttpClient.Builder().addInterceptor(authInterceptor).build()"

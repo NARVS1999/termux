@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Sa Kotlin, ang {{c1::class}} ay blueprint para sa paggawa ng objects na may properties at methods.",,class
 Cloze,"Ang {{c1::data class}} ay special class na automatic na nag-generate ng equals, hashCode, at toString.",,data class
 Cloze,"Sa Kotlin, ang {{c1::inheritance}} ay ginagamit gamit ang colon (:) at kailangan ng open modifier sa parent class.",,inheritance

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-distribute ang traffic sa 3 servers?",,"Maglagay ng load balancer sa harap ng mga servers na nagdi-distribute ng requests."
 Application,"Paano protektahan ang API mula sa abuse?",,"Mag-implement ng rate limiting: maximum na 100 requests per minute per user."
 Application,"Paano mag-handle ng sudden traffic spike?",,"Gumamit ng auto-scaling na nag-a-add ng servers kapag tumataas ang load."

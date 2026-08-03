@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::row lock}} ay naglo-lock ng specific row na binabago — pinaka-granular na lock.",,row lock
 Cloze,"Ang {{c1::table lock}} ay naglo-lock ng buong table — mas coarse-grained pero mas mabagal.",,table lock
 Cloze,"Ang {{c1::deadlock}} ay ang situation kung saan dalawang transactions ay naghihintay sa locks ng isa't isa.",,deadlock

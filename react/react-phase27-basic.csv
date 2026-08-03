@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-handle ng file input sa React?",,"const fileRef = useRef(); <input type='file' ref={fileRef} />; — i-access ang file gamit ang fileRef.current.files[0]"
 Application,"Paano mag-upload ng file gamit ang FormData?",,"const formData = new FormData(); formData.append('file', file); fetch('/upload', { method: 'POST', body: formData });"
 Application,"Paano gumawa ng multi-step form?",,"I-store ang step state: const [step, setStep] = useState(0); conditionally render ang bawat step"

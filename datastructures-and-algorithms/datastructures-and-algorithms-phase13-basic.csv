@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-reverse ng linked list in-place?","Gamitin ang three pointers: prev, curr, next.","var prev = null; var curr = head; while(curr) { next=curr.next; curr.next=prev; prev=curr; curr=next }"
 Application,"Paano mag-find ng kth from end?","Gamitin ang two pointers: advance ang first ng k steps.","fast = head; for i in 0..k: fast = fast.next; while(fast) { slow=slow.next; fast=fast.next }"
 Application,"Paano mag-merge ng two sorted lists?","Gamitin ang dummy head at i-compare elements.","dummy = ListNode(0); tail = dummy; while(l1 && l2) { if(l1.val < l2.val) tail.next = l1 }"

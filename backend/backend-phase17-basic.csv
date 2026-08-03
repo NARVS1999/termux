@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-cache ang query result ng isang minuto?",,"Cache::remember('users', 60, fn () => User::all());"
 Application,"Paano i-prevent na dalawang processes ang mag-run ng same job nang sabay?",,"Gumamit ng cache lock: Cache::lock('report')->get(function () { ... });"
 Application,"Paano i-limit ang API requests sa 100 kada minute per user?",,"->middleware('throttle:100,1') sa route."

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Clean Architecture}} ay design pattern na nag-s-separates ng code sa presentation, domain, at data layers.",,Clean Architecture
 Cloze,"Ang {{c1::domain layer}} ay innermost layer na nag-c-contains ng business logic at use cases.",,domain layer
 Cloze,"Ang {{c1::presentation layer}} ay outermost layer na nag-h-handles ng UI at user interactions.",,presentation layer

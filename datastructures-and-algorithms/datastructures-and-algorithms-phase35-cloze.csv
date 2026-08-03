@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::bubble sort}} ay O(n^2) sorting algorithm na nag-s-swaps ng adjacent elements.",,bubble sort
 Cloze,"Ang {{c1::selection sort}} ay O(n^2) sorting algorithm na nag-fi-find ng minimum sa bawat pass.",,selection sort
 Cloze,"Ang {{c1::insertion sort}} ay O(n^2) sorting algorithm na nag-i-insert ng element sa tamang position.",,insertion sort

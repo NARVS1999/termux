@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::ConstraintLayout}} ay layout system na nag-a-arrange ng views gamit ang constraints sa iba pang views.",,ConstraintLayout
 Cloze,"Ang {{c1::LinearLayout}} ay layout na nag-a-arrange ng children either vertically o horizontally.",,LinearLayout
 Cloze,"Sa Android, ang {{c1::view binding}} ay type-safe na way para mag-access ng views nang hindi nag-c-calling ng findViewById.",,view binding

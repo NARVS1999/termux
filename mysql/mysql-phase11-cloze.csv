@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::ER diagram}} o Entity-Relationship Diagram ay visual na representation ng database schema.",,ER diagram
 Cloze,"Ang {{c1::entity}} ay ang object o concept na nire-represent ng table (ex. User, Order).",,entity
 Cloze,"Ang {{c1::attribute}} ay ang property ng entity (ex. name, email, age).",,attribute

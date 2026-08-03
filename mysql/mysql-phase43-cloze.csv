@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::read replicas}} ay ang mga slave servers na ginagamit para i-offload ang read queries mula sa master.",,read replicas
 Cloze,"Ang {{c1::sharding}} ay ang proseso ng pag-hati ng database sa maraming servers.",,sharding
 Cloze,"Ang {{c1::connection multiplexing}} ay ang technique ng pag-share ng connections sa maraming clients.",,connection multiplexing

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-represent ng graph gamit adjacency list?","Gamitin ang HashMap o array ng lists.","val adj = HashMap<Int, MutableList<Int>>(); for edge in edges: adj[edge.from].add(edge.to)"
 Application,"Paano mag-represent ng graph gamit adjacency matrix?","Gamitin ang 2D array.","val matrix = Array(n) { IntArray(n) }; for edge in edges: matrix[edge.from][edge.to] = 1"
 Application,"Paano mag-add ng edge?","I-add ang connection sa both nodes para sa undirected.","adj[u].add(v); adj[v].add(u)"

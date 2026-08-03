@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Decorator pattern?",,Lumikha ng base class at mga decorator classes na nag-we-wrap at nagdadagdag ng behavior
 Application,"Paano pumili sa Decorator at inheritance?",,Gamitin ang Decorator para sa dynamic na behavior at inheritance para sa static na relationship
 Application,"Paano i-apply ang Decorator sa middleware?",,I-wrap ang mga handlers sa mga decorator na nagdadagdag ng logging, auth, at error handling

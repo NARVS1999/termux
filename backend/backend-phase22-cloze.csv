@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::authentication}} ay ang pagpapatunay kung sino ang user, habang ang {{c2::authorization}} ay kung ano ang pwedeng gawin.",,authentication/authorization
 Cloze,"Ang {{c1::Sanctum}} ay ang Laravel package para sa API token authentication na simple para sa SPAs at mobile apps.",,Sanctum
 Cloze,"Ang {{c1::Passport}} ay ang full OAuth2 server implementation ng Laravel.",,Passport

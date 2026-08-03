@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::LLM evaluations}} ay ang sistematikong pagsukat ng quality ng model outputs.",,LLM evaluations
 Cloze,"Ang {{c1::deterministic evals}} ay mga evaluations na may tiyak na tamang sagot (hal. exact match).",,deterministic evals
 Cloze,"Ang {{c1::model-based evals}} ay gumagamit ng isa pang LLM para i-judge ang output quality.",,model-based evals

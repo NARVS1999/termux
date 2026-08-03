@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::HTML}} ay ang markup language na nag-i-structure ng content ng isang web page.",,HTML
 Cloze,"Ang {{c1::CSS}} ay ang language na kumukontrol sa presentation at styling ng web page.",,CSS
 Cloze,"Ang {{c1::JavaScript}} ay ang programming language na nagpapa-dynamic ng web page sa browser.",,JavaScript

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::BEGIN}} statement ay nagso-start ng bagong transaction.",,BEGIN
 Cloze,"Ang {{c1::COMMIT}} statement ay nagco-commit ng lahat ng changes sa transaction.",,COMMIT
 Cloze,"Ang {{c1::ROLLBACK}} statement ay nagka-cancel ng transaction at nagbabalik sa previous state.",,ROLLBACK

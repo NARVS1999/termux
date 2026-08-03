@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-insert sa trie?","I-traverse ang characters at i-create ang nodes.","var node = root; for (c in word) { node = node.children.getOrPut(c) { TrieNode() } }"
 Application,"Paano mag-search sa trie?","I-traverse ang characters hanggang null o end.","var node = root; for (c in word) { node = node.children[c] ?: return false }; return node.isEnd"
 Application,"Paano mag-check ng prefix?","Gamitin ang startsWith method.","var node = root; for (c in prefix) { node = node.children[c] ?: return false }; return true"

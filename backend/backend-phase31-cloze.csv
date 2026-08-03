@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::mocking}} ay ang proseso ng paglikha ng fake objects na nag-i-imitate ng totoong behavior para sa testing.",,mocking
 Cloze,"Ang {{c1::Mail::fake()}} ay ginagamit para i-prevent ang totoong pag-send ng emails habang nagte-test.",,Mail::fake()
 Cloze,"Ang {{c1::Queue::fake()}} ay ginagamit para i-prevent ang totoong pag-queue ng jobs habang nagte-test.",,Queue::fake()

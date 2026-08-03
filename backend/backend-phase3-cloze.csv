@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Repository}} pattern ay ginagamit para i-abstract ang data access layer mula sa business logic.",,Repository
 Cloze,"Ang {{c1::Factory}} pattern ay ginagamit para gumawa ng objects nang hindi tinutukoy ang concrete class sa client.",,Factory
 Cloze,"Ang {{c1::Strategy}} pattern ay nagpapahintulot na magpalit ng algorithm sa runtime.",,Strategy

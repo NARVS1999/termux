@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::@Composable}} annotation ay nag-m-mark ng function na nagde-define ng UI sa Jetpack Compose.",,@Composable
 Cloze,"Ang {{c1::Column}} ay composable na nag-a-arrange ng children vertically.",,Column
 Cloze,"Ang {{c1::Row}} ay composable na nag-a-arrange ng children horizontally.",,Row

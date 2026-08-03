@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-distribute ang read traffic sa database?",,"Mag-setup ng read replicas na nagc-copy ng data mula sa primary."
 Application,"Paano mag-handle ng napakalaking data na hindi kasya sa isang server?",,"I-shard ang data gamit ang shard key para maipamahagi sa maraming servers."
 Application,"Paano mag-search ng text sa malaking dataset?",,"Gamitin ang Elasticsearch na may inverted index para sa full-text search."

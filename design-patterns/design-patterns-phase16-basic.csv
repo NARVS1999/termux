@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Flyweight pattern?",,Lumikha ng factory na nag-cache ng mga objects at nagbabahagi ng shared state
 Application,"Paano pumili sa Flyweight at Object Pool?",,Ang Flyweight ay nagbabahagi ng shared state, Object Pool ay nagre-reuse ng objects
 Application,"Paano i-apply ang Flyweight sa text rendering?",,I-share ang character objects at i-pass ang position bilang extrinsic state

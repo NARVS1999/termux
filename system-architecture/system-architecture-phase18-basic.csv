@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Kailan gumamit ng master-slave?",,"kapag read-heavy: writes sa master, reads sa slaves — pero single point of failure ang master"
 Application,"Kailan gumamit ng master-master?",,"kapag kailangan ng write availability sa maraming locations — pero conflict resolution ang challenge"
 Application,"Ano ang leader election?",,"ang proseso ng pag-pick ng bagong leader kapag nag-fail: Raft, Paxos, ZAB algorithms"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng ReAct prompt?",,"I-instruct ang model na mag-output ng Thought, Action, at Observation bawat step."
 Application,"Paano i-parse ang action mula sa model output?",,"I-match ang pattern na 'Action: functionName(arguments)' sa output."
 Application,"Paano mag-loop ng ReAct hanggang sa sagot?",,"I-repeat ang LLM call hanggang lumabas ang 'Final Answer:'."

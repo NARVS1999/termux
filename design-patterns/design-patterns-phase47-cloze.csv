@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::real-world applications}} ay ang pag-apply ng design patterns sa production codebases.",,real-world applications
 Cloze,"Ang {{c1::Laravel patterns}} — Laravel ay gumagamit ng maraming patterns: Repository, Factory, Observer.",,Laravel patterns
 Cloze,"Ang {{c1::React patterns}} — React ay gumagamit ng: Container/Presentational, Hooks, Compound Components.",,React patterns

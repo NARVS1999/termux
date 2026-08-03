@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-prompt nang walang examples?",,"Gamitin ang zero-shot: direktang tanong ang model gamit ang malinaw na instruction."
 Application,"Paano mag-improve ng accuracy sa classification tasks?",,"Gumamit ng few-shot prompting na may mga labeled examples."
 Application,"Paano i-encourage ang model na mag-isip nang hakbang-hakbang?",,"Magdagdag ng 'Let's think step by step' sa prompt."

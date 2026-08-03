@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::NoSQL}} ay ang database na hindi relational at mas flexible sa schema.",,NoSQL
 Cloze,"Ang {{c1::document database}} ay ang database na nag-i-store ng data bilang JSON-like documents.",,document database
 Cloze,"Ang {{c1::key-value store}} ay ang pinakasimpleng NoSQL na nag-i-store ng key-value pairs.",,key-value store

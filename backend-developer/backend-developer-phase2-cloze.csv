@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::HTTP}} ay ang protocol na ginagamit para sa communication sa pagitan ng client at web server.",,HTTP
 Cloze,"Ang {{c1::HTTP methods}} ay ang mga action na ginagawa ng client sa server tulad ng GET, POST, PUT, at DELETE.",,HTTP methods
 Cloze,"Ang {{c1::status codes}} ay ang tatlong-digit na response mula sa server na nagpapakita ng resulta ng request.",,status codes

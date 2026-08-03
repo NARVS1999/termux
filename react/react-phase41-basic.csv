@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-setup ang MSW para sa tests?",,"npx msw init src/ — i-setup ang mocks. gumawa ng handlers at i-configure sa test setup file"
 Application,"Paano gumawa ng MSW handler?",,"import { rest } from 'msw'; import { setupServer } from 'msw/node'; const server = setupServer(rest.get('/api/users', (req, res, ctx) => res(ctx.json([...]))));"
 Application,"Paano mag-test ng error state?",,"server.use(rest.get('/api', (req, res, ctx) => res(ctx.status(500)))); — i-simulate ang server error"

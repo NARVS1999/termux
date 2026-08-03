@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-insert sa tail ng doubly linked list?","I-update ang tail.next at prev pointers.","tail.next = newNode; newNode.prev = tail; tail = newNode"
 Application,"Paano mag-delete ng node sa doubly linked list?","I-update ang prev.next at next.prev pointers.","node.prev.next = node.next; node.next.prev = node.prev"
 Application,"Paano mag-traverse backward?","I-start sa tail at mag-move sa prev pointers.","var current = tail; while (current != null) { process(current); current = current.prev }"

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang pattern combination?",,"ang paggamit ng maraming patterns na magkasama: MVC + Observer + Strategy — pinagsama para sa isang feature"
 Application,"Ano ang common na pattern combinations?",,"MVC + Observer, Factory + Strategy, Repository + Unit of Work, Decorator + Proxy"
 Application,"Paano mag-combine nang tama?",,"tiyakin na bawat pattern ay may malinaw na role — huwag mag-overlap o mag-conflict"

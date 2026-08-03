@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mapabilis ang pag-load ng static assets sa iba't ibang bansa?",,"Gumamit ng CDN na nagse-serve ng content mula sa pinakamalapit na server."
 Application,"Paano pigilan ang browser na mag-cache ng sensitive data?",,"Mag-set ng header: Cache-Control: no-store."
 Application,"Paano mag-cache ng API response sa loob ng 1 oras?",,"Mag-set ng header: Cache-Control: max-age=3600."

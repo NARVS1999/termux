@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::CDN}} o Content Delivery Network ay ang network ng distributed servers na nagce-serve ng static content.",,CDN
 Cloze,"Ang {{c1::edge server}} ang server na malapit sa user na nagce-serve ng cached content.",,edge server
 Cloze,"Ang {{c1::origin server}} ang main server kung saan naka-store ang original content.",,origin server

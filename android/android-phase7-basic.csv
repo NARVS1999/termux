@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-start ng bagong Activity?","Gamitin ang startActivity() method.","startActivity(Intent(this, SecondActivity::class.java))"
 Application,"Paano mag-save ng state sa Activity?","I-override ang onSaveInstanceState method.","override fun onSaveInstanceState(outState: Bundle) { outState.putString(\"key\", value) }"
 Application,"Paano mag-restore ng saved state?","I-access ang saved instance state sa onCreate.","val value = savedInstanceState?.getString(\"key\")"

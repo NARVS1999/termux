@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::SQLite}} ay lightweight relational database na built-in sa Android.",,SQLite
 Cloze,"Sa SQLite, ang {{c1::query}} ay SQL statement na nag-r-retrieves ng data mula sa tables.",,query
 Cloze,"Ang {{c1::relations}} sa SQLite ay nag-c-connect ng tables gamit ang foreign keys.",,relations

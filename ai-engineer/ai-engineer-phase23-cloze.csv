@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Gemini API}} ay ang Google API para sa Gemini models.",,Gemini API
 Cloze,"Ang {{c1::Messages API}} ay ang Anthropic API para sa Claude models.",,Messages API
 Cloze,"Ang {{c1::OpenAI-compatible APIs}} ay mga interfaces na sumusunod sa OpenAI request format.",,OpenAI-compatible APIs

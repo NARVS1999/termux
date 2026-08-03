@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::unit test}} ay isang test na nag-i-isolate ng isang component o function para i-verify ang behavior.",,unit test
 Cloze,"Ang {{c1::integration test}} ay isang test na nagve-verify ng interaction sa pagitan ng maraming components.",,integration test
 Cloze,"Ang {{c1::MSW}} o Mock Service Worker ay isang library para i-mock ang API calls sa tests.",,MSW

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::external memory}} sa RAG ay ang paggamit ng storage sa labas ng model para sa knowledge.",,external memory
 Cloze,"Ang {{c1::dynamic filters}} ay ang pag-filter ng retrieval base sa runtime context o user preferences.",,dynamic filters
 Cloze,"Ang {{c1::context compaction}} ay ang pagbabawas ng context size para hindi ma-exceed ang token limit.",,context compaction

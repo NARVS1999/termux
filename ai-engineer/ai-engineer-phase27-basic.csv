@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-insert ng vectors sa Chroma?",,"collection.add(ids=[...], embeddings=[...], metadatas=[...])"
 Application,"Paano mag-query ng similar vectors sa Chroma?",,"collection.query(query_embeddings=[...], n_results=5)"
 Application,"Paano gumawa ng FAISS index?",,"index = faiss.IndexFlatL2(dimension)"

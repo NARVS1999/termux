@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::release build}} ay production-ready APK/AAB na optimized at signed para sa distribution.",,release build
 Cloze,"Ang {{c1::keystore}} ay file na nag-c-contains ng signing keys para sa APK signing.",,keystore
 Cloze,"Ang {{c1::minification}} ay process ng pag-c-compact ng code at pag-r-removes ng unused classes.",,minification

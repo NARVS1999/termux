@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::graph}} ay collection ng nodes (vertices) na connected by edges.",,graph
 Cloze,"Ang {{c1::adjacency list}} ay representation na nag-l-links ng bawat node sa list ng neighbors.",,adjacency list
 Cloze,"Ang {{c1::adjacency matrix}} ay 2D array na nag-i-indicate ng connections sa pagitan ng nodes.",,adjacency matrix

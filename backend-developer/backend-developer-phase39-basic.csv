@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano pigilan ang isang failing service na i-down ang buong system?",,"Gumamit ng circuit breaker na nag-o-open kapag paulit-ulit ang failures."
 Application,"Paano mag-handle ng temporary network errors?",,"Mag-retry na may exponential backoff at timeout."
 Application,"Paano mag-serve ng partial experience kapag down ang isang service?",,"Mag-implement ng graceful degradation at fallback responses."

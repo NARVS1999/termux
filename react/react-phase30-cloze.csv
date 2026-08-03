@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::useReducer}} hook ay isang alternative sa useState para sa complex state logic gamit ang reducer function.",,useReducer
 Cloze,"Ang {{c1::action object}} sa useReducer ay naglalaman ng type at optional payload: { type: 'ADD', payload: item }.",,action object
 Cloze,"Ang {{c1::reducer function}} ay pure function na: (currentState, action) => newState.",,reducer function

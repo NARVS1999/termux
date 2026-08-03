@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::cold start}} ay startup process mula sa walang app state hanggang ma-render ang screen.",,cold start
 Cloze,"Ang {{c1::lazy initialization}} ay technique na nag-d-defers ng object creation hanggang kailangan.",,lazy initialization
 Cloze,"Ang {{c1::baseline profile}} ay pre-compiled code paths na nag-s-speeds up ng app startup.",,baseline profile

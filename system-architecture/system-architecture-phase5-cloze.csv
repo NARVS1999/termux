@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::TLS handshake}} ay ang proseso ng pag-establish ng secure connection bago mag-exchange ng data.",,TLS handshake
 Cloze,"Ang {{c1::SSL certificate}} ay ang digital document na nagpapatunay ng identity ng server.",,SSL certificate
 Cloze,"Ang {{c1::encryption at rest}} ay ang pag-encrypt ng data habang naka-store sa disk o database.",,encryption at rest

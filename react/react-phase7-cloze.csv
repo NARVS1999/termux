@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::functional component}} ay isang JavaScript function na nagre-return ng JSX — ang modernong paraan ng paggawa ng React components.",,functional component
 Cloze,"Ang {{c1::component composition}} ay ang pattern ng paggamit ng mga smaller components para buuin ang mas malaking UI.",,component composition
 Cloze,"Ang {{c1::component naming}} ay dapat PascalCase: UserProfile, NavigationBar — hindi lowercase.",,component naming

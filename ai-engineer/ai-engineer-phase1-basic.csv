@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gamitin ang AI sa app nang hindi nag-train ng sariling model?",,"Gumamit ng pre-trained models sa pamamagitan ng APIs tulad ng OpenAI o Anthropic."
 Application,"Paano malaman ang pinagkaiba ng AI Engineer sa ML Engineer?",,"AI Engineer gumagamit ng existing models; ML Engineer nag-train ng models."
 Application,"Paano mag-integrate ng AI feature sa web app?",,"Mag-call sa LLM API at i-handle ang response sa backend."

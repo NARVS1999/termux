@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano pumili ng tamang pattern?",,"i-identify ang problema, i-evaluate ang options, piliin ang pinaka-simple na solution na nagwo-work"
 Application,"Ano ang problem-driven approach?",,"magsimula sa problema, hindi sa pattern — hanapin ang pattern na nagso-solve ng problema"
 Application,"Paano mag-evaluate ng trade-offs?",,"tingnan ang complexity, testability, performance, at maintainability — piliin ang best fit"

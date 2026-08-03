@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::time-series data}} ay ang data na naka-organize ayon sa timestamp: logs, metrics, events.",,time-series data
 Cloze,"Ang {{c1::partitioning by date}} ay ang pag-hati ng time-series table ayon sa buwan o taon.",,partitioning by date
 Cloze,"Ang {{c1::archiving}} ay ang proseso ng pag-move ng lumang data sa cold storage.",,archiving

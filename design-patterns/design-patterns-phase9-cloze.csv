@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Prototype}} ay isang creational pattern na nagbibigay ng paraan para gumawa ng bagong objects sa pamamagitan ng cloning.",,Prototype
 Cloze,"Ang {{c1::shallow copy}} ay gumagawa ng bagong object pero ang mga nested objects ay nananatiling reference.",,shallow copy
 Cloze,"Ang {{c1::deep copy}} ay gumagawa ng bagong object kasama ang lahat ng nested objects.",,deep copy

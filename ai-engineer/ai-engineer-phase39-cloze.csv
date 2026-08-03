@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::ReAct}} ay isang pattern na nagpapalit-palit ng reasoning (thought) at action.",,ReAct
 Cloze,"Ang {{c1::Thought}} ay ang hakbang kung saan nagpaplano o nag-iisip ang model.",,Thought
 Cloze,"Ang {{c1::Action}} ay ang hakbang kung saan nag-call ang model ng tool.",,Action

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::scheduled event}} ay ang MySQL feature na nag-e-execute ng SQL sa predetermined na time.",,scheduled event
 Cloze,"Ang {{c1::CREATE EVENT}} statement ay ginagamit para mag-create ng scheduled event.",,CREATE EVENT
 Cloze,"Ang {{c1::event scheduler}} ay ang MySQL process na nagmo-monitor at nag-e-execute ng events.",,event scheduler

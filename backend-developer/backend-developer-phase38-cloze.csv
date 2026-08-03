@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::monolith}} ay ang architecture kung saan iisang application ang lahat ng features.",,monolith
 Cloze,"Ang {{c1::SOA}} ay ang service-oriented architecture na naghahati ng app sa services.",,SOA
 Cloze,"Ang {{c1::microservices}} ay ang paghahati ng app sa maliliit na independent services.",,microservices

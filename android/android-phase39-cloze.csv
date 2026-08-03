@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Doze}} ay Android feature na nag-l-limits ng background activity kapag naka-idle ang device.",,Doze
 Cloze,"Ang {{c1::background limits}} ay restrictions na nag-c-controls ng background execution.",,background limits
 Cloze,"Ang {{c1::efficient requests}} ay strategy na nag-m-minimizes ng battery drain sa network calls.",,efficient requests

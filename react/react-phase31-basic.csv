@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-setup ng Zustand store?",,"const useStore = create((set) => ({ count: 0, increment: () => set(state => ({ count: state.count + 1 })) }))"
 Application,"Paano gamitin ang Zustand store sa component?",,"const count = useStore(state => state.count); — i-select lang ang kailangan para sa performance"
 Application,"Paano mag-setup ng Redux Toolkit slice?",,"const counterSlice = createSlice({ name: 'counter', initialState, reducers: { increment: state => state + 1 } });"

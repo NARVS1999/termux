@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::controlled input}} ay ang input kung saan ang React state ang nagco-control ng value at onChange.",,controlled input
 Cloze,"Ang {{c1::uncontrolled input}} ay ang input kung saan ang DOM ang nagmamaintain ng state, na-a-access gamit ang ref.",,uncontrolled input
 Cloze,"Ang {{c1::form state}} ay ang centralized na state na naglalaman ng lahat ng input values sa form.",,form state

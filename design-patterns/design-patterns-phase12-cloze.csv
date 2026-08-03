@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Bridge}} ay isang structural pattern na naghihiwalay ng abstraction mula sa implementation.",,Bridge
 Cloze,"Ang {{c1::Bridge}} ay nagbibigay ng independence sa pagitan ng abstraction at implementation.",,Bridge
 Cloze,"Ang {{c1::abstraction}} ay ang high-level na control layer na hindi direktang nag-i-implode ng implementation.",,abstraction

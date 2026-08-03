@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Broadcasting}} ay ginagamit para magpadala ng real-time updates sa client gamit ang WebSockets.",,Broadcasting
 Cloze,"Ang {{c1::WebSockets}} ay nagbibigay ng bidirectional na real-time na komunikasyon sa pagitan ng server at client.",,WebSockets
 Cloze,"Ang {{c1::Pusher}} ay isang third-party na WebSocket service na ginagamit ng Laravel broadcasting.",,Pusher

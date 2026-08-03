@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::profiling}} ay ang pagsusuri ng performance ng code para mahanap ang mga issues.",,profiling
 Cloze,"Ang {{c1::profiler}} ay ang tool na sumusukat kung saan gumugugol ng oras ang code.",,profiler
 Cloze,"Ang {{c1::load testing}} ay ang pag-test ng system sa ilalim ng mataas na load.",,load testing

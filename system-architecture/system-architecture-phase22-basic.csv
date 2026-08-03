@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang eventual consistency?",,"ang data ay magiging consistent sa lahat ng nodes pagkatapos ng time — hindi agaran pero eventually"
 Application,"Kailan gumamit ng strong consistency?",,"kapag critical ang data correctness: banking, inventory — every read must be latest"
 Application,"Ano ang Saga pattern?",,"ang pag-split ng distributed transaction sa local transactions na may compensating actions"

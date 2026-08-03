@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::lint}} ay static analysis tool na nag-d-detect ng code smells at bugs sa Android.",,lint
 Cloze,"Ang {{c1::detekt}} ay Kotlin static analysis tool na nag-m-measures ng code quality.",,detekt
 Cloze,"Sa Android, ang {{c1::ktlint}} ay formatter na nag-e-enforces ng Kotlin coding conventions.",,ktlint

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::CSS Modules}} ay isang styling approach na nag-a-automate ng scoped class names para maiwasan ang style conflicts.",,CSS Modules
 Cloze,"Ang {{c1::.module.css}} file extension ay ang naming convention para sa CSS Modules sa React.",,.module.css
 Cloze,"Ang {{c1::styles object}} sa CSS Modules ay ang imported na CSS file na naglalaman ng lahat ng class names.",,styles object

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-save ng changes sa Git?",,"Gumamit ng git add . tapos git commit -m 'message'"
 Application,"Paano gumawa ng bagong branch?",,"Gamitin ang command: git checkout -b feature-name."
 Application,"Paano i-upload ang local changes sa remote?",,"Gamitin ang command: git push origin main."

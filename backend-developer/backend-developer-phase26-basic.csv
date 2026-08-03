@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-cache ang database query results?",,"Gamitin ang cache-aside: i-check ang cache, kung miss i-query ang DB at i-store sa cache."
 Application,"Paano i-ensure na laging consistent ang cache at database?",,"Gamitin ang write-through strategy na sabay nagsusulat sa dalawa."
 Application,"Paano maiwasan ang cache stampede?",,"Gamitin ang lock sa cache refresh o i-stagger ang expiration ng keys."

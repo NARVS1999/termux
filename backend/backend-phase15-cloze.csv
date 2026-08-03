@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::window functions}} ay nagco-compute ng value batay sa isang set ng rows nang hindi nag-grupo sa iisang row.",,window functions
 Cloze,"Ang {{c1::ROW_NUMBER()}} ay isang window function na nag-a-assign ng sequential number kada row sa isang partition.",,ROW_NUMBER()
 Cloze,"Ang {{c1::RANK()}} ay nagbibigay ng position ng bawat row, na may parehong rank para sa magkaparehong values.",,RANK()

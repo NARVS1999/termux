@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::trie}} ay tree-like data structure na nag-i-store ng strings char by char.",,trie
 Cloze,"Ang {{c1::prefix}} ay common substring na nagsisimula sa simula ng words.",,prefix
 Cloze,"Ang {{c1::autocomplete}} ay feature na nag-s-suggest ng words base sa partial input.",,autocomplete

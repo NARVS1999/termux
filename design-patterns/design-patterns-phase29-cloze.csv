@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::MVVM}} o Model-View-ViewModel ay ang architectural pattern na may data binding sa pagitan ng view at ViewModel.",,MVVM
 Cloze,"Ang {{c1::ViewModel}} ay ang object na nagpo-prepare ng data para sa view at nagha-handle ng commands.",,ViewModel
 Cloze,"Ang {{c1::data binding}} ay ang automatic na pag-sync ng view at ViewModel data.",,data binding

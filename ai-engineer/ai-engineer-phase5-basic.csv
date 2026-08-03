@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-add ng AI chatbot sa web app?",,"Mag-integrate ng LLM API sa chat interface."
 Application,"Paano gumamit ng AI sa backend?",,"Gumawa ng API endpoint na nag-call sa model service."
 Application,"Paano mag-implement ng recommendation system?",,"Gumamit ng embeddings at similarity search."

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::instruction}} ay ang bahagi ng prompt na nagsasabi sa model kung ano ang gagawin.",,instruction
 Cloze,"Ang {{c1::input format}} ay kung paano naka-istruktura ang data na ibibigay sa model.",,input format
 Cloze,"Ang {{c1::system prompt}} ay ang pangunahing instruction na nagse-set ng behavior ng model sa buong session.",,system prompt

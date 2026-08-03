@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::SharedPreferences}} ay Android API na nag-i-store ng simple key-value pairs na persistent.",,SharedPreferences
 Cloze,"Ang {{c1::DataStore}} ay modern replacement sa SharedPreferences na may type-safe at async support.",,DataStore
 Cloze,"Sa Android, ang {{c1::preferencesDataStore}} delegate ay ginagamit para mag-create ng DataStore instance.",,preferencesDataStore

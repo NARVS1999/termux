@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Kubernetes}} (K8s) ay ang container orchestration platform para sa automated deployment at scaling.",,Kubernetes
 Cloze,"Ang {{c1::pod}} ay ang smallest deployable unit sa Kubernetes — naglalaman ng one or more containers.",,pod
 Cloze,"Ang {{c1::service}} sa K8s ay ang abstraction na nagbibigay ng stable network access sa pods.",,service

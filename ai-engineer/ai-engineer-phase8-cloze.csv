@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::OpenAI}} ay nagpo-provide ng mga models tulad ng GPT at o-series para sa text generation at reasoning.",,OpenAI
 Cloze,"Ang {{c1::GPT}} (Generative Pre-trained Transformer) ay ang serye ng models ng OpenAI para sa text generation.",,GPT
 Cloze,"Ang {{c1::o-series}} ay ang reasoning-focused models ng OpenAI.",,o-series

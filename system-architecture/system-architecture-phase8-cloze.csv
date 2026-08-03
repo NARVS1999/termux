@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::serverless}} ay ang cloud computing model kung saan ang cloud provider ang nagmo-manage ng infrastructure.",,serverless
 Cloze,"Ang {{c1::FaaS}} o Functions-as-a-Service ay ang serverless model na nag-e-execute ng code sa response sa events.",,FaaS
 Cloze,"Ang {{c1::cold start}} ay ang delay kapag nag-invoke ng serverless function na matagal nang hindi nagagamit.",,cold start

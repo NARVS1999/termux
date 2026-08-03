@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::queue}} ay FIFO data structure na nag-i-store ng elements sa first-in, first-out order.",,queue
 Cloze,"Ang {{c1::deque}} ay double-ended queue na nag-a-add at nag-a-remove sa both ends.",,deque
 Cloze,"Ang {{c1::enqueue}} ay operation na nag-a-add ng element sa likod ng queue.",,enqueue

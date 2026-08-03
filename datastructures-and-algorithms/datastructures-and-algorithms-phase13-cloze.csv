@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::list reversal}} ay operation na nag-p-palit ng direction ng linked list.",,list reversal
 Cloze,"Ang {{c1::merging}} ay process ng pag-c-combine ng dalawang sorted linked lists.",,merging
 Cloze,"Ang {{c1::kth from end}} ay pag-f-find ng nth node mula sa huling position.",,kth from end

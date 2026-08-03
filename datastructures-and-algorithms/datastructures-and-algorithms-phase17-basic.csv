@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-create ng min heap?","Gamitin ang PriorityQueue na may natural ordering.","val minHeap = PriorityQueue<Int>()"
 Application,"Paano mag-create ng max heap?","Gamitin ang reverseOrder comparator.","val maxHeap = PriorityQueue<Int>(Comparator.reverseOrder())"
 Application,"Paano mag-find ng kth largest?","Gamitin ang min heap na may size k.","val heap = PriorityQueue<Int>(); for num in arr { heap.add(num); if (heap.size > k) heap.poll() }"

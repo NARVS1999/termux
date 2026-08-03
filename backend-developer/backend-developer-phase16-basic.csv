@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano pumili sa pagitan ng SQL at NoSQL?",,"Gamitin ang SQL para sa structured data at relations; NoSQL para sa flexible at high-scale data."
 Application,"Paano i-store ang data na may varying structure?",,"Gamitin ang document database tulad ng MongoDB na walang fixed schema."
 Application,"Paano mag-save ng user session na mabilis i-access?",,"Gamitin ang key-value store tulad ng Redis na in-memory."

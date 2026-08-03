@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-build ng App Bundle?","Gamitin ang Build > Build Bundle(s) / APK(s) > Build Bundle(s).","Build > Build Bundle(s) / APK(s) > Build Bundle(s)"
 Application,"Paano mag-test ng App Bundle locally?","Gamitin ang bundletool command.","bundletool install-apks --apks=output.apks"
 Application,"Paano mag-set ng asset delivery?","I-add ang dynamic features sa build.gradle.","implementation ':dynamic-feature'"

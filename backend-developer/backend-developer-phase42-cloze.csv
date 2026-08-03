@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Elasticsearch}} ay ang distributed search at analytics engine.",,Elasticsearch
 Cloze,"Ang {{c1::index}} ay ang collection ng documents sa Elasticsearch.",,index
 Cloze,"Ang {{c1::document}} ay ang unit ng data na ini-store sa Elasticsearch.",,document

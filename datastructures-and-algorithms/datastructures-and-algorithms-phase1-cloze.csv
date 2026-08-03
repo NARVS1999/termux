@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Big-O notation}} ay mathematical notation na nag-r-represent ng upper bound ng algorithm's growth rate.",,Big-O notation
 Cloze,"Ang {{c1::O(1)}} ay constant time complexity na hindi nag-change kahit lumaki ang input.",,O(1)
 Cloze,"Ang {{c1::O(n)}} ay linear time complexity na nag-i-increase proportionally sa input size.",,O(n)

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::React Testing Library}} ay ang testing utility na nagfo-focus sa testing ng user behavior, hindi ang implementation.",,React Testing Library
 Cloze,"Ang {{c1::render}} function ay ang RTL method na nagre-render ng component para sa testing.",,render
 Cloze,"Ang {{c1::screen}} object ay nagbibigay ng access sa lahat ng rendered elements: screen.getByText(), screen.queryByRole().",,screen

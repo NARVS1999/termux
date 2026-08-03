@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::min-stack}} ay stack na nag-b-balik ng minimum element sa O(1) time.",,min-stack
 Cloze,"Ang {{c1::two-stack queue}} ay queue implementation na gumagamit ng dalawang stacks.",,two-stack queue
 Cloze,"Ang {{c1::stack with min}} ay data structure na nag-m-maintains ng min habang nag-p-push/pop.",,stack with min

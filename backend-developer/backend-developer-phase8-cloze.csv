@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::concurrency}} ay ang kakayahan ng program na humawak ng maraming tasks nang sabay-sabay.",,concurrency
 Cloze,"Ang {{c1::async/await}} ay ang syntax pattern para mag-handle ng asynchronous operations.",,async/await
 Cloze,"Ang {{c1::memory management}} ay ang proseso ng pag-allocate at pag-release ng memory.",,memory management

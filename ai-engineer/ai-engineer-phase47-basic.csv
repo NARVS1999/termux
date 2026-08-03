@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-set up ng Langfuse?",,"I-install ang langfuse package at i-configure ang public at secret keys."
 Application,"Paano mag-track ng LLM calls sa LangSmith?",,"I-enable ang tracing sa LangChain gamit ang LangSmith integration."
 Application,"Paano gumamit ng Helicone?",,"I-set ang base_url ng OpenAI client sa Helicone proxy."

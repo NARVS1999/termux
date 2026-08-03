@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Play Console}} ay web-based platform para sa pag-m-manage ng app distribution.",,Play Console
 Cloze,"Sa Play Console, ang {{c1::tracks}} ay categories para sa releasing: internal, closed, open, production.",,tracks
 Cloze,"Ang {{c1::testing channels}} ay ways para mag-test ng app bago i-release sa production.",,testing channels

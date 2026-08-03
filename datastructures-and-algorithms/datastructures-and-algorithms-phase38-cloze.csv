@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::quickselect}} ay selection algorithm na average O(n) para mag-find ng k-th element.",,quickselect
 Cloze,"Ang {{c1::median}} ay middle element sa sorted array.",,median
 Cloze,"Ang {{c1::k-th smallest}} ay element na naka-rank sa k-th position.",,k-th smallest

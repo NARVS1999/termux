@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Bakit gumamit ng thread pool?",,"para i-reuse ang threads sa halip na mag-create/destroy sa bawat task — mas mabilis at efficient"
 Application,"Paano i-set ang pool size?",,"CPU-bound: number of cores + 1. I/O-bound: 2x number of cores. I-profile para sa tamang size."
 Application,"Ano ang task queue?",,"ang queue na nagse-store ng pending tasks — ang workers ay nagko-consume mula dito"

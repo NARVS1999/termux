@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-implement ang Identity Map?",,"i-cache ang loaded objects by ID: map.put(id, object) — i-check muna bago mag-load mula sa DB"
 Application,"Kailan gumamit ng Identity Map?",,"kapag maraming objects na nag-re-refer sa parehong entity — maiwasan ang duplicate instances"
 Application,"Ano ang benefit ng Identity Map?",,"consistency sa loob ng transaction — ang same object ang nire-refer ng lahat"

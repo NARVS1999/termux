@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Suspense}} component ay nagbibigay ng fallback UI habang naglo-load ang children.",,Suspense
 Cloze,"Ang {{c1::React.startTransition}} ay ang function na nagme-mark ng update bilang non-urgent para sa better UX.",,React.startTransition
 Cloze,"Ang {{c1::useTransition}} hook ay nagbibigay ng isPending boolean at startTransition function.",,useTransition

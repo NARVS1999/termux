@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gamitin ang Suspense sa React?",,"<Suspense fallback={<Loading />}><LazyComponent /></Suspense> — i-wrap ang component na naglo-load"
 Application,"Paano i-optimize ang search input gamit ang useDeferredValue?",,"const deferredQuery = useDeferredValue(query); — ang actual rendering ay nagde-defer habang nagta-type"
 Application,"Paano i-mark ang update bilang transition?",,"startTransition(() => { setResults(computeResults(query)); }); — gawing non-urgent ang expensive update"

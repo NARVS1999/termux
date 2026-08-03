@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Identity Map}} ay ang enterprise pattern na nag-i-insure na ang bawat object ay may iisang instance sa memory.",,Identity Map
 Cloze,"Ang {{c1::identity map cache}} ay ang storage na nagse-store ng loaded objects by ID.",,identity map cache
 Cloze,"Ang {{c1::duplicate prevention}} ay ang benefit ng Identity Map — walang duplicate instances.",,duplicate prevention

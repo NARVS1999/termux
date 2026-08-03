@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Bakit structured logging?",,"mas madaling i-parse, i-search, at i-analyze ang JSON logs kaysa sa plain text logs"
 Application,"Paano mag-setup ng ELK stack?",,"i-deploy ang Elasticsearch, Logstash (pag-collect), Kibana (visualization) — o gumamit ng managed service"
 Application,"Ano ang correlation ID?",,"isang unique ID na idinadagdag sa lahat ng logs ng isang request — para masubaybahan ang flow"

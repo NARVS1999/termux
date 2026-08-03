@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::props}} ay ang data na ipinapasa mula sa parent component papunta sa child component.",,props
 Cloze,"Ang {{c1::prop drilling}} ay ang proseso ng pagpapasa ng props sa maraming levels ng components.",,prop drilling
 Cloze,"Ang {{c1::children}} prop ay ang special prop na naglalaman ng lahat ng elements na nasa loob ng component tags.",,children

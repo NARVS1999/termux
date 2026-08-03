@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng audit table?",,"CREATE TABLE user_audit (id INT, user_id INT, action VARCHAR, old_data JSON, new_data JSON, created_at TIMESTAMP);"
 Application,"Paano i-implement ang soft delete?",,"i-add ang deleted_at TIMESTAMP NULL, i-update sa halip na i-DELETE: UPDATE users SET deleted_at = NOW() WHERE id = 1;"
 Application,"Paano mag-query ng non-deleted records?",,"SELECT * FROM users WHERE deleted_at IS NULL; — i-filter ang soft-deleted rows"

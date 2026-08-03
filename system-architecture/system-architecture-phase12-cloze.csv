@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::CAP theorem}} ay ang theorem na nagsasabing ang distributed system ay pwedeng magkaroon lang ng 2 sa 3: Consistency, Availability, Partition Tolerance.",,CAP theorem
 Cloze,"Ang {{c1::consistency}} sa CAP ay ang lahat ng nodes ay may parehong data sa parehong oras.",,consistency
 Cloze,"Ang {{c1::availability}} sa CAP ay ang lahat ng requests ay may response (hindi nag-fail).",,availability

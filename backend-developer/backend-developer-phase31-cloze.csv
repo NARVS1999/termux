@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::hardening}} ay ang proseso ng pag-secure ng server configuration.",,hardening
 Cloze,"Ang {{c1::secrets management}} ay ang secure na pag-iimbak ng API keys at credentials.",,secrets management
 Cloze,"Ang {{c1::CSP}} ay ang Content Security Policy na pumipigil sa XSS attacks.",,CSP

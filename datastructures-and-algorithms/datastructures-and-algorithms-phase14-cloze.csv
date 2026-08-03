@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::stack}} ay LIFO data structure na nag-i-store ng elements sa last-in, first-out order.",,stack
 Cloze,"Ang {{c1::push}} operation ay nag-a-add ng element sa tuktok ng stack.",,push
 Cloze,"Ang {{c1::pop}} operation ay nag-a-remove ng element mula sa tuktok ng stack.",,pop

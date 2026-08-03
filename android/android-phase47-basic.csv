@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-setup ng Crashlytics?","I-add ang Firebase dependency at i-initialize.","FirebaseCrashlytics.getInstance().recordException(exception)"
 Application,"Paano mag-log ng non-fatal exception?","Gamitin ang recordException method.","FirebaseCrashlytics.getInstance().recordException(exception)"
 Application,"Paano mag-set ng custom key?","Gamitin ang setCustomKey method.","FirebaseCrashlytics.getInstance().setCustomKey(\"user_id\", userId)"

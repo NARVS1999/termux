@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::LangChain}} ay may support para sa multimodal LLMs sa pamamagitan ng multi-modal messages.",,LangChain
 Cloze,"Ang {{c1::LlamaIndex}} ay sumusuporta sa multimodal data para sa retrieval at Q&A.",,LlamaIndex
 Cloze,"Ang {{c1::Hugging Face models}} ay may maraming multimodal models na open source.",,Hugging Face models

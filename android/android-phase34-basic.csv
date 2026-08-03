@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-write ng Espresso test?","Gamitin ang onView at ViewMatchers.","onView(withId(R.id.button)).perform(click())"
 Application,"Paano mag-verify ng text sa view?","Gamitin ang ViewAssertions.","onView(withId(R.id.text)).check(matches(withText(\"Expected\")))"
 Application,"Paano mag-wait sa async operation?","I-register ang IdlingResource sa Espresso.","Espresso.registerIdlingResources(countingIdlingResource)"

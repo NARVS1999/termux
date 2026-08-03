@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::normalization}} ay ang proseso ng pag-eliminate ng data redundancy sa database.",,normalization
 Cloze,"Ang {{c1::data modeling}} ay ang pag-design ng structure ng database bago ito i-build.",,data modeling
 Cloze,"Ang {{c1::entity}} ay ang object o concept na nire-represent sa database.",,entity

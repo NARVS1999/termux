@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::closed models}} ay mga proprietary models na ina-access lang sa pamamagitan ng paid APIs.",,closed models
 Cloze,"Ang {{c1::open source models}} ay mga models na pwedeng i-download at patakbuhin sa sariling infra.",,open source models
 Cloze,"Ang {{c1::self-hosted models}} ay mga models na naka-deploy sa sariling servers para sa full control.",,self-hosted models

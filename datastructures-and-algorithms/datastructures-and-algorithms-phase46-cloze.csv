@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::backtracking}} ay algorithm na nag-e-explore ng lahat ng possibilities at nag-b-backtrack.",,backtracking
 Cloze,"Ang {{c1::permutation}} ay arrangement ng elements sa lahat ng possible orders.",,permutation
 Cloze,"Ang {{c1::combination}} ay selection ng elements nang walang specific order.",,combination

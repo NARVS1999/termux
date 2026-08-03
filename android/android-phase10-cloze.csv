@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::RecyclerView}} ay efficient ViewGroup na nag-d display ng scrollable list of items.",,RecyclerView
 Cloze,"Ang {{c1::adapter}} ay component na nag-b-bridge sa data at RecyclerView para mag-render ng items.",,adapter
 Cloze,"Ang {{c1::ViewHolder}} ay object na nag-h-holds ng views para sa bawat item sa list para sa recycling.",,ViewHolder

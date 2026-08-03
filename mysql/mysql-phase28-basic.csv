@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-start ng transaction?",,"BEGIN; — o START TRANSACTION; para mag-start ng bagong transaction"
 Application,"Paano mag-commit ng transaction?",,"COMMIT; — i-save ang lahat ng changes mula sa BEGIN"
 Application,"Paano mag-rollback ng transaction?",,"ROLLBACK; — i-cancel ang lahat ng changes mula sa BEGIN"

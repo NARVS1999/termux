@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Gradle}} ay build system na ginagamit sa Android para mag-manage ng dependencies at build process.",,Gradle
 Cloze,"Ang {{c1::AndroidManifest.xml}} ay file na nag-d declare ng components, permissions, at app configuration.",,AndroidManifest.xml
 Cloze,"Ang {{c1::minSdkVersion}} ay minimum na Android version na kailangan para ma-run ang app.",,minSdkVersion

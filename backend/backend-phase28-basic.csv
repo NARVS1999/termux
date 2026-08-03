@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-log ng error sa Laravel?",,"Gamitin ang Log::error('message', ['context' => $data]) para mag-log ng error with context"
 Application,"Paano mag-validate ng user input sa Laravel controller?",,"Gumamit ng $request->validate(['field' => 'required|email']) o i-create ang FormRequest class"
 Application,"Paano mag-setup ng error tracking sa Laravel?",,"i-install ang Sentry Laravel package, i-configure ang DSN sa .env, at i-throw ang exceptions normally"

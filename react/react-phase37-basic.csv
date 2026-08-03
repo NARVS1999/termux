@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano i-lazy load ang React component?",,"const LazyDashboard = React.lazy(() => import('./Dashboard')); <Suspense fallback={<Spinner />}><LazyDashboard /></Suspense>"
 Application,"Paano mag-setup ng route-based code splitting?",,"<Route path='/dashboard' element={<Suspense fallback={<Spinner />}><LazyDashboard /></Suspense>} />"
 Application,"Paano i-handle ang loading state ng lazy component?",,"<Suspense fallback={<Loading />}> — ang fallback ay maire-render habang naglo-load ang chunk"

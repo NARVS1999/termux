@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Sa Kotlin, ang {{c1::val}} ay ginagamit para sa immutable na variable na hindi na mababago pagkatapos i-assign.",,val
 Cloze,"Sa Kotlin, ang {{c1::var}} ay ginagamit para sa mutable na variable na pwedeng baguhin ang value.",,var
 Cloze,"Ang {{c1::String}} ay isang data type sa Kotlin na nagre-represent ng text o characters.",,String

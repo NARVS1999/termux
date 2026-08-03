@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::protected route}} ay ang route na nagche-check ng authentication bago i-render ang component.",,protected route
 Cloze,"Ang {{c1::auth guard}} ay ang pattern ng pag-wrap ng route sa component na nagve-verify ng auth status.",,auth guard
 Cloze,"Ang {{c1::redirect}} sa React Router ay ang pag-punta sa ibang route kapag hindi pasado ang condition.",,redirect

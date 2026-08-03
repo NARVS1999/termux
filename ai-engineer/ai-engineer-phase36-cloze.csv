@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::AI agent}} ay isang system na gumagamit ng LLM para mag-decide at mag-execute ng actions.",,AI agent
 Cloze,"Ang mga {{c1::use cases}} ng AI agents ay kasama ang customer support, data analysis, at automation.",,use cases
 Cloze,"Ang {{c1::agent workflow}} ay ang proseso kung paano nag-iisip, kumikilos, at nag-aadjust ang agent.",,agent workflow

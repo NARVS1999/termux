@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Ano ang alert fatigue?",,"kapag sobra ang alerts, ang team ay nagsisimulang mag-ignore — piliin lang ang critical alerts"
 Application,"Paano mag-setup ng escalation policy?",,"i-define ang levels: L1 (on-call), L2 (team lead), L3 (manager) — i-auto-escalate"
 Application,"Ano ang incident response?",,"structured na proseso: detect → triage → mitigate → resolve — laging may post-mortem"

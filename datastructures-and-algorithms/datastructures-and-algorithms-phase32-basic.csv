@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-detect ng cycle sa undirected graph?","Gamitin ang DFS na may parent tracking.","dfs(node, parent): for neighbor in adj[node]: if neighbor != parent && visited: cycle found"
 Application,"Paano mag-detect ng cycle sa directed graph?","Gamitin ang DFS na may recursion stack.","dfs(node): onStack[node] = true; for neighbor: if onStack[neighbor] cycle found"
 Application,"Paano mag-compute ng in-degree?","I-count ang incoming edges para sa bawat node.","for edge in edges: inDegree[edge.to]++"

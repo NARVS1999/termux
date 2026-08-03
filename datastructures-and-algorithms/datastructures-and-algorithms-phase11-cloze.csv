@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::doubly linked list}} ay linked list na may prev at next pointers sa bawat node.",,doubly linked list
 Cloze,"Ang {{c1::prev pointer}} ay reference sa previous node sa doubly linked list.",,prev pointer
 Cloze,"Ang {{c1::next pointer}} ay reference sa next node sa linked list.",,next pointer

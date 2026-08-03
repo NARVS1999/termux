@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Bakit kailangan ng distributed tracing?",,"para masubaybahan ang request sa maraming services — alamin kung saan mabagal o nag-fail"
 Application,"Ano ang span?",,"ang unit of work: isang database query, isang API call — naglalaman ng timing at metadata"
 Application,"Paano mag-setup ng OpenTelemetry?",,"i-install ang SDK, i-instrument ang code, i-export traces sa Jaeger o Zipkin"

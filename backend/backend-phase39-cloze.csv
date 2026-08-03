@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::Docker}} ay isang container platform na nagpa-package ng application at ang mga dependencies nito sa iisolated na containers.",,Docker
 Cloze,"Ang {{c1::container}} ay isang lightweight, standalone na executable package na naglalaman ng lahat para mag-run ang application.",,container
 Cloze,"Ang {{c1::Dockerfile}} ay ang file na naglalaman ng instructions para mag-build ng Docker image.",,Dockerfile

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::strings.xml}} ay resource file na nag-i-store ng text values para sa localization at easy editing.",,strings.xml
 Cloze,"Ang {{c1::drawables}} ay resource directory na nag-h-holds ng images, icons, at XML-based graphics.",,drawables
 Cloze,"Sa Android, ang {{c1::themes}} ay style na nag-a-apply ng colors, typography, at spacing sa buong app.",,themes

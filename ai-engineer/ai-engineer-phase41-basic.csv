@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano gumawa ng multi-agent system?",,"Mag-define ng mga specialized agents at i-configure ang orchestration pattern."
 Application,"Paano mag-handoff ng task sa ibang agent?",,"Gamitin ang handoff tool o mechanism ng framework."
 Application,"Paano mag-run ng agents nang sunod-sunod?",,"I-chain ang output ng isang agent bilang input ng susunod."

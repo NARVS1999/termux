@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::GitHub Copilot}} ay ang AI pair programmer na naka-integrate sa editor.",,GitHub Copilot
 Cloze,"Ang {{c1::Claude Code}} ay ang AI coding agent ng Anthropic para sa terminal.",,Claude Code
 Cloze,"Ang {{c1::Cursor}} ay ang AI-powered code editor na may built-in na AI features.",,Cursor

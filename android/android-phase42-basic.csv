@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Application,"Paano mag-request ng permission?","Gamitin ang ActivityResultContracts.","registerForActivityResult(RequestPermission()) { granted -> }"
 Application,"Paano mag-check ng granted permission?","Gamitin ang checkSelfPermission.","ContextCompat.checkSelfPermission(ctx, Manifest.permission.CAMERA)"
 Application,"Paano mag-show ng rationale?","Gamitin ang shouldShowRequestPermissionRationale.","if (shouldShowRationale) showExplanationDialog()"

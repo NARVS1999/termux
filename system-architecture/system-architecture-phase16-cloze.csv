@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::idempotency}} ay ang property na angpaulit-ulit na operations ay may parehong result.",,idempotency
 Cloze,"Ang {{c1::idempotent operation}} ay ang operation na pwedeng i-run nang maraming beses na may parehong effect.",,idempotent operation
 Cloze,"Ang {{c1::deduplication}} ay ang proseso ng pagtanggal ng duplicate requests o data.",,deduplication

@@ -1,4 +1,3 @@
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::WorkManager}} ay Jetpack library na nag-g-guarantee ng background task execution.",,WorkManager
 Cloze,"Ang {{c1::Worker}} ay class na nag-i-implement ng background task logic sa WorkManager.",,Worker
 Cloze,"Sa WorkManager, ang {{c1::constraints}} ay conditions na kailangan i-meet bago mag-execute ang task.",,constraints
