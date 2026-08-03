@@ -53,10 +53,10 @@
 
 ## APIs & Integration
 
-- [ ] **Phase 32** — REST APIs: resources, responses, status codes
-- [ ] **Phase 33** — JSON handling: encoding, decoding, validation
-- [ ] **Phase 34** — API auth: Sanctum, Passport, tokens, OAuth basics
-- [ ] **Phase 35** — Third-party integrations: HTTP clients, webhooks, retries
+- [x] **Phase 32** — REST APIs: resources, responses, status codes
+- [x] **Phase 33** — JSON handling: encoding, decoding, validation
+- [x] **Phase 34** — API auth: Sanctum, Passport, tokens, OAuth basics
+- [x] **Phase 35** — Third-party integrations: HTTP clients, webhooks, retries
 
 ## Testing
 
