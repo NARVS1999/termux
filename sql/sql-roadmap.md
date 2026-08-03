@@ -54,11 +54,11 @@
 
 ## Database Design
 
-- [ ] **Phase 33** — Data modeling: entities, attributes, relationships
-- [ ] **Phase 34** — ERD: diagrams, cardinality, crow's foot notation
-- [ ] **Phase 35** — Keys & constraints: primary, foreign, unique, check, defaults
-- [ ] **Phase 36** — Normalization forms: 1NF-3NF, BCNF, practical balance
-- [ ] **Phase 37** — Schema migrations: versioning, rollback, data backfills
+- [x] **Phase 33** — Data modeling: entities, attributes, relationships
+- [x] **Phase 34** — ERD: diagrams, cardinality, crow's foot notation
+- [x] **Phase 35** — Keys & constraints: primary, foreign, unique, check, defaults
+- [x] **Phase 36** — Normalization forms: 1NF-3NF, BCNF, practical balance
+- [x] **Phase 37** — Schema migrations: versioning, rollback, data backfills
 
 ## Concurrency & Transactions
 
