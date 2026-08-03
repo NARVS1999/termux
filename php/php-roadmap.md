@@ -74,10 +74,10 @@
 
 ## Performance & Deployment
 
-- [ ] **Phase 44** — Opcache & caching: opcode, cache drivers, invalidation
-- [ ] **Phase 45** — Caching patterns: query, view, full-page caching
-- [ ] **Phase 46** — Queues & jobs: drivers, workers, scheduling
-- [ ] **Phase 47** — Deployment: platforms, CI/CD, health checks, monitoring
+- [x] **Phase 44** — Opcache & caching: opcode, cache drivers, invalidation
+- [x] **Phase 45** — Caching patterns: query, view, full-page caching
+- [x] **Phase 46** — Queues & jobs: drivers, workers, scheduling
+- [x] **Phase 47** — Deployment: platforms, CI/CD, health checks, monitoring
 
 ## Recommended Learning Path (priority order)
 
