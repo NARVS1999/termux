@@ -18,7 +18,7 @@ Current state: all 5 topics complete (react, backend, mysql, design-patterns, sy
 
 ## Card format (verified against existing CSVs)
 
-Header is always `Type,Front,Hint,Back`, Hint column always empty:
+No header row — CSVs start directly with the first card row. Hint column is always empty:
 
 - Cloze: `Cloze,"Ang {{c1::keyword}} ay {Taglish explanation}.",,keyword` — sentences start with `Ang`/`Sa`; Back repeats the cloze keyword.
 - Basic: `Application,"Paano {verb} {object}?",,"{one-line answer}"` — one line of code or one short Taglish sentence, never multi-step.
@@ -34,7 +34,7 @@ Direct commits to `main`, push to `origin` (`git@github.com:NARVS1999/termux.git
 
 ## Anki import gotcha
 
-Anki maps one note type per import; a `Type` column can't be mapped. Keep cloze and basic as separate files (already the repo convention); tell the user to import each CSV separately.
+Anki maps one note type per import; a `Type` column can't be mapped. Keep cloze and basic as separate files (already the repo convention); tell the user to import each CSV separately and tick "File has no headers" in the import dialog.
 
 ## Process rules
 

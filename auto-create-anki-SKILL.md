@@ -52,11 +52,11 @@ For each unchecked `[ ]` phase in the section:
 
 **Cloze CSV** (`{topic}-phase{N}-cloze.csv`):
 ```
-Type,Front,Hint,Back
 Cloze,"Ang {{c1::keyword}} ay {Taglish explanation}.",,keyword
 Cloze,"Ang {{c1::keyword2}} ay {Taglish explanation}.",,keyword2
 ...
 ```
+- **No header row** — file starts directly with the first card
 - **8–11 cards** per phase
 - Cover all keywords/concepts from the phase description
 - Use `{{c1::keyword}}` cloze syntax
@@ -66,11 +66,11 @@ Cloze,"Ang {{c1::keyword2}} ay {Taglish explanation}.",,keyword2
 
 **Basic CSV** (`{topic}-phase{N}-basic.csv`):
 ```
-Type,Front,Hint,Back
 Application,"Paano {verb} {object}?",,"{one-line answer}"
 Application,"Paano {verb} {object}?",,"{one-line answer}"
 ...
 ```
+- **No header row** — file starts directly with the first card
 - **5 cards** per phase
 - Questions start with `Paano`
 - Answers are single line of code or brief Taglish explanation

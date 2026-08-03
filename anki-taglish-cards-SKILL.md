@@ -45,12 +45,11 @@ Present cards grouped under two headers: `FOUNDATIONAL (Cloze)` and `APPLICATION
 
 ## CSV Export (if requested)
 
-If the user wants a file for Anki import, use Basic (and reversed card) note types are not needed — use two separate CSVs or a single CSV with a "Type" column:
+If the user wants a file for Anki import, use Basic (and reversed card) note types are not needed — use two separate CSVs or a single CSV with a "Type" column. **No header row** — the file starts directly with the first card row:
 
 ```
-Type,Front,Hint,Back
 Cloze,"Sa PHP, ang {{c1::for}} loop ay ginagamit kapag alam mo na kung ilang beses uulitin ang code.",,for
 Application,"Paano gagawa ng loop na mag-print ng numbers 1 to 5?","Gamitin ang for loop na may starting value, condition, at increment.","for ($i = 1; $i <= 5; $i++) { echo $i; }"
 ```
 
-Save as `.csv` to `/mnt/user-data/outputs/`, then use `present_files`. Note for the user that in Anki's import dialog they should map the "Type" column manually is not supported natively — recommend splitting into two separate CSVs (one per note type: Cloze, Basic) if they plan to import directly, since Anki import maps one note type per file.
+Save as `.csv` to `/mnt/user-data/outputs/`, then use `present_files`. Note for the user that in Anki's import dialog they must tick **"File has no headers"** and map the fields manually (since the "Type" column can't be mapped natively, splitting into two separate CSVs — one per note type: Cloze, Basic — is recommended).
