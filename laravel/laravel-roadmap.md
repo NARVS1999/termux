@@ -45,11 +45,11 @@
 
 ## Auth & Security
 
-- [ ] **Phase 27** — Authentication: scaffolding, guards, login flows
-- [ ] **Phase 28** — Authorization: gates, policies, abilities
-- [ ] **Phase 29** — Security best practices: XSS, CSRF, injection, headers
-- [ ] **Phase 30** — Validation: rules, custom rules, form requests
-- [ ] **Phase 31** — Rate limiting: throttling, quotas, limits
+- [x] **Phase 27** — Authentication: scaffolding, guards, login flows
+- [x] **Phase 28** — Authorization: gates, policies, abilities
+- [x] **Phase 29** — Security best practices: XSS, CSRF, injection, headers
+- [x] **Phase 30** — Validation: rules, custom rules, form requests
+- [x] **Phase 31** — Rate limiting: throttling, quotas, limits
 
 ## APIs
 
