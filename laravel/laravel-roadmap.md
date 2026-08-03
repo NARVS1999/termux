@@ -53,10 +53,10 @@
 
 ## APIs
 
-- [ ] **Phase 32** — API resources: transformations, collections
-- [ ] **Phase 33** — Sanctum: token auth, SPA auth, scopes
-- [ ] **Phase 34** — API testing: HTTP tests, assertions, pagination
-- [ ] **Phase 35** — Versioning & documentation: v1/v2, docs, changes
+- [x] **Phase 32** — API resources: transformations, collections
+- [x] **Phase 33** — Sanctum: token auth, SPA auth, scopes
+- [x] **Phase 34** — API testing: HTTP tests, assertions, pagination
+- [x] **Phase 35** — Versioning & documentation: v1/v2, docs, changes
 
 ## Testing
 
