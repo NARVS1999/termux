@@ -1,0 +1,50 @@
+Cloze,"Ang {{c1::component}} ay reusable na building block ng UI na tumatanggap ng props at nagre-return ng JSX.",,component
+Cloze,"Ang {{c1::useState}} ay hook na nagmamaintain ng state sa loob ng function component.",,useState
+Cloze,"Ang {{c1::useEffect}} ay hook na nagrur-run ng side effects pagkatapos mag-render.",,useEffect
+Cloze,"Ang {{c1::TypeScript}} ay nagdadagdag ng static types sa JavaScript para sa safety.",,TypeScript
+Cloze,"Ang {{c1::async/await}} ay syntax para sa pag-handle ng promises nang mas malinis na code.",,async/await
+Cloze,"Ang {{c1::HTTP request}} ay client-server communication kung saan ang server ay nagre-return ng response.",,HTTP request
+Cloze,"Ang {{c1::App Router}} ay ang bagong routing system ng Next.js na gumagamit ng app directory.",,App Router
+Cloze,"Ang {{c1::SSR}} ay nagre-render ng page sa server kada request para sa dynamic na content.",,SSR
+Cloze,"Ang {{c1::SSG}} ay nag-pre-render ng page sa build time para sa mabilis na loading.",,SSG
+Cloze,"Ang {{c1::create-next-app}} ay CLI command na nagse-setup ng bagong Next.js project.",,create-next-app
+Cloze,"Ang {{c1::app directory}} ay ang main folder na naglalaman ng routes at layouts ng Next.js app.",,app directory
+Cloze,"Ang {{c1::metadata}} ay ginagamit para i-set ang page title at SEO tags sa Next.js.",,metadata
+Cloze,"Ang {{c1::hot reload}} ay awtomatikong nagre-refresh ng browser kapag may nai-save na changes.",,hot reload
+Cloze,"Ang {{c1::file-based routing}} ay gumagawa ng route base sa file structure ng app folder.",,file-based routing
+Cloze,"Ang {{c1::page.tsx}} ay ang file na nagdi-define ng UI ng isang route sa App Router.",,page.tsx
+Cloze,"Ang {{c1::dynamic route}} ay gumagamit ng square brackets para i-capture ang URL params.",,dynamic route
+Cloze,"Ang {{c1::generateStaticParams}} ay nagde-generate ng listahan ng static paths sa build time.",,generateStaticParams
+Cloze,"Ang {{c1::layout}} ay shared UI na pumapalibot sa mga pages at na-pre-render nang isang beses.",,layout
+Cloze,"Ang {{c1::route group}} ay nag-o-organize ng routes nang hindi nag-a-add ng segment sa URL.",,route group
+Cloze,"Ang {{c1::loading.tsx}} ay nagpapakita ng fallback UI habang naglo-load ang page.",,loading.tsx
+Cloze,"Ang {{c1::error boundary}} ay kumukuhang error sa rendering para hindi ma-crash ang buong page.",,error boundary
+Cloze,"Ang {{c1::Link}} component ay ginagamit para sa client-side navigation sa pagitan ng pages.",,Link
+Cloze,"Ang {{c1::prefetching}} ay naglo-load ng linked page nang maaga para sa instant navigation.",,prefetching
+Cloze,"Ang {{c1::Server Component}} ay nagre-render sa server at pwedeng mag-access ng database directly.",,Server Component
+Cloze,"Ang {{c1::use client}} directive ay mina-mark ang component para i-render sa client.",,use client
+Cloze,"Ang {{c1::cookies}} ay pwedeng i-access sa server para sa personalized na content.",,cookies
+Cloze,"Ang {{c1::headers}} ay nagbibigay ng request metadata na pwedeng basahin sa server component.",,headers
+Cloze,"Ang {{c1::static generation}} ay nagpo-produce ng HTML sa build time na pwedeng i-cache.",,static generation
+Cloze,"Ang {{c1::streaming}} ay nagse-send ng UI sa client nang paunti-unti habang available.",,streaming
+Cloze,"Ang {{c1::Suspense}} ay nagpapakita ng fallback habang hinihintay ang data o lazy component.",,Suspense
+Cloze,"Ang {{c1::fetch}} ay pwedeng gamitin sa server component para kumuha ng data nang asynchronous.",,fetch
+Cloze,"Ang {{c1::Server Action}} ay function na nagha-handle ng form submission sa server.",,Server Action
+Cloze,"Ang {{c1::progressive enhancement}} ay ginagawang gumagana ang form kahit walang JavaScript.",,progressive enhancement
+Cloze,"Ang {{c1::SWR}} ay React hook library para sa client-side data fetching na may cache.",,SWR
+Cloze,"Ang {{c1::TanStack Query}} ay library para sa server state management sa client.",,TanStack Query
+Cloze,"Ang {{c1::revalidation}} ay nag-a-update ng cached data nang hindi nagde-deploy ulit.",,revalidation
+Cloze,"Ang {{c1::optimistic update}} ay nagpa-preview ng result sa UI bago kumpirmahin ng server.",,optimistic update
+Cloze,"Ang {{c1::CSS Module}} ay nag-scope ng styles sa isang component para iwasan ang conflicts.",,CSS Module
+Cloze,"Ang {{c1::Tailwind CSS}} ay utility-first framework na gumagamit ng class names para mag-style.",,Tailwind CSS
+Cloze,"Ang {{c1::responsive design}} ay gumagawa ng layout na umaangkop sa iba't ibang screen sizes.",,responsive design
+Cloze,"Ang {{c1::CSS variables}} ay nag-iimbak ng reusable values para sa theming.",,CSS variables
+Cloze,"Ang {{c1::next/font}} ay awtomatikong nag-o-optimize ng fonts na walang layout shift.",,next/font
+Cloze,"Ang {{c1::next/image}} ay nag-o-optimize ng images para sa automatic resizing at caching.",,next/image
+Cloze,"Ang {{c1::pending state}} ay UI state na ipinapakita habang tumatakbo ang Server Action.",,pending state
+Cloze,"Ang {{c1::server validation}} ay nagva-validate ng form data bago i-save sa database.",,server validation
+Cloze,"Ang {{c1::field error}} ay validation message na naka-attach sa specific input field.",,field error
+Cloze,"Ang {{c1::.env.local}} ay file na naglalaman ng local environment variables.",,.env.local
+Cloze,"Ang {{c1::NEXT_PUBLIC}} prefix ay nag-e-expose ng env variable sa client code.",,NEXT_PUBLIC
+Cloze,"Ang {{c1::Vercel}} ay cloud platform na nagde-deploy ng Next.js apps na may previews.",,Vercel
+Cloze,"Ang {{c1::build process}} ay nagco-compile ng app sa production-ready na output.",,build process
