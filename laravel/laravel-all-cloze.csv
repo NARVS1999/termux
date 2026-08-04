@@ -1,0 +1,469 @@
+Cloze,"Ang {{c1::PHP tags}} ay ginagamit para mag-embed ng PHP code sa loob ng HTML gamit ang <?php ... ?>.",,PHP tags
+Cloze,"Ang {{c1::string}} ay isang PHP data type na nag-iimbak ng text na naka-enclose sa quotes.",,string
+Cloze,"Ang {{c1::array}} ay isang PHP data structure na nag-iimbak ng maraming values sa isang variable.",,array
+Cloze,"Ang {{c1::foreach}} loop ay ginagamit para mag-iterate sa bawat elemento ng isang array.",,foreach
+Cloze,"Ang {{c1::function}} ay isang reusable block ng code na tumatanggap ng parameters at nagre-return ng value.",,function
+Cloze,"Ang {{c1::variable}} ay isang named container na nag-iimbak ng data at nagsisimula sa $ sign.",,variable
+Cloze,"Ang {{c1::if-else}} statement ay nag-e-execute ng code base sa kung true o false ang condition.",,if-else
+Cloze,"Ang {{c1::return type}} ay nagde-declare kung anong type ng value ang ibabalik ng isang function.",,return type
+Cloze,"Ang {{c1::associative array}} ay gumagamit ng named keys imbes na numeric index.",,associative array
+Cloze,"Ang {{c1::operator}} ay simbolo tulad ng +, ==, at && na nag-o-operate sa mga values.",,operator
+Cloze,"Ang {{c1::class}} ay blueprint para sa paggawa ng objects na may mga properties at methods.",,class
+Cloze,"Ang {{c1::inheritance}} ay nagpapahintulot sa child class na magmana ng properties at methods mula sa parent class.",,inheritance
+Cloze,"Ang {{c1::interface}} ay nagde-declare ng method signatures na dapat i-implement ng isang class.",,interface
+Cloze,"Ang {{c1::trait}} ay nagpapahintulot ng code reuse sa multiple classes nang walang inheritance.",,trait
+Cloze,"Ang {{c1::constructor}} ay isang magic method na awtomatikong tumatakbo kapag nag-instantiate ng object.",,constructor
+Cloze,"Ang {{c1::abstract class}} ay hindi maaaring i-instantiate at maaaring maglaman ng abstract methods.",,abstract class
+Cloze,"Ang {{c1::visibility}} ay kumokontrol sa access level ng properties at methods gamit ang public, protected, at private.",,visibility
+Cloze,"Ang {{c1::polymorphism}} ay nagpapahintulot sa magkakaibang classes na i-handle ang parehong method call nang magkaiba.",,polymorphism
+Cloze,"Ang {{c1::static method}} ay tinatawag direkta sa class nang hindi nag-i-instantiate ng object.",,static method
+Cloze,"Ang {{c1::property}} ay isang variable na nabibilang sa loob ng isang class.",,property
+Cloze,"Ang {{c1::Composer}} ay ang dependency manager ng PHP na nagma-manage ng packages at autoloading.",,Composer
+Cloze,"Ang {{c1::composer.json}} ay ang configuration file na naglilista ng mga dependencies ng project.",,composer.json
+Cloze,"Ang {{c1::composer.lock}} ay nagne-lock ng eksaktong versions ng bawat installed package.",,composer.lock
+Cloze,"Ang {{c1::autoloading}} ay awtomatikong naglo-load ng classes nang walang manual na require statements.",,autoloading
+Cloze,"Ang {{c1::Packagist}} ay ang default package repository ng Composer.",,Packagist
+Cloze,"Ang {{c1::vendor directory}} ay kung saan ini-install ng Composer ang lahat ng dependencies.",,vendor directory
+Cloze,"Ang {{c1::require}} ay ang Composer command para mag-add ng bagong package.",,require
+Cloze,"Ang {{c1::update}} ay ang Composer command na nag-a-update ng mga dependencies base sa composer.json.",,update
+Cloze,"Ang {{c1::semantic versioning}} ay gumagamit ng MAJOR.MINOR.PATCH na version numbers.",,semantic versioning
+Cloze,"Ang {{c1::dev-dependencies}} ay mga package na para lamang sa development environment tulad ng testing tools.",,dev-dependencies
+Cloze,"Ang {{c1::namespace}} ay nag-o-organize ng code at nag-iwas sa name collisions sa pagitan ng mga classes.",,namespace
+Cloze,"Ang {{c1::PSR-4}} ay isang standard na nagma-map ng namespaces sa directory structure para sa autoloading.",,PSR-4
+Cloze,"Ang {{c1::use statement}} ay nag-i-import ng class mula sa isang namespace nang hindi ginagamit ang buong path.",,use statement
+Cloze,"Ang {{c1::fully qualified name}} ay ang kumpletong namespace path ng isang class simula sa root.",,fully qualified name
+Cloze,"Ang {{c1::alias}} ay nagbibigay ng alternatibong pangalan sa isang imported class.",,alias
+Cloze,"Ang {{c1::App namespace}} ay ang root namespace ng mga application classes ng Laravel.",,App namespace
+Cloze,"Ang {{c1::directory structure mapping}} ng PSR-4 ay nagsasabing ang namespace segment ay tumutugma sa folder path.",,directory structure mapping
+Cloze,"Ang {{c1::composer autoload}} ay nagsasabi sa Composer kung paano mag-auto-load ng project classes.",,composer autoload
+Cloze,"Ang {{c1::backslash}} ay ginagamit bilang separator ng namespace segments sa PHP.",,backslash
+Cloze,"Ang {{c1::PHP CLI}} ay ang command-line interface para mag-run ng PHP scripts.",,PHP CLI
+Cloze,"Ang {{c1::extension}} ay isang compiled library na nagdadagdag ng functionality sa PHP.",,extension
+Cloze,"Ang {{c1::php.ini}} ay ang configuration file ng PHP runtime settings.",,php.ini
+Cloze,"Ang {{c1::built-in web server}} ay inilulunsad ng php -S para sa local development.",,built-in web server
+Cloze,"Ang {{c1::version manager}} ay nagpapahintulot sa pagpalit ng PHP versions per project.",,version manager
+Cloze,"Ang {{c1::artisan serve}} ay ang Laravel command na nagra-run ng development server.",,artisan serve
+Cloze,"Ang {{c1::local server stack}} tulad ng XAMPP o Laragon ay nagbibigay ng bundled PHP, web server, at database.",,local server stack
+Cloze,"Ang {{c1::error reporting}} ay nagpapakita ng PHP errors para mas madali ang debugging.",,error reporting
+Cloze,"Ang {{c1::environment}} ay tumutukoy sa configuration ng application sa development versus production.",,environment
+Cloze,"Ang {{c1::Xdebug}} ay isang extension na ginagamit para sa debugging at profiling ng PHP code.",,Xdebug
+Cloze,"Ang {{c1::composer create-project}} ay ang command na nag-install ng bagong Laravel application.",,composer create-project
+Cloze,"Ang {{c1::Laravel installer}} ay isang tool na gumagawa ng bagong Laravel project gamit ang laravel new command.",,Laravel installer
+Cloze,"Ang {{c1::server requirements}} ng Laravel ay kinabibilangan ng PHP version, extensions, at Composer.",,server requirements
+Cloze,"Ang {{c1::application key}} ay ang random string sa .env na nag-e-encrypt ng data at sessions.",,application key
+Cloze,"Ang {{c1::.env}} ay ang file na nag-iimbak ng environment-specific configuration ng application.",,.env
+Cloze,"Ang {{c1::storage permissions}} ay kailangan para makapag-write ang application sa storage at bootstrap folders.",,storage permissions
+Cloze,"Ang {{c1::debug mode}} ay nagpapakita ng error details kapag naka-ON sa .env.",,debug mode
+Cloze,"Ang {{c1::version constraints}} sa composer ay tumutukoy kung anong Laravel version ang mai-install.",,version constraints
+Cloze,"Ang {{c1::skeleton}} ay ang default project structure na nalilikha kapag nag-install ng Laravel.",,skeleton
+Cloze,"Ang {{c1::herd}} ay isang local development environment tool para sa Laravel at PHP projects.",,herd
+Cloze,"Ang {{c1::app directory}} ay naglalaman ng core code tulad ng controllers, models, at services.",,app directory
+Cloze,"Ang {{c1::routes directory}} ay naglalaman ng mga route definitions ng application.",,routes directory
+Cloze,"Ang {{c1::config directory}} ay naglalaman ng mga configuration files ng application.",,config directory
+Cloze,"Ang {{c1::resources directory}} ay naglalaman ng views, assets, at language files.",,resources directory
+Cloze,"Ang {{c1::database directory}} ay naglalaman ng migrations, seeders, at factories.",,database directory
+Cloze,"Ang {{c1::bootstrap directory}} ay naglalaman ng app bootstrapping at service provider cache.",,bootstrap directory
+Cloze,"Ang {{c1::public directory}} ay ang web root na naglalaman ng index.php at assets.",,public directory
+Cloze,"Ang {{c1::artisan}} ay ang command-line tool ng Laravel para sa mga management tasks.",,artisan
+Cloze,"Ang {{c1::service providers}} ay ang central place kung saan nirerehistro ang application services.",,service providers
+Cloze,"Ang {{c1::migrations}} ay nagma-manage ng database schema changes gamit ang PHP files.",,migrations
+Cloze,"Ang {{c1::.env}} file ay nag-iimbak ng environment-specific variables tulad ng database credentials.",,.env file
+Cloze,"Ang {{c1::env()}} helper ay nagbabasa ng value mula sa .env file.",,env() helper
+Cloze,"Ang {{c1::config caching}} ay pinapabilis ang application sa pamamagitan ng pag-cache ng config files.",,config caching
+Cloze,"Ang {{c1::secrets}} ay mga sensitive values na hindi dapat i-commit sa version control.",,secrets
+Cloze,"Ang {{c1::config()}} helper ay nag-a-access ng configuration values mula sa config files.",,config() helper
+Cloze,"Ang {{c1::APP_KEY}} ay ang secret key na ginagamit para sa encryption ng data.",,APP_KEY
+Cloze,"Ang {{c1::environment detection}} ay tinutukoy ng APP_ENV variable kung development o production.",,environment detection
+Cloze,"Ang {{c1::.env.example}} ay ang template file na naglilista ng mga kinakailangang environment variables.",,.env.example
+Cloze,"Ang {{c1::config:cache}} command ay pinagsasama ang lahat ng config files sa isang cached file.",,config:cache
+Cloze,"Ang {{c1::environment file}} ay hindi dapat i-commit sa git dahil naglalaman ito ng credentials.",,environment file
+Cloze,"Ang {{c1::route}} ay nagma-map ng HTTP request sa isang controller action o closure.",,route
+Cloze,"Ang {{c1::web routes}} ay mga routes sa routes/web.php na may session at CSRF protection.",,web routes
+Cloze,"Ang {{c1::HTTP methods}} tulad ng GET, POST, PUT, at DELETE ay tumutukoy sa action ng request.",,HTTP methods
+Cloze,"Ang {{c1::route parameters}} ay dynamic segments ng URL na naka-encapsulate sa braces.",,route parameters
+Cloze,"Ang {{c1::Route::get}} ay nagre-register ng route na tumutugon sa GET requests.",,Route::get
+Cloze,"Ang {{c1::route name}} ay nagbibigay ng maikling pangalan sa route para madaling i-reference.",,route name
+Cloze,"Ang {{c1::fallback route}} ay nagha-handle ng lahat ng requests na walang katugmang route.",,fallback route
+Cloze,"Ang {{c1::optional parameter}} ay route parameter na may default value at hindi kinakailangan.",,optional parameter
+Cloze,"Ang {{c1::route model binding}} ay awtomatikong nag-i-inject ng model instance base sa route parameter.",,route model binding
+Cloze,"Ang {{c1::constraints}} ay nagre-restrict ng route parameter values gamit ang regular expressions.",,constraints
+Cloze,"Ang {{c1::controller}} ay nag-o-organize ng request handling logic sa mga methods.",,controller
+Cloze,"Ang {{c1::action}} ay isang public method sa controller na nagha-handle ng isang request.",,action
+Cloze,"Ang {{c1::dependency injection}} ay nagpapasa ng dependencies sa controller methods o constructors.",,dependency injection
+Cloze,"Ang {{c1::response}} ay ang ibinabalik ng controller action sa client.",,response
+Cloze,"Ang {{c1::type-hinted dependency}} sa controller method ay awtomatikong nireresolve ng container.",,type-hinted dependency
+Cloze,"Ang {{c1::single action controller}} ay isang controller na may isang __invoke method.",,single action controller
+Cloze,"Ang {{c1::resource controller}} ay nagbibigay ng CRUD methods base sa RESTful conventions.",,resource controller
+Cloze,"Ang {{c1::redirect}} ay isang response na nagdadala sa user sa ibang URL.",,redirect
+Cloze,"Ang {{c1::JSON response}} ay nagre-return ng data sa JSON format para sa APIs.",,JSON response
+Cloze,"Ang {{c1::view response}} ay nagre-return ng rendered Blade template.",,view response
+Cloze,"Ang {{c1::service container}} ay ang central registry kung saan nirerehistro at nireresolve ang mga dependencies.",,service container
+Cloze,"Ang {{c1::binding}} ay ang pagrerehistro ng isang class o interface sa service container.",,binding
+Cloze,"Ang {{c1::resolution}} ay ang proseso ng pagkuha ng instance mula sa service container.",,resolution
+Cloze,"Ang {{c1::facade}} ay nagbibigay ng static-like interface sa mga services sa container.",,facade
+Cloze,"Ang {{c1::singleton}} ay isang binding na nagre-return ng parehong instance sa bawat resolution.",,singleton
+Cloze,"Ang {{c1::app()}} helper ay nagre-resolve ng services mula sa container.",,app() helper
+Cloze,"Ang {{c1::make()}} method ay gumagawa ng bagong instance ng isang class sa pamamagitan ng container.",,make() method
+Cloze,"Ang {{c1::contextual binding}} ay nagre-resolve ng ibang implementation depende sa consuming class.",,contextual binding
+Cloze,"Ang {{c1::service provider}} ay kung saan nirerehistro ang mga bindings sa container.",,service provider
+Cloze,"Ang {{c1::auto-resolution}} ay awtomatikong nirere-resolve ng container ang type-hinted dependencies.",,auto-resolution
+Cloze,"Ang {{c1::named route}} ay nagbibigay ng pangalan sa route para madaling ma-reference sa views at controllers.",,named route
+Cloze,"Ang {{c1::route()}} helper ay gumagawa ng URL gamit ang pangalan ng route.",,route() helper
+Cloze,"Ang {{c1::fallback route}} ay nagha-handle ng lahat ng requests na hindi tumutugma sa ibang routes.",,fallback route
+Cloze,"Ang {{c1::route parameters}} ay dynamic segments ng URL na ipinapasa sa route callback.",,route parameters
+Cloze,"Ang {{c1::required parameter}} ay kinakailangang maibigay para ma-match ang route.",,required parameter
+Cloze,"Ang {{c1::route caching}} ay nagpapabilis ng route registration gamit ang artisan command.",,route caching
+Cloze,"Ang {{c1::Route::view}} ay nagre-register ng route na nagre-return ng view nang walang controller.",,Route::view
+Cloze,"Ang {{c1::redirect route}} ay nagre-redirect ng isang URL papunta sa ibang URL.",,redirect route
+Cloze,"Ang {{c1::URL generation}} ay ang paggawa ng kumpletong URL mula sa route names o controller actions.",,URL generation
+Cloze,"Ang {{c1::current route}} ay ang route na tumutugma sa kasalukuyang request.",,current route
+Cloze,"Ang {{c1::route group}} ay nagbabahagi ng attributes tulad ng middleware at prefix sa mga routes.",,route group
+Cloze,"Ang {{c1::middleware}} ay nagfi-filter ng HTTP requests bago o pagkatapos ma-handle ng controller.",,middleware
+Cloze,"Ang {{c1::auth middleware}} ay nagre-restrict ng access sa mga routes para sa logged-in users lang.",,auth middleware
+Cloze,"Ang {{c1::throttle middleware}} ay nagli-limit ng bilang ng requests na kayang i-handle sa isang period.",,throttle middleware
+Cloze,"Ang {{c1::route prefix}} ay idinaragdag sa simula ng lahat ng URLs sa isang group.",,route prefix
+Cloze,"Ang {{c1::scope}} ay tumutukoy sa limitasyon ng access o functionality ng isang route o token.",,scope
+Cloze,"Ang {{c1::middleware group}} ay isang koleksyon ng middleware na ina-apply sa isang set ng routes.",,middleware group
+Cloze,"Ang {{c1::route name prefix}} ay idinaragdag sa lahat ng route names sa isang group.",,route name prefix
+Cloze,"Ang {{c1::middleware alias}} ay nagbibigay ng maikling pangalan sa isang middleware class.",,middleware alias
+Cloze,"Ang {{c1::route middleware}} ay ina-assign sa specific routes o groups gamit ang ->middleware() method.",,route middleware
+Cloze,"Ang {{c1::resource controller}} ay nagbibigay ng RESTful CRUD methods sa isang controller.",,resource controller
+Cloze,"Ang {{c1::resource route}} ay nagre-register ng lahat ng CRUD routes para sa isang resource.",,resource route
+Cloze,"Ang {{c1::RESTful mapping}} ay nagma-map ng HTTP methods at URLs sa controller actions.",,RESTful mapping
+Cloze,"Ang {{c1::partial routes}} ay tumutukoy sa subset ng resource routes na hindi naka-register.",,partial routes
+Cloze,"Ang {{c1::only}} option ay naglilimita kung aling resource routes ang ire-register.",,only option
+Cloze,"Ang {{c1::except}} option ay nag-e-exclude ng specific resource routes sa pag-register.",,except option
+Cloze,"Ang {{c1::apiResource}} ay nagre-register ng resource routes para sa APIs nang walang form routes.",,apiResource
+Cloze,"Ang {{c1::Route::resource}} ay gumagawa ng index, create, store, show, edit, update, at destroy routes.",,Route::resource
+Cloze,"Ang {{c1::parameter name}} ng resource route ay awtomatikong nakabase sa resource name.",,parameter name
+Cloze,"Ang {{c1::nested resource}} ay nagre-register ng resource routes sa loob ng isang parent resource.",,nested resource
+Cloze,"Ang {{c1::implicit route model binding}} ay awtomatikong nag-i-inject ng model instance base sa route parameter.",,implicit route model binding
+Cloze,"Ang {{c1::explicit route model binding}} ay manu-manong nagre-register ng binding para sa isang parameter.",,explicit route model binding
+Cloze,"Ang {{c1::scoped binding}} ay nagre-restrict ng child model sa pamamagitan ng parent model sa nested routes.",,scoped binding
+Cloze,"Ang {{c1::resolveRouteBinding}} ay custom method na nagbabago kung paano hinahanap ang model sa route binding.",,resolveRouteBinding
+Cloze,"Ang {{c1::type-hinted model}} sa controller method ay ang nag-trigger ng implicit binding.",,type-hinted model
+Cloze,"Ang {{c1::route key}} ay ang column na ginagamit para hanapin ang model sa route binding.",,route key
+Cloze,"Ang {{c1::missing model}} sa route binding ay nagre-return ng 404 response.",,missing model
+Cloze,"Ang {{c1::whereHas}} constraint sa scoped binding ay nagfi-filter ng parent-child relationship.",,whereHas constraint
+Cloze,"Ang {{c1::custom resolution}} ay nagpapahintulot ng custom logic sa pagha-hanap ng model.",,custom resolution
+Cloze,"Ang {{c1::binding field}} ay nagtutukoy kung aling column ang gagamitin sa paghahanap ng model.",,binding field
+Cloze,"Ang {{c1::api routes}} ay naka-register sa routes/api.php at walang session state.",,api routes
+Cloze,"Ang {{c1::route prefix}} para sa API ay karaniwang 'api' na idinadagdag sa lahat ng API URLs.",,route prefix
+Cloze,"Ang {{c1::API versioning}} ay gumagamit ng URL o header para tukuyin ang version ng API.",,API versioning
+Cloze,"Ang {{c1::API response}} ay karaniwang nasa JSON format para ma-consume ng clients.",,API response
+Cloze,"Ang {{c1::api middleware group}} ay may kasamang throttle at bindings middleware.",,api middleware group
+Cloze,"Ang {{c1::JSON response}} ay ginagamitan ng response()->json() para mag-return ng data.",,JSON response
+Cloze,"Ang {{c1::status code}} ay nagpapahiwatig ng resulta ng API request tulad ng 200 o 404.",,status code
+Cloze,"Ang {{c1::API token}} ay ginagamit para mag-authenticate ng mga requests sa API.",,API token
+Cloze,"Ang {{c1::v1 prefix}} ay karaniwang ginagamit para i-version ang API URLs.",,v1 prefix
+Cloze,"Ang {{c1::API resource}} ay nag-transform ng model data para sa API responses.",,API resource
+Cloze,"Ang {{c1::model}} ay kumakatawan sa isang database table at nagbibigay ng Eloquent ORM interface.",,model
+Cloze,"Ang {{c1::migration}} ay nagma-manage ng database schema changes gamit ang version-controlled PHP files.",,migration
+Cloze,"Ang {{c1::schema}} ay tumutukoy sa structure ng database tables at kanilang relationships.",,schema
+Cloze,"Ang {{c1::columns}} ay ang mga fields ng isang database table na tinutukoy sa migration.",,columns
+Cloze,"Ang {{c1::rollback}} ay binabaliktad ang huling batch ng migrations.",,rollback
+Cloze,"Ang {{c1::up method}} ay tumutukoy kung anong changes ang ia-apply sa database.",,up method
+Cloze,"Ang {{c1::down method}} ay tumutukoy kung paano ibabaliktad ang changes ng migration.",,down method
+Cloze,"Ang {{c1::table name}} ng model ay awtomatikong tinutukoy mula sa pluralized class name.",,table name
+Cloze,"Ang {{c1::primary key}} ay ang unique identifier ng bawat row sa isang table.",,primary key
+Cloze,"Ang {{c1::timestamps}} ay awtomatikong nagma-manage ng created_at at updated_at columns.",,timestamps
+Cloze,"Ang {{c1::one-to-many}} relationship ay kung saan ang isang parent model ay may maraming child models.",,one-to-many
+Cloze,"Ang {{c1::many-to-many}} relationship ay nangangailangan ng pivot table para i-link ang dalawang models.",,many-to-many
+Cloze,"Ang {{c1::polymorphic relationship}} ay nagpapahintulot sa isang model na ma-associate sa iba't ibang models.",,polymorphic relationship
+Cloze,"Ang {{c1::hasMany}} ay tumutukoy na ang isang model ay may maraming related models.",,hasMany
+Cloze,"Ang {{c1::belongsTo}} ay tumutukoy na ang model ay nabibilang sa isang parent model.",,belongsTo
+Cloze,"Ang {{c1::belongsToMany}} ay ginagamit para sa many-to-many relationships na may pivot table.",,belongsToMany
+Cloze,"Ang {{c1::pivot table}} ay naglalaman ng foreign keys ng dalawang models sa many-to-many relationship.",,pivot table
+Cloze,"Ang {{c1::morphMany}} ay nagde-declare ng one-to-many polymorphic relationship.",,morphMany
+Cloze,"Ang {{c1::foreign key}} ay ang column na nagli-link ng model sa related model.",,foreign key
+Cloze,"Ang {{c1::relationship method}} ay isang method sa model na nagre-return ng relationship instance.",,relationship method
+Cloze,"Ang {{c1::query scope}} ay nagbibigay ng reusable query constraints sa model.",,query scope
+Cloze,"Ang {{c1::accessor}} ay nag-transform ng attribute value kapag ina-access sa model.",,accessor
+Cloze,"Ang {{c1::mutator}} ay nag-transform ng attribute value bago i-save sa database.",,mutator
+Cloze,"Ang {{c1::cast}} ay nagko-convert ng attribute value sa isang specific type.",,cast
+Cloze,"Ang {{c1::local scope}} ay tinatawag sa model instance gamit ang prefix ng scope method.",,local scope
+Cloze,"Ang {{c1::Append}} attribute ay idinaragdag sa model JSON representation.",,Append attribute
+Cloze,"Ang {{c1::attribute casting}} ay tumutukoy sa $casts property ng model.",,attribute casting
+Cloze,"Ang {{c1::scopeActive}} ay isang halimbawa ng custom query scope para sa active records.",,scopeActive
+Cloze,"Ang {{c1::date cast}} ay nagko-convert ng attribute sa Carbon instance.",,date cast
+Cloze,"Ang {{c1::hidden attributes}} ay hindi kasama sa model JSON o array output.",,hidden attributes
+Cloze,"Ang {{c1::eager loading}} ay nilo-load ang relationships kasabay ng parent query gamit ang with().",,eager loading
+Cloze,"Ang {{c1::lazy loading}} ay nilo-load ang relationship kapag in-access ito pagkatapos ng query.",,lazy loading
+Cloze,"Ang {{c1::N+1 problem}} ay nangyayari kapag nag-e-execute ng karagdagang queries para sa bawat model.",,N+1 problem
+Cloze,"Ang {{c1::with()}} method ay nag-pre-load ng relationships sa isang query.",,with() method
+Cloze,"Ang {{c1::nested eager loading}} ay nilo-load ang relationships ng mga relationships.",,nested eager loading
+Cloze,"Ang {{c1::load()}} method ay nag-eager load ng relationship sa isang existing model collection.",,load() method
+Cloze,"Ang {{c1::withCount}} ay nag-a-add ng count ng related models sa query result.",,withCount
+Cloze,"Ang {{c1::lazy eager loading}} ay naglo-load ng relationship pagkatapos i-retrieve ang models.",,lazy eager loading
+Cloze,"Ang {{c1::constraining eager loads}} ay nagfi-filter ng eager loaded relationships.",,constraining eager loads
+Cloze,"Ang {{c1::$with property}} ay awtomatikong nag-eager load ng relationships sa bawat query.",,$with property
+Cloze,"Ang {{c1::query builder}} ay nagbibigay ng fluent interface para gumawa ng SQL queries.",,query builder
+Cloze,"Ang {{c1::aggregate}} ay nagko-compute ng values tulad ng sum, avg, at count.",,aggregate
+Cloze,"Ang {{c1::pagination}} ay hinahati ang mga resulta sa mga pages para mas madaling i-display.",,pagination
+Cloze,"Ang {{c1::select}} ay tumutukoy kung aling columns ang isasama sa query.",,select
+Cloze,"Ang {{c1::where}} clause ay nagfi-filter ng records base sa condition.",,where clause
+Cloze,"Ang {{c1::orderBy}} ay nag-a-arrange ng mga resulta base sa isang column.",,orderBy
+Cloze,"Ang {{c1::paginate()}} method ay nagre-return ng paginated results na may links.",,paginate() method
+Cloze,"Ang {{c1::simplePaginate}} ay nagre-return ng previous at next links lamang.",,simplePaginate
+Cloze,"Ang {{c1::DB facade}} ay ginagamit para sa raw queries at query builder operations.",,DB facade
+Cloze,"Ang {{c1::chunk}} ay nagpro-process ng malalaking results sa mga small batches.",,chunk
+Cloze,"Ang {{c1::collection}} ay isang wrapper ng arrays na may maraming helper methods.",,collection
+Cloze,"Ang {{c1::map}} method ay nag-transform sa bawat item ng collection.",,map method
+Cloze,"Ang {{c1::filter}} method ay nag-aalis ng mga items na hindi pumasa sa condition.",,filter method
+Cloze,"Ang {{c1::reduce}} method ay nag-iipon ng collection sa isang value.",,reduce method
+Cloze,"Ang {{c1::pluck}} method ay kumukuha ng specific column values mula sa collection.",,pluck method
+Cloze,"Ang {{c1::transform}} method ay binabago ang collection in place.",,transform method
+Cloze,"Ang {{c1::chunk}} method ay hinahati ang collection sa mas maliliit na collections.",,chunk method
+Cloze,"Ang {{c1::each}} method ay nag-iterate sa bawat item ng collection.",,each method
+Cloze,"Ang {{c1::collect()}} helper ay gumagawa ng bagong collection mula sa array.",,collect() helper
+Cloze,"Ang {{c1::first}} method ay nagre-return ng unang item na pumasa sa condition.",,first method
+Cloze,"Ang {{c1::Blade template}} ay ang templating engine ng Laravel para sa mga views.",,Blade template
+Cloze,"Ang {{c1::layout}} ay ang base template na pinagkukunan ng ibang views.",,layout
+Cloze,"Ang {{c1::section}} ay isang block ng content sa layout na pwede i-override ng child view.",,section
+Cloze,"Ang {{c1::yield}} directive ay nagpapakita ng content ng isang section sa layout.",,yield directive
+Cloze,"Ang {{c1::@extends}} directive ay nagsasabi sa view na gumamit ng isang layout.",,@extends directive
+Cloze,"Ang {{c1::@include}} directive ay nag-i-embed ng isang partial view sa loob ng isa pang view.",,@include directive
+Cloze,"Ang {{c1::@section}} directive ay nagde-defines ng content para sa isang section.",,@section directive
+Cloze,"Ang {{c1::template inheritance}} ay nagpapahintulot sa child views na mag-override ng parent layout sections.",,template inheritance
+Cloze,"Ang {{c1::partial}} ay isang reusable view snippet na isinasama sa ibang views.",,partial
+Cloze,"Ang {{c1::component slot}} ay placeholder sa component kung saan nilalagay ang content.",,component slot
+Cloze,"Ang {{c1::Blade component}} ay reusable UI block na may sariling template at logic.",,Blade component
+Cloze,"Ang {{c1::class-based component}} ay may kalakip na PHP class para sa logic.",,class-based component
+Cloze,"Ang {{c1::anonymous component}} ay isang component na tinutukoy lang ng template file.",,anonymous component
+Cloze,"Ang {{c1::component attributes}} ay mga data na ipinapasa sa component mula sa parent view.",,component attributes
+Cloze,"Ang {{c1::slot}} ay naglalaman ng content na ipinasok sa pagitan ng component tags.",,slot
+Cloze,"Ang {{c1::x- prefix}} ay ginagamit para i-render ang Blade components sa templates.",,x- prefix
+Cloze,"Ang {{c1::props}} ay nagde-declare ng mga attributes na tinatanggap ng component.",,props
+Cloze,"Ang {{c1::default slot}} ay ang content na walang named slot na itinalaga.",,default slot
+Cloze,"Ang {{c1::named slots}} ay mga specific slots na may sariling pangalan.",,named slots
+Cloze,"Ang {{c1::component class}} ay ang PHP class na may public methods at properties para sa component.",,component class
+Cloze,"Ang {{c1::directive}} ay isang Blade syntax na nagsisimula sa @ sign.",,directive
+Cloze,"Ang {{c1::@if}} directive ay nagko-conditional na nagpapakita ng content.",,@if directive
+Cloze,"Ang {{c1::@foreach}} directive ay nag-i-iterate sa isang array o collection.",,@foreach directive
+Cloze,"Ang {{c1::@auth}} directive ay nagpapakita ng content para sa mga logged-in users.",,@auth directive
+Cloze,"Ang {{c1::@guest}} directive ay nagpapakita ng content para sa mga hindi naka-login.",,@guest directive
+Cloze,"Ang {{c1::@for}} directive ay nag-i-iterate gamit ang isang counter.",,@for directive
+Cloze,"Ang {{c1::@while}} directive ay nag-uulit ng content habang true ang condition.",,@while directive
+Cloze,"Ang {{c1::@forelse}} directive ay may kasamang @empty block para sa walang laman na collection.",,@forelse directive
+Cloze,"Ang {{c1::@unless}} directive ay nagpapakita ng content kapag false ang condition.",,@unless directive
+Cloze,"Ang {{c1::@switch}} directive ay nagbibigay ng multiple case na conditional rendering.",,@switch directive
+Cloze,"Ang {{c1::CSRF token}} ay pinoprotektahan ang forms mula sa cross-site request forgery attacks.",,CSRF token
+Cloze,"Ang {{c1::@csrf}} directive ay nag-i-embed ng CSRF token sa form.",,@csrf directive
+Cloze,"Ang {{c1::old input}} ay ang dating submitted value na ipinapakita pagkatapos ng validation error.",,old input
+Cloze,"Ang {{c1::old()}} helper ay nagre-return ng dating input value para sa isang field.",,old() helper
+Cloze,"Ang {{c1::validation errors}} ay ipinapakita sa view gamit ang $errors variable.",,validation errors
+Cloze,"Ang {{c1::@error}} directive ay nagpapakita ng error message para sa isang specific field.",,@error directive
+Cloze,"Ang {{c1::form method}} sa Blade ay gumagamit ng @method() para sa PUT at DELETE.",,form method
+Cloze,"Ang {{c1::action attribute}} ng form ay tumutukoy kung saang route isusubmit ang form.",,action attribute
+Cloze,"Ang {{c1::value attribute}} ay nagse-set ng default value ng isang form field.",,value attribute
+Cloze,"Ang {{c1::label}} ay nagbibigay ng text description sa isang form field.",,label
+Cloze,"Ang {{c1::authentication}} ay ang proseso ng pag-verify ng identity ng isang user.",,authentication
+Cloze,"Ang {{c1::guard}} ay tumutukoy kung paano ine-authenticate ang mga users sa bawat request.",,guard
+Cloze,"Ang {{c1::login flow}} ay ang proseso ng pag-validate ng credentials at pag-set ng authenticated session.",,login flow
+Cloze,"Ang {{c1::scaffolding}} ay ang pre-built authentication views at routes na nililikha ng artisan.",,scaffolding
+Cloze,"Ang {{c1::Auth facade}} ay ginagamit para i-access ang authentication services.",,Auth facade
+Cloze,"Ang {{c1::attempt()}} method ay nag-validate ng credentials at nagsisimula ng session.",,attempt() method
+Cloze,"Ang {{c1::logout}} ay nagtatanggal ng authenticated session ng user.",,logout
+Cloze,"Ang {{c1::auth middleware}} ay nagre-restrict ng access sa mga logged-in users lang.",,auth middleware
+Cloze,"Ang {{c1::remember me}} ay nagpapanatili ng login state gamit ang long-lived token.",,remember me
+Cloze,"Ang {{c1::rate limiter}} para sa login ay nagpapabagal ng brute force attempts.",,rate limiter
+Cloze,"Ang {{c1::authorization}} ay ang proseso ng pagtukoy kung may permission ang user para sa isang action.",,authorization
+Cloze,"Ang {{c1::gate}} ay nagde-defines ng authorization rules gamit ang closures.",,gate
+Cloze,"Ang {{c1::policy}} ay nag-oorganize ng authorization logic base sa isang model.",,policy
+Cloze,"Ang {{c1::ability}} ay ang action na maaaring i-authorize tulad ng update o delete.",,ability
+Cloze,"Ang {{c1::Gate::allows}} ay nag-che-check kung pinapayagan ang isang action.",,Gate::allows
+Cloze,"Ang {{c1::authorize()}} method ay nag-throw ng exception kung hindi pinapayagan ang action.",,authorize() method
+Cloze,"Ang {{c1::can()}} method ay ginagamit sa views at controllers para i-check ang permission.",,can() method
+Cloze,"Ang {{c1::policy class}} ay nakarehistro para sa isang specific model.",,policy class
+Cloze,"Ang {{c1::before method}} sa Gate ay nag-o-override ng lahat ng authorization rules.",,before method
+Cloze,"Ang {{c1::deny}} ay ang resulta kapag walang permission ang user.",,deny
+Cloze,"Ang {{c1::XSS}} attack ay nag-i-inject ng malicious scripts sa rendered pages.",,XSS attack
+Cloze,"Ang {{c1::CSRF}} ay isang attack na nagpe-fake ng request mula sa isang authenticated user.",,CSRF
+Cloze,"Ang {{c1::SQL injection}} ay nangyayari kapag nag-i-inject ng malicious SQL sa mga queries.",,SQL injection
+Cloze,"Ang {{c1::mass assignment}} ay ang pag-save ng hindi dapat na-update na attributes sa model.",,mass assignment
+Cloze,"Ang {{c1::escaping}} ay nag-convert ng special characters para hindi i-interpret bilang code.",,escaping
+Cloze,"Ang {{c1::security headers}} tulad ng X-Frame-Options ay nagpro-protekt sa application mula sa attacks.",,security headers
+Cloze,"Ang {{c1::parameterized queries}} ay gumagamit ng placeholders para iwasan ang SQL injection.",,parameterized queries
+Cloze,"Ang {{c1::$fillable}} property ay naglilimita kung aling attributes ang mass assignable.",,$fillable property
+Cloze,"Ang {{c1::password hashing}} ay gumagamit ng bcrypt o argon2 para i-secure ang passwords.",,password hashing
+Cloze,"Ang {{c1::{{ }} syntax}} ay awtomatikong nag-e-escape ng output sa Blade.",,{{ }} syntax
+Cloze,"Ang {{c1::validation}} ay nag-verify ng data bago ito i-save o i-process.",,validation
+Cloze,"Ang {{c1::validation rule}} ay tumutukoy sa mga requirement para sa isang field.",,validation rule
+Cloze,"Ang {{c1::custom rule}} ay isang user-defined validation rule para sa specific requirement.",,custom rule
+Cloze,"Ang {{c1::form request}} ay isang class na nag-oorganize ng validation at authorization logic.",,form request
+Cloze,"Ang {{c1::validate()}} method ay nagre-return ng validated data o nag-throw ng ValidationException.",,validate() method
+Cloze,"Ang {{c1::required}} rule ay nagsasabing kailangan ang field.",,required rule
+Cloze,"Ang {{c1::unique}} rule ay nag-cha-check na ang value ay hindi pa ginagamit sa isang table.",,unique rule
+Cloze,"Ang {{c1::validation messages}} ay ang mga error messages na ipinapakita sa user.",,validation messages
+Cloze,"Ang {{c1::rule object}} ay isang class-based na custom validation rule.",,rule object
+Cloze,"Ang {{c1::validated()}} method ng form request ay nagre-return ng validated inputs lamang.",,validated() method
+Cloze,"Ang {{c1::rate limiting}} ay nagli-limit sa bilang ng requests na kayang gawin ng isang user.",,rate limiting
+Cloze,"Ang {{c1::throttle middleware}} ay nagre-restrict ng requests per time window.",,throttle middleware
+Cloze,"Ang {{c1::rate limiter}} ay nagte-track ng request counts base sa key ng user o IP.",,rate limiter
+Cloze,"Ang {{c1::quota}} ay ang maximum na bilang ng requests sa isang period.",,quota
+Cloze,"Ang {{c1::limit}} ay ang bilang ng requests na pinapayagan sa isang minute.",,limit
+Cloze,"Ang {{c1::RateLimiter facade}} ay nagbibigay ng API para sa custom rate limiting.",,RateLimiter facade
+Cloze,"Ang {{c1::too many requests}} ay nagre-return ng 429 status code.",,too many requests
+Cloze,"Ang {{c1::retry-after header}} ay nagsasabi kung kailan makakapag-retry ang client.",,retry-after header
+Cloze,"Ang {{c1::cache}} ay ginagamit ng rate limiter para mag-imbak ng request counts.",,cache
+Cloze,"Ang {{c1::throttle:60,1}} ay nagpapahintulot ng 60 requests kada minute.",,throttle:60,1
+Cloze,"Ang {{c1::API resource}} ay nagko-convert ng models sa JSON format para sa API responses.",,API resource
+Cloze,"Ang {{c1::resource collection}} ay nagtrans-form ng collection ng models sa API format.",,resource collection
+Cloze,"Ang {{c1::transformation}} ay ang proseso ng pag-reshape ng data bago i-return sa client.",,transformation
+Cloze,"Ang {{c1::ApiResource}} ay ang base class para sa API resource transformations.",,ApiResource
+Cloze,"Ang {{c1::toArray}} method ay nagde-defines kung anong data ang isasama sa response.",,toArray method
+Cloze,"Ang {{c1::Resource::collection()}} ay nagre-return ng collection ng resources.",,Resource::collection()
+Cloze,"Ang {{c1::additional data}} ay idinadagdag sa resource response gamit ang additional() method.",,additional data
+Cloze,"Ang {{c1::conditional attributes}} ay isinasama lang sa response kung may value.",,conditional attributes
+Cloze,"Ang {{c1::with()}} method ng resource ay nag-add ng metadata sa response.",,with() method
+Cloze,"Ang {{c1::pagination}} sa resources ay awtomatikong nag-i-include ng meta links.",,pagination
+Cloze,"Ang {{c1::Sanctum}} ay ang lightweight authentication package ng Laravel para sa APIs at SPAs.",,Sanctum
+Cloze,"Ang {{c1::token authentication}} ay gumagamit ng personal access tokens para i-authenticate ang requests.",,token authentication
+Cloze,"Ang {{c1::SPA authentication}} ay gumagamit ng cookies at CSRF protection imbes na tokens.",,SPA authentication
+Cloze,"Ang {{c1::token scopes}} ay nagli-limit ng permissions ng isang API token.",,token scopes
+Cloze,"Ang {{c1::createToken()}} method ay gumagawa ng bagong personal access token para sa user.",,createToken() method
+Cloze,"Ang {{c1::Bearer token}} ay ipinapasa sa Authorization header ng request.",,Bearer token
+Cloze,"Ang {{c1::plainTextToken}} ay ang token na makikita nang isang beses lang pagkatapos i-create.",,plainTextToken
+Cloze,"Ang {{c1::token abilities}} ay tumutukoy kung anong actions ang kaya ng token.",,token abilities
+Cloze,"Ang {{c1::sanctum middleware}} ay nag-a-authenticate ng mga requests gamit ang token o session.",,sanctum middleware
+Cloze,"Ang {{c1::currentAccessToken}} ay ang token na ginagamit ng kasalukuyang request.",,currentAccessToken
+Cloze,"Ang {{c1::HTTP tests}} ay sumusubok ng mga API endpoints gamit ang test client.",,HTTP tests
+Cloze,"Ang {{c1::assertStatus}} ay nag-verify ng HTTP status code ng response.",,assertStatus
+Cloze,"Ang {{c1::assertJson}} ay nag-verify ng JSON structure ng response.",,assertJson
+Cloze,"Ang {{c1::getJson}} method ay nagpapadala ng GET request sa isang API endpoint.",,getJson method
+Cloze,"Ang {{c1::postJson}} method ay nagpapadala ng POST request na may JSON payload.",,postJson method
+Cloze,"Ang {{c1::assertOk}} ay nag-verify ng 200 status code.",,assertOk
+Cloze,"Ang {{c1::pagination test}} ay nag-verify ng paginated API response structure.",,pagination test
+Cloze,"Ang {{c1::assertJsonCount}} ay nag-verify ng bilang ng items sa JSON response.",,assertJsonCount
+Cloze,"Ang {{c1::actingAs}} method ay nag-a-authenticate ng test request bilang isang user.",,actingAs method
+Cloze,"Ang {{c1::assertJsonPath}} ay nag-verify ng value sa isang specific JSON path.",,assertJsonPath
+Cloze,"Ang {{c1::API versioning}} ay nagbibigay ng stable na interface habang nagbabago ang API.",,API versioning
+Cloze,"Ang {{c1::URL versioning}} ay gumagamit ng /v1/ sa URL para tukuyin ang version.",,URL versioning
+Cloze,"Ang {{c1::header versioning}} ay gumagamit ng Accept header para tukuyin ang version.",,header versioning
+Cloze,"Ang {{c1::v1 at v2}} ay mga halimbawa ng version segments ng API.",,v1 at v2
+Cloze,"Ang {{c1::API documentation}} ay naglalarawan ng endpoints, parameters, at responses ng API.",,API documentation
+Cloze,"Ang {{c1::breaking change}} ay isang change na hindi compatible sa dating version.",,breaking change
+Cloze,"Ang {{c1::deprecation}} ay ang proseso ng pag-announce na hindi na susuportahan ang lumang feature.",,deprecation
+Cloze,"Ang {{c1::backward compatibility}} ay nangangahulugang hindi masisira ang mga existing clients.",,backward compatibility
+Cloze,"Ang {{c1::changelog}} ay nagtatala ng mga pagbabago sa bawat version ng API.",,changelog
+Cloze,"Ang {{c1::Postman}} o {{c1::Scribe}} ay mga tools para sa API documentation at testing.",,Postman o Scribe
+Cloze,"Ang {{c1::PHPUnit}} ay ang default testing framework ng Laravel.",,PHPUnit
+Cloze,"Ang {{c1::phpunit.xml}} ay ang configuration file ng PHPUnit para sa tests.",,phpunit.xml
+Cloze,"Ang {{c1::test environment}} ay gumagamit ng sariling database at configuration para sa tests.",,test environment
+Cloze,"Ang {{c1::sqlite memory}} ay isang in-memory database na ginagamit sa tests.",,sqlite memory
+Cloze,"Ang {{c1::TestCase}} ay ang base class para sa mga feature tests.",,TestCase
+Cloze,"Ang {{c1::RefreshDatabase}} trait ay nagre-reset ng database sa bawat test.",,RefreshDatabase trait
+Cloze,"Ang {{c1::DatabaseMigrations}} trait ay nagra-run ng migrations sa simula ng bawat test.",,DatabaseMigrations trait
+Cloze,"Ang {{c1::php artisan test}} ay ang command para mag-run ng mga tests.",,php artisan test
+Cloze,"Ang {{c1::tests directory}} ay naglalaman ng Unit at Feature test folders.",,tests directory
+Cloze,"Ang {{c1::Pest}} ay isang alternatibong testing framework na gumagamit ng simpler syntax.",,Pest
+Cloze,"Ang {{c1::feature test}} ay sumusubok ng buong request lifecycle ng application.",,feature test
+Cloze,"Ang {{c1::HTTP test}} ay nagpapadala ng HTTP requests sa application at nag-verify ng responses.",,HTTP test
+Cloze,"Ang {{c1::authentication test}} ay nag-verify ng login, logout, at protected routes.",,authentication test
+Cloze,"Ang {{c1::database transaction}} sa tests ay nagse-secure na hindi magulo ang data sa pagitan ng tests.",,database transaction
+Cloze,"Ang {{c1::actingAs}} ay nag-a-authenticate ng test bilang isang specific user.",,actingAs
+Cloze,"Ang {{c1::assertDatabaseHas}} ay nag-verify na may record sa database.",,assertDatabaseHas
+Cloze,"Ang {{c1::assertRedirected}} ay nag-verify na nag-redirect ang response sa isang route.",,assertRedirected
+Cloze,"Ang {{c1::assertSee}} ay nag-verify na nakikita ang text sa response.",,assertSee
+Cloze,"Ang {{c1::assertSessionHasErrors}} ay nag-verify ng validation errors sa session.",,assertSessionHasErrors
+Cloze,"Ang {{c1::post}} method ay nagpapadala ng POST request na may form data.",,post method
+Cloze,"Ang {{c1::model factory}} ay nagge-generate ng test data para sa models.",,model factory
+Cloze,"Ang {{c1::factory definition}} ay tumutukoy kung paano gumagawa ng fake attributes ang factory.",,factory definition
+Cloze,"Ang {{c1::seeder}} ay nagpop-populate ng database ng initial na data.",,seeder
+Cloze,"Ang {{c1::factory()}} helper ay gumagawa ng model instances gamit ang factory.",,factory() helper
+Cloze,"Ang {{c1::create()}} method ay nagse-save ng factory-created model sa database.",,create() method
+Cloze,"Ang {{c1::make()}} method ay gumagawa ng factory model nang hindi nagsa-save.",,make() method
+Cloze,"Ang {{c1::state}} ay nagde-defines ng variant ng factory data.",,state
+Cloze,"Ang {{c1::afterMaking}} ay isang callback na tumatakbo pagkatapos gumawa ng model.",,afterMaking
+Cloze,"Ang {{c1::faker}} ay nagge-generate ng realistic fake data para sa tests.",,faker
+Cloze,"Ang {{c1::DatabaseSeeder}} ay ang pangunahing seeder na nag-i-invoke ng ibang seeders.",,DatabaseSeeder
+Cloze,"Ang {{c1::mock}} ay isang test double na nagpapa-fake ng dependencies sa tests.",,mock
+Cloze,"Ang {{c1::fake}} ay isang test double na nagre-record ng mga calls imbes na mag-execute ng real logic.",,fake
+Cloze,"Ang {{c1::Queue::fake}} ay nagre-record ng dispatched jobs nang hindi nila pinapatakbo.",,Queue::fake
+Cloze,"Ang {{c1::Mail::fake}} ay nagre-record ng mga sent mail imbes na magpadala talaga.",,Mail::fake
+Cloze,"Ang {{c1::Event::fake}} ay nagre-record ng dispatched events nang hindi nagra-run ng listeners.",,Event::fake
+Cloze,"Ang {{c1::assertDispatched}} ay nag-verify na na-dispatch ang isang job.",,assertDispatched
+Cloze,"Ang {{c1::assertSent}} ay nag-verify na naipadala ang isang mail.",,assertSent
+Cloze,"Ang {{c1::Mockery}} ay ang mocking library na ginagamit sa Laravel tests.",,Mockery
+Cloze,"Ang {{c1::expects()}} method ay nagde-declare ng inaasahang calls sa isang mock.",,expects() method
+Cloze,"Ang {{c1::shouldReceive}} ay nagde-declare na dapat tawagin ang method ng mock.",,shouldReceive
+Cloze,"Ang {{c1::test suite}} ay isang grupo ng mga tests na may common na configuration.",,test suite
+Cloze,"Ang {{c1::test helpers}} ay mga reusable functions o traits para sa tests.",,test helpers
+Cloze,"Ang {{c1::test coverage}} ay ang sukat kung gaano karaming code ang na-tetest.",,test coverage
+Cloze,"Ang {{c1::Unit test}} ay sumusubok ng isang specific na unit ng code nang walang framework.",,Unit test
+Cloze,"Ang {{c1::Feature test}} ay sumusubok ng maraming components na nagtutulungan.",,Feature test
+Cloze,"Ang {{c1::@test annotation}} o {{c1::test_ prefix}} ay nagma-mark ng test methods.",,@test annotation
+Cloze,"Ang {{c1::data provider}} ay nagbibigay ng multiple datasets para sa isang test method.",,data provider
+Cloze,"Ang {{c1::coverage report}} ay nagpapakita kung aling lines ang natakpan ng tests.",,coverage report
+Cloze,"Ang {{c1::CI integration}} ay nagra-run ng tests sa bawat push o merge.",,CI integration
+Cloze,"Ang {{c1::test naming}} ay sumusunod sa pattern na may action at expectation.",,test naming
+Cloze,"Ang {{c1::queue}} ay nagpapa-delay ng processing ng heavy tasks para hindi ma-block ang HTTP response.",,queue
+Cloze,"Ang {{c1::job}} ay isang class na nagsasagawa ng isang specific na task sa queue.",,job
+Cloze,"Ang {{c1::queue driver}} ay tumutukoy sa backend ng queue tulad ng database o redis.",,queue driver
+Cloze,"Ang {{c1::dispatch}} ay ang paglalagay ng job sa queue para i-process ng worker.",,dispatch
+Cloze,"Ang {{c1::retry}} ay ang pagsubok muli ng failed job matapos ang isang period.",,retry
+Cloze,"Ang {{c1::failed jobs}} ay mga jobs na nag-fail at nai-save sa failed_jobs table.",,failed jobs
+Cloze,"Ang {{c1::queue worker}} ay ang process na nagpro-process ng mga jobs mula sa queue.",,queue worker
+Cloze,"Ang {{c1::tries}} property ay tumutukoy kung ilang beses susubukan ang job.",,tries property
+Cloze,"Ang {{c1::backoff}} ay ang paghihintay bago i-retry ang isang failed job.",,backoff
+Cloze,"Ang {{c1::queue connection}} ay ang configuration ng queue sa config/queue.php.",,queue connection
+Cloze,"Ang {{c1::event}} ay isang notification na may data na nangyari sa application.",,event
+Cloze,"Ang {{c1::listener}} ay isang class na tumutugon sa isang event.",,listener
+Cloze,"Ang {{c1::dispatch}} ng event ay ang pag-trigger ng event para ma-execute ang mga listeners.",,dispatch
+Cloze,"Ang {{c1::subscriber}} ay isang class na nagrerehistro ng maraming event listeners.",,subscriber
+Cloze,"Ang {{c1::Event::listen}} ay nagre-register ng listener para sa isang event.",,Event::listen
+Cloze,"Ang {{c1::event class}} ay naglalaman ng data na ipinapasa sa mga listeners.",,event class
+Cloze,"Ang {{c1::shouldQueue}} ay nagpapahintulot sa listener na i-process sa queue.",,shouldQueue
+Cloze,"Ang {{c1::EventServiceProvider}} ay kung saan nirerehistro ang event-listener mappings.",,EventServiceProvider
+Cloze,"Ang {{c1::handle()}} method ay ang entry point ng listener kapag na-dispatch ang event.",,handle() method
+Cloze,"Ang {{c1::event discovery}} ay awtomatikong naghahanap ng listeners para sa mga events.",,event discovery
+Cloze,"Ang {{c1::task scheduling}} ay nag-a-arrange ng mga automated tasks na tumatakbo sa specific times.",,task scheduling
+Cloze,"Ang {{c1::cron}} ay ang system tool na nagra-run ng scheduled commands.",,cron
+Cloze,"Ang {{c1::schedule}} ay tumutukoy kung kailan dapat tumakbo ang isang command.",,schedule
+Cloze,"Ang {{c1::schedule:run}} command ay nag-trigger ng mga naka-schedule na tasks.",,schedule:run
+Cloze,"Ang {{c1::artisan schedule}} ay nagde-defines ng scheduled tasks sa Kernel.php.",,artisan schedule
+Cloze,"Ang {{c1::withoutOverlapping}} ay pumipigil sa pagtakbo ng task habang may tumatakbo pa.",,withoutOverlapping
+Cloze,"Ang {{c1::daily}} ay isang schedule frequency na tumatakbo isang beses kada araw.",,daily
+Cloze,"Ang {{c1::everyMinute}} ay isang schedule frequency na tumatakbo bawat minuto.",,everyMinute
+Cloze,"Ang {{c1::cron expression}} ay nagse-specify ng eksaktong schedule ng isang task.",,cron expression
+Cloze,"Ang {{c1::onOneServer}} ay nagpre-prevent ng duplicate execution ng task sa multiple servers.",,onOneServer
+Cloze,"Ang {{c1::mailable}} ay isang class na nagre-represent ng isang email sa Laravel.",,mailable
+Cloze,"Ang {{c1::notification}} ay nagpapadala ng mensahe sa user sa pamamagitan ng channels tulad ng mail at database.",,notification
+Cloze,"Ang {{c1::channel}} ay ang paraan ng paghahatid ng notification tulad ng mail o SMS.",,channel
+Cloze,"Ang {{c1::queued mail}} ay nagpapadala ng email sa background para hindi ma-block ang response.",,queued mail
+Cloze,"Ang {{c1::Mail::to()}} method ay tumutukoy sa receiver ng email.",,Mail::to() method
+Cloze,"Ang {{c1::notify()}} method ay nagpapadala ng notification sa isang notifiable model.",,notify() method
+Cloze,"Ang {{c1::via()}} method ay tumutukoy kung saang channels ipapadala ang notification.",,via() method
+Cloze,"Ang {{c1::mailables}} ay may build() method na nagse-set ng subject at view.",,build() method
+Cloze,"Ang {{c1::toMail}} method ay nagko-convert ng notification sa mailable form.",,toMail method
+Cloze,"Ang {{c1::Notification facade}} ay nagpapadala ng notification nang walang model.",,Notification facade
+Cloze,"Ang {{c1::cache}} ay nag-iimbak ng madalas na ginagamit na data para mapabilis ang pag-access.",,cache
+Cloze,"Ang {{c1::cache driver}} ay tumutukoy sa backend ng cache tulad ng file o redis.",,cache driver
+Cloze,"Ang {{c1::query caching}} ay nag-cache ng resulta ng mga queries para maiwasan ang paulit-ulit na database calls.",,query caching
+Cloze,"Ang {{c1::view caching}} ay nag-iimbak ng compiled views para mapabilis ang rendering.",,view caching
+Cloze,"Ang {{c1::cache invalidation}} ay ang pagtanggal o pag-update ng stale cache.",,cache invalidation
+Cloze,"Ang {{c1::Cache facade}} ay nagbibigay ng API para sa pag-iimbak ng cache.",,Cache facade
+Cloze,"Ang {{c1::cache tags}} ay nagpapahintulot sa pag-group ng mga cache items para i-invalidate nang sabay.",,cache tags
+Cloze,"Ang {{c1::remember()}} method ay nag-cache ng value at nagsa-save kung wala pa.",,remember() method
+Cloze,"Ang {{c1::TTL}} ay ang time-to-live ng isang cache item.",,TTL
+Cloze,"Ang {{c1::cache hit}} ay nangyayari kapag may nahanap na cache para sa isang key.",,cache hit
+Cloze,"Ang {{c1::optimization}} ay ang proseso ng pagpapabilis ng application.",,optimization
+Cloze,"Ang {{c1::eager loading}} ay nakakaiwas sa N+1 queries na nagpapabagal ng application.",,eager loading
+Cloze,"Ang {{c1::database index}} ay nagpapabilis ng paghahanap sa database table.",,database index
+Cloze,"Ang {{c1::OPcache}} ay nag-cache ng compiled PHP scripts para mapabilis ang execution.",,OPcache
+Cloze,"Ang {{c1::config cache}} ay pinagsasama ang config files sa isang cached file.",,config cache
+Cloze,"Ang {{c1::route cache}} ay pinapabilis ang route registration.",,route cache
+Cloze,"Ang {{c1::query log}} ay nagpapakita ng mga queries na na-execute sa isang request.",,query log
+Cloze,"Ang {{c1::index column}} ay dapat ilagay sa mga columns na madalas i-filter.",,index column
+Cloze,"Ang {{c1::N+1 detection}} ay nagha-highlight ng mga queries na hindi naka-eager load.",,N+1 detection
+Cloze,"Ang {{c1::performance profiling}} ay nagtutukoy kung saang parte mabagal ang application.",,performance profiling
+Cloze,"Ang {{c1::deployment}} ay ang proseso ng paglalagay ng application sa production.",,deployment
+Cloze,"Ang {{c1::deployment platform}} tulad ng Forge o Envoyer ay nag-a-automate ng deployment.",,deployment platform
+Cloze,"Ang {{c1::CI/CD}} ay ang automated na proseso ng pagbuo, pag-test, at pag-deploy ng code.",,CI/CD
+Cloze,"Ang {{c1::monitoring}} ay ang pagsubaybay sa health at performance ng application.",,monitoring
+Cloze,"Ang {{c1::maintenance mode}} ay nagpapatigil sa application habang may ginagawang maintenance.",,maintenance mode
+Cloze,"Ang {{c1::deploy script}} ay ang mga hakbang na ginagawa sa bawat deployment.",,deploy script
+Cloze,"Ang {{c1::zero downtime}} deployment ay nagde-deploy nang hindi pinapatigil ang application.",,zero downtime
+Cloze,"Ang {{c1::health check}} ay nagve-verify na okay ang application pagkatapos mag-deploy.",,health check
+Cloze,"Ang {{c1::logging}} ay nagre-record ng mga error at events ng application.",,logging
+Cloze,"Ang {{c1::rollback}} ay ang pagbabalik sa dating version kung may problema ang deployment.",,rollback
