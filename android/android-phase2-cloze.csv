@@ -2,7 +2,7 @@ Cloze,"Sa Kotlin, ang {{c1::class}} ay blueprint para sa paggawa ng objects na m
 Cloze,"Ang {{c1::data class}} ay special class na automatic na nag-generate ng equals, hashCode, at toString.",,data class
 Cloze,"Sa Kotlin, ang {{c1::inheritance}} ay ginagamit gamit ang colon (:) at kailangan ng open modifier sa parent class.",,inheritance
 Cloze,"Ang {{c1::interface}} ay blueprint ng methods na pwedeng i-implement ng ibang classes.",,interface
-Cloze,"Ang {{c1::sealed class}} ay限制 na pwedeng mag-inherit lang mula sa loob ng same file.",,sealed class
+Cloze,"Ang {{c1::sealed class}} ay limitado na pwedeng mag-inherit lang mula sa loob ng same file.",,sealed class
 Cloze,"Sa Kotlin, ang {{c1::override}} keyword ay ginagamit para i-override ang methods mula sa parent class o interface.",,override
 Cloze,"Ang {{c1::abstract}} class ay class na hindi pwedeng i-instantiate directly kailangan mag-subclass muna.",,abstract
 Cloze,"Sa Kotlin, ang {{c1::companion object}} ay singleton inside class na pwedeng i-access gamit ang class name.",,companion object
