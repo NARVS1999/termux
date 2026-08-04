@@ -1,0 +1,377 @@
+Cloze,"Ang {{c1::Big-O notation}} ay mathematical notation na nag-r-represent ng upper bound ng algorithm's growth rate.",,Big-O notation
+Cloze,"Ang {{c1::O(1)}} ay constant time complexity na hindi nag-change kahit lumaki ang input.",,O(1)
+Cloze,"Ang {{c1::O(n)}} ay linear time complexity na nag-i-increase proportionally sa input size.",,O(n)
+Cloze,"Ang {{c1::O(n^2)}} ay quadratic time complexity na nag-s-squares ang execution time.",,O(n^2)
+Cloze,"Ang {{c1::O(log n)}} ay logarithmic time complexity na nag-h-halves ang search space.",,O(log n)
+Cloze,"Ang {{c1::best case}} ay minimum number of operations na kailangan ng algorithm.",,best case
+Cloze,"Ang {{c1::worst case}} ay maximum number of operations na possible sa algorithm.",,worst case
+Cloze,"Ang {{c1::average case}} ay expected number of operations base sa probability distribution ng inputs.",,average case
+Cloze,"Ang {{c1::growth rate}} ay speed kung saan nag-i-increase ang time complexity habang lumalaki ang input.",,growth rate
+Cloze,"Ang {{c1::time complexity}} ay measure ng execution time ng algorithm relative sa input size.",,time complexity
+Cloze,"Ang {{c1::space complexity}} ay measure ng memory na ginagamit ng algorithm.",,space complexity
+Cloze,"Ang {{c1::tradeoff}} ay situation kung saan ang pag-improve ng isang aspect ay nag-d-degrade ng isa.",,tradeoff
+Cloze,"Ang {{c1::constraints}} ay limits na nag-d-determine ng acceptable na algorithm based sa input size.",,constraints
+Cloze,"Sa algorithm analysis, ang {{c1::auxiliary space}} ay extra memory na ginagamit bukwan sa input.",,auxiliary space
+Cloze,"Ang {{c1::in-place}} algorithm ay gumagamit ng O(1) extra space bukwan sa input storage.",,in-place
+Cloze,"Ang {{c1::stable}} sorting algorithm ay nag-p-preserve ng relative order ng equal elements.",,stable
+Cloze,"Ang {{c1::immutable}} data structure ay hindi nagbabago pagkatapos ng creation.",,immutable
+Cloze,"Ang {{c1::loop analysis}} ay pag-a-analyze ng time complexity ng iterative code.",,loop analysis
+Cloze,"Ang {{c1::recursion}} ay technique na nag-c-calls ng function sa sarili nito.",,recursion
+Cloze,"Ang {{c1::nested structure}} ay code na may loops o recursion sa loob ng loops.",,nested structure
+Cloze,"Sa code analysis, ang {{c1::base case}} ay condition na nag-t-stops ng recursion.",,base case
+Cloze,"Ang {{c1::recurrence relation}} ay equation na nag-d-defines ng time complexity ng recursive function.",,recurrence relation
+Cloze,"Ang {{c1::call stack}} ay stack na nag-t-tracks ng active function calls sa recursion.",,call stack
+Cloze,"Ang {{c1::tail recursion}} ay recursion na ang last operation ay ang recursive call.",,tail recursion
+Cloze,"Ang {{c1::stack overflow}} ay error kapag nalampasan ng recursion ang maximum call stack size.",,stack overflow
+Cloze,"Ang {{c1::understand}} phase ay pag-c-clear ng problem statement at identifying ang input/output.",,understand
+Cloze,"Ang {{c1::plan}} phase ay pag-d-design ng algorithm approach bago mag-code.",,plan
+Cloze,"Ang {{c1::implement}} phase ay actual coding ng solution gamit ang planned approach.",,implement
+Cloze,"Ang {{c1::test}} phase ay pag-v-verify ng solution gamit ang test cases.",,test
+Cloze,"Ang {{c1::edge cases}} ay extreme or unusual inputs na pwedeng mag-break ng solution.",,edge cases
+Cloze,"Ang {{c1::brute force}} ay unang solution na dumating sa isip, usually hindi optimal.",,brute force
+Cloze,"Ang {{c1::optimal solution}} ay pinaka-efficient na algorithm sa time at space.",,optimal solution
+Cloze,"Ang {{c1::dry run}} ay manual na pag-s simulate ng algorithm gamit ang sample inputs.",,dry run
+Cloze,"Ang {{c1::array}} ay contiguous block of memory na nag-i-store ng elements sa sequential order.",,array
+Cloze,"Ang {{c1::indexing}} ay pag-a-access ng array element gamit ang zero-based position.",,indexing
+Cloze,"Ang {{c1::slicing}} ay pag-c-create ng subarray mula sa start hanggang end index.",,slicing
+Cloze,"Ang {{c1::in-place operation}} ay array manipulation na walang extra space bukwan sa input.",,in-place operation
+Cloze,"Ang {{c1::traversal}} ay pag-i-iterate sa bawat element ng array.",,traversal
+Cloze,"Ang {{c1::length}} property ay nag-b-balik ng total number of elements sa array.",,length
+Cloze,"Sa arrays, ang {{c1::access}} operation ay O(1) dahil sa direct index computation.",,access
+Cloze,"Ang {{c1::insertion}} sa gitna ng array ay O(n) dahil kailangan i-shift ang elements.",,insertion
+Cloze,"Ang {{c1::two pointers}} ay technique na nag-g-gamit ng dalawang indices para mag-traverse ng array.",,two pointers
+Cloze,"Ang {{c1::sorted array}} ay prerequisite para sa two pointers na naka-arrange sa ascending order.",,sorted array
+Cloze,"Ang {{c1::partitioning}} ay process ng pag-h-hati ng array sa sections base sa condition.",,partitioning
+Cloze,"Ang {{c1::merging}} ay process ng pag-c-combine ng dalawang sorted arrays sa isang sorted result.",,merging
+Cloze,"Sa two pointers, ang {{c1::opposite ends}} approach ay nagsisimula sa left at right.",,opposite ends
+Cloze,"Ang {{c1::same direction}} approach ay nag-m-move ng dalawang pointers sa iisang direksyon.",,same direction
+Cloze,"Ang {{c1::convergence}} ay point kung saan nag-meet ang dalawang pointers.",,convergence
+Cloze,"Ang {{c1::swap}} operation ay pagpapalitan ng values sa dalawang array positions.",,swap
+Cloze,"Ang {{c1::sliding window}} ay technique na nag-c-creates ng subarray/window na nag-m-moves sa array.",,sliding window
+Cloze,"Ang {{c1::fixed window}} ay sliding window na may constant na size.",,fixed window
+Cloze,"Ang {{c1::dynamic window}} ay sliding window na nag-a-adjust ng size based sa condition.",,dynamic window
+Cloze,"Sa sliding window, ang {{c1::window sum}} ay running total ng elements sa current window.",,window sum
+Cloze,"Ang {{c1::expand}} operation ay nag-a-add ng element sa window.",,expand
+Cloze,"Ang {{c1::shrink}} operation ay nag-a-remove ng element mula sa window.",,shrink
+Cloze,"Ang {{c1::two pointer sliding}} ay combination ng two pointers at sliding window.",,two pointer sliding
+Cloze,"Ang {{c1::substring}} ay contiguous sequence ng characters sa string.",,substring
+Cloze,"Ang {{c1::prefix sum}} ay pre-computed array na nag-c-contains ng cumulative sums.",,prefix sum
+Cloze,"Sa prefix sums, ang {{c1::range sum}} ay computation ng sum sa loob ng [left, right] range.",,range sum
+Cloze,"Ang {{c1::subarray sum}} ay sum ng contiguous elements sa array.",,subarray sum
+Cloze,"Ang {{c1::2D prefix sum}} ay extension ng prefix sum sa matrices.",,2D prefix sum
+Cloze,"Ang {{c1::cumulative}} ay property na nag-a-add ng current value sa running total.",,cumulative
+Cloze,"Ang {{c1::difference array}} ay technique na nag-m-maintains ng range updates efficiently.",,difference array
+Cloze,"Sa prefix sum, ang {{c1::formula}} ay prefix[right+1] - prefix[left] para sa range sum.",,formula
+Cloze,"Ang {{c1::running total}} ay same concept sa prefix sum na nag-a-add habang nag-i-iterate.",,running total
+Cloze,"Ang {{c1::matrix}} ay 2D array na nag-i-store ng elements sa rows at columns.",,matrix
+Cloze,"Ang {{c1::traversal}} sa matrix ay pag-i-iterate sa bawat element.",,traversal
+Cloze,"Ang {{c1::rotation}} ay pagpapalit ng orientation ng matrix: 90, 180, o 270 degrees.",,rotation
+Cloze,"Sa matrices, ang {{c1::diagonal}} ay elements na nasa same position ng row at column index.",,diagonal
+Cloze,"Ang {{c1::transpose}} ay operation na nag-s-swaps ng rows at columns.",,transpose
+Cloze,"Ang {{c1::spiral order}} ay traversal pattern na nag-m-move sa labas papunta sa loob.",,spiral order
+Cloze,"Ang {{c1::flood fill}} ay algorithm na nag-c-colors ng connected regions sa matrix.",,flood fill
+Cloze,"Ang {{c1::path finding}} ay algorithm na nag-n-navigate mula sa start hanggang end sa matrix.",,path finding
+Cloze,"Ang {{c1::singly linked list}} ay data structure na nag-e-extend ng nodes na may data at next pointer.",,singly linked list
+Cloze,"Ang {{c1::node}} ay basic unit ng linked list na nag-c-contains ng data at reference sa next node.",,node
+Cloze,"Ang {{c1::head}} ay unang node sa linked list.",,head
+Cloze,"Ang {{c1::traversal}} sa linked list ay pag-i-iterate gamit ang next pointers hanggang null.",,traversal
+Cloze,"Ang {{c1::insertion}} sa linked list ay O(1) kapag alam mo na ang position.",,insertion
+Cloze,"Ang {{c1::deletion}} sa linked list ay O(1) kapag may reference sa previous node.",,deletion
+Cloze,"Ang {{c1::null}} termination ay ang huling node na ang next pointer ay walang value.",,null
+Cloze,"Ang {{c1::temp pointer}} ay temporary reference na ginagamit para mag-traverse nang hindi nawawala ang head.",,temp pointer
+Cloze,"Ang {{c1::doubly linked list}} ay linked list na may prev at next pointers sa bawat node.",,doubly linked list
+Cloze,"Ang {{c1::prev pointer}} ay reference sa previous node sa doubly linked list.",,prev pointer
+Cloze,"Ang {{c1::next pointer}} ay reference sa next node sa linked list.",,next pointer
+Cloze,"Ang {{c1::tail}} ay huling node sa linked list na ang next ay null.",,tail
+Cloze,"Ang {{c1::tail access}} ay O(1) sa doubly linked list kung may tail reference.",,tail access
+Cloze,"Ang {{c1::bidirectional}} traversal ay possible sa doubly linked list: forward at backward.",,bidirectional
+Cloze,"Ang {{c1::sentinel node}} ay dummy node na nag-s-simplifies ng edge cases sa insertion at deletion.",,sentinel node
+Cloze,"Ang {{c1::O(1) insertion}} at deletion ay possible kapag may reference na sa target node.",,O(1) insertion
+Cloze,"Ang {{c1::Floyd's cycle detection}} ay algorithm na nag-d-detect ng cycle gamit ang fast at slow pointers.",,Floyd's cycle detection
+Cloze,"Ang {{c1::fast pointer}} ay nag-m-move ng 2 steps sa bawat iteration.",,fast pointer
+Cloze,"Ang {{c1::slow pointer}} ay nag-m-move ng 1 step sa bawat iteration.",,slow pointer
+Cloze,"Ang {{c1::cycle}} ay situation kung saan ang isang node ay naa-access muli sa traversal.",,cycle
+Cloze,"Ang {{c1::meeting point}} ay position kung saan nag-meet ang fast at slow pointers.",,meeting point
+Cloze,"Ang {{c1::cycle start}} ay node kung saan nagsisimula ang cycle.",,cycle start
+Cloze,"Sa Floyd's algorithm, ang {{c1::phase 1}} ay pag-detect ng meeting point.",,phase 1
+Cloze,"Ang {{c1::phase 2}} ay pag-find ng cycle start gamit ang reset na slow pointer.",,phase 2
+Cloze,"Ang {{c1::list reversal}} ay operation na nag-p-palit ng direction ng linked list.",,list reversal
+Cloze,"Ang {{c1::merging}} ay process ng pag-c-combine ng dalawang sorted linked lists.",,merging
+Cloze,"Ang {{c1::kth from end}} ay pag-f-find ng nth node mula sa huling position.",,kth from end
+Cloze,"Ang {{c1::dummy head}} ay technique na nag-s-simplifies ng insertion sa unang position.",,dummy head
+Cloze,"Ang {{c1::runner technique}} ay pag-g-gamit ng dalawang pointers na may different speeds.",,runner technique
+Cloze,"Ang {{c1::in-place merge}} ay merging na walang extra space bukwan sa pointers.",,in-place merge
+Cloze,"Ang {{c1::palindrome check}} ay pag-v-verify kung equal ang first at last elements.",,palindrome check
+Cloze,"Ang {{c1::intersection}} ay node kung saan nag-meet ang dalawang linked lists.",,intersection
+Cloze,"Ang {{c1::stack}} ay LIFO data structure na nag-i-store ng elements sa last-in, first-out order.",,stack
+Cloze,"Ang {{c1::push}} operation ay nag-a-add ng element sa tuktok ng stack.",,push
+Cloze,"Ang {{c1::pop}} operation ay nag-a-remove ng element mula sa tuktok ng stack.",,pop
+Cloze,"Ang {{c1::peek}} operation ay nag-b-balik ng top element nang hindi nag-a-remove.",,peek
+Cloze,"Ang {{c1::parenthesis matching}} ay classic application ng stack para i-validate ang balanced brackets.",,parenthesis matching
+Cloze,"Ang {{c1::call stack}} ay implicit stack na ginagamit ng programming language para sa function calls.",,call stack
+Cloze,"Ang {{c1::empty stack}} ay wala laman na stack na nag-return ng error sa pop operation.",,empty stack
+Cloze,"Ang {{c1::stack overflow}} ay error kapag nag-push sa full stack.",,stack overflow
+Cloze,"Ang {{c1::monotonic stack}} ay stack na nag-m-maintains ng increasing o decreasing order.",,monotonic stack
+Cloze,"Ang {{c1::next greater element}} ay pinakamalapit na element sa kanan na mas malaki sa current.",,next greater element
+Cloze,"Ang {{c1::monotonic decreasing}} stack ay nag-s-sure na bawat element ay mas malaki sa ibaba nito.",,monotonic decreasing
+Cloze,"Ang {{c1::monotonic increasing}} stack ay nag-s-sure na bawat element ay mas maliit sa ibaba nito.",,monotonic increasing
+Cloze,"Sa monotonic stack, ang {{c1::range}} ay span ng elements na satisfied sa condition.",,range
+Cloze,"Ang {{c1::maintenance}} ay process ng pag-s-stay ng elements sa stack habang nag-i-iterate.",,maintenance
+Cloze,"Ang {{c1::pop until}} ay pattern na nag-a-remove ng elements hanggang satisfied ang condition.",,pop until
+Cloze,"Ang {{c1::answer array}} ay result na nag-c-contains ng computed values para sa bawat element.",,answer array
+Cloze,"Ang {{c1::queue}} ay FIFO data structure na nag-i-store ng elements sa first-in, first-out order.",,queue
+Cloze,"Ang {{c1::deque}} ay double-ended queue na nag-a-add at nag-a-remove sa both ends.",,deque
+Cloze,"Ang {{c1::enqueue}} ay operation na nag-a-add ng element sa likod ng queue.",,enqueue
+Cloze,"Ang {{c1::dequeue}} ay operation na nag-a-remove ng element sa harap ng queue.",,dequeue
+Cloze,"Ang {{c1::BFS queue}} ay queue na ginagamit sa breadth-first traversal ng graphs at trees.",,BFS queue
+Cloze,"Ang {{c1::sliding window max}} ay problem na nag-f-find ng maximum sa bawat window position.",,sliding window max
+Cloze,"Ang {{c1::circular queue}} ay queue na nag-r-rewind sa simula pagkatapos ng last position.",,circular queue
+Cloze,"Ang {{c1::front}} property ay nag-b-balik ng unang element sa queue.",,front
+Cloze,"Ang {{c1::priority queue}} ay queue na nag-s-serves ng highest priority element first.",,priority queue
+Cloze,"Ang {{c1::heap}} ay complete binary tree na nag-m-maintains ng heap property.",,heap
+Cloze,"Ang {{c1::max heap}} ay heap na ang parent ay laging mas malaki sa children.",,max heap
+Cloze,"Ang {{c1::min heap}} ay heap na ang parent ay laging mas maliit sa children.",,min heap
+Cloze,"Ang {{c1::heapify}} ay process ng pag-a-restore ng heap property.",,heapify
+Cloze,"Ang {{c1::k-th element}} ay element na naka-rank sa kth position.",,k-th element
+Cloze,"Ang {{c1::heap sort}} ay sorting algorithm na nag-u-uses ng heap.",,heap sort
+Cloze,"Ang {{c1::parent index}} sa heap ay floor((i-1)/2) para sa 0-indexed.",,parent index
+Cloze,"Ang {{c1::min-stack}} ay stack na nag-b-balik ng minimum element sa O(1) time.",,min-stack
+Cloze,"Ang {{c1::two-stack queue}} ay queue implementation na gumagamit ng dalawang stacks.",,two-stack queue
+Cloze,"Ang {{c1::stack with min}} ay data structure na nag-m-maintains ng min habang nag-p-push/pop.",,stack with min
+Cloze,"Sa two-stack queue, ang {{c1::input stack}} ay tumatanggap ng incoming elements.",,input stack
+Cloze,"Ang {{c1::output stack}} ay nagbibigay ng FIFO order sa two-stack queue.",,output stack
+Cloze,"Ang {{c1::amortized O(1)}} ay time complexity na averaged over operations.",,amortized O(1)
+Cloze,"Ang {{c1::auxiliary stack}} ay extra stack na nag-s-stores ng min values.",,auxiliary stack
+Cloze,"Ang {{c1::balanced parentheses}} ay string na may matching opening at closing brackets.",,balanced parentheses
+Cloze,"Ang {{c1::hash function}} ay function na nag-c-convert ng key sa index sa hash table.",,hash function
+Cloze,"Ang {{c1::collision}} ay situation kung saan dalawang keys ay nag-m-map sa same index.",,collision
+Cloze,"Ang {{c1::load factor}} ay ratio ng total entries sa capacity ng hash table.",,load factor
+Cloze,"Ang {{c1::chaining}} ay collision resolution na nag-l-links ng entries sa same bucket.",,chaining
+Cloze,"Ang {{c1::open addressing}} ay collision resolution na nag-s-search ng empty slot.",,open addressing
+Cloze,"Ang {{c1::bucket}} ay slot sa hash table na nag-c-contains ng entries.",,bucket
+Cloze,"Ang {{c1::hash code}} ay integer na nag-r-represent ng hashed key value.",,hash code
+Cloze,"Ang {{c1::resizing}} ay process ng pag-l-laki ng hash table kapag puno na.",,resizing
+Cloze,"Ang {{c1::frequency counting}} ay technique na nag-c-counts ng occurrences ng elements.",,frequency counting
+Cloze,"Ang {{c1::count}} ay number of times na nag-a-appear ang element sa data.",,count
+Cloze,"Ang {{c1::mode}} ay element na may pinakamataas na frequency.",,mode
+Cloze,"Ang {{c1::anagram}} ay string na may same characters pero different order.",,anagram
+Cloze,"Ang {{c1::HashMap}} ay data structure na nag-i-stores ng key-value pairs sa O(1) access.",,HashMap
+Cloze,"Ang {{c1::Counter}} ay utility na nag-c-creates ng frequency map mula sa collection.",,Counter
+Cloze,"Sa frequency counting, ang {{c1::character frequency}} ay count ng bawat character sa string.",,character frequency
+Cloze,"Ang {{c1::grouping}} ay process ng pag-c-collect ng elements base sa common property.",,grouping
+Cloze,"Ang {{c1::two-sum}} ay problem na nag-f-find ng dalawang numbers na may sum equals target.",,two-sum
+Cloze,"Ang {{c1::complement}} ay value na kailangan i-add sa current para ma-reach ang target.",,complement
+Cloze,"Ang {{c1::pattern mapping}} ay technique na nag-m-maps ng elements base sa shared pattern.",,pattern mapping
+Cloze,"Sa HashMap, ang {{c1::lookup}} ay O(1) average time complexity.",,lookup
+Cloze,"Ang {{c1::grouping}} ay pag-c-collect ng elements na may same pattern.",,grouping
+Cloze,"Ang {{c1::subarray sum}} ay sum ng contiguous elements na naka-store sa HashMap.",,subarray sum
+Cloze,"Ang {{c1::running sum}} ay cumulative sum habang nag-i-iterate sa array.",,running sum
+Cloze,"Ang {{c1::prefix sum}} ay pre-computed sum na nag-e-enable ng O(1) range queries.",,prefix sum
+Cloze,"Ang {{c1::set}} ay collection na nag-i-store ng unique elements lang.",,set
+Cloze,"Ang {{c1::interval}} ay range na may start at end value.",,interval
+Cloze,"Ang {{c1::union}} ay operation na nag-c-combines ng dalawang sets.",,union
+Cloze,"Ang {{c1::intersection}} ay operation na nag-f-finds ng common elements.",,intersection
+Cloze,"Ang {{c1::interval merging}} ay process ng pag-c-combine ng overlapping intervals.",,interval merging
+Cloze,"Ang {{c1::HashSet}} ay Set implementation na nag-u-uses ng hash table.",,HashSet
+Cloze,"Ang {{c1::sorted set}} ay Set na naka-arrange sa ascending order.",,sorted set
+Cloze,"Ang {{c1::uniqueness}} ay property ng set na nag-p-prevents ng duplicates.",,uniqueness
+Cloze,"Ang {{c1::binary tree}} ay tree na ang bawat node ay may at most two children: left at right.",,binary tree
+Cloze,"Ang {{c1::root}} ay unang node sa tree na walang parent.",,root
+Cloze,"Ang {{c1::leaf}} ay node na walang children.",,leaf
+Cloze,"Ang {{c1::depth}} ay number of edges mula sa root hanggang sa node.",,depth
+Cloze,"Ang {{c1::height}} ay maximum na depth sa buong tree.",,height
+Cloze,"Ang {{c1::subtree}} ay smaller tree na naka-embed sa loob ng larger tree.",,subtree
+Cloze,"Ang {{c1::level}} ay set ng nodes na may same depth value.",,level
+Cloze,"Ang {{c1::edge}} ay connection sa pagitan ng dalawang nodes sa tree.",,edge
+Cloze,"Ang {{c1::BST}} ay binary tree na ang left child ay mas maliit at right child ay mas malaki sa parent.",,BST
+Cloze,"Ang {{c1::insert}} sa BST ay O(log n) average kapag balanced.",,insert
+Cloze,"Ang {{c1::search}} sa BST ay O(log n) average time complexity.",,search
+Cloze,"Ang {{c1::delete}} sa BST ay may 3 cases: leaf, one child, two children.",,delete
+Cloze,"Ang {{c1::inorder traversal}} ng BST ay nag-b-balik ng sorted order.",,inorder traversal
+Cloze,"Ang {{c1::successor}} ay pinakamaliit na value na mas malaki sa given node.",,successor
+Cloze,"Ang {{c1::predecessor}} ay pinakamalaki na value na mas maliit sa given node.",,predecessor
+Cloze,"Ang {{c1::validation}} ay pag-v-verify kung valid BST ang given tree.",,validation
+Cloze,"Ang {{c1::preorder traversal}} ay Root-Left-Right na pag-i-iterate sa tree.",,preorder traversal
+Cloze,"Ang {{c1::inorder traversal}} ay Left-Root-Right na traversal na nag-b-balis ng sorted sa BST.",,inorder traversal
+Cloze,"Ang {{c1::postorder traversal}} ay Left-Right-Root na traversal na ginagamit sa deletion.",,postorder traversal
+Cloze,"Ang {{c1::level order traversal}} ay BFS na nag-i-iterate level by level.",,level order traversal
+Cloze,"Ang {{c1::iterative traversal}} ay non-recursive na traversal gamit ang stack.",,iterative traversal
+Cloze,"Ang {{c1::recursive traversal}} ay traversal na nag-c-calls ng sarili para sa left at right.",,recursive traversal
+Cloze,"Ang {{c1::DFS}} ay depth-first search na nag-m-move sa deepest node muna.",,DFS
+Cloze,"Ang {{c1::BFS}} ay breadth-first search na nag-v-visits ng lahat sa current level.",,BFS
+Cloze,"Ang {{c1::diameter}} ay longest path sa pagitan ng dalawang nodes sa tree.",,diameter
+Cloze,"Ang {{c1::path}} ay sequence ng nodes na connected by edges.",,path
+Cloze,"Ang {{c1::LCA}} ay lowest common ancestor: pinakamababang node na ancestor ng dalawang nodes.",,LCA
+Cloze,"Ang {{c1::balancing}} ay process ng pag-e-ensure na ang tree ay hindi nag-i-skew.",,balancing
+Cloze,"Ang {{c1::max path sum}} ay path na may pinakamalaking sum ng values.",,max path sum
+Cloze,"Ang {{c1::vertical traversal}} ay pag-i-iterate ng nodes base sa column index.",,vertical traversal
+Cloze,"Ang {{c1::boundary traversal}} ay pag-visits ng outer boundary nodes ng tree.",,boundary traversal
+Cloze,"Ang {{c1::serialize}} ay process ng pag-c-convert ng tree to string format.",,serialize
+Cloze,"Ang {{c1::max heap}} ay complete binary tree na ang parent ay laging mas malaki sa children.",,max heap
+Cloze,"Ang {{c1::min heap}} ay complete binary tree na ang parent ay laging mas maliit sa children.",,min heap
+Cloze,"Ang {{c1::heapify}} ay operation na nag-a-restore ng heap property sa subtree.",,heapify
+Cloze,"Ang {{c1::heap sort}} ay comparison-based sorting algorithm na O(n log n).",,heap sort
+Cloze,"Ang {{c1::build heap}} ay process ng pag-c-convert ng array to heap sa O(n) time.",,build heap
+Cloze,"Ang {{c1::heap property}} ay condition na nag-s-sure ng parent-child ordering.",,heap property
+Cloze,"Ang {{c1::complete binary tree}} ay tree na filled sa lahat ng levels except possibly the last.",,complete binary tree
+Cloze,"Ang {{c1::sift down}} ay operation na nag-m-moves ng element pababa hanggang satisfied ang heap.",,sift down
+Cloze,"Ang {{c1::trie}} ay tree-like data structure na nag-i-store ng strings char by char.",,trie
+Cloze,"Ang {{c1::prefix}} ay common substring na nagsisimula sa simula ng words.",,prefix
+Cloze,"Ang {{c1::autocomplete}} ay feature na nag-s-suggest ng words base sa partial input.",,autocomplete
+Cloze,"Ang {{c1::trie node}} ay may children map at isEndOfWord boolean flag.",,trie node
+Cloze,"Ang {{c1::insertion}} sa trie ay O(m) kung saan m ay length ng string.",,insertion
+Cloze,"Ang {{c1::search}} sa trie ay O(m) kung saan m ay length ng string.",,search
+Cloze,"Ang {{c1::startsWith}} method ay nag-v-verifies kung may words na may given prefix.",,startsWith
+Cloze,"Ang {{c1::word break}} ay problem na nag-s-splits ng string sa valid dictionary words.",,word break
+Cloze,"Ang {{c1::graph}} ay collection ng nodes (vertices) na connected by edges.",,graph
+Cloze,"Ang {{c1::adjacency list}} ay representation na nag-l-links ng bawat node sa list ng neighbors.",,adjacency list
+Cloze,"Ang {{c1::adjacency matrix}} ay 2D array na nag-i-indicate ng connections sa pagitan ng nodes.",,adjacency matrix
+Cloze,"Ang {{c1::directed graph}} ay graph na ang edges ay may direction.",,directed graph
+Cloze,"Ang {{c1::undirected graph}} ay graph na ang edges ay walang direction.",,undirected graph
+Cloze,"Ang {{c1::weighted graph}} ay graph na ang edges ay may associated values.",,weighted graph
+Cloze,"Ang {{c1::sparse graph}} ay graph na may kaunti lang edges relative sa possible na connections.",,sparse graph
+Cloze,"Ang {{c1::dense graph}} ay graph na may maraming edges relative sa possible na connections.",,dense graph
+Cloze,"Ang {{c1::BFS}} ay breadth-first traversal na nag-v-visits ng lahat sa current level bago mag-proceed.",,BFS
+Cloze,"Ang {{c1::DFS}} ay depth-first traversal na nag-m-move sa deepest node bago mag-backtrack.",,DFS
+Cloze,"Ang {{c1::component}} ay connected group ng nodes sa graph.",,component
+Cloze,"Ang {{c1::flood fill}} ay algorithm na nag-c-colors ng connected region sa matrix.",,flood fill
+Cloze,"Ang {{c1::visited}} set ay nag-t-tracks ng na-visit na nodes para maiwasan ang revisits.",,visited
+Cloze,"Ang {{c1::level}} ay distance ng node mula sa source sa BFS.",,level
+Cloze,"Ang {{c1::connected components}} ay count ng separate groups sa undirected graph.",,connected components
+Cloze,"Ang {{c1::cycle}} ay path na nagsisimula at nag-e-end sa same node.",,cycle
+Cloze,"Ang {{c1::Dijkstra}} ay algorithm na nag-f-find ng shortest path mula sa source sa lahat ng nodes.",,Dijkstra
+Cloze,"Ang {{c1::Bellman-Ford}} ay shortest path algorithm na nag-h-handles ng negative weights.",,Bellman-Ford
+Cloze,"Ang {{c1::negative weight}} ay edge na may negative value na nag-d-distorts ng shortest path.",,negative weight
+Cloze,"Ang {{c1::priority queue}} sa Dijkstra ay nag-s-serves ng pinakamalapit na node.",,priority queue
+Cloze,"Ang {{c1::relaxation}} ay process ng pag-u-update ng shortest distance kapag may mas maikling path.",,relaxation
+Cloze,"Ang {{c1::single source}} ay shortest path algorithm na nag-f-finds mula sa iisang node.",,single source
+Cloze,"Ang {{c1::negative cycle}} ay cycle na may total negative weight na nag-c-causes ng infinite loop.",,negative cycle
+Cloze,"Ang {{c1::greedy approach}} ng Dijkstra ay laging pinipili ang pinakamalapit na node.",,greedy approach
+Cloze,"Ang {{c1::cycle detection}} sa graph ay pag-detect kung may cycle ang graph.",,cycle detection
+Cloze,"Ang {{c1::directed cycle}} ay cycle na sumusunod sa edge directions.",,directed cycle
+Cloze,"Ang {{c1::undirected cycle}} ay cycle sa undirected graph na may back edge.",,undirected cycle
+Cloze,"Ang {{c1::back edge}} ay edge na nag-c-connect sa node sa current DFS path.",,back edge
+Cloze,"Ang {{c1::topological sort}} ay linear ordering ng vertices na nag-s-satisfy ng all constraints.",,topological sort
+Cloze,"Ang {{c1::in-degree}} ay number of edges na papasok sa node.",,in-degree
+Cloze,"Ang {{c1::out-degree}} ay number of edges na palabas ng node.",,out-degree
+Cloze,"Ang {{c1::DAG}} ay directed acyclic graph na walang cycles.",,DAG
+Cloze,"Ang {{c1::Kahn's algorithm}} ay BFS-based topological sort na nag-u-uses ng in-degree.",,Kahn's algorithm
+Cloze,"Ang {{c1::topological order}} ay valid na sequence kung saan bawat node ay na-process bago ang mga dependent.",,topological order
+Cloze,"Ang {{c1::DFS-based}} topological sort ay nag-s-sorts ng nodes sa reverse finish order.",,DFS-based
+Cloze,"Ang {{c1::dependency}} ay relationship kung saan ang isang task ay naka-rely sa isa pang task.",,dependency
+Cloze,"Ang {{c1::in-degree 0}} node ay node na walang incoming edges na pwedeng i-process muna.",,in-degree 0
+Cloze,"Ang {{c1::cycle check}} gamit topological sort: kapag walang valid ordering may cycle.",,cycle check
+Cloze,"Ang {{c1::task scheduling}} ay classic application ng topological sort.",,task scheduling
+Cloze,"Ang {{c1::course schedule}} ay LeetCode problem na nag-s-solves gamit ang topological sort.",,course schedule
+Cloze,"Ang {{c1::union-find}} ay data structure na nag-d-determines ng connectivity sa pagitan ng elements.",,union-find
+Cloze,"Ang {{c1::disjoint set}} ay collection ng non-overlapping sets.",,disjoint set
+Cloze,"Ang {{c1::find}} operation ay nag-b-balik ng representative ng set.",,find
+Cloze,"Ang {{c1::union}} operation ay nag-c-combines ng dalawang sets.",,union
+Cloze,"Ang {{c1::path compression}} ay optimization na nag-f-flattens ng tree structure.",,path compression
+Cloze,"Ang {{c1::union by rank}} ay optimization na nag-a-attach ng smaller tree sa larger.",,union by rank
+Cloze,"Ang {{c1::connected components}} ay kaya nitong i-count gamit ang union-find.",,connected components
+Cloze,"Ang {{c1::amortized near O(1)}} ay time complexity ng find at union gamit ang optimizations.",,amortized near O(1)
+Cloze,"Ang {{c1::bubble sort}} ay O(n^2) sorting algorithm na nag-s-swaps ng adjacent elements.",,bubble sort
+Cloze,"Ang {{c1::selection sort}} ay O(n^2) sorting algorithm na nag-fi-find ng minimum sa bawat pass.",,selection sort
+Cloze,"Ang {{c1::insertion sort}} ay O(n^2) sorting algorithm na nag-i-insert ng element sa tamang position.",,insertion sort
+Cloze,"Ang {{c1::comparison sort}} ay sorting algorithm na nag-c-compares ng elements.",,comparison sort
+Cloze,"Ang {{c1::swap}} operation ay pagpapalitan ng values sa dalawang positions.",,swap
+Cloze,"Ang {{c1::stable sort}} ay algorithm na nag-p-preserve ng relative order ng equal elements.",,stable sort
+Cloze,"Ang {{c1::in-place sort}} ay sorting na walang extra space bukwan sa input array.",,in-place sort
+Cloze,"Ang {{c1::adaptive}} sorting ay algorithm na mas mabilis kapag partially sorted na ang input.",,adaptive
+Cloze,"Ang {{c1::mergesort}} ay divide and conquer sorting algorithm na O(n log n).",,mergesort
+Cloze,"Ang {{c1::quicksort}} ay divide and conquer sorting algorithm na average O(n log n).",,quicksort
+Cloze,"Ang {{c1::divide and conquer}} ay paradigm na nag-h-hati ng problem sa smaller subproblems.",,divide and conquer
+Cloze,"Ang {{c1::merge}} operation ay pag-c-combine ng two sorted arrays.",,merge
+Cloze,"Ang {{c1::pivot}} sa quicksort ay element na ginagamit para mag-partition.",,pivot
+Cloze,"Ang {{c1::partition}} sa quicksort ay pag-h-hati ng array sa elements smaller at larger sa pivot.",,partition
+Cloze,"Ang {{c1::worst case}} ng quicksort ay O(n^2) kapag poorly chosen ang pivot.",,worst case
+Cloze,"Ang {{c1::tail recursion}} optimization sa quicksort ay nag-r-reduces ng stack space.",,tail recursion
+Cloze,"Ang {{c1::binary search}} ay O(log n) algorithm na nag-f-find ng target sa sorted array.",,binary search
+Cloze,"Ang {{c1::left bound}} variant ay nag-f-finds ng leftmost occurrence ng target.",,left bound
+Cloze,"Ang {{c1::right bound}} variant ay nag-f-finds ng rightmost occurrence ng target.",,right bound
+Cloze,"Ang {{c1::rotated array}} ay sorted array na na-rotate sa unknown pivot.",,rotated array
+Cloze,"Ang {{c1::search space}} ay range ng possible answers na nag-n-narrows down.",,search space
+Cloze,"Ang {{c1::mid}} ay computation na (left + right) / 2 para sa binary search.",,mid
+Cloze,"Ang {{c1::lower bound}} ay first position kung saan ang element ay >= target.",,lower bound
+Cloze,"Ang {{c1::upper bound}} ay first position kung saan ang element ay > target.",,upper bound
+Cloze,"Ang {{c1::quickselect}} ay selection algorithm na average O(n) para mag-find ng k-th element.",,quickselect
+Cloze,"Ang {{c1::median}} ay middle element sa sorted array.",,median
+Cloze,"Ang {{c1::k-th smallest}} ay element na naka-rank sa k-th position.",,k-th smallest
+Cloze,"Ang {{c1::pivot selection}} sa quickselect ay critical para sa performance.",,pivot selection
+Cloze,"Ang {{c1::partial sort}} ay sorting na hindi kailangan i-sort ang buong array.",,partial sort
+Cloze,"Ang {{c1::selection problem}} ay pag-f-find ng k-th order statistic.",,selection problem
+Cloze,"Ang {{c1::median of medians}} ay pivot selection strategy na guarantees O(n) worst case.",,median of medians
+Cloze,"Ang {{c1::Hoare's selection}} ay algorithm variant na nag-m-minimizes ng swaps.",,Hoare's selection
+Cloze,"Ang {{c1::counting sort}} ay non-comparison sort na O(n + k) para sa bounded integers.",,counting sort
+Cloze,"Ang {{c1::radix sort}} ay sorting algorithm na nag-s-sorts digit by digit.",,radix sort
+Cloze,"Ang {{c1::bucket sort}} ay sorting algorithm na nag-g-groups ng elements sa buckets.",,bucket sort
+Cloze,"Ang {{c1::non-comparison sort}} ay algorithm na hindi nag-c-compares ng elements directly.",,non-comparison sort
+Cloze,"Ang {{c1::linear time}} sorting ay possible gamit ang non-comparison sorts.",,linear time
+Cloze,"Ang {{c1::digit}} ay component ng number na ginagamit sa radix sort.",,digit
+Cloze,"Ang {{c1::stable sort}} requirement ay kailangan para sa correct radix sort.",,stable sort
+Cloze,"Ang {{c1::frequency array}} ay ginagamit sa counting sort para mag-count ng occurrences.",,frequency array
+Cloze,"Ang {{c1::memoization}} ay top-down DP technique na nag-c-caches ng function results.",,memoization
+Cloze,"Ang {{c1::top-down}} ay approach na nag-s-start sa original problem at nag-b-break down.",,top-down
+Cloze,"Ang {{c1::state definition}} ay process ng pag-d-determine ng minimal state para sa DP.",,state definition
+Cloze,"Ang {{c1::cache}} ay storage na nag-s-stores ng previously computed results.",,cache
+Cloze,"Ang {{c1::overlapping subproblems}} ay situation na ang same subproblems ay na-s-solve multiple times.",,overlapping subproblems
+Cloze,"Ang {{c1::optimal substructure}} ay property na ang optimal solution ay nag-c-contains ng optimal sub-solutions.",,optimal substructure
+Cloze,"Ang {{c1::recursive relation}} ay equation na nag-d-defines ng current state based sa subproblems.",,recursive relation
+Cloze,"Ang {{c1::DP array}} ay memoization table na nag-s-stores ng computed results.",,DP array
+Cloze,"Ang {{c1::tabulation}} ay bottom-up DP technique na nag-f-fills ng table iteratively.",,tabulation
+Cloze,"Ang {{c1::bottom-up}} ay approach na nag-s-start sa smallest subproblems.",,bottom-up
+Cloze,"Ang {{c1::space optimization}} ay technique na nag-r-reduces ng space complexity.",,space optimization
+Cloze,"Ang {{c1::DP table}} ay 2D o 1D array na nag-s-stores ng tabulated results.",,DP table
+Cloze,"Ang {{c1::base case}} sa tabulation ay initial values na kailangan i-set.",,base case
+Cloze,"Ang {{c1::iteration order}} ay sequence ng pag-f-fill ng DP table.",,iteration order
+Cloze,"Ang {{c1::rolling array}} ay space optimization technique na nag-ke-keep lang ng constant rows.",,rolling array
+Cloze,"Ang {{c1::transition}} ay rule na nag-c-computes ng dp[i] base sa previous values.",,transition
+Cloze,"Ang {{c1::climbing stairs}} ay classic 1D DP problem na nag-c-counts ng ways to reach nth step.",,climbing stairs
+Cloze,"Ang {{c1::coin change}} ay problem na nag-f-finds ng minimum coins para sa target amount.",,coin change
+Cloze,"Ang {{c1::house robber}} ay problem na nag-m-maximizes ng stolen amount nang hindi nag-aadjacent.",,house robber
+Cloze,"Ang {{c1::1D DP}} ay dynamic programming na nag-u-uses ng single dimensional array.",,1D DP
+Cloze,"Ang {{c1::recurrence}} para sa climbing stairs ay dp[i] = dp[i-1] + dp[i-2].",,recurrence
+Cloze,"Ang {{c1::base case}} para sa coin change ay dp[0] = 0 at dp[x] = infinity.",,base case
+Cloze,"Ang {{c1::state transition}} ay rule na nag-c-computes ng next state mula sa current.",,state transition
+Cloze,"Ang {{c1::unbounded}} ay variant na pwedeng i-reuse ang same item multiple times.",,unbounded
+Cloze,"Ang {{c1::LCS}} ay longest common subsequence sa dalawang strings.",,LCS
+Cloze,"Ang {{c1::edit distance}} ay minimum number of operations para i-convert ang string A to B.",,edit distance
+Cloze,"Ang {{c1::2D DP}} ay dynamic programming na nag-u-uses ng 2D table.",,2D DP
+Cloze,"Ang {{c1::grid DP}} ay 2D DP na nag-n-navigate sa matrix.",,grid DP
+Cloze,"Ang {{c1::string matching}} ay problem na nag-f-finds ng patterns sa text.",,string matching
+Cloze,"Ang {{c1::insertion}} sa edit distance ay pag-a-add ng character.",,insertion
+Cloze,"Ang {{c1::deletion}} sa edit distance ay pag-a-remove ng character.",,deletion
+Cloze,"Ang {{c1::substitution}} sa edit distance ay pagpapalit ng character.",,substitution
+Cloze,"Ang {{c1::knapsack}} ay optimization problem na nag-m-maximizes ng value sa loob ng capacity constraint.",,knapsack
+Cloze,"Ang {{c1::0/1 knapsack}} ay variant na ang bawat item ay pwedeng i-take lang isang beses.",,0/1 knapsack
+Cloze,"Ang {{c1::unbounded knapsack}} ay variant na pwedeng i-reuse ang items.",,unbounded knapsack
+Cloze,"Ang {{c1::subset sum}} ay problem na nag-v-verifies kung may subset na may sum equals target.",,subset sum
+Cloze,"Ang {{c1::partition}} ay problem na nag-h-hati ng array sa two equal sum subsets.",,partition
+Cloze,"Ang {{c1::target sum}} ay problem na nag-a-assign ng + at - para ma-reach ang target.",,target sum
+Cloze,"Ang {{c1::bounded}} ay constraint na may limit sa number of items na pwedeng kunin.",,bounded
+Cloze,"Ang {{c1::knapsack recurrence}} ay dp[i][w] = max(include item, exclude item).",,knapsack recurrence
+Cloze,"Ang {{c1::greedy algorithm}} ay approach na nag-p-pili ng locally optimal choice hoping for global optimum.",,greedy algorithm
+Cloze,"Ang {{c1::exchange argument}} ay proof technique na nag-s-shows ng correctness ng greedy choice.",,exchange argument
+Cloze,"Ang {{c1::interval scheduling}} ay problem na nag-f-finds ng maximum non-overlapping intervals.",,interval scheduling
+Cloze,"Ang {{c1::greedy choice property}} ay property na ang optimal solution ay nag-c-contains ng greedy choice.",,greedy choice property
+Cloze,"Ang {{c1::activity selection}} ay classic greedy problem na nag-m-maximizes ng completed activities.",,activity selection
+Cloze,"Ang {{c1::huffman coding}} ay greedy algorithm para sa optimal prefix coding.",,huffman coding
+Cloze,"Ang {{c1::fractional knapsack}} ay greedy problem na nag-a-allows ng fractions.",,fractional knapsack
+Cloze,"Ang {{c1::matroid}} ay mathematical structure na nag-g-guarantees ng greedy correctness.",,matroid
+Cloze,"Ang {{c1::backtracking}} ay algorithm na nag-e-explore ng lahat ng possibilities at nag-b-backtrack.",,backtracking
+Cloze,"Ang {{c1::permutation}} ay arrangement ng elements sa lahat ng possible orders.",,permutation
+Cloze,"Ang {{c1::combination}} ay selection ng elements nang walang specific order.",,combination
+Cloze,"Ang {{c1::pruning}} ay technique na nag-r-removes ng branches na walang chance mag-succeed.",,pruning
+Cloze,"Ang {{c1::decision tree}} ay tree na nag-r-represents ng lahat ng choices.",,decision tree
+Cloze,"Ang {{c1::state space}} ay set ng lahat ng possible states ng problem.",,state space
+Cloze,"Ang {{c1::backtrack}} operation ay pag-undo ng last choice para mag-explore ng ibang path.",,backtrack
+Cloze,"Ang {{c1::constraint satisfaction}} ay problem type na nag-s-satisfies ng constraints.",,constraint satisfaction
+Cloze,"Ang {{c1::spaced repetition}} ay learning technique na nag-i-increase ng review intervals.",,spaced repetition
+Cloze,"Ang {{c1::contest drills}} ay timed practice na nag-s-simulates ng real coding interviews.",,contest drills
+Cloze,"Ang {{c1::debugging}} ay process ng pag-f-find at pag-a-ayos ng bugs sa code.",,debugging
+Cloze,"Ang {{c1::pattern recognition}} ay skill na nag-i-identify ng common problem types.",,pattern recognition
+Cloze,"Ang {{c1::time management}} ay skill na nag-a-allocate ng oras sa bawat problem.",,time management
+Cloze,"Ang {{c1::edge case}} ay unusual input na pwedeng mag-reveal ng bugs.",,edge case
+Cloze,"Ang {{c1::code review}} ay pag-iinspect ng code para mag-improve ng quality.",,code review
+Cloze,"Ang {{c1::mock interview}} ay practice interview para mag-build ng confidence.",,mock interview
