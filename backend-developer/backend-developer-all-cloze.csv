@@ -1,0 +1,445 @@
+Cloze,"Ang {{c1::internet}} ay ang global network ng mga interconnected computers na gumagamit ng standardized protocols para mag-share ng impormasyon.",,internet
+Cloze,"Ang {{c1::IP address}} ay ang unique numerical identifier ng bawat device na konektado sa network.",,IP address
+Cloze,"Ang {{c1::packet}} ay ang unit ng data na ipinapadala sa network mula sa source papunta sa destination.",,packet
+Cloze,"Ang {{c1::client}} ay ang device na humihingi ng data o serbisyo mula sa isang server.",,client
+Cloze,"Ang {{c1::server}} ay ang computer na nag-proprovide ng data o serbisyo sa ibang mga clients.",,server
+Cloze,"Ang {{c1::DNS}} ay ang system na nagta-translate ng domain names papunta sa IP addresses.",,DNS
+Cloze,"Ang {{c1::domain name}} ay ang human-readable address na inu-map sa IP address ng server.",,domain name
+Cloze,"Ang {{c1::hosting}} ay ang serbisyo na nagpapa-renta ng server space para i-host ang website.",,hosting
+Cloze,"Ang {{c1::DNS resolution}} ay ang proseso ng pag-convert ng domain name papunta sa IP address.",,DNS resolution
+Cloze,"Ang {{c1::protocol}} ay ang set ng rules na namamahala kung paano nag-uusap ang mga device sa network.",,protocol
+Cloze,"Ang {{c1::HTTP}} ay ang protocol na ginagamit para sa communication sa pagitan ng client at web server.",,HTTP
+Cloze,"Ang {{c1::HTTP methods}} ay ang mga action na ginagawa ng client sa server tulad ng GET, POST, PUT, at DELETE.",,HTTP methods
+Cloze,"Ang {{c1::status codes}} ay ang tatlong-digit na response mula sa server na nagpapakita ng resulta ng request.",,status codes
+Cloze,"Ang {{c1::headers}} ay ang key-value pairs na nagdadala ng metadata ng HTTP request o response.",,headers
+Cloze,"Ang {{c1::cookies}} ay ang maliliit na data na ini-store sa browser para maalala ang user sessions.",,cookies
+Cloze,"Ang {{c1::HTTPS}} ay ang secure na bersyon ng HTTP na gumagamit ng encryption.",,HTTPS
+Cloze,"Ang {{c1::GET request}} ay ang HTTP method na kumukuha ng data mula sa server nang walang side effects.",,GET request
+Cloze,"Ang {{c1::POST request}} ay ang HTTP method na nagpapadala ng data sa server para gumawa ng bagong resource.",,POST request
+Cloze,"Ang {{c1::200 OK}} ay ang status code na nangangahulugang success ang request.",,200 OK
+Cloze,"Ang {{c1::404 Not Found}} ay ang status code na nangangahulugang hindi mahanap ang resource.",,404 Not Found
+Cloze,"Ang {{c1::HTML}} ay ang markup language na nag-i-structure ng content ng isang web page.",,HTML
+Cloze,"Ang {{c1::CSS}} ay ang language na kumukontrol sa presentation at styling ng web page.",,CSS
+Cloze,"Ang {{c1::JavaScript}} ay ang programming language na nagpapa-dynamic ng web page sa browser.",,JavaScript
+Cloze,"Ang {{c1::DOM}} ay ang tree structure ng HTML elements na in-manipulate ng JavaScript.",,DOM
+Cloze,"Ang {{c1::tags}} ay ang building blocks ng HTML tulad ng div, p, at h1.",,tags
+Cloze,"Ang {{c1::attributes}} ay ang additional properties ng HTML elements tulad ng class at id.",,attributes
+Cloze,"Ang {{c1::selectors}} ay ang patterns sa CSS na nagta-target ng mga elements para i-style.",,selectors
+Cloze,"Ang {{c1::event listeners}} ay ang JavaScript code na tumutugon sa user interactions tulad ng clicks.",,event listeners
+Cloze,"Ang {{c1::fetch API}} ay ang browser feature para gumawa ng HTTP requests mula sa JavaScript.",,fetch API
+Cloze,"Ang {{c1::web server}} ay ang software na humahawak ng HTTP requests at nagse-serve ng web content.",,web server
+Cloze,"Ang {{c1::Nginx}} ay ang high-performance web server na kilala sa handling ng maraming concurrent connections.",,Nginx
+Cloze,"Ang {{c1::Apache}} ay ang web server na gumagamit ng .htaccess files para sa per-directory configuration.",,Apache
+Cloze,"Ang {{c1::Caddy}} ay ang web server na may automatic HTTPS gamit ang Let's Encrypt.",,Caddy
+Cloze,"Ang {{c1::MS IIS}} ay ang web server ng Microsoft na tumatakbo sa Windows.",,MS IIS
+Cloze,"Ang {{c1::reverse proxy}} ay ang server na nagfo-forward ng client requests papunta sa backend servers.",,reverse proxy
+Cloze,"Ang {{c1::virtual hosts}} ay ang configuration na nagpapahintulot ng maraming websites sa iisang server.",,virtual hosts
+Cloze,"Ang {{c1::static files}} ay ang mga direktang files tulad ng HTML, CSS, at images na siniserve ng web server.",,static files
+Cloze,"Ang {{c1::load balancing}} ay ang pagdi-distribute ng traffic sa maraming servers para maiwasan ang overload.",,load balancing
+Cloze,"Ang {{c1::Git}} ay ang distributed version control system na nagta-track ng changes sa code.",,Git
+Cloze,"Ang {{c1::commit}} ay ang snapshot ng mga changes sa repository sa isang punto ng panahon.",,commit
+Cloze,"Ang {{c1::branch}} ay ang independent na linya ng development sa loob ng repository.",,branch
+Cloze,"Ang {{c1::repository}} ay ang folder na may kasamang history ng lahat ng changes ng project.",,repository
+Cloze,"Ang {{c1::merge}} ay ang proseso ng pagsasama ng mga changes mula sa isang branch papunta sa iba.",,merge
+Cloze,"Ang {{c1::GitHub}} ay ang cloud-based repo hosting service na may collaboration features.",,GitHub
+Cloze,"Ang {{c1::GitLab}} ay ang repo hosting service na may built-in na CI/CD pipelines.",,GitLab
+Cloze,"Ang {{c1::pull request}} ay ang proposal para i-merge ang changes mula sa isang branch papunta sa main.",,pull request
+Cloze,"Ang {{c1::clone}} ay ang command para kopyahin ang repository sa local machine.",,clone
+Cloze,"Ang {{c1::Go}} ay ang compiled language ng Google na kilala sa concurrency at simplicity.",,Go
+Cloze,"Ang {{c1::Rust}} ay ang systems language na may memory safety nang walang garbage collector.",,Rust
+Cloze,"Ang {{c1::Python}} ay ang versatile na language na sikat sa backend at data work.",,Python
+Cloze,"Ang {{c1::Java}} ay ang mature na object-oriented language na tumatakbo sa JVM.",,Java
+Cloze,"Ang {{c1::Node.js}} ay ang runtime na nagpapatakbo ng JavaScript sa server side.",,Node.js
+Cloze,"Ang {{c1::PHP}} ay ang server-side scripting language na sikat sa web development.",,PHP
+Cloze,"Ang {{c1::Ruby}} ay ang object-oriented language na kilala sa elegant na syntax.",,Ruby
+Cloze,"Ang {{c1::compiled language}} ay ang language na nagco-convert ng code papunta sa machine code bago i-run.",,compiled language
+Cloze,"Ang {{c1::interpreted language}} ay ang language na nire-run ng line by line nang walang compilation.",,interpreted language
+Cloze,"Ang {{c1::framework}} ay ang tool na nagbibigay ng structure para bumuo ng web applications.",,framework
+Cloze,"Ang {{c1::syntax}} ay ang rules na namamahala sa structure ng valid statements sa isang language.",,syntax
+Cloze,"Ang {{c1::data types}} ay ang mga uri ng values tulad ng integers, strings, booleans, at arrays.",,data types
+Cloze,"Ang {{c1::control flow}} ay ang order ng pag-execute ng statements gamit ang conditions at loops.",,control flow
+Cloze,"Ang {{c1::error handling}} ay ang mekanismo para i-catch at i-handle ang exceptions.",,error handling
+Cloze,"Ang {{c1::variable}} ay ang named storage para sa mga values sa program.",,variable
+Cloze,"Ang {{c1::function}} ay ang reusable block ng code na may specific na task.",,function
+Cloze,"Ang {{c1::loop}} ay ang construct na umuulit ng block ng code hanggang sa matugunan ang condition.",,loop
+Cloze,"Ang {{c1::conditional}} ay ang construct na nag-execute ng code batay sa isang condition.",,conditional
+Cloze,"Ang {{c1::exception}} ay ang error na nangyayari habang tumatakbo ang program.",,exception
+Cloze,"Ang {{c1::operator}} ay ang simbolo na gumagawa ng operations sa mga values.",,operator
+Cloze,"Ang {{c1::concurrency}} ay ang kakayahan ng program na humawak ng maraming tasks nang sabay-sabay.",,concurrency
+Cloze,"Ang {{c1::async/await}} ay ang syntax pattern para mag-handle ng asynchronous operations.",,async/await
+Cloze,"Ang {{c1::memory management}} ay ang proseso ng pag-allocate at pag-release ng memory.",,memory management
+Cloze,"Ang {{c1::garbage collector}} ay ang mekanismo na awtomatikong naglilinis ng unused memory.",,garbage collector
+Cloze,"Ang {{c1::thread}} ay ang pinakamaliit na unit ng execution sa loob ng isang process.",,thread
+Cloze,"Ang {{c1::mutex}} ay ang synchronization primitive na pumipigil sa race conditions.",,mutex
+Cloze,"Ang {{c1::deadlock}} ay ang estado kung saan naghihintay ang dalawang threads sa isa't isa nang tuluyan.",,deadlock
+Cloze,"Ang {{c1::promise}} ay ang object na kumakatawan sa eventual na result ng async operation.",,promise
+Cloze,"Ang {{c1::event loop}} ay ang mekanismo na nag-p-process ng async callbacks sa single-threaded runtime.",,event loop
+Cloze,"Ang {{c1::race condition}} ay ang bug kung saan depende sa timing ang resulta ng concurrent operations.",,race condition
+Cloze,"Ang {{c1::package manager}} ay ang tool na nag-i-install at nagma-manage ng dependencies ng project.",,package manager
+Cloze,"Ang {{c1::dependency}} ay ang external package na kailangan ng project para gumana.",,dependency
+Cloze,"Ang {{c1::versioning}} ay ang sistema ng pagta-track ng versions ng packages.",,versioning
+Cloze,"Ang {{c1::semantic versioning}} ay ang versioning scheme na gumagamit ng MAJOR.MINOR.PATCH.",,semantic versioning
+Cloze,"Ang {{c1::lockfile}} ay ang file na nagla-lock ng exact versions ng dependencies.",,lockfile
+Cloze,"Ang {{c1::registry}} ay ang central repository kung saan naka-publish ang mga packages.",,registry
+Cloze,"Ang {{c1::transitive dependencies}} ay ang mga dependencies ng iyong dependencies.",,transitive dependencies
+Cloze,"Ang {{c1::dev dependency}} ay ang package na kailangan lamang para sa development.",,dev dependency
+Cloze,"Ang {{c1::package.json}} ay ang manifest file ng Node.js project na naglilista ng dependencies.",,package.json
+Cloze,"Ang {{c1::refactoring}} ay ang proseso ng pag-improve ng code structure nang hindi nagbabago ang behavior.",,refactoring
+Cloze,"Ang {{c1::code review}} ay ang proseso ng pag-review ng code ng ibang developer bago i-merge.",,code review
+Cloze,"Ang {{c1::documentation generation}} ay ang paggawa ng docs mula sa code comments at annotations.",,documentation generation
+Cloze,"Ang {{c1::code smell}} ay ang indicator ng masamang design sa code.",,code smell
+Cloze,"Ang {{c1::technical debt}} ay ang presyo na binabayaran sa hinaharap dahil sa quick-and-dirty solutions.",,technical debt
+Cloze,"Ang {{c1::linting}} ay ang automated na pagsusuri ng code para sa potential errors.",,linting
+Cloze,"Ang {{c1::static analysis}} ay ang pagsusuri ng code nang hindi ito nire-run.",,static analysis
+Cloze,"Ang {{c1::readability}} ay ang sukatan kung gaano kadali maintindihan ang code.",,readability
+Cloze,"Ang {{c1::separation of concerns}} ay ang principle na hinahati ang code sa iba't ibang responsibilities.",,separation of concerns
+Cloze,"Ang {{c1::relational database}} ay ang database na nag-i-store ng data sa tables na may relations sa isa't isa.",,relational database
+Cloze,"Ang {{c1::PostgreSQL}} ay ang open-source relational database na kilala sa advanced features.",,PostgreSQL
+Cloze,"Ang {{c1::MySQL}} ay ang sikat na open-source relational database para sa web applications.",,MySQL
+Cloze,"Ang {{c1::MariaDB}} ay ang community fork ng MySQL.",,MariaDB
+Cloze,"Ang {{c1::SQLite}} ay ang lightweight database na naka-embed mismo sa application.",,SQLite
+Cloze,"Ang {{c1::MS SQL}} ay ang relational database ng Microsoft na tumatakbo sa Windows.",,MS SQL
+Cloze,"Ang {{c1::Oracle}} ay ang enterprise-level relational database na kilala sa scalability.",,Oracle
+Cloze,"Ang {{c1::table}} ay ang collection ng rows at columns sa relational database.",,table
+Cloze,"Ang {{c1::primary key}} ay ang unique identifier ng bawat row sa isang table.",,primary key
+Cloze,"Ang {{c1::foreign key}} ay ang column na nagli-link sa primary key ng ibang table.",,foreign key
+Cloze,"Ang {{c1::CRUD}} ay ang Create, Read, Update, at Delete operations sa database.",,CRUD
+Cloze,"Ang {{c1::SELECT}} ay ang SQL statement para kumuha ng data mula sa table.",,SELECT
+Cloze,"Ang {{c1::INSERT}} ay ang SQL statement para magdagdag ng bagong row.",,INSERT
+Cloze,"Ang {{c1::UPDATE}} ay ang SQL statement para magbago ng existing row.",,UPDATE
+Cloze,"Ang {{c1::DELETE}} ay ang SQL statement para magtanggal ng row.",,DELETE
+Cloze,"Ang {{c1::JOIN}} ay ang operation para pagsamahin ang rows mula sa dalawang tables.",,JOIN
+Cloze,"Ang {{c1::aggregation}} ay ang pagcompute ng summary values gamit ang COUNT, SUM, at AVG.",,aggregation
+Cloze,"Ang {{c1::subquery}} ay ang query na nakalagay sa loob ng isa pang query.",,subquery
+Cloze,"Ang {{c1::WHERE clause}} ay ang filter na pumipili kung aling rows ang isasama.",,WHERE clause
+Cloze,"Ang {{c1::GROUP BY}} ay ang clause na nag-g-group ng rows batay sa isang column.",,GROUP BY
+Cloze,"Ang {{c1::normalization}} ay ang proseso ng pag-eliminate ng data redundancy sa database.",,normalization
+Cloze,"Ang {{c1::data modeling}} ay ang pag-design ng structure ng database bago ito i-build.",,data modeling
+Cloze,"Ang {{c1::entity}} ay ang object o concept na nire-represent sa database.",,entity
+Cloze,"Ang {{c1::relationship}} ay ang link sa pagitan ng dalawang entities.",,relationship
+Cloze,"Ang {{c1::one-to-many}} ay ang relationship kung saan ang isang record ay may maraming related records.",,one-to-many
+Cloze,"Ang {{c1::many-to-many}} ay ang relationship na nangangailangan ng junction table.",,many-to-many
+Cloze,"Ang {{c1::schema}} ay ang structure ng database tables at kanilang relations.",,schema
+Cloze,"Ang {{c1::denormalization}} ay ang intentional na pagdagdag ng redundancy para sa performance.",,denormalization
+Cloze,"Ang {{c1::ER diagram}} ay ang visual na representasyon ng entities at kanilang relationships.",,ER diagram
+Cloze,"Ang {{c1::transaction}} ay ang sequence ng operations na ginagamot bilang isang unit.",,transaction
+Cloze,"Ang {{c1::ACID}} ay ang acronym para sa Atomicity, Consistency, Isolation, at Durability.",,ACID
+Cloze,"Ang {{c1::atomicity}} ay ang property na ang lahat ng operations ay magtatagumpay o lahat mabibigo.",,atomicity
+Cloze,"Ang {{c1::isolation}} ay ang property na hindi nakikita ng isang transaction ang partial results ng iba.",,isolation
+Cloze,"Ang {{c1::durability}} ay ang property na magpapatuloy ang committed data kahit mag-crash ang system.",,durability
+Cloze,"Ang {{c1::consistency}} ay ang property na valid ang estado ng database bago at pagkatapos ng transaction.",,consistency
+Cloze,"Ang {{c1::isolation levels}} ay ang antas ng paghihiwalay ng mga concurrent transactions.",,isolation levels
+Cloze,"Ang {{c1::locking}} ay ang mekanismo para i-prevent ang concurrent modifications sa data.",,locking
+Cloze,"Ang {{c1::migration}} ay ang versioned na pagbabago sa database schema.",,migration
+Cloze,"Ang {{c1::rollback}} ay ang pagbabalik ng database sa estado bago magsimula ang transaction.",,rollback
+Cloze,"Ang {{c1::index}} ay ang data structure na nagpapabilis ng query lookups sa database.",,index
+Cloze,"Ang {{c1::composite index}} ay ang index na binubuo ng dalawa o higit pang columns.",,composite index
+Cloze,"Ang {{c1::primary index}} ay ang index na awtomatikong ginagawa sa primary key.",,primary index
+Cloze,"Ang {{c1::covering index}} ay ang index na naglalaman ng lahat ng columns na kailangan ng query.",,covering index
+Cloze,"Ang {{c1::N+1 problem}} ay ang performance issue kung saan maraming queries ang ginagawa para sa related records.",,N+1 problem
+Cloze,"Ang {{c1::query optimization}} ay ang pag-improve ng query performance para bumilis ang execution.",,query optimization
+Cloze,"Ang {{c1::EXPLAIN}} ay ang command para makita ang execution plan ng isang query.",,EXPLAIN
+Cloze,"Ang {{c1::full table scan}} ay ang pag-scan ng buong table kapag walang naaangkop na index.",,full table scan
+Cloze,"Ang {{c1::slow query}} ay ang query na tumatagal ng masyadong matagal bago matapos.",,slow query
+Cloze,"Ang {{c1::NoSQL}} ay ang database na hindi relational at mas flexible sa schema.",,NoSQL
+Cloze,"Ang {{c1::document database}} ay ang database na nag-i-store ng data bilang JSON-like documents.",,document database
+Cloze,"Ang {{c1::key-value store}} ay ang pinakasimpleng NoSQL na nag-i-store ng key-value pairs.",,key-value store
+Cloze,"Ang {{c1::column database}} ay ang database na nag-i-store ng data ayon sa columns.",,column database
+Cloze,"Ang {{c1::graph database}} ay ang database na nag-i-store ng nodes at edges para sa relationships.",,graph database
+Cloze,"Ang {{c1::schema-less}} ay ang katangian ng NoSQL na walang fixed schema na kailangan sundin.",,schema-less
+Cloze,"Ang {{c1::horizontal scaling}} ay ang pagdagdag ng mas maraming servers para sa capacity.",,horizontal scaling
+Cloze,"Ang {{c1::CAP theorem}} ay ang principle na dalawa lang sa tatlo ang mapipili: consistency, availability, partition tolerance.",,CAP theorem
+Cloze,"Ang {{c1::eventual consistency}} ay ang consistency model kung saan magco-consistent ang data sa kalaunan.",,eventual consistency
+Cloze,"Ang {{c1::MongoDB}} ay ang sikat na document database na gumagamit ng BSON documents.",,MongoDB
+Cloze,"Ang {{c1::collection}} ay ang MongoDB equivalent ng table sa relational database.",,collection
+Cloze,"Ang {{c1::document}} ay ang MongoDB equivalent ng row na may key-value pairs.",,document
+Cloze,"Ang {{c1::Redis}} ay ang in-memory key-value store na ginagamit para sa caching.",,Redis
+Cloze,"Ang {{c1::TTL}} ay ang time-to-live na nagsasabi kung kailan mag-e-expire ang key sa Redis.",,TTL
+Cloze,"Ang {{c1::DynamoDB}} ay ang managed NoSQL database ng AWS.",,DynamoDB
+Cloze,"Ang {{c1::replica set}} ay ang group ng MongoDB instances na may parehong data.",,replica set
+Cloze,"Ang {{c1::sharding}} ay ang paghahati ng data sa maraming servers.",,sharding
+Cloze,"Ang {{c1::in-memory}} ay ang data na naka-store sa RAM para sa mabilis na access.",,in-memory
+Cloze,"Ang {{c1::Cassandra}} ay ang columnar NoSQL database na sikat sa high availability.",,Cassandra
+Cloze,"Ang {{c1::InfluxDB}} ay ang time-series database para sa metrics at monitoring data.",,InfluxDB
+Cloze,"Ang {{c1::TimescaleDB}} ay ang time-series extension ng PostgreSQL.",,TimescaleDB
+Cloze,"Ang {{c1::ClickHouse}} ay ang column-oriented OLAP database para sa analytics.",,ClickHouse
+Cloze,"Ang {{c1::Neo4j}} ay ang graph database na gumagamit ng Cypher query language.",,Neo4j
+Cloze,"Ang {{c1::time-series data}} ay ang data na may timestamp tulad ng server metrics.",,time-series data
+Cloze,"Ang {{c1::OLAP}} ay ang workload na nakatuon sa analytics at aggregations.",,OLAP
+Cloze,"Ang {{c1::OLTP}} ay ang workload na nakatuon sa transactions at real-time operations.",,OLTP
+Cloze,"Ang {{c1::node}} ay ang entity o point sa isang graph database.",,node
+Cloze,"Ang {{c1::replication}} ay ang pagkopya ng data sa multiple servers para sa availability.",,replication
+Cloze,"Ang {{c1::leader-follower}} ay ang replication model na may isang writer at maraming readers.",,leader-follower
+Cloze,"Ang {{c1::sharding}} ay ang paghahati ng data sa mga shards para sa scalability.",,sharding
+Cloze,"Ang {{c1::hash-based sharding}} ay ang pag-shard ng data gamit ang hash ng shard key.",,hash-based sharding
+Cloze,"Ang {{c1::CAP theorem}} ay ang tradeoff sa pagitan ng consistency, availability, at partition tolerance.",,CAP theorem
+Cloze,"Ang {{c1::Elasticsearch}} ay ang search engine na nakabase sa Apache Lucene.",,Elasticsearch
+Cloze,"Ang {{c1::inverted index}} ay ang data structure para sa full-text search.",,inverted index
+Cloze,"Ang {{c1::read replica}} ay ang copy ng database na ginagamit para sa read operations.",,read replica
+Cloze,"Ang {{c1::failover}} ay ang automatic na paglipat sa backup server kapag may failure.",,failover
+Cloze,"Ang {{c1::partition tolerance}} ay ang kakayahan ng system na gumana kahit may network partition.",,partition tolerance
+Cloze,"Ang {{c1::REST}} ay ang architectural style para sa APIs na gumagamit ng HTTP at resources.",,REST
+Cloze,"Ang {{c1::resource}} ay ang entity na nire-represent ng isang URL sa API.",,resource
+Cloze,"Ang {{c1::endpoint}} ay ang URL kung saan ina-access ang isang resource.",,endpoint
+Cloze,"Ang {{c1::HTTP methods}} ay ang GET, POST, PUT, at DELETE para sa CRUD operations.",,HTTP methods
+Cloze,"Ang {{c1::idempotent}} ay ang operation na pareho ang resulta kahit ilang beses i-execute.",,idempotent
+Cloze,"Ang {{c1::status codes}} ay ang tatlong-digit na response na nagpapakita ng resulta ng request.",,status codes
+Cloze,"Ang {{c1::API versioning}} ay ang pag-manage ng API changes para hindi masira ang clients.",,API versioning
+Cloze,"Ang {{c1::query parameters}} ay ang pag-filter, pag-sort, at pag-paginate ng results.",,query parameters
+Cloze,"Ang {{c1::pagination}} ay ang paghahati ng results sa mga pages.",,pagination
+Cloze,"Ang {{c1::payload}} ay ang data na dala ng isang request o response.",,payload
+Cloze,"Ang {{c1::JSON}} ay ang data format na karaniwang ginagamit sa API responses.",,JSON
+Cloze,"Ang {{c1::OpenAPI}} ay ang specification para i-describe ang structure ng isang API.",,OpenAPI
+Cloze,"Ang {{c1::API documentation}} ay ang docs na nagpapaliwanag kung paano gamitin ang API.",,API documentation
+Cloze,"Ang {{c1::schema}} ay ang definition ng data structure sa OpenAPI spec.",,schema
+Cloze,"Ang {{c1::Swagger}} ay ang toolset na nakabase sa OpenAPI para sa API docs.",,Swagger
+Cloze,"Ang {{c1::serialization}} ay ang pag-convert ng object papunta sa JSON format.",,serialization
+Cloze,"Ang {{c1::deserialization}} ay ang pag-convert ng JSON papunta sa object.",,deserialization
+Cloze,"Ang {{c1::content negotiation}} ay ang pagpili ng response format batay sa Accept header.",,content negotiation
+Cloze,"Ang {{c1::RESTful conventions}} ay ang pag-naming ng endpoints gamit ang plural nouns.",,RESTful conventions
+Cloze,"Ang {{c1::GraphQL}} ay ang query language para sa APIs na nagbibigay ng kontrol sa client.",,GraphQL
+Cloze,"Ang {{c1::schema}} ay ang definition ng types at operations sa GraphQL.",,schema
+Cloze,"Ang {{c1::query}} ay ang GraphQL operation para kumuha ng data.",,query
+Cloze,"Ang {{c1::mutation}} ay ang GraphQL operation para magbago ng data.",,mutation
+Cloze,"Ang {{c1::subscription}} ay ang GraphQL operation para sa real-time updates.",,subscription
+Cloze,"Ang {{c1::resolver}} ay ang function na nagsasabi kung paano kukunin ang data para sa field.",,resolver
+Cloze,"Ang {{c1::type}} ay ang definition ng data shape sa GraphQL schema.",,type
+Cloze,"Ang {{c1::field}} ay ang property na maaaring i-request sa isang GraphQL type.",,field
+Cloze,"Ang {{c1::fragments}} ay ang reusable na set ng fields sa GraphQL.",,fragments
+Cloze,"Ang {{c1::introspection}} ay ang kakayahan na i-query ang GraphQL schema mismo.",,introspection
+Cloze,"Ang {{c1::gRPC}} ay ang high-performance RPC framework na ginawa ng Google.",,gRPC
+Cloze,"Ang {{c1::protocol buffers}} ay ang binary serialization format na ginagamit ng gRPC.",,protocol buffers
+Cloze,"Ang {{c1::.proto file}} ay ang definition file ng gRPC services at messages.",,.proto file
+Cloze,"Ang {{c1::streaming}} ay ang pagpapadala ng data in chunks imbes na isang malaking response.",,streaming
+Cloze,"Ang {{c1::unary call}} ay ang gRPC call na may isang request at isang response.",,unary call
+Cloze,"Ang {{c1::SOAP}} ay ang legacy XML-based web service protocol.",,SOAP
+Cloze,"Ang {{c1::WSDL}} ay ang XML definition ng isang SOAP service.",,WSDL
+Cloze,"Ang {{c1::XML}} ay ang markup language na ginagamit ng SOAP para sa messages.",,XML
+Cloze,"Ang {{c1::RPC}} ay ang remote procedure call na nagpapatawag ng function sa ibang server.",,RPC
+Cloze,"Ang {{c1::message broker}} ay ang middleware para sa asynchronous communication ng services.",,message broker
+Cloze,"Ang {{c1::RabbitMQ}} ay ang message broker na gumagamit ng AMQP protocol.",,RabbitMQ
+Cloze,"Ang {{c1::Kafka}} ay ang distributed event streaming platform.",,Kafka
+Cloze,"Ang {{c1::queue}} ay ang buffer ng messages na hinihintay ng consumer.",,queue
+Cloze,"Ang {{c1::producer}} ay ang nagpapadala ng messages sa broker.",,producer
+Cloze,"Ang {{c1::consumer}} ay ang tumatanggap at nag-p-process ng messages mula sa queue.",,consumer
+Cloze,"Ang {{c1::backpressure}} ay ang paglimita sa rate ng producers kapag overload ang consumers.",,backpressure
+Cloze,"Ang {{c1::long polling}} ay ang technique kung saan hinihintay ng client ang response hanggang may bagong data.",,long polling
+Cloze,"Ang {{c1::SSE}} ay ang server-sent events para sa one-way real-time updates.",,SSE
+Cloze,"Ang {{c1::WebSockets}} ay ang full-duplex na communication channel sa pagitan ng client at server.",,WebSockets
+Cloze,"Ang {{c1::caching}} ay ang pag-i-store ng data para mas mabilis ang mga future requests.",,caching
+Cloze,"Ang {{c1::cache hit}} ay ang request na na-serve mula sa cache.",,cache hit
+Cloze,"Ang {{c1::cache miss}} ay ang request na hindi nahanap sa cache kaya kinailangang i-fetch.",,cache miss
+Cloze,"Ang {{c1::CDN}} ay ang network ng servers na nagdi-distribute ng static content.",,CDN
+Cloze,"Ang {{c1::client-side caching}} ay ang pag-cache ng data sa browser ng user.",,client-side caching
+Cloze,"Ang {{c1::server-side caching}} ay ang pag-cache ng data sa server.",,server-side caching
+Cloze,"Ang {{c1::HTTP caching}} ay ang pag-cache gamit ang HTTP headers.",,HTTP caching
+Cloze,"Ang {{c1::Cache-Control}} ay ang HTTP header na kumokontrol sa caching behavior.",,Cache-Control
+Cloze,"Ang {{c1::TTL}} ay ang time-to-live bago mag-expire ang isang cached data.",,TTL
+Cloze,"Ang {{c1::cache invalidation}} ay ang proseso ng pag-alis ng stale data sa cache.",,cache invalidation
+Cloze,"Ang {{c1::cache-aside}} ay ang strategy kung saan ang application mismo ang naglo-load ng data sa cache.",,cache-aside
+Cloze,"Ang {{c1::write-through}} ay ang strategy kung saan sabay na sinusulat ang data sa cache at database.",,write-through
+Cloze,"Ang {{c1::write-back}} ay ang strategy kung saan sa cache muna isinusulat ang data bago sa database.",,write-back
+Cloze,"Ang {{c1::eviction policy}} ay ang rule kung aling entries ang aalisin kapag puno na ang cache.",,eviction policy
+Cloze,"Ang {{c1::LRU}} ay ang eviction policy na nag-aalis ng least recently used entries.",,LRU
+Cloze,"Ang {{c1::TTL}} ay ang expiration time ng mga cache entries.",,TTL
+Cloze,"Ang {{c1::cache stampede}} ay ang problema kapag sabay-sabay nag-query ang requests kapag nag-expire ang cache.",,cache stampede
+Cloze,"Ang {{c1::Redis}} ay ang in-memory data store na may advanced features tulad ng pub/sub.",,Redis
+Cloze,"Ang {{c1::Memcached}} ay ang distributed memory caching system para sa key-value data.",,Memcached
+Cloze,"Ang {{c1::profiling}} ay ang pagsusuri ng performance ng code para mahanap ang mga issues.",,profiling
+Cloze,"Ang {{c1::profiler}} ay ang tool na sumusukat kung saan gumugugol ng oras ang code.",,profiler
+Cloze,"Ang {{c1::load testing}} ay ang pag-test ng system sa ilalim ng mataas na load.",,load testing
+Cloze,"Ang {{c1::bottleneck}} ay ang parte ng system na naglilimita sa kabuuang performance.",,bottleneck
+Cloze,"Ang {{c1::latency}} ay ang oras bago mag-respond ang system sa request.",,latency
+Cloze,"Ang {{c1::throughput}} ay ang bilang ng requests na kayang i-process ng system kada segundo.",,throughput
+Cloze,"Ang {{c1::flame graph}} ay ang visualization ng function call stack at oras ng pag-execute.",,flame graph
+Cloze,"Ang {{c1::microbenchmark}} ay ang pagsukat ng performance ng isang maliit na code segment.",,microbenchmark
+Cloze,"Ang {{c1::percentile}} ay ang sukatan ng latency distribution tulad ng p95.",,percentile
+Cloze,"Ang {{c1::load balancer}} ay ang component na nagdi-distribute ng traffic sa maraming servers.",,load balancer
+Cloze,"Ang {{c1::round-robin}} ay ang load balancing strategy na nag-rotate ng requests sa servers isa-isa.",,round-robin
+Cloze,"Ang {{c1::throttling}} ay ang paglimita ng resource usage ng system.",,throttling
+Cloze,"Ang {{c1::rate limiting}} ay ang paglilimita ng bilang ng requests per user sa isang time window.",,rate limiting
+Cloze,"Ang {{c1::horizontal scaling}} ay ang pagdagdag ng mas maraming server instances.",,horizontal scaling
+Cloze,"Ang {{c1::vertical scaling}} ay ang pag-upgrade ng hardware ng iisang server.",,vertical scaling
+Cloze,"Ang {{c1::auto-scaling}} ay ang automatic na pagdagdag o pagbawas ng servers batay sa load.",,auto-scaling
+Cloze,"Ang {{c1::health check}} ay ang pagsusuri kung buhay at healthy ang isang server.",,health check
+Cloze,"Ang {{c1::session affinity}} ay ang pag-pin ng isang user sa iisang server.",,session affinity
+Cloze,"Ang {{c1::HTTPS}} ay ang secure na bersyon ng HTTP na nag-e-encrypt ng communication.",,HTTPS
+Cloze,"Ang {{c1::TLS}} ay ang protocol na nag-e-encrypt ng data sa pagitan ng client at server.",,TLS
+Cloze,"Ang {{c1::SSL certificate}} ay ang digital certificate na nagve-verify ng identity ng server.",,SSL certificate
+Cloze,"Ang {{c1::handshake}} ay ang proseso ng pag-establish ng secure connection sa pagitan ng client at server.",,handshake
+Cloze,"Ang {{c1::symmetric encryption}} ay ang pag-encrypt gamit ang iisang key para sa encrypt at decrypt.",,symmetric encryption
+Cloze,"Ang {{c1::asymmetric encryption}} ay ang pag-encrypt gamit ang public at private key pair.",,asymmetric encryption
+Cloze,"Ang {{c1::certificate authority}} ay ang trusted entity na nag-i-issue ng digital certificates.",,certificate authority
+Cloze,"Ang {{c1::self-signed certificate}} ay ang certificate na hindi galing sa trusted CA.",,self-signed certificate
+Cloze,"Ang {{c1::key exchange}} ay ang proseso ng pag-share ng session keys sa pagitan ng client at server.",,key exchange
+Cloze,"Ang {{c1::cipher suite}} ay ang set ng encryption algorithms na ginagamit sa TLS.",,cipher suite
+Cloze,"Ang {{c1::OWASP}} ay ang open standard na naglilista ng mga web application security risks.",,OWASP
+Cloze,"Ang {{c1::SQL injection}} ay ang pag-inject ng malicious SQL statements sa isang query.",,SQL injection
+Cloze,"Ang {{c1::XSS}} ay ang pag-inject ng malicious scripts sa web page na tinitignan ng ibang users.",,XSS
+Cloze,"Ang {{c1::CSRF}} ay ang pag-force sa user na mag-send ng unwanted requests sa website.",,CSRF
+Cloze,"Ang {{c1::SSRF}} ay ang pagpapagawa sa server ng requests papunta sa internal resources.",,SSRF
+Cloze,"Ang {{c1::IDOR}} ay ang pag-access ng resources ng ibang user gamit ang manipulated IDs.",,IDOR
+Cloze,"Ang {{c1::mass assignment}} ay ang pag-overwrite ng protected fields sa pamamagitan ng request payload.",,mass assignment
+Cloze,"Ang {{c1::parameterized queries}} ay ang safe na paraan ng paggawa ng SQL queries.",,parameterized queries
+Cloze,"Ang {{c1::input validation}} ay ang pag-validate ng user input bago ito i-process.",,input validation
+Cloze,"Ang {{c1::sanitization}} ay ang paglilinis ng input para alisin ang malicious content.",,sanitization
+Cloze,"Ang {{c1::hardening}} ay ang proseso ng pag-secure ng server configuration.",,hardening
+Cloze,"Ang {{c1::secrets management}} ay ang secure na pag-iimbak ng API keys at credentials.",,secrets management
+Cloze,"Ang {{c1::CSP}} ay ang Content Security Policy na pumipigil sa XSS attacks.",,CSP
+Cloze,"Ang {{c1::firewall}} ay ang filter ng network traffic papasok at palabas ng server.",,firewall
+Cloze,"Ang {{c1::least privilege}} ay ang principle na ang minimal na access lamang ang ibinibigay.",,least privilege
+Cloze,"Ang {{c1::environment variables}} ay ang secure na lugar para mag-imbak ng configuration.",,environment variables
+Cloze,"Ang {{c1::vault}} ay ang tool para sa secure na pag-iimbak ng secrets.",,vault
+Cloze,"Ang {{c1::security headers}} ay ang HTTP headers na nagpapatibay ng web security.",,security headers
+Cloze,"Ang {{c1::patch management}} ay ang regular na pag-update ng software para sa security fixes.",,patch management
+Cloze,"Ang {{c1::authentication}} ay ang proseso ng pag-verify ng identity ng isang user.",,authentication
+Cloze,"Ang {{c1::password hashing}} ay ang pag-convert ng password sa hash para secure itong i-store.",,password hashing
+Cloze,"Ang {{c1::bcrypt}} ay ang popular na password hashing algorithm na may built-in salt.",,bcrypt
+Cloze,"Ang {{c1::salt}} ay ang random na data na idinadagdag sa password bago ito i-hash.",,salt
+Cloze,"Ang {{c1::session authentication}} ay ang pag-i-store ng session ID sa server at cookie sa client.",,session authentication
+Cloze,"Ang {{c1::token authentication}} ay ang pagpapadala ng token sa bawat request para i-verify ang user.",,token authentication
+Cloze,"Ang {{c1::JWT}} ay ang JSON Web Token na may encoded na claims ng user.",,JWT
+Cloze,"Ang {{c1::access token}} ay ang token na nagbibigay ng access sa mga resources.",,access token
+Cloze,"Ang {{c1::refresh token}} ay ang token na ginagamit para kumuha ng bagong access token.",,refresh token
+Cloze,"Ang {{c1::multi-factor authentication}} ay ang pag-require ng dalawa o higit pang verification factors.",,multi-factor authentication
+Cloze,"Ang {{c1::authorization}} ay ang pag-determine kung ano ang pinapayagang gawin ng isang user.",,authorization
+Cloze,"Ang {{c1::OAuth2}} ay ang framework para sa delegated authorization ng third-party apps.",,OAuth2
+Cloze,"Ang {{c1::scopes}} ay ang mga permissions na hinihingi ng OAuth2 client sa user.",,scopes
+Cloze,"Ang {{c1::authorization code}} ay ang intermediate code sa OAuth2 authorization flow.",,authorization code
+Cloze,"Ang {{c1::OpenID Connect}} ay ang identity layer na nakapatong sa OAuth2.",,OpenID Connect
+Cloze,"Ang {{c1::ID token}} ay ang JWT na may identity claims ng user sa OpenID Connect.",,ID token
+Cloze,"Ang {{c1::SAML}} ay ang XML-based na protocol para sa single sign-on.",,SAML
+Cloze,"Ang {{c1::RBAC}} ay ang role-based access control na nag-a-assign ng permissions sa roles.",,RBAC
+Cloze,"Ang {{c1::policy}} ay ang rule na nag-define ng access permissions.",,policy
+Cloze,"Ang {{c1::SSO}} ay ang single sign-on na nagpapahintulot ng isang login para sa maraming applications.",,SSO
+Cloze,"Ang {{c1::unit testing}} ay ang pag-test ng mga indibidwal na units ng code.",,unit testing
+Cloze,"Ang {{c1::integration testing}} ay ang pag-test ng interaction ng mga components.",,integration testing
+Cloze,"Ang {{c1::functional testing}} ay ang pag-test ng functionality mula sa user perspective.",,functional testing
+Cloze,"Ang {{c1::E2E testing}} ay ang pag-test ng buong flow ng application mula simula hanggang dulo.",,E2E testing
+Cloze,"Ang {{c1::test case}} ay ang specific na scenario na tinitest.",,test case
+Cloze,"Ang {{c1::test suite}} ay ang collection ng lahat ng tests ng isang project.",,test suite
+Cloze,"Ang {{c1::assertion}} ay ang pagsusuri kung totoo ang isang condition sa test.",,assertion
+Cloze,"Ang {{c1::test runner}} ay ang tool na nag-e-execute ng mga tests.",,test runner
+Cloze,"Ang {{c1::test coverage}} ay ang sukatan kung gaano karaming code ang na-cover ng tests.",,test coverage
+Cloze,"Ang {{c1::regression test}} ay ang test na pumipigil sa pagbalik ng mga dating bugs.",,regression test
+Cloze,"Ang {{c1::mocking}} ay ang paggawa ng fake objects para i-simulate ang dependencies.",,mocking
+Cloze,"Ang {{c1::stub}} ay ang fake na nagbabalik ng fixed responses para sa test.",,stub
+Cloze,"Ang {{c1::fixture}} ay ang fixed na data na ginagamit sa mga tests.",,fixture
+Cloze,"Ang {{c1::test coverage}} ay ang percentage ng code na na-cover ng mga tests.",,test coverage
+Cloze,"Ang {{c1::TDD}} ay ang test-driven development kung saan isinusulat muna ang test bago ang implementation.",,TDD
+Cloze,"Ang {{c1::red-green-refactor}} ay ang cycle ng TDD: sumulat ng failing test, gawin itong pumasa, tapos refactor.",,red-green-refactor
+Cloze,"Ang {{c1::test isolation}} ay ang pag-ensure na independent ang bawat test sa iba.",,test isolation
+Cloze,"Ang {{c1::flaky test}} ay ang test na minsan pumapasa at minsan nabibigo nang walang dahilan.",,flaky test
+Cloze,"Ang {{c1::assertion}} ay ang statement na nagva-verify ng expected na resulta.",,assertion
+Cloze,"Ang {{c1::CI}} ay ang continuous integration na automatic na nagbu-build at nagte-test ng code.",,CI
+Cloze,"Ang {{c1::CD}} ay ang continuous delivery na automatic na nagde-deploy ng code.",,CD
+Cloze,"Ang {{c1::pipeline}} ay ang sequence ng automated steps mula build hanggang deploy.",,pipeline
+Cloze,"Ang {{c1::GitHub Actions}} ay ang CI/CD service ng GitHub na gumagamit ng workflows.",,GitHub Actions
+Cloze,"Ang {{c1::GitLab CI}} ay ang CI/CD service ng GitLab na gumagamit ng .gitlab-ci.yml.",,GitLab CI
+Cloze,"Ang {{c1::Jenkins}} ay ang self-hosted CI/CD server na may plugins.",,Jenkins
+Cloze,"Ang {{c1::artifact}} ay ang build output na ini-store para sa deployment.",,artifact
+Cloze,"Ang {{c1::trigger}} ay ang event na nag-start ng pipeline tulad ng push o PR.",,trigger
+Cloze,"Ang {{c1::stage}} ay ang phase ng pipeline tulad ng build, test, at deploy.",,stage
+Cloze,"Ang {{c1::container}} ay ang lightweight na package ng application at mga dependencies nito.",,container
+Cloze,"Ang {{c1::Docker}} ay ang popular na containerization platform.",,Docker
+Cloze,"Ang {{c1::Dockerfile}} ay ang definition file kung paano i-build ang container image.",,Dockerfile
+Cloze,"Ang {{c1::image}} ay ang immutable na template kung saan ginagawa ang containers.",,image
+Cloze,"Ang {{c1::Kubernetes}} ay ang container orchestration platform para sa pag-manage ng containers.",,Kubernetes
+Cloze,"Ang {{c1::pod}} ay ang pinakamaliit na deployable unit sa Kubernetes.",,pod
+Cloze,"Ang {{c1::LXC}} ay ang Linux containers na system-level na virtualization.",,LXC
+Cloze,"Ang {{c1::serverless}} ay ang pag-run ng code nang hindi nagma-manage ng servers.",,serverless
+Cloze,"Ang {{c1::orchestration}} ay ang automatic na pag-manage ng containers sa scale.",,orchestration
+Cloze,"Ang {{c1::monolith}} ay ang architecture kung saan iisang application ang lahat ng features.",,monolith
+Cloze,"Ang {{c1::SOA}} ay ang service-oriented architecture na naghahati ng app sa services.",,SOA
+Cloze,"Ang {{c1::microservices}} ay ang paghahati ng app sa maliliit na independent services.",,microservices
+Cloze,"Ang {{c1::event-driven}} ay ang architecture na nakabatay sa events imbes na direct calls.",,event-driven
+Cloze,"Ang {{c1::event bus}} ay ang central channel kung saan nagpi-publish at nagsu-subscribe ng events.",,event bus
+Cloze,"Ang {{c1::service boundary}} ay ang hangganan ng responsibilities ng bawat service.",,service boundary
+Cloze,"Ang {{c1::bounded context}} ay ang konsepto sa domain-driven design na naghihiwalay ng domains.",,bounded context
+Cloze,"Ang {{c1::distributed system}} ay ang system na binubuo ng maraming independent nodes.",,distributed system
+Cloze,"Ang {{c1::synchronous communication}} ay ang direct request-response communication na naghihintay.",,synchronous communication
+Cloze,"Ang {{c1::asynchronous communication}} ay ang communication na hindi naghihintay ng immediate response.",,asynchronous communication
+Cloze,"Ang {{c1::circuit breaker}} ay ang pattern na pumipigil sa cascading failures sa system.",,circuit breaker
+Cloze,"Ang {{c1::graceful degradation}} ay ang pagpapatuloy ng core features kahit may failure.",,graceful degradation
+Cloze,"Ang {{c1::failure mode}} ay ang paraan kung paano nabibigo ang isang component.",,failure mode
+Cloze,"Ang {{c1::retry}} ay ang pagsubok ulit ng isang failed operation.",,retry
+Cloze,"Ang {{c1::exponential backoff}} ay ang pagtaas ng delay sa bawat retry.",,exponential backoff
+Cloze,"Ang {{c1::timeout}} ay ang limitasyon ng oras na hinihintay bago i-abort ang request.",,timeout
+Cloze,"Ang {{c1::fallback}} ay ang alternative na response kapag failed ang main operation.",,fallback
+Cloze,"Ang {{c1::bulkhead}} ay ang paghihiwalay ng resources para hindi maapektuhan ang buong system.",,bulkhead
+Cloze,"Ang {{c1::idempotency}} ay ang kakayahan na ligtas na i-replay ang isang operation.",,idempotency
+Cloze,"Ang {{c1::twelve-factor app}} ay ang methodology para sa pagbuo ng modern cloud-native applications.",,twelve-factor app
+Cloze,"Ang {{c1::config}} ay ang lahat ng nagbabago sa pagitan ng environments.",,config
+Cloze,"Ang {{c1::stateless processes}} ay ang processes na walang lokal na estado.",,stateless processes
+Cloze,"Ang {{c1::logging}} ay ang pag-output ng logs sa stdout imbes na sa files.",,logging
+Cloze,"Ang {{c1::dev/prod parity}} ay ang pagpapanatili ng pagkakapareho ng development at production environments.",,dev/prod parity
+Cloze,"Ang {{c1::environment variables}} ay ang paraan ng pag-inject ng config sa application.",,environment variables
+Cloze,"Ang {{c1::concurrency}} ay ang pag-scale sa pamamagitan ng pagdagdag ng processes.",,concurrency
+Cloze,"Ang {{c1::disposability}} ay ang mabilis na start at shutdown ng processes.",,disposability
+Cloze,"Ang {{c1::backing services}} ay ang external services tulad ng databases at queues.",,backing services
+Cloze,"Ang {{c1::observability}} ay ang kakayahan na maunawaan ang internal state ng system mula sa labas.",,observability
+Cloze,"Ang {{c1::monitoring}} ay ang pag-collect at pag-display ng metrics ng system.",,monitoring
+Cloze,"Ang {{c1::instrumentation}} ay ang pagdagdag ng code para maglabas ng metrics at traces.",,instrumentation
+Cloze,"Ang {{c1::telemetry}} ay ang data na na-collect mula sa running system.",,telemetry
+Cloze,"Ang {{c1::tracing}} ay ang pag-follow ng isang request sa iba't ibang services.",,tracing
+Cloze,"Ang {{c1::logs}} ay ang textual records ng mga events na nangyari sa system.",,logs
+Cloze,"Ang {{c1::metrics}} ay ang numerical na measurements tulad ng CPU at latency.",,metrics
+Cloze,"Ang {{c1::alerting}} ay ang notification kapag may anomaly sa system.",,alerting
+Cloze,"Ang {{c1::distributed tracing}} ay ang pag-track ng requests sa buong microservices.",,distributed tracing
+Cloze,"Ang {{c1::dashboard}} ay ang visual na display ng system health at metrics.",,dashboard
+Cloze,"Ang {{c1::Elasticsearch}} ay ang distributed search at analytics engine.",,Elasticsearch
+Cloze,"Ang {{c1::index}} ay ang collection ng documents sa Elasticsearch.",,index
+Cloze,"Ang {{c1::document}} ay ang unit ng data na ini-store sa Elasticsearch.",,document
+Cloze,"Ang {{c1::query DSL}} ay ang JSON-based query language ng Elasticsearch.",,query DSL
+Cloze,"Ang {{c1::Solr}} ay ang open-source search platform na nakabase sa Lucene.",,Solr
+Cloze,"Ang {{c1::real-time data}} ay ang data na nag-pro-process habang dumarating ito.",,real-time data
+Cloze,"Ang {{c1::streaming}} ay ang continuous na pag-pro-process ng data.",,streaming
+Cloze,"Ang {{c1::ingestion}} ay ang pagpasok ng data sa system para i-pro-process.",,ingestion
+Cloze,"Ang {{c1::aggregation}} ay ang pag-analisa ng documents para sa summary statistics.",,aggregation
+Cloze,"Ang {{c1::LLM}} ay ang language model na sinanay sa napakalaking text data.",,LLM
+Cloze,"Ang {{c1::token}} ay ang unit ng text na pinaghiwa-hiwalay para i-process ng LLM.",,token
+Cloze,"Ang {{c1::embedding}} ay ang numerical representation ng text na kumukuha ng meaning.",,embedding
+Cloze,"Ang {{c1::vector}} ay ang array ng numbers na kumakatawan sa meaning ng data.",,vector
+Cloze,"Ang {{c1::vector store}} ay ang database na nag-iimbak ng embeddings para sa similarity search.",,vector store
+Cloze,"Ang {{c1::model weights}} ay ang learned parameters ng isang model.",,model weights
+Cloze,"Ang {{c1::inference}} ay ang pag-generate ng output mula sa trained model.",,inference
+Cloze,"Ang {{c1::training}} ay ang proseso ng pag-aadjust ng weights para matuto ang model.",,training
+Cloze,"Ang {{c1::context window}} ay ang maximum tokens na kayang i-process ng model sa isang request.",,context window
+Cloze,"Ang {{c1::tokenizer}} ay ang tool na naghahati ng text sa mga tokens.",,tokenizer
+Cloze,"Ang {{c1::RAG}} ay ang retrieval-augmented generation na nag-a-connect ng LLM sa external knowledge.",,RAG
+Cloze,"Ang {{c1::agents}} ay ang AI systems na nagpa-plano at gumagamit ng tools para tapusin ang tasks.",,agents
+Cloze,"Ang {{c1::function calling}} ay ang kakayahan ng LLM na tumawag ng mga tools o functions.",,function calling
+Cloze,"Ang {{c1::structured outputs}} ay ang pag-generate ng LLM output sa isang fixed format.",,structured outputs
+Cloze,"Ang {{c1::knowledge base}} ay ang source ng data na kinukuha sa RAG pipeline.",,knowledge base
+Cloze,"Ang {{c1::embedding search}} ay ang paghahanap gamit ang semantic similarity ng vectors.",,embedding search
+Cloze,"Ang {{c1::tool}} ay ang external function na ginagamit ng agent para sa specific na task.",,tool
+Cloze,"Ang {{c1::chain}} ay ang sequence ng LLM calls o processing steps.",,chain
+Cloze,"Ang {{c1::grounding}} ay ang pag-connect ng LLM output sa verified na data.",,grounding
+Cloze,"Ang {{c1::OpenAI API}} ay ang cloud API para sa GPT models.",,OpenAI API
+Cloze,"Ang {{c1::Anthropic}} ay ang provider ng Claude family ng models.",,Anthropic
+Cloze,"Ang {{c1::Gemini}} ay ang model family ng Google para sa AI applications.",,Gemini
+Cloze,"Ang {{c1::prompting}} ay ang paggawa ng instructions para i-guide ang LLM.",,prompting
+Cloze,"Ang {{c1::system prompt}} ay ang instruction na nag-set ng behavior ng model.",,system prompt
+Cloze,"Ang {{c1::few-shot prompting}} ay ang pagbibigay ng examples sa prompt para i-guide ang model.",,few-shot prompting
+Cloze,"Ang {{c1::chain-of-thought}} ay ang prompting technique na nagpapaisip ng step by step.",,chain-of-thought
+Cloze,"Ang {{c1::MCP}} ay ang Model Context Protocol para sa standardized tool integration.",,MCP
+Cloze,"Ang {{c1::temperature}} ay ang parameter na kumokontrol sa randomness ng output.",,temperature
+Cloze,"Ang {{c1::token limit}} ay ang maximum na output tokens ng isang LLM request.",,token limit
+Cloze,"Ang {{c1::GitHub Copilot}} ay ang AI pair programmer na naka-integrate sa editor.",,GitHub Copilot
+Cloze,"Ang {{c1::Claude Code}} ay ang AI coding agent ng Anthropic para sa terminal.",,Claude Code
+Cloze,"Ang {{c1::Cursor}} ay ang AI-powered code editor na may built-in na AI features.",,Cursor
+Cloze,"Ang {{c1::code completion}} ay ang auto-suggest ng code habang nagta-type ang developer.",,code completion
+Cloze,"Ang {{c1::code review agent}} ay ang AI na nagre-review ng code para sa mga issues.",,code review agent
+Cloze,"Ang {{c1::prompt engineering}} ay ang paggawa ng effective na prompts para sa AI tools.",,prompt engineering
+Cloze,"Ang {{c1::AI pair programming}} ay ang pag-collaborate ng developer at AI sa pag-code.",,AI pair programming
+Cloze,"Ang {{c1::context window}} ay ang dami ng code na kayang i-hold ng AI sa isang session.",,context window
+Cloze,"Ang {{c1::AI-generated code}} ay ang code na ginawa ng AI model.",,AI-generated code
+Cloze,"Ang {{c1::AI-assisted workflow}} ay ang development process na may AI integration sa mga steps.",,AI-assisted workflow
+Cloze,"Ang {{c1::evaluation}} ay ang pagsukat ng quality ng LLM output.",,evaluation
+Cloze,"Ang {{c1::hallucination}} ay ang pag-generate ng LLM ng maling impormasyon.",,hallucination
+Cloze,"Ang {{c1::human review}} ay ang pag-review ng tao sa AI-generated output.",,human review
+Cloze,"Ang {{c1::loadshifting}} ay ang paglipat ng workload mula sa developer papunta sa AI.",,loadshifting
+Cloze,"Ang {{c1::quality gate}} ay ang checkpoint na pumipigil sa low-quality AI output.",,quality gate
+Cloze,"Ang {{c1::feedback loop}} ay ang cycle ng pag-improve ng AI output base sa results.",,feedback loop
+Cloze,"Ang {{c1::guardrails}} ay ang mga constraints na pumipigil sa harmful na AI output.",,guardrails
+Cloze,"Ang {{c1::LLM observability}} ay ang pag-track ng LLM calls, costs, at output quality.",,LLM observability
