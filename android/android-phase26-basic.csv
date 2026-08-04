@@ -2,4 +2,4 @@ Application,"Paano mag-check ng network connection?","Gamitin ang ConnectivityMa
 Application,"Paano mag-set ng timeout?","Gamitin ang OkHttpClient na may connect at read timeouts.","OkHttpClient.Builder().connectTimeout(30, TimeUnit.SECONDS).build()"
 Application,"Paano mag-handle ng offline mode?","I-check ang network state at i-fall back sa cached data.","if (!isConnected) return cachedData"
 Application,"Paano mag-add ng retry logic?","Gamitin ang retry interceptor sa OkHttp.","OkHttpClient.Builder().addInterceptor(RetryInterceptor()).build()"
-Application,"Paano mag-request ng network permission?","I-declare ang INTERNET permission sa manifest.","<uses-permission android:name=\"android.permission.INTERNET\" />"
+Application,"Paano mag-request ng network permission?","I-declare ang INTERNET permission sa manifest.","<uses-permission android:name=""android.permission.INTERNET"" />"

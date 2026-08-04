@@ -1,5 +1,5 @@
 Application,"Paano mag-collect ng flow safely sa Compose?","Gamitin ang collectAsState.","val state by viewModel.state.collectAsState()"
 Application,"Paano mag-collect ng flow sa lifecycle-aware way?","Gamitin ang repeatOnLifecycle.","lifecycleScope.launch { repeatOnLifecycle(STARTED) { flow.collect { } } }"
 Application,"Paano mag-convert ng Flow to StateFlow?","Gamitin ang stateIn operator.","val stateFlow = flow.stateIn(scope, SharingStarted.WhileSubscribed(), initialValue)"
-Application,"Paano mag-emit ng event?","Gamitin ang emit() sa MutableSharedFlow.","_events.emit(Event.ShowToast(\"Done\"))"
+Application,"Paano mag-emit ng event?","Gamitin ang emit() sa MutableSharedFlow.","_events.emit(Event.ShowToast(""Done""))"
 Application,"Paano mag-collect ng latest value lang?","Gamitin ang collectLatest operator.","flow.collectLatest { processSlowOperation(it) }"

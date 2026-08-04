@@ -1,5 +1,5 @@
 Application,"Paano mag-create ng mutable state sa Compose?","Gamitin ang remember at mutableStateOf.","val state = remember { mutableStateOf(0) }"
-Application,"Paano mag-hoist ng state mula sa child?","I-pass ang state at callback pataas at data pababa.","fun Parent() { var text by remember { mutableStateOf(\"\") }; Child(text, onTextChange = { text = it }) }"
+Application,"Paano mag-hoist ng state mula sa child?","I-pass ang state at callback pataas at data pababa.","fun Parent() { var text by remember { mutableStateOf("""") }; Child(text, onTextChange = { text = it }) }"
 Application,"Paano mag-collect ng Flow as state?","Gamitin ang collectAsState sa composable.","val items by viewModel.items.collectAsState()"
 Application,"Paano mag-create ng derived state?","Gamitin ang derivedStateOf sa remember block.","val filtered = remember { derivedStateOf { items.filter { it.active } } }"
 Application,"Paano mag-access ng ViewModel sa Compose?","Gamitin ang viewModel() composable function.","val vm: MyViewModel = viewModel()"

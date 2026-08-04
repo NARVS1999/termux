@@ -1,5 +1,5 @@
 Application,"Paano mag-write ng Espresso test?","Gamitin ang onView at ViewMatchers.","onView(withId(R.id.button)).perform(click())"
-Application,"Paano mag-verify ng text sa view?","Gamitin ang ViewAssertions.","onView(withId(R.id.text)).check(matches(withText(\"Expected\")))"
+Application,"Paano mag-verify ng text sa view?","Gamitin ang ViewAssertions.","onView(withId(R.id.text)).check(matches(withText(""Expected"")))"
 Application,"Paano mag-wait sa async operation?","I-register ang IdlingResource sa Espresso.","Espresso.registerIdlingResources(countingIdlingResource)"
 Application,"Paano mag-run ng instrumentation test?","Gamitin ang Android Studio test runner o gradle.","./gradlew connectedAndroidTest"
 Application,"Paano mag-test ng scroll?","Gamitin ang scrollTo action sa Espresso.","onView(withId(R.id.target)).perform(scrollTo()).perform(click())"

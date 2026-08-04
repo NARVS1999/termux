@@ -1,5 +1,5 @@
 Application,"Paano mag-run ng lint check?","Gamitin ang gradle lint task.","./gradlew lint"
-Application,"Paano mag-configure ng detekt?","I-add ang detekt plugin sa build.gradle.","plugins { id(\"io.gitlab.arturbosch.detekt\") version \"1.23.0\" }"
+Application,"Paano mag-configure ng detekt?","I-add ang detekt plugin sa build.gradle.","plugins { id(""io.gitlab.arturbosch.detekt"") version ""1.23.0"" }"
 Application,"Paano mag-format ng Kotlin code?","Gamitin ang ktlint gradle plugin.","./gradlew ktlintFormat"
-Application,"Paano mag-skip ng lint warning?","Gamitin ang @Suppress annotation.","@Suppress(\"UnusedPrivateMember\")"
-Application,"Paano mag-set ng lint rules?","I-create ang lint.xml configuration file.","<lint><issue id=\"HardcodedText\" severity=\"warning\" /></lint>"
+Application,"Paano mag-skip ng lint warning?","Gamitin ang @Suppress annotation.","@Suppress(""UnusedPrivateMember"")"
+Application,"Paano mag-set ng lint rules?","I-create ang lint.xml configuration file.","<lint><issue id=""HardcodedText"" severity=""warning"" /></lint>"
