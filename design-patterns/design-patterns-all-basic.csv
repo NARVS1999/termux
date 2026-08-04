@@ -1,0 +1,235 @@
+Application,"Paano ilapat ang Single Responsibility Principle sa isang class?",,Hatiin ang class sa mga smaller classes na may iisang responsibility lang
+Application,"Paano mai-apply ang Open-Closed Principle?",,Gumamit ng interfaces at abstractions para mag-extend nang hindi binabago ang lumang code
+Application,"Paano i-verify ang Liskov Substitution Principle?",,Siguraduhing lahat ng subclass ay gumagana nang tama kapag pinalitan ang parent class
+Application,"Paano i-implement ang Interface Segregation Principle?",,Hatiin ang malalaking interfaces sa mga mas maliit na client-specific na interfaces
+Application,"Paano ilapat ang Dependency Inversion Principle?",,Gumamit ng dependency injection at mag-inject ng abstractions hindi ng concrete implementations
+Application,"Paano mai-apply ang DRY sa isang codebase?",,I-extract ang duplicate code sa mga functions o utilities na magagamit muli
+Application,"Paano masusunod ang KISS sa coding?",,Piliin ang pinakasimpleng solusyon na gumagana at iwasan ang over-engineering
+Application,"Paano maiwasan ang YAGNI violation?",,Gumawa lang ng features na kasalukuyang kailangan at huwag mag-speculate sa future
+Application,"Paano malalaman kung kelangan mag-refactor para sa DRY?",,Kapag may dalawang magkaparehong code sa iba't ibang lugar na nag-iiba lang sa ilang detalye
+Application,"Paano ipaliwanag ang trade-off ng KISS vs perfect code?",,Ang perfect code ay madalas mas kumplikado — mas mainam ang good enough na simpleng solusyon
+Application,"Paano pumili sa pagitan ng composition at inheritance?",,Gamitin ang inheritance para sa 'is-a' relationship at composition para sa 'has-a' relationship
+Application,"Paano i-refactor ang inheritance hierarchies sa composition?",,I-inject ang dependencies at i-delegate ang behavior sa mga composed objects
+Application,"Paano malalaman kapag overusing ang inheritance?",,Kapag maraming levels ng hierarchy at maraming overridden methods
+Application,"Paano i-apply ang composition sa isang existing class?",,Gumamit ng dependency injection at i-wrap ang mga objects na kailangan
+Application,"Paano maiwasan ang tight coupling ng inheritance?",,Gumamit ng interfaces at i-compose ang behavior sa halip na i-inherit
+Application,"Paano i-apply ang abstraction sa isang class hierarchy?",,Gumamit ng abstract classes at interfaces para magbigay ng simplified interface
+Application,"Paano i-implement ang encapsulation sa JavaScript?",,Gamitin ang closures, classes, o private fields para i-hide ang internal state
+Application,"Paano i-execute ang polymorphism sa runtime?",,I-override ang methods sa subclasses at i-invoke ang mga ito sa pamamagitan ng base class reference
+Application,"Paano malalaman kung tama ang abstraction level?",,Ang abstraction ay dapat magbigay ng sapat na detalye para sa use case nang hindi nagpapakita ng internal
+Application,"Paano maiwasan ang encapsulation leak?",,I-minimize ang public API at i-validate ang inputs sa bawat public method
+Application,"Paano i-implement ang Singleton sa JavaScript?",,Gamitin ang closures, IIFE, o ES6 classes na may static getInstance method
+Application,"Paano maiwasan ang Singleton anti-pattern?",,I-depend ang mga classes sa halip na gumamit ng global state — gumamit ng dependency injection
+Application,"Paano i-test ang isang Singleton class?",,I-reset ang singleton instance sa bawat test at i-mock ang dependencies nito
+Application,"Paano pumili sa lazy at eager initialization?",,Gamitin ang lazy para sa mahal na resources at eager para sa madaling i-initialize
+Application,"Paano i-ensure ang thread safety sa Singleton?",,Gamitin ang double-checked locking o language-specific na atomic operations
+Application,"Paano i-implement ang Factory Method sa JavaScript?",,Gumamit ng switch statement sa loob ng factory function o gumamit ng object literal map
+Application,"Paano pumili sa Factory Method at Abstract Factory?",,Gamitin ang Factory Method para sa isang product at Abstract Factory para sa mga related products
+Application,"Paano magdagdag ng bagong product type sa Factory Method?",,Lumikha ng bagong subclass ng creator na nag-i-implement ng factory method
+Application,"Paano maiwasan ang malaking switch statements sa factory?",,Gamitin ang object map o registry pattern para i-map ang types sa classes
+Application,"Paano i-apply ang Factory Method sa isang existing na switch statement?",,I-extract ang bawat kaso sa sarili nitong class at gumamit ng factory method para mag-create
+Application,"Paano i-distinguish ang Factory Method at Abstract Factory?",,Ang Factory Method ay para sa isang product, Abstract Factory ay para sa mga related na products
+Application,"Paano mag-implement ng UI theme sa Abstract Factory?",,Lumikha ng interface para sa UI components at mga concrete factories para sa bawat theme
+Application,"Paano magdagdag ng bagong product family?",,Lumikha ng bagong concrete factory na nag-i-implement ng abstract factory interface
+Application,"Paano i-apply ang Abstract Factory sa database access?",,Gumamit ng factory para gumawa ng mga connection, command, at reader objects
+Application,"Paano malalaman kung kailangan ang Abstract Factory?",,Kapag maraming related objects na dapat maging consistent ang pagkakagawa
+Application,"Paano i-implement ang Builder pattern sa JavaScript?",,Gumamit ng class na may mga setter methods na nagbabalik ng this para sa method chaining
+Application,"Paano pumili sa Builder at Factory?",,Gamitin ang Builder para sa kumplikadong step-by-step na construction at Factory para sa simpleng creation
+Application,"Paano i-apply ang Builder para sa HTTP request?",,Lumikha ng builder na may mga methods para sa URL, headers, body, at method
+Application,"Paano gumamit ng director sa Builder?",,Lumikha ng director class na nag-a-arrange ng construction steps at nagbibigay ng built objects
+Application,"Paano i-validate sa Builder bago i-build?",,I-add ang validation sa loob ng build() method bago ibalik ang final object
+Application,"Paano i-implement ang shallow copy sa JavaScript?",,Gamitin ang Object.assign() o spread operator para i-copy ang properties
+Application,"Paano gumawa ng deep copy sa JavaScript?",,Gamitin ang structuredClone() o JSON.parse(JSON.stringify()) para i-copy ang lahat ng nested objects
+Application,"Paano i-apply ang Prototype pattern sa existing na code?",,Lumikha ng prototype registry at i-clone ang mga objects kaysa sa bagong instantiation
+Application,"Paano maiwasan ang prototype pollution?",,I-validate ang inputs at i-freeze ang prototype objects para iwasan ang modification
+Application,"Paano pumili sa shallow at deep copy?",,Gamitin ang shallow copy para sa flat objects at deep copy para sa nested objects
+Application,"Paano i-implement ang Object Pool sa JavaScript?",,Gumamit ng array bilang pool at i-manage ang available at in-use objects
+Application,"Paano mag-set ng tamang pool size?",,I-balance ang memory usage at performance — gamitin ang profiling para malaman ang optimal size
+Application,"Paano i-handle ang overflow sa Object Pool?",,Mag-add ng queue para sa mga naghihintay o lumikha ng temporary objects
+Application,"Paano mag-implement ng connection pool?",,Gumamit ng library tulad ng pg-pool o i-implement ang acquire/release lifecycle
+Application,"Paano i-cleanup ang Object Pool?",,I-dispose ang mga idle objects at i-limit ang oras ng bawat connection
+Application,"Paano i-implement ang Adapter pattern?",,Lumikha ng adapter class na may target interface at i-wrap ang adaptee object
+Application,"Paano pumili sa object at class adapter?",,Gamitin ang object adapter para sa composition at class adapter para sa multiple inheritance
+Application,"Paano i-apply ang Adapter sa legacy code?",,I-wrap ang lumang API sa isang adapter na may modern na interface
+Application,"Paano i-convert ang data format gamit ang Adapter?",,I-map ang old format sa new format sa loob ng adapter's method
+Application,"Paano i-test ang Adapter?",,I-test ang adapter sa isolation at i-verify na tama ang conversion
+Application,"Paano i-distinguish ang Adapter at Bridge?",,Ang Adapter ay nagko-convert ng interfaces, Bridge ay naghihiwalay ng abstraction at implementation
+Application,"Paano i-implement ang Bridge sa JavaScript?",,Gumamit ng composition at i-inject ang implementation sa abstraction constructor
+Application,"Paano i-apply ang Bridge sa platform-specific code?",,Lumikha ng abstraction layer at mga platform-specific na implementations
+Application,"Paano pumili sa Bridge at Strategy?",,Gamitin ang Bridge para sa structural na separation at Strategy para sa behavioral na flexibility
+Application,"Paano magdagdag ng bagong implementation sa Bridge?",,Lumikha ng bagong class na nag-i-implement ng implementation interface
+Application,"Paano i-implement ang Composite pattern?",,Lumikha ng component interface at i-implement ang leaf at composite classes
+Application,"Paano i-traverse ang composite tree?",,Gamitin ang recursive traversal o visitor pattern para i-iterate sa lahat ng components
+Application,"Paano i-apply ang Composite sa file system?",,Lumikha ng file at folder classes na may parehong interface
+Application,"Paano maiwasan ang malalaking composites?",,I-limit ang depth ng tree at i-check ang circular references
+Application,"Paano i-test ang Composite?",,I-test ang mga leaf at composite nang hiwalay at i-verify ang tree behavior
+Application,"Paano i-implement ang Decorator pattern?",,Lumikha ng base class at mga decorator classes na nag-we-wrap at nagdadagdag ng behavior
+Application,"Paano pumili sa Decorator at inheritance?",,Gamitin ang Decorator para sa dynamic na behavior at inheritance para sa static na relationship
+Application,"Paano i-apply ang Decorator sa middleware?",,I-wrap ang mga handlers sa mga decorator na nagdadagdag ng logging, auth, at error handling
+Application,"Paano mag-stack ng mga decorators?",,I-wrap ang isang decorated object sa isa pang decorator para mag-combine ng behaviors
+Application,"Paano i-test ang mga decorators?",,I-test ang bawat decorator sa isolation at i-verify ang cumulative behavior
+Application,"Paano i-implement ang Facade?",,Lumikha ng facade class na may simplified methods na nag-delegate sa subsystem classes
+Application,"Paano pumili sa Facade at Adapter?",,Ang Facade ay nagbibigay ng simpleng interface sa kumplikadong subsystem, Adapter ay nagko-convert ng interfaces
+Application,"Paano i-apply ang Facade sa third-party libraries?",,I-wrap ang library sa isang facade na may domain-specific na methods
+Application,"Paano malalaman kung kailangan ang Facade?",,Kapag ang client code ay gumagamit ng maraming classes mula sa isang subsystem
+Application,"Paano i-maintain ang Facade?",,Panatilihin itong simple at hayaan ang clients na i-access ang subsystem directly kapag kailangan ng advanced na features
+Application,"Paano i-implement ang Flyweight pattern?",,Lumikha ng factory na nag-cache ng mga objects at nagbabahagi ng shared state
+Application,"Paano pumili sa Flyweight at Object Pool?",,Ang Flyweight ay nagbabahagi ng shared state, Object Pool ay nagre-reuse ng objects
+Application,"Paano i-apply ang Flyweight sa text rendering?",,I-share ang character objects at i-pass ang position bilang extrinsic state
+Application,"Paano maiwasan ang incorrect sharing?",,I-separate ang intrinsic at extrinsic state at i-verify ang thread safety
+Application,"Paano i-measure ang memory savings?",,I-compare ang memory usage gamit ang profiling tools bago at pagkatapos ng optimization
+Application,"Paano i-implement ang virtual proxy?",,I-delay ang creation ng real object hanggang sa unang paggamit
+Application,"Paano pumili sa Proxy at Decorator?",,Ang Proxy ay nagkokontrol ng access, Decorator ay nagdadagdag ng behavior
+Application,"Paano i-apply ang Proxy sa caching?",,I-store ang results sa proxy at ibalik ang cached data kung hindi pa nag-e-expire
+Application,"Paano i-implement ang protection proxy?",,I-check ang user permissions bago i-delegate sa real object
+Application,"Paano i-test ang Proxy?",,I-test ang proxy sa isolation at i-verify na tama ang behavior sa iba't ibang scenarios
+Application,"Paano i-implement ang Observer pattern?",,"gumawa ng Subject class na may attach/detach/notify methods, at Observer interface na may update method"
+Application,"Kailan gumamit ng Observer pattern?",,"kapag ang isang object ay kailangang mag-notify ng maraming iba't ibang objects ng changes"
+Application,"Ano ang pagkakaiba ng Observer at pub-sub?",,"Observer: direct subscription. Pub-sub: event bus ang middleman — mas decoupled"
+Application,"Paano maiwasan ang memory leaks sa Observer?",,"i-detach ang observers kapag hindi na kailangan — huwag kalimutang mag-unsubscribe"
+Application,"Paano i-handle ang Observer failures?",,"gumamit ng async notifications o try-catch sa bawat observer — huwag hayaang mag-fail ang iba"
+Application,"Paano i-implement ang Strategy pattern?",,"gumawa ng strategy interface, i-implement ang bawat algorithm, i-inject sa context"
+Application,"Kailan gumamit ng Strategy pattern?",,"kapag maraming algorithms at gusto mong pumili sa runtime: sorting, payment methods, compression"
+Application,"Ano ang pagkakaiba ng Strategy at State?",,"Strategy: nagpapalit ng algorithm. State: nagpapalit ng behavior base sa state transitions."
+Application,"Paano mag-add ng bagong strategy?",,"gumawa ng bagong class na nag-i-implement ng interface — walang babaguhin sa context"
+Application,"Ano ang benefit ng Strategy?",,"Open/Closed Principle: madaling magdagdag ng bagong algorithms nang hindi binabago ang existing code"
+Application,"Paano i-implement ang Command pattern?",,"gumawa ng command interface na may execute(), i-encapsulate ang receiver at action sa command class"
+Application,"Kailan gumamit ng Command pattern?",,"kapag kailangan ng undo/redo, queuing, o logging ng operations: text editor, task scheduler"
+Application,"Paano gumawa ng undo/redo?",,"i-store ang executed commands sa history stack, i-call ang undo() method para mag-reverse"
+Application,"Ano ang macro command?",,"isang command na nag-e-execute ng maraming commands — composite pattern sa commands"
+Application,"Paano i-queue ang commands?",,"i-store ang commands sa queue, i-execute ng worker sa order — reliable task processing"
+Application,"Paano i-implement ang Template Method?",,"gumawa ng base class na may final na method, i-define ang steps na pwedeng i-override ng subclass"
+Application,"Kailan gumamit ng Template Method?",,"kapag ang algorithm ay fixed pero ang mga step ay pwedeng mag-ibA: data processing, report generation"
+Application,"Ano ang hook method?",,"ang optional na method na pwedeng i-override — hindi required ang implementation ng subclass"
+Application,"Ano ang pagkakaiba ng Template Method at Strategy?",,"Template Method: inheritance-based, algorithm sa base class. Strategy: composition-based, algorithm sa context."
+Application,"Paano mag-add ng bagong step?",,"i-add sa base class method, i-provide ng default implementation — hindi masisira ang existing subclasses"
+Application,"Paano i-implement ang Iterator pattern?",,"gumawa ng iterator class na may hasNext() at next() methods, i-return mula sa collection"
+Application,"Kailan gumamit ng Iterator?",,"kapag may collection na gusto mong i-traverse nang walang exposing ng internal structure"
+Application,"Ano ang pagkakaiba ng external at internal iteration?",,"external: client ang nag-loop (while hasNext). internal: collection ang nag-loop (forEach, map)."
+Application,"Paano gumawa ng custom iterator?",,"i-implement ang iterator protocol: hasNext(), next(), optional na current() — para sa custom collections"
+Application,"Ano ang benefit ng Iterator?",,"isolation ng traversal logic mula sa collection — pwedeng magbago ang internal structure"
+Application,"Paano i-implement ang State pattern?",,"gumawa ng state interface, i-implement ang bawat state class, i-inject sa context"
+Application,"Kailan gumamit ng State pattern?",,"kapag ang behavior ay nagbabago dependi sa state: order status, media player, game states"
+Application,"Ano ang pagkakaiba ng State at Strategy?",,"State: nagbabago ang behavior based sa state transitions. Strategy: pinipili ang algorithm sa runtime."
+Application,"Paano mag-model ng state machine?",,"i-define ang states, transitions, at actions — i-implement ang state classes at transition logic"
+Application,"Paano mag-add ng bagong state?",,"gumawa ng bagong state class, i-add ang transitions — hindi masisira ang existing states"
+Application,"Paano i-implement ang Chain of Responsibility?",,"gumawa ng handler class na may next handler reference, i-pass ang request sa next kapag hindi kayang i-process"
+Application,"Kailan gumamit ng Chain of Responsibility?",,"kapag maraming handlers at hindi alam kung sino ang mag-handle: logging, auth, validation"
+Application,"Ano ang middleware pipeline?",,"ang pag-process ng request sa hanay ng middleware: auth → validation → rate limit → controller"
+Application,"Paano mag-add ng bagong handler?",,"i-inject sa chain — walang babaguhin sa existing handlers, SOLID compliant"
+Application,"Paano i-stop ang chain?",,"ang handler ay nagre-return ng response — hindi na nagpapasa sa next handler"
+Application,"Paano i-implement ang Mediator pattern?",,"gumawa ng mediator interface, i-register ang colleagues, i-dispatch ang events sa tamang colleagues"
+Application,"Kailan gumamit ng Mediator?",,"kapag maraming objects na nagko-communicate: chat rooms, air traffic control, form validation"
+Application,"Ano ang pagkakaiba ng Mediator at Observer?",,"Mediator: central ang coordination. Observer: distributed ang notification — parehong decoupled."
+Application,"Paano mag-add ng bagong colleague?",,"i-register sa mediator — walang babaguhin sa existing colleagues"
+Application,"Ano ang risk ng Mediator?",,"ang mediator ay maaaring maging God Object — i-limit ang responsibilities"
+Application,"Paano i-implement ang Visitor pattern?",,"gumawa ng visitor interface na may visit() para sa bawat element, i-add ang accept() sa elements"
+Application,"Kailan gumamit ng Visitor?",,"kapag gustong mag-add ng operations sa hierarchy ng objects nang hindi binabago ang classes"
+Application,"Ano ang double dispatch?",,"element.accept(visitor) → visitor.visit(element) — dalawang dispatch: isa para sa accept, isa para sa visit"
+Application,"Ano ang benefit ng Visitor?",,"madaling mag-add ng bagong operations (bagong visitor) pero mahirap mag-add ng bagong elements"
+Application,"Ano ang downside ng Visitor?",,"ang visitor ay kailangang i-update kapag nagbago ang element hierarchy — tight coupling sa structure"
+Application,"Ano ang MVC?",,"ang pattern na naghihiwalay ng Model (data), View (UI), Controller (logic) — pinaka-common na architecture"
+Application,"Paano nagko-communicate ang MVC layers?",,"User → Controller → Model → View — ang controller ang nagpo-process ng input, model ang nagse-set ng data"
+Application,"Ano ang pagkakaiba ng MVC at MVP?",,"MVC: model at view ay connected. MVP: presenter ang middleman — mas testable."
+Application,"Paano i-test ang MVC?",,"i-test ang model layer, i-mock ang view at controller — ang model ay dapat independent"
+Application,"Ano ang fat model vs fat controller?",,"fat model: business logic sa model. fat controller: logic sa controller. Piliin ang appropriate."
+Application,"Ano ang MVP?",,"ang pattern kung saan ang presenter ang nagpo-process ng logic — ang view ay passive lang"
+Application,"Bakit mas testable ang MVP?",,"dahil ang presenter ay pwedeng i-test nang hindi gumagamit ng view — i-mock lang ang interface"
+Application,"Ano ang passive view?",,"ang view ay nagre-render lang ng data, walang logic — lahat ay nasa presenter"
+Application,"Paano nagko-communicate ang model at presenter?",,"ang presenter ay nag-subscribe sa model changes, nagpo-prepare ng data, at nagpo-update ng view"
+Application,"Kailan gumamit ng MVP?",,"kapag kailangan ng highly testable na UI: desktop apps, forms-heavy applications"
+Application,"Ano ang MVVM?",,"ang pattern na may data binding: ViewModel ang nagpo-prepare ng data, view ang nagre-render — reactive"
+Application,"Ano ang pagkakaiba ng MVVM at MVP?",,"MVP: presenter ang nagpo-update ng view. MVVM: data binding ang nagpo-sync — mas declarative."
+Application,"Paano gumagana ang data binding?",,"kapag nagbago ang ViewModel data, awtomatikong nag-update ang view — walang manual code"
+Application,"Kailan gumamit ng MVVM?",,"kapag may rich data binding: mobile apps (SwiftUI, Jetpack Compose), web (Vue, Angular)"
+Application,"Ano ang two-way data binding?",,"kapag nagbago ang input sa view, nagbabago rin ang ViewModel — at vice versa"
+Application,"Ano ang Clean Architecture?",,"ang pattern na naglalagay ng business logic sa gitna — ang outer layers ay depend sa inner layers, hindi vice versa"
+Application,"Ano ang dependency rule?",,"ang dependencies ay dapat pumasok lang sa loob — ang inner layers ay hindi nagde-depend sa outer layers"
+Application,"Ano ang layers ng Clean Architecture?",,"entities → use cases → interface adapters → frameworks & drivers (mula sa loob pababa)"
+Application,"Paano i-apply ang Clean Architecture?",,"i-separate ang business logic mula sa frameworks, i-inject ang dependencies, i-test nang independiente"
+Application,"Ano ang benefit ng Clean Architecture?",,"madaling magpalit ng UI, database, o external services — ang business logic ay hindi naapektuhan"
+Application,"Ano ang Hexagonal Architecture?",,"ang pattern na naghihiwalay ng core logic (ports) mula sa external world (adapters) — pluggable infrastructure"
+Application,"Ano ang port?",,"ang interface na nagde-define ng core's needs: UserRepository port, NotificationService port"
+Application,"Ano ang adapter?",,"ang implementation ng port: MySQL adapter para sa UserRepository, SendGrid adapter para sa NotificationService"
+Application,"Paano mag-switch ng database?",,"i-change lang ang adapter — i-apply ang bagong implementation sa port, walang babaguhin sa core"
+Application,"Ano ang benefit ng Hexagonal?",,"madaling mag-test (in-memory adapter), mag-switch ng infrastructure, at i-isolate ang business logic"
+Application,"Bakit gumamit ng thread pool?",,"para i-reuse ang threads sa halip na mag-create/destroy sa bawat task — mas mabilis at efficient"
+Application,"Paano i-set ang pool size?",,"CPU-bound: number of cores + 1. I/O-bound: 2x number of cores. I-profile para sa tamang size."
+Application,"Ano ang task queue?",,"ang queue na nagse-store ng pending tasks — ang workers ay nagko-consume mula dito"
+Application,"Paano mag-handle ng failed tasks?",,"i-retry o i-dead letter queue — huwag hayaang mag-crash ang worker dahil sa isang task"
+Application,"Ano ang graceful shutdown?",,"hintayin na matapos ang current tasks bago i-close ang pool — huwag biglang i-terminate"
+Application,"Paano i-implement ang Producer-Consumer?",,"gumawa ng blocking queue, producer threads ang naglalagay, consumer threads ang nagko-consume"
+Application,"Kailan gumamit ng Producer-Consumer?",,"kapag may decoupled naproduction at processing: log processing, task scheduling, message queues"
+Application,"Ano ang bounded buffer?",,"ang buffer na may maximum size — nagba-block ang producers kapag puno para maiwasan ang OOM"
+Application,"Paano mag-handle ng producer-consumer deadlock?",,"i-avoid ang circular waits, i-set ng timeouts, i-use ng bounded buffers"
+Application,"Ano ang work stealing?",,"ang consumer ay nagko-steal ng tasks mula sa ibang queues kapag walang work sa sariling queue"
+Application,"Kailan gumamit ng Read-Write Lock?",,"kapag mas maraming reads kaysa writes — concurrent reads, exclusive writes para sa data integrity"
+Application,"Ano ang advantage ng Read-Write Lock?",,"mas mabilis kaysa sa mutex — pwedeng mag-read nang sabay-sabay, nag-lock lang sa writes"
+Application,"Paano i-implement?",,"gamitin ang ReentrantReadWriteLock: readLock() para sa reads, writeLock() para sa writes"
+Application,"Ano ang writer starvation?",,"kapag laging may readers, hindi na makakapag-write — i-solve gamit ang fairness policy"
+Application,"Kailan hindi gumamit ng Read-Write Lock?",,"kapag maraming writes — mas mabagal pa kaysa sa simpleng mutex dahil sa lock overhead"
+Application,"Ano ang Monitor?",,"ang synchronization construct na nagbibigay ng mutual exclusion: isang thread lang ang nasa critical section"
+Application,"Paano gumamit ng condition variable?",,"gamitin ang wait() para maghintay, signal() para mag-notify, broadcast() para i-notify ang lahat"
+Application,"Ano ang mutex?",,"mutual exclusion lock — isang thread lang ang pwedeng mag-hold sa isang oras"
+Application,"Kailan gumamit ng Monitor?",,"kapag kailangan ng mutual exclusion at condition-based synchronization: producer-consumer, readers-writers"
+Application,"Ano ang spurious wakeup?",,"ang condition variable ay nag-wake up kahit walang signal — i-solve gamit ang while loop sa wait"
+Application,"Paano i-implement ang Repository?",,"gumawa ng interface na may findById(), findAll(), save(), delete() — i-implement para sa database"
+Application,"Kailan gumamit ng Repository?",,"para i-abstract ang data access — madaling mag-switch ng database o i-mock para sa tests"
+Application,"Ano ang benefit ng Repository?",,"business logic ay hindi nagde-depend sa database implementation — testable at maintainable"
+Application,"Paano i-mock ang Repository para sa tests?",,"gumawa ng in-memory implementation o gumamit ng mocking framework: jest.mock(), Mockito"
+Application,"Ano ang Generic Repository?",,"isang repository na may CRUD para sa lahat ng entities — pero mag-ingat sa over-abstraction"
+Application,"Paano i-implement ang Unit of Work?",,"i-track ang lahat ng changes: add, update, delete — pagkatapos i-commit ang lahat sa iisang transaction"
+Application,"Kailan gumamit ng Unit of Work?",,"kapag maraming related na data changes: order + order items + inventory — dapat i-commit sabay"
+Application,"Ano ang benefit ng Unit of Work?",,"atomic transactions — walang partial data, lahat ay consistent pagkatapos ng commit"
+Application,"Paano i-combine ang Unit of Work at Repository?",,"ang Unit of Work ay nagte-track ng changes, ang Repository ang nagpe-persist — magkaibang concerns"
+Application,"Paano mag-handle ng failure?",,"i-rollback ang lahat ng changes — walang partially applied data sa database"
+Application,"Paano i-implement ang Specification?",,"gumawa ng specification class na may isSatisfiedBy() method, i-compose gamit ang AND, OR, NOT"
+Application,"Kailan gumamit ng Specification?",,"kapag maraming business rules na pwedeng i-reuse: search filters, validation rules, access control"
+Application,"Ano ang benefit ng Specification?",,"malinaw, testable, at reusable na business rules — pwedeng i-compose sa complex queries"
+Application,"Paano i-apply ang Specification sa Repository?",,"ang repository ay tumatanggap ng specification at nagfi-filter base sa rules"
+Application,"Paano gumawa ng composite specification?",,"gumawa ng AndSpecification, OrSpecification — i-combine ang dalawang specs"
+Application,"Paano i-implement ang Identity Map?",,"i-cache ang loaded objects by ID: map.put(id, object) — i-check muna bago mag-load mula sa DB"
+Application,"Kailan gumamit ng Identity Map?",,"kapag maraming objects na nag-re-refer sa parehong entity — maiwasan ang duplicate instances"
+Application,"Ano ang benefit ng Identity Map?",,"consistency sa loob ng transaction — ang same object ang nire-refer ng lahat"
+Application,"Paano mag-clear ng Identity Map?",,"i-clear pagkatapos ng transaction — para sa next transaction ay fresh ang data"
+Application,"Paano i-integrate sa ORM?",,"ang mga ORM (Hibernate, Eloquent) ay may built-in na Identity Map — auto-manage ang cache"
+Application,"Ano ang DTO?",,"plain data object na nagdadala ng data sa pagitan ng layers — walang business logic, lang data"
+Application,"Kailan gumamit ng DTO?",,"para mag-padala ng data sa API response, sa pagitan ng layers, o sa serialization boundaries"
+Application,"Ano ang pagkakaiba ng DTO at Entity?",,"entity: may business logic at identity. DTO: plain data, walang behavior, para sa transport lang."
+Application,"Paano i-map ang entity sa DTO?",,"gamitin ang mapping library: MapStruct, AutoMapper, o manual mapping"
+Application,"Ano ang VO o Value Object?",,"immutable object na kumakatawan ng value: Money, DateRange — may equality base sa value, hindi identity"
+Application,"Paano makilala ang God Object?",,"kapag ang class ay may 500+ lines, maraming methods, at maraming imports — masyadong maraming responsibilities"
+Application,"Paano i-refactor ang God Object?",,"i-identify ang responsibilities, gumawa ng bagong classes para sa bawat responsibility, i-inject sa original"
+Application,"Ano ang risk ng God Object?",,"mahirap i-test, i-maintain, at i-understand — ang isang change ay pwedeng makaapektong sa lahat"
+Application,"Paano maiwasan ang God Object?",,"i-apply ang Single Responsibility Principle — bawat class ay may iisang responsibility lang"
+Application,"Ano ang extract class refactoring?",,"kunin ang related methods at i-move sa bagong class — i-inject ang bagong class sa original"
+Application,"Paano makilala ang Spaghetti Code?",,"walang structure,kahit saan goto statements, walang separation of concerns — mahirap i-follow ang flow"
+Application,"Paano i-refactor ang Spaghetti Code?",,"i-extract ang layers: UI → Controller → Service → Repository, i-dependency injection ang connections"
+Application,"Bakit nagiging Spaghetti?",,"walang initial design, quick fixes, copy-paste, walang code review — technical debt ang dulot"
+Application,"Paano maiwasan ang Spaghetti?",,"i-apply ang clean architecture, i-separate ang concerns, i-review ang code regularly"
+Application,"Ano ang incremental refactoring?",,"unti-unting pag-aayos habang nagta-traverse — huwag biglang baguhin lahat, i-improve lang ang parts"
+Application,"Ano ang Golden Hammer?",,"ang paggamit ng iisang tool o approach sa lahat ng problema kahit hindi angkop"
+Application,"Paano makilala ang Golden Hammer?",,"kapag laging sinasabi na "gamitin natin ang X" sa lahat ng discussions — hindi nagco-consider ng alternatives"
+Application,"Bakit delikado ang Golden Hammer?",,"hindi lahat ng problems ay solvable ng iisang tool — mas maganda ang fit-for-purpose na solutions"
+Application,"Paano maiwasan?",,"mag-aral ng maraming patterns at tools, mag-evaluate ng alternatives, magtanong sa team"
+Application,"Ano ang appropriate tool?",,"ang tool na pinaka-angkop sa specific na problema — hindi ang pinaka-familiar"
+Application,"Paano pumili ng tamang pattern?",,"i-identify ang problema, i-evaluate ang options, piliin ang pinaka-simple na solution na nagwo-work"
+Application,"Ano ang problem-driven approach?",,"magsimula sa problema, hindi sa pattern — hanapin ang pattern na nagso-solve ng problema"
+Application,"Paano mag-evaluate ng trade-offs?",,"tingnan ang complexity, testability, performance, at maintainability — piliin ang best fit"
+Application,"Kailan hindi gumamit ng pattern?",,"kapag ang simpleng solution ay nagwo-work — huwag mag-over-engineer, YAGNI principle"
+Application,"Paano malaman kung tama ang pattern?",,"kapag nababawasan ang complexity, nadadagdagan ang testability, at naiintindihan ng team"
+Application,"Ano ang pattern combination?",,"ang paggamit ng maraming patterns na magkasama: MVC + Observer + Strategy — pinagsama para sa isang feature"
+Application,"Ano ang common na pattern combinations?",,"MVC + Observer, Factory + Strategy, Repository + Unit of Work, Decorator + Proxy"
+Application,"Paano mag-combine nang tama?",,"tiyakin na bawat pattern ay may malinaw na role — huwag mag-overlap o mag-conflict"
+Application,"Kailan hindi mag-combine?",,"kapag ang simpleng pattern ay nagwo-work — huwag mag-add ng complexity na hindi kailangan"
+Application,"Paano mag-maintain ng combined patterns?",,"i-document ang mga roles ng bawat pattern, i-review ang interactions, i-test ang combinations"
+Application,"May performance cost ba ang design patterns?",,"may konting overhead pero ang benefit sa maintainability at testability ay mas malaki kaysa sa cost"
+Application,"Kailan mag-optimize?",,"kapag may totoong performance problem na na-profile — hindi bago pa may problem"
+Application,"Paano i-profile ang pattern overhead?",,"gumamit ng profiler: Xdebug, Blackfire, JMH — i-measure ang actual execution time"
+Application,"Ano ang premature optimization?",,"ang pag-optimize ng hindi pa napi-profile na code — maaaring mag-add ng unnecessary complexity"
+Application,"Paano mag-balance ng patterns at performance?",,"piliin ang patterns na may malinaw na benefit, i-profile kapag may doubt, i-simplify kung kailangan"
+Application,"Ano ang patterns sa Laravel?",,"Repository (data access), Factory (testing), Observer (events), Service Container (DI), Strategy (multiple drivers)"
+Application,"Ano ang patterns sa React?",,"Hooks (state management), Compound Components (flexible API), Container/Presentational (separation of concerns)"
+Application,"Paano matuto mula sa production code?",,"i-review ang existing code, hanapin ang patterns na ginagamit, intindihin kung bakit sila pinili"
+Application,"Paano mag-apply ng patterns sa new project?",,"magsimula sa simple, i-add ang patterns kapag kailangan — huwag mag-over-engineer agad"
+Application,"Ano ang best practice para sa patterns?",,"intindihin muna ang problema, piliin ang tamang pattern, i-test, i-simplify — huwag mag-pattern for pattern's sake"

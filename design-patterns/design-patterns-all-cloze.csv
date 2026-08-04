@@ -1,0 +1,307 @@
+Cloze,"Ang {{c1::Single Responsibility Principle}} ay nagbibigay ng iisang responsibility sa isang class.",,single responsibility
+Cloze,"Ang {{c1::Open-Closed Principle}} ay nagsasabing dapat open for extension pero closed for modification ang mga classes.",,open-closed
+Cloze,"Ang {{c1::Liskov Substitution Principle}} ay nagsasabing ang mga subclass ay dapat mailagay sa lugar ng parent class nang hindi nababago ang behavior.",,Liskov substitution
+Cloze,"Ang {{c1::Interface Segregation Principle}} ay nagsasabong mas mabuti ang maraming maliliit na interface kaysa sa isang malaking interface.",,interface segregation
+Cloze,"Ang {{c1::Dependency Inversion Principle}} ay nagsasabong ang mga high-level modules ay hindi dapat depend sa low-level modules, kundi sa abstractions.",,dependency inversion
+Cloze,"Ang {{c1::SRP}} ay nagsasabong ang bawat class ay may iisang dahilan para magbago.",,SRP
+Cloze,"Ang {{c1::OCP}} ay nagpoprotekta sa existing code mula sa mga bagong features nang hindi binabago ang lumang code.",,OCP
+Cloze,"Ang {{c1::LSP}} ay nagsasabong ang mga bawat subtype ay behaviorally compatible sa kanyang supertype.",,LSP
+Cloze,"Ang {{c1::ISP}} ay humihimok na gumamit ng mga client-specific na interface kaysa sa monolithic na interface.",,ISP
+Cloze,"Ang {{c1::DIP}} ay gumagamit ng abstraction layers upang i-decouple ang mga dependencies.",,DIP
+Cloze,"Ang {{c1::DRY}} ay nagsasabong huwag mag-duplicate ng code — i-extract ang shared logic.",,DRY
+Cloze,"Ang {{c1::KISS}} ay nagsasabong panatilihin ang code na simple at madaling intindihin.",,KISS
+Cloze,"Ang {{c1::YAGNI}} ay nagsasabong huwag magdagdag ng features na hindi mo pa kailangan ngayon.",,YAGNI
+Cloze,"Ang {{c1::DRY}} principle ay nagsasabong ang bawat kaalaman ay dapat may iisang representasyon sa sistema.",,DRY
+Cloze,"Ang {{c1::KISS}} ay nagsasabong mas mainam ang simpleng solusyon kaysa sa kumplikadong solusyon.",,KISS
+Cloze,"Ang {{c1::YAGNI}} ay nagpo-prototype laban sa speculative features na hindi pa kailangan.",,YAGNI
+Cloze,"Ang {{c1::DRY}} ay nagsasabong ang code repetition ay isang code smell na dapat i-refactor.",,DRY
+Cloze,"Ang {{c1::KISS}} ay naghihikayat na gamitin ang pinakasimpleng data structure na gagana.",,KISS
+Cloze,"Ang {{c1::YAGNI}} ay nagsasabong gumawa lang ng kung ano ang hinihiling ng requirements.",,YAGNI
+Cloze,"Ang {{c1::simplicity}} ay isang core value sa software design na nagpapababa ng complexity.",,simplicity
+Cloze,"Ang {{c1::composition}} ay nagbibigay ng flexibility sa pamamagitan ng pagkakaroon ng mga objects na naglalaman ng ibang objects.",,composition
+Cloze,"Ang {{c1::inheritance}} ay nagbibigay ng code reuse sa pamamagitan ng pag-aambag ng mga properties at methods mula sa parent class.",,inheritance
+Cloze,"Ang {{c1::favor composition over inheritance}} ay isang design principle na nagsasabong mas mainam ang composition.",,favor composition over inheritance
+Cloze,"Ang {{c1::object composition}} ay nagbibigay ng loose coupling kaysa sa tight coupling ng inheritance.",,object composition
+Cloze,"Ang {{c1::inheritance}} ay maaaring magdulot ng fragile base class problem kapag nagbago ang parent.",,inheritance
+Cloze,"Ang {{c1::composition}} ay nagbibigay ng runtime flexibility habang ang inheritance ay compile-time lang.",,composition
+Cloze,"Ang {{c1::inheritance}} ay should be used only para sa isang relationship na 'is-a'.",,inheritance
+Cloze,"Ang {{c1::composition}} ay nagbibigay ng single responsibility sa bawat component.",,composition
+Cloze,"Ang {{c1::composition over inheritance}} ay nagsasabong mag-inject ng behavior kaysa sa mag-inherit.",,composition over inheritance
+Cloze,"Ang {{c1::HAS-A}} relationship ay mas flexible kaysa sa {{c1::IS-A}} relationship.",,HAS-A
+Cloze,"Ang {{c1::abstraction}} ay nagtatago ng complexity sa pamamagitan ng pagpapakita lang ng essential features.",,abstraction
+Cloze,"Ang {{c1::encapsulation}} ay nagpoprotekta sa internal state ng isang object sa pamamagitan ng access modifiers.",,encapsulation
+Cloze,"Ang {{c1::polymorphism}} ay nagbibigay ng ability na gumamit ng iba't ibang uri ng objects sa pamamagitan ng iisang interface.",,polymorphism
+Cloze,"Ang {{c1::abstraction}} ay gumagamit ng abstract classes at interfaces para magbigay ng contract.",,abstraction
+Cloze,"Ang {{c1::encapsulation}} ay nagtatago ng implementation details at nagbibigay ng public API.",,encapsulation
+Cloze,"Ang {{c1::polymorphism}} ay nagbibigay ng method overloading at method overriding.",,polymorphism
+Cloze,"Ang {{c1::information hiding}} ay isang layunin ng encapsulation na nagtatago ng internal data.",,information hiding
+Cloze,"Ang {{c1::abstraction}} ay nagbibigay ng simpleng interface para sa kumplikadong sistema.",,abstraction
+Cloze,"Ang {{c1::polymorphism}} ay nagbibigay ng runtime flexibility sa pamamagitan ng dynamic dispatch.",,polymorphism
+Cloze,"Ang {{c1::encapsulation}} ay nagpoprotekta sa object integrity sa pamamagitan ng control sa access.",,encapsulation
+Cloze,"Ang {{c1::Singleton}} ay isang creational pattern na nagtitiyak ng iisang instance lang ng isang class.",,Singleton
+Cloze,"Ang {{c1::lazy initialization}} ay naghihintay ng unang pagkakataon na kailangan ang instance bago ito gumawa ng bago.",,lazy initialization
+Cloze,"Ang {{c1::eager initialization}} ay gumagawa agad ng instance kahit hindi pa kailangan.",,eager initialization
+Cloze,"Ang {{c1::thread safety}} sa Singleton ay nagsasabing dapat safe ang paggawa ng instance sa maraming threads.",,thread safety
+Cloze,"Ang {{c1::Singleton anti-pattern}} ay maaaring magdulot ng hidden dependencies at mahirap i-test.",,Singleton anti-pattern
+Cloze,"Ang {{c1::Singleton}} ay gumagamit ng private constructor at static method para magbigay ng instance.",,Singleton
+Cloze,"Ang {{c1::double-checked locking}} ay isang technique para sa thread-safe na lazy initialization.",,double-checked locking
+Cloze,"Ang {{c1::Singleton}} ay madalas gamitin sa logging, database connections, at configuration.",,Singleton
+Cloze,"Ang {{c1::Singleton}} ay nagpo-provide ng global access point sa isang shared resource.",,Singleton
+Cloze,"Ang {{c1::Singleton}} ay dapat i-consider bilang last resort dahil sa mga testing difficulties.",,Singleton
+Cloze,"Ang {{c1::Factory Method}} ay isang creational pattern na nagbibigay ng interface para sa paggawa ng objects nang hindi tinutukoy ang exact class.",,Factory Method
+Cloze,"Ang {{c1::factory method}} ay nagpapalit sa direct instantiation (new) ng isang method na nagbabalik ng object.",,factory method
+Cloze,"Ang {{c1::Factory Method}} ay nagbibigay ng flexibility para magdagdag ng bagong uri nang hindi binabago ang client code.",,Factory Method
+Cloze,"Ang {{c1::Factory Method}} ay gumagamit ng inheritance para magbigay ng iba't ibang mga factory implementations.",,Factory Method
+Cloze,"Ang {{c1::concrete creator}} ay ang subclass na nag-i-implement ng factory method para gumawa ng specific product.",,concrete creator
+Cloze,"Ang {{c1::Factory Method}} ay nag-i-isolate ang creation logic mula sa business logic.",,Factory Method
+Cloze,"Ang {{c1::Factory Method}} ay nagbibigay ng loose coupling sa pagitan ng creator at product.",,Factory Method
+Cloze,"Ang {{c1::factory method}} ay nagbabalik ng isang product type na maaaring iba't ibang uri.",,factory method
+Cloze,"Ang {{c1::Factory Method}} ay nagbibigay ng single responsibility sa creation logic.",,Factory Method
+Cloze,"Ang {{c1::Factory Method}} ay madalas gamitin sa frameworks kung saan ang user ay nag-i-implement ng custom logic.",,Factory Method
+Cloze,"Ang {{c1::Abstract Factory}} ay isang creational pattern na nagbibigay ng interface para sa paggawa ng mga families ng related objects.",,Abstract Factory
+Cloze,"Ang {{c1::Abstract Factory}} ay nag-i-isolate ang creation logic mula saspecific na mga uri ng objects.",,Abstract Factory
+Cloze,"Ang {{c1::product family}} ay isang set ng mga related objects na ginawa ng iisang factory.",,product family
+Cloze,"Ang {{c1::Abstract Factory}} ay nagbibigay ng consistency sa mga products na ginagamit sa sistema.",,Abstract Factory
+Cloze,"Ang {{c1::concrete factory}} ay ang implementor na gumagawa ng mga specific na products.",,concrete factory
+Cloze,"Ang {{c1::Abstract Factory}} ay nagbibigay ng loose coupling sa pagitan ng creation at usage.",,Abstract Factory
+Cloze,"Ang {{c1::Abstract Factory}} ay madalas gamitin para sa UI themes, database drivers, at platform-specific na code.",,Abstract Factory
+Cloze,"Ang {{c1::Abstract Factory}} ay nagpapalit ng multiple factory methods sa iisang interface.",,Abstract Factory
+Cloze,"Ang {{c1::Abstract Factory}} ay nagbibigay ng single responsibility para sa creation ng buong product family.",,Abstract Factory
+Cloze,"Ang {{c1::Abstract Factory}} ay nagbibigay ng scalability sa pamamagitan ng pagdagdag ng bagong factories.",,Abstract Factory
+Cloze,"Ang {{c1::Builder}} ay isang creational pattern na nagbibigay ng step-by-step na paraan para bumuo ng kumplikadong objects.",,Builder
+Cloze,"Ang {{c1::fluent interface}} ay isang technique na nagbibigay ng method chaining para mas madaling gamitin ang builder.",,fluent interface
+Cloze,"Ang {{c1::director}} ay ang class na nag-a-arrange ng construction steps para sa builder.",,director
+Cloze,"Ang {{c1::Builder}} ay naghihiwalay ng construction logic mula sa representation.",,Builder
+Cloze,"Ang {{c1::builder}} ay nagbibigay ng fine-grained control sa construction process.",,builder
+Cloze,"Ang {{c1::Builder}} ay madalas gamitin para sa mga objects na may maraming optional parameters.",,Builder
+Cloze,"Ang {{c1::Builder}} ay nagbibigay ng immutable objects sa pamamagitan ng final construction.",,Builder
+Cloze,"Ang {{c1::Builder}} ay nag-i-isolate ang construction logic mula sa business logic.",,Builder
+Cloze,"Ang {{c1::fluent API}} ay nagbibigay ng readable na construction code sa pamamagitan ng method chaining.",,fluent API
+Cloze,"Ang {{c1::Builder}} ay nagbibigay ng step-by-step na construction kaysa sa isang malaking constructor.",,Builder
+Cloze,"Ang {{c1::Prototype}} ay isang creational pattern na nagbibigay ng paraan para gumawa ng bagong objects sa pamamagitan ng cloning.",,Prototype
+Cloze,"Ang {{c1::shallow copy}} ay gumagawa ng bagong object pero ang mga nested objects ay nananatiling reference.",,shallow copy
+Cloze,"Ang {{c1::deep copy}} ay gumagawa ng bagong object kasama ang lahat ng nested objects.",,deep copy
+Cloze,"Ang {{c1::Prototype}} ay nagbibigay ng performance improvement sa pamamagitan ng pag-iwas sa mahal na initialization.",,Prototype
+Cloze,"Ang {{c1::clone method}} ay nagbabalik ng bagong object na kopya ng existing object.",,clone method
+Cloze,"Ang {{c1::Prototype}} ay nagbibigay ng flexibility para mag-modify ng objects nang hindi binabago ang originals.",,Prototype
+Cloze,"Ang {{c1::Prototype}} ay madalas gamitin sa mga systems na may maraming similar na objects.",,Prototype
+Cloze,"Ang {{c1::Prototype registry}} ay isang collection ng mga prototype objects na maaaring i-clone.",,Prototype registry
+Cloze,"Ang {{c1::Prototype}} ay nag-i-isolate ang creation logic mula sa business logic.",,Prototype
+Cloze,"Ang {{c1::Prototype}} ay nagbibigay ng object caching at reuse sa halip na paggawa ng bago.",,Prototype
+Cloze,"Ang {{c1::Object Pool}} ay isang creational pattern na nagbibigay ng paraan para i-reuse ang mga expensive na objects.",,Object Pool
+Cloze,"Ang {{c1::connection pool}} ay isang halimbawa ng Object Pool na nagre-reuse ng mga database connections.",,connection pool
+Cloze,"Ang {{c1::Object Pool}} ay nagbibigay ng performance improvement sa pamamagitan ng pag-iwas sa object creation overhead.",,Object Pool
+Cloze,"Ang {{c1::pool}} ay may mga operations na acquire, release, at idle management.",,pool
+Cloze,"Ang {{c1::Object Pool}} ay nagbibigay ng resource management para sa mga limited resources.",,Object Pool
+Cloze,"Ang {{c1::Object Pool}} ay madalas gamitin sa mga connections, threads, at database connections.",,Object Pool
+Cloze,"Ang {{c1::Object Pool}} ay nagbibigay ng cost savings sa pamamagitan ng object reuse.",,Object Pool
+Cloze,"Ang {{c1::pool size}} ay ang bilang ng mga objects na pinapanatili sa pool para sa reuse.",,pool size
+Cloze,"Ang {{c1::Object Pool}} ay nagbibigay ng controlled access sa shared resources.",,Object Pool
+Cloze,"Ang {{c1::Object Pool}} ay nag-i-isolate ang resource management mula sa business logic.",,Object Pool
+Cloze,"Ang {{c1::Adapter}} ay isang structural pattern na nagko-convert ng isang interface papunta sa isa pang interface.",,Adapter
+Cloze,"Ang {{c1::Adapter}} ay nagbibigay ng compatibility sa pagitan ng incompatible interfaces.",,Adapter
+Cloze,"Ang {{c1::object adapter}} ay gumagamit ng composition para i-wrap ang adaptee object.",,object adapter
+Cloze,"Ang {{c1::class adapter}} ay gumagamit ng multiple inheritance para mag-adapt ng interfaces.",,class adapter
+Cloze,"Ang {{c1::Adapter}} ay nagbibigay ng legacy integration sa pamamagitan ng wrapping.",,Adapter
+Cloze,"Ang {{c1::Adapter}} ay nag-i-isolate ang changes sa third-party code mula sa client code.",,Adapter
+Cloze,"Ang {{c1::Adapter}} ay nagbibigay ng loose coupling sa pagitan ng client at adaptee.",,Adapter
+Cloze,"Ang {{c1::two-way adapter}} ay nagbibigay ng bidirectional na compatibility sa dalawang interfaces.",,two-way adapter
+Cloze,"Ang {{c1::Adapter}} ay nagko-convert ng data formats, APIs, at protocols.",,Adapter
+Cloze,"Ang {{c1::Adapter}} ay madalas gamitin sa integration ng lumang systems sa bagong code.",,Adapter
+Cloze,"Ang {{c1::Bridge}} ay isang structural pattern na naghihiwalay ng abstraction mula sa implementation.",,Bridge
+Cloze,"Ang {{c1::Bridge}} ay nagbibigay ng independence sa pagitan ng abstraction at implementation.",,Bridge
+Cloze,"Ang {{c1::abstraction}} ay ang high-level na control layer na hindi direktang nag-i-implode ng implementation.",,abstraction
+Cloze,"Ang {{c1::implementation}} ay ang low-level na layer na nagbibigay ng operating system-specific na code.",,implementation
+Cloze,"Ang {{c1::Bridge}} ay nagbibigay ng platform independence sa pamamagitan ng hiwalay na pag-iiba.",,Bridge
+Cloze,"Ang {{c1::Bridge}} ay madalas gamitin sa mga platforms na may maraming variations.",,Bridge
+Cloze,"Ang {{c1::Bridge}} ay nagbibigay ng scalability sa pamamagitan ng pagdagdag ng bagong abstractions at implementations.",,Bridge
+Cloze,"Ang {{c1::Bridge}} ay nag-i-isolate ang changes sa implementation mula sa abstraction.",,Bridge
+Cloze,"Ang {{c1::Bridge}} ay nagbibigay ng runtime flexibility sa pamamagitan ng dependency injection.",,Bridge
+Cloze,"Ang {{c1::Bridge}} ay madalas gamitin sa GUI frameworks, database drivers, at device drivers.",,Bridge
+Cloze,"Ang {{c1::Composite}} ay isang structural pattern na nagbibigay ng paraan para tratuhin ang mga individual na objects at compositions ng objects nang pareho.",,Composite
+Cloze,"Ang {{c1::Composite}} ay nagbibigay ng tree structure representation para sa part-whole hierarchy.",,Composite
+Cloze,"Ang {{c1::component}} ay ang base interface para sa lahat ng objects sa composition.",,component
+Cloze,"Ang {{c1::leaf}} ay ang object na walang mga children at nag-i-implement ng component interface.",,leaf
+Cloze,"Ang {{c1::composite}} ay ang object na may mga children at nag-i-implement ng component interface.",,composite
+Cloze,"Ang {{c1::Composite}} ay nagbibigay ng recursive composition para sa kumplikadong tree structures.",,Composite
+Cloze,"Ang {{c1::Composite}} ay nagbibigay ng uniform interface sa pagitan ng leaves at composites.",,Composite
+Cloze,"Ang {{c1::Composite}} ay madalas gamitin sa GUI components, file systems, at organizational structures.",,Composite
+Cloze,"Ang {{c1::Composite}} ay nagbibigay ng simplicity sa pamamagitan ng pag-tratuhin ang complex at simple objects nang pareho.",,Composite
+Cloze,"Ang {{c1::Composite}} ay nagbibigay ng flexibility para magdagdag ng bagong component types.",,Composite
+Cloze,"Ang {{c1::Decorator}} ay isang structural pattern na nagbibigay ng paraan para magdagdag ng bagong responsibilities sa objects nang hindi binabago ang original class.",,Decorator
+Cloze,"Ang {{c1::Decorator}} ay nagbibigay ng flexible alternative sa inheritance para sa pagdagdag ng functionality.",,Decorator
+Cloze,"Ang {{c1::decorator}} ay nagwe-wrap sa isang object at nagdadagdag ng behavior bago o pagkatapos ng delegating.",,decorator
+Cloze,"Ang {{c1::Decorator}} ay nagbibigay ng runtime composition ng behaviors.",,Decorator
+Cloze,"Ang {{c1::Decorator}} ay nagbibigay ng single responsibility sa bawat decorator.",,Decorator
+Cloze,"Ang {{c1::Decorator}} ay madalas gamitin sa streams, logging, at middleware.",,Decorator
+Cloze,"Ang {{c1::Decorator}} ay nagbibigay ng open-closed principle — open for extension pero closed for modification.",,Decorator
+Cloze,"Ang {{c1::stacking decorators}} ay nagbibigay ng pag-combine ng maraming behaviors.",,stacking decorators
+Cloze,"Ang {{c1::Decorator}} ay nag-i-isolate ang mga changes sa bawat layer ng behavior.",,Decorator
+Cloze,"Ang {{c1::Decorator}} ay nagbibigay ng transparency sa paggamit ng original at decorated objects.",,Decorator
+Cloze,"Ang {{c1::Facade}} ay isang structural pattern na nagbibigay ng simplified interface sa kumplikadong subsystem.",,Facade
+Cloze,"Ang {{c1::Facade}} ay nagbabawas ng complexity sa pamamagitan ng pagtatago ng subsystem details.",,Facade
+Cloze,"Ang {{c1::Facade}} ay nagbibigay ng loose coupling sa pagitan ng client at subsystem.",,Facade
+Cloze,"Ang {{c1::Facade}} ay nagbibigay ng abstraction layer sa ibabaw ng maraming classes.",,Facade
+Cloze,"Ang {{c1::Facade}} ay madalas gamitin sa mga libraries, frameworks, at complex na systems.",,Facade
+Cloze,"Ang {{c1::Facade}} ay nagbibigay ng simplified API para sa common na use cases.",,Facade
+Cloze,"Ang {{c1::Facade}} ay nag-i-isolate ang changes sa subsystem mula sa client code.",,Facade
+Cloze,"Ang {{c1::Facade}} ay nagbibigay ng convenience methods para sa frequently na ginagamit na operations.",,Facade
+Cloze,"Ang {{c1::Facade}} ay hindi pinaghihiwalay ang subsystem — pinapadali lang ang paggamit.",,Facade
+Cloze,"Ang {{c1::Facade}} ay madalas gamitin sa service layers, API gateways, at wrapper classes.",,Facade
+Cloze,"Ang {{c1::Flyweight}} ay isang structural pattern na nagbibigay ng pagbabahagi ng common state para sa maraming objects.",,Flyweight
+Cloze,"Ang {{c1::Flyweight}} ay nagbibigay ng memory optimization sa pamamagitan ng pagbabahagi ng intrinsic state.",,Flyweight
+Cloze,"Ang {{c1::intrinsic state}} ay ang state na naka-share sa lahat ng flyweight objects.",,intrinsic state
+Cloze,"Ang {{c1::extrinsic state}} ay ang state na nakadepende sa context at hindi naka-share.",,extrinsic state
+Cloze,"Ang {{c1::Flyweight factory}} ay nagbibigay ng paraan para mag-create at mag-manage ng mga flyweight objects.",,Flyweight factory
+Cloze,"Ang {{c1::Flyweight}} ay madalas gamitin sa text rendering, caching, at connection pooling.",,Flyweight
+Cloze,"Ang {{c1::Flyweight}} ay nagbibigay ng significant memory savings sa malalaking number ng objects.",,Flyweight
+Cloze,"Ang {{c1::Flyweight}} ay nag-i-isolate ang shared state mula sa unique na state.",,Flyweight
+Cloze,"Ang {{c1::Flyweight}} ay nagbibigay ng performance improvement sa pamamagitan ng object reuse.",,Flyweight
+Cloze,"Ang {{c1::Flyweight}} ay nangangailangan ng careful design para maiwasan ang incorrect sharing.",,Flyweight
+Cloze,"Ang {{c1::Proxy}} ay isang structural pattern na nagbibigay ng surrogate o placeholder para sa isa pang object.",,Proxy
+Cloze,"Ang {{c1::Proxy}} ay nagkokontrol ng access sa real object.",,Proxy
+Cloze,"Ang {{c1::virtual proxy}} ay naghihintay ng lazy initialization bago i-create ang real object.",,virtual proxy
+Cloze,"Ang {{c1::protection proxy}} ay nagkokontrol ng access sa pamamagitan ng access rights checking.",,protection proxy
+Cloze,"Ang {{c1::remote proxy}} ay nagbibigay ng local na representation ng remote na object.",,remote proxy
+Cloze,"Ang {{c1::Proxy}} ay nagbibigay ng indirection sa pagitan ng client at real object.",,Proxy
+Cloze,"Ang {{c1::Proxy}} ay madalas gamitin sa caching, logging, at access control.",,Proxy
+Cloze,"Ang {{c1::Proxy}} ay nagbibigay ng transparency sa paggamit ng real at proxy objects.",,Proxy
+Cloze,"Ang {{c1::Proxy}} ay nagbibigay ng flexibility para magdagdag ng behavior nang hindi binabago ang real object.",,Proxy
+Cloze,"Ang {{c1::Proxy}} ay madalas gamitin sa lazy loading, virtual objects, at network connections.",,Proxy
+Cloze,"Ang {{c1::Observer pattern}} ay ang behavioral pattern na nagbibigay ng one-to-many dependency para sa automatic na notifications.",,Observer pattern
+Cloze,"Ang {{c1::subject}} ay ang object na nag-o-observe at nagno-notify ng observers kapag nagbago ang state.",,subject
+Cloze,"Ang {{c1::observer}} ay ang object na nag-subscribe sa subject at nagre-receive ng updates.",,observer
+Cloze,"Ang {{c1::publish-subscribe}} ay ang messaging pattern kung saan ang publishers ay nag-broadcast ng events.",,publish-subscribe
+Cloze,"Ang {{c1::event system}} ay ang infrastructure para sa pag-create, dispatch, at handling ng events.",,event system
+Cloze,"Ang {{c1::loose coupling}} sa Observer ay ang subject na hindi alam ang concrete type ng observers.",,loose coupling
+Cloze,"Ang {{c1::observer list}} ay ang collection ng registered observers na nagre-receive ng notifications.",,observer list
+Cloze,"Ang {{c1::Strategy pattern}} ay ang behavioral pattern na nagpapalit ng algorithm sa runtime.",,Strategy pattern
+Cloze,"Ang {{c1::strategy interface}} ay ang common interface para sa lahat ng algorithms.",,strategy interface
+Cloze,"Ang {{c1::concrete strategy}} ay ang specific na implementation ng algorithm.",,concrete strategy
+Cloze,"Ang {{c1::context}} ay ang object na may reference sa strategy at nagde-delegate ng execution.",,context
+Cloze,"Ang {{c1::runtime behavior selection}} ay ang pagpili ng algorithm habang tumatakbo ang application.",,runtime behavior selection
+Cloze,"Ang {{c1::Command pattern}} ay ang behavioral pattern na nag-e-encapsulate ng request bilang object.",,Command pattern
+Cloze,"Ang {{c1::command interface}} ay nagde-define ng execute() method para sa bawat command.",,command interface
+Cloze,"Ang {{c1::receiver}} ay ang object na nag-e-execute ng actual na work.",,receiver
+Cloze,"Ang {{c1::invoker}} ay ang object na nagso-store at nag-e-execute ng commands.",,invoker
+Cloze,"Ang {{c1::undo/redo}} ay ang feature na ginagamit ang command history para mag-undo o mag-redo.",,undo/redo
+Cloze,"Ang {{c1::Template Method}} ay ang behavioral pattern na nagde-define ng algorithm skeleton sa base class.",,Template Method
+Cloze,"Ang {{c1::hook method}} ay ang optional na method na pwedeng i-override ng subclass.",,hook method
+Cloze,"Ang {{c1::abstract class}} sa Template Method ay naglalaman ng fixed na algorithm at mga hooks.",,abstract class
+Cloze,"Ang {{c1::inversion of control}} sa Template Method ay ang base class ang nagko-control ng flow.",,inversion of control
+Cloze,"Ang {{c1::Iterator pattern}} ay ang behavioral pattern na nagbibigay ng way para i-traverse ang collection.",,Iterator pattern
+Cloze,"Ang {{c1::iterator interface}} ay nagde-define ng hasNext() at next() methods.",,iterator interface
+Cloze,"Ang {{c1::external iteration}} ay ang client ang nagko-control ng traversal.",,external iteration
+Cloze,"Ang {{c1::internal iteration}} ay ang collection ang nagko-control ng traversal (forEach).",,internal iteration
+Cloze,"Ang {{c1::State pattern}} ay ang behavioral pattern na nagpapalit ng behavior kapag nagbago ang internal state.",,State pattern
+Cloze,"Ang {{c1::state interface}} ay nagde-define ng actions na pwedeng gawin sa bawat state.",,state interface
+Cloze,"Ang {{c1::context}} ay ang object na nagho-hold ng current state at nagde-delegate ng behavior.",,context
+Cloze,"Ang {{c1::state transition}} ay ang paglipat mula sa isang state papunta sa isa pa.",,state transition
+Cloze,"Ang {{c1::state machine}} ay ang model ng transitions sa pagitan ng states.",,state machine
+Cloze,"Ang {{c1::Chain of Responsibility}} ay ang behavioral pattern na nagpapasa ng request sa hanay ng handlers.",,Chain of Responsibility
+Cloze,"Ang {{c1::handler}} ay ang object na nagde-decide kung i-process o i-pass ang request.",,handler
+Cloze,"Ang {{c1::handler chain}} ay ang sequence ng handlers na sinusubukan ng request.",,handler chain
+Cloze,"Ang {{c1::middleware pipeline}} ay ang application ng Chain of Responsibility sa web frameworks.",,middleware pipeline
+Cloze,"Ang {{c1::Mediator pattern}} ay ang behavioral pattern na nag-centralize ng communications sa pagitan ng objects.",,Mediator pattern
+Cloze,"Ang {{c1::mediator}} ay ang central hub na nagko-coordinate ng interactions sa pagitan ng colleagues.",,mediator
+Cloze,"Ang {{c1::colleague}} ay ang object na nakikipag-ugnayan lang sa mediator, hindi sa isa't isa.",,colleague
+Cloze,"Ang {{c1::loose coupling}} sa Mediator ay ang mga colleague na hindi nagde-depend sa isa't isa.",,loose coupling
+Cloze,"Ang {{c1::Visitor pattern}} ay ang behavioral pattern na nagbibigay ng paraan para mag-add ng operations sa object structures.",,Visitor pattern
+Cloze,"Ang {{c1::visitor interface}} ay nagde-define ng visit methods para sa bawat element type.",,visitor interface
+Cloze,"Ang {{c1::element}} ay ang object na nag-a-accept ng visitor.",,element
+Cloze,"Ang {{c1::double dispatch}} ay ang technique ng pag-call ng method base sa dalawang objects: visitor at element.",,double dispatch
+Cloze,"Ang {{c1::accept method}} sa element ay nag-i-invoke ng visitor's visit method.",,accept method
+Cloze,"Ang {{c1::MVC}} o Model-View-Controller ay ang architectural pattern na naghihiwalay ng data, UI, at logic.",,MVC
+Cloze,"Ang {{c1::model}} sa MVC ay ang data at business logic layer.",,model
+Cloze,"Ang {{c1::view}} sa MVC ay ang UI layer na nagre-render ng data.",,view
+Cloze,"Ang {{c1::controller}} sa MVC ay ang layer na nagha-handle ng user input at nagde-delegate sa model.",,controller
+Cloze,"Ang {{c1::separation of concerns}} sa MVC ay ang paghihiwalay ng responsibilities sa bawat layer.",,separation of concerns
+Cloze,"Ang {{c1::MVP}} o Model-View-Presenter ay ang architectural pattern na nagpo-position ng presenter bilang middleman.",,MVP
+Cloze,"Ang {{c1::presenter}} sa MVP ay nagpo-process ng business logic at nagpo-prepare ng data para sa view.",,presenter
+Cloze,"Ang {{c1::passive view}} sa MVP ay ang view na walang logic — lahat ay nasa presenter.",,passive view
+Cloze,"Ang {{c1::supervising controller}} ay ang MVP variant kung saan may logic pa rin ang view.",,supervising controller
+Cloze,"Ang {{c1::MVVM}} o Model-View-ViewModel ay ang architectural pattern na may data binding sa pagitan ng view at ViewModel.",,MVVM
+Cloze,"Ang {{c1::ViewModel}} ay ang object na nagpo-prepare ng data para sa view at nagha-handle ng commands.",,ViewModel
+Cloze,"Ang {{c1::data binding}} ay ang automatic na pag-sync ng view at ViewModel data.",,data binding
+Cloze,"Ang {{c1::two-way data binding}} ay ang sync mula sa view papunta sa ViewModel at vice versa.",,two-way data binding
+Cloze,"Ang {{c1::reactive programming}} sa MVVM ay ang pag-observe ng data changes para sa automatic na updates.",,reactive programming
+Cloze,"Ang {{c1::Clean Architecture}} ay ang architectural pattern na naglalagay ng business logic sa gitna.",,Clean Architecture
+Cloze,"Ang {{c1::dependency rule}} sa Clean Architecture ay nagsasabing dependencies ay dapat pumasok lang sa loob.",,dependency rule
+Cloze,"Ang {{c1::entities}} ay ang business objects na nasa pinaka-loob na layer.",,entities
+Cloze,"Ang {{c1::use cases}} ay ang application-specific na business rules.",,use cases
+Cloze,"Ang {{c1::interface adapters}} ay ang layer na nagco-convert ng data sa tamang format.",,interface adapters
+Cloze,"Ang {{c1::frameworks & drivers}} ay ang outermost layer: UI, database, external services.",,frameworks & drivers
+Cloze,"Ang {{c1::Hexagonal Architecture}} o Ports and Adapters ay ang pattern na naghihiwalay ng core logic mula sa external world.",,Hexagonal Architecture
+Cloze,"Ang {{c1::ports}} ay ang interfaces na nagde-define ng core logic's needs.",,ports
+Cloze,"Ang {{c1::adapters}} ay ang implementations na nagko-connect sa external world.",,adapters
+Cloze,"Ang {{c1::primary adapter}} ay ang entry point: web controller, CLI, test harness.",,primary adapter
+Cloze,"Ang {{c1::secondary adapter}} ay ang outgoing: database, email, external API.",,secondary adapter
+Cloze,"Ang {{c1::thread pool}} ay ang concurrency pattern na nagre-reuse ng pre-created threads para mag-handle ng tasks.",,thread pool
+Cloze,"Ang {{c1::worker thread}} ay ang thread sa pool na nagko-consume ng tasks mula sa queue.",,worker thread
+Cloze,"Ang {{c1::task queue}} ay ang queue na nagse-store ng tasks habang naghihintay ng available thread.",,task queue
+Cloze,"Ang {{c1::pool size}} ay ang bilang ng threads sa pool — dapat naka-optimize sa workload.",,pool size
+Cloze,"Ang {{c1::thread reuse}} ang benefit ng thread pool — hindi nagcre-create ng bagong thread sa bawat task.",,thread reuse
+Cloze,"Ang {{c1::Producer-Consumer}} ay ang concurrency pattern kung saan ang producers ay naglikha ng data at consumers ang nagpo-process.",,Producer-Consumer
+Cloze,"Ang {{c1::bounded buffer}} ay ang buffer na may limit sa laki — nagba-block ang producers kapag puno.",,bounded buffer
+Cloze,"Ang {{c1::blocking queue}} ay ang queue na nagba-block kapag walang items o walang space.",,blocking queue
+Cloze,"Ang {{c1::producer}} ay ang thread na naglilikha ng data at naglalagay sa buffer.",,producer
+Cloze,"Ang {{c1::consumer}} ay ang thread na nagko-consume ng data mula sa buffer.",,consumer
+Cloze,"Ang {{c1::Read-Write Lock}} ay ang synchronization mechanism na nagbibigay ng concurrent reads pero exclusive writes.",,Read-Write Lock
+Cloze,"Ang {{c1::read lock}} ay ang lock na pwedeng i-share ng maraming readers.",,read lock
+Cloze,"Ang {{c1::write lock}} ay ang lock na exclusive — walang ibang reader o writer.",,write lock
+Cloze,"Ang {{c1::reader-writer problem}} ay ang challenge ng pag-balance sa concurrent reads at exclusive writes.",,reader-writer problem
+Cloze,"Ang {{c1::Monitor}} ay ang synchronization construct na nagbibigay ng mutual exclusion at condition variables.",,Monitor
+Cloze,"Ang {{c1::mutex}} sa Monitor ay ang lock na nag-i-sure na isang thread lang ang nasa critical section.",,mutex
+Cloze,"Ang {{c1::condition variable}} ay ang mechanism para maghintay ng specific na condition.",,condition variable
+Cloze,"Ang {{c1::critical section}} ay ang code na dapat i-execute ng isang thread lang sa isang oras.",,critical section
+Cloze,"Ang {{c1::Repository pattern}} ay ang enterprise pattern na nag-a-abstract ng data access layer.",,Repository pattern
+Cloze,"Ang {{c1::repository interface}} ay nagde-define ng CRUD operations na independent sa database implementation.",,repository interface
+Cloze,"Ang {{c1::concrete repository}} ay ang implementation na nagko-connect sa specific na database.",,concrete repository
+Cloze,"Ang {{c1::separation of concerns}} sa Repository ay ang paghihiwalay ng data access mula sa business logic.",,separation of concerns
+Cloze,"Ang {{c1::testability}} sa Repository — madaling i-mock para sa unit testing.",,testability
+Cloze,"Ang {{c1::Unit of Work}} ay ang enterprise pattern na nagte-track ng changes at nagco-commit ng lahat sa iisang transaction.",,Unit of Work
+Cloze,"Ang {{c1::change tracking}} ay ang pag-record ng lahat ng inserts, updates, at deletes bago mag-commit.",,change tracking
+Cloze,"Ang {{c1::transaction}} sa Unit of Work ay isang atomic na operation — lahat o walang gagawin.",,transaction
+Cloze,"Ang {{c1::dirty checking}} ay ang technique ng pag-compare ng current state sa original state.",,dirty checking
+Cloze,"Ang {{c1::Specification pattern}} ay ang enterprise pattern na nag-e-encapsulate ng business rules.",,Specification pattern
+Cloze,"Ang {{c1::specification}} ay ang named na business rule na pwedeng i-compose sa iba.",,specification
+Cloze,"Ang {{c1::composite specification}} ay ang pag-combine ng specifications gamit ang AND, OR, NOT.",,composite specification
+Cloze,"Ang {{c1::query building}} sa Specification — ang specs ay nagco-convert sa queries.",,query building
+Cloze,"Ang {{c1::validation}} sa Specification — ang specs ay nagva-validate ng objects.",,validation
+Cloze,"Ang {{c1::Identity Map}} ay ang enterprise pattern na nag-i-insure na ang bawat object ay may iisang instance sa memory.",,Identity Map
+Cloze,"Ang {{c1::identity map cache}} ay ang storage na nagse-store ng loaded objects by ID.",,identity map cache
+Cloze,"Ang {{c1::duplicate prevention}} ay ang benefit ng Identity Map — walang duplicate instances.",,duplicate prevention
+Cloze,"Ang {{c1::unit of work integration}} — ang Identity Map ay nagte-track ng loaded objects para sa change tracking.",,unit of work integration
+Cloze,"Ang {{c1::DTO}} o Data Transfer Object ay ang pattern na nagdadala ng data sa pagitan ng layers nang walang behavior.",,DTO
+Cloze,"Ang {{c1::DTO}} ay plain data object — walang business logic, lang getters at setters.",,DTO
+Cloze,"Ang {{c1::serialization}} sa DTO ay ang pag-convert ng object sa wire format (JSON, XML).",,serialization
+Cloze,"Ang {{c1::boundary}} sa DTO — nagde-define ng kung ano ang lalabas at papasok sa layer.",,boundary
+Cloze,"Ang {{c1::God Object}} ay ang anti-pattern kung saan ang isang class ay may sobrang responsibilities.",,God Object
+Cloze,"Ang {{c1::single responsibility violation}} sa God Object — ang class ay may maraming dahilan para magbago.",,single responsibility violation
+Cloze,"Ang {{c1::refactoring}} mula sa God Object — hatiin ang class sa mas maliliit na classes na may iisang responsibility.",,refactoring
+Cloze,"Ang {{c1::code smell}} — signs na ang class ay maaaring God Object: malaki, maraming methods, maraming imports.",,code smell
+Cloze,"Ang {{c1::Spaghetti Code}} ay ang anti-pattern na may tangled, unstructured na code.",,Spaghetti Code
+Cloze,"Ang {{c1::tangled dependencies}} sa Spaghetti Code — ang code ay walang malinaw na structure o layers.",,tangled dependencies
+Cloze,"Ang {{c1::extract layer}} refactoring — i-separate ang concerns sa malinaw na layers: UI, business, data.",,extract layer
+Cloze,"Ang {{c1::dependency injection}} ay technique para mabawasan ang tight coupling sa Spaghetti Code.",,dependency injection
+Cloze,"Ang {{c1::Golden Hammer}} ay ang anti-pattern na laging gumagamit ng pamilyar na tool para sa lahat ng problema.",,Golden Hammer
+Cloze,"Ang {{c1::hammer syndrome}} — kapag ang tanging alam mo ay martilyo, lahat ay parang kuko.",,hammer syndrome
+Cloze,"Ang {{c1::recognition}} — malaman kung kailan hindi angkop ang familiar na tool.",,recognition
+Cloze,"Ang {{c1::tool evaluation}} — suriin ang mga alternatives bago pumili ng approach.",,tool evaluation
+Cloze,"Ang {{c1::pattern selection}} ay ang proseso ng pagpili ng tamang design pattern para sa specific na problema.",,pattern selection
+Cloze,"Ang {{c1::problem analysis}} — i-identify muna ang problema bago pumili ng pattern.",,problem analysis
+Cloze,"Ang {{c1::trade-off analysis}} — i-evaluate ang pros at cons ng bawat pattern sa context.",,trade-off analysis
+Cloze,"Ang {{c1::anti-pattern}} ay ang pattern na dapat iwasan — mas makakasama pa kaysa makakatulong.",,anti-pattern
+Cloze,"Ang {{c1::pattern combination}} ay ang paggamit ng maraming patterns na magkasama para sa mas malaking solusyon.",,pattern combination
+Cloze,"Ang {{c1::pattern synergy}} — ang ilang patterns ay mas maganda kapag pinagsama: Factory + Strategy.",,pattern synergy
+Cloze,"Ang {{c1::pattern conflict}} — ang ilang patterns ay hindi magkasundo: Observer + Mediator redundancy.",,pattern conflict
+Cloze,"Ang {{c1::composite pattern}} ay ang paggamit ng maraming patterns para sa isang feature.",,composite pattern
+Cloze,"Ang {{c1::pattern overhead}} ay ang performance cost ng paggamit ng design pattern.",,pattern overhead
+Cloze,"Ang {{c1::premature optimization}} ay ang pag-optimize bago pa magkaroon ng performance problem.",,premature optimization
+Cloze,"Ang {{c1::profiling}} ay ang proseso ng pag-measure ng actual performance bago mag-optimize.",,profiling
+Cloze,"Ang {{c1::abstraction cost}} — ang bawat layer ng abstraction ay may konting overhead.",,abstraction cost
+Cloze,"Ang {{c1::real-world applications}} ay ang pag-apply ng design patterns sa production codebases.",,real-world applications
+Cloze,"Ang {{c1::Laravel patterns}} — Laravel ay gumagamit ng maraming patterns: Repository, Factory, Observer.",,Laravel patterns
+Cloze,"Ang {{c1::React patterns}} — React ay gumagamit ng: Container/Presentational, Hooks, Compound Components.",,React patterns
+Cloze,"Ang {{c1::production code}} — ang patterns ay dapatpractical sa halip na theoretical.",,production code
+Cloze,"Ang {{c1::code review}} — tingnan ang patterns sa existing code para matuto at mag-improve.",,code review
