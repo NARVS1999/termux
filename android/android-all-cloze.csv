@@ -1,0 +1,395 @@
+Cloze,"Sa Kotlin, ang {{c1::val}} ay ginagamit para sa immutable na variable na hindi na mababago pagkatapos i-assign.",,val
+Cloze,"Sa Kotlin, ang {{c1::var}} ay ginagamit para sa mutable na variable na pwedeng baguhin ang value.",,var
+Cloze,"Ang {{c1::String}} ay isang data type sa Kotlin na nagre-represent ng text o characters.",,String
+Cloze,"Ang {{c1::Int}} ay data type para sa whole numbers, habang ang {{c1::Double}} ay para sa decimal numbers.",,Int
+Cloze,"Ang {{c1::Boolean}} ay data type na may dalawang possible na value: true o false.",,Boolean
+Cloze,"Sa Kotlin, ang {{c1::if}} expression ay ginagamit para sa conditional logic na pwedeng mag-return ng value.",,if
+Cloze,"Ang {{c1::when}} expression ay ginagamit bilang replacement para sa switch-case statement sa ibang languages.",,when
+Cloze,"Sa Kotlin, ang {{c1::nullable}} types ay mina-mark ng question mark (?) para pwedeng mag-hold ng null value.",,nullable
+Cloze,"Ang {{c1::safe call}} operator (?.) ay ginagamit para mag-access ng properties nang hindi nag-c-crash kapag null.",,safe call
+Cloze,"Ang {{c1::elvis}} operator (?:) ay nagbibigay ng default value kapag ang expression ay null.",,elvis
+Cloze,"Sa Kotlin, ang {{c1::class}} ay blueprint para sa paggawa ng objects na may properties at methods.",,class
+Cloze,"Ang {{c1::data class}} ay special class na automatic na nag-generate ng equals, hashCode, at toString.",,data class
+Cloze,"Sa Kotlin, ang {{c1::inheritance}} ay ginagamit gamit ang colon (:) at kailangan ng open modifier sa parent class.",,inheritance
+Cloze,"Ang {{c1::interface}} ay blueprint ng methods na pwedeng i-implement ng ibang classes.",,interface
+Cloze,"Ang {{c1::sealed class}} ay limitado na pwedeng mag-inherit lang mula sa loob ng same file.",,sealed class
+Cloze,"Sa Kotlin, ang {{c1::override}} keyword ay ginagamit para i-override ang methods mula sa parent class o interface.",,override
+Cloze,"Ang {{c1::abstract}} class ay class na hindi pwedeng i-instantiate directly kailangan mag-subclass muna.",,abstract
+Cloze,"Sa Kotlin, ang {{c1::companion object}} ay singleton inside class na pwedeng i-access gamit ang class name.",,companion object
+Cloze,"Ang {{c1::object}} declaration ay ginagamit para gumawa ng single instance lang sa buong app.",,object
+Cloze,"Ang {{c1::higher-order function}} ay function na tumatanggap ng ibang function as parameter o nagbabalik ng function.",,higher-order function
+Cloze,"Sa Kotlin, ang {{c1::lambda}} ay anonymous function na pwedeng i-store sa variable at i-pass sa functions.",,lambda
+Cloze,"Ang {{c1::scope functions}} (let, run, with, apply, also) ay ginagamit para i-execute block ng code sa context ng object.",,scope functions
+Cloze,"Ang {{c1::let}} scope function ay ginagamit para mag-transform o mag-filter ng nullable values.",,let
+Cloze,"Ang {{c1::apply}} scope function ay ginagamit para i-configure ang object nang hindi na kailangan pang i-return ito.",,apply
+Cloze,"Ang {{c1::extension function}} ay function na nag-a-add ng behavior sa existing class nang hindi nag-i-inherit.",,extension function
+Cloze,"Sa Kotlin, ang {{c1::inline}} function ay ginagamit para i-optimize ang lambda allocations sa compile time.",,inline
+Cloze,"Ang {{c1::it}} keyword ay implicit reference sa lambda parameter kapag isa lang ang parameter.",,it
+Cloze,"Sa Kotlin, ang {{c1::function type}} ay syntax para mag-specify ng function signature as parameter type.",,function type
+Cloze,"Ang {{c1::List}} ay immutable collection sa Kotlin na hindi pwedeng baguhin pagkatapos ng creation.",,List
+Cloze,"Ang {{c1::MutableList}} ay mutable version ng List na pwedeng i-add, i-remove, at i-update ng elements.",,MutableList
+Cloze,"Ang {{c1::Map}} ay collection na nag-i-store ng key-value pairs na immutable by default.",,Map
+Cloze,"Ang {{c1::Set}} ay collection na hindi nag-i-duplicate ng values at naka-arrange by order.",,Set
+Cloze,"Sa Kotlin, ang {{c1::filter}} function ay ginagamit para mag-select ng elements na mag-meet sa condition.",,filter
+Cloze,"Ang {{c1::map}} function ay ginagamit para i-transform ang bawat element sa collection.",,map
+Cloze,"Ang {{c1::sortedBy}} function ay nag-a-sort ng elements based sa specified na property o comparator.",,sortedBy
+Cloze,"Sa Kotlin, ang {{c1::reduce}} function ay nag-c-collapse ng collection sa isang value gamit ang accumulator.",,reduce
+Cloze,"Ang {{c1::groupBy}} function ay nag-i-group ng elements base sa key na i-specify.",,groupBy
+Cloze,"Sa Kotlin, ang {{c1::destructuring}} ay ginagamit para i-extract ang multiple values mula sa collection o object.",,destructuring
+Cloze,"Ang {{c1::coroutine}} ay lightweight thread na ginagamit para mag-run ng asynchronous code sa Kotlin.",,coroutine
+Cloze,"Sa Kotlin, ang {{c1::suspend}} function ay function na pwedeng i-pause at i-resume habang naghihintay ng result.",,suspend
+Cloze,"Ang {{c1::launch}} coroutine builder ay nag-start ng bagong coroutine na hindi naghihintay sa completion.",,launch
+Cloze,"Ang {{c1::async}} coroutine builder ay nag-start ng coroutine na nagbabalik ng Deferred result.",,async
+Cloze,"Ang {{c1::CoroutineScope}} ay nag-determine kung kailan mamamatay ang mga coroutines na naka-bind dito.",,CoroutineScope
+Cloze,"Sa Kotlin, ang {{c1::GlobalScope}} ay scope na nananatili buhay hangga't hindi explicitly tinatapos.",,GlobalScope
+Cloze,"Ang {{c1::Dispatchers.Main}} ay ginagamit para mag-run ng coroutines sa main thread para sa UI operations.",,Dispatchers.Main
+Cloze,"Ang {{c1::Dispatchers.IO}} ay optimized para sa network calls, disk I/O, at iba pang blocking operations.",,Dispatchers.IO
+Cloze,"Ang {{c1::withContext}} function ay ginagamit para mag-switch ng dispatcher sa loob ng coroutine.",,withContext
+Cloze,"Ang {{c1::Gradle}} ay build system na ginagamit sa Android para mag-manage ng dependencies at build process.",,Gradle
+Cloze,"Ang {{c1::AndroidManifest.xml}} ay file na nag-d declare ng components, permissions, at app configuration.",,AndroidManifest.xml
+Cloze,"Ang {{c1::minSdkVersion}} ay minimum na Android version na kailangan para ma-run ang app.",,minSdkVersion
+Cloze,"Ang {{c1::targetSdkVersion}} ay Android version na optimized ang app for compliance at features.",,targetSdkVersion
+Cloze,"Ang {{c1::compileSdkVersion}} ay Android version na ginagamit para i-compile ang app code.",,compileSdkVersion
+Cloze,"Sa Android, ang {{c1::build.gradle}} ay configuration file na nag-c-define ng app settings at dependencies.",,build.gradle
+Cloze,"Ang {{c1::build variants}} ay combination ng build types at product flavors na nag-produce ng different APK versions.",,build variants
+Cloze,"Ang {{c1::dependency injection}} sa Gradle ay ginagamit para mag-add ng libraries gamit ang implementation keyword.",,dependency injection
+Cloze,"Ang {{c1::ProGuard}} ay code obfuscation tool na ginagamit para i-protect at i-compress ang app output.",,ProGuard
+Cloze,"Ang {{c1::Activity}} ay component na nagre-represent ng single screen sa Android app.",,Activity
+Cloze,"Ang {{c1::onCreate}} method ay tinatawag pagkatapos i-create ng system ang Activity.",,onCreate
+Cloze,"Ang {{c1::onResume}} method ay tinatawag kapag ang Activity ay nasa foreground at pwedeng mag-interact.",,onResume
+Cloze,"Ang {{c1::onPause}} method ay tinatawag kapag ang Activity ay partly visible pero hindi na interactive.",,onPause
+Cloze,"Ang {{c1::onDestroy}} method ay tinatawag bago i-destroy ng system ang Activity.",,onDestroy
+Cloze,"Ang {{c1::configuration changes}} ay mga pagbabago sa device orientation o locale na nag-ca-c-calls ng lifecycle.",,configuration changes
+Cloze,"Sa Android, ang {{c1::saved instance state}} ay mechanism para i-preserve ang UI state sa configuration changes.",,saved instance state
+Cloze,"Ang {{c1::ViewModel}} ay ginagamit para mag-store ng UI-related data na nag-sa-survive sa configuration changes.",,ViewModel
+Cloze,"Ang {{c1::onSaveInstanceState}} method ay tinatawag para i-save ang transient UI state bago mag-destroy.",,onSaveInstanceState
+Cloze,"Ang {{c1::explicit intent}} ay intent na nag-ta-target ng specific na component sa loob ng app.",,explicit intent
+Cloze,"Ang {{c1::implicit intent}} ay intent na nag-a-request ng action mula sa system na walang specific target.",,implicit intent
+Cloze,"Ang {{c1::intent filters}} ay declaration sa manifest na nag-s-specify ng actions na pwedeng tanggapin ng component.",,intent filters
+Cloze,"Ang {{c1::deep link}} ay URI na nag-na-navigate sa specific screen sa app mula sa external source.",,deep link
+Cloze,"Sa Android, ang {{c1::PendingIntent}} ay wrapper na nagbibigay ng permission sa ibang app para mag-execute ng action.",,PendingIntent
+Cloze,"Ang {{c1::Bundle}} ay container na nag-i-store ng data na ipi-pass sa pagitan ng components via intents.",,Bundle
+Cloze,"Ang {{c1::setData}} method ay ginagamit para mag-set ng URI data sa implicit intent.",,setData
+Cloze,"Ang {{c1::action}} sa intent ay string na nag-s-specify ng generic na operation na gagawin.",,action
+Cloze,"Ang {{c1::Fragment}} ay reusable UI component na naka-live sa loob ng Activity.",,Fragment
+Cloze,"Ang {{c1::fragment lifecycle}} ay series ng callbacks na sinasama ang onAttach, onCreate, onCreateView, at onDestroyView.",,fragment lifecycle
+Cloze,"Ang {{c1::back stack}} ay stack na nag-ta-track ng fragments para sa reverse navigation gamit ang back button.",,back stack
+Cloze,"Ang {{c1::NavController}} ay component ng Navigation Component na nag-na-navigate sa pagitan ng destinations.",,NavController
+Cloze,"Sa Android, ang {{c1::NavHostFragment}} ay container na nag-h-host ng destinations at nag-m-manage ng navigation.",,NavHostFragment
+Cloze,"Ang {{c1::navigation graph}} ay resource file na nag-d defines ng destinations at transitions sa pagitan nila.",,navigation graph
+Cloze,"Ang {{c1::FragmentTransaction}} ay set ng commands para mag-add, remove, o replace fragments.",,FragmentTransaction
+Cloze,"Ang {{c1::commit}} method ay nag-a-apply ng fragment transaction sa system.",,commit
+Cloze,"Ang {{c1::RecyclerView}} ay efficient ViewGroup na nag-d display ng scrollable list of items.",,RecyclerView
+Cloze,"Ang {{c1::adapter}} ay component na nag-b-bridge sa data at RecyclerView para mag-render ng items.",,adapter
+Cloze,"Ang {{c1::ViewHolder}} ay object na nag-h-holds ng views para sa bawat item sa list para sa recycling.",,ViewHolder
+Cloze,"Sa Android, ang {{c1::DiffUtil}} ay algorithm na nag-c-compute ng minimal changes sa list para efficient updates.",,DiffUtil
+Cloze,"Ang {{c1::LayoutManager}} ay nag-d determine kung paano i-arrange ang items: linear, grid, o staggered.",,LayoutManager
+Cloze,"Ang {{c1::ListAdapter}} ay RecyclerView.Adapter na may built-in DiffUtil support para sa efficient list updates.",,ListAdapter
+Cloze,"Ang {{c1::onBindViewHolder}} method ay tinatawag para mag-populate ng data sa views ng ViewHolder.",,onBindViewHolder
+Cloze,"Ang {{c1::item decoration}} ay RecyclerView.ItemDecoration na nag-a-add ng dividers o spacing sa items.",,item decoration
+Cloze,"Ang {{c1::strings.xml}} ay resource file na nag-i-store ng text values para sa localization at easy editing.",,strings.xml
+Cloze,"Ang {{c1::drawables}} ay resource directory na nag-h-holds ng images, icons, at XML-based graphics.",,drawables
+Cloze,"Sa Android, ang {{c1::themes}} ay style na nag-a-apply ng colors, typography, at spacing sa buong app.",,themes
+Cloze,"Ang {{c1::localization}} ay process ng pag-a-adapt ng app para sa iba't ibang languages at regions.",,localization
+Cloze,"Ang {{c1::resources qualifier}} ay naming convention na nag-s-specify ng device conditions para sa resources.",,resources qualifier
+Cloze,"Ang {{c1::Material Theme}} ay pre-built theme system ng Material Design na may color scheme at typography.",,Material Theme
+Cloze,"Sa Android, ang {{c1::dimens.xml}} ay resource file na nag-i-store ng dimension values para sa spacing at sizing.",,dimens.xml
+Cloze,"Ang {{c1::configuration qualifier}} ay folder naming na nag-a-adapt ng resources based sa locale, orientation, at density.",,configuration qualifier
+Cloze,"Ang {{c1::@Composable}} annotation ay nag-m-mark ng function na nagde-define ng UI sa Jetpack Compose.",,@Composable
+Cloze,"Ang {{c1::Column}} ay composable na nag-a-arrange ng children vertically.",,Column
+Cloze,"Ang {{c1::Row}} ay composable na nag-a-arrange ng children horizontally.",,Row
+Cloze,"Ang {{c1::Box}} ay composable na nag-o-overlap ng children sa loob ng same container.",,Box
+Cloze,"Sa Compose, ang {{c1::Modifier}} ay chainable object na nag-a-add ng behavior at styling sa composables.",,Modifier
+Cloze,"Ang {{c1::padding}} modifier ay nag-a-add ng space sa labas ng composable.",,padding
+Cloze,"Ang {{c1::fillMaxWidth}} modifier ay nag-s-sets ng width ng composable para mag-fill ng available space.",,fillMaxWidth
+Cloze,"Ang {{c1::clickable}} modifier ay nag-e-enable ng click handling sa composable.",,clickable
+Cloze,"Ang {{c1::Text}} composable ay nag-r-render ng text sa screen.",,Text
+Cloze,"Ang {{c1::Image}} composable ay nag-d-display ng image gamit ang painter parameter.",,Image
+Cloze,"Ang {{c1::remember}} composable function ay nag-s-stores ng value na nag-s-survive sa recomposition.",,remember
+Cloze,"Ang {{c1::mutableStateOf}} ay factory function na nag-c-creates ng observable state object sa Compose.",,mutableStateOf
+Cloze,"Ang {{c1::state hoisting}} ay pattern na nag-m-move ng state pataas at data pababa sa composable tree.",,state hoisting
+Cloze,"Sa Compose, ang {{c1::recomposition}} ay process ng pag-re-render ng composables kapag nag-bago ang state.",,recomposition
+Cloze,"Ang {{c1::by remember}} delegation ay ginagamit para mag-initialize at mag-preserve ng state sa composable.",,by remember
+Cloze,"Ang {{c1::derivedStateOf}} ay nag-c-creates ng computed state na nag-b-bago lang kapag nag-bago ang inputs.",,derivedStateOf
+Cloze,"Sa Compose, ang {{c1::collectAsState}} ay nag-c-convert ng Flow to State na nag-u-update sa recomposition.",,collectAsState
+Cloze,"Ang {{c1::viewModel()}} composable ay nag-a-access ng ViewModel na nag-s-survive sa configuration changes.",,viewModel
+Cloze,"Ang {{c1::snapshotFlow}} ay nag-c-creates ng Flow na nag-e-emits ng Compose state changes.",,snapshotFlow
+Cloze,"Ang {{c1::ConstraintLayout}} ay layout system na nag-a-arrange ng views gamit ang constraints sa iba pang views.",,ConstraintLayout
+Cloze,"Ang {{c1::LinearLayout}} ay layout na nag-a-arrange ng children either vertically o horizontally.",,LinearLayout
+Cloze,"Sa Android, ang {{c1::view binding}} ay type-safe na way para mag-access ng views nang hindi nag-c-calling ng findViewById.",,view binding
+Cloze,"Ang {{c1::FrameLayout}} ay layout na nag-o-overlap ng children sa same position, useful para sa fragments.",,FrameLayout
+Cloze,"Ang {{c1::layout_weight}} property ay nag-d-distribute ng extra space sa LinearLayout children.",,layout_weight
+Cloze,"Ang {{c1::constraintStart_toStartOf}} ay constraint type na nag-a-align ng view sa start ng parent.",,constraintStart_toStartOf
+Cloze,"Sa XML, ang {{c1::wrap_content}} ay layout parameter na nag-s-sizes ng view ayon sa content.",,wrap_content
+Cloze,"Ang {{c1::match_parent}} ay layout parameter na nag-f-fills ng available space ng parent container.",,match_parent
+Cloze,"Ang {{c1::Material 3}} ay latest version ng Material Design na may updated components at theming.",,Material 3
+Cloze,"Sa Android, ang {{c1::color scheme}} ay set ng primary, secondary, at tertiary colors na nag-de-define ng app appearance.",,color scheme
+Cloze,"Ang {{c1::typography}} ay system ng font styles na nag-s-specify ng headings, body, at label styles.",,typography
+Cloze,"Ang {{c1::MaterialTheme}} composable ay nag-a-apply ng Material 3 theme sa composable tree.",,MaterialTheme
+Cloze,"Ang {{c1::Dynamic Color}} ay feature na nag-c-creates ng color scheme base sa device wallpaper.",,Dynamic Color
+Cloze,"Ang {{c1::shape}} system sa Material 3 ay nag-d-defines ng corner styles: small, medium, large.",,shape
+Cloze,"Sa Android, ang {{c1::color.xml}} resource ay nag-i-store ng color definitions para sa light at dark themes.",,color.xml
+Cloze,"Ang {{c1::elevation}} ay Material Design concept na nag-a-add ng shadow para sa depth perception.",,elevation
+Cloze,"Ang {{c1::TextField}} composable ay ginagamit para mag-c-create ng text input sa Jetpack Compose.",,TextField
+Cloze,"Sa Android, ang {{c1::validation}} ay process ng pag-verify ng user input bago i-process.",,validation
+Cloze,"Ang {{c1::OutlinedTextField}} ay Material Design text field na may visible border.",,OutlinedTextField
+Cloze,"Ang {{c1::onValueChange}} callback ay tinatawag kapag nag-bago ang value sa text field.",,onValueChange
+Cloze,"Ang {{c1::keyboardOptions}} ay modifier na nag-s-specify ng keyboard type at IME actions.",,keyboardOptions
+Cloze,"Ang {{c1::focusRequester}} ay object na nag-c-controls ng focus state sa composables.",,focusRequester
+Cloze,"Sa Compose, ang {{c1::pointerInput}} modifier ay nag-e-enables ng custom gesture detection.",,pointerInput
+Cloze,"Ang {{c1::BasicTextField}} ay low-level text field na walang Material styling.",,BasicTextField
+Cloze,"Ang {{c1::animate*AsState}} composable ay nag-a-animate ng value changes gamit ang smoothly interpolated animation.",,animate*AsState
+Cloze,"Ang {{c1::AnimatedVisibility}} composable ay nag-a-animate ng enter at exit transitions ng content.",,AnimatedVisibility
+Cloze,"Sa Compose, ang {{c1::crossfade}} animation ay nag-c-creates ng smooth transition sa pagitan ng content states.",,crossfade
+Cloze,"Ang {{c1::updateTransition}} ay state holder na nag-m-manages ng multiple animations para sa complex transitions.",,updateTransition
+Cloze,"Ang {{c1::Lottie}} ay library na nag-p-plays ng JSON-based animations mula sa After Effects.",,Lottie
+Cloze,"Ang {{c1::animateContentSize}} modifier ay nag-a-animate ng size changes ng composable.",,animateContentSize
+Cloze,"Sa Compose, ang {{c1::transition}} composable ay nag-d-defines ng enter at exit transitions.",,transition
+Cloze,"Ang {{c1::spring}} animation spec ay physics-based animation na nag-a-add ng natural movement.",,spring
+Cloze,"Ang {{c1::SharedPreferences}} ay Android API na nag-i-store ng simple key-value pairs na persistent.",,SharedPreferences
+Cloze,"Ang {{c1::DataStore}} ay modern replacement sa SharedPreferences na may type-safe at async support.",,DataStore
+Cloze,"Sa Android, ang {{c1::preferencesDataStore}} delegate ay ginagamit para mag-create ng DataStore instance.",,preferencesDataStore
+Cloze,"Ang {{c1::edit}} function sa SharedPreferences ay ginagamit para mag-update ng values atomically.",,edit
+Cloze,"Ang {{c1::apply()}} method ay nag-s-stores ng SharedPreferences values nang hindi nag-w-wait sa completion.",,apply
+Cloze,"Ang {{c1::commit()}} method ay nag-s-stores ng SharedPreferences values at nag-b-balik ng success indicator.",,commit
+Cloze,"Ang {{c1::EncryptedSharedPreferences}} ay security wrapper na nag-e-encrypt ng SharedPreferences data.",,EncryptedSharedPreferences
+Cloze,"Sa DataStore, ang {{c1::data store preferences}} ay typed keys na nag-p-prevent ng runtime type errors.",,data store preferences
+Cloze,"Ang {{c1::settings pattern}} ay design approach para sa pag-m-manage ng user preferences sa app.",,settings pattern
+Cloze,"Ang {{c1::Room}} ay persistence library ng Android na nag-a-add ng abstraction layer sa SQLite database.",,Room
+Cloze,"Ang {{c1::@Entity}} annotation ay nag-m-mark ng data class na nagre-represent ng database table.",,@Entity
+Cloze,"Ang {{c1::@Dao}} annotation ay nag-m-mark ng interface na nag-d-defines ng database operations.",,@Dao
+Cloze,"Ang {{c1::@Database}} annotation ay nag-c-creates ng Room database na may version management.",,@Database
+Cloze,"Sa Room, ang {{c1::@Query}} annotation ay ginagamit para mag-define ng custom SQL queries.",,@Query
+Cloze,"Ang {{c1::@Insert}} annotation ay ginagamit para mag-insert ng data sa database.",,@Insert
+Cloze,"Ang {{c1::@Update}} annotation ay ginagamit para mag-update ng existing records sa database.",,@Update
+Cloze,"Ang {{c1::@Delete}} annotation ay ginagamit para mag-remove ng records sa database.",,@Delete
+Cloze,"Ang {{c1::migration}} ay class na nag-a-adjust ng database schema sa newer version.",,migration
+Cloze,"Ang {{c1::SQLite}} ay lightweight relational database na built-in sa Android.",,SQLite
+Cloze,"Sa SQLite, ang {{c1::query}} ay SQL statement na nag-r-retrieves ng data mula sa tables.",,query
+Cloze,"Ang {{c1::relations}} sa SQLite ay nag-c-connect ng tables gamit ang foreign keys.",,relations
+Cloze,"Ang {{c1::indices}} ay database optimization na nag-f-fastens ng query execution sa columns.",,indices
+Cloze,"Ang {{c1::SQLiteOpenHelper}} ay class na nag-m-manages ng database creation at version upgrades.",,SQLiteOpenHelper
+Cloze,"Sa SQLite, ang {{c1::WHERE}} clause ay ginagamit para mag-filter ng rows base sa condition.",,WHERE
+Cloze,"Ang {{c1::JOIN}} ay SQL operation na nag-c-combines ng data mula sa multiple tables.",,JOIN
+Cloze,"Ang {{c1::cursor}} ay object na nag-i-iterate ng query results row by row.",,cursor
+Cloze,"Ang {{c1::WorkManager}} ay Jetpack library na nag-g-guarantee ng background task execution.",,WorkManager
+Cloze,"Ang {{c1::Worker}} ay class na nag-i-implement ng background task logic sa WorkManager.",,Worker
+Cloze,"Sa WorkManager, ang {{c1::constraints}} ay conditions na kailangan i-meet bago mag-execute ang task.",,constraints
+Cloze,"Ang {{c1::OneTimeWorkRequest}} ay request na nag-e-execute ng task isang beses lang.",,OneTimeWorkRequest
+Cloze,"Ang {{c1::PeriodicWorkRequest}} ay request na nag-e-repeats ng task sa regular intervals.",,PeriodicWorkRequest
+Cloze,"Ang {{c1::chaining}} ay pattern na nag-o-order ng multiple tasks na mag-s-start sa pagkakasunod-sunod.",,chaining
+Cloze,"Sa WorkManager, ang {{c1::WorkRequest.Builder}} ay factory para mag-c-create ng work requests.",,WorkRequest.Builder
+Cloze,"Ang {{c1::enqueue}} method ay nag-a-add ng work request sa WorkManager queue.",,enqueue
+Cloze,"Ang {{c1::backoff policy}} ay retry strategy na nag-d-determines ng delay bago mag-retry ang failed task.",,backoff policy
+Cloze,"Ang {{c1::internal storage}} ay private directory na accessible lang ng app na nag-owns nito.",,internal storage
+Cloze,"Ang {{c1::external storage}} ay shared storage na pwedeng i-access ng multiple apps.",,external storage
+Cloze,"Ang {{c1::scoped storage}} ay Android 10+ feature na nag-l-limits ng app access sa own files.",,scoped storage
+Cloze,"Ang {{c1::cacheDir}} ay directory para sa temporary files na pwedeng i-delete ng system.",,cacheDir
+Cloze,"Ang {{c1::filesDir}} ay internal directory na persistent para sa app-specific files.",,filesDir
+Cloze,"Ang {{c1::MediaStore}} ay content provider na nag-m-manages ng media files sa shared storage.",,MediaStore
+Cloze,"Sa Android, ang {{c1::openFileOutput}} method ay ginagamit para mag-write ng file sa internal storage.",,openFileOutput
+Cloze,"Ang {{c1::getExternalFilesDir}} method ay nag-b-balik ng app-specific directory sa external storage.",,getExternalFilesDir
+Cloze,"Ang {{c1::Retrofit}} ay type-safe HTTP client na ginagamit para mag-connect sa REST APIs sa Android.",,Retrofit
+Cloze,"Ang {{c1::OkHttp}} ay HTTP client na nag-h-handles ng low-level networking at connection management.",,OkHttp
+Cloze,"Sa Android, ang {{c1::@GET}} annotation ay ginagamit para mag-define ng GET API endpoint sa Retrofit.",,@GET
+Cloze,"Ang {{c1::@POST}} annotation ay ginagamit para mag-define ng POST API endpoint sa Retrofit.",,@POST
+Cloze,"Ang {{c1::interceptor}} ay component na nag-a-add ng custom logic sa HTTP requests at responses.",,interceptor
+Cloze,"Ang {{c1::Retrofit.Builder}} ay factory na nag-c-creates ng Retrofit instance na may base URL at converters.",,Retrofit.Builder
+Cloze,"Sa Android, ang {{c1::suspend}} function ay pwedeng i-use sa Retrofit interface para async na API calls.",,suspend
+Cloze,"Ang {{c1::Response}} class ay wrapper na nag-c-contains ng HTTP status, headers, at body.",,Response
+Cloze,"Ang {{c1::BaseUrl}} ay root URL na nag-s-specify ng API server location.",,BaseUrl
+Cloze,"Ang {{c1::kotlinx.serialization}} ay Kotlin-first serialization library na nag-c-compile ng JSON code at compile time.",,kotlinx.serialization
+Cloze,"Ang {{c1::@Serializable}} annotation ay nag-m-mark ng class na pwedeng i-serialize/deserialize.",,@Serializable
+Cloze,"Sa Android, ang {{c1::Gson}} ay Java-based library na nag-c-convert ng objects to/from JSON.",,Gson
+Cloze,"Ang {{c1::Moshi}} ay modern JSON library na may code generation at Kotlin support.",,Moshi
+Cloze,"Ang {{c1::model mapping}} ay process ng pag-c-convert ng API response to Kotlin data classes.",,model mapping
+Cloze,"Sa serialization, ang {{c1::@SerialName}} annotation ay ginagamit para mag-override ng JSON key name.",,@SerialName
+Cloze,"Ang {{c1::Json}} object sa kotlinx.serialization ay central configuration for encode/decode.",,Json
+Cloze,"Ang {{c1::TypeAdapter}} ay Gson component na nag-c-customize ng serialization behavior para sa specific type.",,TypeAdapter
+Cloze,"Ang {{c1::Coil}} ay Kotlin-first image loading library na ginagamit sa Jetpack Compose at XML.",,Coil
+Cloze,"Ang {{c1::Glide}} ay popular image loading library na may built-in caching at transformations.",,Glide
+Cloze,"Sa Android, ang {{c1::caching}} ay process ng pag-s-store ng images para sa faster loading.",,caching
+Cloze,"Ang {{c1::placeholder}} ay default image na nag-d-display habang nag-lo-load pa ang actual image.",,placeholder
+Cloze,"Ang {{c1::AsyncImage}} composable ay Coil's Compose component para sa image loading.",,AsyncImage
+Cloze,"Ang {{c1::disk cache}} ay storage na nag-s-stores ng images sa device's file system.",,disk cache
+Cloze,"Ang {{c1::memory cache}} ay in-memory storage na nag-s-stores ng recently loaded images.",,memory cache
+Cloze,"Ang {{c1::GlideModule}} ay configuration class na nag-c-customize ng Glide behavior globally.",,GlideModule
+Cloze,"Ang {{c1::ConnectivityManager}} ay system service na nag-c-check ng network state.",,ConnectivityManager
+Cloze,"Sa Android, ang {{c1::NetworkCapabilities}} ay nag-s-specify ng network type at capabilities.",,NetworkCapabilities
+Cloze,"Ang {{c1::timeout}} ay maximum na oras na hihintayin ng network request bago mag-fail.",,timeout
+Cloze,"Ang {{c1::offline handling}} ay strategy para mag-f-function ng app kapag walang internet connection.",,offline handling
+Cloze,"Ang {{c1::retry}} ay mechanism na nag-e-execute ulit ng failed request na may backoff strategy.",,retry
+Cloze,"Sa Android, ang {{c1::INTERNET}} permission ay required para mag-send ng network requests.",,INTERNET permission
+Cloze,"Ang {{c1::NetworkCallback}} ay listener na nag-n-notifies ng network state changes.",,NetworkCallback
+Cloze,"Ang {{c1::isConnected}} property ay boolean na nag-i-indicate ng active network connection.",,isConnected
+Cloze,"Ang {{c1::MVVM}} ay architecture pattern na nag-s-separates ng UI, business logic, at data layer.",,MVVM
+Cloze,"Ang {{c1::ViewModel}} ay component na nag-h-holds ng UI state at nag-e-exposes ng data sa UI layer.",,ViewModel
+Cloze,"Sa Android, ang {{c1::UI state}} ay data class na nag-r-represents ng lahat ng states ng screen.",,UI state
+Cloze,"Ang {{c1::unidirectional data flow}} ay pattern kung saan data flows down at events flow up.",,unidirectional data flow
+Cloze,"Ang {{c1::LiveData}} ay observable data holder na lifecycle-aware na nag-u-updates ng UI.",,LiveData
+Cloze,"Sa MVVM, ang {{c1::event}} ay one-time action na hindi na uulitin kapag na-consume na.",,event
+Cloze,"Ang {{c1::by viewModels()}} delegation ay ginagamit para mag-obtain ng ViewModel sa Activity/Fragment.",,by viewModels()
+Cloze,"Ang {{c1::MutableStateFlow}} ay mutable observable na nag-s-stores ng current state value.",,MutableStateFlow
+Cloze,"Ang {{c1::Repository}} ay abstraction layer na nag-m-manages ng data operations mula sa multiple sources.",,Repository
+Cloze,"Sa Android, ang {{c1::data sources}} ay pinagkukunan ng data: local database, network, o cache.",,data sources
+Cloze,"Ang {{c1::abstraction}} sa Repository ay nag-i-isolate ng data logic mula sa ViewModel.",,abstraction
+Cloze,"Ang {{c1::caching layer}} ay storage na nag-s-stores ng frequently accessed data para sa faster access.",,caching layer
+Cloze,"Ang {{c1::RemoteDataSource}} ay class na nag-h-handles ng network API calls.",,RemoteDataSource
+Cloze,"Ang {{c1::LocalDataSource}} ay class na nag-h-handles ng database o SharedPreferences operations.",,LocalDataSource
+Cloze,"Sa Repository pattern, ang {{c1::strategy}} ay approach na nag-d-determines kung saan kukuha ng data.",,strategy
+Cloze,"Ang {{c1::flow}} return type ay ginagamit sa Repository para mag-stream ng data updates.",,flow
+Cloze,"Ang {{c1::Hilt}} ay dependency injection framework na official ng Android team.",,Hilt
+Cloze,"Ang {{c1::Koin}} ay lightweight DI framework na Kotlin-first at DSL-based.",,Koin
+Cloze,"Sa Android, ang {{c1::manual DI}} ay pag-p-provide ng dependencies nang walang framework.",,manual DI
+Cloze,"Ang {{c1::@Inject}} annotation ay nag-m-mark ng constructor na kailangan ng DI framework.",,@Inject
+Cloze,"Ang {{c1::@Module}} annotation ay nag-c-creates ng container ng dependencies para sa Hilt.",,@Module
+Cloze,"Ang {{c1::@Provides}} annotation ay nag-d-defines ng way para mag-provide ng dependency.",,@Provides
+Cloze,"Ang {{c1::@Singleton}} scope ay nag-s-sures na isang instance lang ng dependency ang gagamitin.",,@Singleton
+Cloze,"Sa Koin, ang {{c1::module}} DSL function ay nag-d-defines ng dependency bindings.",,module
+Cloze,"Ang {{c1::@Component}} annotation ay nag-c-creates ng Hilt component na nag-l-lifetime sa dependencies.",,@Component
+Cloze,"Ang {{c1::Clean Architecture}} ay design pattern na nag-s-separates ng code sa presentation, domain, at data layers.",,Clean Architecture
+Cloze,"Ang {{c1::domain layer}} ay innermost layer na nag-c-contains ng business logic at use cases.",,domain layer
+Cloze,"Ang {{c1::presentation layer}} ay outermost layer na nag-h-handles ng UI at user interactions.",,presentation layer
+Cloze,"Ang {{c1::data layer}} ay middle layer na nag-m-manages ng data sources at repositories.",,data layer
+Cloze,"Ang {{c1::use case}} ay class na nag-e-encapsulates ng specific business operation.",,use case
+Cloze,"Ang {{c1::domain model}} ay data class na nag-r-represents ng core business entities.",,domain model
+Cloze,"Sa Clean Architecture, ang {{c1::dependency rule}} ay components na nasa inner layers ay hindi nag-i-import ng outer layers.",,dependency rule
+Cloze,"Ang {{c1::entity}} ay pure Kotlin data class na walang Android framework dependencies.",,entity
+Cloze,"Ang {{c1::StateFlow}} ay Flow na nag-e-emits ng single value at nag-r-ree-emits sa configuration changes.",,StateFlow
+Cloze,"Ang {{c1::SharedFlow}} ay Flow na nag-e-emits ng events na pwedeng i-collect ng multiple collectors.",,SharedFlow
+Cloze,"Sa Kotlin, ang {{c1::collectLatest}} operator ay nag-c-cancels ng previous collection bago mag-collect ng bago.",,collectLatest
+Cloze,"Ang {{c1::stateIn}} operator ay nag-c-convert ng Flow to StateFlow na may initial value.",,stateIn
+Cloze,"Ang {{c1::conflated}} property ay nag-s-sures na latest value lang ang ipi-process.",,conflated
+Cloze,"Sa Android, ang {{c1::repeatOnLifecycle}} ay safe way para mag-collect ng flows sa lifecycle-aware manner.",,repeatOnLifecycle
+Cloze,"Ang {{c1::MutableSharedFlow}} ay mutable version ng SharedFlow na pwedeng i-emit ng events.",,MutableSharedFlow
+Cloze,"Ang {{c1::first}} terminal operator ay nag-b-balik ng first emitted value mula sa flow.",,first
+Cloze,"Ang {{c1::JUnit}} ay testing framework na ginagamit para mag-write at mag-run ng unit tests sa Android.",,JUnit
+Cloze,"Ang {{c1::MockK}} ay Kotlin mocking library na ginagamit para mag-create ng test doubles.",,MockK
+Cloze,"Sa Android, ang {{c1::coroutine testing}} ay test utilities para ma-verify ang suspend functions.",,coroutine testing
+Cloze,"Ang {{c1::coverage}} ay metric na nag-i-indicate ng percentage ng code na na-test.",,coverage
+Cloze,"Ang {{c1::@Test}} annotation ay nag-m-mark ng function na test method.",,@Test
+Cloze,"Ang {{c1::@Before}} annotation ay tinatawag before bawat test para mag-set up ng test fixtures.",,@Before
+Cloze,"Ang {{c1::assertions}} ay methods na nag-v-verify ng expected vs actual results sa tests.",,assertions
+Cloze,"Ang {{c1::runTest}} ay test builder na nag-e-execute ng suspend function sa test context.",,runTest
+Cloze,"Ang {{c1::mockk()}} function ay nag-c-creates ng mock object para sa testing.",,mockk()
+Cloze,"Ang {{c1::Compose Testing}} ay testing APIs na ginagamit para mag-test ng Compose UI components.",,Compose Testing
+Cloze,"Ang {{c1::createComposeRule}} ay test rule na nag-s-sets up ng Compose test environment.",,createComposeRule
+Cloze,"Sa Compose, ang {{c1::onNodeWithText}} ay matcher na nag-f-finds ng composable based sa text content.",,onNodeWithText
+Cloze,"Ang {{c1::assertIsDisplayed}} ay assertion na nag-v-verify na visible ang composable.",,assertIsDisplayed
+Cloze,"Ang {{c1::performClick}} ay action na nag-s-simulates ng click sa composable.",,performClick
+Cloze,"Ang {{c1::semantics}} property ay nag-i-identify ng composables para sa testing.",,semantics
+Cloze,"Sa Compose testing, ang {{c1::onAllNodesWithText}} ay nag-f-finds ng multiple matching nodes.",,onAllNodesWithText
+Cloze,"Ang {{c1::setContent}} sa test ay nag-s-sets up ng composable tree for testing.",,setContent
+Cloze,"Ang {{c1::Espresso}} ay testing framework para sa Android instrumentation tests na nag-s-simulates ng user interactions.",,Espresso
+Cloze,"Ang {{c1::instrumentation test}} ay test na nag-r-runs sa real device o emulator.",,instrumentation test
+Cloze,"Sa Android, ang {{c1::emulator}} ay virtual device na ginagamit para mag-test ng app.",,emulator
+Cloze,"Ang {{c1::ViewMatchers}} ay utility class na nag-f-finds ng views based sa properties.",,ViewMatchers
+Cloze,"Ang {{c1::ViewActions}} ay set ng user actions na pwedeng i-perform sa views.",,ViewActions
+Cloze,"Ang {{c1::ViewAssertions}} ay methods na nag-v-verify ng view state.",,ViewAssertions
+Cloze,"Ang {{c1::onView}} function ay entry point para sa Espresso test interactions.",,onView
+Cloze,"Ang {{c1::IdlingResource}} ay mechanism para mag-wait sa async operations bago mag-proceed.",,IdlingResource
+Cloze,"Ang {{c1::lint}} ay static analysis tool na nag-d-detect ng code smells at bugs sa Android.",,lint
+Cloze,"Ang {{c1::detekt}} ay Kotlin static analysis tool na nag-m-measures ng code quality.",,detekt
+Cloze,"Sa Android, ang {{c1::ktlint}} ay formatter na nag-e-enforces ng Kotlin coding conventions.",,ktlint
+Cloze,"Ang {{c1::code quality}} ay metric na nag-i-indicate ng maintainability, readability, at reliability ng code.",,code quality
+Cloze,"Ang {{c1::@Suppress}} annotation ay ginagamit para mag-skip ng specific lint warnings.",,@Suppress
+Cloze,"Ang {{c1::build.gradle}} lint block ay configuration para sa Android Lint behavior.",,build.gradle lint block
+Cloze,"Ang {{c1::ktfmt}} ay alternative Kotlin formatter na may Google Java style.",,ktfmt
+Cloze,"Ang {{c1::static analysis}} ay process ng pag-a-analyze ng code nang hindi nag-e-executing.",,static analysis
+Cloze,"Ang {{c1::CPU profiler}} ay tool na nag-a-analyze ng CPU usage at method execution times.",,CPU profiler
+Cloze,"Ang {{c1::memory profiler}} ay tool na nag-m-monitor ng memory allocation at garbage collection.",,memory profiler
+Cloze,"Sa Android, ang {{c1::network profiler}} ay tool na nag-i-inspects ng HTTP requests at responses.",,network profiler
+Cloze,"Ang {{c1::Systrace}} ay tracing tool na nag-r-records ng system events para sa performance analysis.",,Systrace
+Cloze,"Ang {{c1::Android Studio Profiler}} ay integrated tool na nag-o-overview ng CPU, memory, network, at battery.",,Android Studio Profiler
+Cloze,"Ang {{c1::method tracing}} ay technique na nag-m-measures ng execution time ng individual methods.",,method tracing
+Cloze,"Sa profiling, ang {{c1::flame chart}} ay visual representation ng method call stacks at their durations.",,flame chart
+Cloze,"Ang {{c1::allocations}} tracking ay feature na nag-t-tracks ng memory allocations para sa leak detection.",,allocations
+Cloze,"Ang {{c1::memory leak}} ay situation kung saan ang objects ay hindi na-ga-garbage collect.",,memory leak
+Cloze,"Ang {{c1::weak reference}} ay reference type na hindi nag-p-prevent sa garbage collection.",,weak reference
+Cloze,"Ang {{c1::bitmap handling}} ay technique para i-optimize ng images para sa memory efficiency.",,bitmap handling
+Cloze,"Ang {{c1::ProGuard}} ay code obfuscation at shrinking tool na nag-r-removes ng unused code.",,ProGuard
+Cloze,"Ang {{c1::R8}} ay replacement sa ProGuard na mas mabilis at efficient na code optimizer.",,R8
+Cloze,"Sa Android, ang {{c1::LeakCanary}} ay library na nag-a-automate ng memory leak detection.",,LeakCanary
+Cloze,"Ang {{c1::onDestroy}} method ay dapat i-clear ng listeners at references para maiwasan ang leaks.",,onDestroy
+Cloze,"Ang {{c1::inSampleSize}} property ay nag-s-scales down ng bitmap para sa reduced memory usage.",,inSampleSize
+Cloze,"Ang {{c1::cold start}} ay startup process mula sa walang app state hanggang ma-render ang screen.",,cold start
+Cloze,"Ang {{c1::lazy initialization}} ay technique na nag-d-defers ng object creation hanggang kailangan.",,lazy initialization
+Cloze,"Ang {{c1::baseline profile}} ay pre-compiled code paths na nag-s-speeds up ng app startup.",,baseline profile
+Cloze,"Sa Android, ang {{c1::Application class}} ay first na na-create sa app lifecycle.",,Application class
+Cloze,"Ang {{c1::startup library}} ay Jetpack component na nag-m-measures ng app startup times.",,startup library
+Cloze,"Ang {{c1::content provider initialization}} ay isang naunang startup step na nag-a-add ng delay.",,content provider initialization
+Cloze,"Ang {{c1::splash screen}} ay initial UI na nag-d-display habang nag-lo-load pa ang app.",,splash screen
+Cloze,"Ang {{c1::by lazy}} delegation sa Kotlin ay nag-i-initialize ng property on first access lang.",,by lazy
+Cloze,"Ang {{c1::Doze}} ay Android feature na nag-l-limits ng background activity kapag naka-idle ang device.",,Doze
+Cloze,"Ang {{c1::background limits}} ay restrictions na nag-c-controls ng background execution.",,background limits
+Cloze,"Ang {{c1::efficient requests}} ay strategy na nag-m-minimizes ng battery drain sa network calls.",,efficient requests
+Cloze,"Sa Android, ang {{c1::Battery Saver}} mode ay nag-r-reduces ng performance para mag-extend ng battery life.",,Battery Saver
+Cloze,"Ang {{c1::WorkManager}} ay recommended na way para mag-s-schedule ng deferrable background tasks.",,WorkManager
+Cloze,"Ang {{c1::JobScheduler}} ay system service na nag-s-schedules ng jobs based sa conditions.",,JobScheduler
+Cloze,"Ang {{c1::setRequiresBatteryNotLow}} ay WorkManager constraint na nag-s-skips ng task kapag low battery.",,setRequiresBatteryNotLow
+Cloze,"Ang {{c1::batching}} ay technique na nag-g-groups ng network requests para sa efficiency.",,batching
+Cloze,"Ang {{c1::Android Keystore}} ay system facility na nag-s-stores ng cryptographic keys nang secure.",,Android Keystore
+Cloze,"Ang {{c1::EncryptedSharedPreferences}} ay SharedPreferences wrapper na nag-e-encrypt ng data.",,EncryptedSharedPreferences
+Cloze,"Ang {{c1::biometrics}} ay authentication mechanism na nag-u-uses ng fingerprint, face, o iris.",,biometrics
+Cloze,"Sa Android, ang {{c1::KeyGenerator}} ay utility para mag-c-create ng cryptographic keys.",,KeyGenerator
+Cloze,"Ang {{c1::KeyStore}} ay tamper-resistant storage para sa cryptographic keys.",,KeyStore
+Cloze,"Ang {{c1::MasterKey}} ay encryption key na ginagamit ng EncryptedSharedPreferences.",,MasterKey
+Cloze,"Ang {{c1::BiometricPrompt}} ay system dialog na nag-p-prompts ng biometric authentication.",,BiometricPrompt
+Cloze,"Sa Android, ang {{c1::EncryptedFile}} ay file encryption wrapper mula sa Security library.",,EncryptedFile
+Cloze,"Ang {{c1::AES}} ay symmetric encryption algorithm na ginagamit para sa data protection.",,AES
+Cloze,"Ang {{c1::HTTPS}} ay encrypted HTTP protocol na nag-p-protect ng data in transit.",,HTTPS
+Cloze,"Ang {{c1::certificate pinning}} ay technique na nag-v-verifies ng server certificate.",,certificate pinning
+Cloze,"Ang {{c1::cleartext policy}} ay configuration na nag-b-block ng unencrypted HTTP traffic.",,cleartext policy
+Cloze,"Sa Android, ang {{c1::network security config}} XML ay file na nag-d-defines ng security rules.",,network security config
+Cloze,"Ang {{c1::SSL/TLS}} ay cryptographic protocols na nag-p-protect ng network communication.",,SSL/TLS
+Cloze,"Ang {{c1::TrustManager}} ay component na nag-v-verifies ng server certificates.",,TrustManager
+Cloze,"Ang {{c1::hostname verification}} ay check na nag-s-sures na ang server hostname ay matches sa certificate.",,hostname verification
+Cloze,"Sa Android 9+, ang {{c1::cleartext traffic}} ay disabled by default para sa security.",,cleartext traffic
+Cloze,"Ang {{c1::runtime permissions}} ay permissions na kailangan i-request habang nag-r-running na ang app.",,runtime permissions
+Cloze,"Ang {{c1::AndroidManifest}} ay file na nag-d-declare ng required permissions ng app.",,AndroidManifest
+Cloze,"Ang {{c1::permission rationale}} ay dialog na nag-e-explains kung bakit kailangan ng permission.",,permission rationale
+Cloze,"Sa Android, ang {{c1::ActivityCompat.requestPermissions}} ay method para mag-request ng runtime permission.",,ActivityCompat.requestPermissions
+Cloze,"Ang {{c1::onRequestPermissionsResult}} callback ay tinatawag pagkatapos mag-response ang user.",,onRequestPermissionsResult
+Cloze,"Ang {{c1::shouldShowRequestPermissionRationale}} ay method na nag-i-check kung kailangan ng rationale.",,shouldShowRequestPermissionRationale
+Cloze,"Ang {{c1::scoped storage}} permission model ay nag-l-limits ng access sa specific na files.",,scoped storage
+Cloze,"Ang {{c1::POST_NOTIFICATIONS}} ay runtime permission na required para sa Android 13+ notifications.",,POST_NOTIFICATIONS
+Cloze,"Ang {{c1::release build}} ay production-ready APK/AAB na optimized at signed para sa distribution.",,release build
+Cloze,"Ang {{c1::keystore}} ay file na nag-c-contains ng signing keys para sa APK signing.",,keystore
+Cloze,"Ang {{c1::minification}} ay process ng pag-c-compact ng code at pag-r-removes ng unused classes.",,minification
+Cloze,"Ang {{c1::versionCode}} ay integer na nag-i-increase ng bawat release para sa update detection.",,versionCode
+Cloze,"Ang {{c1::versionName}} ay string na nag-r-represents ng user-visible version number.",,versionName
+Cloze,"Ang {{c1::Play App Signing}} ay Google service na nag-s-signs ng APK gamit ang managed key.",,Play App Signing
+Cloze,"Sa Android, ang {{c1::signingConfigs}} ay section sa build.gradle na nag-m-manages ng signing keys.",,signingConfigs
+Cloze,"Ang {{c1::R8}} ay tool na nag-m-minifies, obfuscates, at optimizes ang release code.",,R8
+Cloze,"Ang {{c1::App Bundle}} (.aab) ay publishing format na nag-o-optimizes ng APK para sa bawat device.",,App Bundle
+Cloze,"Ang {{c1::APK}} ay Android Package file na nag-c-contains ng app installation data.",,APK
+Cloze,"Ang {{c1::asset delivery}} ay Play Feature Delivery na nag-d-dynamic ng features based sa need.",,asset delivery
+Cloze,"Sa Google Play, ang {{c1::store size limits}} ay maximum na app size: 100MB APK, 150MB AAB.",,store size limits
+Cloze,"Ang {{c1::dynamic delivery}} ay feature ng Play Store na nag-d-downloads ng parts lang ng app.",,dynamic delivery
+Cloze,"Ang {{c1::split APKs}} ay feature ng App Bundle na nag-s-splits ng app sa multiple smaller APKs.",,split APKs
+Cloze,"Ang {{c1::on-demand module}} ay feature na pwedeng i-download lang kapag kailangan ng user.",,on-demand module
+Cloze,"Ang {{c1::bundletool}} ay command-line tool para mag-test ng App Bundle locally.",,bundletool
+Cloze,"Ang {{c1::Play Console}} ay web-based platform para sa pag-m-manage ng app distribution.",,Play Console
+Cloze,"Sa Play Console, ang {{c1::tracks}} ay categories para sa releasing: internal, closed, open, production.",,tracks
+Cloze,"Ang {{c1::testing channels}} ay ways para mag-test ng app bago i-release sa production.",,testing channels
+Cloze,"Ang {{c1::store listing}} ay page ng app sa Play Store na may title, description, at screenshots.",,store listing
+Cloze,"Ang {{c1::internal track}} ay testing channel na accessible lang sa designated testers.",,internal track
+Cloze,"Ang {{c1::production track}} ay public release channel na accessible sa lahat ng users.",,production track
+Cloze,"Ang {{c1::content rating}} ay questionnaire-based classification ng app content.",,content rating
+Cloze,"Ang {{c1::store listing experiments}} ay A/B testing ng app store listing elements.",,store listing experiments
+Cloze,"Ang {{c1::staged rollout}} ay gradual na pag-release ng update sa percentage of users.",,staged rollout
+Cloze,"Ang {{c1::update monitoring}} ay process ng pag-o-observe ng crash rates at feedback pagkatapos ng release.",,update monitoring
+Cloze,"Sa Google Play, ang {{c1::rollback}} ay action na nag-r-reverts ng release sa previous version.",,rollback
+Cloze,"Ang {{c1::Play Console dashboards}} ay analytics tools na nag-m-monitor ng app performance.",,Play Console dashboards
+Cloze,"Ang {{c1::release notes}} ay text description ng changes at improvements sa bagong version.",,release notes
+Cloze,"Ang {{c1::country targeting}} ay configuration na nag-s-specifies ng countries na available ang app.",,country targeting
+Cloze,"Ang {{c1::pre-registration}} ay feature na nag-a-allows ng early access sign-ups bago ang official launch.",,pre-registration
+Cloze,"Ang {{c1::phased rollout}} ay same concept sa staged rollout na may incremental percentage increase.",,phased rollout
+Cloze,"Ang {{c1::Crashlytics}} ay Firebase service na nag-c-collect at nag-a-analyze ng app crashes.",,Crashlytics
+Cloze,"Ang {{c1::Firebase Analytics}} ay free analytics service na nag-t-tracks ng user behavior.",,Firebase Analytics
+Cloze,"Ang {{c1::alerts}} ay notifications na nag-n-nag-a-alert sa developers ng critical issues.",,alerts
+Cloze,"Sa Firebase, ang {{c1::breadcrumbs}} ay chronological log ng events bago mag-crash.",,breadcrumbs
+Cloze,"Ang {{c1::custom keys}} ay developer-defined values na nag-a-add ng context sa crash reports.",,custom keys
+Cloze,"Ang {{c1::non-fatal exceptions}} ay caught exceptions na na-log sa Crashlytics.",,non-fatal exceptions
+Cloze,"Ang {{c1::Crashlytics dashboard}} ay web UI na nag-s-shows ng crash analytics at trends.",,Crashlytics dashboard
+Cloze,"Ang {{c1::Firebase Performance}} ay service na nag-m-measures ng app startup time at network requests.",,Firebase Performance
