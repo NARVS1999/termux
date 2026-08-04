@@ -53,3 +53,10 @@ Application,"Paano gagawa ng loop na mag-print ng numbers 1 to 5?","Gamitin ang 
 ```
 
 Save as `.csv` to `/mnt/user-data/outputs/`, then use `present_files`. Note for the user that in Anki's import dialog they must tick **"File has no headers"** and map the fields manually (since the "Type" column can't be mapped natively, splitting into two separate CSVs — one per note type: Cloze, Basic — is recommended).
+
+### CSV Quoting Rules (RFC 4180 — GitHub/Anki safe)
+
+- **Never backslash-escape quotes** (`\"` is invalid CSV — GitHub's preview errors with "Any value after quoted field isn't allowed").
+- Quotes inside a quoted field must be **doubled** (`""`): e.g. `<Link href=""/about"">About</Link>`.
+- Backslashes are literal in CSV — do NOT escape them (PHP namespaces stay `App\Models`, not `App\\Models`; a composer.json key `App\\` is written as `App\\` — two literal backslashes, no extra escaping).
+- Every row must parse to exactly 4 fields with a standard CSV reader; verify with `python3 -c "import csv; [print(len(r)) for r in csv.reader(open('file.csv'))]"` before committing.

@@ -76,6 +76,11 @@ Application,"Paano {verb} {object}?",,"{one-line answer}"
 - Answers are single line of code or brief Taglish explanation
 - Hint column is always empty
 
+**CSV quoting (both types, strict — a past repo fix rewrote 48 files for this):**
+- Never backslash-escape quotes (`\"` is invalid RFC 4180; GitHub preview breaks with "Any value after quoted field isn't allowed")
+- Quotes inside a quoted field are **doubled** (`""`): `<Link href=""/about"">About</Link>`
+- Backslashes are literal — never escaped (PHP namespace `App\Models`, composer key `App\\` with exactly two literal backslashes)
+
 #### 2b. Git Commit & Push (CSVs)
 ```bash
 git add {topic}/{topic}-phase{start}-cloze.csv {topic}/{topic}-phase{start}-basic.csv ... {topic}/{topic}-phase{end}-cloze.csv {topic}/{topic}-phase{end}-basic.csv
@@ -111,7 +116,7 @@ ls {topic}/{topic}-phase*-basic.csv | sort -V | xargs cat > {topic}/{topic}-all-
 - `sort -V` (version sort) — alphabetical would put `phase10` before `phase2`
 - **Raw concatenation only** — quoted fields may span multiple lines; never re-parse/re-serialize
 - No header row — matches per-phase files
-- Verify both merged files: every row exactly 4 fields, no duplicate rows, ASCII-only
+- Verify both merged files: every row exactly 4 fields, no duplicate rows, ASCII-only, no backslash-escaped quotes (`\"` — must be `""` doubling, see quoting rules above)
 - Report errors if any file fails verification; fix before committing
 
 #### Git Commit & Push (Merged CSVs) — separate commit, after the last phase batch

@@ -58,6 +58,7 @@ Run a Python check on both merged files:
 1. Every row has exactly 4 fields (valid CSV parse)
 2. No duplicate rows (compare across the merged set, `sort | uniq -d` must be empty)
 3. ASCII-only content (no Chinese/Cyrillic/foreign script chars — a past repo fix removed these)
+4. No backslash-escaped quotes (`\"`) — quotes inside fields must be `""`-doubled (RFC 4180); backslashes are literal, never escaped (PHP namespaces `App\Models`, composer key `App\\`)
 
 Expected counts: number of cloze cards = sum of rows across all `*-cloze.csv` phase files; same logic for basic.
 

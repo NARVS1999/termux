@@ -25,6 +25,7 @@ No header row — CSVs start directly with the first card row. Hint column is al
 - Basic: `Application,"Paano {verb} {object}?",,"{one-line answer}"` — one line of code or one short Taglish sentence, never multi-step.
 - Taglish convention: English technical terms stay untranslated (e.g., `destructuring`, `optional chaining`).
 - **ASCII only** — no Chinese/Cyrillic/foreign script characters in cards (a past commit fixed 11 files that had them).
+- **CSV quoting (RFC 4180)** — never `\"` backslash escapes (GitHub preview breaks); double inner quotes `""`; backslashes are literal, never escaped (e.g. PHP namespace `App\Models`). A past commit fixed 48 files with `\"`.
 
 ## Git workflow (matches git history)
 
