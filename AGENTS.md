@@ -12,7 +12,8 @@ One folder per topic (`react/`, `backend/`, `mysql/`, `design-patterns/`, `syste
 - `*-SKILL.md` — process rules. Load before doing related work:
   - `create-roadmap-SKILL.md` — roadmap format (7–11 sections, ~47 phases)
   - `anki-taglish-cards-SKILL.md` — card format rules (authoritative for card content)
-  - `auto-create-anki-SKILL.md` — the full workflow: parse roadmap → generate CSVs → commit → mark `[x]` → repeat
+  - `auto-create-anki-SKILL.md` — the full workflow: parse roadmap → generate CSVs → commit → mark `[x]` → repeat (also merges all phase CSVs into `{topic}-all-cloze.csv` + `{topic}-all-basic.csv` at the end)
+  - `merge-anki-cards-SKILL.md` — merge existing per-phase CSVs in any folder into 2 combined files (`{prefix}-all-cloze.csv`, `{prefix}-all-basic.csv`)
 
 Current state: all 5 topics complete (react, backend, mysql, design-patterns, system-architecture — 470 CSVs, all phases `[x]`). New work = create a new topic folder + roadmap, then run auto-create-anki on it.
 
