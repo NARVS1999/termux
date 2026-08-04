@@ -1,0 +1,410 @@
+Cloze,"Sa PHP 8, ang {{c1::enum}} ay ginagamit para mag-define ng fixed set ng possible values na may labels.",,enum
+Cloze,"Ang {{c1::readonly}} property ay pwedeng i-assign nang isang beses lang pagkatapos ng declaration.",,readonly
+Cloze,"Sa PHP 8, ang {{c1::attributes}} ay structured metadata na pwedeng i-attach sa classes, methods, at properties.",,attributes
+Cloze,"Sa {{c1::named arguments}}, pwedeng i-skip ang parameter order at i-specify kung alin ang ipapasa.",,named arguments
+Cloze,"Ang {{c1::match}} expression ay isang stricter na alternative sa switch na nagre-return ng value.",,match
+Cloze,"Ang {{c1::constructor property promotion}} ay nagpapaliit ng boilerplate sa pamamagitan ng pag-declare ng properties sa constructor params.",,constructor property promotion
+Cloze,"Ang {{c1::nullsafe operator}} (?->) ay pumipigil sa fatal error kapag null ang object na ina-access.",,nullsafe operator
+Cloze,"Ang {{c1::union types}} ay nagpapahintulot ng multiple possible types sa isang parameter o return.",,union types
+Cloze,"Ang {{c1::SOLID}} ay acronym para sa limang object-oriented design principles.",,SOLID
+Cloze,"Ang {{c1::Single Responsibility}} principle ay nagsasabi na ang isang class ay dapat magkaroon ng isang dahilan lang para magbago.",,Single Responsibility
+Cloze,"Ang {{c1::Open/Closed}} principle ay nagsasabi na ang code ay open for extension pero closed for modification.",,Open/Closed
+Cloze,"Ang {{c1::Liskov Substitution}} principle ay nagsasabi na ang subclass ay dapat mapalitan ang parent nito nang walang sisirain.",,Liskov Substitution
+Cloze,"Ang {{c1::Interface Segregation}} principle ay nagsasabi na huwag pilitin ang client na i-depende sa interface na hindi nila ginagamit.",,Interface Segregation
+Cloze,"Ang {{c1::Dependency Inversion}} principle ay nagsasabi na mag-depende sa abstractions, hindi sa concretions.",,Dependency Inversion
+Cloze,"Ang {{c1::composition over inheritance}} ay ang paggamit ng object instances sa halip na mag-extend ng class para mag-reuse ng behavior.",,composition over inheritance
+Cloze,"Ang {{c1::dependency injection}} ay ang process ng pagbibigay ng dependencies sa isang class mula sa labas, hindi nililikha sa loob.",,dependency injection
+Cloze,"Ang {{c1::abstraction}} ay ang pagtatago ng implementation details at pagpapakita lang ng essential interface.",,abstraction
+Cloze,"Ang {{c1::Repository}} pattern ay ginagamit para i-abstract ang data access layer mula sa business logic.",,Repository
+Cloze,"Ang {{c1::Factory}} pattern ay ginagamit para gumawa ng objects nang hindi tinutukoy ang concrete class sa client.",,Factory
+Cloze,"Ang {{c1::Strategy}} pattern ay nagpapahintulot na magpalit ng algorithm sa runtime.",,Strategy
+Cloze,"Ang {{c1::Observer}} pattern ay nagme-notify ng maraming objects kapag nagbago ang state ng isang subject.",,Observer
+Cloze,"Ang {{c1::Adapter}} pattern ay nagpapagana ng dalawang magkaibang interfaces na magtrabaho nang magkasama.",,Adapter
+Cloze,"Ang {{c1::Facade}} pattern ay nagbibigay ng simplified interface sa isang complex subsystem.",,Facade
+Cloze,"Ang {{c1::type hinting}} ay ang pagde-declare ng expected type ng parameter o return value ng function.",,type hinting
+Cloze,"Ang {{c1::declare(strict_types=1)}} ay nag-e-enforce ng strict type checking sa function calls.",,declare(strict_types=1)
+Cloze,"Ang {{c1::try/catch}} ay ginagamit para i-handle ang exceptions nang hindi nag-crash ang application.",,try/catch
+Cloze,"Ang {{c1::throw}} keyword ay ginagamit para mag-raise ng exception nang manu-mano.",,throw
+Cloze,"Ang pag-create ng {{c1::custom exception}} ay ginagawa sa pamamagitan ng pag-extend sa Exception class.",,custom exception
+Cloze,"Ang {{c1::PHPStan}} ay static analysis tool na nagde-detect ng type errors bago pa man i-run ang code.",,PHPStan
+Cloze,"Ang {{c1::PHPCS}} (PHP_CodeSniffer) ay nagche-check kung ang code ay sumusunod sa coding standards.",,PHPCS
+Cloze,"Ang {{c1::return type}} ay nag-specify ng expected type ng value na ibinabalik ng function.",,return type
+Cloze,"Ang {{c1::Composer}} ay ang dependency manager ng PHP.",,Composer
+Cloze,"Ang {{c1::PSR-4}} autoloading ay nagma-map ng namespace sa directory para awtomatikong ma-load ang classes.",,PSR-4
+Cloze,"Ang {{c1::composer.json}} ay ang configuration file na naglalaman ng dependencies at autoload rules.",,composer.json
+Cloze,"Ang {{c1::composer.lock}} ay nagla-lock ng exact versions para consistent ang install sa lahat ng environment.",,composer.lock
+Cloze,"Ang {{c1::^}} caret operator sa semantic versioning ay nagpapahintulot ng minor at patch updates pero hindi ng major.",,^
+Cloze,"Ang {{c1::~}} tilde operator ay nagpapahintulot lang ng patch updates.",,~
+Cloze,"Ang {{c1::Packagist}} ay ang default package repository ng Composer.",,Packagist
+Cloze,"Ang {{c1::vendor}} directory ay kung saan naka-install ang lahat ng dependencies.",,vendor
+Cloze,"Ang {{c1::composer dump-autoload}} ay nagre-rebuild ng autoloader files pagkatapos magdagdag ng bagong classes.",,composer dump-autoload
+Cloze,"Ang {{c1::service container}} sa Laravel ay humahawak ng dependency injection at class resolution.",,service container
+Cloze,"Ang {{c1::service provider}} ay ang lugar kung saan nirerehistro ang bindings, events, at services sa Laravel.",,service provider
+Cloze,"Ang {{c1::facade}} ay nagbibigay ng static-like interface sa isang service sa container.",,facade
+Cloze,"Ang {{c1::singleton}} binding ay nagsisiguro na isang instance lang ng class ang shared sa buong application.",,singleton
+Cloze,"Ang {{c1::app()}} helper ay ginagamit para i-resolve ang isang class mula sa container.",,app()
+Cloze,"Ang {{c1::bind()}} ay nagre-rehistro ng bagong instance kada resolve, habang ang {{c2::singleton()}} ay isang shared instance lang.",,bind()/singleton()
+Cloze,"Ang {{c1::register}} method ng service provider ay ginagamit para i-bind ang dependencies sa container.",,register
+Cloze,"Ang {{c1::boot}} method ng service provider ay ginagamit para mag-run ng code pagkatapos ma-register ang lahat ng providers.",,boot
+Cloze,"Ang {{c1::middleware}} ay nagpapa-filter o nagmo-modify ng HTTP requests bago sila makarating sa controller.",,middleware
+Cloze,"Ang {{c1::request lifecycle}} ay ang buong flow ng request mula sa entry point hanggang sa pag-return ng response.",,request lifecycle
+Cloze,"Ang {{c1::kernel}} ay nagha-handle ng HTTP requests at ang nagpo-proseso ng middleware stack.",,kernel
+Cloze,"Ang {{c1::route middleware}} ay naka-attach sa isang partikular na route o route group.",,route middleware
+Cloze,"Ang {{c1::$next($request)}} sa middleware ay nagpapasa ng request sa susunod na middleware o sa controller.",,$next($request)
+Cloze,"Ang {{c1::before}} middleware ay nagrurun bago ang request, habang ang {{c2::after}} middleware ay pagkatapos ng response.",,before/after
+Cloze,"Ang {{c1::public/index.php}} ay ang entry point ng bawat HTTP request sa Laravel.",,public/index.php
+Cloze,"Ang {{c1::HandleCors}} ay isang global middleware na humahawak ng cross-origin resource sharing.",,HandleCors
+Cloze,"Ang {{c1::eager loading}} ay ang pag-load ng relationships nang sabay-sabay para maiwasan ang N+1 query problem.",,eager loading
+Cloze,"Ang {{c1::N+1 problem}} ay nangyayari kapag nag-query ka ng isang beses para sa parent, tapos isang beses pa bawat child.",,N+1 problem
+Cloze,"Ang {{c1::model events}} (creating, created, saving, saved) ay mga hooks na nagrurun sa iba't ibang point ng model lifecycle.",,model events
+Cloze,"Ang {{c1::casts}} ay nagko-convert ng attribute values sa tamang PHP types (e.g. array, date, boolean).",,casts
+Cloze,"Ang {{c1::scope}} ay isang method na nagre-reuse ng query constraints sa Eloquent.",,scope
+Cloze,"Ang {{c1::hasMany}} relationship ay ang one-to-many na relasyon sa pagitan ng dalawang models.",,hasMany
+Cloze,"Ang {{c1::belongsTo}} relationship ay ang inverse ng hasMany.",,belongsTo
+Cloze,"Ang {{c1::with()}} method ay ginagamit para mag-eager load ng relationships.",,with()
+Cloze,"Ang {{c1::local scope}} ay tinatawag bilang query constraint, habang ang {{c2::global scope}} ay awtomatikong inaapply sa lahat ng queries.",,local/global scope
+Cloze,"Ang {{c1::Query Builder}} ay ang Laravel interface para gumawa ng SQL queries nang hindi sumusulat ng raw SQL.",,Query Builder
+Cloze,"Ang {{c1::DB::transaction()}} ay nagwawrap ng maraming operations para mag-succeed o mag-rollback lahat.",,DB::transaction()
+Cloze,"Ang {{c1::pessimistic locking}} (lockForUpdate) ay nagla-lock ng rows para maiwasan ang concurrent modification.",,pessimistic locking
+Cloze,"Ang {{c1::EXPLAIN}} ay ginagamit para makita kung paano ginagawa ng database ang isang query.",,EXPLAIN
+Cloze,"Ang {{c1::index}} ay ang database structure na nagpapabilis ng row retrieval sa isang column.",,index
+Cloze,"Ang {{c1::deadlock}} ay nangyayari kapag ang dalawang transactions ay naghihintay sa isa't isa para sa locks.",,deadlock
+Cloze,"Ang {{c1::raw query}} ay ginagawa gamit ang DB::select(), DB::insert(), o DB::statement().",,raw query
+Cloze,"Ang {{c1::chunk}} ay ginagamit para mag-proseso ng malalaking result sets nang paunti-unti.",,chunk
+Cloze,"Ang {{c1::queues}} ay nagde-defer ng time-consuming tasks para hindi ma-block ang request.",,queues
+Cloze,"Ang {{c1::job}} ay isang class na naglalaman ng task na pinoproseso ng queue worker.",,job
+Cloze,"Ang {{c1::queue worker}} ay isang process na tumatakbo sa background para i-process ang jobs.",,queue worker
+Cloze,"Ang {{c1::dispatch}} ay ang paraan para i-queue ang isang job para sa background processing.",,dispatch
+Cloze,"Ang {{c1::scheduler}} (schedule command) ay nagrurun ng mga task sa tinukoy na interval gamit ang cron.",,scheduler
+Cloze,"Ang {{c1::events}} ay ginagamit para i-notify ang ibang bahagi ng app kapag may nangyaring action.",,events
+Cloze,"Ang {{c1::listener}} ay ang tumutugon kapag may na-dispatch na event.",,listener
+Cloze,"Ang {{c1::observer}} ay tumutugon sa model events (created, updated, deleted) nang awtomatiko.",,observer
+Cloze,"Ang {{c1::failed_jobs}} table ay nag-iimbak ng jobs na paulit-ulit na nag-fail.",,failed_jobs
+Cloze,"Ang {{c1::retry}} ay ang process ng pag-reprocess ng failed jobs pagkatapos i-fix ang issue.",,retry
+Cloze,"Ang {{c1::Notifications}} ay ginagamit para magpadala ng mga paalala sa user sa pamamagitan ng email, SMS, o database.",,Notifications
+Cloze,"Ang {{c1::mailable}} ay isang class na kumakatawan sa isang email na may format at data nito.",,mailable
+Cloze,"Ang {{c1::filesystem}} ay nag-abstract ng file storage sa iba't ibang drivers (local, S3, FTP).",,filesystem
+Cloze,"Ang {{c1::Storage}} facade ay ginagamit para mag-upload, mag-download, at mag-manage ng files.",,Storage
+Cloze,"Ang {{c1::S3}} ay ang cloud object storage service na ginagamit ng Laravel para sa scalable file storage.",,S3
+Cloze,"Ang {{c1::via()}} method ng notification ay nag-specify kung saang channels ipapadala.",,via()
+Cloze,"Ang {{c1::toMail()}} method ng notification ay nag-define ng email na ipapadala.",,toMail()
+Cloze,"Ang {{c1::database channel}} ay nagse-save ng notification sa database para ipakita sa user.",,database channel
+Cloze,"Ang {{c1::Broadcasting}} ay ginagamit para magpadala ng real-time updates sa client gamit ang WebSockets.",,Broadcasting
+Cloze,"Ang {{c1::WebSockets}} ay nagbibigay ng bidirectional na real-time na komunikasyon sa pagitan ng server at client.",,WebSockets
+Cloze,"Ang {{c1::Pusher}} ay isang third-party na WebSocket service na ginagamit ng Laravel broadcasting.",,Pusher
+Cloze,"Ang {{c1::Reverb}} ay ang built-in na WebSocket server ng Laravel na walang third-party dependency.",,Reverb
+Cloze,"Ang {{c1::channel}} ay ang ruta kung saan naka-broadcast ang mga events sa clients.",,channel
+Cloze,"Ang {{c1::Broadcast::channel}} ay nagde-define kung sino ang pwedeng makinig sa isang channel.",,Broadcast::channel
+Cloze,"Ang {{c1::Livewire}} ay isang full-stack framework para sa dynamic na UI gamit ang PHP lamang.",,Livewire
+Cloze,"Ang {{c1::shouldBroadcast}} ay nagko-control kung i-broadcast ba ang event sa frontend.",,shouldBroadcast
+Cloze,"Ang {{c1::presence channel}} ay nagbibigay ng info kung sino ang currently connected sa channel.",,presence channel
+Cloze,"Ang {{c1::normalization}} ay ang process ng pag-organize ng database para mabawasan ang data redundancy at dependency.",,normalization
+Cloze,"Ang {{c1::denormalization}} ay ang deliberate na pag-keep ng duplicate data para mapabilis ang reads.",,denormalization
+Cloze,"Ang {{c1::1NF}} ay nagsisiguro na ang bawat column ay may atomic values at walang repeating groups.",,1NF
+Cloze,"Ang {{c1::2NF}} ay nagsisiguro na ang lahat ng non-key columns ay fully dependent sa primary key.",,2NF
+Cloze,"Ang {{c1::3NF}} ay nagsisiguro na walang transitive dependency sa pagitan ng non-key columns.",,3NF
+Cloze,"Ang {{c1::foreign key}} ay nagli-link ng isang table sa primary key ng ibang table para i-enforce ang relationships.",,foreign key
+Cloze,"Ang {{c1::data redundancy}} ay ang pag-imbak ng parehong data sa maraming lugar na pwedeng magdulot ng inconsistency.",,data redundancy
+Cloze,"Ang {{c1::write}} performance ang nag-improve kapag normalize, habang ang {{c2::read}} performance ang bumibilis kapag denormalize.",,write/read
+Cloze,"Ang {{c1::index}} ay isang database structure na nagpapabilis ng SELECT queries pero nagpapabagal ng INSERT/UPDATE.",,index
+Cloze,"Ang {{c1::composite index}} ay isang index na binubuo ng dalawa o higit pang columns.",,composite index
+Cloze,"Ang {{c1::covering index}} ay isang index na naglalaman ng lahat ng columns na kailangan ng query, kaya hindi na kailangan i-access ang table.",,covering index
+Cloze,"Ang {{c1::leftmost prefix}} rule ay nagsasabi na dapat magsimula sa pinakaunang column ng composite index ang query.",,leftmost prefix
+Cloze,"Ang {{c1::selectivity}} ay tumutukoy kung gaano ka-unique ang values ng isang column — mas mataas ang better para sa index.",,selectivity
+Cloze,"Ang {{c1::unique index}} ay nag-e-enforce na walang duplicate values sa column.",,unique index
+Cloze,"Ang {{c1::full table scan}} ay ang pag-scan ng buong table kapag walang magamit na index — mabagal sa malalaking tables.",,full table scan
+Cloze,"Ang {{c1::cardinality}} ay ang bilang ng distinct values sa isang index column.",,cardinality
+Cloze,"Ang {{c1::window functions}} ay nagco-compute ng value batay sa isang set ng rows nang hindi nag-grupo sa iisang row.",,window functions
+Cloze,"Ang {{c1::ROW_NUMBER()}} ay isang window function na nag-a-assign ng sequential number kada row sa isang partition.",,ROW_NUMBER()
+Cloze,"Ang {{c1::RANK()}} ay nagbibigay ng position ng bawat row, na may parehong rank para sa magkaparehong values.",,RANK()
+Cloze,"Ang {{c1::LAG()}} ay nag-a-access ng nakaraang row value, habang ang {{c2::LEAD()}} ay ang susunod na row.",,LAG()/LEAD()
+Cloze,"Ang {{c1::CTE}} (Common Table Expression) ay isang temporary result set na maaaring i-reference sa isang query gamit ang WITH.",,CTE
+Cloze,"Ang {{c1::WITH}} keyword ay ginagamit para i-define ang isang CTE.",,WITH
+Cloze,"Ang {{c1::JSON columns}} ay nagpapahintulot na mag-imbak ng structured data sa isang column.",,JSON
+Cloze,"Ang {{c1::recursive CTE}} ay isang CTE na tumutukoy sa sarili nito para i-traverse ang hierarchical data.",,recursive CTE
+Cloze,"Ang {{c1::PARTITION BY}} ay naghahati ng rows sa mga grupo para sa window function.",,PARTITION BY
+Cloze,"Ang {{c1::migrations}} ay version control para sa database schema ng Laravel.",,migrations
+Cloze,"Ang {{c1::seeder}} ay ginagamit para maglagay ng test o default data sa database.",,seeder
+Cloze,"Ang {{c1::factory}} ay isang class na nag-ge-generate ng fake data para sa models sa tests at seeders.",,factory
+Cloze,"Ang {{c1::up()}} method ng migration ay nag-aapply ng changes, habang ang {{c2::down()}} ay nagre-reverse nito.",,up()/down()
+Cloze,"Ang {{c1::php artisan migrate}} ay nagpapatakbo ng lahat ng pending migrations.",,php artisan migrate
+Cloze,"Ang {{c1::foreign key constraint}} ay nag-e-enforce na ang value ay dapat umiiral sa referenced table.",,foreign key constraint
+Cloze,"Ang {{c1::unique constraint}} ay nag-e-enforce na walang duplicate values sa column o set ng columns.",,unique constraint
+Cloze,"Ang {{c1::check constraint}} ay nag-validate na ang value ay sumusunod sa isang condition.",,check constraint
+Cloze,"Ang {{c1::cascade}} ay awtomatikong nagde-delete o nag-u-update ng child rows kapag nagbago ang parent.",,cascade
+Cloze,"Ang {{c1::Redis}} ay isang in-memory data store na ginagamit para sa caching, queues, at locks.",,Redis
+Cloze,"Ang {{c1::Memcached}} ay isang simple na distributed memory caching system na in-memory lang.",,Memcached
+Cloze,"Ang {{c1::cache tags}} ay nagbibigay ng label sa cache items para sabay-sabay na ma-invalidate.",,cache tags
+Cloze,"Ang {{c1::cache lock}} ay ginagamit para maiwasan ang concurrent execution ng isang critical section.",,cache lock
+Cloze,"Ang {{c1::rate limiting}} ay naglilimita sa dami ng requests na pwedeng gawin ng isang user o IP.",,rate limiting
+Cloze,"Ang {{c1::Cache facade}} ay ginagamit para mag-store at mag-retrieve ng cache items.",,Cache facade
+Cloze,"Ang {{c1::CACHE_DRIVER}} env variable ay nagko-control kung aling driver ang ginagamit (redis, file, database).",,CACHE_DRIVER
+Cloze,"Ang {{c1::ThrottleRequests}} middleware ay nag-i-implement ng rate limiting sa routes.",,ThrottleRequests
+Cloze,"Sa {{c1::cache-aside}} strategy, sinusuri muna ang cache; kapag miss, kinukuha sa database at inilalagay sa cache.",,cache-aside
+Cloze,"Sa {{c1::write-through}} strategy, ang data ay sinisulat sa cache at database nang sabay.",,write-through
+Cloze,"Sa {{c1::write-back}} strategy, ang data ay isinusulat muna sa cache at pagkatapos lang i-flush sa database.",,write-back
+Cloze,"Ang {{c1::cache invalidation}} ay ang process ng pag-alis o pag-update ng stale data sa cache.",,cache invalidation
+Cloze,"Ang {{c1::cache stampede}} ay nangyayari kapag maraming requests ang sabay-sabay na mag-rebuild ng expired cache.",,cache stampede
+Cloze,"Ang {{c1::TTL}} (Time To Live) ay nag-specify kung gaano katagal mananatili ang cache item.",,TTL
+Cloze,"Ang {{c1::Cache::forget()}} ay ginagamit para tanggalin ang isang cache item nang manu-mano.",,Cache::forget()
+Cloze,"Ang {{c1::Cache::remember}} ay gumagamit ng {{c2::cache-aside}} pattern sa likod nito.",,Cache::remember
+Cloze,"Ang {{c1::HTTP caching}} ay nagco-cache ng HTTP responses sa browser o proxy para mabawasan ang server requests.",,HTTP caching
+Cloze,"Ang {{c1::Cache-Control}} header ay nag-uutos sa browser kung gaano katagal i-cache ang response.",,Cache-Control
+Cloze,"Ang {{c1::ETag}} ay isang validator na ginagamit para i-check kung nagbago ba ang resource.",,ETag
+Cloze,"Ang {{c1::OPcache}} ay nagco-compile ng PHP bytecode para mabilis ang execution sa mga repeat requests.",,OPcache
+Cloze,"Ang {{c1::page caching}} ay ang pag-save ng buong rendered HTML para ma-serve nang hindi na mag-run ang PHP.",,page caching
+Cloze,"Ang {{c1::asset optimization}} ay ang pag-minify at pag-compress ng CSS/JS files para mas mabilis ma-load.",,asset optimization
+Cloze,"Ang {{c1::Laravel Mix}} o {{c2::Vite}} ay ginagamit para mag-build at mag-minify ng assets.",,Mix/Vite
+Cloze,"Ang {{c1::public cache}} (CDN) ay nag-iimbak ng static responses para ma-serve malapit sa user.",,public cache
+Cloze,"Ang {{c1::Laravel Debugbar}} ay nagpapakita ng queries, memory usage, at execution time sa development.",,Laravel Debugbar
+Cloze,"Ang {{c1::Xdebug}} ay isang PHP extension para sa step debugging at profiling.",,Xdebug
+Cloze,"Ang {{c1::Blackfire}} ay isang profiler na nagpapakita ng performance bottlenecks ng app.",,Blackfire
+Cloze,"Ang {{c1::Laravel Telescope}} ay nagbibigay ng insight sa requests, queries, jobs, at exceptions ng app.",,Laravel Telescope
+Cloze,"Ang {{c1::Query Monitor}} ay nagco-cover ng mga slow queries at duplicate queries sa app.",,Query Monitor
+Cloze,"Ang {{c1::profiling}} ay ang process ng pag-measure kung saan ginugugol ang time at resources.",,profiling
+Cloze,"Ang {{c1::slow query log}} ay nagre-record ng mga queries na lumampas sa tinakdang tagal.",,slow query log
+Cloze,"Ang {{c1::callgrind}} o {{c2::profile}} file ay ang output ng profiler na naglalaman ng performance data.",,callgrind/profile
+Cloze,"Ang {{c1::REST}} ay isang architectural style na gumagamit ng HTTP methods para sa CRUD operations.",,REST
+Cloze,"Sa {{c1::RESTful}} API, ang GET ay para magbasa, POST para gumawa, PUT/PATCH para mag-update, at DELETE para mag-alis.",,RESTful
+Cloze,"Ang {{c1::resource}} sa REST ay ang entity na mina-manipulate (e.g. /users, /posts).",,resource
+Cloze,"Ang {{c1::API versioning}} ay ginagawa gamit ang URL (/api/v1/users) o Accept header para hindi masira ang existing clients.",,API versioning
+Cloze,"Ang {{c1::pagination}} ay ang paghiwa-hiwalay ng malaking result set sa maliliit na pages.",,pagination
+Cloze,"Ang {{c1::API Resource}} ay nagko-convert ng models sa JSON format na maipapadala sa API.",,API Resource
+Cloze,"Ang {{c1::HTTP status codes}} ay ang standardized na response codes (200 OK, 201 Created, 404 Not Found, 500 Server Error).",,HTTP status codes
+Cloze,"Ang {{c1::SPA}} (Single Page Application) ay kumokonekta sa backend gamit ang JSON API imbes na full page reloads.",,SPA
+Cloze,"Ang {{c1::query string}} (e.g. ?search=&page=2) ay ginagamit para sa filtering at pagination.",,query string
+Cloze,"Ang {{c1::RESTful verbs}} ay ang HTTP methods na GET, POST, PUT, PATCH, DELETE.",,HTTP methods
+Cloze,"Ang {{c1::authentication}} ay ang pagpapatunay kung sino ang user, habang ang {{c2::authorization}} ay kung ano ang pwedeng gawin.",,authentication/authorization
+Cloze,"Ang {{c1::Sanctum}} ay ang Laravel package para sa API token authentication na simple para sa SPAs at mobile apps.",,Sanctum
+Cloze,"Ang {{c1::Passport}} ay ang full OAuth2 server implementation ng Laravel.",,Passport
+Cloze,"Ang {{c1::JWT}} (JSON Web Token) ay isang self-contained token na may payload ng claims at signature.",,JWT
+Cloze,"Ang {{c1::Bearer token}} ay ang paraan ng pagpapadala ng token sa Authorization header.",,Bearer token
+Cloze,"Ang {{c1::OAuth2}} ay isang authorization framework na may authorization code at client credentials flows.",,OAuth2
+Cloze,"Ang {{c1::access token}} ay ang token na ginagamit para ma-access ang protected resources.",,access token
+Cloze,"Ang {{c1::refresh token}} ay ginagamit para makakuha ng bagong access token kapag nag-expire ito.",,refresh token
+Cloze,"Ang {{c1::CSRF}} protection ay hindi kinakailangan sa stateless API na gumagamit ng tokens.",,CSRF
+Cloze,"Ang {{c1::Spatie Permission}} ay isang package para sa roles at permissions management.",,Spatie Permission
+Cloze,"Ang {{c1::rate limiting}} ay naglilimita kung gaano karaming requests ang pwedeng gawin ng isang client sa isang window.",,rate limiting
+Cloze,"Ang {{c1::throttle}} middleware ay ang built-in na rate limiter ng Laravel.",,throttle
+Cloze,"Ang {{c1::idempotency}} ay nangangahulugan na ang paulit-ulit na same request ay may iisang resulta lang.",,idempotency
+Cloze,"Ang {{c1::idempotency key}} ay isang unique na identifier na ipinapadala ng client para maiwasan ang duplicate processing.",,idempotency key
+Cloze,"Ang {{c1::webhook}} ay isang HTTP callback na awtomatikong ipinapadala ng isang service kapag may event.",,webhook
+Cloze,"Ang {{c1::signature validation}} ay nagve-verify na ang webhook ay tunay na galing sa source at hindi binago.",,signature validation
+Cloze,"Ang {{c1::retry}} sa webhook ay ang awtomatikong muling pagpapadala ng event kapag nag-fail ang delivery.",,retry
+Cloze,"Ang {{c1::429 Too Many Requests}} ay ang status code kapag lumampas na sa rate limit.",,429
+Cloze,"Ang {{c1::HMAC}} signature ay ginagamit para i-sign ang webhook payload para ma-verify ang authenticity.",,HMAC
+Cloze,"Ang {{c1::webhook endpoint}} ay ang URL sa iyong app kung saan ipinapadala ng service ang webhook.",,webhook endpoint
+Cloze,"Ang {{c1::third-party integration}} ay ang pagkokonekta sa external services (payment, SMS, maps) gamit ang kanilang APIs.",,third-party integration
+Cloze,"Ang {{c1::payment gateway}} ay isang service na humahawak ng pagproseso ng payments (Stripe, PayPal, PayMongo).",,payment gateway
+Cloze,"Ang {{c1::SDK}} ay ang library na ibinibigay ng isang service para mas madaling ma-integrate ang kanilang API.",,SDK
+Cloze,"Ang {{c1::API key}} ay ang credential na ginagamit para i-authenticate sa third-party API.",,API key
+Cloze,"Ang {{c1::webhook signature}} ay ang HMAC signature na nagpapatunay na ang event ay tunay na galing sa source.",,webhook signature
+Cloze,"Ang {{c1::payment intent}} ay ang representasyon ng isang payment transaction sa modern payment APIs.",,payment intent
+Cloze,"Ang {{c1::sandbox}} ay ang test environment ng isang payment gateway para sa development.",,sandbox
+Cloze,"Ang {{c1::client_id at client_secret}} ay ginagamit para i-authenticate ang integration sa OAuth-based services.",,client credentials
+Cloze,"Ang {{c1::webhook secret}} ay ginagamit para ma-verify ang signature ng incoming webhooks.",,webhook secret
+Cloze,"Ang {{c1::refund}} ay ang pagbabalik ng payment sa customer sa pamamagitan ng gateway API.",,refund
+Cloze,"Ang {{c1::XSS}} o Cross-Site Scripting ay isang attack kung saan nag-iinject ang attacker ng malicious scripts sa web pages na binabrowse ng ibang users.",,XSS
+Cloze,"Ang {{c1::SQL Injection}} ay isang attack kung saan nag-iinject ang attacker ng SQL commands sa input fields para ma-access o ma-manipulate ang database.",,SQL Injection
+Cloze,"Ang {{c1::CSRF}} o Cross-Site Request Forgery ay isang attack na nagpapanggap na ang legitimate user ay nagfa-flashback request mula sa ibang site.",,CSRF
+Cloze,"Ang {{c1::SSRF}} o Server-Side Request Forgery ay isang attack kung saan pinipilit ang server na mag-send ng requests sa internal resources.",,SSRF
+Cloze,"Ang {{c1::IDOR}} o Insecure Direct Object Reference ay vulnerability kung saan ma-a-access ng user ang mga resources ng iba gamit ang direct URL manipulation.",,IDOR
+Cloze,"Ang {{c1::mass assignment}} ay vulnerability kung saan malayang na-assign ng user ang mga protected model attributes sa Laravel.",,mass assignment
+Cloze,"Ang {{c1::$fillable}} property sa Laravel model ay ang listahan ng fields na pinapayagan na i-mass assign.",,$fillable
+Cloze,"Ang {{c1::token}} na CSRF token ay ginagamit para protektahan ang mga forms laban sa CSRF attacks sa Laravel.",,CSRF token
+Cloze,"Ang {{c1::htmlspecialchars()}} function ay ginagamit para i-sanitize ang user input at maiwasan ang XSS attacks.",,htmlspecialchars
+Cloze,"Ang {{c1::prepared statements}} ay ang tamang paraan para maiwasan ang SQL injection sa Laravel gamit ang Query Builder o Eloquent.",,prepared statements
+Cloze,"Ang {{c1::Content Security Policy}} ay isang HTTP header na tumutulong maiwasan ang XSS attacks sa pamamagitan ng pag-limit sa mga allowed resources.",,Content Security Policy
+Cloze,"Ang {{c1::Authentication}} (AuthN) ay ang proseso ng pag-verify kung sino ang user — pag-confirm ng identity.",,Authentication
+Cloze,"Ang {{c1::Authorization}} (AuthZ) ay ang proseso ng pag-determine kung ano ang pwedeng gawin ng user pagkatapos ma-authenticate.",,Authorization
+Cloze,"Ang {{c1::Spatie Laravel Permission}} ay isang package na nag-a-add ng roles at permissions system sa Laravel.",,Spatie Laravel Permission
+Cloze,"Ang {{c1::Gate}} sa Laravel ay isang simple authorization mechanism para sa single-action checks.",,Gate
+Cloze,"Ang {{c1::Policy}} sa Laravel ay isang class na nag-determine kung may permission ang user na gawin ang isang action sa specific model.",,Policy
+Cloze,"Ang {{c1::role}} sa Spatie permission ay isang collection ng permissions na naka-assign sa isang user.",,role
+Cloze,"Ang {{c1::permission}} sa Spatie ay ang specific na action na pinapayagan (ex. edit-post, delete-user).",,permission
+Cloze,"Ang {{c1::blade directive}} na @can at @cannot ay ginagamit para mag-check ng authorization sa Blade templates.",,@can
+Cloze,"Ang {{c1::$this->authorize()}} method ay ginagamit sa Laravel controllers para mag-check ng permission bago mag-execute ng action.",,$this->authorize()
+Cloze,"Ang {{c1::multiple gates}} or policies ay maaaring i-combine gamit ang Gate::after() para sa complex authorization logic.",,Gate::after()
+Cloze,"Ang {{c1::secrets management}} ay ang proseso ng secure na pag-iimbak at pag-handle ng sensitive data tulad ng API keys, passwords, at tokens.",,secrets management
+Cloze,"Ang {{c1::.env}} file sa Laravel ay ginagamit para mag-imbak ng secrets at configuration na hindi dapat naka-commit sa version control.",,.env
+Cloze,"Ang {{c1::encryption}} ay ang proseso ng pag-convert ng readable data sa unreadable format para sa security.",,encryption
+Cloze,"Ang {{c1::APP_KEY}} sa Laravel ay ang secret key na ginagamit para mag-encrypt at decrypt ng data.",,APP_KEY
+Cloze,"Ang {{c1::Crypt facade}} sa Laravel ay ginagamit para mag-encrypt at decrypt ng values gamit ang AES-256.",,Crypt facade
+Cloze,"Ang {{c1::Hash facade}} ay ginagamit para mag-hash ng passwords at sensitive data na hindi dapat i-reverse.",,Hash facade
+Cloze,"Ang {{c1::encryption at rest}} ay ang pag-protect ng data habang naka-imbak sa database o files.",,encryption at rest
+Cloze,"Ang {{c1::encryption in transit}} ay ang pag-protect ng data habang nagta-travel sa network gamit ang TLS/SSL.",,encryption in transit
+Cloze,"Ang {{c1::vault}} ay isang secrets management tool na nag-iimbak ng sensitive credentials sa isang secure centralized location.",,vault
+Cloze,"Ang {{c1::never commit}} ang .env file o anumang file na naglalaman ng secrets sa git repository.",,never commit
+Cloze,"Ang {{c1::logging}} ay ang proseso ng pag-record ng events at errors para sa debugging at monitoring.",,logging
+Cloze,"Ang {{c1::Log facade}} sa Laravel ay ginagamit para mag-log ng messages sa iba't ibang levels (info, warning, error).",,Log facade
+Cloze,"Ang {{c1::auditing}} ay ang pag-track ng changes sa data para sa compliance at security purposes.",,auditing
+Cloze,"Ang {{c1::input validation}} ay ang proseso ng pag-check kung ang user input ay sumusunod sa expected format at rules.",,input validation
+Cloze,"Ang {{c1::input sanitization}} ay ang proseso ng paglinis ng user input para maalis ang malicious content.",,input sanitization
+Cloze,"Ang {{c1::validated()}} method sa Laravel request ay nag-e-ensure na ang incoming data ay pasado sa validation rules bago i-access.",,validated()
+Cloze,"Ang {{c1::FormRequest}} sa Laravel ay isang dedicated class para sa complex validation logic na naka-separate sa controller.",,FormRequest
+Cloze,"Ang {{c1::Sentry}} ay isang error tracking service na nagmo-monitor at nagno-notify ng exceptions sa real-time.",,Sentry
+Cloze,"Ang {{c1::Telescope}} ay ang built-in debugging assistant ng Laravel para sa monitoring ng requests, exceptions, at queries.",,Telescope
+Cloze,"Ang {{c1::structured logging}} ay ang pag-log ng data sa JSON format para mas madaling i-parse at analyze.",,structured logging
+Cloze,"Ang {{c1::unit test}} ay isang test na nag-i-isolate ng maliliit na bahagi ng code (functions, methods) para i-verify ang kanilang behavior nang mag-isa.",,unit test
+Cloze,"Ang {{c1::feature test}} ay isang test na nag-te-test ng buong workflow o feature mula request hanggang response.",,feature test
+Cloze,"Ang {{c1::integration test}} ay isang test na nag-ve-verify kung paano nagko-work together ang iba't ibang components ng application.",,integration test
+Cloze,"Ang {{c1::test case}} ay ang individual na unit of testing na naglalaman ng test methods at assertions.",,test case
+Cloze,"Ang {{c1::assertion}} ay ang statement na nagche-check kung ang actual result ay tumutugma sa expected result.",,assertion
+Cloze,"Ang {{c1::test suite}} ay ang collection ng test cases na pinapatakbo bilang isang grupo.",,test suite
+Cloze,"Ang {{c1::red-green-refactor}} ay ang core cycle ng TDD — muna mag-fail (red), pagkatapos mag-pass (green), pagkatapos i-improve (refactor).",,red-green-refactor
+Cloze,"Ang {{c1::mock}} ay isang fake object na ginagamit para i-simulate ang behavior ng totoong objects sa tests.",,mock
+Cloze,"Ang {{c1::stub}} ay isang simplified version ng object na nagbibigay ng fixed responses sa tests.",,stub
+Cloze,"Ang {{c1::code coverage}} ay ang percentage ng codebase na na-cover ng tests.",,code coverage
+Cloze,"Ang {{c1::PHPUnit}} ay ang testing framework na ginagamit ng Laravel para sa lahat ng tests.",,PHPUnit
+Cloze,"Ang {{c1::Pest}} ay isang modern testing framework na built on top of PHPUnit na may mas clean na syntax.",,Pest
+Cloze,"Ang {{c1::TestCase}} ay ang base class ng lahat ng tests sa Laravel na nagbibigay ng convenient testing methods.",,TestCase
+Cloze,"Ang {{c1::RefreshDatabase}} trait ay nagre-refresh ang database schema sa bawat test para sa clean state.",,RefreshDatabase
+Cloze,"Ang {{c1::DatabaseMigrations}} trait ay nagra-run ang migrations sa bawat test pero hindi nagre-refresh.",,DatabaseMigrations
+Cloze,"Ang {{c1::factory}} ay isang blueprint para sa pag-generate ng fake model data sa tests.",,factory
+Cloze,"Ang {{c1::artisan make:model User -m}} command ay nagcre-create ng model at migration na magkasama.",,make:model
+Cloze,"Ang {{c1::assertDatabaseHas()}} method ay nagche-check kung may record sa database na tumutugma sa given data.",,assertDatabaseHas
+Cloze,"Ang {{c1::assertStatus()}} method ay nagche-check kung ang HTTP response ay may tamang status code.",,assertStatus
+Cloze,"Ang {{c1::mocking}} ay ang proseso ng paglikha ng fake objects na nag-i-imitate ng totoong behavior para sa testing.",,mocking
+Cloze,"Ang {{c1::Mail::fake()}} ay ginagamit para i-prevent ang totoong pag-send ng emails habang nagte-test.",,Mail::fake()
+Cloze,"Ang {{c1::Queue::fake()}} ay ginagamit para i-prevent ang totoong pag-queue ng jobs habang nagte-test.",,Queue::fake()
+Cloze,"Ang {{c1::Event::fake()}} ay ginagamit para i-capture at i-assert ang mga fired events sa tests.",,Event::fake()
+Cloze,"Ang {{c1::Http::fake()}} ay ginagamit para i-mock ang HTTP requests sa external APIs sa tests.",,Http::fake()
+Cloze,"Ang {{c1::Storage::fake()}} ay ginagamit para i-mock ang filesystem operations sa tests.",,Storage::fake()
+Cloze,"Ang {{c1::actingAs()}} method ay ginagamit para i-simulate na ang authenticated user ay gumagawa ng request.",,actingAs()
+Cloze,"Ang {{c1::assertSentTo()}} method ay nagche-check kung na-send ang email sa tamang recipient.",,assertSentTo()
+Cloze,"Ang {{c1::TDD}} o Test-Driven Development ay isang approach kung saan ginagawa muna ang tests bago ang actual na code.",,TDD
+Cloze,"Ang {{c1::coverage report}} ay ang generated report na nagpapakita kung aling bahagi ng code ang na-test.",,coverage report
+Cloze,"Ang {{c1::CI}} o Continuous Integration ay ang automated na pag-run ng tests sa bawat code change o commit.",,CI
+Cloze,"Ang {{c1::GitHub Actions}} ay isang CI/CD tool na ginagamit para mag-automate ng testing at deployment.",,GitHub Actions
+Cloze,"Ang {{c1::assertion methods}} sa PHPUnit ay ang mga paraan para i-verify ang expected outcomes (assertEquals, assertTrue, etc.).",,assertion methods
+Cloze,"Ang {{c1::data provider}} ay isang method na nagbibigay ng multiple data sets para sa isang test method.",,data provider
+Cloze,"Ang {{c1::test doubles}} ay ang generic term para sa mga fake objects na ginagamit sa testing (mocks, stubs, fakes).",,test doubles
+Cloze,"Ang {{c1::mutation testing}} ay isang technique na nagmo-modify ng code para i-check kung epektibo ang tests.",,mutation testing
+Cloze,"Ang {{c1::layered architecture}} ay isang design pattern kung saan hinihiwalay ang application sa distinct layers (presentation, business, data).",,layered architecture
+Cloze,"Ang {{c1::service layer}} ay isang layer na nag-e-encapsulate ng business logic sa loob ng services na hiwalay sa controllers.",,service layer
+Cloze,"Ang {{c1::clean architecture}} ay isang design approach na naglalagay ng business logic sa gitna at pinaliit ang external dependencies.",,clean architecture
+Cloze,"Ang {{c1::domain layer}} sa clean architecture ay naglalaman ng business rules at entities na walang external dependencies.",,domain layer
+Cloze,"Ang {{c1::use case}} ay isang class na nag-e-encapsulate ng specific na business operation o action.",,use case
+Cloze,"Ang {{c1::repository pattern}} ay isang abstraction layer sa pagitan ng business logic at data access layer.",,repository pattern
+Cloze,"Ang {{c1::dependency inversion}} ay ang principle kung saan ang high-level modules ay hindi depend sa low-level modules — pareho silang depend sa abstraction.",,dependency inversion
+Cloze,"Ang {{c1::controller}} sa Laravel ay dapat manipulahin lang ang HTTP request at i-delegate ang business logic sa services.",,controller
+Cloze,"Ang {{c1::DTO}} o Data Transfer Object ay isang object na nagdadala ng data sa pagitan ng layers nang walang behavior.",,DTO
+Cloze,"Ang {{c1::single responsibility}} principle ay ang isang class ay may iisang responsibility lang.",,single responsibility
+Cloze,"Ang {{c1::refactoring}} ay ang proseso ng pagpapabuti ng internal na structure ng code nang hindi nagbabago ng external behavior.",,refactoring
+Cloze,"Ang {{c1::code review}} ay ang proseso ng pag-examine ng code ng ibang developer para sa quality, correctness, at best practices.",,code review
+Cloze,"Ang {{c1::technical debt}} ay ang implied cost ng rework na dulot ng pagpili ng madaling solusyon sa halip na tamang approach.",,technical debt
+Cloze,"Ang {{c1::extract method}} refactoring ay ang pagkuha ng code snippet at paggawa ng bagong method para dito.",,extract method
+Cloze,"Ang {{c1::rename}} refactoring ay ang pagbabago ng pangalan ng variable, method, o class para sa mas malinaw na code.",,rename
+Cloze,"Ang {{c1::code smell}} ay ang sign sa code na nagpapahiwatig ng mas malalim na problema sa design.",,code smell
+Cloze,"Ang {{c1::DRY}} o Don't Repeat Yourself ay ang principle na huwag mag-duplicate ng logic — gumawa ng reusable code.",,DRY
+Cloze,"Ang {{c1::KISS}} o Keep It Simple, Stupid ay ang principle na panatilihing simple ang code hangga't maaari.",,KISS
+Cloze,"Ang {{c1::YAGNI}} o You Ain't Gonna Need It ay ang principle na huwag gumawa ng functionality na hindi pa kailangan.",,YAGNI
+Cloze,"Ang {{c1::modular architecture}} ay isang design approach kung saan hinahati ang application sa independent, interchangeable modules.",,modular architecture
+Cloze,"Ang {{c1::multi-tenancy}} ay ang ability ng isang application na mag-serve ng maraming tenants (customers) gamit ang iisang codebase.",,multi-tenancy
+Cloze,"Ang {{c1::tenant}} sa multi-tenant app ay ang individual na customer o organization na may sariling data.",,tenant
+Cloze,"Ang {{c1::database per tenant}} ay ang multi-tenancy strategy kung saan bawat tenant ay may sariling database.",,database per tenant
+Cloze,"Ang {{c1::shared database}} ay ang strategy kung saan nagsha-share ang lahat ng tenants ng iisang database pero may sariling tables.",,shared database
+Cloze,"Ang {{c1::schema per tenant}} ay ang strategy kung saan bawat tenant ay may sariling schema sa iisang database.",,schema per tenant
+Cloze,"Ang {{c1::Stancl/Tenancy}} ay isang Laravel package na nag-a-add ng multi-tenancy capabilities sa application.",,Stancl/Tenancy
+Cloze,"Ang {{c1::module}} sa Laravel ay isang self-contained package na may sariling routes, controllers, models, at config.",,module
+Cloze,"Ang {{c1::service provider}} ng module ay ang central na nagre-register ng lahat ng module bindings at configurations.",,service provider
+Cloze,"Ang {{c1::retry}} ay ang proseso ng pag-uulit ng isang failed operation para sa possible success.",,retry
+Cloze,"Ang {{c1::circuit breaker}} ay isang design pattern na nagpo-pause ng requests sa isang failing service para maiwasan ang cascade failure.",,circuit breaker
+Cloze,"Ang {{c1::graceful degradation}} ay ang ability ng system na magpatuloy sa pag-work kahit may ibang components na nag-fail.",,graceful degradation
+Cloze,"Ang {{c1::exponential backoff}} ay isang retry strategy kung saan ang pagitan ng retries ay unti-unting lumalaki.",,exponential backoff
+Cloze,"Ang {{c1::fallback}} ay ang alternative na response kapag nag-fail ang primary na operation.",,fallback
+Cloze,"Ang {{c1::timeout}} ay ang maximum na oras na hinintay bago i-consider na failed ang isang operation.",,timeout
+Cloze,"Ang {{c1::idempotent}} operation ay ang operation na pwedeng i-run nang maraming beses na may parehong result.",,idempotent
+Cloze,"Ang {{c1::bulkhead}} ay isang pattern na naghihiwalay ng resources para maiwasan ang cascade failure sa ibang parts ng system.",,bulkhead
+Cloze,"Ang {{c1::observability}} ay ang ability na mag-determine ng internal na state ng system gamit ang mga external outputs.",,observability
+Cloze,"Ang {{c1::structured logging}} ay ang pag-log ng data sa JSON format para sa madaling parsing at analysis.",,structured logging
+Cloze,"Ang {{c1::monitoring}} ay ang proseso ng pag-collect at pag-analyze ng metrics para masubaybayan ang health ng system.",,monitoring
+Cloze,"Ang {{c1::alerting}} ay ang system na nagno-notify ng admin kapag na-detect ang anomalies o threshold breaches.",,alerting
+Cloze,"Ang {{c1::Sentry}} ay isang error tracking platform na nagco-collect ng exceptions at nagbibigay ng real-time notifications.",,Sentry
+Cloze,"Ang {{c1::Laravel Telescope}} ay isang debugging assistant na nagmo-monitor ng requests, exceptions, queries, at more.",,Laravel Telescope
+Cloze,"Ang {{c1::metrics}} ay ang quantifiable data na nagpapakita ng performance at health ng application.",,metrics
+Cloze,"Ang {{c1::distributed tracing}} ay ang proseso ng pag-track ng requests sa pamamagitan ng maraming services o microservices.",,distributed tracing
+Cloze,"Ang {{c1::log level}} ay ang severity ng log message: debug, info, notice, warning, error, critical.",,log level
+Cloze,"Ang {{c1::health check}} ay isang endpoint na nagbabalik ng status ng application para sa monitoring.",,health check
+Cloze,"Ang {{c1::git flow}} ay isang branching strategy na may dedicated branches para sa features, releases, at hotfixes.",,git flow
+Cloze,"Ang {{c1::trunk-based development}} ay isang strategy kung saan lahat ay nag-co-commit sa iisang main branch.",,trunk-based development
+Cloze,"Ang {{c1::semantic versioning}} ay ang versioning format na Major.Minor.Patch (ex. 1.2.3) na nagpapahiwatig ng type ng changes.",,semantic versioning
+Cloze,"Ang {{c1::CI/CD}} o Continuous Integration/Continuous Deployment ay ang automated na pag-build, test, at deploy ng code.",,CI/CD
+Cloze,"Ang {{c1::pipeline}} sa CI/CD ay ang series of automated steps na tina-traverse ang code mula commit hanggang deployment.",,pipeline
+Cloze,"Ang {{c1::feature branch}} ay ang dedicated branch para sa pag-develop ng isang specific feature nang hindi na-aapektuhan ang main.",,feature branch
+Cloze,"Ang {{c1::pull request}} ay ang request para i-merge ang changes mula sa feature branch papunta sa main branch.",,pull request
+Cloze,"Ang {{c1::semantic release}} ay automated versioning na nagbabago ng version number base sa commit messages.",,semantic release
+Cloze,"Ang {{c1::conventional commits}} ay ang commit message format na nagsisimula sa type (feat, fix, chore) para sa automation.",,conventional commits
+Cloze,"Ang {{c1::Docker}} ay isang container platform na nagpa-package ng application at ang mga dependencies nito sa iisolated na containers.",,Docker
+Cloze,"Ang {{c1::container}} ay isang lightweight, standalone na executable package na naglalaman ng lahat para mag-run ang application.",,container
+Cloze,"Ang {{c1::Dockerfile}} ay ang file na naglalaman ng instructions para mag-build ng Docker image.",,Dockerfile
+Cloze,"Ang {{c1::docker-compose}} ay isang tool para mag-define at mag-run ng multi-container Docker applications.",,docker-compose
+Cloze,"Ang {{c1::image}} ay ang read-only na template na ginagamit para mag-create ng containers.",,image
+Cloze,"Ang {{c1::multi-stage build}} ay isang Dockerfile technique na nagre-reduce ng final image size gamit ang maraming build stages.",,multi-stage build
+Cloze,"Ang {{c1::volume}} sa Docker ay ang persistent storage na nagso-survive sa pag-delete ng containers.",,volume
+Cloze,"Ang {{c1::network}} sa Docker ay ang isolation layer na nagko-connect sa mga containers.",,network
+Cloze,"Ang {{c1::bind mount}} ay ang pag-share ng directory mula host machine papunta sa container.",,bind mount
+Cloze,"Ang {{c1::Nginx}} ay isang high-performance web server na ginagamit bilang reverse proxy para sa Laravel applications.",,Nginx
+Cloze,"Ang {{c1::PHP-FPM}} o FastCGI Process Manager ay ang process manager na nagpapatakbo ng PHP code sa production.",,PHP-FPM
+Cloze,"Ang {{c1::Supervisor}} ay isang process control system na nagmo-monitor at nagre-restart ng mga processes.",,Supervisor
+Cloze,"Ang {{c1::reverse proxy}} ay ang setup kung saan ang Nginx ang nagha-handle ng incoming requests at nagfo-forward sa PHP-FPM.",,reverse proxy
+Cloze,"Ang {{c1::server block}} sa Nginx ay ang configuration na nagde-define ng virtual host para sa isang domain.",,server block
+Cloze,"Ang {{c1::worker process}} sa PHP-FPM ay ang independent na process na nagpo-process ng PHP requests.",,worker process
+Cloze,"Ang {{c1::queue worker}} sa Supervisor ay ang long-running process na nagpro-process ng Laravel queues.",,queue worker
+Cloze,"Ang {{c1::load balancer}} ay ang device o software na nagdi-distribute ng traffic sa maraming servers.",,load balancer
+Cloze,"Ang {{c1::zero-downtime deployment}} ay ang deployment strategy na nagde-deploy ng bagong version nang hindi nagdo-down ang application.",,zero-downtime deployment
+Cloze,"Ang {{c1::blue-green deployment}} ay ang strategy kung saan may dalawang identical environments — blue (current) at green (new).",,blue-green deployment
+Cloze,"Ang {{c1::rolling deployment}} ay ang strategy kung saan unti-unting nirereplace ang old instances ng bagong version.",,rolling deployment
+Cloze,"Ang {{c1::rollback}} ay ang proseso ng pagbabalik sa nakaraang version kapag nag-fail ang deployment.",,rollback
+Cloze,"Ang {{c1::env config management}} ay ang proseso ng pag-manage ng environment-specific configurations para sa iba't ibang environments.",,env config management
+Cloze,"Ang {{c1::Laravel Forge}} ay isang server management tool na nag-a-automate ng deployment at server setup para sa Laravel.",,Laravel Forge
+Cloze,"Ang {{c1::Laravel Vapor}} ay ang serverless deployment platform ng Laravel na nagde-deploy sa AWS Lambda.",,Laravel Vapor
+Cloze,"Ang {{c1::artisan down}} at {{c1::artisan up}} commands ay ginagamit para i-enable at i-disable ang maintenance mode.",,artisan down/up
+Cloze,"Ang {{c1::load balancer}} ay isang hardware o software na nagdi-distribute ng incoming traffic sa multiple servers para sa scalability.",,load balancer
+Cloze,"Ang {{c1::auto-scaling}} ay ang automatic na pagdagdag o pagbawas ng server instances base sa traffic demand.",,auto-scaling
+Cloze,"Ang {{c1::CDN}} o Content Delivery Network ay isang network ng distributed servers na nagce-serve ng static content malapit sa user.",,CDN
+Cloze,"Ang {{c1::horizontal scaling}} ay ang pagdagdag ng mas maraming servers para mag-handle ng mas maraming traffic.",,horizontal scaling
+Cloze,"Ang {{c1::vertical scaling}} ay ang pag-upgrade ng existing server (mas RAM, CPU) para mag-handle ng mas maraming load.",,vertical scaling
+Cloze,"Ang {{c1::AWS}} o Amazon Web Services ay ang pinaka-popular na cloud provider na nagbibigay ng EC2, S3, RDS, at Lambda.",,AWS
+Cloze,"Ang {{c1::Cloudflare}} ay isang CDN at security provider na nagpo-protect at nagce-serve ng content.",,Cloudflare
+Cloze,"Ang {{c1::stateless application}} ay ang application na walang server-side session state, kaya pwedeng i-deploy sa kahit aling server.",,stateless application
+Cloze,"Ang {{c1::estimation}} ay ang proseso ng pagtantiya kung gaano katagal o kahirap ang isang development task.",,estimation
+Cloze,"Ang {{c1::scoping}} ay ang proseso ng pag-determine ng exactong scope ng isang feature o project.",,scoping
+Cloze,"Ang {{c1::story points}} ay ang relative estimation technique na nag-a-assign ng complexity value sa tasks.",,story points
+Cloze,"Ang {{c1::t-shirt sizing}} ay ang estimation method na gumagamit ng XS, S, M, L, XL para i-categorize ang task size.",,t-shirt sizing
+Cloze,"Ang {{c1::breakdown}} ay ang proseso ng pag-hati ng malaking task sa mas maliliit, manageable na subtasks.",,breakdown
+Cloze,"Ang {{c1::MVP}} o Minimum Viable Product ay ang pinakasimpleng version ng product na may enough features para mag-launch.",,MVP
+Cloze,"Ang {{c1::sprint}} sa Agile development ay ang fixed time period (1-2 weeks) kung saan ang team ay nagko-complete ng tasks.",,sprint
+Cloze,"Ang {{c1::backlog}} ay ang prioritized list ng lahat ng tasks at features na kailangan gawin.",,backlog
+Cloze,"Ang {{c1::ADR}} o Architecture Decision Record ay isang document na nagre-record ng mahahalagang architectural decisions.",,ADR
+Cloze,"Ang {{c1::technical documentation}} ay ang written na dokumento na nag-e-explain ng system design, APIs, at processes.",,technical documentation
+Cloze,"Ang {{c1::ADR format}} ay karaniwang may: Title, Status, Context, Decision, at Consequences.",,ADR format
+Cloze,"Ang {{c1::API documentation}} ay ang documentation na nag-e-explain ng endpoints, parameters, at responses ng API.",,API documentation
+Cloze,"Ang {{c1::README}} sa project ay ang unang documentation na binabasa ng developers para maintindihan ang project.",,README
+Cloze,"Ang {{c1::inline documentation}} ay ang comments at PHPDoc blocks sa code na nag-e-explain ng purpose ng code.",,inline documentation
+Cloze,"Ang {{c1::runbook}} ay ang step-by-step guide para sa operational tasks tulad ng deployments at incident response.",,runbook
+Cloze,"Ang {{c1::RFC}} o Request for Comments ay isang proposal document para sa bagong features o architectural changes.",,RFC
+Cloze,"Ang {{c1::defending technical decisions}} ay ang ability na magpaliwanag at mag-justify ng ginawang technical choices sa team.",,defending technical decisions
+Cloze,"Ang {{c1::code review}} ay ang collaborative na proseso ng pag-examine ng code ng kapwa developer para sa quality.",,code review
+Cloze,"Ang {{c1::constructive feedback}} ay ang code review approach na nagpo-point ng issues na may suggested solutions.",,constructive feedback
+Cloze,"Ang {{c1::trade-off}} ay ang proseso ng pag-recognize na ang bawat technical decision ay may advantages at disadvantages.",,trade-off
+Cloze,"Ang {{c1::communication style}} ay ang paraan ng pagpapaliwanag ng technical concepts na angkop sa audience.",,communication style
+Cloze,"Ang {{c1::documentation-first approach}} ay ang paggawa ng documentation bago o habang nagde-develop para sa clarity.",,documentation-first approach
+Cloze,"Ang {{c1::disagree and commit}} ay ang principle na mag-express ng concerns pero sumunod sa final decision ng team.",,disagree and commit
+Cloze,"Ang {{c1::patience}} sa code review ay ang pagbibigay ng oras para maintindihan ang context bago magbigay ng feedback.",,patience
+Cloze,"Ang {{c1::codebase navigation}} ay ang ability na mabilis na makahanap at maintindihan ang relevant na code sa isang malaking project.",,codebase navigation
+Cloze,"Ang {{c1::onboarding}} sa codebase ay ang proseso ng pag-aaral ng bagong developer tungkol sa architecture at conventions ng project.",,onboarding
+Cloze,"Ang {{c1::entry points}} sa Laravel ay ang mga file na nag-i-start ng flow: routes, controllers, commands, at providers.",,entry points
+Cloze,"Ang {{c1::dependency graph}} ay ang visualization ng kung paano nagko-connect ang mga classes at modules sa project.",,dependency graph
+Cloze,"Ang {{c1::git blame}} ay ang tool na nagpapakita kung sino ang nag-write ng bawat line at kung kailan.",,git blame
+Cloze,"Ang {{c1::git log}} ay ang command na nagpapakita ng history ng commits para maintindihan ang evolution ng code.",,git log
+Cloze,"Ang {{c1::search strategy}} ay ang systematic na approach sa paghanap ng code: gamitin ang grep, glob, at IDE features.",,search strategy
+Cloze,"Ang {{c1::test suite}} ay ang pinakamagandang documentation ng expected behavior ng codebase.",,test suite
+Cloze,"Ang {{c1::incident response}} ay ang structured na proseso ng pag-handle ng production issues at outages.",,incident response
+Cloze,"Ang {{c1::post-mortem}} ay isang document na nagre-review kung ano ang nangyari, bakit, at paano maiiwasan muli.",,post-mortem
+Cloze,"Ang {{c1::SLA}} o Service Level Agreement ay ang agreed-upon na target para sa uptime at response time.",,SLA
+Cloze,"Ang {{c1::on-call}} rotation ay ang schedule kung saan ang developers ay handang mag-respond sa incidents.",,on-call
+Cloze,"Ang {{c1::root cause analysis}} ay ang proseso ng paghanap ng tunay na dahilan ng problema, hindi lang ang symptoms.",,root cause analysis
+Cloze,"Ang {{c1::blameless post-mortem}} ay ang approach kung saan nakafocus sa systems at processes, hindi sa tao.",,blameless post-mortem
+Cloze,"Ang {{c1::incident timeline}} ay ang chronological narecord ng lahat ng actions at events during the incident.",,incident timeline
+Cloze,"Ang {{c1::action items}} sa post-mortem ay ang specific tasks para i-prevent ang recurrence ng issue.",,action items
