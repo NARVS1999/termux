@@ -1,0 +1,274 @@
+Cloze,"Ang {{c1::destructuring}} ay ang technique para i-extract ang values mula sa arrays o objects sa mga separate variables.",,destructuring
+Cloze,"Ang {{c1::spread operator}} (...) ay ginagamit para i-expand ang arrays o objects sa loob ng ibang arrays/objects.",,spread operator
+Cloze,"Ang {{c1::rest parameter}} (...) ay nagco-collect ng remaining elements sa isang array o object parameters.",,rest parameter
+Cloze,"Ang {{c1::template literals}} ay ang string syntax na gumagamit ng backticks (``) at ${} para sa variable interpolation.",,template literals
+Cloze,"Ang {{c1::arrow function}} ay ang shorter syntax para sa functions: const fn = (params) => expression.",,arrow function
+Cloze,"Ang {{c1::optional chaining}} (?.) ay nagre-return ng undefined kung ang property ay null o undefined, hindi nag-throw ng error.",,optional chaining
+Cloze,"Ang {{c1::nullish coalescing}} (??) ay nagre-return ng right-hand value kapag ang left ay null o undefined lang.",,nullish coalescing
+Cloze,"Ang {{c1::destructuring assignment}} ay maaaring gumamit ng default values: const {name = 'default'} = obj.",,destructuring assignment
+Cloze,"Ang {{c1::shorthand property}} ay ang paggamit ng variable name bilang object key: {name} instead of {name: name}.",,shorthand property
+Cloze,"Ang {{c1::map}} method ay nagte-transform ng bawat element sa array at nagre-return ng bagong array.",,map
+Cloze,"Ang {{c1::filter}} method ay nagre-return ng bagong array na naglalaman lang ng elements na pumasa sa condition.",,filter
+Cloze,"Ang {{c1::reduce}} method ay nagco-convert ng array sa isang single value gamit ang accumulator function.",,reduce
+Cloze,"Ang {{c1::find}} method ay nagre-return ng unang element na pumasa sa condition, o undefined kung wala.",,find
+Cloze,"Ang {{c1::some}} method ay nagre-return ng true kung kahit isang element ay pumasa sa condition.",,some
+Cloze,"Ang {{c1::every}} method ay nagre-return ng true kung lahat ng elements ay pumasa sa condition.",,every
+Cloze,"Ang {{c1::flat}} method ay nagpo-flatten ng nested arrays sa isang single level.",,flat
+Cloze,"Ang {{c1::flatMap}} method ay nag-a-apply ng map() pagkatapos nagfo-flatten ng isang level.",,flatMap
+Cloze,"Ang {{c1::chaining}} ay ang pag-sunod-sunod ng array methods: arr.filter().map().reduce().",,chaining
+Cloze,"Ang {{c1::Promise}} ay isang object na kumakatawan sa eventual completion o failure ng asynchronous operation.",,Promise
+Cloze,"Ang {{c1::async/await}} ay syntax sugar para sa Promises — nagpo-paalam sa synchronous-looking na asynchronous code.",,async/await
+Cloze,"Ang {{c1::.then()}} method ay nagha-handle ng fulfilled promise at nagre-receive ng result value.",,.then()
+Cloze,"Ang {{c1::.catch()}} method ay nagha-handle ng rejected promise at nagre-receive ng error.",,.catch()
+Cloze,"Ang {{c1::fetch API}} ay ang modern na way para mag-send ng HTTP requests sa browser.",,fetch API
+Cloze,"Ang {{c1::try/catch}} block sa async function ay ginagamit para i-catch ang errors mula sa await expressions.",,try/catch
+Cloze,"Ang {{c1::Promise.all()}} ay nagre-resolve ng lahat ng promises at nagre-return ng array ng results.",,Promise.all()
+Cloze,"Ang {{c1::Promise.race()}} ay nagre-return ng result ng unang nag-resolve o nag-reject na promise.",,Promise.race()
+Cloze,"Ang {{c1::AbortController}} ay ginagamit para i-cancel ang fetch requests habang ginagawa pa.",,AbortController
+Cloze,"Ang {{c1::named export}} ay ang paraan ng pag-export ng maraming values mula sa isang module: export const name = 'value'.",,named export
+Cloze,"Ang {{c1::default export}} ay ang primary export ng module: export default Component — pwedeng i-import nang walang curly braces.",,default export
+Cloze,"Ang {{c1::import}} statement ay ginagamit para mag-load ng code mula sa ibang modules.",,import
+Cloze,"Ang {{c1::dynamic import()}} ay ginagamit para i-load ang module sa runtime, hindi sa compile time.",,dynamic import()
+Cloze,"Ang {{c1::barrel export}} ay ang pattern ng pag-re-export ng lahat ng exports mula sa isang directory sa iisang file.",,barrel export
+Cloze,"Ang {{c1::tree shaking}} ay ang build-time optimization na nag-a-alispay ng unused exports para paliitin ang bundle.",,tree shaking
+Cloze,"Ang {{c1::side effect}} sa module ay ang code na nag-e-execute kapag na-load ang module (hindi lang declarations).",,side effect
+Cloze,"Ang {{c1::closure}} ay ang combination ng function at lexical environment nito — naaalala ng function ang variables mula sa outer scope.",,closure
+Cloze,"Ang {{c1::hoisting}} ay ang behavior kung saan ina-angat ng JavaScript ang declarations sa taas ng scope bago mag-execute.",,hoisting
+Cloze,"Ang {{c1::event loop}} ay ang mechanism ng JavaScript na nagha-handle ng asynchronous callbacks sa main thread.",,event loop
+Cloze,"Ang {{c1::call stack}} ay ang track ng functions na kasalukuyang ginagampanan ng JavaScript engine.",,call stack
+Cloze,"Ang {{c1::callback queue}} ay ang queue ng callbacks na naghihintay na i-process pagkatapos matapos ang asynchronus operation.",,callback queue
+Cloze,"Ang {{c1::microtask queue}} ay ang higher-priority queue para sa Promises at queueMicrotask — nauna bago ang callback queue.",,microtask queue
+Cloze,"Ang {{c1::var}} ay function-scoped at na-hoist, habang {{c1::let}} at {{c1::const}} ay block-scoped at hindi na-hoist.",,var vs let/const
+Cloze,"Ang {{c1::JSX}} ay ang syntax extension ng JavaScript na ginagamit para mag-describe ng UI — mukhang HTML pero JavaScript siya.",,JSX
+Cloze,"Ang {{c1::JSX expressions}} ay ang paglagay ng JavaScript values sa loob ng JSX gamit ang curly braces: {variable}.",,JSX expressions
+Cloze,"Ang {{c1::Fragment}} (<>...</>) ay ginagamit para mag-group ng elements nang hindi nag-a-add ng extra DOM node.",,Fragment
+Cloze,"Ang {{c1::className}} ang JSX attribute para sa HTML class — dahil ang 'class' ay reserved word sa JavaScript.",,className
+Cloze,"Ang {{c1::self-closing tags}} sa JSX ay kailangan ng slash: <img />, <br />, <input />.",,self-closing tags
+Cloze,"Ang {{c1::inline styles}} sa JSX ay gumagamit ng JavaScript objects: style={{ color: 'red' }}.",,inline styles
+Cloze,"Ang {{c1::JSX must return single root element}} — kailangan mag-return ng isang parent element o Fragment.",,single root element
+Cloze,"Ang {{c1::camelCase}} ang convention sa JSX para sa HTML attributes: onClick, onChange, tabIndex.",,camelCase
+Cloze,"Ang {{c1::functional component}} ay isang JavaScript function na nagre-return ng JSX — ang modernong paraan ng paggawa ng React components.",,functional component
+Cloze,"Ang {{c1::component composition}} ay ang pattern ng paggamit ng mga smaller components para buuin ang mas malaking UI.",,component composition
+Cloze,"Ang {{c1::component naming}} ay dapat PascalCase: UserProfile, NavigationBar — hindi lowercase.",,component naming
+Cloze,"Ang {{c1::file structure}} sa React ay karaniwang: components/, pages/, hooks/, utils/, services/.",,file structure
+Cloze,"Ang {{c1::single responsibility}} principle ay nagsasabing isang component ay dapat may iisang responsibility lang.",,single responsibility
+Cloze,"Ang {{c1::pure component}} ay ang component na laging nagre-return ng parehong JSX para sa parehong props.",,pure component
+Cloze,"Ang {{c1::props}} ay ang data na ipinapasa mula sa parent component papunta sa child component.",,props
+Cloze,"Ang {{c1::prop drilling}} ay ang proseso ng pagpapasa ng props sa maraming levels ng components.",,prop drilling
+Cloze,"Ang {{c1::children}} prop ay ang special prop na naglalaman ng lahat ng elements na nasa loob ng component tags.",,children
+Cloze,"Ang {{c1::defaultProps}} ay ang mga default values na ibinibigay sa props kapag hindi sila provided.",,defaultProps
+Cloze,"Ang {{c1::destructuring props}} ay ang pag-extract ng props sa function parameters: function User({ name, age }) {}.",,destructuring props
+Cloze,"Ang {{c1::props are read-only}} — hindi pwedeng i-modify ang props sa loob ng component.",,props are read-only
+Cloze,"Ang {{c1::useState}} hook ay nagbibigay ng state variable at function para i-update ito: const [state, setState] = useState(initial).",,useState
+Cloze,"Ang {{c1::state immutability}} ay ang rule na hindi dapat i-mutate ang state directly — gumawa ng bagong object/array.",,state immutability
+Cloze,"Ang {{c1::state batching}} ay ang behavior ng React na naggru-group ng maraming setState calls sa iisang re-render.",,state batching
+Cloze,"Ang {{c1::lazy initialization}} sa useState ay ang paggamit ng function: useState(() => expensiveComputation()).",,lazy initialization
+Cloze,"Ang {{c1::functional update}} ay ang pagpapasa ng function sa setter: setState(prev => prev + 1) para sa previous state.",,functional update
+Cloze,"Ang {{c1::state lifting}} ay ang pag-move ng state papunta sa common ancestor para i-share sa maraming components.",,state lifting
+Cloze,"Ang {{c1::onClick}} ay ang event handler para sa pag-click sa elements: <button onClick={handleClick}>Click</button>.",,onClick
+Cloze,"Ang {{c1::onChange}} ay ang event handler para sa input changes: <input onChange={handleChange} />.",,onChange
+Cloze,"Ang {{c1::synthetic events}} ay ang React's wrapper sa native browser events para sa cross-browser consistency.",,synthetic events
+Cloze,"Ang {{c1::event delegation}} ay ang pattern ng paglalagay ng event handler sa parent instead ng bawat child.",,event delegation
+Cloze,"Ang {{c1::preventDefault()}} ay ginagamit para i-prevent ang default browser behavior (form submission, link navigation).",,preventDefault()
+Cloze,"Ang {{c1::stopPropagation()}} ay ginagamit para i-stop ang event propagation sa parent elements.",,stopPropagation()
+Cloze,"Ang {{c1::controlled input}} ay ang input kung saan ang React ang nagco-control ng value gamit ang state.",,controlled input
+Cloze,"Ang {{c1::ternary operator}} ay ang conditional rendering syntax: condition ? <A /> : <B />.",,ternary operator
+Cloze,"Ang {{c1::logical AND}} (&&) operator ay ginagamit para i-render ang element kapag true ang condition: {show && <Component />}.",,logical AND
+Cloze,"Ang {{c1::early return}} ay ang pattern ng pag-return ng null o early element kapag hindi pa ready ang data.",,early return
+Cloze,"Ang {{c1::if/else}} sa labas ng JSX ay ginagamit para sa complex conditions na hindi kaya ng ternary.",,if/else
+Cloze,"Ang {{c1::enum mapping}} ay ang pattern ng paggamit ng object para i-map ang conditions sa components.",,enum mapping
+Cloze,"Ang {{c1::key}} prop ay required kapag nagre-render ng arrays sa React para matulungan ang reconciliation.",,key
+Cloze,"Ang {{c1::reconciliation}} ay ang algorithm ng React na nagco-compare ng old at new virtual DOM para malaman ang changes.",,reconciliation
+Cloze,"Ang {{c1::stable key}} ay ang key na hindi nagbabago sa bawat render — gumamit ng unique ID, hindi ang index.",,stable key
+Cloze,"Ang {{c1::index as key}} ay ang anti-pattern na gumagamit ng array index bilang key — hindi stable sa reordering.",,index as key
+Cloze,"Ang {{c1::map() method}} ay ang pinaka-common na paraan para mag-convert ng array sa JSX elements.",,map() method
+Cloze,"Ang {{c1::useEffect}} hook ay ginagamit para mag-perform ng side effects: data fetching, subscriptions, DOM manipulation.",,useEffect
+Cloze,"Ang {{c1::cleanup function}} sa useEffect ay ang function na binabalik ng effect para i-cleanup bago mag-unmount.",,cleanup function
+Cloze,"Ang {{c1::dependency array}} sa useEffect ay ang array ng values na nag-trigger ng re-run: useEffect(fn, [dep1, dep2]).",,dependency array
+Cloze,"Ang {{c1::empty dependency array}} ([]) ay nagso-serve ng useEffect na nag-run lang isang beses (mount).",,empty dependency array
+Cloze,"Ang {{c1::no dependency array}} ay nagco-cause ng useEffect na mag-run sa bawat render — iwasan ito.",,no dependency array
+Cloze,"Ang {{c1::useEffect cleanup}} ay tumatakbo kapag: component unmounts, o bago mag-re-run ang effect.",,useEffect cleanup
+Cloze,"Ang {{c1::race condition}} sa useEffect ay ang problem kapag ang mas bagong request ang nauna dumating.",,race condition
+Cloze,"Ang {{c1::useRef}} hook ay nagbibigay ng mutable ref object na hindi nagco-cause ng re-render kapag nagbabago ang value.",,useRef
+Cloze,"Ang {{c1::DOM ref}} ay ang useRef na ginagamit para i-access ang DOM element directly: useRef(null).",,DOM ref
+Cloze,"Ang {{c1::ref.current}} ay ang property kung saan naka-store ang mutable value sa useRef object.",,ref.current
+Cloze,"Ang {{c1::forwardRef}} ay ginagamit para i-pass ang ref mula sa parent papunta sa child component.",,forwardRef
+Cloze,"Ang {{c1::useRef vs useState}} — ang useRef ay hindi nagco-cause ng re-render, habang ang useState ay nagco-cause.",,useRef vs useState
+Cloze,"Ang {{c1::useContext}} hook ay nagbibigay ng access sa value ng nearest Context Provider sa component tree.",,useContext
+Cloze,"Ang {{c1::useReducer}} hook ay ginagamit para sa complex state logic gamit ang reducer function: useReducer(reducer, initialState).",,useReducer
+Cloze,"Ang {{c1::Context Provider}} ay ang component na nagbabahagi ng data sa lahat ng children nito.",,Context Provider
+Cloze,"Ang {{c1::reducer function}} sa useReducer ay tumatanggap ng (state, action) at nagbabalik ng bagong state.",,reducer function
+Cloze,"Ang {{c1::dispatch}} function sa useReducer ay ang paraan para mag-send ng actions sa reducer.",,dispatch
+Cloze,"Ang {{c1::Context vs Redux}} — ang Context ay para sa simpler state, Redux para sa complex state management.",,Context vs Redux
+Cloze,"Ang {{c1::custom hook}} ay isang function na nagsisimula sa 'use' na nagre-reuse ng stateful logic sa maraming components.",,custom hook
+Cloze,"Ang {{c1::hook rules}} — mga hooks ay pwedeng tawagin lang sa loob ng functional components at custom hooks.",,hook rules
+Cloze,"Ang {{c1::hook composition}} ay ang paggamit ng maraming hooks sa loob ng isang custom hook.",,hook composition
+Cloze,"Ang {{c1::useXxx naming convention}} — lahat ng custom hooks ay dapat magsimula sa 'use' para sa identification.",,useXxx naming
+Cloze,"Ang {{c1::separation of concerns}} sa custom hooks — i-extract ang related logic sa iisang hook.",,separation of concerns
+Cloze,"Ang {{c1::React.memo}} ay isang HOC na nagme-memoize ng component — hindi nagre-render kapag pareho pa rin ang props.",,React.memo
+Cloze,"Ang {{c1::useMemo}} hook ay nagme-memoize ng computed value — nagre-compute lang kapag nagbago ang dependencies.",,useMemo
+Cloze,"Ang {{c1::useCallback}} hook ay nagme-memoize ng function reference — hindi nagbabago ang function sa bawat render.",,useCallback
+Cloze,"Ang {{c1::memoization}} ay ang technique ng pag-cache ng computation results para maiwasan ang redundant na work.",,memoization
+Cloze,"Ang {{c1::useMemo vs useCallback}} — useMemo para sa values, useCallback para sa functions.",,useMemo vs useCallback
+Cloze,"Ang {{c1::unnecessary re-renders}} ay ang performance problem kung saan nagre-render ang components nang walang changes.",,unnecessary re-renders
+Cloze,"Ang {{c1::CSS Modules}} ay isang styling approach na nag-a-automate ng scoped class names para maiwasan ang style conflicts.",,CSS Modules
+Cloze,"Ang {{c1::.module.css}} file extension ay ang naming convention para sa CSS Modules sa React.",,.module.css
+Cloze,"Ang {{c1::styles object}} sa CSS Modules ay ang imported na CSS file na naglalaman ng lahat ng class names.",,styles object
+Cloze,"Ang {{c1::CSS Modules composition}} ay ang paggamit ng @compose sa CSS para i-combine ang mga existing classes.",,CSS Modules composition
+Cloze,"Ang {{c1::local scope}} ng CSS Modules ay ang behavior kung saan ang class names ay unique sa bawat component.",,local scope
+Cloze,"Ang {{c1::global styles}} sa CSS Modules ay ang paggamit ng :global() selector para sa global na styling.",,global styles
+Cloze,"Ang {{c1::styled-components}} ay isang CSS-in-JS library na nagpo-paragraph ng styled React components gamit ang tagged template literals.",,styled-components
+Cloze,"Ang {{c1::CSS-in-JS}} ay ang paradigm ng pagsulat ng CSS styles sa loob ng JavaScript files.",,CSS-in-JS
+Cloze,"Ang {{c1::dynamic styles}} sa styled-components ay ang pagpapasa ng props para magbago ng styles: ${props => props.color}.",,dynamic styles
+Cloze,"Ang {{c1::Theme Provider}} sa styled-components ay nagbabahagi ng theme object sa lahat ng styled components.",,Theme Provider
+Cloze,"Ang {{c1::GlobalStyle}} sa styled-components ay ang component na nagse-set ng global CSS resets at base styles.",,GlobalStyle
+Cloze,"Ang {{c1::transient props}} sa styled-components ay ang props na nagsisimula sa $ para hindi ma-pass sa DOM.",,transient props
+Cloze,"Ang {{c1::Tailwind CSS}} ay isang utility-first CSS framework na nagbibigay ng mga pre-built classes para sa styling.",,Tailwind CSS
+Cloze,"Ang {{c1::utility-first}} approach ay ang paggamit ng maraming small, composable classes halip na malalaking custom CSS classes.",,utility-first
+Cloze,"Ang {{c1::responsive design}} sa Tailwind ay gumagamit ng breakpoints: sm:, md:, lg:, xl: prefixes.",,responsive design
+Cloze,"Ang {{c1::dark mode}} sa Tailwind ay gumagamit ng dark: prefix para sa dark theme styles.",,dark mode
+Cloze,"Ang {{c1::@apply}} directive sa Tailwind ay ginagamit para mag-extract ng utility classes sa custom CSS class.",,@apply
+Cloze,"Ang {{c1::tailwind.config.js}} ay ang configuration file kung saan mo i-customize ang colors, spacing, fonts, atbp.",,tailwind.config.js
+Cloze,"Ang {{c1::React Router}} ay ang declarative routing library para sa React na nagbibigay ng client-side routing.",,React Router
+Cloze,"Ang {{c1::BrowserRouter}} ay ang router component na gumagamit ng HTML5 History API para sa clean URLs.",,BrowserRouter
+Cloze,"Ang {{c1::Routes}} at {{c1::Route}} ay ang components na nagde-define ng URL-to-component mapping.",,Routes and Route
+Cloze,"Ang {{c1::Link}} component ay ginagamit para sa navigation nang hindi nag-reload ng page.",,Link
+Cloze,"Ang {{c1::NavLink}} ay ang Link na nag-a-add ng active class kapag tugma ang current URL.",,NavLink
+Cloze,"Ang {{c1::useNavigate}} hook ay ginagamit para sa programmatic navigation: navigate('/dashboard').",,useNavigate
+Cloze,"Ang {{c1::catch-all route}} (*) ay nagha-handle ng hindi known na paths: <Route path='*' />.",,catch-all route
+Cloze,"Ang {{c1::useParams}} hook ay nagbibigay ng access sa URL parameters: const { id } = useParams().",,useParams
+Cloze,"Ang {{c1::dynamic route}} ay ang route na may variable segment: <Route path='/users/:id' />.",,dynamic route
+Cloze,"Ang {{c1::useSearchParams}} hook ay ginagamit para basahin at baguhin ang query parameters sa URL.",,useSearchParams
+Cloze,"Ang {{c1::programmatic navigation}} ay ang pag-navigate sa code gamit ang useNavigate hook.",,programmatic navigation
+Cloze,"Ang {{c1::navigate()}} function ay ang function mula sa useNavigate na nagpapagana ng programmatic navigation.",,navigate()
+Cloze,"Ang {{c1::nested routes}} ay ang routes na nasa loob ng ibang routes para mag-share ng layout.",,nested routes
+Cloze,"Ang {{c1::Outlet}} component ay ang placeholder kung saan magre-render ang child routes.",,Outlet
+Cloze,"Ang {{c1::layout route}} ay ang parent route na nagbibigay ng shared UI (header, sidebar) para sa children.",,layout route
+Cloze,"Ang {{c1::index route}} ay ang default child route na nagre-render kapag walang specific child ang URL.",,index route
+Cloze,"Ang {{c1::nested layout}} ay ang pattern ng pagkakaroon ng shared layout sa maraming related pages.",,nested layout
+Cloze,"Ang {{c1::protected route}} ay ang route na nagche-check ng authentication bago i-render ang component.",,protected route
+Cloze,"Ang {{c1::auth guard}} ay ang pattern ng pag-wrap ng route sa component na nagve-verify ng auth status.",,auth guard
+Cloze,"Ang {{c1::redirect}} sa React Router ay ang pag-punta sa ibang route kapag hindi pasado ang condition.",,redirect
+Cloze,"Ang {{c1::role-based routing}} ay ang pattern ng pag-determine ng accessible routes base sa user role.",,role-based routing
+Cloze,"Ang {{c1::useLocation}} hook ay nagbibigay ng access sa current URL location object.",,useLocation
+Cloze,"Ang {{c1::controlled input}} ay ang input kung saan ang React state ang nagco-control ng value at onChange.",,controlled input
+Cloze,"Ang {{c1::uncontrolled input}} ay ang input kung saan ang DOM ang nagmamaintain ng state, na-a-access gamit ang ref.",,uncontrolled input
+Cloze,"Ang {{c1::form state}} ay ang centralized na state na naglalaman ng lahat ng input values sa form.",,form state
+Cloze,"Ang {{c1::onChange handler}} ay ang function na nagse-set ng state sa bawat input change: onChange={(e) => setValue(e.target.value)}.",,onChange handler
+Cloze,"Ang {{c1::onSubmit handler}} ay ang function na nagha-handle ng form submission: onSubmit={(e) => { e.preventDefault(); ... }}.",,onSubmit handler
+Cloze,"Ang {{c1::multiple inputs}} pattern ay ang paggamit ng iisang handler para sa maraming inputs gamit ang input name.",,multiple inputs
+Cloze,"Ang {{c1::React Hook Form}} ay isang performant form library na gumagamit ng uncontrolled inputs at refs.",,React Hook Form
+Cloze,"Ang {{c1::useForm}} hook sa React Hook Form ay nagbibigay ng register, handleSubmit, at errors.",,useForm
+Cloze,"Ang {{c1::register}} function ay nagco-connect ng input sa form: <input {...register('name', {required: true})} />.",,register
+Cloze,"Ang {{c1::Yup}} ay isang JavaScript schema builder para sa form validation.",,Yup
+Cloze,"Ang {{c1::Zod}} ay isang TypeScript-first schema declaration library para sa validation.",,Zod
+Cloze,"Ang {{c1::validation rules}} sa React Hook Form ay nagde-define ng requirements: { required: true, minLength: 5 }.",,validation rules
+Cloze,"Ang {{c1::form errors}} sa React Hook Form ay na-a-access gamit ang errors object: errors.name?.message.",,form errors
+Cloze,"Ang {{c1::file input}} sa React ay ginagamit gamit ang <input type='file' /> at na-a-access ang files gamit ang ref.",,file input
+Cloze,"Ang {{c1::FormData}} ay ang API para sa pag-send ng file data sa server: new FormData() at append().",,FormData
+Cloze,"Ang {{c1::multi-step form}} ay ang form na hinahati sa maraming steps para sa better UX.",,multi-step form
+Cloze,"Ang {{c1::form wizard}} ay ang UI pattern na nagga-guide sa user sa maraming sequential steps.",,form wizard
+Cloze,"Ang {{c1::step state}} ay ang state na nag-track kung anong step ang kasalukuyang displayed.",,step state
+Cloze,"Ang {{c1::local state}} ay ang state na naka-confine sa loob ng isang component gamit ang useState.",,local state
+Cloze,"Ang {{c1::global state}} ay ang state na accessible sa lahat ng components sa application.",,global state
+Cloze,"Ang {{c1::lifting state up}} ay ang pag-move ng state sa common parent para i-share sa magkakapatid na components.",,lifting state up
+Cloze,"Ang {{c1::prop drilling}} ay ang proseso ng pagpapasa ng props sa maraming levels para lang ma-reach ang target component.",,prop drilling
+Cloze,"Ang {{c1::state colocation}} ay ang principle na ilapit ang state sa kung saan lang ito kailangan.",,state colocation
+Cloze,"Ang {{c1::Context API}} ay ang built-in na React feature para mag-share ng data sa buong component tree.",,Context API
+Cloze,"Ang {{c1::createContext}} function ay nagcre-create ng Context object: const MyContext = createContext(defaultValue).",,createContext
+Cloze,"Ang {{c1::Provider}} component ay ang nagbabahagi ng value sa lahat ng children: <MyContext.Provider value={value}>.",,Provider
+Cloze,"Ang {{c1::useConsumer}} o useContext hook ay nagbibigay ng access sa value ng nearest Provider.",,useConsumer/useContext
+Cloze,"Ang {{c1::context performance}} issue — ang lahat ng consumers ay nagre-render kapag nagbabago ang Provider value.",,context performance
+Cloze,"Ang {{c1::splitting contexts}} ay ang pattern ng paghihiwalay ng contexts para maiwasan ang unnecessary re-renders.",,splitting contexts
+Cloze,"Ang {{c1::useReducer}} hook ay isang alternative sa useState para sa complex state logic gamit ang reducer function.",,useReducer
+Cloze,"Ang {{c1::action object}} sa useReducer ay naglalaman ng type at optional payload: { type: 'ADD', payload: item }.",,action object
+Cloze,"Ang {{c1::reducer function}} ay pure function na: (currentState, action) => newState.",,reducer function
+Cloze,"Ang {{c1::dispatch function}} ay ang function na nagse-send ng actions para i-update ang state.",,dispatch function
+Cloze,"Ang {{c1::middleware pattern}} sa useReducer ay ang pag-add ng logging, validation, o side effects sa dispatch.",,middleware pattern
+Cloze,"Ang {{c1::Zustand}} ay isang lightweight state management library na walang boilerplate.",,Zustand
+Cloze,"Ang {{c1::Redux Toolkit}} ay ang official, recommended way para mag-setup ng Redux sa modern React.",,Redux Toolkit
+Cloze,"Ang {{c1::Jotai}} ay isang atomic state management library na gumagamit ng bottom-up approach.",,Jotai
+Cloze,"Ang {{c1::slice pattern}} sa Redux Toolkit ay ang pattern ng paghihiwalay ng state sa logical pieces.",,slice pattern
+Cloze,"Ang {{c1::createStore}} sa Zustand ay ang function na nagcre-create ng store: const useStore = create((set) => ({...})).",,createStore
+Cloze,"Ang {{c1::useEffect + fetch}} pattern ay ang basic na data fetching: useEffect(() => { fetch(url).then(...).then(setData); }, [deps]).",,useEffect + fetch
+Cloze,"Ang {{c1::loading state}} ay ang boolean na nag-track kung kasalukuyang naglo-load ang data: const [loading, setLoading] = useState(true).",,loading state
+Cloze,"Ang {{c1::error state}} ay ang state na naglalaman ng error message: const [error, setError] = useState(null).",,error state
+Cloze,"Ang {{c1::AbortController}} ay ginagamit para i-cancel ang fetch request sa cleanup ng useEffect.",,AbortController
+Cloze,"Ang {{c1::race condition}} ay ang problem kung saan ang mas lumang request ang nauna dumating sa mas bagong request.",,race condition
+Cloze,"Ang {{c1::TanStack Query}} (React Query) ay isang data fetching library na nagha-handle ng caching, background updates, at error states.",,TanStack Query
+Cloze,"Ang {{c1::useQuery}} hook ay ang main hook ng TanStack Query para mag-fetch at mag-cache ng data.",,useQuery
+Cloze,"Ang {{c1::queryKey}} ay ang unique identifier para sa cached data: useQuery({ queryKey: ['todos'], queryFn: fetchTodos }).",,queryKey
+Cloze,"Ang {{c1::queryFn}} ay ang async function na nagfe-fetch ng data sa TanStack Query.",,queryFn
+Cloze,"Ang {{c1::useMutation}} hook ay ginagamit para sa create, update, o delete operations.",,useMutation
+Cloze,"Ang {{c1::cache invalidation}} ay ang proseso ng pag-invalidate ng cached data para mag-refetch.",,cache invalidation
+Cloze,"Ang {{c1::queryClient}} ay ang central na object na nagmo-manage ng lahat ng queries at cache.",,queryClient
+Cloze,"Ang {{c1::pagination}} ay ang proseso ng paghahati ng data sa pages para sa better performance at UX.",,pagination
+Cloze,"Ang {{c1::infinite scroll}} ay ang UX pattern na naglo-load ng mas maraming data habang nag-scroll pababa.",,infinite scroll
+Cloze,"Ang {{c1::optimistic updates}} ay ang technique ng pag-update ng UI agad bago ma-confirm ang server response.",,optimistic updates
+Cloze,"Ang {{c1::cursor-based pagination}} ay ang pagination approach na gumagamit ng cursor/ID sa halip na page number.",,cursor-based pagination
+Cloze,"Ang {{c1::offset-based pagination}} ay ang traditional pagination gamit ang page number at limit.",,offset-based pagination
+Cloze,"Ang {{c1::Error Boundary}} ay isang React component na nagco-catch ng JavaScript errors sa bawat level ng component tree.",,Error Boundary
+Cloze,"Ang {{c1::getDerivedStateFromError}} ay ang lifecycle method na nagse-set ng state kapag may error.",,getDerivedStateFromError
+Cloze,"Ang {{c1::componentDidCatch}} ay ang lifecycle method na naglo-log ng error details.",,componentDidCatch
+Cloze,"Ang {{c1::fallback UI}} ay ang replacement na UI na naire-render kapag nag-error ang component.",,fallback UI
+Cloze,"Ang {{c1::retry strategy}} ay ang approach ng pag-retry ng failed operations gamit ang exponential backoff.",,retry strategy
+Cloze,"Ang {{c1::React.memo}} ay isang HOC na nagme-memoize ng component — hindi nagre-render kapag pareho pa rin ang shallow-compare ng props.",,React.memo
+Cloze,"Ang {{c1::useMemo}} hook ay nagme-memoize ng computed value: const value = useMemo(() => expensiveCalc(data), [data]).",,useMemo
+Cloze,"Ang {{c1::useCallback}} hook ay nagme-memoize ng function reference: const fn = useCallback(() => doSomething(id), [id]).",,useCallback
+Cloze,"Ang {{c1::shallow compare}} ay ang comparison na tinitignan lang ang top-level values ng props object.",,shallow compare
+Cloze,"Ang {{c1::unnecessary memoization}} ay ang pag-memoize ng murang computations na mas mabilis pa kaysa sa memoization overhead.",,unnecessary memoization
+Cloze,"Ang {{c1::code splitting}} ay ang technique ng paghahati ng bundle sa mas maliliit na chunks para sa faster initial load.",,code splitting
+Cloze,"Ang {{c1::React.lazy()}} ay ang function na nagde-dynamic import ng component: const LazyComp = React.lazy(() => import('./Comp')).",,React.lazy()
+Cloze,"Ang {{c1::Suspense}} component ay ang boundary na nagre-render ng fallback habang naglo-load ang lazy component.",,Suspense
+Cloze,"Ang {{c1::route-based splitting}} ay ang pattern ng pag-lazy load ng components per route.",,route-based splitting
+Cloze,"Ang {{c1::dynamic import()}} ay ang JavaScript syntax para sa runtime module loading.",,dynamic import()
+Cloze,"Ang {{c1::virtualization}} ay ang technique ng pag-render lang ng visible items sa halip na buong list para sa performance.",,virtualization
+Cloze,"Ang {{c1::react-window}} ay isang lightweight library para sa list virtualization.",,react-window
+Cloze,"Ang {{c1::react-virtualized}} ay isang feature-rich library para sa efficient rendering ng malalaking lists.",,react-virtualized
+Cloze,"Ang {{c1::windowing}} ay ang concept ng paglimit sa bilang ng rendered items base sa viewport.",,windowing
+Cloze,"Ang {{c1::fixed size list}} ay ang virtualized list kung saan pareho ang height ng bawat item.",,fixed size list
+Cloze,"Ang {{c1::Jest}} ay ang testing framework na ginagamit ng React ecosystem para sa unit at integration tests.",,Jest
+Cloze,"Ang {{c1::jest.fn()}} ay ang function na nagcre-create ng mock function para sa testing.",,jest.fn()
+Cloze,"Ang {{c1::jest.mock()}} ay ang method na nagmo-mock ng modules: jest.mock('./api').",,jest.mock()
+Cloze,"Ang {{c1::snapshot testing}} ay ang technique ng pag-compare ng rendered output sa saved snapshot.",,snapshot testing
+Cloze,"Ang {{c1::beforeEach}} at {{c1::afterEach}} ay lifecycle hooks na nagre-run before/after bawat test.",,beforeEach/afterEach
+Cloze,"Ang {{c1::describe block}} ay ang grouping mechanism ng tests sa Jest para sa organization.",,describe block
+Cloze,"Ang {{c1::React Testing Library}} ay ang testing utility na nagfo-focus sa testing ng user behavior, hindi ang implementation.",,React Testing Library
+Cloze,"Ang {{c1::render}} function ay ang RTL method na nagre-render ng component para sa testing.",,render
+Cloze,"Ang {{c1::screen}} object ay nagbibigay ng access sa lahat ng rendered elements: screen.getByText(), screen.queryByRole().",,screen
+Cloze,"Ang {{c1::fireEvent}} ay ang method para mag-trigger ng events: fireEvent.click(button).",,fireEvent
+Cloze,"Ang {{c1::userEvent}} ay ang mas realistic na alternative sa fireEvent na nagso-simulate ng totoong user interactions.",,userEvent
+Cloze,"Ang {{c1::waitFor}} ay ang async utility na naghihintay hanggang mag-pass ang assertion.",,waitFor
+Cloze,"Ang {{c1::unit test}} ay isang test na nag-i-isolate ng isang component o function para i-verify ang behavior.",,unit test
+Cloze,"Ang {{c1::integration test}} ay isang test na nagve-verify ng interaction sa pagitan ng maraming components.",,integration test
+Cloze,"Ang {{c1::MSW}} o Mock Service Worker ay isang library para i-mock ang API calls sa tests.",,MSW
+Cloze,"Ang {{c1::test file naming}} sa React ay karaniwang: ComponentName.test.js o ComponentName.spec.js.",,test file naming
+Cloze,"Ang {{c1::querying strategy}} — piliin ang pinaka-robust na query: getByRole > getByText > getByTestId.",,querying strategy
+Cloze,"Ang {{c1::Error Boundary}} ay isang React class component na nagco-catch ng JavaScript errors sa child component tree.",,Error Boundary
+Cloze,"Ang {{c1::getDerivedStateFromError}} ay ang static lifecycle method na nagse-set ng state kapag may error sa child.",,getDerivedStateFromError
+Cloze,"Ang {{c1::componentDidCatch}} ay ang lifecycle method na naglo-log ng error info para sa monitoring.",,componentDidCatch
+Cloze,"Ang {{c1::fallback UI}} ay ang alternative na rendered content kapag nag-error ang protected component.",,fallback UI
+Cloze,"Ang {{c1::error recovery}} sa Error Boundary ay ang pag-reset ng state para subukan ulit mag-render.",,error recovery
+Cloze,"Ang {{c1::compound components}} ay isang pattern kung saan ang maraming related components ay nagsha-share ng implicit state.",,compound components
+Cloze,"Ang {{c1::shared context}} sa compound components ay ang mechanism ng pagbabahagi ng state sa pagitan ng parent at children.",,shared context
+Cloze,"Ang {{c1::flexible API}} ng compound components ay ang ability ng user na i-combine ang components sa iba't ibang paraan.",,flexible API
+Cloze,"Ang {{c1::parent-child relationship}} sa compound components ay ang pattern ng pag-control ng children behavior ng parent.",,parent-child relationship
+Cloze,"Ang {{c1::render props}} ay isang pattern kung saan ang component ay nagbabahagi ng logic gamit ang function as child.",,render props
+Cloze,"Ang {{c1::function as child}} ay ang pattern kung sain ang component ay tumatanggap ng function bilang children.",,function as child
+Cloze,"Ang {{c1::hooks}} ay ang modernong alternative sa render props para sa logic reuse.",,hooks
+Cloze,"Ang {{c1::render props vs hooks}} — mas simple ang hooks para sa most cases, render props para sa complex composition.",,render props vs hooks
+Cloze,"Ang {{c1::React Server Components}} (RSC) ay ang mga components na nagre-render sa server, hindi sa browser.",,React Server Components
+Cloze,"Ang {{c1::server component}} ay ang component na walang state o hooks — nagre-render lang sa server at nagse-send ng HTML.",,server component
+Cloze,"Ang {{c1::client component}} ay ang component na may 'use client' directive na nagre-render sa browser.",,client component
+Cloze,"Ang {{c1::streaming}} sa RSC ay ang proseso ng pag-send ng rendered components sa chunks habang naglo-load pa.",,streaming
+Cloze,"Ang {{c1::async components}} sa RSC ay ang components na pwedeng maging async function para sa data fetching.",,async components
+Cloze,"Ang {{c1::Suspense}} component ay nagbibigay ng fallback UI habang naglo-load ang children.",,Suspense
+Cloze,"Ang {{c1::React.startTransition}} ay ang function na nagme-mark ng update bilang non-urgent para sa better UX.",,React.startTransition
+Cloze,"Ang {{c1::useTransition}} hook ay nagbibigay ng isPending boolean at startTransition function.",,useTransition
+Cloze,"Ang {{c1::useDeferredValue}} hook ay nagde-defer ang value update para maiwasan ang expensive re-renders.",,useDeferredValue
+Cloze,"Ang {{c1::concurrent features}} ay ang mga React features na nagpo-prioritize ng urgent updates sa halip na lahat.",,concurrent features
+Cloze,"Ang {{c1::feature-based structure}} ay ang folder layout na hinahati ang code ayon sa features, hindi sa technical type.",,feature-based structure
+Cloze,"Ang {{c1::barrel export}} ay ang index.js file na nagre-export ng lahat ng exports mula sa isang directory.",,barrel export
+Cloze,"Ang {{c1::monorepo}} ay ang repository na naglalaman ng maraming related packages o apps.",,monorepo
+Cloze,"Ang {{c1::folder structure}} sa React ay karaniwang: components/, features/, hooks/, utils/, services/, pages/.",,folder structure
+Cloze,"Ang {{c1::co-location}} ay ang principle ng paglalagay ng related files malapit sa isa't isa.",,co-location
