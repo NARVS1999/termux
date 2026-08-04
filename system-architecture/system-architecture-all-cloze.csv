@@ -1,0 +1,242 @@
+Cloze,"Ang {{c1::OSI model}} ay ang 7-layer na framework na naglalarawan kung paano nagko-communicate ang data sa network.",,OSI model
+Cloze,"Ang {{c1::TCP}} o Transmission Control Protocol ay ang reliable, connection-oriented protocol para sa data transmission.",,TCP
+Cloze,"Ang {{c1::UDP}} o User Datagram Protocol ay ang fast, connectionless protocol na walang delivery guarantee.",,UDP
+Cloze,"Ang {{c1::HTTP}} o Hypertext Transfer Protocol ay ang application protocol para sa web communication.",,HTTP
+Cloze,"Ang {{c1::HTTPS}} ay ang secure version ng HTTP na gumagamit ng TLS/SSL encryption.",,HTTPS
+Cloze,"Ang {{c1::port}} ay ang number na nag-i-identify ng specific na service o application sa isang server.",,port
+Cloze,"Ang {{c1::DNS}} o Domain Name System ay ang system na nag-convert ng domain names sa IP addresses.",,DNS
+Cloze,"Ang {{c1::IP address}} ay ang unique na identifier ng isang device sa network: IPv4 o IPv6.",,IP address
+Cloze,"Ang {{c1::REST}} ay ang architectural style na gumagamit ng HTTP methods para sa CRUD operations.",,REST
+Cloze,"Ang {{c1::GraphQL}} ay ang query language na nagbibigay ng clients ng flexibility sa data fetching.",,GraphQL
+Cloze,"Ang {{c1::gRPC}} ay ang high-performance RPC framework na gumagamit ng Protocol Buffers.",,gRPC
+Cloze,"Ang {{c1::WebSockets}} ay ang protocol na nagbibigay ng full-duplex communication sa halip na request-response.",,WebSockets
+Cloze,"Ang {{c1::HTTP methods}} ay GET, POST, PUT, PATCH, DELETE para sa iba't ibang operations.",,HTTP methods
+Cloze,"Ang {{c1::stateless}} ay ang property ng REST na walang naka-store na client state sa server.",,stateless
+Cloze,"Ang {{c1::load balancer}} ay ang component na nagdi-distribute ng incoming traffic sa multiple servers.",,load balancer
+Cloze,"Ang {{c1::round-robin}} ay ang load balancing algorithm na nagpapasa ng requests sa sunud-sunod na order.",,round-robin
+Cloze,"Ang {{c1::least connections}} ay ang algorithm na nagpapasa sa server na may pinakakaunting active connections.",,least connections
+Cloze,"Ang {{c1::consistent hashing}} ay ang algorithm na nag-a-assign ng servers sa hash ring para sa minimal redistribution.",,consistent hashing
+Cloze,"Ang {{c1::health check}} ay ang mechanism na nagmo-monitor kung buhay pa ang mga backend servers.",,health check
+Cloze,"Ang {{c1::DNS record types}} ay A, AAAA, CNAME, MX, TXT, NS, SRV para sa iba't ibang pangangailangan.",,DNS record types
+Cloze,"Ang {{c1::A record}} ay nag-ma-map ng domain name sa IPv4 address.",,A record
+Cloze,"Ang {{c1::CNAME record}} ay nag-ma-map ng domain sa isa pang domain (alias).",,CNAME record
+Cloze,"Ang {{c1::TTL}} o Time To Live ay ang oras na ang DNS cache ay valid bago mag-re-resolve ulit.",,TTL
+Cloze,"Ang {{c1::recursive resolver}} ang unang tinatanong ng client para mag-resolve ng domain.",,recursive resolver
+Cloze,"Ang {{c1::TLS handshake}} ay ang proseso ng pag-establish ng secure connection bago mag-exchange ng data.",,TLS handshake
+Cloze,"Ang {{c1::SSL certificate}} ay ang digital document na nagpapatunay ng identity ng server.",,SSL certificate
+Cloze,"Ang {{c1::encryption at rest}} ay ang pag-encrypt ng data habang naka-store sa disk o database.",,encryption at rest
+Cloze,"Ang {{c1::encryption in transit}} ay ang pag-encrypt ng data habang nagta-travel sa network.",,encryption in transit
+Cloze,"Ang {{c1::Let's Encrypt}} ay ang free Certificate Authority na nagbibigay ng SSL certificates.",,Let's Encrypt
+Cloze,"Ang {{c1::monolithic architecture}} ay ang pattern kung saan ang buong application ay nasa iisang deployable unit.",,monolithic architecture
+Cloze,"Ang {{c1::monolith benefits}} aysimple deployment, madaling testing, walang network latency sa loob.",,monolith benefits
+Cloze,"Ang {{c1::monolith drawbacks}} ay mahirap mag-scale, slow deployment, tight coupling.",,monolith drawbacks
+Cloze,"Ang {{c1::single codebase}} sa monolith ay ang lahat ng features ay nasa iisang repository.",,single codebase
+Cloze,"Ang {{c1::modular monolith}} ay ang monolith na nahati sa logical modules para sa better organization.",,modular monolith
+Cloze,"Ang {{c1::microservices}} ay ang architecture pattern kung saan ang application ay binubuo ng maraming maliliit na services.",,microservices
+Cloze,"Ang {{c1::service boundary}} ay ang malinaw na hangganan ng bawat microservice — sariling data at logic.",,service boundary
+Cloze,"Ang {{c1::synchronous communication}} sa microservices ay HTTP/gRPC — naghihintay ng response.",,synchronous communication
+Cloze,"Ang {{c1::asynchronous communication}} ay message queues — hindi naghihintay ng response.",,asynchronous communication
+Cloze,"Ang {{c1::API gateway}} ay ang single entry point para sa lahat ng client requests sa microservices.",,API gateway
+Cloze,"Ang {{c1::serverless}} ay ang cloud computing model kung saan ang cloud provider ang nagmo-manage ng infrastructure.",,serverless
+Cloze,"Ang {{c1::FaaS}} o Functions-as-a-Service ay ang serverless model na nag-e-execute ng code sa response sa events.",,FaaS
+Cloze,"Ang {{c1::cold start}} ay ang delay kapag nag-invoke ng serverless function na matagal nang hindi nagagamit.",,cold start
+Cloze,"Ang {{c1::event-driven}} sa serverless ay ang functions ay nag-e-execute bilang response sa events.",,event-driven
+Cloze,"Ang {{c1::AWS Lambda}} ay ang pinaka-popular na FaaS platform mula sa Amazon Web Services.",,AWS Lambda
+Cloze,"Ang {{c1::event-driven architecture}} ay ang pattern kung saan ang components ay nagko-communicate gamit ang events.",,event-driven architecture
+Cloze,"Ang {{c1::event sourcing}} ay ang pattern ng pag-store ng state bilang sequence ng events.",,event sourcing
+Cloze,"Ang {{c1::CQRS}} o Command Query Responsibility Segregation ay ang paghihiwalay ng read at write models.",,CQRS
+Cloze,"Ang {{c1::message queue}} ay ang intermediate buffer na nagse-store ng messages habang naghihintay ng processing.",,message queue
+Cloze,"Ang {{c1::pub-sub}} o publish-subscribe ay ang messaging pattern kung saan ang publishers ay nag-broadcast ng events.",,pub-sub
+Cloze,"Ang {{c1::service mesh}} ay infrastructure layer na nagpo-provide ng service-to-service communication.",,service mesh
+Cloze,"Ang {{c1::sidecar proxy}} ay ang auxiliary container na nagha-handle ng networking para sa main service.",,sidecar proxy
+Cloze,"Ang {{c1::mTLS}} o mutual TLS ay ang encryption sa pagitan ng services para sa secure communication.",,mTLS
+Cloze,"Ang {{c1::Istio}} ay ang popular na service mesh platform para sa Kubernetes clusters.",,Istio
+Cloze,"Ang {{c1::traffic management}} sa service mesh ay ang routing, load balancing, at circuit breaking.",,traffic management
+Cloze,"Ang {{c1::Domain-Driven Design}} (DDD) ay ang approach ng pag-o-organize ng code ayon sa business domains.",,Domain-Driven Design
+Cloze,"Ang {{c1::bounded context}} ay ang malinaw na boundary kung saan ang domain model ay applicable.",,bounded context
+Cloze,"Ang {{c1::aggregate}} ay ang cluster ng domain objects na nire-represent ng iisang root entity.",,aggregate
+Cloze,"Ang {{c1::domain event}} ay ang event na nag-i-indicate ng nangyaring change sa domain.",,domain event
+Cloze,"Ang {{c1::ubiquitous language}} ay ang shared na language sa pagitan ng developers at business experts.",,ubiquitous language
+Cloze,"Ang {{c1::CAP theorem}} ay ang theorem na nagsasabing ang distributed system ay pwedeng magkaroon lang ng 2 sa 3: Consistency, Availability, Partition Tolerance.",,CAP theorem
+Cloze,"Ang {{c1::consistency}} sa CAP ay ang lahat ng nodes ay may parehong data sa parehong oras.",,consistency
+Cloze,"Ang {{c1::availability}} sa CAP ay ang lahat ng requests ay may response (hindi nag-fail).",,availability
+Cloze,"Ang {{c1::partition tolerance}} ay ang system ay nagte-function pa rin kahit may network failure.",,partition tolerance
+Cloze,"Ang {{c1::CP system}} ay nag-pipick ng consistency sa halip na availability kapag may partition.",,CP system
+Cloze,"Ang {{c1::AP system}} ay nag-pipick ng availability sa halip na consistency kapag may partition.",,AP system
+Cloze,"Ang {{c1::vertical scaling}} ay ang pag-upgrade ng hardware: mas RAM, CPU, storage sa iisang server.",,vertical scaling
+Cloze,"Ang {{c1::horizontal scaling}} ay ang pagdagdag ng mas maraming servers para mag-handle ng traffic.",,horizontal scaling
+Cloze,"Ang {{c1::scale out}} ay ang pagdagdag ng commodity servers sa halip na pag-upgrade ng iisang machine.",,scale out
+Cloze,"Ang {{c1::scale up}} ay ang pag-upgrade ng mas malakas na hardware sa iisang server.",,scale up
+Cloze,"Ang {{c1::stateless services}} ay mas madaling i-scale horizontally dahil walang naka-store na state.",,stateless services
+Cloze,"Ang {{c1::high availability}} (HA) ay ang system design na nagte-function pa rin kahit may failures.",,high availability
+Cloze,"Ang {{c1::redundancy}} ay ang pagkakaroon ng extra components bilang backup sa case ng failure.",,redundancy
+Cloze,"Ang {{c1::failover}} ay ang automatic na pag-switch sa backup system kapag nag-fail ang primary.",,failover
+Cloze,"Ang {{c1::health check}} ay ang periodic na pag-test kung buhay pa ang system o service.",,health check
+Cloze,"Ang {{c1::uptime}} ay ang percentage ng oras na tumatakbo ang system: 99.9% = 8.76 hours downtime/year.",,uptime
+Cloze,"Ang {{c1::fault tolerance}} ay ang ability ng system na magpatuloy sa pag-work kahit may failures.",,fault tolerance
+Cloze,"Ang {{c1::graceful degradation}} ay ang pagbaba ng functionality sa halip na total failure.",,graceful degradation
+Cloze,"Ang {{c1::bulkhead}} ay ang pattern ng paghihiwalay ng resources para maiwasan ang cascade failure.",,bulkhead
+Cloze,"Ang {{c1::circuit breaker}} ay ang pattern na nagpo-pause ng requests sa failing service.",,circuit breaker
+Cloze,"Ang {{c1::retry}} ay ang technique ng pag-uulit ng failed operations na may backoff.",,retry
+Cloze,"Ang {{c1::idempotency}} ay ang property na angpaulit-ulit na operations ay may parehong result.",,idempotency
+Cloze,"Ang {{c1::idempotent operation}} ay ang operation na pwedeng i-run nang maraming beses na may parehong effect.",,idempotent operation
+Cloze,"Ang {{c1::deduplication}} ay ang proseso ng pagtanggal ng duplicate requests o data.",,deduplication
+Cloze,"Ang {{c1::exactly-once semantics}} ay ang guarantee na ang operation ay exectuted lang isang beses.",,exactly-once semantics
+Cloze,"Ang {{c1::idempotency key}} ay ang unique identifier na ginagamit para mag-detect ng duplicate requests.",,idempotency key
+Cloze,"Ang {{c1::SQL databases}} ay relational databases na gumagamit ng structured schema at ACID transactions.",,SQL databases
+Cloze,"Ang {{c1::NoSQL databases}} ay non-relational databases na nagbibigay ng flexibility sa schema at scaling.",,NoSQL databases
+Cloze,"Ang {{c1::document database}} (MongoDB) ay nagse-store ng JSON-like documents.",,document database
+Cloze,"Ang {{c1::key-value store}} (Redis) ay ang pinaka-simple na data model: key at value.",,key-value store
+Cloze,"Ang {{c1::graph database}} (Neo4j) ay ginagamit para sa highly connected data: social networks.",,graph database
+Cloze,"Ang {{c1::time-series database}} (InfluxDB) ay optimized para sa time-stamped data.",,time-series database
+Cloze,"Ang {{c1::database replication}} ay ang proseso ng pag-copy ng data sa maraming database servers.",,database replication
+Cloze,"Ang {{c1::master-slave replication}} ay ang setup kung saan ang master ay nagso-source, slaves ang nagre-replicate.",,master-slave replication
+Cloze,"Ang {{c1::master-master replication}} ay ang setup kung saan parehong servers ay may write access.",,master-master replication
+Cloze,"Ang {{c1::leader election}} ay ang proseso ng pag-pick ng bagong master kapag nag-fail ang current.",,leader election
+Cloze,"Ang {{c1::read replica}} ay ang slave server na ginagamit para sa read-heavy operations.",,read replica
+Cloze,"Ang {{c1::sharding}} ay ang proseso ng pag-hati ng database sa maraming servers.",,sharding
+Cloze,"Ang {{c1::hash-based sharding}} ay nag-ha-hash ng shard key para i-distribute ang data evenly.",,hash-based sharding
+Cloze,"Ang {{c1::range-based sharding}} ay nag-ha-hati ng data ayon sa value ranges.",,range-based sharding
+Cloze,"Ang {{c1::geo-based sharding}} ay nag-ha-hati ng data ayon sa geographic location.",,geo-based sharding
+Cloze,"Ang {{c1::shard key}} ay ang column na ginagamit para i-determine kung aling shard ang may data.",,shard key
+Cloze,"Ang {{c1::caching}} ay ang technique ng pag-store ng frequently accessed data sa mas mabilis na storage.",,caching
+Cloze,"Ang {{c1::Redis}} ay ang popular na in-memory data store na ginagamit para sa caching at more.",,Redis
+Cloze,"Ang {{c1::cache-aside}} ay ang pattern kung saan ang app ang naglo-load ng data sa cache.",,cache-aside
+Cloze,"Ang {{c1::write-through}} ay ang pattern kung saan ang writes ay pumupunta sa cache at database.",,write-through
+Cloze,"Ang {{c1::write-behind}} o write-back ay ang pattern kung saan ang writes ay nauna sa cache.",,write-behind
+Cloze,"Ang {{c1::message queue}} ay ang system na nagse-store ng messages habang naghihintay ng consumer.",,message queue
+Cloze,"Ang {{c1::RabbitMQ}} ay ang traditional message broker na gumagamit ng AMQP protocol.",,RabbitMQ
+Cloze,"Ang {{c1::Apache Kafka}} ay ang distributed event streaming platform para sa high throughput.",,Apache Kafka
+Cloze,"Ang {{c1::point-to-point}} ay ang messaging pattern kung saan ang message ay pupunta sa iisang consumer.",,point-to-point
+Cloze,"Ang {{c1::publish-subscribe}} ay ang pattern kung saan ang message ay para sa lahat ng subscribers.",,publish-subscribe
+Cloze,"Ang {{c1::eventual consistency}} ay ang guarantee na ang lahat ng nodes ay magiging consistent pagkatapos ng sufficient time.",,eventual consistency
+Cloze,"Ang {{c1::strong consistency}} ay ang guarantee na ang bawat read ay may most recent na write.",,strong consistency
+Cloze,"Ang {{c1::Saga pattern}} ay ang sequence ng local transactions na may compensating actions.",,Saga pattern
+Cloze,"Ang {{c1::compensating transaction}} ay ang transaction na nag-uundo ng effects ng naunang transaction.",,compensating transaction
+Cloze,"Ang {{c1::two-phase commit}} (2PC) ay ang distributed transaction protocol na may prepare at commit phases.",,two-phase commit
+Cloze,"Ang {{c1::container}} ay ang lightweight, standalone na executable package na naglalaman ng lahat para mag-run ang application.",,container
+Cloze,"Ang {{c1::Docker}} ay ang platform para sa pag-create at pag-run ng containers.",,Docker
+Cloze,"Ang {{c1::Docker image}} ay ang read-only na template na ginagamit para mag-create ng containers.",,Docker image
+Cloze,"Ang {{c1::container orchestration}} ay ang automation ng deployment, scaling, at management ng containers.",,container orchestration
+Cloze,"Ang {{c1::Dockerfile}} ay ang file na naglalaman ng instructions para mag-build ng Docker image.",,Dockerfile
+Cloze,"Ang {{c1::Kubernetes}} (K8s) ay ang container orchestration platform para sa automated deployment at scaling.",,Kubernetes
+Cloze,"Ang {{c1::pod}} ay ang smallest deployable unit sa Kubernetes — naglalaman ng one or more containers.",,pod
+Cloze,"Ang {{c1::service}} sa K8s ay ang abstraction na nagbibigay ng stable network access sa pods.",,service
+Cloze,"Ang {{c1::deployment}} sa K8s ay nagde-describe ng desired state para sa pods at replicas.",,deployment
+Cloze,"Ang {{c1::ingress}} ay ang resource na nagme-manage ng external HTTP access sa services.",,ingress
+Cloze,"Ang {{c1::L4 load balancer}} ay naglo-load balance sa transport layer (TCP/UDP) — hindi tumitingin sa content.",,L4 load balancer
+Cloze,"Ang {{c1::L7 load balancer}} ay naglo-load balance sa application layer (HTTP) — tumitingin sa URL, headers.",,L7 load balancer
+Cloze,"Ang {{c1::health check}} sa load balancer ay ang periodic na pag-test kung buhay pa ang backend servers.",,health check
+Cloze,"Ang {{c1::sticky sessions}} ay ang pag-redirect ng client sa parehong server sa bawat request.",,sticky sessions
+Cloze,"Ang {{c1::terminology}} — upstream = backend servers, downstream = clients.",,terminology
+Cloze,"Ang {{c1::CDN}} o Content Delivery Network ay ang network ng distributed servers na nagce-serve ng static content.",,CDN
+Cloze,"Ang {{c1::edge server}} ang server na malapit sa user na nagce-serve ng cached content.",,edge server
+Cloze,"Ang {{c1::origin server}} ang main server kung saan naka-store ang original content.",,origin server
+Cloze,"Ang {{c1::cache invalidation}} ay ang proseso ng pagtanggal ng cached content kapag nagbago na ang data.",,cache invalidation
+Cloze,"Ang {{c1::TTL}} sa CDN ay ang oras na ang cached content ay valid bago mag-re-fetch.",,TTL
+Cloze,"Ang {{c1::reverse proxy}} ay ang server na nagre-receive ng incoming requests at nagfo-forward sa backend.",,reverse proxy
+Cloze,"Ang {{c1::Nginx}} ay ang popular na web server at reverse proxy na high-performance.",,Nginx
+Cloze,"Ang {{c1::HAProxy}} ay ang load balancer at reverse proxy na optimized para sa TCP/HTTP.",,HAProxy
+Cloze,"Ang {{c1::API gateway}} ay ang single entry point para sa lahat ng API calls.",,API gateway
+Cloze,"Ang {{c1::SSL termination}} ay ang pag-handle ng SSL encryption sa halip na sa backend servers.",,SSL termination
+Cloze,"Ang {{c1::OAuth2}} ay ang authorization framework na nagbibigay ng third-party access sa user data.",,OAuth2
+Cloze,"Ang {{c1::JWT}} o JSON Web Token ay ang compact, self-contained token para sa info exchange.",,JWT
+Cloze,"Ang {{c1::session token}} ay ang server-side na token na nag-i-identify ng authenticated user.",,session token
+Cloze,"Ang {{c1::API key}} ay ang unique identifier na ginagamit para i-authenticate ang API requests.",,API key
+Cloze,"Ang {{c1::access token}} ay ang short-lived token na ginagamit para sa API access.",,access token
+Cloze,"Ang {{c1::refresh token}} ay ang long-lived token na ginagamit para makakuha ng bagong access token.",,refresh token
+Cloze,"Ang {{c1::RBAC}} o Role-Based Access Control ay nag-a-assign ng permissions base sa user roles.",,RBAC
+Cloze,"Ang {{c1::ABAC}} o Attribute-Based Access Control ay nagde-determine ng access base sa attributes.",,ABAC
+Cloze,"Ang {{c1::least privilege}} ay ang principle na magbigay lang ng minimum na permissions na kailangan.",,least privilege
+Cloze,"Ang {{c1::policy engine}} ay ang component na nag-e-evaluate ng access control rules.",,policy engine
+Cloze,"Ang {{c1::role hierarchy}} ay ang pagkaka-organize ng roles: admin > editor > viewer.",,role hierarchy
+Cloze,"Ang {{c1::VPC}} o Virtual Private Cloud ay ang isolated na network environment sa cloud.",,VPC
+Cloze,"Ang {{c1::firewall}} ay ang network security device na nag-filter ng incoming/outgoing traffic.",,firewall
+Cloze,"Ang {{c1::WAF}} o Web Application Firewall ay nagpo-protect ng web apps sa HTTP attacks.",,WAF
+Cloze,"Ang {{c1::DDoS protection}} ay ang system na nagpo-protect sa Distributed Denial of Service attacks.",,DDoS protection
+Cloze,"Ang {{c1::network segmentation}} ay ang pag-hati ng network sa mga isolated segments.",,network segmentation
+Cloze,"Ang {{c1::secrets management}} ay ang secure na pag-iimbak at pag-handle ng sensitive credentials.",,secrets management
+Cloze,"Ang {{c1::HashiCorp Vault}} ay ang popular na secrets management tool para sa centralization.",,HashiCorp Vault
+Cloze,"Ang {{c1::key rotation}} ay ang regular na pagbabago ng secrets para maiwasan ang compromise.",,key rotation
+Cloze,"Ang {{c1::encryption at rest}} ay ang pag-encrypt ng data habang naka-store sa disk.",,encryption at rest
+Cloze,"Ang {{c1::secret scanning}} ay ang pag-scan ng code repositories para sa accidentally committed secrets.",,secret scanning
+Cloze,"Ang {{c1::CI/CD}} o Continuous Integration/Continuous Deployment ay ang automation ng build, test, at deploy.",,CI/CD
+Cloze,"Ang {{c1::CI pipeline}} ay ang automated na sequence ng steps: lint, test, build, security scan.",,CI pipeline
+Cloze,"Ang {{c1::CD pipeline}} ay ang automated na deployment ng code sa staging o production.",,CD pipeline
+Cloze,"Ang {{c1::rollback strategy}} ay ang plan para magbalik sa nakaraang version kapag may issue.",,rollback strategy
+Cloze,"Ang {{c1::build artifact}} ay ang output ng build process: JAR, Docker image, compiled binary.",,build artifact
+Cloze,"Ang {{c1::blue-green deployment}} ay ang strategy na may dalawang identical environments.",,blue-green deployment
+Cloze,"Ang {{c1::blue environment}} ang currently running production.",,blue environment
+Cloze,"Ang {{c1::green environment}} ang bagong version na tinetest.",,green environment
+Cloze,"Ang {{c1::traffic switching}} ay ang pag-move ng traffic mula sa blue papunta sa green.",,traffic switching
+Cloze,"Ang {{c1::zero-downtime}} deployment ay ang deployment na hindi nagdo-down ang application.",,zero-downtime
+Cloze,"Ang {{c1::canary release}} ay ang incremental na rollout ng bagong version sa maliit na subset ng users.",,canary release
+Cloze,"Ang {{c1::canary deployment}} ay nagde-deploy sa 5% muna, pag okay: 25%, 50%, 100%.",,canary deployment
+Cloze,"Ang {{c1::monitoring}} sa canary ay ang pag-obserba ng metrics habang nagro-rollout.",,monitoring
+Cloze,"Ang {{c1::rollback}} sa canary ay ang pag-stop ng rollout kapag may issues.",,rollback
+Cloze,"Ang {{c1::traffic splitting}} ay ang pag-hati ng traffic sa old at new version.",,traffic splitting
+Cloze,"Ang {{c1::Infrastructure as Code}} (IaC) ay ang pag-manage ng infrastructure gamit ang code.",,Infrastructure as Code
+Cloze,"Ang {{c1::Terraform}} ay ang multi-cloud IaC tool na gumagamit ng HCL language.",,Terraform
+Cloze,"Ang {{c1::CloudFormation}} ay ang AWS-specific na IaC tool na gumagamit ng YAML/JSON.",,CloudFormation
+Cloze,"Ang {{c1::Ansible}} ay ang configuration management tool na gumagamit ng agentless approach.",,Ansible
+Cloze,"Ang {{c1::declarative}} approach ay ang pagde-describe ng desired state sa halip na imperative steps.",,declarative
+Cloze,"Ang {{c1::GitOps}} ay ang operational framework kung saan ang Git ang single source of truth.",,GitOps
+Cloze,"Ang {{c1::ArgoCD}} ay ang GitOps continuous delivery tool para sa Kubernetes.",,ArgoCD
+Cloze,"Ang {{c1::Flux}} ay ang lightweight GitOps toolkit para sa Kubernetes.",,Flux
+Cloze,"Ang {{c1::declarative}} sa GitOps ay ang pagde-describe ng desired state sa Git.",,declarative
+Cloze,"Ang {{c1::reconciliation}} sa GitOps ay ang automatic na pag-compare ng actual vs desired state.",,reconciliation
+Cloze,"Ang {{c1::Prometheus}} ay ang open-source monitoring system na nag-collect ng metrics at nagpo-promete.",,Prometheus
+Cloze,"Ang {{c1::Grafana}} ay ang visualization tool na nagpo-create ng dashboards mula sa metrics.",,Grafana
+Cloze,"Ang {{c1::SLI}} o Service Level Indicator ay ang metric na nagme-measure ng service performance.",,SLI
+Cloze,"Ang {{c1::SLO}} o Service Level Objective ay ang target na SLI value na dapat ma-meet.",,SLO
+Cloze,"Ang {{c1::SLA}} o Service Level Agreement ay ang business agreement sa uptime at performance.",,SLA
+Cloze,"Ang {{c1::structured logging}} ay ang pag-log ng data sa JSON format para sa madaling parsing.",,structured logging
+Cloze,"Ang {{c1::ELK stack}} ay ang Elasticsearch, Logstash, Kibana stack para sa log aggregation.",,ELK stack
+Cloze,"Ang {{c1::log aggregation}} ay ang proseso ng pag-collect ng logs mula sa maraming sources.",,log aggregation
+Cloze,"Ang {{c1::log level}} ay ang severity ng log: DEBUG, INFO, WARN, ERROR, FATAL.",,log level
+Cloze,"Ang {{c1::correlation ID}} ay ang unique identifier na nagko-connect ng logs mula sa iba't ibang services.",,correlation ID
+Cloze,"Ang {{c1::distributed tracing}} ay ang pag-track ng request sa pamamagitan ng maraming services.",,distributed tracing
+Cloze,"Ang {{c1::Jaeger}} ay ang open-source distributed tracing system para sa microservices.",,Jaeger
+Cloze,"Ang {{c1::OpenTelemetry}} ay ang vendor-neutral observability framework para sa traces, metrics, logs.",,OpenTelemetry
+Cloze,"Ang {{c1::trace}} ay ang collection ng spans na nagre-represent ng isang request sa iba't ibang services.",,trace
+Cloze,"Ang {{c1::span}} ay ang unit of work sa loob ng trace: database query, API call, function execution.",,span
+Cloze,"Ang {{c1::alerting}} ay ang system na nagno-notify kapag na-detect ang anomalies o threshold breaches.",,alerting
+Cloze,"Ang {{c1::alert fatigue}} ay ang condition kung saan ang team ay nawawalan ng pansin sa dami ng alerts.",,alert fatigue
+Cloze,"Ang {{c1::escalation policy}} ay ang defined na proseso ng pag-escalate ng alerts sa tamang tao.",,escalation policy
+Cloze,"Ang {{c1::incident response}} ay ang structured na proseso ng pag-handle ng production issues.",,incident response
+Cloze,"Ang {{c1::PagerDuty}} ay ang incident management platform na nagno-notify at nag-e-escalate.",,PagerDuty
+Cloze,"Ang {{c1::Redis patterns}} ay ang mga common na gamit ng Redis: caching, sessions, queues, counters.",,Redis patterns
+Cloze,"Ang {{c1::cache invalidation}} ay ang proseso ng pagtanggal ng cached data kapag nagbago na.",,cache invalidation
+Cloze,"Ang {{c1::TTL}} o Time To Live ay ang oras na ang cached data ay valid bago mag-expire.",,TTL
+Cloze,"Ang {{c1::cache stampede}} ay ang problem kapag maraming requests ang nag-miss sa cache sabay-sabay.",,cache stampede
+Cloze,"Ang {{c1::cache penetration}} ay ang problem kapag ang requests ay lagi nag-miss sa cache.",,cache penetration
+Cloze,"Ang {{c1::query tuning}} ay ang proseso ng pag-optimize ng SQL queries para sa mas mabilis na execution.",,query tuning
+Cloze,"Ang {{c1::connection pooling}} ay ang technique ng pag-reuse ng database connections.",,connection pooling
+Cloze,"Ang {{c1::read replica}} ay ang database copy na ginagamit para sa read-heavy queries.",,read replica
+Cloze,"Ang {{c1::EXPLAIN}} ay ang SQL command na nagpapakita ng query execution plan.",,EXPLAIN
+Cloze,"Ang {{c1::query cache}} ay ang caching ng SELECT results — deprecated sa MySQL 8.0.",,query cache
+Cloze,"Ang {{c1::rate limiting}} ay ang technique ng pag-limit ng bilang ng requests sa isang time period.",,rate limiting
+Cloze,"Ang {{c1::token bucket}} algorithm ay nagbibigay ng tokens sa fixed rate at nagko-consume sa bawat request.",,token bucket
+Cloze,"Ang {{c1::sliding window}} algorithm ay nagli-limit ng requests sa rolling time window.",,sliding window
+Cloze,"Ang {{c1::API throttling}} ay ang pag-limit ng API calls base sa user tier o plan.",,API throttling
+Cloze,"Ang {{c1::429 status code}} ay ang HTTP response kapag na-rate-limit ang client.",,429 status code
+Cloze,"Ang {{c1::background jobs}} ay ang tasks na nag-e-execute sa halip na sa main request cycle.",,background jobs
+Cloze,"Ang {{c1::event queue}} ay ang system na nagse-store ng events para sa asynchronous processing.",,event queue
+Cloze,"Ang {{c1::batch processing}} ay ang proseso ng pag-handle ng maraming items sa iisang run.",,batch processing
+Cloze,"Ang {{c1::job queue}} ay ang queue na nagse-store ng tasks para sa background workers.",,job queue
+Cloze,"Ang {{c1::worker}} ay ang process na nagco-consume ng jobs mula sa queue.",,worker
+Cloze,"Ang {{c1::URL shortener}} ay ang service na nagco-convert ng long URLs sa short, memorable na URLs.",,URL shortener
+Cloze,"Ang {{c1::hashing}} sa URL shortener ay ang pag-generate ng short code: base62 encoding, MD5.",,hashing
+Cloze,"Ang {{c1::redirection}} ay ang pag-forward ng short URL sa original long URL gamit ang 301/302.",,redirection
+Cloze,"Ang {{c1::analytics}} sa URL shortener ay ang pag-track ng clicks, location, referrers.",,analytics
+Cloze,"Ang {{c1::collision}} ay ang problem kapag dalawang URLs ay nag-generate ng parehong short code.",,collision
+Cloze,"Ang {{c1::chat system}} ay ang real-time messaging platform na nagbibigay ng instant communication.",,chat system
+Cloze,"Ang {{c1::WebSockets}} sa chat ay ang protocol para sa full-duplex, real-time messaging.",,WebSockets
+Cloze,"Ang {{c1::presence}} ay ang feature na nagpapakita kung online ba ang user.",,presence
+Cloze,"Ang {{c1::message ordering}} ay ang pag-sure na ang messages ay naka-display sa tamang order.",,message ordering
+Cloze,"Ang {{c1::chat storage}} ay ang pag-store ng messages: database, cache, o archive.",,chat storage
+Cloze,"Ang {{c1::e-commerce platform}} ay ang online shopping system na may products, orders, at payments.",,e-commerce platform
+Cloze,"Ang {{c1::inventory management}} ay ang pag-track ng stock levels at availability ng products.",,inventory management
+Cloze,"Ang {{c1::payment processing}} ay ang pag-handle ng transactions: credit card, digital wallets.",,payment processing
+Cloze,"Ang {{c1::search engine}} sa e-commerce ay ang paghanap ng products: full-text search, filters.",,search engine
+Cloze,"Ang {{c1::recommendation engine}} ay ang system na nag-su-suggest ng products base sa behavior.",,recommendation engine
