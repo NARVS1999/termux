@@ -1,0 +1,423 @@
+Cloze,"Ang {{c1::AI Engineer}} ay gumagamit ng pre-trained models at AI tools para mapabuti ang user experience nang hindi gumagawa ng model mula sa simula.",,AI Engineer
+Cloze,"Ang {{c1::ML Engineer}} ay mas naka-focus sa pag-train at pag-build ng sariling models mula sa scratch.",,ML Engineer
+Cloze,"Ang {{c1::responsibilities}} ng AI Engineer ay ang pag-integrate ng AI sa mga produkto at pag-optimize ng performance.",,responsibilities
+Cloze,"Ang paggamit ng {{c1::pre-trained models}} ay ang paraan ng AI Engineer para hindi mag-train mula sa zero.",,pre-trained models
+Cloze,"Ang {{c1::AI Researcher}} ay nagde-develop ng bagong algorithms at AI theory.",,AI Researcher
+Cloze,"Ang {{c1::AI tools}} tulad ng APIs at SDKs ay ginagamit ng AI Engineer para i-build ang features.",,AI tools
+Cloze,"Ang pangunahing goal ng AI Engineer ay ang mag-{{c1::improve}} ng user experience gamit ang AI.",,improve
+Cloze,"Ang AI Engineer ay nag-{{c1::evaluate}} ng model performance para malaman kung viable sa production.",,evaluate
+Cloze,"Ang {{c1::product integration}} ay kung saan inilalagay ang AI capabilities sa existing applications.",,product integration
+Cloze,"Ang {{c1::AI}} ay ang malawak na field ng paggawa ng machines na kayang mag-simulate ng human intelligence.",,AI
+Cloze,"Ang {{c1::Machine Learning}} ay isang subset ng AI kung saan natututo ang system mula sa data.",,Machine Learning
+Cloze,"Ang {{c1::Deep Learning}} ay isang subset ng ML na gumagamit ng neural networks na maraming layers.",,Deep Learning
+Cloze,"Ang {{c1::Large Language Model}} (LLM) ay isang model na trained sa malalaking text data para maka-generate ng language.",,Large Language Model
+Cloze,"Ang {{c1::training}} ay ang phase kung saan natututo ang model mula sa data sa pamamagitan ng pag-adjust ng weights.",,training
+Cloze,"Ang {{c1::inference}} ay ang phase kung saan gumagawa na ang model ng predictions sa bagong input.",,inference
+Cloze,"Ang neural network na may maraming hidden layers ay tinatawag na {{c1::deep neural network}}.",,deep neural network
+Cloze,"Ang {{c1::foundation model}} ay isang malaking pre-trained model na pwedeng i-adapt sa iba't ibang tasks.",,foundation model
+Cloze,"Sa {{c1::supervised learning}}, natututo ang model mula sa labeled data na may tamang sagot.",,supervised learning
+Cloze,"Ang {{c1::token}} ay ang pinakamaliit na unit ng text na pinoproseso ng LLM (mga subword o character).",,token
+Cloze,"Ang {{c1::context window}} ay ang maximum na bilang ng tokens na kayang i-handle ng model sa isang request.",,context window
+Cloze,"Ang {{c1::pre-trained models}} ay mga models na natuto na sa malalaking dataset bago pa man i-fine-tune.",,pre-trained models
+Cloze,"Ang {{c1::AGI}} ay isang hypothetical na AI na may general intelligence na katulad ng tao.",,AGI
+Cloze,"Ang {{c1::AI}} ay ang simulated intelligence ng machines para mag-perform ng tasks.",,AI
+Cloze,"Ang pag-exceed sa context window ay nagreresulta sa {{c1::truncation}} ng mas lumang context.",,truncation
+Cloze,"Ang {{c1::context}} ay ang buong text na nakikita ng model bago ito mag-generate ng sagot.",,context
+Cloze,"Ang {{c1::hallucination}} ay kapag gumagawa ang model ng maling impormasyon na mukhang totoo.",,hallucination
+Cloze,"Ang {{c1::token limit}} ay tumutukoy sa maximum na haba ng input at output ng model.",,token limit
+Cloze,"Ang {{c1::Python}} ay ang pinaka-common na programming language para sa AI development.",,Python
+Cloze,"Ang {{c1::API}} ay ang interface para ma-access ang model services mula sa code.",,API
+Cloze,"Ang {{c1::requests}} library ay ginagamit para mag-send ng HTTP requests sa APIs.",,requests
+Cloze,"Ang {{c1::JSON}} ay ang standard na format para sa data exchange ng APIs.",,JSON
+Cloze,"Ang {{c1::pandas}} ay ginagamit para sa data manipulation at analysis sa Python.",,pandas
+Cloze,"Ang {{c1::environment variables}} ay ginagamit para i-store ang API keys nang hindi nasa code.",,environment variables
+Cloze,"Ang {{c1::error handling}} ay importante kapag nag-call sa APIs dahil pwedeng mag-fail ang network.",,error handling
+Cloze,"Ang {{c1::virtual environment}} ay nag-i-isolate ng dependencies para sa bawat project.",,virtual environment
+Cloze,"Ang pag-test ng API calls ay madalas ginagawa sa {{c1::Jupyter Notebook}} o REPL.",,Jupyter Notebook
+Cloze,"Sa {{c1::frontend}}, ang AI ay pwedeng mag-power ng chatbots at smart UI components.",,frontend
+Cloze,"Sa {{c1::backend}}, ang AI ay ginagamit para sa data processing at model inference.",,backend
+Cloze,"Ang {{c1::full-stack}} AI developers ay kayang mag-integrate ng AI sa buong application stack.",,full-stack
+Cloze,"Ang {{c1::use cases}} ng AI ay kasama ang customer support, content generation, at personalization.",,use cases
+Cloze,"Ang AI-powered {{c1::chatbots}} ay nakakapagbawas ng customer support load.",,chatbots
+Cloze,"Ang {{c1::recommendation systems}} ay nagpapakita ng personalized na content sa users.",,recommendation systems
+Cloze,"Ang {{c1::content moderation}} ay gumagamit ng AI para mag-filter ng inappropriate content.",,content moderation
+Cloze,"Ang AI integration sa produkto ay nangangailangan ng collaboration ng {{c1::cross-functional teams}}.",,cross-functional teams
+Cloze,"Ang {{c1::product metrics}} tulad ng engagement ay nag-improve kapag maayos ang AI integration.",,product metrics
+Cloze,"Ang {{c1::transformer}} ay ang neural network architecture na pinagbabatayan ng mga modernong LLM.",,transformer
+Cloze,"Ang {{c1::attention}} mechanism ay nagbibigay-daan sa model na i-weigh ang kahalagahan ng bawat token sa input.",,attention
+Cloze,"Ang LLM ay nag-generate ng text sa pamamagitan ng pag-predict sa susunod na {{c1::token}} base sa mga naunang tokens.",,token
+Cloze,"Ang {{c1::self-attention}} ay nagpapahintulot sa bawat token na mag-refer sa lahat ng ibang tokens sa sequence.",,self-attention
+Cloze,"Ang {{c1::positional encoding}} ay nagbibigay sa model ng impormasyon tungkol sa order ng mga tokens.",,positional encoding
+Cloze,"Ang {{c1::embedding}} ay ang vector representation ng bawat token na ginagamit ng model para ma-process ang text.",,embedding
+Cloze,"Ang {{c1::multi-head attention}} ay nagpapahintulot sa model na tumingin sa iba't ibang aspects ng sequence nang sabay-sabay.",,multi-head attention
+Cloze,"Ang {{c1::autoregressive}} generation ay ang paggawa ng isang token sa bawat step na naka-condition sa mga nauna.",,autoregressive
+Cloze,"Ang {{c1::context length}} ay tumutukoy sa kung gaano karaming tokens ang kayang i-hold ng model sa isang time.",,context length
+Cloze,"Ang {{c1::pre-training}} ay ang phase kung saan natututo ang model ng language patterns mula sa malawak na text data.",,pre-training
+Cloze,"Ang {{c1::fine-tuning}} ay ang pag-adapt ng pre-trained model sa specific na task gamit ang mas maliit na labeled dataset.",,fine-tuning
+Cloze,"Ang {{c1::alignment}} ay ang proseso ng pag-a-adjust sa model para sumunod sa human intent at values.",,alignment
+Cloze,"Ang {{c1::RLHF}} (Reinforcement Learning from Human Feedback) ay ginagamit para i-align ang model base sa human preferences.",,RLHF
+Cloze,"Ang {{c1::base model}} ay ang pre-trained na model na hindi pa na-fine-tune para sa specific na task.",,base model
+Cloze,"Ang {{c1::transfer learning}} ay ang paggamit ng knowledge mula sa isang task para mapabilis ang pag-aaral sa ibang task.",,transfer learning
+Cloze,"Ang {{c1::instruction tuning}} ay ang fine-tuning ng model gamit ang instruction-response pairs.",,instruction tuning
+Cloze,"Ang {{c1::evaluation}} pagkatapos ng training ay importante para malaman kung maganda ba ang performance ng model.",,evaluation
+Cloze,"Ang {{c1::checkpoint}} ay ang naka-save na state ng model weights sa isang partikular na punto ng training.",,checkpoint
+Cloze,"Ang {{c1::OpenAI}} ay nagpo-provide ng mga models tulad ng GPT at o-series para sa text generation at reasoning.",,OpenAI
+Cloze,"Ang {{c1::GPT}} (Generative Pre-trained Transformer) ay ang serye ng models ng OpenAI para sa text generation.",,GPT
+Cloze,"Ang {{c1::o-series}} ay ang reasoning-focused models ng OpenAI.",,o-series
+Cloze,"Ang {{c1::Anthropic Claude}} ay isang proprietary model na kilala sa safety at long-context capabilities.",,Anthropic Claude
+Cloze,"Ang {{c1::Google Gemini}} ay isang multimodal model family ng Google na sumusuporta sa text, image, at audio.",,Google Gemini
+Cloze,"Ang {{c1::proprietary models}} ay ina-access sa pamamagitan ng paid APIs at hindi open source.",,proprietary models
+Cloze,"Ang {{c1::model card}} ay nagbibigay ng detalye tungkol sa isang model tulad ng capabilities at limitations.",,model card
+Cloze,"Ang pag-pick ng {{c1::model}} ay nakadepende sa task, cost, at performance requirements.",,model
+Cloze,"Ang {{c1::rate limits}} ay naglilimita sa kung ilang requests ang pwedeng gawin ng isang user sa isang period.",,rate limits
+Cloze,"Ang {{c1::Meta Llama}} ay isang open source model family na mada-download at pwedeng i-deploy sa sariling infra.",,Meta Llama
+Cloze,"Ang {{c1::Mistral}} ay isang open source model na kilala sa efficiency at performance.",,Mistral
+Cloze,"Ang {{c1::Cohere}} ay nagpo-provide ng mga models para sa text generation, RAG, at embeddings.",,Cohere
+Cloze,"Ang {{c1::Gemma}} ay ang open source model family ng Google na gawa sa parehong research ng Gemini.",,Gemma
+Cloze,"Ang {{c1::Qwen}} ay isang open source model family na may magandang multilingual support.",,Qwen
+Cloze,"Ang {{c1::open source models}} ay pwedeng i-run locally o sa sariling servers nang walang API fees.",,open source models
+Cloze,"Ang {{c1::weights}} ng open source models ay pwedeng i-download mula sa Hugging Face Hub.",,weights
+Cloze,"Ang {{c1::license}} ng open source models ay nagdidikta kung paano pwedeng gamitin ang model.",,license
+Cloze,"Ang {{c1::self-hosting}} ay ang pag-run ng model sa sariling infrastructure para sa full control at privacy.",,self-hosting
+Cloze,"Ang {{c1::instruction}} ay ang bahagi ng prompt na nagsasabi sa model kung ano ang gagawin.",,instruction
+Cloze,"Ang {{c1::input format}} ay kung paano naka-istruktura ang data na ibibigay sa model.",,input format
+Cloze,"Ang {{c1::system prompt}} ay ang pangunahing instruction na nagse-set ng behavior ng model sa buong session.",,system prompt
+Cloze,"Ang {{c1::context}} sa prompt ay ang background information na kailangan ng model para sumagot nang tama.",,context
+Cloze,"Ang {{c1::delimiters}} ay mga markers na ginagamit para ihiwalay ang iba't ibang bahagi ng prompt.",,delimiters
+Cloze,"Ang {{c1::few-shot examples}} ay mga halimbawa na inilalagay sa prompt para i-guide ang format ng sagot.",,few-shot examples
+Cloze,"Ang {{c1::output format}} ay ang specification kung paano dapat i-format ang sagot (hal. JSON).",,output format
+Cloze,"Ang {{c1::role}} sa prompt ay ang persona na ginagampanan ng model (hal. helpful assistant).",,role
+Cloze,"Ang {{c1::constraints}} ay mga limits na inilalagay sa prompt para i-control ang output.",,constraints
+Cloze,"Ang {{c1::zero-shot}} prompting ay ang pagtatanong sa model nang walang anumang examples.",,zero-shot
+Cloze,"Ang {{c1::few-shot}} prompting ay ang pagbibigay ng ilang examples sa prompt bago ang aktwal na task.",,few-shot
+Cloze,"Ang {{c1::chain-of-thought}} (CoT) ay ang paghihikayat sa model na mag-isip nang step by step bago sumagot.",,chain-of-thought
+Cloze,"Ang {{c1::zero-shot CoT}} ay ginagawa sa pamamagitan ng pag-add ng 'Let's think step by step' sa prompt.",,zero-shot CoT
+Cloze,"Ang {{c1::self-consistency}} ay ang pag-run ng CoT ng maraming beses at pag-pick ng pinaka-consistent na sagot.",,self-consistency
+Cloze,"Ang mga examples sa few-shot ay dapat na {{c1::representative}} ng task na ginagawa.",,representative
+Cloze,"Ang {{c1::prompt template}} ay isang reusable na prompt na may placeholders para sa dynamic na content.",,prompt template
+Cloze,"Ang CoT ay partikular na kapaki-pakinabang sa {{c1::reasoning}} tasks tulad ng math at logic.",,reasoning
+Cloze,"Ang pag-aayos ng examples mula simple hanggang complex ay tinatawag na {{c1::curriculum}} ordering.",,curriculum
+Cloze,"Ang {{c1::ReAct}} ay isang prompting technique na nagpapalit-palit ng reasoning at action.",,ReAct
+Cloze,"Sa ReAct, ang model ay nag-iisip ({{c1::thought}}) bago gumawa ng aksyon (action).",,thought
+Cloze,"Ang {{c1::role prompting}} ay ang pagbibigay sa model ng specific na persona para i-guide ang sagot.",,role prompting
+Cloze,"Ang {{c1::behavior}} specification ay ang pagtuturo sa model kung paano kumilos (hal. maging concise).",,behavior
+Cloze,"Ang {{c1::constraints}} ay mga restrictions tulad ng format, haba, o topics na pwedeng sagutin.",,constraints
+Cloze,"Sa ReAct, ang {{c1::observation}} ay ang resulta ng action na binabalik sa model para sa susunod na thought.",,observation
+Cloze,"Ang {{c1::tool use}} sa ReAct ay ang pag-call ng external tools tulad ng search o calculator.",,tool use
+Cloze,"Ang {{c1::chain-of-thought}} ay ang pag-break ng complex problem sa mga smaller steps.",,chain-of-thought
+Cloze,"Ang pag-set ng {{c1::persona}} ay nakakatulong i-adapt ang tone at style ng model.",,persona
+Cloze,"Ang {{c1::temperature}} ay nagkokontrol kung gaano ka-random ang mga sagot ng model.",,temperature
+Cloze,"Ang mababang {{c1::temperature}} (hal. 0.1) ay gumagawa ng mas deterministic at focused na output.",,temperature
+Cloze,"Ang {{c1::top-k}} sampling ay naglilimita sa pagpili ng susunod na token sa top k na pinakamalamang.",,top-k
+Cloze,"Ang {{c1::top-p}} (nucleus) sampling ay pumipili ng tokens hanggang sa ma-reach ang cumulative probability na p.",,top-p
+Cloze,"Ang {{c1::repetition penalty}} ay nagpapababa ng chance na maulit ng model ang mga nasabi na nitong tokens.",,repetition penalty
+Cloze,"Ang {{c1::seed}} ay ginagamit para mag-reproduce ng parehong output sa ilang sampling scenarios.",,seed
+Cloze,"Ang {{c1::max tokens}} ay naglilimita sa haba ng generated na sagot.",,max tokens
+Cloze,"Ang mataas na temperature ay angkop para sa {{c1::creative}} tasks tulad ng brainstorming.",,creative
+Cloze,"Ang mababang temperature ay angkop para sa {{c1::factual}} tasks tulad ng extraction.",,factual
+Cloze,"Ang {{c1::structured output}} ay ang paggawa ng model ng output sa isang specific na schema o format.",,structured output
+Cloze,"Ang {{c1::JSON mode}} ay nagpapagawa sa model ng valid na JSON na pwedeng i-parse sa code.",,JSON mode
+Cloze,"Ang {{c1::function calling}} ay ang kakayahan ng model na mag-trigger ng predefined functions.",,function calling
+Cloze,"Ang {{c1::output schema}} ay ang definition ng inaasahang structure ng response.",,output schema
+Cloze,"Ang {{c1::tool call}} ay ang request ng model na mag-execute ng isang function na may specific arguments.",,tool call
+Cloze,"Sa function calling, ang {{c1::tool_choice}} ay nagko-control kung aling tool ang pwedeng gamitin ng model.",,tool_choice
+Cloze,"Ang pag-declare ng {{c1::function parameters}} ay ginagawa gamit ang JSON schema.",,function parameters
+Cloze,"Ang {{c1::Pydantic}} o marshmallow ay ginagamit para i-validate ang structured outputs sa Python.",,Pydantic
+Cloze,"Ang {{c1::streaming}} ay nagpapadala ng output nang paunti-unti habang ginagawa ito ng model.",,streaming
+Cloze,"Ang {{c1::prompt caching}} ay ang pag-store ng paulit-ulit na prompt parts para mas mabilis at mura ang calls.",,prompt caching
+Cloze,"Ang {{c1::streaming responses}} ay ang pag-receive ng tokens nang paunti-unti habang nagko-generate ang model.",,streaming responses
+Cloze,"Ang {{c1::context engineering}} ay ang pagdidisenyo ng context para ma-maximize ang relevance at efficiency.",,context engineering
+Cloze,"Ang {{c1::token usage}} tracking ay importante para ma-manage ang cost ng API calls.",,token usage
+Cloze,"Ang {{c1::cache hit}} ay nangyayari kapag may nakita na ring kaparehong prompt na na-cache na.",,cache hit
+Cloze,"Ang {{c1::latency}} ay ang oras mula sa pag-send ng request hanggang sa pag-receive ng sagot.",,latency
+Cloze,"Ang pag-sort ng {{c1::system prompts}} at static context sa simula ay nakakatulong sa prompt caching.",,system prompts
+Cloze,"Ang {{c1::cost optimization}} ay ang pagbabawas ng token consumption nang hindi sinasakripisyo ang quality.",,cost optimization
+Cloze,"Ang {{c1::dynamic context}} ay ang context na nagbabago base sa user input o state.",,dynamic context
+Cloze,"Ang {{c1::bias}} sa AI ay ang hindi patas na pagtrato sa ilang grupo base sa training data o algorithms.",,bias
+Cloze,"Ang {{c1::fairness}} ay ang pagtiyak na pantay ang treatment ng AI sa lahat ng users.",,fairness
+Cloze,"Ang {{c1::hallucination}} ay ang pag-generate ng model ng maling impormasyon na parang totoo.",,hallucination
+Cloze,"Ang {{c1::privacy}} concern ay ang pag-expose ng personal na impormasyon ng users sa AI systems.",,privacy
+Cloze,"Ang {{c1::data poisoning}} ay ang deliberate na pagpasok ng maling data sa training set.",,data poisoning
+Cloze,"Ang {{c1::transparency}} ay ang kakayahang ipaliwanag kung bakit ganun ang naging desisyon ng AI.",,transparency
+Cloze,"Ang {{c1::accountability}} ay ang pagtukoy kung sino ang responsable sa mga aksyon ng AI system.",,accountability
+Cloze,"Ang {{c1::consent}} ay ang pagkuha ng pahintulot ng users bago gamitin ang kanilang data.",,consent
+Cloze,"Ang {{c1::red teaming}} ay ang pagsubok sa AI system para makahanap ng vulnerabilities at failures.",,red teaming
+Cloze,"Ang {{c1::prompt injection}} ay ang pag-manipulate sa model para magsagawa ng unintended actions.",,prompt injection
+Cloze,"Ang {{c1::direct injection}} ay nangyayari kapag ang malicious instruction ay galing mismo sa user input.",,direct injection
+Cloze,"Ang {{c1::indirect injection}} ay nangyayari kapag ang malicious instruction ay naka-embed sa external content tulad ng web pages.",,indirect injection
+Cloze,"Ang {{c1::jailbreak}} ay ang pag-bypass ng model safety measures gamit ang cleverly crafted prompts.",,jailbreak
+Cloze,"Ang {{c1::input sanitization}} ay ang paglilinis ng user input bago i-prompt sa model.",,input sanitization
+Cloze,"Ang {{c1::delimiting}} ay ang paghihiwalay ng untrusted data sa mga instructions para maiwasan ang injection.",,delimiting
+Cloze,"Ang {{c1::output filtering}} ay ang pag-check sa model output para sa malicious o dangerous content.",,output filtering
+Cloze,"Ang {{c1::least privilege}} ay ang pagbibigay lang sa model ng pinaka-kaunting permissions na kailangan.",,least privilege
+Cloze,"Ang {{c1::adversarial testing}} ay ang sistematikong paghahanap ng prompt injection vulnerabilities.",,adversarial testing
+Cloze,"Ang pagdagdag ng {{c1::end-user IDs}} sa prompts ay nakakatulong sa pag-track ng usage at pag-enforce ng policies.",,end-user IDs
+Cloze,"Ang {{c1::rate limiting}} ay ang paglilimita sa bilang ng requests na pwedeng gawin ng isang user o IP.",,rate limiting
+Cloze,"Ang {{c1::input constraints}} ay mga limits sa kung ano ang pwedeng ipasok sa model (hal. max length).",,input constraints
+Cloze,"Ang {{c1::output constraints}} ay mga limits sa kung ano ang pwedeng ilabas ng model (hal. allowed formats).",,output constraints
+Cloze,"Ang {{c1::data retention}} ay ang policy kung gaano katagal iniimbak ang data ng users.",,data retention
+Cloze,"Ang {{c1::encryption}} ay ang pag-encode ng data para hindi ito mabasa ng unauthorized parties.",,encryption
+Cloze,"Ang {{c1::access control}} ay ang paglilimita kung sino ang pwedeng gumamit ng AI system.",,access control
+Cloze,"Ang {{c1::audit logs}} ay mga tala ng lahat ng requests at actions para sa monitoring.",,audit logs
+Cloze,"Ang {{c1::sandboxing}} ay ang pagpapatakbo ng untrusted code sa isolated na environment.",,sandboxing
+Cloze,"Ang {{c1::adversarial testing}} ay ang pagsubok sa model gamit ang mga inputs na dinisenyo para mag-fail ito.",,adversarial testing
+Cloze,"Ang {{c1::content moderation}} ay ang pag-filter ng content na nakakasama o lumalabag sa policies.",,content moderation
+Cloze,"Ang {{c1::moderation APIs}} ay mga services na awtomatikong nag-che-check ng content para sa safety.",,moderation APIs
+Cloze,"Ang pag-alam sa {{c1::use cases}} ng iyong app ay importante para ma-assess ang safety risks.",,use cases
+Cloze,"Ang {{c1::human review}} ay ang pagpasok ng tao sa loop para i-verify ang borderline outputs.",,human review
+Cloze,"Ang {{c1::safety policies}} ay mga guidelines na nagdedefine kung ano ang acceptable na content.",,safety policies
+Cloze,"Ang {{c1::monitoring}} ay ang patuloy na pag-observe ng AI system para sa issues.",,monitoring
+Cloze,"Ang {{c1::feedback loops}} ay ang paggamit ng user feedback para i-improve ang system.",,feedback loops
+Cloze,"Ang {{c1::safety evals}} ay ang pag-test sa system laban sa isang set ng safety scenarios.",,safety evals
+Cloze,"Ang {{c1::closed models}} ay mga proprietary models na ina-access lang sa pamamagitan ng paid APIs.",,closed models
+Cloze,"Ang {{c1::open source models}} ay mga models na pwedeng i-download at patakbuhin sa sariling infra.",,open source models
+Cloze,"Ang {{c1::self-hosted models}} ay mga models na naka-deploy sa sariling servers para sa full control.",,self-hosted models
+Cloze,"Ang pag-pick ng model ay dapat base sa {{c1::trade-offs}} sa pagitan ng cost, performance, at control.",,trade-offs
+Cloze,"Ang {{c1::vendor lock-in}} ay ang risk na mahirap nang lumipat sa ibang provider.",,vendor lock-in
+Cloze,"Ang {{c1::latency}} ng self-hosted models ay pwedeng mas mababa kaysa sa cloud APIs.",,latency
+Cloze,"Ang {{c1::data privacy}} ay mas kontrolado kapag self-hosted ang model.",,data privacy
+Cloze,"Ang {{c1::benchmark}} ay ang standard na paraan para i-compare ang performance ng models.",,benchmark
+Cloze,"Ang {{c1::scaling}} ay ang kakayahan ng deployment na humawak ng lumalaking workload.",,scaling
+Cloze,"Ang {{c1::Ollama}} ay isang tool para mag-run ng open source models sa local machine.",,Ollama
+Cloze,"Ang {{c1::LM Studio}} ay isang desktop app para mag-download at mag-run ng local models.",,LM Studio
+Cloze,"Ang {{c1::Hugging Face Hub}} ay ang pinaka-popular na repository ng models at datasets.",,Hugging Face Hub
+Cloze,"Ang {{c1::Transformers.js}} ay nagpapahintulot mag-run ng models sa browser gamit ang JavaScript.",,Transformers.js
+Cloze,"Ang {{c1::Ollama CLI}} ay ginagamit para mag-pull at mag-run ng models sa command line.",,Ollama CLI
+Cloze,"Ang {{c1::model quantization}} ay ang pagbabawas ng model size para mas mabilis at mas magaan ito.",,model quantization
+Cloze,"Ang {{c1::GPU acceleration}} ay ginagamit para mas mabilis ang inference ng local models.",,GPU acceleration
+Cloze,"Ang {{c1::Hugging Face Inference SDK}} ay ginagamit para mag-call sa hosted models sa Hub.",,Hugging Face Inference SDK
+Cloze,"Ang {{c1::transformers}} library ay ang Python library para sa model loading at inference.",,transformers
+Cloze,"Ang {{c1::Responses API}} ay ang bagong API ng OpenAI para sa chat at agent tasks.",,Responses API
+Cloze,"Ang {{c1::OpenAI SDK}} ay ang official na library para mag-call sa OpenAI APIs.",,OpenAI SDK
+Cloze,"Ang {{c1::embeddings}} API ay ginagamit para i-convert ang text sa vector representations.",,embeddings
+Cloze,"Ang {{c1::Chat Completions}} ay ang mas lumang endpoint ng OpenAI para sa chat conversations.",,Chat Completions
+Cloze,"Ang {{c1::GPT-4o}} ay isang multimodal model ng OpenAI na kayang mag-handle ng text at images.",,GPT-4o
+Cloze,"Ang {{c1::model selection}} ay ang pagpili ng tamang model variant base sa task at cost.",,model selection
+Cloze,"Ang {{c1::API key}} ay ang authentication na ginagamit para ma-access ang OpenAI services.",,API key
+Cloze,"Ang {{c1::temperature}} at iba pang parameters ay pwedeng i-set sa API request para i-control ang output.",,temperature
+Cloze,"Ang {{c1::usage}} field sa response ay nagpapakita ng token consumption ng bawat request.",,usage
+Cloze,"Ang {{c1::Gemini API}} ay ang Google API para sa Gemini models.",,Gemini API
+Cloze,"Ang {{c1::Messages API}} ay ang Anthropic API para sa Claude models.",,Messages API
+Cloze,"Ang {{c1::OpenAI-compatible APIs}} ay mga interfaces na sumusunod sa OpenAI request format.",,OpenAI-compatible APIs
+Cloze,"Ang {{c1::Claude 3.5 Sonnet}} ay isang modelo ng Anthropic na kilala sa reasoning at coding.",,Claude 3.5 Sonnet
+Cloze,"Ang {{c1::Google AI Studio}} ay ang web tool para mag-experiment sa Gemini models.",,Google AI Studio
+Cloze,"Ang {{c1::Anthropic SDK}} ay ang official library para sa Claude models.",,Anthropic SDK
+Cloze,"Ang {{c1::generation_config}} ay kung saan naka-set ang temperature at iba pang parameters sa Gemini.",,generation_config
+Cloze,"Ang {{c1::max_tokens}} ay ang parameter na naglilimita sa haba ng sagot ng Claude.",,max_tokens
+Cloze,"Ang paggamit ng {{c1::multi-provider}} approach ay nagbibigay ng flexibility sa pag-switch ng vendors.",,multi-provider
+Cloze,"Ang {{c1::Hugging Face Inference SDK}} ay nagpapadali ng pag-call sa hosted models sa Hub.",,Hugging Face Inference SDK
+Cloze,"Ang {{c1::OpenRouter}} ay isang platform na nagbibigay ng access sa maraming models sa isang API.",,OpenRouter
+Cloze,"Ang {{c1::Vertex AI Agent Builder}} ay ang Google platform para mag-build ng AI agents.",,Vertex AI Agent Builder
+Cloze,"Ang {{c1::LangChain}} ay isang framework para mag-build ng LLM-powered applications.",,LangChain
+Cloze,"Ang {{c1::LlamaIndex}} ay isang framework na naka-focus sa data connection at retrieval para sa LLMs.",,LlamaIndex
+Cloze,"Ang {{c1::Hugging Face Spaces}} ay hosting para sa ML demos at apps.",,Hugging Face Spaces
+Cloze,"Ang {{c1::OpenRouter}} ay sumusuporta sa OpenAI-compatible request format.",,OpenRouter
+Cloze,"Ang {{c1::Inference Endpoints}} ay ang managed serving ng Hugging Face para sa mga models.",,Inference Endpoints
+Cloze,"Ang {{c1::ecosystem}} ng AI tools ay tumutukoy sa buong set ng libraries at platforms na available.",,ecosystem
+Cloze,"Ang {{c1::embedding}} ay isang vector representation ng text o data na naglalaman ng semantic meaning.",,embedding
+Cloze,"Ang {{c1::semantic search}} ay ang paghahanap batay sa kahulugan, hindi sa eksaktong keywords.",,semantic search
+Cloze,"Ang {{c1::recommendation systems}} ay gumagamit ng embeddings para mag-suggest ng mga related items.",,recommendation systems
+Cloze,"Ang {{c1::anomaly detection}} ay gumagamit ng embeddings para makahanap ng unusual data points.",,anomaly detection
+Cloze,"Ang {{c1::data classification}} ay gumagamit ng embeddings para ma-group ang mga similar texts.",,data classification
+Cloze,"Ang {{c1::similarity}} sa pagitan ng embeddings ay sinusukat gamit ang cosine similarity o distance metrics.",,similarity
+Cloze,"Ang {{c1::dimension}} ng embedding ay tumutukoy sa bilang ng numbers sa vector.",,dimension
+Cloze,"Ang {{c1::document embeddings}} ay ang mga vector representations ng buong documents.",,document embeddings
+Cloze,"Ang {{c1::deduplication}} ay isang use case ng embeddings para makahanap ng mga duplicate na content.",,deduplication
+Cloze,"Ang {{c1::OpenAI Embeddings API}} ay nagko-convert ng text sa embeddings gamit ang models tulad ng text-embedding-3-small.",,OpenAI Embeddings API
+Cloze,"Ang {{c1::Cohere}} ay nagpo-provide ng embed models na optimized para sa retrieval tasks.",,Cohere
+Cloze,"Ang {{c1::Gemini Embedding}} ay ang embedding model ng Google para sa text at multimodal data.",,Gemini Embedding
+Cloze,"Ang {{c1::Jina}} ay nagpo-provide ng open source embedding models.",,Jina
+Cloze,"Ang {{c1::Sentence Transformers}} ay isang library na nagrurun ng embedding models sa local machine.",,Sentence Transformers
+Cloze,"Ang pag-pick ng {{c1::embedding model}} ay depende sa task at kung saan mo ito i-deploy.",,embedding model
+Cloze,"Ang {{c1::batch processing}} ay ang pag-embed ng maraming texts nang sabay para mas mabilis.",,batch processing
+Cloze,"Ang {{c1::embedding dimension}} ay mahalaga sa storage cost ng vector database.",,embedding dimension
+Cloze,"Ang {{c1::model comparison}} ay ang pag-test ng iba't ibang embedding models sa iyong data.",,model comparison
+Cloze,"Ang {{c1::vector database}} ay isang database na espesyal na dinisenyo para mag-store at mag-search ng embeddings.",,vector database
+Cloze,"Ang pangunahing {{c1::function}} ng vector DB ay ang mabilis na similarity search sa malalaking datasets.",,function
+Cloze,"Ang {{c1::Chroma}} ay isang open source vector database na madaling i-set up locally.",,Chroma
+Cloze,"Ang {{c1::FAISS}} ay isang library ng Meta para sa efficient na similarity search.",,FAISS
+Cloze,"Ang {{c1::index}} ay ang data structure na ginagamit para mapabilis ang vector search.",,index
+Cloze,"Ang {{c1::metadata}} ay ang extra information na naka-store kasama ng bawat vector.",,metadata
+Cloze,"Ang {{c1::similarity metric}} (hal. cosine, euclidean) ay nagdedetermine kung paano susukatin ang distance.",,similarity metric
+Cloze,"Ang {{c1::ANN}} (Approximate Nearest Neighbor) ay ang technique para sa mabilis ngunit approximate na search.",,ANN
+Cloze,"Ang {{c1::upsert}} ay ang operation na nag-iinsert o nag-uupdate ng vectors sa collection.",,upsert
+Cloze,"Ang {{c1::Pinecone}} ay isang managed cloud vector database na may mababang maintenance.",,Pinecone
+Cloze,"Ang {{c1::Weaviate}} ay isang open source vector database na may built-in na GraphQL API.",,Weaviate
+Cloze,"Ang {{c1::Qdrant}} ay isang vector database na kilala sa performance at flexibility.",,Qdrant
+Cloze,"Ang {{c1::LanceDB}} ay isang embedded vector database na tumatakbo sa loob ng application.",,LanceDB
+Cloze,"Ang {{c1::Supabase}} ay gumagamit ng pgvector para sa vector search sa PostgreSQL.",,Supabase
+Cloze,"Ang {{c1::MongoDB Atlas}} ay may vector search feature para sa document-based data.",,MongoDB Atlas
+Cloze,"Ang {{c1::hybrid search}} ay ang pagsasama ng keyword at vector search.",,hybrid search
+Cloze,"Ang pagpili ng vector DB ay depende sa {{c1::scale}}, budget, at deployment preference.",,scale
+Cloze,"Ang {{c1::replication}} ay ang pagkopya ng data sa maraming nodes para sa availability.",,replication
+Cloze,"Ang {{c1::indexing}} ay ang pag-organize ng embeddings para sa mabilis na paghahanap.",,indexing
+Cloze,"Ang {{c1::similarity search}} ay ang paghahanap ng vectors na pinaka-malapit sa query vector.",,similarity search
+Cloze,"Ang {{c1::HNSW}} (Hierarchical Navigable Small World) ay isang sikat na ANN algorithm para sa vector search.",,HNSW
+Cloze,"Ang {{c1::cosine similarity}} ay sinusukat ang angle sa pagitan ng dalawang vectors.",,cosine similarity
+Cloze,"Ang {{c1::brute force search}} ay ang pag-compare ng query sa lahat ng vectors (mabagal pero exact).",,brute force search
+Cloze,"Ang {{c1::pre-filtering}} ay ang pag-filter ng vectors base sa metadata bago ang similarity computation.",,pre-filtering
+Cloze,"Ang {{c1::recall}} ay ang sukatan kung gaano karaming tamang results ang nahanap.",,recall
+Cloze,"Ang {{c1::precision}} ay ang sukatan kung gaano karami sa mga nahanap na results ang relevant.",,precision
+Cloze,"Ang {{c1::re-ranking}} ay ang muling pag-aayos ng search results para mas accurate ang top results.",,re-ranking
+Cloze,"Ang {{c1::RAG}} (Retrieval-Augmented Generation) ay ang pag-combine ng retrieval ng documents sa generation ng sagot.",,RAG
+Cloze,"Ang RAG ay ginagamit para i-ground ang model sa {{c1::up-to-date}} o private na information.",,up-to-date
+Cloze,"Ang {{c1::RAG use cases}} ay kasama ang customer support, document Q&A, at knowledge assistants.",,RAG use cases
+Cloze,"Ang {{c1::fine-tuning}} ay nagba-bago sa model weights, samantalang ang RAG ay hindi.",,fine-tuning
+Cloze,"Ang RAG ay mas {{c1::mura}} at mas mabilis i-update kaysa sa fine-tuning.",,mura
+Cloze,"Ang RAG ay nakakatulong mabawasan ang {{c1::hallucination}} sa pamamagitan ng pagbibigay ng source context.",,hallucination
+Cloze,"Ang {{c1::retrieval}} ay ang hakbang na kumukuha ng relevant documents base sa query.",,retrieval
+Cloze,"Ang RAG ay angkop kapag mabilis na nagbabago ang {{c1::knowledge base}} ng app.",,knowledge base
+Cloze,"Ang {{c1::citations}} ay pwedeng i-provide ng RAG para mas credible ang sagot.",,citations
+Cloze,"Ang unang hakbang sa RAG pipeline ay ang {{c1::chunking}} ng documents sa mas maliliit na pieces.",,chunking
+Cloze,"Ang {{c1::embedding}} ay ang pag-convert ng bawat chunk sa vector representation.",,embedding
+Cloze,"Ang mga embeddings ay naka-store sa {{c1::vector database}} para sa retrieval.",,vector database
+Cloze,"Ang {{c1::retrieval}} ay ang pagkuha ng pinaka-relevant na chunks para sa query.",,retrieval
+Cloze,"Ang {{c1::generation}} ay ang paggawa ng LLM ng sagot gamit ang retrieved chunks.",,generation
+Cloze,"Ang {{c1::chunk size}} ay nakakaapekto sa quality ng retrieval.",,chunk size
+Cloze,"Ang {{c1::overlap}} sa pagitan ng chunks ay nakakatulong mapanatili ang context continuity.",,overlap
+Cloze,"Ang {{c1::query embedding}} ay ginagamit para maghanap ng similar chunks sa vector DB.",,query embedding
+Cloze,"Ang retrieved chunks ay naka-{{c1::insert}} sa prompt bilang context ng LLM.",,insert
+Cloze,"Ang pag-implement ng RAG ay pwedeng gawin gamit ang {{c1::SDKs}} nang direkta.",,SDKs
+Cloze,"Ang {{c1::LangChain}} ay isang framework na nagpapadali sa pagbuo ng RAG pipelines.",,LangChain
+Cloze,"Ang {{c1::LlamaIndex}} ay isang framework na naka-focus sa data ingestion at retrieval para sa RAG.",,LlamaIndex
+Cloze,"Ang pag-implement ng RAG nang manual ay nagbibigay ng {{c1::full control}} sa bawat hakbang.",,full control
+Cloze,"Ang paggamit ng framework ay nakakapag-{{c1::mapabilis}} ng development pero may learning curve.",,mapabilis
+Cloze,"Sa LangChain, ang {{c1::Document Loaders}} ay ginagamit para mag-load ng data mula sa sources.",,Document Loaders
+Cloze,"Sa LangChain, ang {{c1::Text Splitters}} ay ginagamit para i-chunk ang documents.",,Text Splitters
+Cloze,"Sa LlamaIndex, ang {{c1::VectorStoreIndex}} ay ang pangunahing structure para sa retrieval.",,VectorStoreIndex
+Cloze,"Ang {{c1::retriever}} ay ang component na kumukuha ng relevant documents sa query.",,retriever
+Cloze,"Ang {{c1::Haystack}} ay isang framework para mag-build ng production-ready RAG systems.",,Haystack
+Cloze,"Ang {{c1::RAGFlow}} ay isang open source platform para sa RAG na may visual workflow.",,RAGFlow
+Cloze,"Sa Haystack, ang mga components ay naka-connect sa pamamagitan ng {{c1::Pipelines}}.",,Pipelines
+Cloze,"Ang RAGFlow ay may suporta para sa {{c1::deep document understanding}} kabilang ang layout analysis.",,deep document understanding
+Cloze,"Sa Haystack, ang {{c1::DocumentStore}} ay kung saan naka-store ang documents.",,DocumentStore
+Cloze,"Ang {{c1::Retriever}} sa Haystack ay kumukuha ng documents mula sa DocumentStore.",,Retriever
+Cloze,"Ang {{c1::AnswerGenerator}} sa Haystack ay gumagawa ng sagot base sa retrieved docs.",,AnswerGenerator
+Cloze,"Ang RAGFlow ay madalas na ine-deploy gamit ang {{c1::Docker}}.",,Docker
+Cloze,"Ang pag-pick ng RAG framework ay depende sa {{c1::team skills}} at requirements ng project.",,team skills
+Cloze,"Ang {{c1::external memory}} sa RAG ay ang paggamit ng storage sa labas ng model para sa knowledge.",,external memory
+Cloze,"Ang {{c1::dynamic filters}} ay ang pag-filter ng retrieval base sa runtime context o user preferences.",,dynamic filters
+Cloze,"Ang {{c1::context compaction}} ay ang pagbabawas ng context size para hindi ma-exceed ang token limit.",,context compaction
+Cloze,"Ang {{c1::context isolation}} ay ang paghihiwalay ng iba't ibang data sources o tenants.",,context isolation
+Cloze,"Ang {{c1::reranking}} ay ang pagre-rank ng retrieved chunks para mas accurate ang top results.",,reranking
+Cloze,"Ang {{c1::HyDE}} (Hypothetical Document Embeddings) ay ang pag-embed ng hypothetical answer para mas magandang retrieval.",,HyDE
+Cloze,"Ang {{c1::query expansion}} ay ang pagpapalawak ng query para mas maraming relevant documents.",,query expansion
+Cloze,"Ang {{c1::multi-stage retrieval}} ay ang paggamit ng ilang retrieval methods nang sunud-sunod.",,multi-stage retrieval
+Cloze,"Ang {{c1::metadata filtering}} ay ang pag-filter ng retrieval gamit ang metadata attributes.",,metadata filtering
+Cloze,"Ang {{c1::retrieval quality}} ay sumusukat kung gaano relevant ang mga na-retrieve na chunks.",,retrieval quality
+Cloze,"Ang {{c1::groundedness}} ay sumusukat kung ang sagot ay suportado ng retrieved context.",,groundedness
+Cloze,"Ang {{c1::RAGAS}} ay isang framework para mag-evaluate ng RAG systems.",,RAGAS
+Cloze,"Ang {{c1::DeepEval}} ay isang framework para sa LLM at RAG evaluation.",,DeepEval
+Cloze,"Ang {{c1::context precision}} ay sumusukat kung gaano ka-relevant ang retrieved context sa query.",,context precision
+Cloze,"Ang {{c1::faithfulness}} ay sumusukat kung ang sagot ay consistent sa retrieved documents.",,faithfulness
+Cloze,"Ang {{c1::answer relevance}} ay sumusukat kung ang sagot ay tumutugon sa tanong.",,answer relevance
+Cloze,"Ang {{c1::eval dataset}} ay ang set ng mga question-answer pairs na ginagamit sa evaluation.",,eval dataset
+Cloze,"Ang {{c1::golden documents}} ay ang mga expected na documents para sa bawat test query.",,golden documents
+Cloze,"Ang {{c1::AI agent}} ay isang system na gumagamit ng LLM para mag-decide at mag-execute ng actions.",,AI agent
+Cloze,"Ang mga {{c1::use cases}} ng AI agents ay kasama ang customer support, data analysis, at automation.",,use cases
+Cloze,"Ang {{c1::agent workflow}} ay ang proseso kung paano nag-iisip, kumikilos, at nag-aadjust ang agent.",,agent workflow
+Cloze,"Ang {{c1::tools}} ay ang mga external functions na pwedeng i-call ng agent.",,tools
+Cloze,"Ang {{c1::planning}} ay ang kakayahan ng agent na i-break ang task sa mga steps.",,planning
+Cloze,"Ang {{c1::memory}} ay nagpapahintulot sa agent na matandaan ang context ng conversation.",,memory
+Cloze,"Ang {{c1::autonomy}} ay ang antas ng kalayaan ng agent na kumilos nang walang human input.",,autonomy
+Cloze,"Ang {{c1::human-in-the-loop}} ay ang pattern kung saan may tao pang nag-aapprove ng agent actions.",,human-in-the-loop
+Cloze,"Ang {{c1::agent loop}} ay ang cycle ng thought, action, at observation na inuulit hanggang matapos ang task.",,agent loop
+Cloze,"Ang {{c1::function calling}} ay ang kakayahan ng model na mag-request ng pag-execute ng functions.",,function calling
+Cloze,"Ang {{c1::tool definitions}} ay ang mga function schemas na binibigay sa model.",,tool definitions
+Cloze,"Ang {{c1::execution loop}} ay ang paulit-ulit na proseso ng LLM call at tool execution.",,execution loop
+Cloze,"Ang {{c1::arguments}} ay ang mga parameters na ibinibigay sa function ng model.",,arguments
+Cloze,"Ang {{c1::tool_choice}} ay nagko-control kung aling tool ang pwedeng gamitin ng model.",,tool_choice
+Cloze,"Ang {{c1::tool result}} ay ang output ng executed function na ibinabalik sa model.",,tool result
+Cloze,"Ang {{c1::conversation history}} ay naglalaman ng lahat ng messages kabilang ang tool calls.",,conversation history
+Cloze,"Ang pag-validate ng {{c1::tool arguments}} ay importante para maiwasan ang errors.",,tool arguments
+Cloze,"Ang {{c1::max iterations}} ay ang limit sa bilang ng tool calls na pwedeng gawin ng agent.",,max iterations
+Cloze,"Ang {{c1::OpenAI AgentKit}} ay ang toolkit ng OpenAI para mag-build ng AI agents.",,OpenAI AgentKit
+Cloze,"Ang {{c1::OpenAI Agent SDK}} ay ang opisyal na SDK ng OpenAI para sa agents.",,OpenAI Agent SDK
+Cloze,"Ang {{c1::Claude Agent SDK}} ay ang Anthropic SDK para mag-build ng agents gamit ang Claude.",,Claude Agent SDK
+Cloze,"Ang {{c1::Google ADK}} (Agent Development Kit) ay ang Google framework para sa agents.",,Google ADK
+Cloze,"Ang mga agent frameworks ay nagbibigay ng built-in na {{c1::loop management}} para sa tool calls.",,loop management
+Cloze,"Ang {{c1::Agent class}} ay ang pangunahing abstraction sa OpenAI Agent SDK.",,Agent class
+Cloze,"Ang {{c1::Runner}} sa OpenAI Agent SDK ay ang component na nagpapatakbo ng agent.",,Runner
+Cloze,"Ang {{c1::streaming}} ay sinusuportahan ng mga agent SDKs para sa real-time na output.",,streaming
+Cloze,"Ang pag-pick ng agent framework ay depende sa {{c1::model provider}} na ginagamit mo.",,model provider
+Cloze,"Ang {{c1::ReAct}} ay isang pattern na nagpapalit-palit ng reasoning (thought) at action.",,ReAct
+Cloze,"Ang {{c1::Thought}} ay ang hakbang kung saan nagpaplano o nag-iisip ang model.",,Thought
+Cloze,"Ang {{c1::Action}} ay ang hakbang kung saan nag-call ang model ng tool.",,Action
+Cloze,"Ang {{c1::Observation}} ay ang resulta ng action na ginagamit para sa susunod na thought.",,Observation
+Cloze,"Ang manual ReAct implementation ay ginagawa sa pamamagitan ng {{c1::prompt templates}}.",,prompt templates
+Cloze,"Ang ReAct ay mabisa para sa {{c1::multi-step}} na mga problem.",,multi-step
+Cloze,"Ang ReAct loop ay nagtatapos kapag nagbigay na ang model ng {{c1::Final Answer}}.",,Final Answer
+Cloze,"Ang {{c1::reasoning}} sa ReAct ay nagpapaliwanag kung bakit ginagawa ang action.",,reasoning
+Cloze,"Ang {{c1::grounding}} ng agent sa tools ay nakakatulong maiwasan ang hallucination.",,grounding
+Cloze,"Ang {{c1::MCP}} (Model Context Protocol) ay isang standard para sa pag-connect ng AI apps sa external data at tools.",,MCP
+Cloze,"Ang {{c1::MCP host}} ay ang application na nagse-serve ng AI interface (hal. Claude Desktop).",,MCP host
+Cloze,"Ang {{c1::MCP server}} ay nagpo-provide ng tools at resources sa host.",,MCP server
+Cloze,"Ang {{c1::MCP client}} ay ang component sa host na nakikipag-communicate sa server.",,MCP client
+Cloze,"Ang {{c1::data layer}} sa MCP ay naglalaman ng resources at prompts na pwedeng i-access.",,data layer
+Cloze,"Ang {{c1::transport layer}} ay kung paano nagkokonekta ang client at server (stdio o HTTP).",,transport layer
+Cloze,"Ang {{c1::resources}} sa MCP ay ang data na pwedeng i-read ng host.",,resources
+Cloze,"Ang {{c1::prompts}} sa MCP ay ang reusable prompt templates na pwedeng i-load ng host.",,prompts
+Cloze,"Ang {{c1::tools}} sa MCP ay ang executable functions na ina-expose ng server.",,tools
+Cloze,"Ang {{c1::multi-agent system}} ay isang setup kung saan maraming agents ang nagtutulungan para sa isang task.",,multi-agent system
+Cloze,"Ang {{c1::orchestration}} ay ang pagko-coordinate ng mga agents at ang kanilang mga tasks.",,orchestration
+Cloze,"Ang {{c1::specialized agents}} ay ang mga agents na may specific na role sa system.",,specialized agents
+Cloze,"Ang {{c1::handoff}} ay ang paglilipat ng task mula sa isang agent papunta sa iba.",,handoff
+Cloze,"Ang {{c1::hierarchical}} orchestration ay may supervisor agent na nagde-delegate ng tasks.",,hierarchical
+Cloze,"Ang {{c1::sequential}} orchestration ay nagpapatakbo ng agents nang sunod-sunod.",,sequential
+Cloze,"Ang {{c1::parallel}} orchestration ay nagpapatakbo ng mga agents nang sabay-sabay.",,parallel
+Cloze,"Ang {{c1::shared state}} ay ang common na data na na-a-access ng lahat ng agents.",,shared state
+Cloze,"Ang {{c1::inter-agent communication}} ay ang pagpapalitan ng messages sa pagitan ng agents.",,inter-agent communication
+Cloze,"Ang {{c1::multimodal AI}} ay ang kakayahan ng AI na mag-process ng iba't ibang uri ng data tulad ng text, image, at audio.",,multimodal AI
+Cloze,"Ang {{c1::image understanding}} ay ang kakayahan ng model na mag-analyze ng mga larawan.",,image understanding
+Cloze,"Ang {{c1::image generation}} ay ang paggawa ng mga larawan mula sa text descriptions.",,image generation
+Cloze,"Ang {{c1::video understanding}} ay ang pag-analyze ng model ng mga video content.",,video understanding
+Cloze,"Ang {{c1::audio processing}} ay ang pag-unawa at pag-generate ng mga audio data.",,audio processing
+Cloze,"Ang {{c1::text-to-speech}} (TTS) ay ang pag-convert ng text sa speech.",,text-to-speech
+Cloze,"Ang {{c1::speech-to-text}} (STT) ay ang pag-convert ng speech sa text.",,speech-to-text
+Cloze,"Ang {{c1::multimodal use cases}} ay kasama ang visual Q&A, captioning, at content moderation.",,multimodal use cases
+Cloze,"Ang {{c1::multimodal models}} ay mga models na trained sa maraming modalities nang sabay.",,multimodal models
+Cloze,"Ang {{c1::OpenAI Vision API}} ay nagpapahintulot sa model na mag-analyze ng mga images.",,OpenAI Vision API
+Cloze,"Ang {{c1::DALL-E}} ay ang image generation model ng OpenAI.",,DALL-E
+Cloze,"Ang {{c1::Whisper}} ay ang speech-to-text model ng OpenAI.",,Whisper
+Cloze,"Ang {{c1::TTS API}} ng OpenAI ay nagko-convert ng text sa natural na speech.",,TTS API
+Cloze,"Ang {{c1::image_url}} ay ang paraan ng pag-pass ng image sa OpenAI API.",,image_url
+Cloze,"Ang pag-send ng image sa API ay pwedeng via {{c1::base64}} encoding o URL.",,base64
+Cloze,"Ang {{c1::prompt}} sa image generation ay naglalarawan kung ano ang gagawing image.",,prompt
+Cloze,"Ang {{c1::size}} parameter sa DALL-E ay nagko-control sa dimensions ng generated image.",,size
+Cloze,"Ang {{c1::voice}} parameter sa TTS API ay pumipili ng boses na gagamitin.",,voice
+Cloze,"Ang {{c1::LangChain}} ay may support para sa multimodal LLMs sa pamamagitan ng multi-modal messages.",,LangChain
+Cloze,"Ang {{c1::LlamaIndex}} ay sumusuporta sa multimodal data para sa retrieval at Q&A.",,LlamaIndex
+Cloze,"Ang {{c1::Hugging Face models}} ay may maraming multimodal models na open source.",,Hugging Face models
+Cloze,"Ang {{c1::BLIP}} ay isang image captioning model na available sa Hugging Face.",,BLIP
+Cloze,"Ang {{c1::CLIP}} ay isang model na nag-u-understand ng relationship ng text at images.",,CLIP
+Cloze,"Ang {{c1::image embeddings}} ay ginagamit para sa visual search at retrieval.",,image embeddings
+Cloze,"Ang {{c1::multimodal pipeline}} ay ang pag-combine ng iba't ibang modality processing steps.",,multimodal pipeline
+Cloze,"Ang {{c1::cross-modal retrieval}} ay ang paghahanap ng images gamit ang text queries.",,cross-modal retrieval
+Cloze,"Ang {{c1::multimodal RAG}} ay ang retrieval ng images o documents na may visual content.",,multimodal RAG
+Cloze,"Ang {{c1::LLM evaluations}} ay ang sistematikong pagsukat ng quality ng model outputs.",,LLM evaluations
+Cloze,"Ang {{c1::deterministic evals}} ay mga evaluations na may tiyak na tamang sagot (hal. exact match).",,deterministic evals
+Cloze,"Ang {{c1::model-based evals}} ay gumagamit ng isa pang LLM para i-judge ang output quality.",,model-based evals
+Cloze,"Ang {{c1::human evals}} ay ang pag-review ng mga tao sa quality ng model outputs.",,human evals
+Cloze,"Ang {{c1::evaluation metrics}} ay ang mga quantitative na sukat tulad ng accuracy at F1 score.",,evaluation metrics
+Cloze,"Ang {{c1::regression testing}} ay ang pag-check na hindi bumababa ang quality sa mga bagong update.",,regression testing
+Cloze,"Ang {{c1::eval set}} ay ang curated na set ng mga test cases para sa evaluation.",,eval set
+Cloze,"Ang {{c1::golden answers}} ay ang mga inaasahang tamang sagot sa eval set.",,golden answers
+Cloze,"Ang {{c1::LLM-as-judge}} ay ang pattern kung saan ang isang LLM ang nagre-rate ng output ng isa pang LLM.",,LLM-as-judge
+Cloze,"Ang {{c1::observability}} ay ang kakayahang makita at maunawaan ang estado ng system sa production.",,observability
+Cloze,"Ang {{c1::tracing}} ay ang pag-track ng buong flow ng isang request sa mga components.",,tracing
+Cloze,"Ang {{c1::logging}} ay ang pag-record ng mga events at data ng system para sa analysis.",,logging
+Cloze,"Ang {{c1::cost monitoring}} ay ang pagsubaybay sa gastos ng bawat LLM call.",,cost monitoring
+Cloze,"Ang {{c1::latency monitoring}} ay ang pagsukat ng oras ng bawat request o call.",,latency monitoring
+Cloze,"Ang {{c1::production monitoring}} ay ang patuloy na pag-observe ng live system.",,production monitoring
+Cloze,"Ang {{c1::token usage}} ay ang dami ng tokens na ginagamit sa bawat call na direktang nakakaapekto sa cost.",,token usage
+Cloze,"Ang {{c1::alerts}} ay mga notification na nagpo-trigger kapag may anomaly sa system.",,alerts
+Cloze,"Ang {{c1::dashboards}} ay ang visual na display ng metrics para sa monitoring.",,dashboards
+Cloze,"Ang {{c1::LangSmith}} ay ang observability at evaluation platform ng LangChain.",,LangSmith
+Cloze,"Ang {{c1::Langfuse}} ay isang open source platform para sa LLM observability.",,Langfuse
+Cloze,"Ang {{c1::Helicone}} ay isang proxy na nagko-collect ng metrics ng LLM calls.",,Helicone
+Cloze,"Ang {{c1::Arize AI}} ay isang platform para sa ML at LLM observability at evaluations.",,Arize AI
+Cloze,"Ang {{c1::traces}} sa mga platform na ito ay nagpapakita ng buong flow ng LLM call.",,traces
+Cloze,"Ang {{c1::spans}} ay ang mga individual na segments ng isang trace.",,spans
+Cloze,"Ang {{c1::evaluation types}} ay ang mga iba't ibang paraan ng pag-evaluate (offline vs online).",,evaluation types
+Cloze,"Ang {{c1::online evaluation}} ay ang pag-evaluate gamit ang live production data.",,online evaluation
+Cloze,"Ang {{c1::offline evaluation}} ay ang pag-evaluate gamit ang pre-collected dataset.",,offline evaluation
