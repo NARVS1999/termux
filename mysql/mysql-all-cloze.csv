@@ -1,0 +1,253 @@
+Cloze,"Ang {{c1::table}} ay ang collection ng rows at columns sa relational database na naglalaman ng related data.",,table
+Cloze,"Ang {{c1::row}} o record ay ang isang entry sa table na naglalaman ng values para sa bawat column.",,row
+Cloze,"Ang {{c1::column}} o field ay ang vertical na structure sa table na nagde-define ng data type.",,column
+Cloze,"Ang {{c1::schema}} ay ang blueprint ng database na nagde-define ng tables, columns, at relationships.",,schema
+Cloze,"Ang {{c1::data integrity}} ay ang accuracy at consistency ng data sa buong database lifecycle.",,data integrity
+Cloze,"Ang {{c1::relational model}} ay ang data model na nag-o-organize ng data sa tables na may relationships.",,relational model
+Cloze,"Ang {{c1::primary key}} ay ang unique identifier ng bawat row sa table.",,primary key
+Cloze,"Ang {{c1::domain}} ay ang set ng allowed values para sa isang column (data type + constraints).",,domain
+Cloze,"Ang {{c1::SELECT}} statement ay ginagamit para mag-query at mag-retrieve ng data mula sa database.",,SELECT
+Cloze,"Ang {{c1::INSERT INTO}} statement ay ginagamit para mag-add ng bagong rows sa table.",,INSERT INTO
+Cloze,"Ang {{c1::UPDATE}} statement ay ginagamit para i-modify ang existing rows sa table.",,UPDATE
+Cloze,"Ang {{c1::DELETE}} statement ay ginagamit para mag-remove ng rows mula sa table.",,DELETE
+Cloze,"Ang {{c1::WHERE}} clause ay ginagamit para mag-filter ng rows base sa condition.",,WHERE
+Cloze,"Ang {{c1::SELECT *}} ay nagse-select ng lahat ng columns mula sa table.",,SELECT *
+Cloze,"Ang {{c1::ORDER BY}} clause ay nagso-sort ng results base sa column.",,ORDER BY
+Cloze,"Ang {{c1::LIMIT}} clause ay nag-i-limit sa bilang ng returned rows.",,LIMIT
+Cloze,"Ang {{c1::AS}} keyword ay ginagamit para mag-assign ng alias sa column o table.",,AS
+Cloze,"Ang {{c1::INT}} data type ay para sa integer numbers: TINYINT, SMALLINT, MEDIUMINT, INT, BIGINT.",,INT
+Cloze,"Ang {{c1::VARCHAR}} ay ang variable-length string na may maximum na length: VARCHAR(255).",,VARCHAR
+Cloze,"Ang {{c1::TEXT}} data type ay para sa malalaking text values: TEXT, MEDIUMTEXT, LONGTEXT.",,TEXT
+Cloze,"Ang {{c1::DATE}} ay ang data type para sa date values: YYYY-MM-DD format.",,DATE
+Cloze,"Ang {{c1::TIMESTAMP}} ay ang data type na nagto-track ng date at time with timezone.",,TIMESTAMP
+Cloze,"Ang {{c1::BLOB}} ay para sa binary data: images, files, raw bytes.",,BLOB
+Cloze,"Ang {{c1::ENUM}} ay ang data type na naglalaman ng fixed list ng allowed values.",,ENUM
+Cloze,"Ang {{c1::DECIMAL}} ay ang exact numeric type para sa monetary values: DECIMAL(10,2).",,DECIMAL
+Cloze,"Ang {{c1::comparison operators}} sa SQL ay =, !=, <>, <, >, <=, >= para sa pag-compare ng values.",,comparison operators
+Cloze,"Ang {{c1::logical operators}} ay AND, OR, NOT para sa pag-combine ng conditions.",,logical operators
+Cloze,"Ang {{c1::BETWEEN}} operator ay nagfi-filter ng values sa loob ng range: WHERE age BETWEEN 18 AND 30.",,BETWEEN
+Cloze,"Ang {{c1::IN}} operator ay nagche-check kung ang value ay nasa list: WHERE status IN ('active', 'pending').",,IN
+Cloze,"Ang {{c1::LIKE}} operator ay ginagamit para sa pattern matching: WHERE name LIKE '%john%'.",,LIKE
+Cloze,"Ang {{c1::IS NULL}} ay nagche-check ng null values: WHERE email IS NULL.",,IS NULL
+Cloze,"Ang {{c1::arithmetic operators}} ay +, -, *, /, % para sa mathematical operations sa queries.",,arithmetic operators
+Cloze,"Ang {{c1::CREATE TABLE}} statement ay ginagamit para mag-create ng bagong table sa database.",,CREATE TABLE
+Cloze,"Ang {{c1::NOT NULL}} constraint ay nag-i-sure na ang column ay hindi pwedeng magkaroon ng NULL value.",,NOT NULL
+Cloze,"Ang {{c1::DEFAULT}} constraint ay nagbibigay ng default value kapag hindi nag-specify ng value.",,DEFAULT
+Cloze,"Ang {{c1::AUTO_INCREMENT}} ay nag-a-automate ng pag-generate ng unique number para sa bawat bagong row.",,AUTO_INCREMENT
+Cloze,"Ang {{c1::column definition}} ay ang pagde-define ng name, data type, at constraints ng column.",,column definition
+Cloze,"Ang {{c1::IF NOT EXISTS}} clause ay nagpe-prevent ng error kapag ang table ay existed na.",,IF NOT EXISTS
+Cloze,"Ang {{c1::primary key}} ay ang unique identifier ng bawat row — isang column o combination na hindi nagre-repeat.",,primary key
+Cloze,"Ang {{c1::single-column primary key}} ay ang primary key na gumagamit ng iisang column lang.",,single-column primary key
+Cloze,"Ang {{c1::composite primary key}} ay ang primary key na gumagamit ng dalawa o higit pang columns.",,composite primary key
+Cloze,"Ang {{c1::surrogate key}} ay ang artificial na ID na ginagawangcreate (ex. auto-increment ID).",,surrogate key
+Cloze,"Ang {{c1::natural key}} ay ang existing data na unique sareal (ex. email, SSN).",,natural key
+Cloze,"Ang {{c1::PRIMARY KEY}} constraint ay nagde-define ng primary key sa CREATE TABLE.",,PRIMARY KEY
+Cloze,"Ang {{c1::foreign key}} ay ang constraint na nagko-connect ng dalawang tables gamit ang primary key reference.",,foreign key
+Cloze,"Ang {{c1::REFERENCES}} clause ay nagde-define ng target table at column para sa foreign key.",,REFERENCES
+Cloze,"Ang {{c1::ON DELETE CASCADE}} ay nagde-delete ng child rows kapag na-delete ang parent row.",,ON DELETE CASCADE
+Cloze,"Ang {{c1::ON DELETE SET NULL}} ay nagse-set ng child foreign key sa NULL kapag na-delete ang parent.",,ON DELETE SET NULL
+Cloze,"Ang {{c1::ON UPDATE CASCADE}} ay nag-u-update ng child foreign key kapag nagbago ang parent primary key.",,ON UPDATE CASCADE
+Cloze,"Ang {{c1::referential integrity}} ay ang rule na ang foreign key value ay dapat may tugmang primary key.",,referential integrity
+Cloze,"Ang {{c1::UNIQUE}} constraint ay nag-i-sure na ang column values ay hindi nagre-repeat sa buong table.",,UNIQUE
+Cloze,"Ang {{c1::CHECK}} constraint ay nagva-validate ng data base sa expression: CHECK (age > 0).",,CHECK
+Cloze,"Ang {{c1::index}} ay ang data structure na nagpapabilis ng search operations sa table.",,index
+Cloze,"Ang {{c1::DEFAULT}} value ay ang value na awtomatikong i-aassign kapag hindi nag-specify.",,DEFAULT
+Cloze,"Ang {{c1::data validation}} sa DB level ay ang pag-sure na ang data ay sumusunod sa rules bago i-save.",,data validation
+Cloze,"Ang {{c1::normalization}} ay ang proseso ng pag-o-organize ng data para ma-redundancy at ma-improve ang data integrity.",,normalization
+Cloze,"Ang {{c1::1NF}} o First Normal Form ay nangangailangan na ang bawat column ay atomic (hindi multip-valued).",,1NF
+Cloze,"Ang {{c1::2NF}} o Second Normal Form ay nangangailangan na walang partial dependency sa composite primary key.",,2NF
+Cloze,"Ang {{c1::3NF}} o Third Normal Form ay nangangailangan na walang transitive dependency.",,3NF
+Cloze,"Ang {{c1::Boyce-Codd normal form}} (BCNF) ay stricter version ng 3NF na nag-a-address ng anomalies.",,Boyce-Codd normal form
+Cloze,"Ang {{c1::redundancy}} ay ang pagkakaroon ng duplicate data na nagko-cause ng anomalies.",,redundancy
+Cloze,"Ang {{c1::update anomaly}} ay ang problem kapag nag-update ng data sa isang lugar pero hindi sa iba.",,update anomaly
+Cloze,"Ang {{c1::denormalization}} ay ang proseso ng pagdagdag ng redundant data para pabilisin ang reads.",,denormalization
+Cloze,"Ang {{c1::read-heavy}} na application ay mas marami ang queries kaysa sa writes.",,read-heavy
+Cloze,"Ang {{c1::write-heavy}} na application ay mas marami ang writes kaysa sa queries.",,write-heavy
+Cloze,"Ang {{c1::materialized view}} ay ang pre-computed na query result na naka-store bilang table.",,materialized view
+Cloze,"Ang {{c1::tradeoff}} sa denormalization ay mas mabilis na reads pero mas mabagal na writes.",,tradeoff
+Cloze,"Ang {{c1::ER diagram}} o Entity-Relationship Diagram ay visual na representation ng database schema.",,ER diagram
+Cloze,"Ang {{c1::entity}} ay ang object o concept na nire-represent ng table (ex. User, Order).",,entity
+Cloze,"Ang {{c1::attribute}} ay ang property ng entity (ex. name, email, age).",,attribute
+Cloze,"Ang {{c1::relationship}} ay ang connection sa pagitan ng entities (ex. User places Order).",,relationship
+Cloze,"Ang {{c1::cardinality}} ay ang bilang ng instances sa pagitan ng entities: 1:1, 1:N, M:N.",,cardinality
+Cloze,"Ang {{c1::primary key}} sa ER diagram ay karaniwang naka-underline o marked.",,primary key
+Cloze,"Ang {{c1::audit table}} ay ang table na nagre-record ng lahat ng changes sa isang entity.",,audit table
+Cloze,"Ang {{c1::soft delete}} ay ang technique ng pag-set ng deleted_at timestamp sa halip na i-delete ang row.",,soft delete
+Cloze,"Ang {{c1::polymorphic association}} ay ang relationship na pwedeng tumukoy sa maraming tables.",,polymorphic association
+Cloze,"Ang {{c1::created_at at updated_at}} ay ang timestamps na nag-track ng creation at last update.",,created_at/updated_at
+Cloze,"Ang {{c1::version column}} ay ang column na nag-increment sa bawat update para sa optimistic locking.",,version column
+Cloze,"Ang {{c1::one-to-one}} relationship ay ang connection kung saan isang row sa table A ay may isang row lang sa table B.",,one-to-one
+Cloze,"Ang {{c1::foreign key placement}} sa 1:1 ay karaniwang sa mas maliit na table o sa table na may fewer rows.",,foreign key placement
+Cloze,"Ang {{c1::UNIQUE foreign key}} ay ginagamit para mag-enforce ng 1:1 relationship.",,UNIQUE foreign key
+Cloze,"Ang {{c1::shared primary key}} ay ang pattern kung saan ang dalawang tables ay may parehong primary key.",,shared primary key
+Cloze,"Ang {{c1::one-to-many}} relationship ay ang pinaka-common na relationship: isang row sa A ay may maraming rows sa B.",,one-to-many
+Cloze,"Ang {{c1::foreign key}} sa 1:N ay laging nasa child table (ang 'many' side).",,foreign key
+Cloze,"Ang {{c1::parent table}} ang naglalaman ng primary key, {{c1::child table}} ang may foreign key.",,parent/child table
+Cloze,"Ang {{c1::cascade rules}} ay ang actions kapag nagbago o nag-delete ang parent row.",,cascade rules
+Cloze,"Ang {{c1::many-to-many}} relationship ay ang connection kung saan maraming rows sa A ay may maraming rows sa B.",,many-to-many
+Cloze,"Ang {{c1::junction table}} (associative table) ay ang middle table na nagko-connect sa dalawang tables.",,junction table
+Cloze,"Ang {{c1::composite key}} sa junction table ay ang combination ng dalawang foreign keys bilang primary key.",,composite key
+Cloze,"Ang {{c1::bridge table}} ay isa pang pangalan sa junction table.",,bridge table
+Cloze,"Ang {{c1::INNER JOIN}} ay nagre-return ng rows na may tugmang records sa dalawang tables.",,INNER JOIN
+Cloze,"Ang {{c1::LEFT JOIN}} ay nagre-return ng lahat ng rows mula sa left table, kahit walang tugma sa right.",,LEFT JOIN
+Cloze,"Ang {{c1::RIGHT JOIN}} ay nagre-return ng lahat ng rows mula sa right table, kahit walang tugma sa left.",,RIGHT JOIN
+Cloze,"Ang {{c1::FULL OUTER JOIN}} ay nagre-return ng lahat ng rows mula sa dalawang tables.",,FULL OUTER JOIN
+Cloze,"Ang {{c1::CROSS JOIN}} ay nagcre-create ng Cartesian product — bawat row sa A ay nagpa-pair sa bawat row sa B.",,CROSS JOIN
+Cloze,"Ang {{c1::self-join}} ay ang pag-join ng table sa sarili nito para i-compare ang rows.",,self-join
+Cloze,"Ang {{c1::COUNT()}} function ay nagbibilang ng rows: COUNT(*) para sa lahat, COUNT(column) para sa non-NULL.",,COUNT
+Cloze,"Ang {{c1::SUM()}} function ay nag-a-add ng values sa isang numeric column.",,SUM
+Cloze,"Ang {{c1::AVG()}} function ay nagku-compute ng average ng values sa column.",,AVG
+Cloze,"Ang {{c1::MIN() at MAX()}} functions ay nagre-return ng pinakamababa at pinakamataas na value.",,MIN/MAX
+Cloze,"Ang {{c1::GROUP BY}} clause ay nagga-group ng rows na may parehong values para sa aggregation.",,GROUP BY
+Cloze,"Ang {{c1::HAVING}} clause ay nagfi-filter ng groups base sa aggregate condition (sa halip na WHERE).",,HAVING
+Cloze,"Ang {{c1::aggregate functions}} ay mga functions na nag-o-operate sa group of rows: COUNT, SUM, AVG.",,aggregate functions
+Cloze,"Ang {{c1::subquery}} ay ang query na nasa loob ng ibang query — ang inner query ay nauna bago mag-execute.",,subquery
+Cloze,"Ang {{c1::correlated subquery}} ay ang subquery na nag-refer sa column mula sa outer query.",,correlated subquery
+Cloze,"Ang {{c1::non-correlated subquery}} ay ang subquery na independent sa outer query.",,non-correlated subquery
+Cloze,"Ang {{c1::EXISTS}} operator ay nagche-check kung may rows na returned ng subquery.",,EXISTS
+Cloze,"Ang {{c1::IN}} operator sa subquery ay nagche-check kung ang value ay nasa list ng subquery.",,IN
+Cloze,"Ang {{c1::ANY at ALL}} ay comparison operators na nagco-compare sa lahat ng values ng subquery.",,ANY/ALL
+Cloze,"Ang {{c1::window function}} ay nagco-compute ng value para sa bawat row gamit ang related rows nang hindi nag-g-group.",,window function
+Cloze,"Ang {{c1::ROW_NUMBER()}} ay nag-a-assign ng unique number sa bawat row sa partition.",,ROW_NUMBER
+Cloze,"Ang {{c1::RANK()}} ay nag-a-assign ng rank na may gaps para sa ties.",,RANK
+Cloze,"Ang {{c1::DENSE_RANK()}} ay nag-a-assign ng rank na walang gaps para sa ties.",,DENSE_RANK
+Cloze,"Ang {{c1::OVER()}} clause ay nagde-define ng window para sa window function.",,OVER
+Cloze,"Ang {{c1::PARTITION BY}} ay nagha-hati ng rows sa groups bago i-apply ang window function.",,PARTITION BY
+Cloze,"Ang {{c1::CTE}} o Common Table Expression ay ang temporary named result set na ginagamit sa loob ng query.",,CTE
+Cloze,"Ang {{c1::WITH}} clause ay nagde-define ng CTE bago ang main query.",,WITH
+Cloze,"Ang {{c1::recursive CTE}} ay ang CTE na tumatawag sa sarili para mag-process ng hierarchical data.",,recursive CTE
+Cloze,"Ang {{c1::hierarchical query}} ay ang query na nagna-navigate sa tree-like data (org chart, categories).",,hierarchical query
+Cloze,"Ang {{c1::anchor member}} sa recursive CTE ay ang base case na nagbibigay ng starting rows.",,anchor member
+Cloze,"Ang {{c1::UNION}} ay nagco-combine ng results mula sa dalawang queries at nag-aalis ng duplicates.",,UNION
+Cloze,"Ang {{c1::UNION ALL}} ay nagco-combine ng results na may kasamang duplicates.",,UNION ALL
+Cloze,"Ang {{c1::INTERSECT}} ay nagre-return lang ng rows na present sa dalawang queries.",,INTERSECT
+Cloze,"Ang {{c1::EXCEPT}} o MINUS ay nagre-return ng rows na nasa unang query pero wala sa pangalawa.",,EXCEPT
+Cloze,"Ang {{c1::set operation}} ay ang combining ng results mula sa dalawang SELECT statements.",,set operation
+Cloze,"Ang {{c1::index}} ay ang data structure na nagpapabilis ng search operations sa halip na i-scan ang buong table.",,index
+Cloze,"Ang {{c1::B-tree index}} ay ang default na index type ng MySQL na nag-work sa range at equality queries.",,B-tree
+Cloze,"Ang {{c1::hash index}} ay ang index type na mabilis sa equality queries pero hindi sa range.",,hash index
+Cloze,"Ang {{c1::full table scan}} ay ang proseso ng pagbasa ng lahat ng rows — mabagal sa malalaking tables.",,full table scan
+Cloze,"Ang {{c1::index selectivity}} ay ang ratio ng unique values sa total rows — mas mataas = mas maganda ang index.",,index selectivity
+Cloze,"Ang {{c1::single-column index}} ay index na gumagamit ng iisang column lang.",,single-column index
+Cloze,"Ang {{c1::composite index}} ay index na gumagamit ng dalawa o higit pang columns.",,composite index
+Cloze,"Ang {{c1::covering index}} ay index na naglalaman ng lahat ng columns na kailangan ng query.",,covering index
+Cloze,"Ang {{c1::leftmost prefix}} rule ay nagsasabing ang composite index ay nagagamit mula sa kaliwa.",,leftmost prefix
+Cloze,"Ang {{c1::CREATE INDEX}} statement ay ginagamit para magdagdag ng index sa existing table.",,CREATE INDEX
+Cloze,"Ang {{c1::EXPLAIN}} statement ay nagpapakita ng query execution plan — kung paano nag-run ang MySQL sa query.",,EXPLAIN
+Cloze,"Ang {{c1::EXPLAIN ANALYZE}} ay nag-e-execute talaga ang query at nagbibigay ng actual timing.",,EXPLAIN ANALYZE
+Cloze,"Ang {{c1::type column}} sa EXPLAIN ay nagpapakita ng access type: ALL, index, range, ref, eq_ref, const.",,type column
+Cloze,"Ang {{c1::key column}} sa EXPLAIN ay nagpapakita kung aling index ang ginamit.",,key column
+Cloze,"Ang {{c1::rows column}} sa EXPLAIN ay nag-e-estimate ng bilang ng rows na i-scan.",,rows column
+Cloze,"Ang {{c1::cardinality}} ay ang bilang ng unique values sa column — mas mataas = mas maganda para sa index.",,cardinality
+Cloze,"Ang {{c1::selectivity}} ay ang ratio ng unique values sa total rows: distinct/total.",,selectivity
+Cloze,"Ang {{c1::index maintenance}} ay ang proseso ng pag-rebuild at pag-optimize ng indexes.",,index maintenance
+Cloze,"Ang {{c1::unused index}} ay ang index na hindi ginagamit ng kahit anong query — dapat i-drop.",,unused index
+Cloze,"Ang {{c1::index fragmentation}} ay ang wasted space sa index dahil sa deletes at updates.",,index fragmentation
+Cloze,"Ang {{c1::slow query log}} ay ang MySQL feature na naglo-log ng queries na tumagal ng mahigit sa threshold.",,slow query log
+Cloze,"Ang {{c1::query profiling}} ay ang proseso ng pag-measure ng time na ginugol sa bawat step ng query.",,query profiling
+Cloze,"Ang {{c1::query rewriting}} ay ang technique ng pagbabago ng query para mas mabilis ang execution.",,query rewriting
+Cloze,"Ang {{c1::SELECT *}} ay isang anti-pattern — piliin lang ang kailangan na columns para mas mabilis.",,SELECT *
+Cloze,"Ang {{c1::n+1 problem}} ay ang inefficient query pattern na nagfe-fetch ng data sa maraming round trips.",,n+1 problem
+Cloze,"Ang {{c1::ACID}} ay ang four properties ng transactions: Atomicity, Consistency, Isolation, Durability.",,ACID
+Cloze,"Ang {{c1::atomicity}} ay nangangailangan na ang transaction ay either lahat o walang gagawin.",,atomicity
+Cloze,"Ang {{c1::consistency}} ay nangangailangan na ang transaction ay mag-leave ng valid state ang database.",,consistency
+Cloze,"Ang {{c1::isolation}} ay nangangailangan na ang concurrent transactions ay hindi mag-i-interfere sa isa't isa.",,isolation
+Cloze,"Ang {{c1::durability}} ay nangangailangan na ang committed transactions ay persisted kahit mag-crash.",,durability
+Cloze,"Ang {{c1::BEGIN}} statement ay nagso-start ng bagong transaction.",,BEGIN
+Cloze,"Ang {{c1::COMMIT}} statement ay nagco-commit ng lahat ng changes sa transaction.",,COMMIT
+Cloze,"Ang {{c1::ROLLBACK}} statement ay nagka-cancel ng transaction at nagbabalik sa previous state.",,ROLLBACK
+Cloze,"Ang {{c1::SAVEPOINT}} ay ang marker sa transaction kung saan pwedeng mag-rollback hanggang dito.",,SAVEPOINT
+Cloze,"Ang {{c1::autocommit}} ay ang default na behavior ng MySQL na nagco-commit ng bawat statement.",,autocommit
+Cloze,"Ang {{c1::READ UNCOMMITTED}} ay ang pinaka-relaxed isolation level na nagpapakita ng uncommitted data.",,READ UNCOMMITTED
+Cloze,"Ang {{c1::READ COMMITTED}} ay nagpapakita lang ng committed data sa bawat statement.",,READ COMMITTED
+Cloze,"Ang {{c1::REPEATABLE READ}} ay ang MySQL default na isolation level para sa consistent reads.",,REPEATABLE READ
+Cloze,"Ang {{c1::SERIALIZABLE}} ay ang pinaka-strict isolation level na naglo-lock ng lahat ng rows.",,SERIALIZABLE
+Cloze,"Ang {{c1::phantom read}} ay ang anomaly kung saan nag-a-appear ang bagong rows sa ibang transaction.",,phantom read
+Cloze,"Ang {{c1::row lock}} ay naglo-lock ng specific row na binabago — pinaka-granular na lock.",,row lock
+Cloze,"Ang {{c1::table lock}} ay naglo-lock ng buong table — mas coarse-grained pero mas mabagal.",,table lock
+Cloze,"Ang {{c1::deadlock}} ay ang situation kung saan dalawang transactions ay naghihintay sa locks ng isa't isa.",,deadlock
+Cloze,"Ang {{c1::SELECT FOR UPDATE}} ay naglo-lock ng selected rows para sa exclusive access.",,SELECT FOR UPDATE
+Cloze,"Ang {{c1::lock wait timeout}} ay ang maximum na oras na maghihintay sa lock bago mag-error.",,lock wait timeout
+Cloze,"Ang {{c1::MVCC}} o Multi-Version Concurrency Control ay technique na nagbibigay ng snapshot sa bawat transaction.",,MVCC
+Cloze,"Ang {{c1::optimistic locking}} ay nagche-check ng version bago mag-write — nag-a-assume na walang conflict.",,optimistic locking
+Cloze,"Ang {{c1::pessimistic locking}} ay naglo-lock ng row bago mag-read — nag-a-assume na may conflict.",,pessimistic locking
+Cloze,"Ang {{c1::read view}} sa MVCC ay ang snapshot ng data na nakikita ng isang transaction.",,read view
+Cloze,"Ang {{c1::stored procedure}} ay ang pre-compiled na SQL code na naka-store sa database at tinatawag gamit ang CALL.",,stored procedure
+Cloze,"Ang {{c1::CREATE PROCEDURE}} statement ay ginagamit para mag-create ng bagong stored procedure.",,CREATE PROCEDURE
+Cloze,"Ang {{c1::IN parameter}} ay ang parameter na nagpapasa ng value sa procedure (read-only).",,IN parameter
+Cloze,"Ang {{c1::OUT parameter}} ay ang parameter na nagbabalik ng value mula sa procedure.",,OUT parameter
+Cloze,"Ang {{c1::INOUT parameter}} ay ang parameter na pwedeng magpasok at magbalik ng value.",,INOUT parameter
+Cloze,"Ang {{c1::stored function}} ay ang stored routine na nagbabalik ng value gamit ang RETURN.",,stored function
+Cloze,"Ang {{c1::CREATE FUNCTION}} statement ay ginagamit para mag-create ng stored function.",,CREATE FUNCTION
+Cloze,"Ang {{c1::deterministic function}} ay ang function na laging nagre-return ng parehong result para sa parehong inputs.",,deterministic
+Cloze,"Ang {{c1::non-deterministic function}} ay ang function na pwedeng mag-return ng iba't ibang result.",,non-deterministic
+Cloze,"Ang {{c1::RETURN statement}} sa function ay nagse-set ng value na ibabalik.",,RETURN statement
+Cloze,"Ang {{c1::trigger}} ay ang stored routine na awtomatikong nag-e-execute kapag may INSERT, UPDATE, o DELETE.",,trigger
+Cloze,"Ang {{c1::BEFORE trigger}} ay nag-e-execute bago ang actual na DML operation.",,BEFORE trigger
+Cloze,"Ang {{c1::AFTER trigger}} ay nag-e-execute pagkatapos ng actual na DML operation.",,AFTER trigger
+Cloze,"Ang {{c1::NEW record}} ay ang bagong row na ise-save — available sa INSERT at UPDATE triggers.",,NEW record
+Cloze,"Ang {{c1::OLD record}} ay ang lumang row bago ang change — available sa UPDATE at DELETE triggers.",,OLD record
+Cloze,"Ang {{c1::scheduled event}} ay ang MySQL feature na nag-e-execute ng SQL sa predetermined na time.",,scheduled event
+Cloze,"Ang {{c1::CREATE EVENT}} statement ay ginagamit para mag-create ng scheduled event.",,CREATE EVENT
+Cloze,"Ang {{c1::event scheduler}} ay ang MySQL process na nagmo-monitor at nag-e-execute ng events.",,event scheduler
+Cloze,"Ang {{c1::AT timestamp}} ay nagde-define ng exactong oras ng execution.",,AT timestamp
+Cloze,"Ang {{c1::EVERY interval}} ay nagde-define ng recurring schedule: EVERY 1 DAY, EVERY 5 MINUTE.",,EVERY interval
+Cloze,"Ang {{c1::CREATE USER}} statement ay ginagamit para mag-create ng bagong MySQL user account.",,CREATE USER
+Cloze,"Ang {{c1::GRANT}} statement ay nagbibigay ng privileges sa user: GRANT SELECT, INSERT ON db.* TO 'user'@'host'.",,GRANT
+Cloze,"Ang {{c1::REVOKE}} statement ay nag-aalis ng privileges: REVOKE INSERT ON db.* FROM 'user'@'host'.",,REVOKE
+Cloze,"Ang {{c1::privilege}} ay ang specific na permission: SELECT, INSERT, UPDATE, DELETE, CREATE, DROP.",,privilege
+Cloze,"Ang {{c1::role}} ay ang collection ng privileges na pwedeng i-assign sa maraming users.",,role
+Cloze,"Ang {{c1::mysqldump}} ay ang command-line tool para mag-backup ng MySQL database sa SQL format.",,mysqldump
+Cloze,"Ang {{c1::mysqlpump}} ay ang parallel version ng mysqldump na mas mabilis sa malalaking databases.",,mysqlpump
+Cloze,"Ang {{c1::xtrabackup}} ay ang physical backup tool na nagbibigay ng faster backup at restore.",,xtrabackup
+Cloze,"Ang {{c1::point-in-time recovery}} ay ang proseso ng pag-restore ng database sa specific na timestamp.",,point-in-time recovery
+Cloze,"Ang {{c1::binlog}} ay ang binary log na nagre-record ng lahat ng changes para sa replication at recovery.",,binlog
+Cloze,"Ang {{c1::replication}} ay ang proseso ng pag-copy ng data mula sa isang MySQL server papunta sa isa pa.",,replication
+Cloze,"Ang {{c1::master-slave replication}} ay ang setup kung saan ang master ay nagso-source, slave ay nagre-replicate.",,master-slave
+Cloze,"Ang {{c1::GTID}} o Global Transaction ID ay ang unique identifier para sa bawat transaction sa replication.",,GTID
+Cloze,"Ang {{c1::binlog}} sa master ay ang source ng data para sa slave replication.",,binlog
+Cloze,"Ang {{c1::read replica}} ay ang slave server na ginagamit para sa read-heavy operations.",,read replica
+Cloze,"Ang {{c1::partitioning}} ay ang proseso ng pag-hati ng isang malaking table sa mas maliliit na physical pieces.",,partitioning
+Cloze,"Ang {{c1::RANGE partitioning}} ay nagha-hati ng rows base sa value range: PARTITION BY RANGE (YEAR(created_at)).",,RANGE partitioning
+Cloze,"Ang {{c1::LIST partitioning}} ay nagha-hati ng rows base sa discrete values: PARTITION BY LIST (status).",,LIST partitioning
+Cloze,"Ang {{c1::HASH partitioning}} ay nagha-hati ng rows base sa hash function: PARTITION BY HASH (id).",,HASH partitioning
+Cloze,"Ang {{c1::partition pruning}} ay ang optimization kung saan tinatanggal ang irrelevant partitions sa query.",,partition pruning
+Cloze,"Ang {{c1::innodb_buffer_pool_size}} ay ang pinaka-importanteng config na nagde-determine ng memory para sa InnoDB cache.",,innodb_buffer_pool_size
+Cloze,"Ang {{c1::query_cache}} ay ang feature na nagce-cache ng SELECT results — deprecated sa MySQL 8.0.",,query_cache
+Cloze,"Ang {{c1::thread_cache}} ay ang cache ng threads na nagre-reuse ng connections para pabilisin ang new connections.",,thread_cache
+Cloze,"Ang {{c1::my.cnf}} o my.ini ay ang main configuration file ng MySQL server.",,my.cnf
+Cloze,"Ang {{c1::max_connections}} ay ang maximum na bilang ng simultaneous connections sa MySQL.",,max_connections
+Cloze,"Ang {{c1::InnoDB buffer pool}} ay ang memory area na nagce-cache ng data at indexes para sa mabilis na access.",,InnoDB buffer pool
+Cloze,"Ang {{c1::redo log}} ay ang transaction log na nagre-record ng changes para sa durability at crash recovery.",,redo log
+Cloze,"Ang {{c1::undo log}} ay ang log na nagse-store ng old data para sa MVCC at rollback.",,undo log
+Cloze,"Ang {{c1::doublewrite buffer}} ay ang safety mechanism na nag-iwasan ng partial page writes.",,doublewrite buffer
+Cloze,"Ang {{c1::flushing}} ay ang proseso ng pag-write ng dirty pages mula sa buffer pool papunta sa disk.",,flushing
+Cloze,"Ang {{c1::thread per connection}} ay ang MySQL handling model kung saan bawat connection ay may sariling thread.",,thread per connection
+Cloze,"Ang {{c1::connection pooling}} ay ang technique ng pag-reuse ng database connections para pabilisin ang access.",,connection pooling
+Cloze,"Ang {{c1::max_connections}} ay ang maximum na bilang ng simultaneous connections na pinapayagan.",,max_connections
+Cloze,"Ang {{c1::wait_timeout}} ay ang oras na maghihintay ng idle connection bago i-close.",,wait_timeout
+Cloze,"Ang {{c1::interactive_timeout}} ay ang oras na maghihintay ng interactive connection bago i-close.",,interactive_timeout
+Cloze,"Ang {{c1::read replicas}} ay ang mga slave servers na ginagamit para i-offload ang read queries mula sa master.",,read replicas
+Cloze,"Ang {{c1::sharding}} ay ang proseso ng pag-hati ng database sa maraming servers.",,sharding
+Cloze,"Ang {{c1::connection multiplexing}} ay ang technique ng pag-share ng connections sa maraming clients.",,connection multiplexing
+Cloze,"Ang {{c1::horizontal scaling}} ay ang pagdagdag ng servers para mag-handle ng mas maraming traffic.",,horizontal scaling
+Cloze,"Ang {{c1::products table}} ay naglalaman ng product information: id, name, description, price, category_id.",,products table
+Cloze,"Ang {{c1::orders table}} ay nagre-record ng customer purchases: id, user_id, total, status, created_at.",,orders table
+Cloze,"Ang {{c1::order_items table}} ay ang junction table na nagko-connect ng orders at products.",,order_items table
+Cloze,"Ang {{c1::inventory table}} ay nagttrack ng stock levels: product_id, quantity, warehouse_location.",,inventory table
+Cloze,"Ang {{c1::pricing table}} ay naglalaman ng price history at discounts: product_id, price, valid_from, valid_to.",,pricing table
+Cloze,"Ang {{c1::users table}} ay naglalaman ng user accounts: id, name, email, password_hash, status.",,users table
+Cloze,"Ang {{c1::roles table}} ay nagde-define ng user roles: admin, editor, viewer.",,roles table
+Cloze,"Ang {{c1::permissions table}} ay naglalaman ng specific actions: create_post, delete_user.",,permissions table
+Cloze,"Ang {{c1::user_roles junction table}} ay nagko-connect ng users at roles para sa M:N relationship.",,user_roles
+Cloze,"Ang {{c1::sessions table}} ay nagttrack ng active user sessions: user_id, token, ip_address, expires_at.",,sessions table
+Cloze,"Ang {{c1::time-series data}} ay ang data na naka-organize ayon sa timestamp: logs, metrics, events.",,time-series data
+Cloze,"Ang {{c1::partitioning by date}} ay ang pag-hati ng time-series table ayon sa buwan o taon.",,partitioning by date
+Cloze,"Ang {{c1::archiving}} ay ang proseso ng pag-move ng lumang data sa cold storage.",,archiving
+Cloze,"Ang {{c1::compression}} ay ang technique ng pagliit ng data size para sa storage efficiency.",,compression
+Cloze,"Ang {{c1::hot/cold storage}} ay ang pattern ng paghihiwalay ng frequently accessed vs archived data.",,hot/cold storage
+Cloze,"Ang {{c1::online schema change}} ay ang pag-modify ng table structure habang tumatakbo ang application.",,online schema change
+Cloze,"Ang {{c1::zero-downtime migration}} ay ang schema change na hindi nagdo-down ang application.",,zero-downtime migration
+Cloze,"Ang {{c1::gh-ost}} ay ang GitHub tool para sa online schema changes na walang locking.",,gh-ost
+Cloze,"Ang {{c1::pt-online-schema-change}} ay ang Percona tool para sa online schema migrations.",,pt-online-schema-change
+Cloze,"Ang {{c1::expand-contract pattern}} ay ang approach ng pag-dagdag ng bagong column bago tanggalin ang luma.",,expand-contract pattern
