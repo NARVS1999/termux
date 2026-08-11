@@ -1,0 +1,30 @@
+Composer & Autoloading (PSR-4),Ang {{c1::Composer}} ay ang PHP dependency manager na naglo-load ng packages at classes nang awtomatiko.,,Composer
+Composer & Autoloading (PSR-4),Ang {{c1::PSR-4}} ay ang autoloading standard na nagma-map ng namespace sa folder structure.,,PSR-4
+Composer & Autoloading (PSR-4),Ang {{c1::composer.json}} ay ang file na naglalaman ng dependencies ng PHP project.,,composer.json
+"PHP 8.x Features (enums, readonly, attributes, named arguments)",Ang {{c1::enums}} ay ang PHP 8.1 feature na nagde-define ng fixed na set ng possible values.,,enums
+"PHP 8.x Features (enums, readonly, attributes, named arguments)",Ang {{c1::readonly}} na property ay pwedeng i-assign nang isang beses lamang matapos ang initialization.,,readonly
+"PHP 8.x Features (enums, readonly, attributes, named arguments)",Ang {{c1::named arguments}} ay nagpapahintulot ng pagpasa ng arguments sa function gamit ang pangalan ng parameter.,,named arguments
+Object-Oriented Design,Ang {{c1::object-oriented design}} ay ang pagbubuo ng code gamit ang objects at responsibilities.,,object-oriented design
+Object-Oriented Design,Ang {{c1::single responsibility}} ay ang prinsipyong nagtatakda na isang trabaho lang ang ginagawa ng bawat class.,,single responsibility
+Object-Oriented Design,Ang {{c1::objects}} ay nag-uusap sa isa't isa sa pamamagitan ng pag-call ng methods.,,objects
+Dependency Injection,Ang {{c1::dependency injection}} ay ang pagpasa ng dependencies imbes na gumawa ng bago sa loob ng class.,,dependency injection
+Dependency Injection,"Sa PHP, ang dependencies ay ipinapasa sa {{c1::constructor}} ng class.",,constructor
+Dependency Injection,Ang {{c1::service container}} ay ang Laravel tool na awtomatikong nagre-resolve at nag-iinject ng dependencies.,,service container
+Eloquent ORM & Relationships,Ang {{c1::Eloquent ORM}} ay ang paghawak ng database tables bilang PHP objects.,,Eloquent ORM
+Eloquent ORM & Relationships,Ang bawat Eloquent model ay katumbas ng isang {{c1::table}} sa database.,,table
+Eloquent ORM & Relationships,Ang {{c1::hasMany}} ay ang relationship kung saan ang isang record ay may maraming related records.,,hasMany
+Model Events & Casts,Ang {{c1::model events}} ay ang mga hooks na tumatakbo sa model lifecycle gaya ng creating at updating.,,model events
+Model Events & Casts,"Sa Laravel, ang {{c1::casts}} ay ang conversion ng database values papunta sa PHP types.",,casts
+Model Events & Casts,Ang {{c1::creating}} event ay tumatakbo bago i-save ang bagong record sa database.,,creating
+Query Builder,Ang {{c1::query builder}} ay ang paggawa ng SQL queries gamit ang PHP methods imbes na raw strings.,,query builder
+Query Builder,"Sa Laravel, ang {{c1::DB::table()}} ay ang panimula ng query builder para sa isang table.",,DB::table()
+Query Builder,Ang {{c1::where()}} method ay ginagamit para mag-filter ng records batay sa condition.,,where()
+Migrations & Schema Building,Ang {{c1::migrations}} ay ang versioned na pagbabago ng database structure.,,migrations
+Migrations & Schema Building,"Sa Laravel, ang {{c1::Schema::create}} ay ginagamit para gumawa ng bagong table sa migration.",,Schema::create
+Migrations & Schema Building,Ang {{c1::up()}} method ay naglalaman ng pagbabago na ia-apply sa database.,,up()
+Validation & Form Requests,Ang {{c1::validation}} ay ang pag-check ng input bago iproseso.,,validation
+Validation & Form Requests,"Sa Laravel, ang {{c1::Form Request}} ay ang dedicated class para sa validation ng isang request.",,Form Request
+Validation & Form Requests,Ang {{c1::rules()}} method sa Form Request ay naglalaman ng validation rules ng input.,,rules()
+"Static Analysis (PHPStan, PHPCS)",Ang {{c1::static analysis}} ay ang paghahanap ng bugs sa code nang hindi ito pinapatakbo.,,static analysis
+"Static Analysis (PHPStan, PHPCS)",Ang {{c1::PHPStan}} ay ang static analysis tool na naghahanap ng type errors sa PHP code.,,PHPStan
+"Static Analysis (PHPStan, PHPCS)",Ang {{c1::PHPCS}} ay ang tool na nag-che-check kung sumusunod ang code sa coding standards.,,PHPCS

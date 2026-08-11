@@ -1,0 +1,6 @@
+Database Design & ER Modeling,Ang {{c1::ER modeling}} ay ang paggawa ng database structure mula sa entities.,,ER modeling
+Database Design & ER Modeling,"Sa ER diagram, ang {{c1::entities}} ay ang mga bagay na may records sa database.",,entities
+Database Design & ER Modeling,Ang {{c1::primary key}} ay ang unique identifier ng bawat record sa isang table.,,primary key
+Transactions & ACID,Ang {{c1::transactions}} ay ang garantiya ng consistency sa bawat database operation.,,transactions
+Transactions & ACID,Ang {{c1::atomicity}} ay nangangahulugang all-or-nothing ang transaction.,,atomicity
+Transactions & ACID,Ang {{c1::rollback}} ay ang pag-undo ng mga changes kapag may error sa transaction.,,rollback

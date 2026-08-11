@@ -1,0 +1,4 @@
+HTTP Headers,"Paano sabihin sa server na JSON ang ipinapadala mong data?",,"I-set ang Content-Type header sa application/json sa request."
+HTTP Headers,"Paano magpasa ng authentication token sa request?",,"Idagdag ang Authorization header na may value na Bearer token."
+Cookies & Sessions,"Paano magpapanatili ng login state ng user sa mga requests?",,"Mag-create ng session sa server at i-save ang session ID sa cookie ng browser."
+Cookies & Sessions,"Paano malaman kung anong format ng response ang ia-accept ng server?",,"I-set ang Accept header sa request para sabihin ang gustong format."

@@ -1,0 +1,15 @@
+"Authentication Mechanisms (Sanctum, Passport, JWT)",Ang {{c1::authentication}} ay ang pag-verify kung sino ang user.,,authentication
+"Authentication Mechanisms (Sanctum, Passport, JWT)",Ang {{c1::Sanctum}} ay ang Laravel package para sa API token authentication.,,Sanctum
+"Authentication Mechanisms (Sanctum, Passport, JWT)",Ang {{c1::JWT}} ay ang token format na naglalaman ng claims sa isang signed na payload.,,JWT
+"Authorization (Roles, Policies, Gates)",Ang {{c1::authorization}} ay ang pag-check kung may pahintulot ang user na gumawa ng action.,,authorization
+"Authorization (Roles, Policies, Gates)",Ang {{c1::Policies}} ay ang Laravel classes na nag-organize ng authorization logic para sa isang model.,,Policies
+"Authorization (Roles, Policies, Gates)",Ang {{c1::Gates}} ay ang closure-based na authorization checks na nakarehistro sa AuthServiceProvider.,,Gates
+OAuth2 Flows,Ang {{c1::OAuth2}} ay ang protocol para sa pag-access ng third-party apps sa protected data.,,OAuth2
+OAuth2 Flows,Ang {{c1::authorization code}} flow ay ang OAuth2 flow kung saan may consent muna ang user bago mag-issue ng token.,,authorization code
+OAuth2 Flows,Ang {{c1::access token}} ay ang credential na ginagamit ng third-party app para mag-call ng protected APIs.,,access token
+Webhooks & Signature Validation,Ang {{c1::webhook}} ay ang notification mula sa ibang system papunta sa iyong app kapag may nangyari.,,webhook
+Webhooks & Signature Validation,Ang {{c1::signature validation}} ay ang pag-verify na ang webhook request ay tunay na galing sa provider.,,signature validation
+Webhooks & Signature Validation,Ang webhook ay nagpapadala ng {{c1::HMAC signature}} sa header na ginagamit para i-verify ang payload.,,HMAC signature
+WebSockets & Broadcasting,Ang {{c1::WebSockets}} ay ang real-time na komunikasyon sa pagitan ng client at server.,,WebSockets
+WebSockets & Broadcasting,Ang {{c1::broadcasting}} ay ang pag-send ng events mula sa server papunta sa lahat ng nakikinig na clients.,,broadcasting
+WebSockets & Broadcasting,"Hindi tulad ng HTTP, ang WebSocket connection ay nananatiling {{c1::open}} para sa two-way na komunikasyon.",,open

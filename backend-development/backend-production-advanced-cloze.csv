@@ -1,0 +1,6 @@
+"Deployment Strategies (Zero-downtime, Blue-green)",Ang {{c1::zero-downtime deployment}} ay ang pag-deploy nang walang downtime.,,zero-downtime deployment
+"Deployment Strategies (Zero-downtime, Blue-green)",Ang {{c1::blue-green deployment}} ay ang paglipat ng traffic sa bagong version habang naka-standby ang luma.,,blue-green deployment
+"Deployment Strategies (Zero-downtime, Blue-green)","Sa blue-green, ang {{c1::green}} environment ay ang bagong version na naka-ready bago lumipat ang traffic.",,green
+Load Balancers & Auto-scaling,Ang {{c1::load balancer}} ay ang pamamahagi ng traffic sa maraming servers.,,load balancer
+Load Balancers & Auto-scaling,Ang {{c1::auto-scaling}} ay ang awtomatikong pagdagdag o pagbawas ng servers batay sa traffic.,,auto-scaling
+Load Balancers & Auto-scaling,Ang {{c1::health checks}} ay ang pag-verify ng load balancer kung buhay pa ang server.,,health checks

@@ -1,0 +1,15 @@
+Variables & Data Types,Ang {{c1::variable}} ay ang lalagyan ng data sa code na may pangalan at value.,,variable
+Variables & Data Types,"Ang {{c1::data types}} ay ang mga uri ng data gaya ng string, integer, at boolean.",,data types
+Variables & Data Types,"Sa PHP, ang variable name ay nagsisimula sa {{c1::dollar sign}} gaya ng $name.",,dollar sign
+Control Flow,Ang {{c1::control flow}} ay ang pagpapasya ng daloy ng code gamit ang if at loops.,,control flow
+Control Flow,Ang {{c1::if statement}} ay ginagamit para mag-execute ng code kapag true ang condition.,,if statement
+Control Flow,Ang {{c1::else}} ay ang block na pinapatakbo kapag false ang condition ng if.,,else
+Functions & Scope,Ang {{c1::function}} ay ang reusable block ng code na may sariling saklaw o scope.,,function
+Functions & Scope,Ang {{c1::scope}} ay tumutukoy kung saang bahagi ng code accessible ang isang variable.,,scope
+Functions & Scope,Tinatawag ang function gamit ang {{c1::function call}} gaya ng greet().,,function call
+Strings & Text Processing,Ang {{c1::string}} ay ang data type para sa text data at sa pag-format nito.,,string
+Strings & Text Processing,"Sa PHP, ang {{c1::concatenation}} ay ang pagsasama ng dalawang strings gamit ang dot operator.",,concatenation
+Strings & Text Processing,Ang {{c1::strlen()}} ay ang PHP function na nagbabalik ng haba ng isang string.,,strlen()
+Encapsulation & Visibility,Ang {{c1::encapsulation}} ay ang pagtatago ng internal state sa public interface.,,encapsulation
+Encapsulation & Visibility,"Sa PHP, ang {{c1::private}} na visibility ay naglilimita ng access ng property sa loob lamang ng class.",,private
+Encapsulation & Visibility,Ang {{c1::public}} na visibility ay nagpapahintulot ng access sa property mula sa labas ng class.,,public

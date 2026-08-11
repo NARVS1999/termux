@@ -1,0 +1,20 @@
+Composer & Autoloading (PSR-4),Paano mag-install ng bagong package sa PHP project?,,Gamitin ang composer: composer require vendor/package.
+Composer & Autoloading (PSR-4),Paano i-reload ang autoloader matapos baguhin ang namespace mapping?,,Patakbuhin ang composer dump-autoload.
+"PHP 8.x Features (enums, readonly, attributes, named arguments)",Paano mag-define ng status ng order na limited lang ang values?,,"Gumawa ng enum OrderStatus: InProgress, Paid, Shipped."
+"PHP 8.x Features (enums, readonly, attributes, named arguments)",Paano i-call ang function na may specific parameters lang?,,"Gamitin ang named arguments: sendMail(to: $email, subject: 'Hi')."
+Object-Oriented Design,Paano i-organize ang User registration logic sa OOP?,,Gumawa ng User class na may register() method na humahawak ng sarili nitong behavior.
+Object-Oriented Design,Bakit hatiin ang code sa maliliit na classes na may isang trabaho?,,"Para madaling i-test, i-maintain, at i-reuse ang bawat bahagi."
+Dependency Injection,Paano i-pass ang Mailer sa UserService nang hindi ito ginagawa sa loob?,,I-inject ito sa constructor: __construct(private Mailer $mailer) {}.
+Dependency Injection,Ano ang pakinabang ng dependency injection sa testing?,,Pwede kang mag-pass ng mock na dependency para i-test ang class nang nakahiwalay.
+Eloquent ORM & Relationships,Paano kunin ang lahat ng users mula sa database gamit ang Eloquent?,,Gamitin ang User::all() para makuha ang lahat ng records.
+Eloquent ORM & Relationships,Paano i-access ang lahat ng posts ng isang user?,,Gamitin ang relationship: $user->posts (hasMany).
+Model Events & Casts,Paano awtomatikong i-hash ang password bago i-save ang user?,,Gamitin ang creating model event: static::creating(function ($user) { $user->password = Hash::make(...); });
+Model Events & Casts,Paano i-convert ang isang column papunta sa Carbon instance?,,Idagdag ito sa $casts: protected $casts = ['published_at' => 'datetime'].
+Query Builder,Paano kunin ang mga users na active gamit ang query builder?,,"Gamitin ang DB::table('users')->where('active', true)->get()."
+Query Builder,Paano i-limit ang results sa 10 records?,,Gamitin ang ->limit(10) pagkatapos ng query chain.
+Migrations & Schema Building,Paano gumawa ng bagong table sa database nang versioned?,,Gumawa ng migration: php artisan make:migration create_products_table.
+Migrations & Schema Building,Paano i-rollback ang huling migration?,,Patakbuhin ang php artisan migrate:rollback.
+Validation & Form Requests,Paano i-validate na required at email ang email field?,,Gumawa ng Form Request at i-add ang rule: 'email' => 'required|email'.
+Validation & Form Requests,Ano ang mangyayari kung pumalpak ang validation?,,Magre-return ang Laravel ng 422 response kasama ang validation errors.
+"Static Analysis (PHPStan, PHPCS)",Paano i-check ang codebase para sa potential type errors?,,Patakbuhin ang vendor/bin/phpstan analyse.
+"Static Analysis (PHPStan, PHPCS)",Paano i-check kung compliant ang code sa PSR-12?,,Patakbuhin ang vendor/bin/phpcs --standard=PSR12 app/.

@@ -1,0 +1,18 @@
+"Service Container, Service Providers & Facades",Ang {{c1::service container}} ay ang registry ng dependencies ng Laravel.,,service container
+"Service Container, Service Providers & Facades",Ang {{c1::service providers}} ay ang central na lugar para i-register ang bindings at services.,,service providers
+"Service Container, Service Providers & Facades",Ang {{c1::facades}} ay ang static-like na interface sa services na naka-resolve mula sa container.,,facades
+Clean Architecture,Ang {{c1::Clean Architecture}} ay ang paghihiwalay ng business rules sa frameworks at UI.,,Clean Architecture
+Clean Architecture,Ang dependency rule ay dapat pumapasok mula sa outer layers papunta sa {{c1::inner layers}}.,,inner layers
+Clean Architecture,"Sa Clean Architecture, ang {{c1::entities}} ay ang core na business objects na walang dependency sa framework.",,entities
+Modular & Multi-tenant Design,Ang {{c1::modular design}} ay ang pagbubuo ng app bilang independent na modules.,,modular design
+Modular & Multi-tenant Design,Ang {{c1::multi-tenant}} na app ay nagsisilbi sa maraming clients gamit ang iisang codebase.,,multi-tenant
+Modular & Multi-tenant Design,"Sa modular design, ang bawat module ay may sariling routes, controllers, at {{c1::migrations}}.",,migrations
+Design for Failure,Ang {{c1::design for failure}} ay ang paghahanda ng system sa mga posibleng breakdowns.,,design for failure
+Design for Failure,Ang {{c1::circuit breaker}} ay ang pattern na humihinto ng calls sa failing service para makarecover ito.,,circuit breaker
+Design for Failure,Ang {{c1::retry with backoff}} ay ang pagsubok ulit ng failed operation na may paghihintay.,,retry with backoff
+"Observability (Structured Logging, Monitoring, Tracing)",Ang {{c1::observability}} ay ang pagtingin sa loob ng tumatakbong system.,,observability
+"Observability (Structured Logging, Monitoring, Tracing)",Ang {{c1::structured logging}} ay ang pag-log sa JSON format para madaling ma-query.,,structured logging
+"Observability (Structured Logging, Monitoring, Tracing)",Ang {{c1::tracing}} ay ang pagsunod sa isang request sa buong pipeline ng services.,,tracing
+Monolith vs Microservices,Ang {{c1::monolith}} ay ang isang app na naglalaman ng lahat ng features.,,monolith
+Monolith vs Microservices,Ang {{c1::microservices}} ay ang paghahati ng app sa maraming maliliit na independent services.,,microservices
+Monolith vs Microservices,Ang pag-{{c1::scale}} ng monolith ay nangangahulugang i-scale ang buong app.,,scale

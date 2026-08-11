@@ -1,0 +1,6 @@
+Input Validation & Sanitization,Ang {{c1::input validation}} at sanitization ay ang paglinis at pag-check ng lahat ng user input.,,input validation
+Input Validation & Sanitization,Ang {{c1::sanitization}} ay ang paglilinis ng input para tanggalin ang mapanganib na characters.,,sanitization
+Input Validation & Sanitization,Ang {{c1::escape}} ay ang pag-convert ng special characters para hindi ma-interpret bilang code.,,escape
+Error Tracking (Sentry),Ang {{c1::error tracking}} ay ang awtomatikong ulat ng exceptions sa production.,,error tracking
+Error Tracking (Sentry),Ang {{c1::Sentry}} ay ang tool na nag-ca-capture ng production errors na may context.,,Sentry
+Error Tracking (Sentry),"Sa halip na hintayin ang users na mag-report, awtomatikong {{c1::na-notify}} ang dev team sa errors.",,na-notify

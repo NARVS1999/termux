@@ -1,0 +1,9 @@
+Layered Architecture,"Ang {{c1::layered architecture}} ay ang paghahati ng app sa presentation, business, at data layers.",,layered architecture
+Layered Architecture,Ang {{c1::presentation layer}} ay humahawak ng user interface at HTTP requests.,,presentation layer
+Layered Architecture,Ang business logic ay naka-contain sa {{c1::business layer}}.,,business layer
+Service Layer Pattern,Ang {{c1::service layer}} ay ang pagsentro ng business logic sa dedicated services.,,service layer
+Service Layer Pattern,Ang service classes ay ginagawang {{c1::reusable}} ang business logic sa iba't ibang controllers.,,reusable
+Service Layer Pattern,Ang service na may isang trabaho ay madaling ma-{{c1::test}} nang hiwalay.,,test
+Middleware & Request Lifecycle,Ang {{c1::middleware}} ay ang pagsala ng requests bago umabot sa controller.,,middleware
+Middleware & Request Lifecycle,Ang {{c1::auth}} middleware ay nag-che-check kung naka-login ang user bago i-process ang request.,,auth
+Middleware & Request Lifecycle,Ang {{c1::handle()}} method ay ang naglalaman ng logic ng isang middleware.,,handle()

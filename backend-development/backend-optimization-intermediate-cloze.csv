@@ -1,0 +1,15 @@
+"Performance Profiling (Debugbar, Xdebug, Telescope, Blackfire)",Ang {{c1::profiling}} ay ang pagsukat kung saan mabagal ang app.,,profiling
+"Performance Profiling (Debugbar, Xdebug, Telescope, Blackfire)",Ang {{c1::Debugbar}} ay ang Laravel tool na nagpapakita ng queries at performance sa browser.,,Debugbar
+"Performance Profiling (Debugbar, Xdebug, Telescope, Blackfire)",Ang {{c1::Blackfire}} ay ang tool para sa deep performance profiling ng PHP apps.,,Blackfire
+OPcache & PHP Configuration Tuning,Ang {{c1::OPcache}} ay ang cache ng compiled PHP files para mapabilis ang execution.,,OPcache
+OPcache & PHP Configuration Tuning,Ang {{c1::memory_limit}} ay ang PHP setting na naglilimit ng memory ng isang script.,,memory_limit
+OPcache & PHP Configuration Tuning,Ang {{c1::opcache.enable}} ay ang setting na nag-on ng OPcache sa production.,,opcache.enable
+HTTP Caching & Asset Optimization,Ang {{c1::HTTP caching}} ay ang pagbawas ng repeat requests sa server.,,HTTP caching
+HTTP Caching & Asset Optimization,Ang {{c1::Cache-Control}} header ay nagtatakda kung gaano katagal i-cache ang response.,,Cache-Control
+HTTP Caching & Asset Optimization,Ang {{c1::ETag}} ay ang header na nagbibigay ng version ng resource para sa conditional requests.,,ETag
+Database Query Profiling,Ang {{c1::query profiling}} ay ang paghahanap ng mabagal na queries.,,query profiling
+Database Query Profiling,Ang {{c1::slow query log}} ay ang log ng mga queries na lumagpas sa takdang oras.,,slow query log
+Database Query Profiling,Ang {{c1::QueryLog}} sa Laravel ay nagtatala ng lahat ng queries ng isang request.,,QueryLog
+Batch Processing & Chunking,Ang {{c1::chunking}} ay ang pagproseso ng malalaking data sa maliliit na batches.,,chunking
+Batch Processing & Chunking,"Sa Laravel, ang {{c1::chunk()}} ay ang paraan para i-process ang records nang paunti-unti.",,chunk()
+Batch Processing & Chunking,Ang pag-chunk ay pumipigil sa pagkaubos ng {{c1::memory}} kapag nag-process ng libo-libong records.,,memory

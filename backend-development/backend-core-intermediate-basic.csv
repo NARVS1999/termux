@@ -1,0 +1,10 @@
+Arrays & Collections,Paano mag-store ng listahan ng mga user names sa isang variable?,,"Gumawa ng array: $users = ['Alice', 'Bob', 'Carol']."
+Arrays & Collections,Paano i-print ang bawat item ng isang array?,,Gamitin ang foreach loop: foreach ($users as $user) { echo $user; }.
+Classes & Objects,Paano gumawa ng bagong object mula sa User class?,,Gamitin ang new keyword: $user = new User().
+Classes & Objects,Paano i-access ang property ng isang object?,,Gamitin ang arrow operator: $user->name.
+Inheritance & Polymorphism,Paano magmana ang AdminUser class mula sa User class?,,Gamitin ang extends: class AdminUser extends User {}.
+Inheritance & Polymorphism,Ano ang mangyayari kung may method ang child class na kapareho ng parent class?,,I-override nito ang parent method kapag tinawag ito sa child object.
+Interfaces & Abstract Classes,Paano siguraduhing may send() method ang lahat ng payment gateways?,,Mag-define ng interface PaymentGateway na may send() at ipatupad ito sa bawat class.
+Interfaces & Abstract Classes,Kailan gumamit ng abstract class imbes na interface?,,Kapag may shared code o properties na ibabahagi sa mga child classes.
+Error Handling & Exceptions,Paano protektahan ang code laban sa division by zero error?,,I-wrap ito sa try-catch at i-handle ang DivisionByZeroError sa catch block.
+Error Handling & Exceptions,Ano ang mangyayari kung walang catch block na tugma sa exception?,,Ipo-propagate ito pataas hanggang may makahuli o magcrash ang app.

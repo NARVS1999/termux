@@ -1,0 +1,24 @@
+CAP Theorem & Consistency Models,Ang {{c1::CAP theorem}} ay ang pagpili ng tradeoffs sa distributed systems.,,CAP theorem
+CAP Theorem & Consistency Models,"Sa CAP, ang C ay Consistency, A ay Availability, at P ay {{c1::Partition tolerance}}.",,Partition tolerance
+CAP Theorem & Consistency Models,"Kapag may network partition, kailangang pumili sa pagitan ng {{c1::consistency}} at availability.",,consistency
+Scalability Patterns (Vertical vs Horizontal),Ang {{c1::vertical scaling}} ay ang pagpapalaki ng capacity ng isang server.,,vertical scaling
+Scalability Patterns (Vertical vs Horizontal),Ang {{c1::horizontal scaling}} ay ang pagdagdag ng mas maraming servers.,,horizontal scaling
+Scalability Patterns (Vertical vs Horizontal),Ang horizontal scaling ay nangangailangan ng {{c1::load balancer}} para mamahagi ng traffic.,,load balancer
+Distributed Systems Fundamentals,Ang {{c1::distributed system}} ay ang paghawak ng maraming machines na nagtutulungan.,,distributed system
+Distributed Systems Fundamentals,Ang {{c1::message queue}} ay ang paraan ng komunikasyon ng distributed services.,,message queue
+Distributed Systems Fundamentals,"Sa distributed systems, kailangang i-handle ang {{c1::partial failures}} ng mga machines.",,partial failures
+Event-Driven Architecture,Ang {{c1::event-driven architecture}} ay ang komunikasyon ng parts sa pamamagitan ng events.,,event-driven architecture
+Event-Driven Architecture,Ang {{c1::event bus}} ay ang channel kung saan pinapadala at pinapakinggan ang events.,,event bus
+Event-Driven Architecture,Ang producer ng event ay hindi kailangang malaman kung sino ang mga {{c1::consumers}}.,,consumers
+Security Hardening (OWASP Top 10),Ang {{c1::OWASP Top 10}} ay ang listahan ng pinakamadalas na web security risks.,,OWASP Top 10
+Security Hardening (OWASP Top 10),Ang {{c1::SQL injection}} ay ang attack kung saan nag-iinject ang attacker ng SQL code sa input.,,SQL injection
+Security Hardening (OWASP Top 10),Ang {{c1::XSS}} ay ang pag-iinject ng malicious scripts sa page na binibisita ng ibang users.,,XSS
+Threat Modeling,Ang {{c1::threat modeling}} ay ang pag-identify ng posibleng pag-atake bago sila mangyari.,,threat modeling
+Threat Modeling,"Ang {{c1::STRIDE}} ay ang framework para i-classify ang mga threats: Spoofing, Tampering, at iba pa.",,STRIDE
+Threat Modeling,Ang {{c1::attack surface}} ay ang lahat ng entry points na pwedeng pasukan ng attacker.,,attack surface
+Performance Engineering,Ang {{c1::performance engineering}} ay ang pagdisenyo ng system na mabilis mula sa simula.,,performance engineering
+Performance Engineering,Ang {{c1::performance budget}} ay ang limit sa oras o resources ng isang feature.,,performance budget
+Performance Engineering,"Sa performance engineering, dapat mag-{{c1::measure}} muna bago mag-optimize.",,measure
+Code Review & Architecture Reviews,Ang {{c1::code review}} ay ang pag-validate ng quality ng code bago ma-merge.,,code review
+Code Review & Architecture Reviews,Ang {{c1::architecture review}} ay ang pag-validate ng design bago ipatupad ang malalaking changes.,,architecture review
+Code Review & Architecture Reviews,Ang code review ay nakakahanap ng {{c1::bugs}} at security issues bago umabot sa production.,,bugs

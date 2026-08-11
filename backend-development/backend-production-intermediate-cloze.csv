@@ -1,0 +1,24 @@
+CSRF & Mass Assignment Protection,Ang {{c1::CSRF}} ay ang depensa laban sa forged requests mula sa ibang site.,,CSRF
+CSRF & Mass Assignment Protection,Ang {{c1::mass assignment}} ay ang pag-assign ng maraming fields sa model nang sabay mula sa input.,,mass assignment
+CSRF & Mass Assignment Protection,Ang {{c1::$fillable}} sa model ay naglilista ng fields na pinapayagan sa mass assignment.,,$fillable
+Security Logging & Auditing,Ang {{c1::security logging}} ay ang tala ng mga security-relevant na events.,,security logging
+Security Logging & Auditing,Ang {{c1::audit trail}} ay ang kasaysayan ng mga aksyon ng users para sa accountability.,,audit trail
+Security Logging & Auditing,Dapat i-log ang mga {{c1::failed logins}} at permission changes para sa security review.,,failed logins
+Encryption at Rest & in Transit,Ang {{c1::encryption at rest}} ay ang proteksyon ng data na naka-store sa storage.,,encryption at rest
+Encryption at Rest & in Transit,Ang {{c1::encryption in transit}} ay ang proteksyon ng data habang dumadaloy sa network.,,encryption in transit
+Encryption at Rest & in Transit,Ang {{c1::TLS/SSL}} ay ang protocol na nag-e-encrypt ng data sa transit.,,TLS/SSL
+Secrets Management,Ang {{c1::secrets management}} ay ang ligtas na pag-iimbak ng API keys at credentials.,,secrets management
+Secrets Management,Ang mga secrets ay dapat naka-store sa {{c1::environment variables}} o dedicated vault.,,environment variables
+Secrets Management,Hindi dapat ma-{{c1::commit}} sa git ang mga secrets gaya ng .env file.,,commit
+Docker & Containers,Ang {{c1::container}} ay ang pag-encapsulate ng app kasama ang dependencies nito.,,container
+Docker & Containers,Ang {{c1::Dockerfile}} ay ang file na naglalaman ng instructions para i-build ang image.,,Dockerfile
+Docker & Containers,Ang {{c1::image}} ay ang snapshot ng app na ginagamit para magpatakbo ng containers.,,image
+Docker Compose & Multi-stage Builds,Ang {{c1::Docker Compose}} ay ang pag-define ng maraming services sa isang file.,,Docker Compose
+Docker Compose & Multi-stage Builds,"Ang {{c1::docker-compose.yml}} ay ang file na nag-define ng services, networks, at volumes.",,docker-compose.yml
+Docker Compose & Multi-stage Builds,Ang {{c1::multi-stage build}} ay ang paggamit ng maraming stages para mapaliit ang final image.,,multi-stage build
+CI/CD Pipelines,Ang {{c1::CI/CD}} ay ang awtomatikong test at deploy ng code changes.,,CI/CD
+CI/CD Pipelines,Ang {{c1::continuous integration}} ay ang awtomatikong pagpapatakbo ng tests sa bawat push.,,continuous integration
+CI/CD Pipelines,Ang {{c1::continuous deployment}} ay ang awtomatikong pag-deploy ng passed code sa production.,,continuous deployment
+"Server Administration (Nginx, PHP-FPM, Supervisor)",Ang {{c1::server administration}} ay ang pag-manage ng server na nagpapatakbo ng app.,,server administration
+"Server Administration (Nginx, PHP-FPM, Supervisor)",Ang {{c1::Nginx}} ay ang web server na humahawak ng HTTP requests sa app.,,Nginx
+"Server Administration (Nginx, PHP-FPM, Supervisor)",Ang {{c1::PHP-FPM}} ay ang process manager na nagpapatakbo ng PHP code.,,PHP-FPM

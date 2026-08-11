@@ -1,0 +1,3 @@
+Data Integrity & Constraints,Ang {{c1::data integrity}} ay ang pagpapatupad ng valid rules sa database level.,,data integrity
+Data Integrity & Constraints,Ang {{c1::constraints}} ay ang mga rules sa database na pumipigil sa invalid data.,,constraints
+Data Integrity & Constraints,Ang {{c1::NOT NULL}} constraint ay nangangailangan na may value ang column sa bawat row.,,NOT NULL

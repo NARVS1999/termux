@@ -1,0 +1,3 @@
+Seeders & Factories,Ang {{c1::seeders}} ay ang naglalagay ng test data sa database nang mabilis.,,seeders
+Seeders & Factories,Ang {{c1::factories}} ay gumagawa ng fake records para sa testing at seeding.,,factories
+Seeders & Factories,Ang {{c1::db:seed}} ay ang artisan command para patakbuhin ang seeders.,,db:seed

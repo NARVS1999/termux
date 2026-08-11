@@ -1,0 +1,18 @@
+RESTful API Design,Ang {{c1::RESTful API}} ay ang API na gumagamit ng standard na conventions sa mga endpoints.,,RESTful API
+RESTful API Design,"Sa REST, ang {{c1::resources}} ay ang mga entities na ina-access sa pamamagitan ng URL paths.",,resources
+RESTful API Design,Ang paggamit ng tamang {{c1::HTTP verbs}} gaya ng GET at POST ay bahagi ng REST conventions.,,HTTP verbs
+API Versioning,Ang {{c1::API versioning}} ay ang paghihiwalay ng luma at bagong API endpoints.,,API versioning
+API Versioning,Ang karaniwang paraan ay ang paglalagay ng version sa {{c1::URL path}} gaya ng /api/v1/users.,,URL path
+API Versioning,Ang pag-version ng API ay pumipigil sa {{c1::breaking changes}} para sa mga existing consumers.,,breaking changes
+Pagination & Filtering,Ang {{c1::pagination}} ay ang paglimit ng results sa API responses.,,pagination
+Pagination & Filtering,"Sa Laravel, ang {{c1::paginate()}} ay naghahati ng results sa mga pahina.",,paginate()
+Pagination & Filtering,Ang {{c1::filtering}} ay ang pagbawas ng results batay sa query parameters gaya ng ?status=active.,,filtering
+Third-party API Integrations,Ang {{c1::third-party API}} ay ang external service na kinokonekta ng app gaya ng Stripe o Twilio.,,third-party API
+Third-party API Integrations,Ang {{c1::API client}} ay ang class na humahawak ng komunikasyon sa external API.,,API client
+Third-party API Integrations,Ang {{c1::rate limits}} ng third-party API ay ang limit sa bilang ng requests na pwede sa isang panahon.,,rate limits
+Queues & Job Dispatch,Ang {{c1::queues}} ay ang pagpatakbo ng mabibigat na trabaho sa background.,,queues
+Queues & Job Dispatch,"Sa Laravel, ang {{c1::jobs}} ay ang mga class na may handle() method na pinapatakbo sa queue.",,jobs
+Queues & Job Dispatch,Ang {{c1::dispatch()}} ay ang paraan para i-queue ang isang job.,,dispatch()
+Event & Listener System,Ang {{c1::event}} ay ang nangyayaring aksyon sa app na maaaring i-react ng ibang code.,,event
+Event & Listener System,Ang {{c1::listener}} ay ang class na tumutugon kapag na-fire ang isang event.,,listener
+Event & Listener System,"Sa Laravel, ang {{c1::Event::dispatch()}} ay ang paraan para i-fire ang isang event.",,Event::dispatch()

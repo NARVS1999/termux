@@ -1,0 +1,25 @@
+"Authentication Mechanisms (Sanctum, Passport, JWT)",Paano i-secure ang API endpoints ng mobile app gamit ang token?,,Gamitin ang Laravel Sanctum at i-protect ang routes gamit ang auth:sanctum middleware.
+"Authentication Mechanisms (Sanctum, Passport, JWT)",Ano ang mangyayari kung ma-expire ang JWT token?,,Magre-return ang server ng 401 at kailangang mag-fresh token o mag-login ulit ang client.
+"Authentication Mechanisms (Sanctum, Passport, JWT)",Paano mag-issue ng token pagkatapos mag-login ang user?,,Gamitin ang $user->createToken('device')->plainTextToken sa Sanctum.
+"Authentication Mechanisms (Sanctum, Passport, JWT)",Paano i-validate ang token sa bawat request?,,I-send ang token sa Authorization header bilang Bearer token.
+"Authentication Mechanisms (Sanctum, Passport, JWT)",Kailan gagamitin ang OAuth imbes na simpleng tokens?,,Kapag kailangang i-access ng third-party apps ang protected data ng users.
+"Authorization (Roles, Policies, Gates)",Paano payagan ang may-ari lang ng post ang mag-update nito?,,Gumawa ng PostPolicy na may update() method na nagsusuri kung $user->id === $post->user_id.
+"Authorization (Roles, Policies, Gates)",Paano i-check sa controller kung may pahintulot ang user?,,"Gamitin ang $this->authorize('update', $post)."
+"Authorization (Roles, Policies, Gates)",Ano ang mangyayari kapag pumalpak ang authorization check?,,Magre-return ang server ng 403 Forbidden.
+"Authorization (Roles, Policies, Gates)",Paano i-authorize sa blade template?,,"Gamitin ang @can('update', $post) directive."
+"Authorization (Roles, Policies, Gates)",Kailan gagamitin ang Roles imbes na Policies?,,Kapag ang permission ay nakabatay sa role ng user imbes na ownership ng resource.
+OAuth2 Flows,Paano payagan ang third-party app na mag-access ng user data nang hindi nakikita ang password?,,Gamitin ang OAuth2 authorization code flow kung saan kailangan ng user consent.
+OAuth2 Flows,Ano ang gagamitin ng app para mag-call ng API pagkatapos ng OAuth consent?,,Ang access token na in-issue ng authorization server.
+OAuth2 Flows,Paano magkaroon ng bagong access token kapag nag-expire ang luma?,,Gamitin ang refresh token para mag-request ng bagong access token.
+OAuth2 Flows,Ano ang mangyayari kung tanggihan ng user ang consent?,,Hindi mag-issue ang server ng authorization code at magre-return ng error sa app.
+OAuth2 Flows,Paano i-secure ang Client Secret sa OAuth2?,,I-store ito sa server-side na app at huwag i-expose sa client-side code.
+Webhooks & Signature Validation,Paano i-verify na galing talaga sa Stripe ang webhook request?,,I-compute ang HMAC ng payload gamit ang webhook secret at i-compare sa signature sa header.
+Webhooks & Signature Validation,Ano ang dapat i-respond sa webhook provider pagkatapos i-process ang event?,,Mag-return ng 2xx status para malaman nitong success ang pagtanggap.
+Webhooks & Signature Validation,Ano ang mangyayari kung mabagal mag-process ang webhook at ma-timeout ang provider?,,Ipapadala ulit ng provider ang webhook kaya i-design ang handler na idempotent.
+Webhooks & Signature Validation,Paano iwasan ang duplicate processing ng parehong webhook event?,,I-store ang event ID at i-skip kung na-process na ito.
+Webhooks & Signature Validation,Kailan gagamit ng webhook imbes na polling?,,Kapag kailangan agad ng real-time notification sa halip na paulit-ulit na pagtatanong.
+WebSockets & Broadcasting,Paano i-notify ang lahat ng users kapag may bagong notification?,,I-broadcast ang event: broadcast(new NotificationCreated($notification)).
+WebSockets & Broadcasting,Paano makinig ang client sa isang channel?,,Mag-subscribe ang client sa channel: Echo.channel('notifications').listen(...).
+WebSockets & Broadcasting,Ano ang mangyayari kung offline ang user sa WebSocket channel?,,Mag-fallback sa pag-store ng notification sa database at i-fetch kapag online.
+WebSockets & Broadcasting,Paano paghiwalayin ang private na komunikasyon ng bawat user?,,Gamitin ang private channels na may authorization kung sino ang pwedeng makinig.
+WebSockets & Broadcasting,Kailan hindi dapat gumamit ng WebSockets?,,Kapag sapat na ang simple na HTTP requests o polling para sa use case.

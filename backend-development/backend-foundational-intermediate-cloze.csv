@@ -1,0 +1,6 @@
+HTTP Headers,"Ang {{c1::HTTP headers}} ay ang karagdagang metadata ng request at response.",,HTTP headers
+HTTP Headers,"Ang header na {{c1::Content-Type}} ay nagsasabi kung anong format ng data ang ipinapadala, gaya ng application/json.",,Content-Type
+HTTP Headers,"Ang {{c1::Authorization}} header ay ginagamit para magpasa ng credentials o token sa server.",,Authorization
+Cookies & Sessions,"Ang {{c1::cookies}} at sessions ay ang nagpapanatili ng state sa pagitan ng mga requests.",,cookies
+Cookies & Sessions,"Ang {{c1::session}} ay ang server-side storage ng user state na naka-link sa isang session ID.",,session
+Cookies & Sessions,"Ang {{c1::cookie}} ay ang maliit na data na naka-store sa browser at ipinapadala sa bawat request.",,cookie

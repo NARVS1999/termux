@@ -1,0 +1,16 @@
+CSRF & Mass Assignment Protection,Paano i-protektahan ang forms laban sa CSRF?,,Isama ang CSRF token sa bawat form: @csrf.
+CSRF & Mass Assignment Protection,Ano ang mangyayari kung walang $fillable o $guarded ang model?,,Pwedeng ma-assign ng attacker ang anumang field gaya ng is_admin sa mass assignment.
+Security Logging & Auditing,Paano malalaman kung sino ang nag-delete ng isang record?,,Gamitin ang audit logging na nagtatala ng user at aksyon sa bawat sensitive operation.
+Security Logging & Auditing,Ano ang dapat i-log sa bawat admin action?,,"Ang user ID, action, affected resource, at timestamp."
+Encryption at Rest & in Transit,Paano protektahan ang data na dumadaloy sa pagitan ng browser at server?,,I-enable ang HTTPS gamit ang TLS/SSL certificate.
+Encryption at Rest & in Transit,Paano protektahan ang sensitive na data sa database?,,I-encrypt ito bago i-save gamit ang encryption key na naka-store sa secrets manager.
+Secrets Management,Paano i-access ang API key sa code nang hindi ito i-hardcode?,,Gamitin ang env('API_KEY') at i-store ang value sa .env.
+Secrets Management,Ano ang gagawin kung na-commit ang secret sa git?,,"I-rotate agad ang key, tanggalin sa history, at i-hide mula sa logs."
+Docker & Containers,Paano patakbuhin ang app sa anumang machine nang pareho ang environment?,,I-build ang Docker image at patakbuhin ito bilang container.
+Docker & Containers,Paano i-expose ang port ng container sa host?,,Gamitin ang -p flag: docker run -p 8080:80 image-name.
+Docker Compose & Multi-stage Builds,Paano patakbuhin ang app at database nang sabay?,,Gamitin ang docker compose up na may services na app at mysql.
+Docker Compose & Multi-stage Builds,Paano mapaliit ang production image?,,Gumamit ng multi-stage build: i-build sa full stage at kopyahin lang ang artifacts sa runtime stage.
+CI/CD Pipelines,Paano siguraduhing pumasa ang tests bago ma-merge ang code?,,Mag-configure ng CI pipeline na nagpapatakbo ng tests sa bawat PR.
+CI/CD Pipelines,Ano ang gagawin ng pipeline kapag pumalpak ang isang stage?,,I-block ang deployment at mag-notify sa team para ayusin ang issue.
+"Server Administration (Nginx, PHP-FPM, Supervisor)",Paano i-serve ang Laravel app sa production?,,I-setup ang Nginx na may PHP-FPM at ituro ang root sa public folder.
+"Server Administration (Nginx, PHP-FPM, Supervisor)",Paano panatilihing tumatakbo ang queue worker sa server?,,Gamitin ang Supervisor para i-monitor at i-restart ang worker process.

@@ -1,0 +1,9 @@
+Rate Limiting & Throttling,Ang {{c1::rate limiting}} ay ang paglimit ng requests ng isang client sa isang panahon.,,rate limiting
+Rate Limiting & Throttling,Ang {{c1::throttle}} middleware sa Laravel ay naglilimit ng requests per minute.,,throttle
+Rate Limiting & Throttling,"Kapag lumampas ang client sa limit, magre-return ang server ng {{c1::429 Too Many Requests}}.",,429 Too Many Requests
+Async Processing & Workers,Ang {{c1::async processing}} ay ang parallel na pagproseso ng mga tasks.,,async processing
+Async Processing & Workers,Ang {{c1::workers}} ay ang mga processes na kumukuha ng jobs mula sa queue.,,workers
+Async Processing & Workers,Ang paggamit ng maraming workers ay nagpapabilis ng pag-pro-process ng {{c1::queue}}.,,queue
+Resumable Jobs & Failed Job Handling,Ang {{c1::failed jobs}} ay ang mga jobs na hindi natapos kahit ilang attempts na.,,failed jobs
+Resumable Jobs & Failed Job Handling,"Sa Laravel, ang {{c1::failed_jobs}} table ay nag-iimbak ng mga nabigong jobs.",,failed_jobs
+Resumable Jobs & Failed Job Handling,Ang {{c1::attempts}} ay ang bilang kung ilang beses na sinubukan ang job.,,attempts

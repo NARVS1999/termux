@@ -1,0 +1,15 @@
+Connection Pooling & Server Tuning,Paano mabawasan ang oras ng pag-open ng bagong DB connection bawat request?,,Gumamit ng connection pooling gaya ng PHP-FPM persistent connections o pgbouncer.
+Connection Pooling & Server Tuning,Ano ang mangyayari kapag puno na ang database connections?,,Mag-timeout o mag-fail ang mga bagong request hanggang may available na connection.
+Connection Pooling & Server Tuning,Paano i-tune ang server para sa mas maraming sabay na requests?,,I-adjust ang FPM max_children at memory settings batay sa RAM ng server.
+Connection Pooling & Server Tuning,Kailan magdagdag ng connection pool layer?,,Kapag madalas ang connection churn at naaabot ang max_connections.
+Connection Pooling & Server Tuning,Paano i-monitor ang connection usage ng database?,,Gamitin ang SHOW STATUS LIKE 'Threads_connected' para makita ang active connections.
+Caching at Multiple Layers,Paano mapabilis ang pag-load ng page para sa malalayong users?,,Gamitin ang CDN para i-cache ang static assets sa mga edge servers.
+Caching at Multiple Layers,Ano ang order ng pag-check ng cache layers?,,"Browser cache, CDN, app cache (Redis), at database query cache."
+Caching at Multiple Layers,Paano i-cache ang buong page na hindi nagbabago madalas?,,Gamitin ang HTTP caching o full-page cache na may maikling TTL.
+Caching at Multiple Layers,Kailan hindi mag-cache ang isang layer?,,Kapag ang data ay highly dynamic at per-user gaya ng cart contents.
+Caching at Multiple Layers,Paano i-invalidate ang cache sa maraming layers nang sabay?,,I-bump ang version sa cache key at i-update ang CDN purge.
+Index Maintenance,Paano panatilihing mabilis ang queries sa lumalaking table?,,Mag-optimize ang indexes: i-rebuild ang fragmented indexes at i-update ang statistics.
+Index Maintenance,Ano ang mangyayari kapag masyadong maraming indexes ang isang table?,,Mabagal ang writes dahil kailangang i-update ang bawat index sa insert.
+Index Maintenance,Paano malaman kung ginagamit pa ang isang index?,,Gamitin ang performance_schema o query statistics para makita ang index usage.
+Index Maintenance,Kailan mag-drop ng hindi ginagamit na index?,,Kapag hindi lumalabas sa query plans at nagpapabagal lang sa writes.
+Index Maintenance,Paano i-schedule ang index maintenance?,,Gawin itong regular na maintenance task sa panahon ng low traffic.

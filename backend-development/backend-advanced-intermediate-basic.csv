@@ -1,0 +1,6 @@
+Rate Limiting & Throttling,Paano i-limit ang login attempts ng isang IP sa 5 bawat minuto?,,"Gamitin ang throttle middleware: Route::middleware('throttle:5,1')."
+Rate Limiting & Throttling,Ano ang dapat gawin ng client kapag nakatanggap ng 429?,,Maghintay ng Retry-After na oras bago mag-send ulit ng request.
+Async Processing & Workers,Paano mapabilis ang pag-send ng 1000 emails?,,I-queue ang bawat email bilang job at magpatakbo ng maraming workers.
+Async Processing & Workers,Paano patakbuhin ang workers sa background nang permanente?,,Gamitin ang Supervisor para panatilihing tumatakbo ang php artisan queue:work.
+Resumable Jobs & Failed Job Handling,Ano ang gagawin sa job na paulit-ulit na nabigo?,,"I-check ang failed_jobs table, i-diagnose ang error, at i-retry o i-cancel ito."
+Resumable Jobs & Failed Job Handling,Paano i-retry ang lahat ng failed jobs?,,Patakbuhin ang php artisan queue:retry all.

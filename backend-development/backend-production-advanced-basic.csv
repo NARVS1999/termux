@@ -1,0 +1,10 @@
+"Deployment Strategies (Zero-downtime, Blue-green)",Paano mag-deploy nang hindi nag-interrupt ang mga users?,,Gamitin ang blue-green deployment: i-deploy sa green at i-switch ang load balancer.
+"Deployment Strategies (Zero-downtime, Blue-green)",Ano ang gagawin kung may error ang bagong version matapos ang deploy?,,I-rollback sa blue environment agad at i-rollback ang database migrations kung kinakailangan.
+"Deployment Strategies (Zero-downtime, Blue-green)",Paano i-deploy ang database changes nang walang downtime?,,I-run ang migrations nang backward-compatible at mag-deploy sa phased rollout.
+"Deployment Strategies (Zero-downtime, Blue-green)",Kailan gagamit ng rolling deployment imbes na blue-green?,,Kapag masyadong mahal ang duplicate environment para sa blue-green.
+"Deployment Strategies (Zero-downtime, Blue-green)",Ano ang dapat i-check pagkatapos ng deploy?,,"I-monitor ang error rate, response time, at health checks ng bagong version."
+Load Balancers & Auto-scaling,Paano maiwasan ang downtime kapag na-down ang isang server?,,Ilagay ang mga servers sa likod ng load balancer na nagre-route ng traffic sa ibang healthy server.
+Load Balancers & Auto-scaling,Paano i-handle ang biglaang pagtaas ng traffic?,,I-enable ang auto-scaling na nag-a-add ng instances kapag mataas ang CPU usage.
+Load Balancers & Auto-scaling,Ano ang mangyayari kung pumalpak ang health check ng isang server?,,Aalisin ito ng load balancer sa rotation hanggang bumalik ito sa healthy.
+Load Balancers & Auto-scaling,Paano i-ensure na pantay ang workload sa mga servers?,,Gamitin ang round-robin o least-connections na algorithm ng load balancer.
+Load Balancers & Auto-scaling,Kailan hindi sapat ang isang app server?,,Kapag ang load ay lumalampas sa capacity at kailangan ng redundancy para sa availability.

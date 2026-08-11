@@ -1,0 +1,21 @@
+Client-Server Model,"Ang {{c1::client-server model}} ay ang paghahati ng app sa client side at server side.",,client-server model
+Client-Server Model,"Sa client-server model, ang {{c1::client}} ay ang naghihingi ng resources o serbisyo mula sa server.",,client
+Client-Server Model,"Sa client-server model, ang {{c1::server}} ay ang nagpo-provide ng resources o serbisyo sa mga clients.",,server
+Request-Response Cycle,"Ang {{c1::request-response cycle}} ay ang daloy ng tawag mula browser papunta sa server at pabalik.",,request-response cycle
+Request-Response Cycle,"Sa request-response cycle, ang browser ay nagpapadala ng {{c1::request}} sa server para humingi ng data.",,request
+Request-Response Cycle,"Pagkatapos ma-process ng server ang request, ibabalik nito ang {{c1::response}} sa browser.",,response
+HTTP Methods,"Ang {{c1::HTTP methods}} ay ang mga paraan ng pag-request gaya ng GET, POST, at PUT.",,HTTP methods
+HTTP Methods,"Ang {{c1::GET}} ay ang HTTP method na ginagamit para mag-fetch ng data mula sa server.",,GET
+HTTP Methods,"Ang {{c1::POST}} ay ang HTTP method na ginagamit para mag-send ng bagong data papunta sa server.",,POST
+HTTP Status Codes,"Ang {{c1::HTTP status codes}} ay ang mga code na nagsasabi kung success o error ang response.",,HTTP status codes
+HTTP Status Codes,"Ang status code na {{c1::200 OK}} ay nangangahulugang success ang request.",,200 OK
+HTTP Status Codes,"Ang status code na {{c1::404 Not Found}} ay nangangahulugang hindi nahanap ang hinihinging resource.",,404 Not Found
+URL Routing,"Ang {{c1::URL routing}} ay ang pagtugma ng URL sa tamang handler o controller.",,URL routing
+URL Routing,"Sa URL routing, ang bawat route ay may kaukulang {{c1::controller}} na nagpro-process ng request.",,controller
+URL Routing,"Ang URL na /users ay isang halimbawa ng {{c1::route}} na tinutugma sa tamang handler.",,route
+Environment Variables & Config,"Ang {{c1::environment variables}} ay ang mga settings na naka-store sa labas ng code.",,environment variables
+Environment Variables & Config,"Ang environment variable na {{c1::DATABASE_URL}} ay nagtatago ng connection string para sa database.",,DATABASE_URL
+Environment Variables & Config,"Ginagamit ang environment variables para hindi ma-hardcode ang mga {{c1::secrets}} gaya ng API keys sa source code.",,secrets
+Git & Version Control,"Ang {{c1::Git}} ay ang version control system na nagtatala ng history ng code changes.",,Git
+Git & Version Control,"Sa Git, ang {{c1::commit}} ay ang snapshot ng mga code changes sa isang punto ng panahon.",,commit
+Git & Version Control,"Ang {{c1::branch}} sa Git ay ang hiwalay na linya ng development para sa bagong feature.",,branch

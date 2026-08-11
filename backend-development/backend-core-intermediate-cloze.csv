@@ -1,0 +1,15 @@
+Arrays & Collections,Ang {{c1::array}} ay ang grupo ng data na may key o index.,,array
+Arrays & Collections,"Sa PHP, ang {{c1::foreach}} ay ang loop na ginagamit para dumaan sa lahat ng items ng array.",,foreach
+Arrays & Collections,Ang index ng indexed array sa PHP ay nagsisimula sa {{c1::0}}.,,0
+Classes & Objects,Ang {{c1::class}} ay ang blueprint na nagdedefine ng properties at methods ng isang entity.,,class
+Classes & Objects,Ang {{c1::object}} ay ang instance na ginawa mula sa isang class.,,object
+Classes & Objects,"Sa PHP, gumagawa ng object gamit ang {{c1::new}} keyword gaya ng new User().",,new
+Inheritance & Polymorphism,Ang {{c1::inheritance}} ay ang pagmana ng properties at methods ng isang class papunta sa child class.,,inheritance
+Inheritance & Polymorphism,"Sa PHP, ang {{c1::extends}} keyword ay ginagamit para magmana ang class mula sa parent class.",,extends
+Inheritance & Polymorphism,Ang {{c1::polymorphism}} ay ang kakayahan ng magkaibang classes na i-override ang parehong method.,,polymorphism
+Interfaces & Abstract Classes,Ang {{c1::interface}} ay ang kontrata ng methods na dapat ipatupad ng class na gumagamit nito.,,interface
+Interfaces & Abstract Classes,Ang {{c1::abstract class}} ay ang class na hindi pwedeng i-instantiate at naglalaman ng abstract methods.,,abstract class
+Interfaces & Abstract Classes,"Sa PHP, nagpapatupad ng interface ang class gamit ang {{c1::implements}} keyword.",,implements
+Error Handling & Exceptions,Ang {{c1::error handling}} ay ang paghuli at paghawak ng errors nang maayos.,,error handling
+Error Handling & Exceptions,"Sa PHP, ang {{c1::try}} block ay naglalaman ng code na posibleng mag-throw ng exception.",,try
+Error Handling & Exceptions,Ang {{c1::catch}} block ay humahawak ng exception na na-throw sa loob ng try.,,catch

@@ -1,0 +1,12 @@
+RESTful API Design,Paano mag-design ng endpoint para sa pagkuha ng isang user?,,Gumawa ng GET /users/{id} na nagbabalik ng user resource.
+RESTful API Design,Paano i-create ang bagong user sa pamamagitan ng API?,,Gumawa ng POST /users na may user data sa request body.
+API Versioning,Paano magdagdag ng bagong feature nang hindi masira ang existing API users?,,Gumawa ng bagong version gaya ng /api/v2 at i-deprecate ang v1.
+API Versioning,Ano ang mangyayari kung tanggalin mo ang endpoint nang walang versioning?,,Mababali ang mga client na umaasa sa lumang response format.
+Pagination & Filtering,Paano i-paginate ang 1000 users sa 25 bawat page?,,Gamitin ang User::paginate(25) sa endpoint.
+Pagination & Filtering,Paano payagan ang client na i-filter ang products ayon sa category?,,Gamitin ang query parameter: /api/products?category=shoes.
+Third-party API Integrations,Paano i-connect ang app sa payment service na Stripe?,,Gumawa ng service class gamit ang Stripe SDK at ang secret key mula sa env.
+Third-party API Integrations,Ano ang gagawin kapag nag-return ang third-party API ng 429?,,I-retry na may backoff o i-queue ang request para hindi lumagpas sa rate limit.
+Queues & Job Dispatch,Paano magpadala ng email nang hindi nahaharang ang request?,,I-dispatch ang job: SendWelcomeEmail::dispatch($user).
+Queues & Job Dispatch,Paano patakbuhin ang mga naka-queue na jobs?,,Patakbuhin ang php artisan queue:work.
+Event & Listener System,Paano magpadala ng notification kapag na-create ang order?,,Mag-fire ng OrderCreated event at magkaroon ng listener na nagpapadala ng notification.
+Event & Listener System,Paano magdagdag ng bagong action kapag nag-login ang user?,,Gumawa ng listener para sa Login event at i-register ito sa EventServiceProvider.

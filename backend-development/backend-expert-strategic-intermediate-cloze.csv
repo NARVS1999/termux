@@ -1,0 +1,6 @@
+SLOs & Error Budgets,Ang {{c1::SLO}} (Service Level Objective) ay ang pag-set ng reliability targets ng system.,,SLO
+SLOs & Error Budgets,Ang {{c1::error budget}} ay ang pinapayagang dami ng downtime bago lumabag sa SLO.,,error budget
+SLOs & Error Budgets,Ang {{c1::SLA}} ay ang kontraktwal na reliability commitment sa mga users.,,SLA
+Incident Response & Post-mortems,Ang {{c1::incident response}} ay ang paghawak ng production incidents.,,incident response
+Incident Response & Post-mortems,Ang {{c1::post-mortem}} ay ang pag-aaral ng incident matapos itong ma-resolve.,,post-mortem
+Incident Response & Post-mortems,Ang magandang post-mortem ay tumutuon sa {{c1::root cause}} imbes na magsisisi ng tao.,,root cause

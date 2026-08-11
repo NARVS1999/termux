@@ -1,0 +1,30 @@
+Race Conditions & Locking,Paano maiwasan ang double debit ng user balance kapag sabay ang dalawang requests?,,Gamitin ang transaction na may row lock gaya ng SELECT ... FOR UPDATE.
+Race Conditions & Locking,Ano ang mangyayari kung walang lock at sabay na mag-decrement ng stock?,,Mababasa ng parehong proseso ang parehong stock count at magreresulta sa overselling.
+Race Conditions & Locking,Paano mag-implement ng optimistic locking?,,Magdagdag ng version column at i-abort ang update kapag nag-iba na ang version.
+Race Conditions & Locking,Paano i-lock ang isang job para hindi ma-process ng dalawang workers?,,Gumamit ng atomic na pag-claim gaya ng lock na may TTL sa cache.
+Race Conditions & Locking,Kailan gagamit ng pessimistic lock imbes na optimistic?,,Kapag mataas ang chance ng conflict at kailangan ang garantiya sa bawat update.
+Idempotency & Safe Retries,Paano iwasan ang duplicate charge kapag nag-retry ang client ng payment request?,,Gamitin ang idempotency key: i-save ang key at mag-return ng parehong result sa duplicate request.
+Idempotency & Safe Retries,Ano ang mangyayari kung walang idempotency at ma-double send ang webhook?,,Mag-create ng duplicate records o mag-charge nang dalawang beses.
+Idempotency & Safe Retries,Paano i-handle ang network error matapos i-commit ang transaction?,,Gamitin ang idempotency check bago mag-execute ng bagong side effect.
+Idempotency & Safe Retries,Paano mag-request ang client na may garantisadong isang beses lang na effect?,,Mag-send ng Idempotency-Key header at i-store ito kasama ng result.
+Idempotency & Safe Retries,Kailan hindi sapat ang retry para sa failed request?,,Kapag hindi idempotent ang operation at walang deduplication mechanism.
+Distributed Caching with Redis,Paano i-sync ang session data sa maraming app servers?,,Gamitin ang Redis bilang session driver para shared ang sessions.
+Distributed Caching with Redis,Ano ang mangyayari kapag nag-restart ang isang app server?,,"Hindi mawawala ang cache dahil naka-store ito sa Redis, hindi sa server."
+Distributed Caching with Redis,Paano mag-store ng list ng items sa Redis?,,"Gamitin ang Cache facade: Cache::put('products', $data, 3600)."
+Distributed Caching with Redis,Paano i-share ang cache ng multiple servers nang walang inconsistency?,,Gumamit ng iisang Redis instance na konektado ng lahat ng servers.
+Distributed Caching with Redis,Kailan gagamit ng Redis imbes na database table?,,Kapag kailangan ang mabilis na reads na may TTL para sa madalas na data.
+Cache Tags & Locks,Paano i-clear ang lahat ng cache ng products nang sabay?,,Gamitin ang Cache::tags(['products'])->flush().
+Cache Tags & Locks,Paano maiwasan na dalawang workers ang mag-process ng parehong job?,,Gumamit ng cache lock: Cache::lock('job-name')->get().
+Cache Tags & Locks,Ano ang mangyayari kapag na-expire ang lock habang tumatakbo pa ang job?,,Maaaring magsimula ang pangalawang worker - i-design ang job na idempotent.
+Cache Tags & Locks,Paano mag-set ng lock na awtomatikong mawawala?,,"Gamitin ang lock na may TTL: Cache::lock('key', 60)."
+Cache Tags & Locks,Kailan hindi gagamit ng cache tags?,,Kapag ang driver ay file o database na hindi sumusuporta ng tags.
+Window Functions & CTEs,Paano makuha ang top 3 na pinakamabentang products bawat category?,,Gamitin ang ROW_NUMBER() OVER (PARTITION BY category ORDER BY sales DESC) sa subquery.
+Window Functions & CTEs,Paano gawing malinis ang recursive query?,,Gumamit ng CTE: WITH RECURSIVE ... para sa hierarchical data.
+Window Functions & CTEs,Paano i-compare ang sales ng bawat buwan sa naunang buwan?,,Gamitin ang LAG() window function para kunin ang value ng nakaraang row.
+Window Functions & CTEs,Ano ang bentahe ng CTE sa subquery?,,Mas nababasa at maaaring i-reference nang maraming beses sa parehong query.
+Window Functions & CTEs,Kailan gagamit ng window functions imbes na GROUP BY?,,Kapag kailangang mapanatili ang indibidwal na rows habang nagko-compute ng aggregates.
+Streaming & Long-lived Connections,Paano mag-push ng live updates mula server papunta sa browser nang walang WebSocket?,,Gamitin ang Server-Sent Events (SSE) para sa one-way streaming.
+Streaming & Long-lived Connections,Ano ang mangyayari kapag na-drop ang long-lived connection?,,Dapat mag-reconnect ang client at i-resume ang pag-stream mula sa huling offset.
+Streaming & Long-lived Connections,Paano mag-stream ng malalaking file sa user nang hindi nauubos ang memory?,,I-stream ito sa chunks imbes na i-load ang buong file sa memory.
+Streaming & Long-lived Connections,Paano i-handle ang maraming sabay na long-lived connections?,,Gamitin ang async workers o dedicated na connection handling.
+Streaming & Long-lived Connections,Kailan gagamit ng polling imbes na streaming?,,Kapag hindi real-time ang data at mas simple ang implementation.

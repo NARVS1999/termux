@@ -1,0 +1,3 @@
+Notifications & Mailables,Ang {{c1::notifications}} ay ang pagpapadala ng email at notifications sa users.,,notifications
+Notifications & Mailables,Ang {{c1::Mailables}} ay ang PHP classes na nagrepresent ng email na ipapadala.,,Mailables
+Notifications & Mailables,"Sa Laravel, ang {{c1::mail}} na channel ay nagpapadala ng notification sa pamamagitan ng email.",,mail

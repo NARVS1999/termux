@@ -1,0 +1,25 @@
+Normalization vs Denormalization,Paano maiwasan ang pag-ulit ng address ng user sa bawat order?,,I-normalize: ilipat ang address sa hiwalay na table at i-reference ito ng order.
+Normalization vs Denormalization,Paano mapabilis ang dashboard na paulit-ulit na nag-join ng malalaking tables?,,I-denormalize ang summary data sa isang reporting table.
+Normalization vs Denormalization,Ano ang mangyayari sa data consistency kapag nag-denormalize?,,Kailangan mong i-update ang duplicated data sa lahat ng lugar o magkaroon ng sync job.
+Normalization vs Denormalization,Kailan mag-normalize nang mahigpit?,,Kapag ang data ay transactional at ang integrity ay mas importante sa read speed.
+Normalization vs Denormalization,Kailan mag-denormalize?,,Kapag read-heavy ang workload at sapat na ang eventual consistency.
+"Indexing Strategy (Composite, Covering)",Paano mapabilis ang query na nag-fifilter ng orders ayon sa user at date?,,"Gumawa ng composite index sa (user_id, created_at)."
+"Indexing Strategy (Composite, Covering)",Ano ang mangyayari kapag nag-query ka gamit ang non-indexed column?,,Mag-fu-full table scan ang database na mabagal sa malalaking tables.
+"Indexing Strategy (Composite, Covering)",Paano i-check kung ginagamit ang index ng isang query?,,Gamitin ang EXPLAIN at tingnan ang index column ng result.
+"Indexing Strategy (Composite, Covering)",Kailan hindi magandang magdagdag ng index?,,Kapag write-heavy ang table at bihira lang i-query ang column - masisira ang write speed.
+"Indexing Strategy (Composite, Covering)",Paano gumawa ng index na sumasakop sa query results nang walang table lookup?,,Gumawa ng covering index na may lahat ng columns na nirerequest ng query.
+Query Optimization with EXPLAIN,Paano alamin kung mabagal ang query dahil sa lack ng index?,,Patakbuhin ang EXPLAIN at tingnan kung full table scan ang pinili nito.
+Query Optimization with EXPLAIN,Ano ang dapat baguhin kung gumagamit ang query ng maling index?,,Ayusin ang index order o magdagdag ng mas tamang composite index.
+Query Optimization with EXPLAIN,Paano i-compare ang performance ng dalawang query variants?,,Gamitin ang EXPLAIN sa pareho at ikumpara ang rows at possible_keys.
+Query Optimization with EXPLAIN,Kailan magdagdag ng index kapag nag-ORDER BY sa large table?,,Kapag nag-ORDER BY sa column na hindi naka-index para maiwasan ang filesort.
+Query Optimization with EXPLAIN,Ano ang ibig sabihin ng maliit na rows estimate sa EXPLAIN?,,Mahusay na query plan na kakaunting rows lang ang binabasa.
+"Caching Strategies (Cache-aside, Write-through)",Paano basahin ang user profile na madalas i-access?,,"Gamitin ang cache-aside: i-check muna ang cache, kung miss, kunin sa DB at i-store sa cache."
+"Caching Strategies (Cache-aside, Write-through)",Ano ang mangyayari sa cache kapag na-update ang database nang hindi ginagalaw ang cache?,,Magpapakita ito ng stale data hanggang ma-expire o ma-invalidate ang cache.
+"Caching Strategies (Cache-aside, Write-through)",Paano mag-implement ng write-through caching?,,I-update ang database at sabay na i-update ang cache sa parehong write operation.
+"Caching Strategies (Cache-aside, Write-through)",Kailan gagamit ng cache-aside imbes na write-through?,,Kapag read-heavy ang workload at okay ang slight na staleness.
+"Caching Strategies (Cache-aside, Write-through)",Paano maiwasan ang pagkapuno ng cache sa walang limit na keys?,,Mag-set ng TTL (time to live) sa bawat cache entry.
+Cache Invalidation,Paano maiwasan ang lumang data sa cache kapag nag-update ang product price?,,I-invalidate ang cache key ng product pagkatapos ng update o gumamit ng cache tags.
+Cache Invalidation,Ano ang mangyayari kung masyadong mahaba ang TTL?,,Mas madalas magpakita ng stale data ang app.
+Cache Invalidation,Paano i-clear ang lahat ng cache ng isang group ng data?,,Gumamit ng cache tags gaya ng Cache::tags(['products'])->flush().
+Cache Invalidation,Kailan mag-delete ng cache entry imbes na i-update ito?,,Kapag mas madaling i-recompute sa susunod na read kaysa i-maintain ito.
+Cache Invalidation,Paano i-handle ang sabay na invalidation mula sa maraming servers?,,Gumamit ng distributed cache na may shared na invalidation events.

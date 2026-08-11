@@ -1,0 +1,6 @@
+Layered Architecture,Paano i-organize ang controller na puro request handling lang?,,I-delegate ang logic sa service layer at panatilihing manipis ang controller.
+Layered Architecture,Ano ang mangyayari kung isulat ang SQL queries sa controller?,,Magkakaroon ng mixed responsibilities na mahirap i-test at i-maintain.
+Service Layer Pattern,Paano tanggalin ang business logic sa controller?,,Ilipat ito sa service class gaya ng OrderService at i-inject ito sa controller.
+Service Layer Pattern,Bakit ilagay ang order creation logic sa service imbes na controller?,,"Para maging reusable sa controllers, jobs, at commands nang walang duplicate."
+Middleware & Request Lifecycle,Paano i-block ang request ng hindi naka-login na user sa admin routes?,,Ilagay ang auth middleware: Route::middleware('auth')->group(...).
+Middleware & Request Lifecycle,Ano ang mangyayari kung mag-abort ang middleware bago ang controller?,,Hihinto ang request lifecycle at magre-return ang response mula sa middleware.

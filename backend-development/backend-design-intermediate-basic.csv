@@ -1,0 +1,4 @@
+Database Design & ER Modeling,Paano i-design ang database para sa users at posts?,,Gumawa ng users table at posts table na may user_id foreign key.
+Database Design & ER Modeling,Paano i-connect ang posts sa users sa schema level?,,Magdagdag ng foreign key sa posts.user_id na naka-reference sa users.id.
+Transactions & ACID,Paano siguraduhing sabay na magtagumpay ang transfer ng pera sa dalawang accounts?,,I-wrap ang parehong updates sa isang database transaction at i-commit pagkatapos.
+Transactions & ACID,Ano ang mangyayari kung ma-interrupt ang transaction sa gitna?,,I-rollback ang lahat ng partial changes para manatiling consistent ang data.

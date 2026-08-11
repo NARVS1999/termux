@@ -1,0 +1,15 @@
+Normalization vs Denormalization,Ang {{c1::normalization}} ay ang pagbawas ng data duplication sa pamamagitan ng paghahati ng tables.,,normalization
+Normalization vs Denormalization,Ang {{c1::denormalization}} ay ang intentional na pagduplicate ng data para mapabilis ang reads.,,denormalization
+Normalization vs Denormalization,Ang {{c1::third normal form}} ay ang level ng normalization na nag-aalis ng transitive dependencies.,,third normal form
+"Indexing Strategy (Composite, Covering)",Ang {{c1::index}} ay ang structure na nagpapabilis ng queries sa database.,,index
+"Indexing Strategy (Composite, Covering)","Ang {{c1::composite index}} ay ang index sa maraming columns gaya ng (user_id, created_at).",,composite index
+"Indexing Strategy (Composite, Covering)",Ang {{c1::covering index}} ay naglalaman ng lahat ng columns na kailangan ng query kaya hindi na kailangan ng table lookup.,,covering index
+Query Optimization with EXPLAIN,Ang {{c1::EXPLAIN}} ay ang tool para i-analyze ang execution plan ng query.,,EXPLAIN
+Query Optimization with EXPLAIN,Ang {{c1::full table scan}} sa EXPLAIN ay nangangahulugang binabasa ng database ang lahat ng rows.,,full table scan
+Query Optimization with EXPLAIN,Ang {{c1::key}} column sa EXPLAIN ay nagpapakita kung aling index ang ginamit.,,key
+"Caching Strategies (Cache-aside, Write-through)",Ang {{c1::cache-aside}} ay ang strategy kung saan ang app mismo ang naglalagay ng data sa cache.,,cache-aside
+"Caching Strategies (Cache-aside, Write-through)","Sa {{c1::write-through}} caching, ang data ay sabay na sinusulat sa cache at database.",,write-through
+"Caching Strategies (Cache-aside, Write-through)",Ang {{c1::cache}} ay ang mabilis na storage para sa madalas na ina-access na data.,,cache
+Cache Invalidation,Ang {{c1::cache invalidation}} ay ang pag-update ng cache kapag nagbago ang source data.,,cache invalidation
+Cache Invalidation,Ang {{c1::stale data}} ay ang lumang cache value na hindi na tugma sa database.,,stale data
+Cache Invalidation,Ang cache {{c1::TTL}} ay ang oras kung kailan ma-e-expire ang isang cache entry.,,TTL

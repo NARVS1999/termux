@@ -1,0 +1,18 @@
+Race Conditions & Locking,Ang {{c1::race condition}} ay nangyayari kapag dalawang proseso ang sabay na nag-access ng shared data.,,race condition
+Race Conditions & Locking,Ang {{c1::locking}} ay ang pagprotekta ng shared data mula sa sabay na access.,,locking
+Race Conditions & Locking,Ang {{c1::atomic operation}} ay ang operasyon na hindi kayang ma-interrupt ng ibang proseso sa gitna.,,atomic operation
+Idempotency & Safe Retries,Ang {{c1::idempotency}} ay ang pagtiyak na hindi magdoble ang effect ng repeated requests.,,idempotency
+Idempotency & Safe Retries,Ang {{c1::idempotency key}} ay ang unique identifier na ipinapasa ng client para i-detect ang duplicate requests.,,idempotency key
+Idempotency & Safe Retries,Ang safe retry ay nangangahulugang maaaring i-{{c1::repeat}} ang request nang walang side effects.,,repeat
+Distributed Caching with Redis,Ang {{c1::Redis}} ay ang shared cache na naka-store sa labas ng app servers.,,Redis
+Distributed Caching with Redis,Ang distributed cache ay {{c1::shared}} sa lahat ng app servers.,,shared
+Distributed Caching with Redis,Ang Redis ay nag-iimbak ng data sa {{c1::memory}} kaya napakabilis ng reads.,,memory
+Cache Tags & Locks,Ang {{c1::cache tags}} ay ang grupo ng cache keys na pinagsama-sama.,,cache tags
+Cache Tags & Locks,Ang {{c1::cache lock}} ay ang mekanismo para i-prevent ang sabay na pag-process ng parehong job.,,cache lock
+Cache Tags & Locks,"Sa Laravel, ang Cache::tags() ay sinusuportahan ng {{c1::Redis}} at Memcached drivers.",,Redis
+Window Functions & CTEs,Ang {{c1::window functions}} ay ang advanced SQL queries para sa analytics gaya ng ROW_NUMBER().,,window functions
+Window Functions & CTEs,Ang {{c1::CTE}} (Common Table Expression) ay ang temporary na named result set sa loob ng query.,,CTE
+Window Functions & CTEs,Ang {{c1::ROW_NUMBER()}} ay ang window function na nag-numero ng rows batay sa partition.,,ROW_NUMBER()
+Streaming & Long-lived Connections,Ang {{c1::streaming}} ay ang tuloy-tuloy na data sa pagitan ng client at server.,,streaming
+Streaming & Long-lived Connections,Ang {{c1::Server-Sent Events}} ay ang one-way streaming mula server papunta sa client.,,Server-Sent Events
+Streaming & Long-lived Connections,Ang long-lived connection ay hindi na {{c1::nagsasara}} agad matapos ang isang request.,,nagsasara

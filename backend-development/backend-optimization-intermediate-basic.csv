@@ -1,0 +1,10 @@
+"Performance Profiling (Debugbar, Xdebug, Telescope, Blackfire)",Paano malaman kung aling queries ang mabagal sa development?,,Gamitin ang Debugbar para makita ang bilang at oras ng bawat query.
+"Performance Profiling (Debugbar, Xdebug, Telescope, Blackfire)",Paano malaman kung saan ginugugol ng function ang oras?,,Gumamit ng profiler gaya ng Blackfire o Xdebug para makita ang call stack timings.
+OPcache & PHP Configuration Tuning,Paano mapabilis ang pag-execute ng PHP files?,,I-enable ang OPcache sa php.ini para ma-cache ang compiled code.
+OPcache & PHP Configuration Tuning,Ano ang gagawin kapag nag-ka-out of memory ang isang script?,,I-taasan ang memory_limit sa php.ini o i-refactor ang script para gumamit ng mas kaunting memory.
+HTTP Caching & Asset Optimization,Paano mabawasan ang pag-load ng parehong static file ng paulit-ulit?,,Mag-set ng Cache-Control at Expires headers sa static assets.
+HTTP Caching & Asset Optimization,Paano i-optimize ang assets para sa production?,,I-minify ang CSS at JavaScript at i-compress ang images.
+Database Query Profiling,Paano mahanap ang mga queries na nagpapabagal sa production?,,I-enable ang slow query log ng MySQL at i-analyze ang mga lumalabas dito.
+Database Query Profiling,Paano makita ang lahat ng queries ng isang request sa Laravel?,,Gamitin ang DB::enableQueryLog() at i-print ang log pagkatapos ng request.
+Batch Processing & Chunking,Paano mag-update ng 100k records nang hindi nauubos ang memory?,,"Gamitin ang chunk(): User::chunk(500, function ($users) { ... })."
+Batch Processing & Chunking,Ano ang problema kapag i-load ang lahat ng 100k records nang sabay?,,Mauubos ang memory ng PHP at maaaring mag-timeout ang request.

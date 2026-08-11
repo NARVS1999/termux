@@ -1,0 +1,20 @@
+SOLID Principles,Paano i-refactor ang class na maraming responsibilidad?,,Hatiin ito sa magkakahiwalay na classes na may isang responsibilidad bawat isa.
+SOLID Principles,Paano magdagdag ng bagong notification type nang hindi binabago ang sender class?,,"Gumamit ng interface at ipatupad ito ng bagong class, pagkatapos i-inject ito sa sender."
+SOLID Principles,Ano ang problema kapag direktang gumagawa ang class ng mga dependencies nito?,,Naging tightly coupled ito at mahirap i-test at i-swap ang implementation.
+SOLID Principles,Paano mag-design ng class na open sa extension ngunit closed sa modification?,,Gamitin ang inheritance o interfaces para mag-extend ng behavior nang hindi binabago ang existing code.
+SOLID Principles,Kailan pwedeng palitan ng subclass ang parent class nang walang break?,,Kapag sumusunod sa Liskov Substitution Principle.
+Composition over Inheritance,Paano i-share ang fly behavior sa iba't ibang birds nang walang duplicate code?,,Gumawa ng Flyable interface at i-compose ito sa bawat bird class imbes na magmana.
+Composition over Inheritance,Ano ang problema ng deep inheritance chains?,,Mahirap baguhin at nagiging brittle dahil naaapektuhan ang lahat ng subclasses.
+Composition over Inheritance,Paano baguhin ang behavior ng object sa runtime gamit ang composition?,,Mag-palit ng composed object na may bagong implementation.
+Composition over Inheritance,Kailan pa rin gumamit ng inheritance imbes na composition?,,Kapag malinaw ang is-a relationship at hindi magbabago ang hierarchy.
+Composition over Inheritance,Paano magdagdag ng bagong capability sa class nang hindi ginagalaw ang hierarchy?,,Mag-pass ng bagong object sa constructor na may kailangang capability.
+"Design Patterns (Repository, Factory, Strategy, Observer)",Paano ihiwalay ang database queries sa business logic?,,Gumamit ng Repository pattern na nag-encapsulate ng lahat ng data access.
+"Design Patterns (Repository, Factory, Strategy, Observer)",Paano gumawa ng object na ang type ay depende sa input?,,Gumamit ng Factory pattern na nagre-return ng tamang class batay sa parameter.
+"Design Patterns (Repository, Factory, Strategy, Observer)",Paano magpalit ng shipping fee computation sa runtime?,,Gumamit ng Strategy pattern at i-swap ang strategy object sa runtime.
+"Design Patterns (Repository, Factory, Strategy, Observer)",Paano mag-notify ng maraming parts kapag may nangyari sa isang object?,,Gumamit ng Observer pattern kung saan nag-subscribe ang mga listeners sa subject.
+"Design Patterns (Repository, Factory, Strategy, Observer)",Kailan hindi gagamit ng design pattern?,,Kapag mas kumplikado ang pattern kaysa sa problema na sinosolusyunan nito.
+Eager Loading & N+1 Prevention,Paano iwasan ang N+1 kapag nag-loop ng users at i-access ang posts ng bawat isa?,,Gamitin ang User::with('posts')->get() para i-load nang sabay ang relationships.
+Eager Loading & N+1 Prevention,Ano ang mangyayari kung i-access mo ang $user->posts sa loob ng loop nang walang eager loading?,,Magpapatakbo ng hiwalay na query bawat user na magdudulot ng N+1 problem.
+Eager Loading & N+1 Prevention,Paano i-check kung ilang queries ang pinatakbo ng isang request?,,Gamitin ang QueryLog o Debugbar para makita ang bilang ng queries.
+Eager Loading & N+1 Prevention,Paano i-load ang nested relationship na posts.comments nang eager?,,Gamitin ang nested notation: User::with('posts.comments')->get().
+Eager Loading & N+1 Prevention,Kailan hindi magandang mag-eager load ng relationship?,,Kapag hindi naman gagamitin ang relationship at magpapatakbo lang ito ng extra query.

@@ -1,0 +1,30 @@
+"Service Container, Service Providers & Facades",Paano mag-resolve ng class mula sa container nang walang manual instantiation?,,Gamitin ang app(MyService::class) o i-type-hint ito sa constructor.
+"Service Container, Service Providers & Facades",Paano i-bind ang interface sa concrete implementation?,,"Sa service provider: $this->app->bind(PaymentInterface::class, StripePayment::class)."
+"Service Container, Service Providers & Facades",Ano ang mangyayari kung walang binding na magamit ang container?,,Ire-resolve nito ang class nang awtomatiko sa pamamagitan ng reflection.
+"Service Container, Service Providers & Facades",Kailan ka gagawa ng sariling service provider?,,Kapag may custom service o binding na kailangang i-register kapag nag-boot ang app.
+"Service Container, Service Providers & Facades",Paano gamitin ang Cache facade para mag-store ng value?,,"Gamitin ang Cache::put('key', $value, $minutes)."
+Clean Architecture,Paano i-keep ang business logic na hindi umaasa sa Laravel?,,Ilagay ito sa application o domain layers na hindi gumagamit ng framework classes.
+Clean Architecture,Ano ang mangyayari kung umaasa ang entities sa framework?,,Magiging mahirap i-test at i-reuse sa ibang frameworks o projects.
+Clean Architecture,Paano i-swap ang database mula MySQL papunta sa MongoDB nang minimal changes?,,Gamitin ang repository interfaces sa core at i-implement ang adapter sa infrastructure layer.
+Clean Architecture,Kailan overkill ang Clean Architecture?,,Sa maliliit na apps kung saan sapat na ang simpler na structure.
+Clean Architecture,Paano i-depend ang outer layers sa abstractions?,,I-inject ang interfaces imbes na concrete classes sa bawat layer.
+Modular & Multi-tenant Design,Paano i-organize ang billing feature bilang hiwalay na module?,,"Gumawa ng modules/Billing folder na may sariling routes, controllers, at models."
+Modular & Multi-tenant Design,Paano ihiwalay ang data ng bawat tenant sa isang shared database?,,Magdagdag ng tenant_id column at i-scope ang lahat ng queries sa kasalukuyang tenant.
+Modular & Multi-tenant Design,Ano ang mangyayari kung makalimutan ang tenant scoping sa query?,,Mag-leak ang data ng ibang tenant sa response - critical security bug.
+Modular & Multi-tenant Design,Paano gumawa ng bagong module nang hindi ginagalaw ang core app?,,Gumawa ng self-contained module na may sariling namespace at service provider.
+Modular & Multi-tenant Design,Kailan hindi dapat mag-multi-tenant sa isang database?,,Kapag may strict compliance na nangangailangan ng pisikal na paghihiwalay ng data.
+Design for Failure,Paano iwasan ang pagkaubos ng resources kapag bumagsak ang third-party API?,,Mag-implement ng circuit breaker na humihinto ng requests sa failing service.
+Design for Failure,Ano ang gagawin kapag na-fail ang isang job sa queue?,,I-retry ito nang may backoff at ilipat sa failed jobs pagkatapos ng ilang attempts.
+Design for Failure,Paano i-handle ang crash ng isang worker?,,Magkaroon ng supervisor na awtomatikong nagre-restart ng worker process.
+Design for Failure,Paano siguraduhin na hindi maapektuhan ang buong system ng isang failed service?,,"Gamitin ang timeouts, fallbacks, at degrade gracefully na pattern."
+Design for Failure,Kailan ka mag-a-rollback sa pag-deploy?,,"Kapag may critical errors pagkatapos ng deploy, bumalik sa huling stable version."
+"Observability (Structured Logging, Monitoring, Tracing)",Paano madaling maghanap ng error logs ng isang specific user?,,Mag-log ng structured data (JSON) na may user_id para ma-query ito sa log tool.
+"Observability (Structured Logging, Monitoring, Tracing)",Paano malaman kung aling service ang mabagal sa isang request?,,Gamitin ang distributed tracing para makita ang time ng bawat hop.
+"Observability (Structured Logging, Monitoring, Tracing)",Ano ang dapat i-log kapag may exception sa production?,,"I-log ang message, stack trace, request ID, at context gaya ng user at endpoint."
+"Observability (Structured Logging, Monitoring, Tracing)",Paano mag-alert kapag tumaas ang error rate?,,Mag-set ng alert sa monitoring tool batay sa error rate threshold.
+"Observability (Structured Logging, Monitoring, Tracing)",Kailan hindi dapat mag-log ng sensitive data?,,"Kapag ang data ay credentials, tokens, o personal info ng users."
+Monolith vs Microservices,Paano magsimula ng bagong startup app mula sa dalawang options?,,Magsimula sa monolith muna para sa bilis ng development at masimpleng deployment.
+Monolith vs Microservices,Kailan mag-break sa microservices?,,Kapag may malinaw na bounded contexts at kailangang mag-scale o mag-deploy nang hiwalay.
+Monolith vs Microservices,Ano ang problema ng microservices sa distributed transactions?,,Mahirap i-maintain ang consistency kaya gumamit ng event-driven patterns.
+Monolith vs Microservices,Paano i-communicate ang microservices sa isa't isa?,,"Gamit ang HTTP APIs, message queues, o events."
+Monolith vs Microservices,Ano ang mangyayari sa team kung masyadong maliit ang microservices?,,Magdudulot ito ng malaking operational overhead at coordination cost.

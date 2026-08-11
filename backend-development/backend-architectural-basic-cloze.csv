@@ -1,0 +1,3 @@
+Architecture Decision Records,Ang {{c1::Architecture Decision Record}} ay ang dokumentado ng mga malalaking technical decisions.,,Architecture Decision Record
+Architecture Decision Records,"Ang ADR ay naglalaman ng {{c1::context}}, decision, at consequences ng isang technical choice.",,context
+Architecture Decision Records,Ang ADR ay ginagamit para i-document ang dahilan ng isang {{c1::technical decision}} para sa future reference ng team.,,technical decision

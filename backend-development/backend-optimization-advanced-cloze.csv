@@ -1,0 +1,9 @@
+Connection Pooling & Server Tuning,Ang {{c1::connection pooling}} ay ang pag-reuse ng database connections.,,connection pooling
+Connection Pooling & Server Tuning,Ang pag-reuse ng connections ay nagbabawas ng {{c1::overhead}} ng pag-open ng bagong connection.,,overhead
+Connection Pooling & Server Tuning,Ang {{c1::max_connections}} ay ang limit ng sabay na database connections.,,max_connections
+Caching at Multiple Layers,Ang {{c1::caching at multiple layers}} ay ang pag-cache sa bawat antas ng system.,,caching at multiple layers
+Caching at Multiple Layers,Ang {{c1::browser cache}} ay ang pinakaunang antas ng cache na naka-store sa client.,,browser cache
+Caching at Multiple Layers,Ang {{c1::CDN}} ay ang cache ng static content sa mga edge servers malapit sa users.,,CDN
+Index Maintenance,Ang {{c1::index maintenance}} ay ang regular na paglilinis ng database indexes.,,index maintenance
+Index Maintenance,Ang {{c1::fragmentation}} ay ang pagkaputol-putol ng index storage na nagpapabagal sa queries.,,fragmentation
+Index Maintenance,Ang {{c1::ANALYZE TABLE}} ay ang command para i-update ang statistics ng table.,,ANALYZE TABLE

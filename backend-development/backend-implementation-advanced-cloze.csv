@@ -1,0 +1,12 @@
+SOLID Principles,Ang {{c1::SOLID}} ay ang limang prinsipyo para sa maintainable na design.,,SOLID
+SOLID Principles,"Sa SOLID, ang S ay nangangahulugang {{c1::Single Responsibility Principle}} - isang responsibilidad lang per class.",,Single Responsibility Principle
+SOLID Principles,"Ang {{c1::Dependency Inversion}} ay ang prinsipyong nagsasabing dapat umasa sa abstractions, hindi sa concrete classes.",,Dependency Inversion
+Composition over Inheritance,Ang {{c1::composition over inheritance}} ay ang pagbubuo ng behavior sa pamamagitan ng objects imbes na magmana.,,composition over inheritance
+Composition over Inheritance,"Sa composition, ang class ay may {{c1::has-a}} relationship imbes na is-a.",,has-a
+Composition over Inheritance,"Sa inheritance, ginagamit ang {{c1::is-a}} relationship gaya ng Manager ay isang Employee.",,is-a
+"Design Patterns (Repository, Factory, Strategy, Observer)",Ang {{c1::design patterns}} ay ang mga proven na solusyon sa paulit-ulit na problema sa software design.,,design patterns
+"Design Patterns (Repository, Factory, Strategy, Observer)",Ang {{c1::Repository}} pattern ay ang paghiwalay ng data access logic sa business logic.,,Repository
+"Design Patterns (Repository, Factory, Strategy, Observer)",Ang {{c1::Strategy}} pattern ay ang pagpapalit ng algorithm sa runtime gamit ang interfaces.,,Strategy
+Eager Loading & N+1 Prevention,Ang {{c1::N+1 problem}} ay nangyayari kapag nag-qu-query pa sa bawat item ng collection imbes na isang query lang.,,N+1 problem
+Eager Loading & N+1 Prevention,Ang {{c1::eager loading}} ay ang pag-load ng related records nang sabay sa isang query.,,eager loading
+Eager Loading & N+1 Prevention,"Sa Laravel, ginagamit ang {{c1::with()}} para i-eager load ang relationships sa isang query.",,with()

@@ -1,0 +1,4 @@
+SLOs & Error Budgets,Paano mag-decide kung pwede bang mag-deploy kahit may issues?,,"I-check ang error budget - kung hindi pa nauubos, pwede pa ang deploy."
+SLOs & Error Budgets,Ano ang gagawin kapag naubos na ang error budget ng buwan?,,I-pause ang risky changes at i-prioritize ang reliability improvements.
+Incident Response & Post-mortems,Paano i-handle ang production incident?,,"I-follow ang incident response plan: i-assess, i-mitigate, i-communicate, at i-document."
+Incident Response & Post-mortems,Ano ang dapat isulat sa post-mortem?,,"Ang timeline, root cause, impact, at action items para maiwasan ang pag-ulit."

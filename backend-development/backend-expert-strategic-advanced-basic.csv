@@ -1,0 +1,40 @@
+CAP Theorem & Consistency Models,Paano pumili sa pagitan ng consistency at availability sa partition?,,"I-decide batay sa use case: bank transactions need consistency, social feeds need availability."
+CAP Theorem & Consistency Models,Ano ang gagawin kapag kailangan ang mataas na availability sa distributed system?,,Tanggapin ang eventual consistency kung saan babalik sa consistent state ang data sa kalaunan.
+CAP Theorem & Consistency Models,Paano mag-implement ng strong consistency sa distributed DB?,,Gumamit ng consensus-based system gaya ng Raft o Paxos.
+CAP Theorem & Consistency Models,Kailan pipiliin ang consistency over availability?,,Kapag ang maling data ay mas mahal kaysa sa downtime.
+CAP Theorem & Consistency Models,Ano ang tradeoff ng eventual consistency?,,Maikli ang downtime pero maaaring magpakita ng lumang data pansamantala.
+Scalability Patterns (Vertical vs Horizontal),Paano magdagdag ng capacity kapag naabot na ang limit ng server hardware?,,Mag-scale horizontally: magdagdag ng mas maraming servers sa likod ng load balancer.
+Scalability Patterns (Vertical vs Horizontal),Ano ang limitasyon ng vertical scaling?,,May hardware ceiling ang isang server at single point of failure pa rin ito.
+Scalability Patterns (Vertical vs Horizontal),Ano ang dapat i-consider bago mag-horizontal scaling?,,Kailangang stateless ang app o shared ang session at cache (gaya ng Redis).
+Scalability Patterns (Vertical vs Horizontal),Kailan magsisimula sa vertical scaling?,,Kapag maliit pa ang traffic at mas mura ang pag-upgrade ng server.
+Scalability Patterns (Vertical vs Horizontal),Paano i-handle ang database sa horizontal scaling?,,"Gamitin ang read replicas, sharding, o distributed databases."
+Distributed Systems Fundamentals,Paano mag-communicate ang services nang hindi sila direktang nag-call sa isa't isa?,,Gumamit ng message queue gaya ng RabbitMQ o SQS.
+Distributed Systems Fundamentals,Ano ang mangyayari kapag bumagsak ang isang service sa distributed system?,,Hindi dapat bumagsak ang buong system - i-design ang mga service na may fallback.
+Distributed Systems Fundamentals,Paano i-ensure ang pag-order ng messages?,,Gumamit ng partition key o sequence numbers sa message queue.
+Distributed Systems Fundamentals,Kailan mag-break ng monolith papunta sa distributed services?,,Kapag may malinaw na bounded context at kailangan ng independent scaling.
+Distributed Systems Fundamentals,Paano i-monitor ang distributed system?,,"Gumamit ng distributed tracing, metrics, at centralized logging."
+Event-Driven Architecture,Paano i-notify ang maraming services kapag na-create ang order nang hindi sila direkta i-call?,,Mag-publish ng OrderCreated event sa event bus at mag-subscribe ang mga services.
+Event-Driven Architecture,Ano ang mangyayari kung offline ang isang consumer ng event?,,Ma-replay ang event mula sa queue kapag bumalik ang consumer.
+Event-Driven Architecture,Paano magdagdag ng bagong feature na nangangailangan ng order data?,,Gumawa ng bagong consumer na nakikinig sa OrderCreated event nang walang pagbabago sa producer.
+Event-Driven Architecture,Kailan hindi gagamit ng event-driven architecture?,,Kapag masyadong maliit ang system at sapat na ang direct calls.
+Event-Driven Architecture,Paano i-handle ang duplicate events?,,Gawing idempotent ang mga consumers gamit ang event ID deduplication.
+Security Hardening (OWASP Top 10),Paano iwasan ang SQL injection sa queries?,,Gumamit ng prepared statements o parameterized queries imbes na string concatenation.
+Security Hardening (OWASP Top 10),Paano iwasan ang XSS sa user content?,,I-escape ang output at gamitin ang validation para i-filter ang input.
+Security Hardening (OWASP Top 10),Ano ang dapat gawin kapag may vulnerability na nadiskubre sa dependencies?,,I-update agad ang package at i-scan ang dependencies nang regular.
+Security Hardening (OWASP Top 10),Paano protektahan ang admin panel?,,"Magdagdag ng multi-factor authentication, rate limiting, at strict authorization."
+Security Hardening (OWASP Top 10),Kailan mag-run ng security audit?,,Bago mag-release at regular sa CI pipeline gamit ang automated scanners.
+Threat Modeling,Paano malaman kung aling parts ng system ang dapat i-secure muna?,,"Gumawa ng threat model na nagli-list ng assets, entry points, at threats."
+Threat Modeling,Ano ang unang hakbang sa threat modeling ng isang app?,,I-identify ang assets at ang pinaka-sensitive na data ng system.
+Threat Modeling,Paano i-prioritize ang mga natuklasang threats?,,I-rank gamit ang likelihood at impact ng bawat threat.
+Threat Modeling,Kailan mag-update ng threat model?,,Kapag may malaking pagbabago sa architecture o bagong feature na may data exposure.
+Threat Modeling,Ano ang gagawin sa threats na hindi maiiwasan?,,Tanggapin ang risk na may documented mitigation o i-transfer sa ibang control.
+Performance Engineering,Paano i-ensure na mabilis ang app kahit lumalaki ang users?,,Mag-set ng performance budget at i-monitor ang metrics sa bawat release.
+Performance Engineering,Ano ang unang hakbang sa pag-optimize ng mabagal na page?,,I-profile muna para mahanap ang bottleneck imbes na mag-guess.
+Performance Engineering,Paano i-optimize ang initial page load?,,"I-minimize ang JS/CSS, gamitin ang lazy loading, at i-cache ang assets."
+Performance Engineering,Kailan mag-optimize ang performance?,,Kapag may data na ebidensya mula sa profiling na may tunay na bottleneck.
+Performance Engineering,Paano maiwasan ang performance regression sa CI?,,Magdagdag ng automated performance tests na nag-fail kapag lumampas sa budget.
+Code Review & Architecture Reviews,Paano maiwasan ang pagpasok ng bugs sa production?,,Magpatupad ng code review process na may checklist sa bawat PR.
+Code Review & Architecture Reviews,Ano ang dapat i-check sa architecture review?,,"Ang scalability, security, maintainability, at alignment sa business goals."
+Code Review & Architecture Reviews,Paano gawing epektibo ang code review?,,Gumamit ng maliliit na PRs at i-review ang intent imbes na ang style lang.
+Code Review & Architecture Reviews,Kailan mag-run ng architecture review?,,Bago ang malalaking features na may malaking design implications.
+Code Review & Architecture Reviews,Paano i-handle ang disagreement sa code review?,,I-discuss ang tradeoffs at mag-decide batay sa team standards at ebidensya.
