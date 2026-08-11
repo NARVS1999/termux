@@ -1,133 +1,133 @@
-Application,"Paano mag-define ng string-backed enum na may status values?",,"enum Status: string { case Active = 'active'; case Inactive = 'inactive'; }"
-Application,"Paano gumawa ng property na hindi na mababago pagkatapos ng construction?",,"public readonly string $name;"
-Application,"Paano mag-call ng function gamit ang named arguments nang hindi sinusunod ang order?",,"process(amount: 100, retries: 3);"
-Application,"Paano mag-return ng value mula sa conditional gamit ang match?",,"return match ($status) { 'a' => 'Active', default => 'Unknown' };"
-Application,"Paano i-access ang nested property nang ligtas kung pwede itong mag-null?",,"$user->profile?->name"
-Application,"Paano magdagdag ng bagong payment method nang hindi binabago ang existing code?",,"Mag-create ng bagong class na nag-implement ng PaymentGateway interface."
-Application,"Paano i-inject ang dependency sa halip na mag-new sa loob ng class?",,"public function __construct(private Mailer $mailer) {}"
-Application,"Paano ayusin ang malaking interface na pinipilit i-implement ng lahat ng classes?",,"Hatiin ito sa mas maliliit na focused interfaces at i-implement lang ang kailangan."
-Application,"Paano i-test ang isang class na may external dependency?",,"I-pass ang mock o fake ng dependency sa constructor nito."
-Application,"Paano mag-compose ng behavior sa halip na mag-inherit?",,"I-inject ang collaborator object at i-delegate ang behavior dito."
-Application,"Paano i-isolate ang mga database queries mula sa controllers?",,"Gumawa ng repository class na nag-e-encapsulate ng lahat ng query logic sa likod ng interface."
-Application,"Paano gumawa ng object gamit ang factory pattern?",,"I-return ang bagong instance sa loob ng factory method: return new PaymentProcessor($this->config);"
-Application,"Paano magpalit ng shipping calculation depende sa country?",,"Mag-define ng ShippingStrategy interface at i-inject ang tamang strategy sa runtime."
-Application,"Paano mag-notify ng maraming bahagi ng app kapag may bagong order?",,"Mag-dispatch ng OrderCreated event at magrehistro ng mga listeners dito."
-Application,"Paano gamitin ang lumang payment API na iba ang interface?",,"Gumawa ng adapter class na nagsa-translate ng lumang API papunta sa bagong interface."
-Application,"Paano mag-install ng package na may specific version?",,"composer require vendor/package:^2.0"
-Application,"Paano i-check ang type safety ng buong codebase bago i-deploy?",,"Patakbuhin ang vendor/bin/phpstan analyse sa CI o locally."
-Application,"Paano magrehistro ng interface binding sa service container?",,"$this->app->bind(PaymentGateway::class, StripeGateway::class);"
-Application,"Paano mag-share ng iisang instance sa buong request lifecycle?",,"$this->app->singleton(CartService::class);"
-Application,"Paano i-resolve ang isang dependency nang manu-mano?",,"app(ReportService::class) o App::make(ReportService::class)"
-Application,"Paano gumawa ng custom facade?",,"Mag-extend ng Facade at i-override ang getFacadeAccessor() para i-return ang binding key."
-Application,"Paano i-register ang custom service provider sa app?",,"Idagdag ang provider class sa providers array sa config/app.php."
-Application,"Paano gumawa ng middleware na nag-che-check ng condition?",,"php artisan make:middleware EnsureAgeIsValid"
-Application,"Paano i-assign ang middleware sa isang route?",,"Route::get('/admin', fn () => ...)->middleware('auth');"
-Application,"Paano mag-proceed sa susunod na middleware sa pipeline?",,"return $next($request);"
-Application,"Paano i-block ang request at mag-return ng 403?",,"abort(403); o return response()->json(['message' => 'Forbidden'], 403);"
-Application,"Paano magpatakbo ng code pagkatapos maipadala ang response?",,"I-override ang terminate($request, $response) method sa middleware."
-Application,"Paano i-load ang author relationship kasabay ng posts?",,"Post::with('author')->get();"
-Application,"Paano ayusin ang N+1 sa listahan ng posts na may comments?",,"Magdagdag ng with('comments') sa query at tanggalin ang per-record query sa loop."
-Application,"Paano gumawa ng reusable scope para sa published posts?",,"public function scopePublished($query) { return $query->where('status', 'published'); }"
-Application,"Paano mag-run ng code tuwing may bagong user na ginagawa?",,"Mag-register ng creating event sa boot() ng model o gumamit ng observer."
-Application,"Paano i-load ang relationship ng existing model instance?",,"$post->load('author');"
-Application,"Paano i-wrap ang multiple operations sa isang transaction?",,"DB::transaction(function () { ... });"
-Application,"Paano i-prevent ang race condition sa pagde-decrement ng stock?",,"Product::where('id', $id)->lockForUpdate()->first();"
-Application,"Paano i-check kung efficient ang isang query?",,"Patakbuhin ang EXPLAIN SELECT ... sa database at suriin ang execution plan."
-Application,"Paano mag-insert ng multiple rows sa isang call?",,"DB::table('users')->insert([['name' => 'A'], ['name' => 'B']]);"
-Application,"Paano mag-count ng records gamit ang query builder?",,"DB::table('products')->count();"
-Application,"Paano i-dispatch ang isang job nang asynchronous?",,"ProcessPodcast::dispatch($podcast);"
-Application,"Paano i-delay ang isang job ng 10 minutes?",,"ProcessPodcast::dispatch($podcast)->delay(now()->addMinutes(10));"
-Application,"Paano mag-schedule ng command na tumatakbo araw-araw ng hatinggabi?",,"$schedule->command('emails:send')->daily();"
-Application,"Paano mag-dispatch ng event at i-listen ito?",,"OrderCreated::dispatch($order); at i-register ang listener sa EventServiceProvider."
-Application,"Paano i-retry ang lahat ng failed jobs?",,"php artisan queue:retry all"
-Application,"Paano magpadala ng email notification sa isang user?",,"$user->notify(new InvoicePaid($invoice));"
-Application,"Paano mag-broadcast ng event sa real-time channel?",,"broadcast(new OrderShipped($order));"
-Application,"Paano i-model ang many-to-many relationship ng users at roles?",,"Gumawa ng pivot table na may user_id at role_id na columns."
-Application,"Paano i-enforce na laging valid ang department_id ng isang employee?",,"Magdagdag ng foreign key constraint sa department_id column."
-Application,"Paano alisin ang paulit-ulit na data sa isang column?",,"I-normalize: i-extract sa sariling table at i-reference gamit ang foreign key."
-Application,"Paano pabilisin ang pagbabasa ng data na laging kasama ng parent record?",,"I-denormalize sa pamamagitan ng pagdagdag ng cached column."
-Application,"Paano i-prevent ang pag-insert ng duplicate email?",,"Magdagdag ng unique constraint sa email column."
-Application,"Paano i-rank ang mga users ayon sa kanilang points?",,"SELECT name, RANK() OVER (ORDER BY points DESC) FROM users"
-Application,"Paano i-speed up ang query na may WHERE condition sa dalawang columns?",,"Gumawa ng composite index sa parehong columns."
-Application,"Paano gumawa ng migration para sa users table?",,"php artisan make:migration create_users_table"
-Application,"Paano mag-define ng foreign key na may cascade delete sa migration?",,"$table->foreignId('user_id')->constrained()->onDelete('cascade');"
-Application,"Paano i-run ang lahat ng pending migrations?",,"php artisan migrate"
-Application,"Paano gumawa ng 50 fake users para sa testing?",,"User::factory()->count(50)->create();"
-Application,"Paano mag-seed ng default admin user?",,"I-call ang DB::table('users')->insert([...]) sa loob ng seeder class."
-Application,"Paano mag-set ng cache value na may expiration?",,"Cache::put('key', $value, now()->addMinutes(10));"
-Application,"Paano mag-lock ng critical section para iisa lang ang mag-process?",,"$lock = Cache::lock('processing', 60); $lock->get();"
-Application,"Paano i-throttle ang API requests per user?",,"RateLimiter::for('api', fn ($user) => Limit::perMinute(60));"
-Application,"Paano i-clear ang lahat ng cache?",,"php artisan cache:clear o Cache::flush()"
-Application,"Paano mag-delete ng isang cache key?",,"Cache::forget('key');"
-Application,"Paano i-cache ang expensive query result ng 1 hour?",,"Cache::remember('reports.daily', 3600, fn () => $report->generate());"
-Application,"Paano i-invalidate ang cache kapag na-update ang isang post?",,"Cache::forget('post.' . $post->id) pagkatapos mag-save."
-Application,"Paano maiwasan ang cache stampede sa popular na key?",,"Gumamit ng lock o atomic cache update para iisa lang ang mag-recompute."
-Application,"Paano i-invalidate ang lahat ng cache ng isang version?",,"I-bump ang version sa key: magpalit mula 'v1.posts' papunta sa 'v2.posts'."
-Application,"Paano i-warm ang cache para sa sikat na page bago ang peak?",,"I-run ang cache generator sa background job bago magsimula ang peak hours."
-Application,"Paano i-enable ang HTTP caching para sa mga static assets?",,"I-set ang Cache-Control headers sa Nginx o gumamit ng middleware."
-Application,"Paano makita kung aling query ang mabagal sa isang page?",,"Buksan ang Debugbar o Telescope at suriin ang queries tab."
-Application,"Paano mag-list ng posts na may pagination?",,"Post::paginate(15); o i-access ang /api/posts?page=2"
-Application,"Paano i-filter ang products ayon sa category?",,"Gamitin ang query parameter: /api/products?category=electronics at i-validate sa controller."
-Application,"Paano mag-return ng 201 status kapag may na-create?",,"return response()->json($post, 201);"
-Application,"Paano i-version ang API para hindi masira ang existing clients?",,"Gumamit ng /api/v1 prefix o header-based versioning."
-Application,"Paano i-expose lang ang ilang attributes ng model sa API?",,"Gumawa ng API Resource class at tukuyin ang toArray() dito."
-Application,"Paano mag-issue ng token pagkatapos mag-login sa Sanctum?",,"$token = $user->createToken('device')->plainTextToken;"
-Application,"Paano i-protect ang API route para sa mga authenticated users?",,"Route::middleware('auth:sanctum')->get('/user', ...);"
-Application,"Paano i-validate ang JWT sa bawat request?",,"Gumamit ng JWT middleware na nagche-check ng signature at expiration."
-Application,"Paano i-revoke ang lahat ng tokens ng isang user?",,"$user->tokens()->delete();"
-Application,"Paano mag-access ng third-party API gamit ang OAuth2?",,"I-exchange ang authorization code para sa access token."
-Application,"Paano i-verify na galing talaga sa Stripe ang webhook request?",,"I-verify ang signature gamit ang webhook secret na binigay ng provider."
-Application,"Paano i-prevent ng duplicate payment processing?",,"I-store ang idempotency key at i-check ito bago mag-process ulit."
-Application,"Paano i-prevent ang SQL injection sa Eloquent?",,"Gumamit ng query builder o Eloquent na may binding sa halip na raw string concatenation."
-Application,"Paano i-protect ang forms laban sa CSRF?",,"Maglagay ng @csrf directive sa form o i-set ang X-CSRF-TOKEN header sa AJAX."
-Application,"Paano i-escape ang user content sa Blade?",,"Gumamit ng {{ }} na awtomatikong nag-e-escape ng output."
-Application,"Paano i-prevent ang mass assignment?",,"I-set ang $fillable sa model at huwag i-pass ang buong request sa create()."
-Application,"Paano i-secure ang authorization ng isang resource?",,"Gumamit ng policy: $this->authorize('update', $post);"
-Application,"Paano i-check kung may permission ang user sa Spatie?",,"$user->hasPermissionTo('edit posts');"
-Application,"Paano i-define ang authorization sa isang policy?",,"I-define ang update() method sa policy class at i-return ang condition."
-Application,"Paano i-apply ang policy sa isang route?",,"Route::middleware('can:update,post')->... o $this->authorize('update', $post);"
-Application,"Paano i-assign ang role sa isang user?",,"$user->assignRole('admin');"
-Application,"Paano i-define ang gate nang walang policy?",,"Gate::define('manage-users', fn ($user) => $user->is_admin);"
-Application,"Paano i-encrypt ang isang value bago i-store?",,"Crypt::encryptString($value); o gumamit ng encrypted cast sa model."
-Application,"Paano i-track kung sino ang nag-delete ng isang record?",,"Magdagdag ng audit log listener na nagre-record ng user, action, at timestamp."
-Application,"Paano i-test ang isang service na may external dependency?",,"I-mock ang dependency at i-pass ito sa constructor ng service."
-Application,"Paano i-test ang isang API endpoint?",,"$this->get('/api/posts')->assertOk();"
-Application,"Paano i-verify ang structure ng API response?",,"$response->assertJsonStructure(['data' => ['id', 'title']]);"
-Application,"Paano mag-run ng isang test lang?",,"php artisan test --filter=testName"
-Application,"Paano i-reset ang database sa bawat test?",,"Gamitin ang RefreshDatabase trait sa TestCase."
-Application,"Paano gumawa ng test user?",,"$user = User::factory()->create();"
-Application,"Paano i-verify na nai-save ang order sa database?",,"$this->assertDatabaseHas('orders', ['id' => $order->id]);"
-Application,"Paano gumawa ng user na may specific na role gamit ang factory?",,"User::factory()->create(['role' => 'admin']);"
-Application,"Paano i-run ang buong test suite?",,"php artisan test"
-Application,"Paano mag-generate ng coverage report?",,"php artisan test --coverage"
-Application,"Paano i-verify na na-dispatch ang isang job?",,"Queue::fake(); ... Queue::assertPushed(ProcessOrder::class);"
-Application,"Paano i-test ang endpoint habang naka-login ang user?",,"$this->actingAs($user)->get('/dashboard')->assertOk();"
-Application,"Paano i-fake ang payment gateway response?",,"Http::fake(['api.stripe.com/*' => Http::response(['ok' => true])]);"
-Application,"Paano i-verify ang redirect pagkatapos ng POST?",,"$this->post('/posts', $data)->assertRedirect('/posts');"
-Application,"Paano i-verify na na-send ang notification sa user?",,"Notification::fake(); Notification::assertSentTo($user, InvoicePaid::class);"
-Application,"Paano i-block ang deploy kapag pumalpak ang tests?",,"I-configure ang CI job na mag-run ng vendor/bin/phpunit at mag-fail sa non-zero exit."
-Application,"Paano mag-apply ng TDD sa bagong feature?",,"Isulat ang failing test, i-confirm na fail ito, saka i-implement hanggang mag-pass."
-Application,"Paano i-enforce ang consistent code style sa CI?",,"I-run ang pint o phpcs sa isang CI job."
-Application,"Paano i-cache ang dependencies sa CI para mas mabilis?",,"I-store ang composer vendor cache gamit ang cache action."
-Application,"Paano i-ensure na hiwalay ang tests sa isa't isa?",,"Gumamit ng RefreshDatabase at huwag mag-share ng state sa pagitan ng tests."
-Application,"Paano i-refactor ang fat controller?",,"I-extract ang business logic sa service class at i-inject ito sa controller."
-Application,"Paano i-keep ang domain na independent sa framework?",,"I-define ang domain bilang plain PHP classes na walang framework imports."
-Application,"Paano i-call ang business logic mula sa controller?",,"I-inject ang service at i-call ang method: $this->orderService->placeOrder($data);"
-Application,"Paano i-decouple ang app sa database?",,"Gumamit ng repository interface sa application layer at implementation sa infrastructure."
-Application,"Paano i-structure ang folders para sa layered architecture?",,"Hatiin sa app/Domain, app/Application, at app/Infrastructure o modules."
-Application,"Paano mag-safely na mag-refactor ng legacy code?",,"I-secure muna ang behavior gamit ang tests bago magpalit ng implementation."
-Application,"Paano i-isolate ang data ng bawat tenant?",,"Magdagdag ng tenant_id sa mga tables o gumamit ng database-per-tenant strategy."
-Application,"Paano i-retry ang isang job ng 5 beses na may backoff?",,"I-set ang public $tries = 5; at i-define ang backoff() method sa job."
-Application,"Paano i-limit ang paghihintay sa external API call?",,"Http::timeout(5)->get($url);"
-Application,"Paano magbigay ng fallback kapag down ang cache?",,"I-wrap sa try/catch at i-compute direct mula sa database kapag nag-fail."
-Application,"Paano maiwasan ang thundering herd sa sabay-sabay na retries?",,"Magdagdag ng jitter sa backoff para i-randomize ang paghihintay."
-Application,"Paano i-monitor kung may outage ang isang service?",,"I-set up ang health check endpoint at i-alert sa monitoring tool."
-Application,"Paano mag-log ng error na may metadata?",,"Log::error('Payment failed', ['order_id' => $order->id]);"
-Application,"Paano i-capture ang exception sa Sentry?",,"report($e); o i-initialize ang Sentry para awtomatiko itong mag-capture."
-Application,"Paano i-group ang logs ng isang request?",,"Magdagdag ng request id sa log context sa pamamagitan ng middleware."
-Application,"Paano mag-alert kapag mabagal na ang API?",,"I-set up ang threshold alert sa monitoring tool kapag lumampas sa 1 second."
-Application,"Paano i-track ang error rate ng app?",,"I-export ang metrics sa monitoring tool at gumawa ng dashboard para dito."
-Application,"Paano i-deploy sa tuwing may merge sa main?",,"I-configure ang CI pipeline na mag-run ng tests at mag-deploy pagkatapos mag-pass."
-Application,"Paano i-run ang app sa container na may kasamang database?",,"Gumamit ng docker-compose na may app at db services."
-Application,"Paano i-serve ang Laravel sa production?",,"I-point ang Nginx sa public/ folder at i-connect ito sa PHP-FPM socket."
-Application,"Paano mag-deploy nang walang downtime?",,"Gumamit ng blue-green o rolling deployment para hindi ma-interrupt ang traffic."
+PHP 8.x Features,Paano mag-define ng string-backed enum na may status values?,,enum Status: string { case Active = 'active'; case Inactive = 'inactive'; }
+PHP 8.x Features,Paano gumawa ng property na hindi na mababago pagkatapos ng construction?,,public readonly string $name;
+PHP 8.x Features,Paano mag-call ng function gamit ang named arguments nang hindi sinusunod ang order?,,"process(amount: 100, retries: 3);"
+PHP 8.x Features,Paano mag-return ng value mula sa conditional gamit ang match?,,"return match ($status) { 'a' => 'Active', default => 'Unknown' };"
+PHP 8.x Features,Paano i-access ang nested property nang ligtas kung pwede itong mag-null?,,$user->profile?->name
+SOLID Principles,Paano magdagdag ng bagong payment method nang hindi binabago ang existing code?,,Mag-create ng bagong class na nag-implement ng PaymentGateway interface.
+SOLID Principles,Paano i-inject ang dependency sa halip na mag-new sa loob ng class?,,public function __construct(private Mailer $mailer) {}
+SOLID Principles,Paano ayusin ang malaking interface na pinipilit i-implement ng lahat ng classes?,,Hatiin ito sa mas maliliit na focused interfaces at i-implement lang ang kailangan.
+SOLID Principles,Paano i-test ang isang class na may external dependency?,,I-pass ang mock o fake ng dependency sa constructor nito.
+SOLID Principles,Paano mag-compose ng behavior sa halip na mag-inherit?,,I-inject ang collaborator object at i-delegate ang behavior dito.
+Design Patterns,Paano i-isolate ang mga database queries mula sa controllers?,,Gumawa ng repository class na nag-e-encapsulate ng lahat ng query logic sa likod ng interface.
+Design Patterns,Paano gumawa ng object gamit ang factory pattern?,,I-return ang bagong instance sa loob ng factory method: return new PaymentProcessor($this->config);
+Design Patterns,Paano magpalit ng shipping calculation depende sa country?,,Mag-define ng ShippingStrategy interface at i-inject ang tamang strategy sa runtime.
+Design Patterns,Paano mag-notify ng maraming bahagi ng app kapag may bagong order?,,Mag-dispatch ng OrderCreated event at magrehistro ng mga listeners dito.
+Design Patterns,Paano gamitin ang lumang payment API na iba ang interface?,,Gumawa ng adapter class na nagsa-translate ng lumang API papunta sa bagong interface.
+Composer,Paano mag-install ng package na may specific version?,,composer require vendor/package:^2.0
+Static Analysis,Paano i-check ang type safety ng buong codebase bago i-deploy?,,Patakbuhin ang vendor/bin/phpstan analyse sa CI o locally.
+Service Container & Facades,Paano magrehistro ng interface binding sa service container?,,"$this->app->bind(PaymentGateway::class, StripeGateway::class);"
+Service Container & Facades,Paano mag-share ng iisang instance sa buong request lifecycle?,,$this->app->singleton(CartService::class);
+Service Container & Facades,Paano i-resolve ang isang dependency nang manu-mano?,,app(ReportService::class) o App::make(ReportService::class)
+Service Container & Facades,Paano gumawa ng custom facade?,,Mag-extend ng Facade at i-override ang getFacadeAccessor() para i-return ang binding key.
+Service Container & Facades,Paano i-register ang custom service provider sa app?,,Idagdag ang provider class sa providers array sa config/app.php.
+Middleware & Request Lifecycle,Paano gumawa ng middleware na nag-che-check ng condition?,,php artisan make:middleware EnsureAgeIsValid
+Middleware & Request Lifecycle,Paano i-assign ang middleware sa isang route?,,"Route::get('/admin', fn () => ...)->middleware('auth');"
+Middleware & Request Lifecycle,Paano mag-proceed sa susunod na middleware sa pipeline?,,return $next($request);
+Middleware & Request Lifecycle,Paano i-block ang request at mag-return ng 403?,,"abort(403); o return response()->json(['message' => 'Forbidden'], 403);"
+Middleware & Request Lifecycle,Paano magpatakbo ng code pagkatapos maipadala ang response?,,"I-override ang terminate($request, $response) method sa middleware."
+Eloquent ORM,Paano i-load ang author relationship kasabay ng posts?,,Post::with('author')->get();
+Eloquent ORM,Paano ayusin ang N+1 sa listahan ng posts na may comments?,,Magdagdag ng with('comments') sa query at tanggalin ang per-record query sa loop.
+Eloquent ORM,Paano gumawa ng reusable scope para sa published posts?,,"public function scopePublished($query) { return $query->where('status', 'published'); }"
+Eloquent ORM,Paano mag-run ng code tuwing may bagong user na ginagawa?,,Mag-register ng creating event sa boot() ng model o gumamit ng observer.
+Eloquent ORM,Paano i-load ang relationship ng existing model instance?,,$post->load('author');
+Query Builder & Transactions,Paano i-wrap ang multiple operations sa isang transaction?,,DB::transaction(function () { ... });
+Query Builder & Transactions,Paano i-prevent ang race condition sa pagde-decrement ng stock?,,"Product::where('id', $id)->lockForUpdate()->first();"
+Query Builder & Transactions,Paano i-check kung efficient ang isang query?,,Patakbuhin ang EXPLAIN SELECT ... sa database at suriin ang execution plan.
+Query Builder & Transactions,Paano mag-insert ng multiple rows sa isang call?,,"DB::table('users')->insert([['name' => 'A'], ['name' => 'B']]);"
+Query Builder & Transactions,Paano mag-count ng records gamit ang query builder?,,DB::table('products')->count();
+Queues & Events,Paano i-dispatch ang isang job nang asynchronous?,,ProcessPodcast::dispatch($podcast);
+Queues & Events,Paano i-delay ang isang job ng 10 minutes?,,ProcessPodcast::dispatch($podcast)->delay(now()->addMinutes(10));
+Queues & Events,Paano mag-schedule ng command na tumatakbo araw-araw ng hatinggabi?,,$schedule->command('emails:send')->daily();
+Queues & Events,Paano mag-dispatch ng event at i-listen ito?,,OrderCreated::dispatch($order); at i-register ang listener sa EventServiceProvider.
+Queues & Events,Paano i-retry ang lahat ng failed jobs?,,php artisan queue:retry all
+Notifications,Paano magpadala ng email notification sa isang user?,,$user->notify(new InvoicePaid($invoice));
+Broadcasting,Paano mag-broadcast ng event sa real-time channel?,,broadcast(new OrderShipped($order));
+Database Design,Paano i-model ang many-to-many relationship ng users at roles?,,Gumawa ng pivot table na may user_id at role_id na columns.
+Database Design,Paano i-enforce na laging valid ang department_id ng isang employee?,,Magdagdag ng foreign key constraint sa department_id column.
+Database Design,Paano alisin ang paulit-ulit na data sa isang column?,,I-normalize: i-extract sa sariling table at i-reference gamit ang foreign key.
+Database Design,Paano pabilisin ang pagbabasa ng data na laging kasama ng parent record?,,I-denormalize sa pamamagitan ng pagdagdag ng cached column.
+Database Design,Paano i-prevent ang pag-insert ng duplicate email?,,Magdagdag ng unique constraint sa email column.
+Advanced SQL,Paano i-rank ang mga users ayon sa kanilang points?,,"SELECT name, RANK() OVER (ORDER BY points DESC) FROM users"
+Indexing Strategy,Paano i-speed up ang query na may WHERE condition sa dalawang columns?,,Gumawa ng composite index sa parehong columns.
+Migrations & Seeders,Paano gumawa ng migration para sa users table?,,php artisan make:migration create_users_table
+Migrations & Seeders,Paano mag-define ng foreign key na may cascade delete sa migration?,,$table->foreignId('user_id')->constrained()->onDelete('cascade');
+Migrations & Seeders,Paano i-run ang lahat ng pending migrations?,,php artisan migrate
+Migrations & Seeders,Paano gumawa ng 50 fake users para sa testing?,,User::factory()->count(50)->create();
+Migrations & Seeders,Paano mag-seed ng default admin user?,,I-call ang DB::table('users')->insert([...]) sa loob ng seeder class.
+Cache Drivers,Paano mag-set ng cache value na may expiration?,,"Cache::put('key', $value, now()->addMinutes(10));"
+Cache Drivers,Paano mag-lock ng critical section para iisa lang ang mag-process?,,"$lock = Cache::lock('processing', 60); $lock->get();"
+Cache Drivers,Paano i-throttle ang API requests per user?,,"RateLimiter::for('api', fn ($user) => Limit::perMinute(60));"
+Cache Drivers,Paano i-clear ang lahat ng cache?,,php artisan cache:clear o Cache::flush()
+Cache Drivers,Paano mag-delete ng isang cache key?,,Cache::forget('key');
+Caching Strategies,Paano i-cache ang expensive query result ng 1 hour?,,"Cache::remember('reports.daily', 3600, fn () => $report->generate());"
+Caching Strategies,Paano i-invalidate ang cache kapag na-update ang isang post?,,Cache::forget('post.' . $post->id) pagkatapos mag-save.
+Caching Strategies,Paano maiwasan ang cache stampede sa popular na key?,,Gumamit ng lock o atomic cache update para iisa lang ang mag-recompute.
+Caching Strategies,Paano i-invalidate ang lahat ng cache ng isang version?,,I-bump ang version sa key: magpalit mula 'v1.posts' papunta sa 'v2.posts'.
+Caching Strategies,Paano i-warm ang cache para sa sikat na page bago ang peak?,,I-run ang cache generator sa background job bago magsimula ang peak hours.
+HTTP Caching,Paano i-enable ang HTTP caching para sa mga static assets?,,I-set ang Cache-Control headers sa Nginx o gumamit ng middleware.
+Profiling Tools,Paano makita kung aling query ang mabagal sa isang page?,,Buksan ang Debugbar o Telescope at suriin ang queries tab.
+RESTful API Design,Paano mag-list ng posts na may pagination?,,Post::paginate(15); o i-access ang /api/posts?page=2
+RESTful API Design,Paano i-filter ang products ayon sa category?,,Gamitin ang query parameter: /api/products?category=electronics at i-validate sa controller.
+RESTful API Design,Paano mag-return ng 201 status kapag may na-create?,,"return response()->json($post, 201);"
+RESTful API Design,Paano i-version ang API para hindi masira ang existing clients?,,Gumamit ng /api/v1 prefix o header-based versioning.
+RESTful API Design,Paano i-expose lang ang ilang attributes ng model sa API?,,Gumawa ng API Resource class at tukuyin ang toArray() dito.
+Authentication,Paano mag-issue ng token pagkatapos mag-login sa Sanctum?,,$token = $user->createToken('device')->plainTextToken;
+Authentication,Paano i-protect ang API route para sa mga authenticated users?,,"Route::middleware('auth:sanctum')->get('/user', ...);"
+Authentication,Paano i-validate ang JWT sa bawat request?,,Gumamit ng JWT middleware na nagche-check ng signature at expiration.
+Authentication,Paano i-revoke ang lahat ng tokens ng isang user?,,$user->tokens()->delete();
+Authentication,Paano mag-access ng third-party API gamit ang OAuth2?,,I-exchange ang authorization code para sa access token.
+Third-party Integrations,Paano i-verify na galing talaga sa Stripe ang webhook request?,,I-verify ang signature gamit ang webhook secret na binigay ng provider.
+Rate Limiting & Idempotency,Paano i-prevent ng duplicate payment processing?,,I-store ang idempotency key at i-check ito bago mag-process ulit.
+OWASP Top 10,Paano i-prevent ang SQL injection sa Eloquent?,,Gumamit ng query builder o Eloquent na may binding sa halip na raw string concatenation.
+OWASP Top 10,Paano i-protect ang forms laban sa CSRF?,,Maglagay ng @csrf directive sa form o i-set ang X-CSRF-TOKEN header sa AJAX.
+OWASP Top 10,Paano i-escape ang user content sa Blade?,,Gumamit ng {{ }} na awtomatikong nag-e-escape ng output.
+OWASP Top 10,Paano i-prevent ang mass assignment?,,I-set ang $fillable sa model at huwag i-pass ang buong request sa create().
+OWASP Top 10,Paano i-secure ang authorization ng isang resource?,,"Gumamit ng policy: $this->authorize('update', $post);"
+Authorization,Paano i-check kung may permission ang user sa Spatie?,,$user->hasPermissionTo('edit posts');
+Authorization,Paano i-define ang authorization sa isang policy?,,I-define ang update() method sa policy class at i-return ang condition.
+Authorization,Paano i-apply ang policy sa isang route?,,"Route::middleware('can:update,post')->... o $this->authorize('update', $post);"
+Authorization,Paano i-assign ang role sa isang user?,,$user->assignRole('admin');
+Authorization,Paano i-define ang gate nang walang policy?,,"Gate::define('manage-users', fn ($user) => $user->is_admin);"
+Secrets & Encryption,Paano i-encrypt ang isang value bago i-store?,,Crypt::encryptString($value); o gumamit ng encrypted cast sa model.
+Logging & Auditing,Paano i-track kung sino ang nag-delete ng isang record?,,"Magdagdag ng audit log listener na nagre-record ng user, action, at timestamp."
+Testing Fundamentals,Paano i-test ang isang service na may external dependency?,,I-mock ang dependency at i-pass ito sa constructor ng service.
+Testing Fundamentals,Paano i-test ang isang API endpoint?,,$this->get('/api/posts')->assertOk();
+Testing Fundamentals,Paano i-verify ang structure ng API response?,,"$response->assertJsonStructure(['data' => ['id', 'title']]);"
+Testing Fundamentals,Paano mag-run ng isang test lang?,,php artisan test --filter=testName
+Testing Fundamentals,Paano i-reset ang database sa bawat test?,,Gamitin ang RefreshDatabase trait sa TestCase.
+Testing Tools,Paano gumawa ng test user?,,$user = User::factory()->create();
+Testing Tools,Paano i-verify na nai-save ang order sa database?,,"$this->assertDatabaseHas('orders', ['id' => $order->id]);"
+Testing Tools,Paano gumawa ng user na may specific na role gamit ang factory?,,User::factory()->create(['role' => 'admin']);
+Testing Tools,Paano i-run ang buong test suite?,,php artisan test
+Testing Tools,Paano mag-generate ng coverage report?,,php artisan test --coverage
+Mocking & Test Fakes,Paano i-verify na na-dispatch ang isang job?,,Queue::fake(); ... Queue::assertPushed(ProcessOrder::class);
+Mocking & Test Fakes,Paano i-test ang endpoint habang naka-login ang user?,,$this->actingAs($user)->get('/dashboard')->assertOk();
+Mocking & Test Fakes,Paano i-fake ang payment gateway response?,,Http::fake(['api.stripe.com/*' => Http::response(['ok' => true])]);
+Mocking & Test Fakes,Paano i-verify ang redirect pagkatapos ng POST?,,"$this->post('/posts', $data)->assertRedirect('/posts');"
+Mocking & Test Fakes,Paano i-verify na na-send ang notification sa user?,,"Notification::fake(); Notification::assertSentTo($user, InvoicePaid::class);"
+TDD & CI,Paano i-block ang deploy kapag pumalpak ang tests?,,I-configure ang CI job na mag-run ng vendor/bin/phpunit at mag-fail sa non-zero exit.
+TDD & CI,Paano mag-apply ng TDD sa bagong feature?,,"Isulat ang failing test, i-confirm na fail ito, saka i-implement hanggang mag-pass."
+TDD & CI,Paano i-enforce ang consistent code style sa CI?,,I-run ang pint o phpcs sa isang CI job.
+TDD & CI,Paano i-cache ang dependencies sa CI para mas mabilis?,,I-store ang composer vendor cache gamit ang cache action.
+TDD & CI,Paano i-ensure na hiwalay ang tests sa isa't isa?,,Gumamit ng RefreshDatabase at huwag mag-share ng state sa pagitan ng tests.
+Architecture Patterns,Paano i-refactor ang fat controller?,,I-extract ang business logic sa service class at i-inject ito sa controller.
+Architecture Patterns,Paano i-keep ang domain na independent sa framework?,,I-define ang domain bilang plain PHP classes na walang framework imports.
+Architecture Patterns,Paano i-call ang business logic mula sa controller?,,I-inject ang service at i-call ang method: $this->orderService->placeOrder($data);
+Architecture Patterns,Paano i-decouple ang app sa database?,,Gumamit ng repository interface sa application layer at implementation sa infrastructure.
+Architecture Patterns,Paano i-structure ang folders para sa layered architecture?,,"Hatiin sa app/Domain, app/Application, at app/Infrastructure o modules."
+Refactoring,Paano mag-safely na mag-refactor ng legacy code?,,I-secure muna ang behavior gamit ang tests bago magpalit ng implementation.
+Multi-tenant Design,Paano i-isolate ang data ng bawat tenant?,,Magdagdag ng tenant_id sa mga tables o gumamit ng database-per-tenant strategy.
+Design for Failure,Paano i-retry ang isang job ng 5 beses na may backoff?,,I-set ang public $tries = 5; at i-define ang backoff() method sa job.
+Design for Failure,Paano i-limit ang paghihintay sa external API call?,,Http::timeout(5)->get($url);
+Design for Failure,Paano magbigay ng fallback kapag down ang cache?,,I-wrap sa try/catch at i-compute direct mula sa database kapag nag-fail.
+Design for Failure,Paano maiwasan ang thundering herd sa sabay-sabay na retries?,,Magdagdag ng jitter sa backoff para i-randomize ang paghihintay.
+Design for Failure,Paano i-monitor kung may outage ang isang service?,,I-set up ang health check endpoint at i-alert sa monitoring tool.
+Observability,Paano mag-log ng error na may metadata?,,"Log::error('Payment failed', ['order_id' => $order->id]);"
+Observability,Paano i-capture ang exception sa Sentry?,,report($e); o i-initialize ang Sentry para awtomatiko itong mag-capture.
+Observability,Paano i-group ang logs ng isang request?,,Magdagdag ng request id sa log context sa pamamagitan ng middleware.
+Observability,Paano mag-alert kapag mabagal na ang API?,,I-set up ang threshold alert sa monitoring tool kapag lumampas sa 1 second.
+Observability,Paano i-track ang error rate ng app?,,I-export ang metrics sa monitoring tool at gumawa ng dashboard para dito.
+Git & CI/CD,Paano i-deploy sa tuwing may merge sa main?,,I-configure ang CI pipeline na mag-run ng tests at mag-deploy pagkatapos mag-pass.
+Docker,Paano i-run ang app sa container na may kasamang database?,,Gumamit ng docker-compose na may app at db services.
+Server Admin,Paano i-serve ang Laravel sa production?,,I-point ang Nginx sa public/ folder at i-connect ito sa PHP-FPM socket.
+Deployment Strategies,Paano mag-deploy nang walang downtime?,,Gumamit ng blue-green o rolling deployment para hindi ma-interrupt ang traffic.

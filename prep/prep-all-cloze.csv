@@ -1,202 +1,202 @@
-Cloze,"Sa PHP 8, ang {{c1::enum}} ay isang type na may fixed set ng possible values na may labels.",,enum
-Cloze,"Ang {{c1::readonly}} property ay pwedeng i-assign nang isang beses lang pagkatapos ng declaration.",,readonly
-Cloze,"Sa PHP 8, ang {{c1::attributes}} ay structured metadata na pwedeng i-attach sa classes, methods, at properties.",,attributes
-Cloze,"Sa {{c1::named arguments}}, hindi mo na kailangang sundin ang parameter order kapag nag-call ng function.",,named arguments
-Cloze,"Ang {{c1::match}} expression ay nagre-return ng value at hindi nangangailangan ng break statement.",,match
-Cloze,"Ang {{c1::constructor property promotion}} ay nagde-declare ng property direkta sa constructor parameter.",,constructor property promotion
-Cloze,"Ang {{c1::nullsafe operator}} (?->) ay bumabalik ng null sa halip na mag-throw kapag null ang object.",,nullsafe operator
-Cloze,"Ang {{c1::union types}} ay nagpapahintulot ng higit sa isang type sa isang parameter o return type.",,union types
-Cloze,"Ang {{c1::Single Responsibility}} principle ay nagsasabing ang isang class ay dapat may isang reason lang para magbago.",,Single Responsibility
-Cloze,"Ang {{c1::Open/Closed}} principle ay nagsasabing ang class ay dapat open for extension pero closed for modification.",,Open/Closed
-Cloze,"Ang {{c1::Liskov Substitution}} principle ay nagsasabing dapat ma-replace ang child class ng parent nito nang hindi nagba-break ang app.",,Liskov Substitution
-Cloze,"Ang {{c1::Interface Segregation}} principle ay nagsasabing huwag pilitin ang class na mag-implement ng interface na hindi nito ginagamit.",,Interface Segregation
-Cloze,"Ang {{c1::Dependency Inversion}} principle ay nagsasabing mag-depend sa abstractions, hindi sa konkretong implementations.",,Dependency Inversion
-Cloze,"Ang {{c1::composition}} ay mas pinipili kaysa inheritance kapag may shared behavior na hindi lohikal na isang hierarchy.",,composition
-Cloze,"Ang {{c1::dependency injection}} ay pagpasa ng dependencies sa constructor sa halip na mag-instantiate sa loob ng class.",,dependency injection
-Cloze,"Ang {{c1::god class}} ay karaniwang senyales ng SRP violation dahil hawak nito ang masyadong maraming responsibilities.",,god class
-Cloze,"Ang {{c1::Repository}} pattern ay nag-aabstact ng data access sa likod ng isang interface.",,Repository
-Cloze,"Ang {{c1::Factory}} pattern ay gumagawa ng objects nang hindi inilalantad ang instantiation logic sa client.",,Factory
-Cloze,"Ang {{c1::Strategy}} pattern ay nagpapalit ng algorithm sa runtime sa pamamagitan ng isang interface.",,Strategy
-Cloze,"Ang {{c1::Observer}} pattern ay nag-no-notify ng multiple listeners kapag nagbago ang state ng subject.",,Observer
-Cloze,"Ang {{c1::Adapter}} pattern ay nagco-convert ng isang interface para magkasya sa inaasahan ng client.",,Adapter
-Cloze,"Ang {{c1::Facade}} pattern ay nagbibigay ng simplified interface sa isang complex subsystem.",,Facade
-Cloze,"Ang {{c1::abstract factory}} ay nag-grupo ng mga related factory methods sa iisang interface.",,abstract factory
-Cloze,"Sa Laravel, ang {{c1::service container}} ang karaniwang ginagamit para i-wire ang Repository interface sa implementation nito.",,service container
-Cloze,"Ang {{c1::static analysis}} sa PHPStan ay nakaka-detect ng type errors bago pa man i-run ang code.",,static analysis
-Cloze,"Ang {{c1::PSR-4}} autoloading ay nagma-map ng namespace ng isang class sa directory path ng file nito.",,PSR-4
-Cloze,"Ang {{c1::service container}} ay ang central registry kung saan nirerehistro at nireresolve ang mga dependencies.",,service container
-Cloze,"Ang {{c1::service provider}} ay nagre-register ng bindings at nagbo-bootstrap ng services sa container.",,service provider
-Cloze,"Ang {{c1::facade}} ay nagbibigay ng static-like interface sa isang service na naka-resolve sa container.",,facade
-Cloze,"Ang {{c1::binding}} sa container ay tumutukoy kung paano ginagawa ang isang class o interface kapag hiniling.",,binding
-Cloze,"Ang {{c1::singleton}} binding ay nagbabalik ng parehong instance sa bawat resolution ng container.",,singleton
-Cloze,"Ang {{c1::deferred provider}} ay hindi nagla-load hangga't hindi nire-resolve ang isa sa mga service nito.",,deferred provider
-Cloze,"Ang {{c1::contextual binding}} ay nagbibigay ng ibang implementation depende sa kung sinong class ang nagre-require nito.",,contextual binding
-Cloze,"Ang {{c1::real-time facade}} ay ginagawang facade ang anumang class sa pamamagitan ng Facades prefix.",,real-time facade
-Cloze,"Ang {{c1::middleware}} ay nagfi-filter ng HTTP requests bago o pagkatapos ma-handle ng controller.",,middleware
-Cloze,"Ang {{c1::pipeline}} ay dinadaanan ng request sa lahat ng middleware nang sunod-sunod hanggang sa core.",,pipeline
-Cloze,"Ang {{c1::kernel}} ang nagco-coordinate ng request lifecycle mula sa entry point hanggang sa response.",,kernel
-Cloze,"Ang {{c1::handle}} method ay ang entry point ng bawat middleware na tumatanggap ng request at $next closure.",,handle
-Cloze,"Ang {{c1::route middleware}} ay ina-assign sa isang route o route group at tumatakbo lamang dito.",,route middleware
-Cloze,"Ang {{c1::global middleware}} ay nirerehistro sa HTTP kernel at tumatakbo sa bawat request ng app.",,global middleware
-Cloze,"Ang {{c1::terminate}} method ay tumatakbo pagkatapos maipadala ang response sa browser.",,terminate
-Cloze,"Sa {{c1::public/index.php}} nagsisimula ang request lifecycle sa pag-receive ng request at pag-load ng framework.",,public/index.php
-Cloze,"Ang {{c1::eager loading}} ay nilo-load ang relationships kasama ng parent query gamit ang with().",,eager loading
-Cloze,"Ang {{c1::N+1 problem}} ay nangyayari kapag may hiwalay na query para sa bawat record sa loob ng isang loop.",,N+1 problem
-Cloze,"Ang {{c1::model events}} ay tumatakbo sa mga puntos ng lifecycle ng isang model tulad ng creating at updating.",,model events
-Cloze,"Ang {{c1::casts}} ay nagco-convert ng attribute values papunta sa ibang type tulad ng array o boolean.",,casts
-Cloze,"Ang {{c1::query scopes}} ay mga reusable query constraints na pwedeng i-chain sa Eloquent queries.",,query scopes
-Cloze,"Ang {{c1::polymorphic relationship}} ay nagpapahintulot ng isang model na i-belong sa maraming ibang models.",,polymorphic relationship
-Cloze,"Ang {{c1::accessor}} ay nagbabago kung paano nire-retrieve ang isang attribute value.",,accessor
-Cloze,"Ang {{c1::lazy loading}} ay nangyayari kapag nire-resolve ang relationship pagkatapos ma-query ang parent.",,lazy loading
-Cloze,"Ang {{c1::query builder}} ay nagbibigay ng fluent interface para gumawa ng SQL queries nang walang raw SQL.",,query builder
-Cloze,"Ang {{c1::transaction}} ay nag-grupo ng database operations na dapat mag-succeed lahat o mag-fail lahat.",,transaction
-Cloze,"Ang {{c1::pessimistic locking}} ay nagla-lock ng mga rows habang pinoproseso ang mga ito para maiwasan ang conflicts.",,pessimistic locking
-Cloze,"Ang {{c1::lockForUpdate}} ay nagla-lock ng rows para hindi mabasa ng ibang transaction hangga't hindi nag-commit.",,lockForUpdate
-Cloze,"Ang {{c1::shared lock}} ay nagpapahintulot ng pagbabasa ng ibang transactions pero hindi ng pagsusulat.",,shared lock
-Cloze,"Ang {{c1::deadlock}} ay nangyayari kapag dalawang transactions ang naghihintay sa locks ng isa't isa.",,deadlock
-Cloze,"Ang {{c1::EXPLAIN}} ay nagpapakita kung paano nire-execute ng database ang isang query.",,EXPLAIN
-Cloze,"Ang {{c1::join}} ay nagco-combine ng rows mula sa dalawang tables gamit ang matching condition.",,join
-Cloze,"Ang {{c1::queue}} ay nagpapa-delay ng processing ng heavy tasks para hindi ma-block ang HTTP response.",,queue
-Cloze,"Ang {{c1::job}} ay isang class na nire-queue para iproseso nang asynchronous sa likod.",,job
-Cloze,"Ang {{c1::queue worker}} ay ang proseso na nagpo-poll sa queue para kunin at i-process ang mga jobs.",,queue worker
-Cloze,"Ang {{c1::failed jobs}} ay ini-store para ma-retry o ma-inspect kapag nag-fail ang processing.",,failed jobs
-Cloze,"Ang {{c1::scheduler}} ay nagpapatakbo ng scheduled tasks nang hindi na kailangan ng manual cron entries.",,scheduler
-Cloze,"Ang {{c1::event}} ay nagbibigay-daan sa decoupled communication sa pagitan ng mga bahagi ng app.",,event
-Cloze,"Ang {{c1::listener}} ay tumutugon kapag na-dispatch ang event na pinapakinggan nito.",,listener
-Cloze,"Ang {{c1::observer}} ay nakikinig sa model lifecycle events tulad ng created, updated, at deleted.",,observer
-Cloze,"Ang {{c1::notification}} ay nagpapadala ng mensahe sa isang user sa pamamagitan ng channels tulad ng mail at database.",,notification
-Cloze,"Ang {{c1::broadcasting}} ay nag-stream ng events sa real-time papunta sa mga client gamit ang WebSockets.",,broadcasting
-Cloze,"Ang {{c1::normalization}} ay nag-aalis ng redundancy sa pamamagitan ng paghahati ng data sa mas maliliit na tables.",,normalization
-Cloze,"Ang {{c1::denormalization}} ay sadyang nagdadagdag ng duplicate data para mapabilis ang pagbabasa.",,denormalization
-Cloze,"Ang {{c1::primary key}} ay uniquely nag-i-identify ng bawat row sa isang table.",,primary key
-Cloze,"Ang {{c1::foreign key}} ay nagre-refer sa primary key ng ibang table para ma-enforce ang relationships.",,foreign key
-Cloze,"Ang {{c1::pivot table}} ay ginagamit para i-represent ang many-to-many relationships.",,pivot table
-Cloze,"Ang {{c1::third normal form}} ay nagsasabing walang non-key attribute na dapat mag-depend sa ibang non-key attribute.",,third normal form
-Cloze,"Ang {{c1::index}} ay nagpapabilis ng SELECT queries sa pamamagitan ng isang sorted structure.",,index
-Cloze,"Ang {{c1::data integrity}} ay tinitiyak na tama at consistent ang data sa lahat ng oras.",,data integrity
-Cloze,"Ang {{c1::composite index}} ay isang index sa multiple columns na sumusunod sa leftmost prefix rule.",,composite index
-Cloze,"Ang {{c1::window function}} ay nagco-compute sa isang set ng rows habang pinapanatili ang bawat indibidwal na row.",,window function
-Cloze,"Ang {{c1::migration}} ay ang version control ng database schema ng isang app.",,migration
-Cloze,"Ang {{c1::seeder}} ay nagfi-fill ng database ng test o default na data.",,seeder
-Cloze,"Ang {{c1::factory}} ay nagge-generate ng realistic test data para sa isang model.",,factory
-Cloze,"Ang {{c1::foreign key constraint}} ay nagpre-prevent ng pagde-delete ng parent record na may mga anak.",,foreign key constraint
-Cloze,"Ang {{c1::rollback}} ay nagre-revert sa huling batch ng migrations na na-run.",,rollback
-Cloze,"Ang {{c1::unique constraint}} ay nag-i-ensure na walang duplicate values sa isang column.",,unique constraint
-Cloze,"Ang {{c1::cascade}} ay awtomatikong nagde-delete ng dependent rows kapag na-delete ang parent.",,cascade
-Cloze,"Ang {{c1::schema builder}} ay nagbibigay ng fluent API para mag-define ng tables at columns.",,schema builder
-Cloze,"Ang {{c1::Redis}} ay isang in-memory data store na ginagamit para sa cache, queues, at sessions.",,Redis
-Cloze,"Ang {{c1::Memcached}} ay isang simpleng distributed memory caching system.",,Memcached
-Cloze,"Ang {{c1::cache tags}} ay nagpapahintulot ng pagde-delete ng maraming cache keys na may parehong tag.",,cache tags
-Cloze,"Ang {{c1::lock}} ay nagpre-prevent ng concurrent execution ng parehong operation.",,lock
-Cloze,"Ang {{c1::rate limiting}} ay nagli-limit kung ilang requests ang pwedeng gawin sa loob ng isang window.",,rate limiting
-Cloze,"Ang {{c1::TTL}} ay nagsasabi kung gaano katagal bago ma-expire ang isang cache entry.",,TTL
-Cloze,"Ang {{c1::atomic lock}} sa Laravel ay gumagamit ng Cache::lock() para mag-sync ng shared resource.",,atomic lock
-Cloze,"Ang {{c1::cache driver}} ay tumutukoy kung saan ini-store ang cache tulad ng file, redis, o database.",,cache driver
-Cloze,"Ang {{c1::cache-aside}} strategy ay nagla-load ng data papunta sa cache lamang kapag na-miss ito.",,cache-aside
-Cloze,"Ang {{c1::write-through}} strategy ay nagsusulat ng data sa cache at database nang magkasabay.",,write-through
-Cloze,"Ang {{c1::cache invalidation}} ay ang pagtanggal o pag-update ng stale na cache entries.",,cache invalidation
-Cloze,"Ang {{c1::cache stampede}} ay nangyayari kapag maraming requests ang sabay-sabay na nag-miss sa cache.",,cache stampede
-Cloze,"Ang {{c1::remember}} method ay nag-cache ng result ng closure at ina-update ito kapag nag-expire.",,remember
-Cloze,"Ang {{c1::logical expiration}} ay pag-set ng mas maikling TTL para maiwasan ang masyadong lumang data.",,logical expiration
-Cloze,"Ang {{c1::versioned key}} ay nagbe-bump ng cache key kapag nagbago ang data structure o content.",,versioned key
-Cloze,"Ang {{c1::cache warming}} ay pagpapa-populate ng cache nang maaga bago pa ang expected traffic.",,cache warming
-Cloze,"Ang {{c1::OPcache}} ay nag-i-store ng compiled PHP bytecode para hindi na ulitin ang compilation sa bawat request.",,OPcache
-Cloze,"Ang {{c1::Laravel Debugbar}} ay nagpapakita ng queries, memory usage, at timing habang bumubuo ng page.",,Laravel Debugbar
-Cloze,"Ang {{c1::REST}} ay gumagamit ng HTTP methods bilang mga verb sa resources.",,REST
-Cloze,"Ang {{c1::versioning}} ay pinapanatili ang backward compatibility kapag nagbabago ang API.",,versioning
-Cloze,"Ang {{c1::pagination}} ay naghahati ng malalaking resulta sa mas maliliit na pages.",,pagination
-Cloze,"Ang {{c1::filtering}} ay nagpapahintulot ng pagfi-filter ng resources base sa query parameters.",,filtering
-Cloze,"Ang {{c1::status code}} 201 ay ginagamit kapag may bagong resource na na-create.",,status code
-Cloze,"Ang {{c1::idempotent}} na method tulad ng PUT ay nagbibigay ng parehong resulta kahit paulit-ulit.",,idempotent
-Cloze,"Ang {{c1::resource controller}} ay nagma-map ng mga RESTful actions sa mga methods nito.",,resource controller
-Cloze,"Ang {{c1::API resource}} ay nagto-transform ng models papunta sa JSON structure na ipinapadala.",,API resource
-Cloze,"Ang {{c1::Sanctum}} ay nagbibigay ng token-based authentication para sa SPAs at mobile apps.",,Sanctum
-Cloze,"Ang {{c1::Passport}} ay isang full OAuth2 server implementation para sa Laravel.",,Passport
-Cloze,"Ang {{c1::JWT}} ay isang self-contained token na may naka-sign na payload.",,JWT
-Cloze,"Ang {{c1::OAuth2}} ay nagpapahintulot ng third-party apps na mag-access ng resources nang walang credentials.",,OAuth2
-Cloze,"Ang {{c1::personal access token}} ay ginagamit para sa machine-to-machine authentication.",,personal access token
-Cloze,"Ang {{c1::authorization code}} flow ay ang pinaka-secure na OAuth2 flow para sa server-side apps.",,authorization code
-Cloze,"Ang {{c1::refresh token}} ay ginagamit para kumuha ng bagong access token kapag nag-expire ang luma.",,refresh token
-Cloze,"Ang {{c1::auth:sanctum}} middleware ay nagpo-protect ng routes para sa mga token-bearing requests.",,auth:sanctum
-Cloze,"Ang {{c1::idempotency key}} ay tinitiyak na ang paulit-ulit na request ay hindi magdodoble ng effect.",,idempotency key
-Cloze,"Ang {{c1::webhook}} ay isang HTTP callback na ipinapadala ng provider kapag may nangyaring event.",,webhook
-Cloze,"Ang {{c1::XSS}} ay pag-inject ng malicious script na nire-render ng browser ng ibang user.",,XSS
-Cloze,"Ang {{c1::SQL injection}} ay pagma-manipulate ng query sa pamamagitan ng user input.",,SQL injection
-Cloze,"Ang {{c1::CSRF}} ay pagpapa-submit ng request sa behalf ng isang authenticated user nang hindi nito alam.",,CSRF
-Cloze,"Ang {{c1::SSRF}} ay pagpapagawa sa server ng request papunta sa internal network.",,SSRF
-Cloze,"Ang {{c1::IDOR}} ay pag-access ng resource ng ibang user sa pamamagitan ng pagma-manipulate ng ID.",,IDOR
-Cloze,"Ang {{c1::mass assignment}} ay pag-save ng mga fields na hindi dapat i-assign ng user.",,mass assignment
-Cloze,"Ang {{c1::parameterized query}} ay nagpre-prevent ng SQL injection sa pamamagitan ng pagbi-bind ng values.",,parameterized query
-Cloze,"Ang {{c1::authorization check}} ay dapat i-apply sa bawat resource access para maiwasan ang IDOR.",,authorization check
-Cloze,"Ang {{c1::authentication}} ay nagve-verify kung sino ang user sa pamamagitan ng identity.",,authentication
-Cloze,"Ang {{c1::authorization}} ay nagde-determine kung ano ang pwedeng gawin ng isang user.",,authorization
-Cloze,"Ang {{c1::policy}} ay nagco-contain ng authorization logic para sa isang partikular na model.",,policy
-Cloze,"Ang {{c1::gate}} ay nagbibigay ng closure-based authorization sa Laravel.",,gate
-Cloze,"Ang {{c1::Spatie Permission}} package ay nagbibigay ng roles at permissions management.",,Spatie Permission
-Cloze,"Ang {{c1::role}} ay isang grupo ng permissions na ina-assign sa isang user.",,role
-Cloze,"Ang {{c1::permission}} ay isang granular action na pwedeng i-check tulad ng edit posts.",,permission
-Cloze,"Ang {{c1::can}} middleware ay nagfi-filter ng requests base sa ability na mayroon ang user.",,can
-Cloze,"Ang {{c1::encryption}} ay ginagamit para i-protektahan ang sensitive data at rest gamit ang app key.",,encryption
-Cloze,"Ang {{c1::audit log}} ay nagre-record kung sino ang gumawa ng ano at kailan sa isang system.",,audit log
-Cloze,"Ang {{c1::unit test}} ay nagte-test ng isang class o method nang hiwalay sa mga dependencies nito.",,unit test
-Cloze,"Ang {{c1::feature test}} ay nagte-test ng isang buong flow sa pamamagitan ng HTTP request.",,feature test
-Cloze,"Ang {{c1::integration test}} ay nagve-verify na nagtutulungan nang tama ang mga components.",,integration test
-Cloze,"Ang {{c1::test doubles}} ay mga mocks at fakes na nagpapalit sa totoong dependencies.",,test doubles
-Cloze,"Ang {{c1::assertion}} ay nagve-verify na ang actual result ay katumbas ng inaasahan.",,assertion
-Cloze,"Ang {{c1::red-green-refactor}} ay ang siklo ng TDD: failing test, i-pass ito, saka mag-refactor.",,red-green-refactor
-Cloze,"Ang {{c1::arrange-act-assert}} ay ang karaniwang structure ng isang test.",,arrange-act-assert
-Cloze,"Ang {{c1::coverage}} ay sumusukat kung ilang porsyento ng code ang na-execute ng mga tests.",,coverage
-Cloze,"Ang {{c1::Pest}} ay isang testing framework na may expressive syntax na binuo sa PHPUnit.",,Pest
-Cloze,"Ang {{c1::RefreshDatabase}} trait ay nagmi-migrate at nagwi-wipe ng database sa pagitan ng mga tests.",,RefreshDatabase
-Cloze,"Ang {{c1::TestCase}} ay ang base class na nagse-set up ng application environment para sa mga tests.",,TestCase
-Cloze,"Ang {{c1::phpunit.xml}} ay nagko-configure ng testing environment tulad ng database at cache drivers.",,phpunit.xml
-Cloze,"Ang {{c1::assertDatabaseHas}} ay nagve-verify na may record sa database na tumutugma sa condition.",,assertDatabaseHas
-Cloze,"Ang {{c1::state}} sa factory ay nag-o-override ng attributes para sa isang specific scenario.",,state
-Cloze,"Ang {{c1::withoutMiddleware}} ay nagbe-bypass ng middleware sa isang test.",,withoutMiddleware
-Cloze,"Ang {{c1::assertDatabaseCount}} ay nagve-verify ng eksaktong bilang ng records sa isang table.",,assertDatabaseCount
-Cloze,"Ang {{c1::mock}} ay isang test double na nagve-verify kung paano tinawag ang mga dependencies.",,mock
-Cloze,"Ang {{c1::fake}} ay isang test double na gumagana tulad ng totoo pero walang side effects.",,fake
-Cloze,"Ang {{c1::Queue::fake()}} ay nagco-capture ng mga na-dispatch na jobs nang hindi ito nirun.",,Queue::fake()
-Cloze,"Ang {{c1::Mail::fake()}} ay nagpre-prevent ng pagpadala ng totoong email habang nagte-test.",,Mail::fake()
-Cloze,"Ang {{c1::Event::fake()}} ay nagha-hijack ng mga event listeners nang hindi ito nirun.",,Event::fake()
-Cloze,"Ang {{c1::Http::fake()}} ay nagre-return ng fake responses sa halip na gumawa ng totoong HTTP calls.",,Http::fake()
-Cloze,"Ang {{c1::actingAs}} ay nag-a-authenticate ng isang user para sa test request.",,actingAs
-Cloze,"Ang {{c1::assertStatus}} ay nagve-verify ng HTTP status code ng isang response.",,assertStatus
-Cloze,"Ang {{c1::TDD}} ay pagsusulat ng failing test bago pa man isulat ang implementation.",,TDD
-Cloze,"Ang {{c1::code coverage}} ay sumusukat kung ilang lines at branches ng code ang na-test.",,code coverage
-Cloze,"Ang {{c1::CI}} ay awtomatikong nagre-run ng tests sa bawat push sa repository.",,CI
-Cloze,"Ang {{c1::pipeline}} sa CI ay ang sequence ng steps tulad ng tests, lint, at deploy.",,pipeline
-Cloze,"Ang {{c1::minimum coverage}} threshold ay nagpapa-fail ng build kapag mas mababa ang coverage.",,minimum coverage
-Cloze,"Ang {{c1::test isolation}} ay tinitiyak na ang mga tests ay hindi nagde-depend sa isa't isa.",,test isolation
-Cloze,"Ang {{c1::GitHub Actions}} ay isang sikat na CI tool na gumagamit ng YAML workflows.",,GitHub Actions
-Cloze,"Ang {{c1::linter}} ay nagch-check ng code style sa CI para i-enforce ang consistency.",,linter
-Cloze,"Ang {{c1::layered architecture}} ay hinahati ang app sa presentation, application, domain, at infrastructure layers.",,layered architecture
-Cloze,"Ang {{c1::service layer}} ay naglalagay ng business logic sa labas ng mga controllers.",,service layer
-Cloze,"Ang {{c1::clean architecture}} ay naglalagay ng dependencies na naka-point papasok sa core.",,clean architecture
-Cloze,"Ang {{c1::dependency rule}} ay nagsasabing ang inner layers ay hindi dapat mag-depend sa outer layers.",,dependency rule
-Cloze,"Ang {{c1::fat controller}} ay senyales na dapat ilipat ang business logic sa service layer.",,fat controller
-Cloze,"Ang {{c1::use case}} ay isang business action na naka-implement sa application layer.",,use case
-Cloze,"Ang {{c1::domain layer}} ay naglalaman ng core business rules at entities.",,domain layer
-Cloze,"Ang {{c1::infrastructure layer}} ay nag-i-implement ng external concerns tulad ng database at API clients.",,infrastructure layer
-Cloze,"Ang {{c1::refactoring}} ay pagbabago ng internal structure nang hindi binabago ang external behavior.",,refactoring
-Cloze,"Ang {{c1::multi-tenant}} ay pagse-serve ng parehong codebase sa maraming tenants na may isolated data.",,multi-tenant
-Cloze,"Ang {{c1::retry}} ay pag-uulit ng isang failed operation na may kasamang backoff.",,retry
-Cloze,"Ang {{c1::circuit breaker}} ay tumitigil sa pagtawag ng failing service para hindi lumala ang problema.",,circuit breaker
-Cloze,"Ang {{c1::graceful degradation}} ay patuloy na pagse-serve ng app kahit may sira ang isang dependency.",,graceful degradation
-Cloze,"Ang {{c1::timeout}} ay naglilimita kung gaano katagal maghihintay ang isang external call.",,timeout
-Cloze,"Ang {{c1::fallback}} ay alternate na result kapag nag-fail ang primary source.",,fallback
-Cloze,"Ang {{c1::backoff}} ay pagtaas ng paghihintay sa pagitan ng mga retry attempts.",,backoff
-Cloze,"Ang {{c1::jitter}} ay random delay sa mga retries para maiwasan ang thundering herd.",,jitter
-Cloze,"Ang {{c1::health check}} ay nagmo-monitor kung buhay at healthy pa ba ang isang service.",,health check
-Cloze,"Ang {{c1::structured logging}} ay nagsusulat ng logs sa isang consistent at machine-readable na format.",,structured logging
-Cloze,"Ang {{c1::monitoring}} ay patuloy na pag-track ng metrics at availability ng system.",,monitoring
-Cloze,"Ang {{c1::alerting}} ay nag-aabiso sa team kapag may na-cross na threshold.",,alerting
-Cloze,"Ang {{c1::Sentry}} ay isang error tracking tool na nag-a-aggregate ng mga exceptions.",,Sentry
-Cloze,"Ang {{c1::tracing}} ay sumusubaybay sa isang request sa kabuuan ng mga services.",,tracing
-Cloze,"Ang {{c1::log levels}} ay nagco-classify ng severity ng logs tulad ng info at error.",,log levels
-Cloze,"Ang {{c1::metrics}} ay mga numerical measurements tulad ng response time at error rate.",,metrics
-Cloze,"Ang {{c1::context}} sa logging ay nagdadagdag ng metadata tulad ng user id at request id.",,context
-Cloze,"Ang {{c1::CI/CD}} ay ang automated na proseso ng pagbuild, pagtest, at pagde-deploy ng code.",,CI/CD
-Cloze,"Ang {{c1::Docker}} ay nagpa-package ng app at mga dependencies nito sa isang portable container.",,Docker
-Cloze,"Ang {{c1::PHP-FPM}} ay ang FastCGI process manager na nag-e-execute ng mga PHP scripts.",,PHP-FPM
-Cloze,"Ang {{c1::blue-green deployment}} ay nagde-deploy ng bagong version sa parallel environment bago i-switch ang traffic.",,blue-green deployment
+PHP 8.x Features,"Sa PHP 8, ang {{c1::enum}} ay isang type na may fixed set ng possible values na may labels.",,enum
+PHP 8.x Features,Ang {{c1::readonly}} property ay pwedeng i-assign nang isang beses lang pagkatapos ng declaration.,,readonly
+PHP 8.x Features,"Sa PHP 8, ang {{c1::attributes}} ay structured metadata na pwedeng i-attach sa classes, methods, at properties.",,attributes
+PHP 8.x Features,"Sa {{c1::named arguments}}, hindi mo na kailangang sundin ang parameter order kapag nag-call ng function.",,named arguments
+PHP 8.x Features,Ang {{c1::match}} expression ay nagre-return ng value at hindi nangangailangan ng break statement.,,match
+PHP 8.x Features,Ang {{c1::constructor property promotion}} ay nagde-declare ng property direkta sa constructor parameter.,,constructor property promotion
+PHP 8.x Features,Ang {{c1::nullsafe operator}} (?->) ay bumabalik ng null sa halip na mag-throw kapag null ang object.,,nullsafe operator
+PHP 8.x Features,Ang {{c1::union types}} ay nagpapahintulot ng higit sa isang type sa isang parameter o return type.,,union types
+SOLID Principles,Ang {{c1::Single Responsibility}} principle ay nagsasabing ang isang class ay dapat may isang reason lang para magbago.,,Single Responsibility
+SOLID Principles,Ang {{c1::Open/Closed}} principle ay nagsasabing ang class ay dapat open for extension pero closed for modification.,,Open/Closed
+SOLID Principles,Ang {{c1::Liskov Substitution}} principle ay nagsasabing dapat ma-replace ang child class ng parent nito nang hindi nagba-break ang app.,,Liskov Substitution
+SOLID Principles,Ang {{c1::Interface Segregation}} principle ay nagsasabing huwag pilitin ang class na mag-implement ng interface na hindi nito ginagamit.,,Interface Segregation
+SOLID Principles,"Ang {{c1::Dependency Inversion}} principle ay nagsasabing mag-depend sa abstractions, hindi sa konkretong implementations.",,Dependency Inversion
+SOLID Principles,Ang {{c1::composition}} ay mas pinipili kaysa inheritance kapag may shared behavior na hindi lohikal na isang hierarchy.,,composition
+SOLID Principles,Ang {{c1::dependency injection}} ay pagpasa ng dependencies sa constructor sa halip na mag-instantiate sa loob ng class.,,dependency injection
+SOLID Principles,Ang {{c1::god class}} ay karaniwang senyales ng SRP violation dahil hawak nito ang masyadong maraming responsibilities.,,god class
+Design Patterns,Ang {{c1::Repository}} pattern ay nag-aabstact ng data access sa likod ng isang interface.,,Repository
+Design Patterns,Ang {{c1::Factory}} pattern ay gumagawa ng objects nang hindi inilalantad ang instantiation logic sa client.,,Factory
+Design Patterns,Ang {{c1::Strategy}} pattern ay nagpapalit ng algorithm sa runtime sa pamamagitan ng isang interface.,,Strategy
+Design Patterns,Ang {{c1::Observer}} pattern ay nag-no-notify ng multiple listeners kapag nagbago ang state ng subject.,,Observer
+Design Patterns,Ang {{c1::Adapter}} pattern ay nagco-convert ng isang interface para magkasya sa inaasahan ng client.,,Adapter
+Design Patterns,Ang {{c1::Facade}} pattern ay nagbibigay ng simplified interface sa isang complex subsystem.,,Facade
+Design Patterns,Ang {{c1::abstract factory}} ay nag-grupo ng mga related factory methods sa iisang interface.,,abstract factory
+Design Patterns,"Sa Laravel, ang {{c1::service container}} ang karaniwang ginagamit para i-wire ang Repository interface sa implementation nito.",,service container
+Static Analysis,Ang {{c1::static analysis}} sa PHPStan ay nakaka-detect ng type errors bago pa man i-run ang code.,,static analysis
+Composer,Ang {{c1::PSR-4}} autoloading ay nagma-map ng namespace ng isang class sa directory path ng file nito.,,PSR-4
+Service Container & Facades,Ang {{c1::service container}} ay ang central registry kung saan nirerehistro at nireresolve ang mga dependencies.,,service container
+Service Container & Facades,Ang {{c1::service provider}} ay nagre-register ng bindings at nagbo-bootstrap ng services sa container.,,service provider
+Service Container & Facades,Ang {{c1::facade}} ay nagbibigay ng static-like interface sa isang service na naka-resolve sa container.,,facade
+Service Container & Facades,Ang {{c1::binding}} sa container ay tumutukoy kung paano ginagawa ang isang class o interface kapag hiniling.,,binding
+Service Container & Facades,Ang {{c1::singleton}} binding ay nagbabalik ng parehong instance sa bawat resolution ng container.,,singleton
+Service Container & Facades,Ang {{c1::deferred provider}} ay hindi nagla-load hangga't hindi nire-resolve ang isa sa mga service nito.,,deferred provider
+Service Container & Facades,Ang {{c1::contextual binding}} ay nagbibigay ng ibang implementation depende sa kung sinong class ang nagre-require nito.,,contextual binding
+Service Container & Facades,Ang {{c1::real-time facade}} ay ginagawang facade ang anumang class sa pamamagitan ng Facades prefix.,,real-time facade
+Middleware & Request Lifecycle,Ang {{c1::middleware}} ay nagfi-filter ng HTTP requests bago o pagkatapos ma-handle ng controller.,,middleware
+Middleware & Request Lifecycle,Ang {{c1::pipeline}} ay dinadaanan ng request sa lahat ng middleware nang sunod-sunod hanggang sa core.,,pipeline
+Middleware & Request Lifecycle,Ang {{c1::kernel}} ang nagco-coordinate ng request lifecycle mula sa entry point hanggang sa response.,,kernel
+Middleware & Request Lifecycle,Ang {{c1::handle}} method ay ang entry point ng bawat middleware na tumatanggap ng request at $next closure.,,handle
+Middleware & Request Lifecycle,Ang {{c1::route middleware}} ay ina-assign sa isang route o route group at tumatakbo lamang dito.,,route middleware
+Middleware & Request Lifecycle,Ang {{c1::global middleware}} ay nirerehistro sa HTTP kernel at tumatakbo sa bawat request ng app.,,global middleware
+Middleware & Request Lifecycle,Ang {{c1::terminate}} method ay tumatakbo pagkatapos maipadala ang response sa browser.,,terminate
+Middleware & Request Lifecycle,Sa {{c1::public/index.php}} nagsisimula ang request lifecycle sa pag-receive ng request at pag-load ng framework.,,public/index.php
+Eloquent ORM,Ang {{c1::eager loading}} ay nilo-load ang relationships kasama ng parent query gamit ang with().,,eager loading
+Eloquent ORM,Ang {{c1::N+1 problem}} ay nangyayari kapag may hiwalay na query para sa bawat record sa loob ng isang loop.,,N+1 problem
+Eloquent ORM,Ang {{c1::model events}} ay tumatakbo sa mga puntos ng lifecycle ng isang model tulad ng creating at updating.,,model events
+Eloquent ORM,Ang {{c1::casts}} ay nagco-convert ng attribute values papunta sa ibang type tulad ng array o boolean.,,casts
+Eloquent ORM,Ang {{c1::query scopes}} ay mga reusable query constraints na pwedeng i-chain sa Eloquent queries.,,query scopes
+Eloquent ORM,Ang {{c1::polymorphic relationship}} ay nagpapahintulot ng isang model na i-belong sa maraming ibang models.,,polymorphic relationship
+Eloquent ORM,Ang {{c1::accessor}} ay nagbabago kung paano nire-retrieve ang isang attribute value.,,accessor
+Eloquent ORM,Ang {{c1::lazy loading}} ay nangyayari kapag nire-resolve ang relationship pagkatapos ma-query ang parent.,,lazy loading
+Query Builder & Transactions,Ang {{c1::query builder}} ay nagbibigay ng fluent interface para gumawa ng SQL queries nang walang raw SQL.,,query builder
+Query Builder & Transactions,Ang {{c1::transaction}} ay nag-grupo ng database operations na dapat mag-succeed lahat o mag-fail lahat.,,transaction
+Query Builder & Transactions,Ang {{c1::pessimistic locking}} ay nagla-lock ng mga rows habang pinoproseso ang mga ito para maiwasan ang conflicts.,,pessimistic locking
+Query Builder & Transactions,Ang {{c1::lockForUpdate}} ay nagla-lock ng rows para hindi mabasa ng ibang transaction hangga't hindi nag-commit.,,lockForUpdate
+Query Builder & Transactions,Ang {{c1::shared lock}} ay nagpapahintulot ng pagbabasa ng ibang transactions pero hindi ng pagsusulat.,,shared lock
+Query Builder & Transactions,Ang {{c1::deadlock}} ay nangyayari kapag dalawang transactions ang naghihintay sa locks ng isa't isa.,,deadlock
+Query Builder & Transactions,Ang {{c1::EXPLAIN}} ay nagpapakita kung paano nire-execute ng database ang isang query.,,EXPLAIN
+Query Builder & Transactions,Ang {{c1::join}} ay nagco-combine ng rows mula sa dalawang tables gamit ang matching condition.,,join
+Queues & Events,Ang {{c1::queue}} ay nagpapa-delay ng processing ng heavy tasks para hindi ma-block ang HTTP response.,,queue
+Queues & Events,Ang {{c1::job}} ay isang class na nire-queue para iproseso nang asynchronous sa likod.,,job
+Queues & Events,Ang {{c1::queue worker}} ay ang proseso na nagpo-poll sa queue para kunin at i-process ang mga jobs.,,queue worker
+Queues & Events,Ang {{c1::failed jobs}} ay ini-store para ma-retry o ma-inspect kapag nag-fail ang processing.,,failed jobs
+Queues & Events,Ang {{c1::scheduler}} ay nagpapatakbo ng scheduled tasks nang hindi na kailangan ng manual cron entries.,,scheduler
+Queues & Events,Ang {{c1::event}} ay nagbibigay-daan sa decoupled communication sa pagitan ng mga bahagi ng app.,,event
+Queues & Events,Ang {{c1::listener}} ay tumutugon kapag na-dispatch ang event na pinapakinggan nito.,,listener
+Queues & Events,"Ang {{c1::observer}} ay nakikinig sa model lifecycle events tulad ng created, updated, at deleted.",,observer
+Notifications,Ang {{c1::notification}} ay nagpapadala ng mensahe sa isang user sa pamamagitan ng channels tulad ng mail at database.,,notification
+Broadcasting,Ang {{c1::broadcasting}} ay nag-stream ng events sa real-time papunta sa mga client gamit ang WebSockets.,,broadcasting
+Database Design,Ang {{c1::normalization}} ay nag-aalis ng redundancy sa pamamagitan ng paghahati ng data sa mas maliliit na tables.,,normalization
+Database Design,Ang {{c1::denormalization}} ay sadyang nagdadagdag ng duplicate data para mapabilis ang pagbabasa.,,denormalization
+Database Design,Ang {{c1::primary key}} ay uniquely nag-i-identify ng bawat row sa isang table.,,primary key
+Database Design,Ang {{c1::foreign key}} ay nagre-refer sa primary key ng ibang table para ma-enforce ang relationships.,,foreign key
+Database Design,Ang {{c1::pivot table}} ay ginagamit para i-represent ang many-to-many relationships.,,pivot table
+Database Design,Ang {{c1::third normal form}} ay nagsasabing walang non-key attribute na dapat mag-depend sa ibang non-key attribute.,,third normal form
+Database Design,Ang {{c1::index}} ay nagpapabilis ng SELECT queries sa pamamagitan ng isang sorted structure.,,index
+Database Design,Ang {{c1::data integrity}} ay tinitiyak na tama at consistent ang data sa lahat ng oras.,,data integrity
+Indexing Strategy,Ang {{c1::composite index}} ay isang index sa multiple columns na sumusunod sa leftmost prefix rule.,,composite index
+Advanced SQL,Ang {{c1::window function}} ay nagco-compute sa isang set ng rows habang pinapanatili ang bawat indibidwal na row.,,window function
+Migrations & Seeders,Ang {{c1::migration}} ay ang version control ng database schema ng isang app.,,migration
+Migrations & Seeders,Ang {{c1::seeder}} ay nagfi-fill ng database ng test o default na data.,,seeder
+Migrations & Seeders,Ang {{c1::factory}} ay nagge-generate ng realistic test data para sa isang model.,,factory
+Migrations & Seeders,Ang {{c1::foreign key constraint}} ay nagpre-prevent ng pagde-delete ng parent record na may mga anak.,,foreign key constraint
+Migrations & Seeders,Ang {{c1::rollback}} ay nagre-revert sa huling batch ng migrations na na-run.,,rollback
+Migrations & Seeders,Ang {{c1::unique constraint}} ay nag-i-ensure na walang duplicate values sa isang column.,,unique constraint
+Migrations & Seeders,Ang {{c1::cascade}} ay awtomatikong nagde-delete ng dependent rows kapag na-delete ang parent.,,cascade
+Migrations & Seeders,Ang {{c1::schema builder}} ay nagbibigay ng fluent API para mag-define ng tables at columns.,,schema builder
+Cache Drivers,"Ang {{c1::Redis}} ay isang in-memory data store na ginagamit para sa cache, queues, at sessions.",,Redis
+Cache Drivers,Ang {{c1::Memcached}} ay isang simpleng distributed memory caching system.,,Memcached
+Cache Drivers,Ang {{c1::cache tags}} ay nagpapahintulot ng pagde-delete ng maraming cache keys na may parehong tag.,,cache tags
+Cache Drivers,Ang {{c1::lock}} ay nagpre-prevent ng concurrent execution ng parehong operation.,,lock
+Cache Drivers,Ang {{c1::rate limiting}} ay nagli-limit kung ilang requests ang pwedeng gawin sa loob ng isang window.,,rate limiting
+Cache Drivers,Ang {{c1::TTL}} ay nagsasabi kung gaano katagal bago ma-expire ang isang cache entry.,,TTL
+Cache Drivers,Ang {{c1::atomic lock}} sa Laravel ay gumagamit ng Cache::lock() para mag-sync ng shared resource.,,atomic lock
+Cache Drivers,"Ang {{c1::cache driver}} ay tumutukoy kung saan ini-store ang cache tulad ng file, redis, o database.",,cache driver
+Caching Strategies,Ang {{c1::cache-aside}} strategy ay nagla-load ng data papunta sa cache lamang kapag na-miss ito.,,cache-aside
+Caching Strategies,Ang {{c1::write-through}} strategy ay nagsusulat ng data sa cache at database nang magkasabay.,,write-through
+Caching Strategies,Ang {{c1::cache invalidation}} ay ang pagtanggal o pag-update ng stale na cache entries.,,cache invalidation
+Caching Strategies,Ang {{c1::cache stampede}} ay nangyayari kapag maraming requests ang sabay-sabay na nag-miss sa cache.,,cache stampede
+Caching Strategies,Ang {{c1::remember}} method ay nag-cache ng result ng closure at ina-update ito kapag nag-expire.,,remember
+Caching Strategies,Ang {{c1::logical expiration}} ay pag-set ng mas maikling TTL para maiwasan ang masyadong lumang data.,,logical expiration
+Caching Strategies,Ang {{c1::versioned key}} ay nagbe-bump ng cache key kapag nagbago ang data structure o content.,,versioned key
+Caching Strategies,Ang {{c1::cache warming}} ay pagpapa-populate ng cache nang maaga bago pa ang expected traffic.,,cache warming
+HTTP Caching,Ang {{c1::OPcache}} ay nag-i-store ng compiled PHP bytecode para hindi na ulitin ang compilation sa bawat request.,,OPcache
+Profiling Tools,"Ang {{c1::Laravel Debugbar}} ay nagpapakita ng queries, memory usage, at timing habang bumubuo ng page.",,Laravel Debugbar
+RESTful API Design,Ang {{c1::REST}} ay gumagamit ng HTTP methods bilang mga verb sa resources.,,REST
+RESTful API Design,Ang {{c1::versioning}} ay pinapanatili ang backward compatibility kapag nagbabago ang API.,,versioning
+RESTful API Design,Ang {{c1::pagination}} ay naghahati ng malalaking resulta sa mas maliliit na pages.,,pagination
+RESTful API Design,Ang {{c1::filtering}} ay nagpapahintulot ng pagfi-filter ng resources base sa query parameters.,,filtering
+RESTful API Design,Ang {{c1::status code}} 201 ay ginagamit kapag may bagong resource na na-create.,,status code
+RESTful API Design,Ang {{c1::idempotent}} na method tulad ng PUT ay nagbibigay ng parehong resulta kahit paulit-ulit.,,idempotent
+RESTful API Design,Ang {{c1::resource controller}} ay nagma-map ng mga RESTful actions sa mga methods nito.,,resource controller
+RESTful API Design,Ang {{c1::API resource}} ay nagto-transform ng models papunta sa JSON structure na ipinapadala.,,API resource
+Authentication,Ang {{c1::Sanctum}} ay nagbibigay ng token-based authentication para sa SPAs at mobile apps.,,Sanctum
+Authentication,Ang {{c1::Passport}} ay isang full OAuth2 server implementation para sa Laravel.,,Passport
+Authentication,Ang {{c1::JWT}} ay isang self-contained token na may naka-sign na payload.,,JWT
+Authentication,Ang {{c1::OAuth2}} ay nagpapahintulot ng third-party apps na mag-access ng resources nang walang credentials.,,OAuth2
+Authentication,Ang {{c1::personal access token}} ay ginagamit para sa machine-to-machine authentication.,,personal access token
+Authentication,Ang {{c1::authorization code}} flow ay ang pinaka-secure na OAuth2 flow para sa server-side apps.,,authorization code
+Authentication,Ang {{c1::refresh token}} ay ginagamit para kumuha ng bagong access token kapag nag-expire ang luma.,,refresh token
+Authentication,Ang {{c1::auth:sanctum}} middleware ay nagpo-protect ng routes para sa mga token-bearing requests.,,auth:sanctum
+Rate Limiting & Idempotency,Ang {{c1::idempotency key}} ay tinitiyak na ang paulit-ulit na request ay hindi magdodoble ng effect.,,idempotency key
+Third-party Integrations,Ang {{c1::webhook}} ay isang HTTP callback na ipinapadala ng provider kapag may nangyaring event.,,webhook
+OWASP Top 10,Ang {{c1::XSS}} ay pag-inject ng malicious script na nire-render ng browser ng ibang user.,,XSS
+OWASP Top 10,Ang {{c1::SQL injection}} ay pagma-manipulate ng query sa pamamagitan ng user input.,,SQL injection
+OWASP Top 10,Ang {{c1::CSRF}} ay pagpapa-submit ng request sa behalf ng isang authenticated user nang hindi nito alam.,,CSRF
+OWASP Top 10,Ang {{c1::SSRF}} ay pagpapagawa sa server ng request papunta sa internal network.,,SSRF
+OWASP Top 10,Ang {{c1::IDOR}} ay pag-access ng resource ng ibang user sa pamamagitan ng pagma-manipulate ng ID.,,IDOR
+OWASP Top 10,Ang {{c1::mass assignment}} ay pag-save ng mga fields na hindi dapat i-assign ng user.,,mass assignment
+OWASP Top 10,Ang {{c1::parameterized query}} ay nagpre-prevent ng SQL injection sa pamamagitan ng pagbi-bind ng values.,,parameterized query
+OWASP Top 10,Ang {{c1::authorization check}} ay dapat i-apply sa bawat resource access para maiwasan ang IDOR.,,authorization check
+Authorization,Ang {{c1::authentication}} ay nagve-verify kung sino ang user sa pamamagitan ng identity.,,authentication
+Authorization,Ang {{c1::authorization}} ay nagde-determine kung ano ang pwedeng gawin ng isang user.,,authorization
+Authorization,Ang {{c1::policy}} ay nagco-contain ng authorization logic para sa isang partikular na model.,,policy
+Authorization,Ang {{c1::gate}} ay nagbibigay ng closure-based authorization sa Laravel.,,gate
+Authorization,Ang {{c1::Spatie Permission}} package ay nagbibigay ng roles at permissions management.,,Spatie Permission
+Authorization,Ang {{c1::role}} ay isang grupo ng permissions na ina-assign sa isang user.,,role
+Authorization,Ang {{c1::permission}} ay isang granular action na pwedeng i-check tulad ng edit posts.,,permission
+Authorization,Ang {{c1::can}} middleware ay nagfi-filter ng requests base sa ability na mayroon ang user.,,can
+Secrets & Encryption,Ang {{c1::encryption}} ay ginagamit para i-protektahan ang sensitive data at rest gamit ang app key.,,encryption
+Logging & Auditing,Ang {{c1::audit log}} ay nagre-record kung sino ang gumawa ng ano at kailan sa isang system.,,audit log
+Testing Fundamentals,Ang {{c1::unit test}} ay nagte-test ng isang class o method nang hiwalay sa mga dependencies nito.,,unit test
+Testing Fundamentals,Ang {{c1::feature test}} ay nagte-test ng isang buong flow sa pamamagitan ng HTTP request.,,feature test
+Testing Fundamentals,Ang {{c1::integration test}} ay nagve-verify na nagtutulungan nang tama ang mga components.,,integration test
+Testing Fundamentals,Ang {{c1::test doubles}} ay mga mocks at fakes na nagpapalit sa totoong dependencies.,,test doubles
+Testing Fundamentals,Ang {{c1::assertion}} ay nagve-verify na ang actual result ay katumbas ng inaasahan.,,assertion
+Testing Fundamentals,"Ang {{c1::red-green-refactor}} ay ang siklo ng TDD: failing test, i-pass ito, saka mag-refactor.",,red-green-refactor
+Testing Fundamentals,Ang {{c1::arrange-act-assert}} ay ang karaniwang structure ng isang test.,,arrange-act-assert
+Testing Fundamentals,Ang {{c1::coverage}} ay sumusukat kung ilang porsyento ng code ang na-execute ng mga tests.,,coverage
+Testing Tools,Ang {{c1::Pest}} ay isang testing framework na may expressive syntax na binuo sa PHPUnit.,,Pest
+Testing Tools,Ang {{c1::RefreshDatabase}} trait ay nagmi-migrate at nagwi-wipe ng database sa pagitan ng mga tests.,,RefreshDatabase
+Testing Tools,Ang {{c1::TestCase}} ay ang base class na nagse-set up ng application environment para sa mga tests.,,TestCase
+Testing Tools,Ang {{c1::phpunit.xml}} ay nagko-configure ng testing environment tulad ng database at cache drivers.,,phpunit.xml
+Testing Tools,Ang {{c1::assertDatabaseHas}} ay nagve-verify na may record sa database na tumutugma sa condition.,,assertDatabaseHas
+Testing Tools,Ang {{c1::state}} sa factory ay nag-o-override ng attributes para sa isang specific scenario.,,state
+Testing Tools,Ang {{c1::withoutMiddleware}} ay nagbe-bypass ng middleware sa isang test.,,withoutMiddleware
+Testing Tools,Ang {{c1::assertDatabaseCount}} ay nagve-verify ng eksaktong bilang ng records sa isang table.,,assertDatabaseCount
+Mocking & Test Fakes,Ang {{c1::mock}} ay isang test double na nagve-verify kung paano tinawag ang mga dependencies.,,mock
+Mocking & Test Fakes,Ang {{c1::fake}} ay isang test double na gumagana tulad ng totoo pero walang side effects.,,fake
+Mocking & Test Fakes,Ang {{c1::Queue::fake()}} ay nagco-capture ng mga na-dispatch na jobs nang hindi ito nirun.,,Queue::fake()
+Mocking & Test Fakes,Ang {{c1::Mail::fake()}} ay nagpre-prevent ng pagpadala ng totoong email habang nagte-test.,,Mail::fake()
+Mocking & Test Fakes,Ang {{c1::Event::fake()}} ay nagha-hijack ng mga event listeners nang hindi ito nirun.,,Event::fake()
+Mocking & Test Fakes,Ang {{c1::Http::fake()}} ay nagre-return ng fake responses sa halip na gumawa ng totoong HTTP calls.,,Http::fake()
+Mocking & Test Fakes,Ang {{c1::actingAs}} ay nag-a-authenticate ng isang user para sa test request.,,actingAs
+Mocking & Test Fakes,Ang {{c1::assertStatus}} ay nagve-verify ng HTTP status code ng isang response.,,assertStatus
+TDD & CI,Ang {{c1::TDD}} ay pagsusulat ng failing test bago pa man isulat ang implementation.,,TDD
+TDD & CI,Ang {{c1::code coverage}} ay sumusukat kung ilang lines at branches ng code ang na-test.,,code coverage
+TDD & CI,Ang {{c1::CI}} ay awtomatikong nagre-run ng tests sa bawat push sa repository.,,CI
+TDD & CI,"Ang {{c1::pipeline}} sa CI ay ang sequence ng steps tulad ng tests, lint, at deploy.",,pipeline
+TDD & CI,Ang {{c1::minimum coverage}} threshold ay nagpapa-fail ng build kapag mas mababa ang coverage.,,minimum coverage
+TDD & CI,Ang {{c1::test isolation}} ay tinitiyak na ang mga tests ay hindi nagde-depend sa isa't isa.,,test isolation
+TDD & CI,Ang {{c1::GitHub Actions}} ay isang sikat na CI tool na gumagamit ng YAML workflows.,,GitHub Actions
+TDD & CI,Ang {{c1::linter}} ay nagch-check ng code style sa CI para i-enforce ang consistency.,,linter
+Architecture Patterns,"Ang {{c1::layered architecture}} ay hinahati ang app sa presentation, application, domain, at infrastructure layers.",,layered architecture
+Architecture Patterns,Ang {{c1::service layer}} ay naglalagay ng business logic sa labas ng mga controllers.,,service layer
+Architecture Patterns,Ang {{c1::clean architecture}} ay naglalagay ng dependencies na naka-point papasok sa core.,,clean architecture
+Architecture Patterns,Ang {{c1::dependency rule}} ay nagsasabing ang inner layers ay hindi dapat mag-depend sa outer layers.,,dependency rule
+Architecture Patterns,Ang {{c1::fat controller}} ay senyales na dapat ilipat ang business logic sa service layer.,,fat controller
+Architecture Patterns,Ang {{c1::use case}} ay isang business action na naka-implement sa application layer.,,use case
+Architecture Patterns,Ang {{c1::domain layer}} ay naglalaman ng core business rules at entities.,,domain layer
+Architecture Patterns,Ang {{c1::infrastructure layer}} ay nag-i-implement ng external concerns tulad ng database at API clients.,,infrastructure layer
+Refactoring,Ang {{c1::refactoring}} ay pagbabago ng internal structure nang hindi binabago ang external behavior.,,refactoring
+Multi-tenant Design,Ang {{c1::multi-tenant}} ay pagse-serve ng parehong codebase sa maraming tenants na may isolated data.,,multi-tenant
+Design for Failure,Ang {{c1::retry}} ay pag-uulit ng isang failed operation na may kasamang backoff.,,retry
+Design for Failure,Ang {{c1::circuit breaker}} ay tumitigil sa pagtawag ng failing service para hindi lumala ang problema.,,circuit breaker
+Design for Failure,Ang {{c1::graceful degradation}} ay patuloy na pagse-serve ng app kahit may sira ang isang dependency.,,graceful degradation
+Design for Failure,Ang {{c1::timeout}} ay naglilimita kung gaano katagal maghihintay ang isang external call.,,timeout
+Design for Failure,Ang {{c1::fallback}} ay alternate na result kapag nag-fail ang primary source.,,fallback
+Design for Failure,Ang {{c1::backoff}} ay pagtaas ng paghihintay sa pagitan ng mga retry attempts.,,backoff
+Design for Failure,Ang {{c1::jitter}} ay random delay sa mga retries para maiwasan ang thundering herd.,,jitter
+Design for Failure,Ang {{c1::health check}} ay nagmo-monitor kung buhay at healthy pa ba ang isang service.,,health check
+Observability,Ang {{c1::structured logging}} ay nagsusulat ng logs sa isang consistent at machine-readable na format.,,structured logging
+Observability,Ang {{c1::monitoring}} ay patuloy na pag-track ng metrics at availability ng system.,,monitoring
+Observability,Ang {{c1::alerting}} ay nag-aabiso sa team kapag may na-cross na threshold.,,alerting
+Observability,Ang {{c1::Sentry}} ay isang error tracking tool na nag-a-aggregate ng mga exceptions.,,Sentry
+Observability,Ang {{c1::tracing}} ay sumusubaybay sa isang request sa kabuuan ng mga services.,,tracing
+Observability,Ang {{c1::log levels}} ay nagco-classify ng severity ng logs tulad ng info at error.,,log levels
+Observability,Ang {{c1::metrics}} ay mga numerical measurements tulad ng response time at error rate.,,metrics
+Observability,Ang {{c1::context}} sa logging ay nagdadagdag ng metadata tulad ng user id at request id.,,context
+Git & CI/CD,"Ang {{c1::CI/CD}} ay ang automated na proseso ng pagbuild, pagtest, at pagde-deploy ng code.",,CI/CD
+Docker,Ang {{c1::Docker}} ay nagpa-package ng app at mga dependencies nito sa isang portable container.,,Docker
+Server Admin,Ang {{c1::PHP-FPM}} ay ang FastCGI process manager na nag-e-execute ng mga PHP scripts.,,PHP-FPM
+Deployment Strategies,Ang {{c1::blue-green deployment}} ay nagde-deploy ng bagong version sa parallel environment bago i-switch ang traffic.,,blue-green deployment
