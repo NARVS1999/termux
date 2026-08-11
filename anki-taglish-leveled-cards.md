@@ -2,14 +2,17 @@
 name: anki-taglish-leveled-cards
 description: >
   Generate Anki flashcards in Taglish (Tagalog-English) for programming or technical topics,
-  with card count scaled to the concept's difficulty level (basic, intermediate, advanced).
-  Use this whenever the user asks to create Anki cards, flashcards, or study cards in Taglish
-  for coding concepts (e.g. "PHP loop", "JavaScript array", "SQL joins", "React Native useEffect"),
-  especially if they mention wanting cards scaled by difficulty/level, or reference the
-  Foundational/Application leveled-count rule. Also trigger when the user asks for "all possible
-  questions" about a topic for Anki. Produces two distinct card types - Foundational (cloze
-  deletion) and Application (Front+Back, short-sentence/one-line answer) - with the number of
-  each determined by whether the concept is basic, intermediate, or advanced.
+  with card count scaled to the concept's difficulty level (basic, intermediate, advanced),
+  saved as per-level per-label CSV files for direct Anki import. Use this whenever the user
+  asks to create Anki cards, flashcards, or study cards in Taglish for coding concepts
+  (e.g. "PHP loop", "JavaScript array", "SQL joins", "React Native useEffect"),
+  especially if they mention wanting cards scaled by difficulty/level, reference the
+  Foundational/Application leveled-count rule, or want cards generated from a
+  `{topic}-concepts.md` file. Also trigger when the user asks for "all possible questions"
+  about a topic for Anki. Produces two distinct card types - Foundational (cloze
+  deletion) and Application (Front+Back, short-sentence/one-line answer) - with the number
+  of each determined by whether the concept is basic, intermediate, or advanced. Output is
+  one CSV per topic level + difficulty label, saved next to the concepts file.
 ---
 
 # Anki Taglish Leveled Card Generator
@@ -17,7 +20,8 @@ description: >
 Generates Anki-ready flashcards in Taglish for a given technical/programming topic, with the
 number of cards per concept scaled to its difficulty level. This is a variant of the
 `anki-taglish-cards` skill with a fixed card-count rule replacing the "cover everything"
-open-ended approach.
+open-ended approach. Unlike that skill, output is always CSV files (one per level + label),
+never chat-only.
 
 ## Card Rules
 
@@ -41,7 +45,7 @@ There are exactly two card types. Never mix their formats.
 
 ## Added Rule: Card Count by Difficulty Level
 
-Before writing any cards, **classify the concept/topic** as `basic`, `intermediate`, or
+Before writing any cards, **classify the concept** as `basic`, `intermediate`, or
 `advanced`. Use this as the guide:
 
 - **Basic** — a single fact or piece of syntax with little to no branching (e.g. "what is a
@@ -67,55 +71,85 @@ Notes:
   keywords for that concept.
 - Only Application card count scales with level. Basic concepts get zero Application cards
   since there's nothing to apply.
-- If a topic contains multiple concepts at different levels (e.g. "PHP loops" → `for` is basic,
-  `foreach` is intermediate, `nested loops with break/continue` is advanced), classify and count
-  **each sub-concept separately**, then sum the totals. State the per-concept classification to
-  the user before generating cards so they can correct it if needed.
+- Classify and count **each concept separately**, never the whole topic at once.
 
-## Workflow
+## Input Source
 
-1. **List sub-concepts** of the requested topic (e.g. for "PHP loop": for, while, do-while,
-   foreach, break, continue, nested loops, infinite loop).
-2. **Classify each sub-concept** as basic / intermediate / advanced per the criteria above, and
-   show this classification to the user as a short list before generating cards.
-3. **Generate cards per sub-concept** following the exact counts in the table (3/0, 3/2, or 3/5).
-4. **Write Foundational cards first** for each sub-concept, cloze format.
-5. **Write Application cards second** for each sub-concept (intermediate/advanced only),
-   scenario-style, varying between "how to write it" and "what happens if..." questions.
-6. **Keep everything in Taglish** — mix Tagalog connector/explanation words (ginagamit, kapag,
-   paano, hangga't, ang, ay, gagawa) with English technical terms (loop, condition, variable,
-   array) left untranslated.
-7. **Do not pad answers.** Application answers stay to isang linya / one short sentence — trim
-   if longer.
-8. Offer at the end to export as CSV for direct Anki import (see below), but don't create the
-   file unless asked.
-
-## Output Format (in-chat)
-
-First show the **classification list** (sub-concept → level → card count). Then present cards
-grouped under two headers per sub-concept: `FOUNDATIONAL (Cloze)` and `APPLICATION`. Number each
-card. Show cloze cards as the full sentence with `{{c1::...}}` inline, followed by the bolded
-answer beneath (Anki hides it automatically at review time — this is just for the user's preview).
-
-## CSV Export (if requested)
-
-Use two note types — Cloze and Basic — since "Type" columns can't be mapped natively in Anki's
-import. Either produce two separate CSVs or one CSV with a "Type" column and tell the user to
-split it. **No header row** — the file starts directly with the first card row:
+Prefer the topic's concepts file when it exists: `{topic}/{topic}-concepts.md`
+(produced by the `create-concept-name` skill). Each line is one concept:
 
 ```
-Cloze,"Sa PHP, ang {{c1::for}} loop ay ginagamit kapag alam mo na kung ilang beses uulitin ang code.",,for
-Application,"Paano gagawa ng loop na mag-print ng numbers 1 to 5?","Gamitin ang for loop na may starting value, condition, at increment.","for ($i = 1; $i <= 5; $i++) { echo $i; }"
+## Foundational Concepts
+1. Client-Server Model — basic — ang naghahati ng app sa client side at server side
 ```
 
-Save as `.csv` to `/mnt/user-data/outputs/`, then use `present_files`. Note for the user that in
-Anki's import dialog they must tick **"File has no headers"** and map the fields manually.
+- The `## {Level Name}` header gives the topic level; the concept name, `— label —`, and
+  Taglish description come from the line.
+- Use the label **as written in the file** — do not re-classify.
+- The description can seed one cloze card (reword into a full sentence with
+  `{{c1::keyword}}`), then write 2 more distinct cloze facts for the same concept.
+- If no concepts file exists, fall back to listing sub-concepts manually and classifying
+  each one per the criteria above.
+
+## CSV File Output
+
+For each topic level (slugified `##` header) and each difficulty label present in that level,
+write one CSV per card type, saved **in the same folder as the concepts md file**:
+
+```
+{topic}-{level}-{label}-cloze.csv    — always created (3 cloze cards per concept)
+{topic}-{level}-{label}-basic.csv    — only for intermediate (2) and advanced (5) labels
+```
+
+- `{level}` = slugified level name: `Foundational Concepts` → `foundational`,
+  `Expert/Strategic Concepts` → `expert-strategic`, `Core Concepts` → `core`, etc.
+- `{label}` = `basic`, `intermediate`, or `advanced`.
+- Basic-labeled concepts get **no** basic CSV (0 application cards). So a level containing
+  all three labels produces **5 CSVs**: 3 cloze (`-basic-cloze`, `-intermediate-cloze`,
+  `-advanced-cloze`) + 2 basic (`-intermediate-basic`, `-advanced-basic`).
+- Example files for `react/react-concepts.md`:
+  - `react-foundational-basic-cloze.csv`
+  - `react-foundational-intermediate-basic.csv`
+  - `react-expert-strategic-advanced-cloze.csv`
+- **No header row** — the file starts directly with the first card row. Every row has
+  exactly 4 fields, hint column always empty, matching the repo convention:
+
+```
+{Concept Name},"Ang {{c1::keyword}} ay {Taglish explanation}.",,keyword
+{Concept Name},"Paano {verb} {object}?",,"{one-line answer}"
+```
 
 ### CSV Quoting Rules (RFC 4180 — GitHub/Anki safe)
 
 - **Never backslash-escape quotes** (`\"` is invalid CSV).
 - Quotes inside a quoted field must be **doubled** (`""`).
 - Backslashes are literal in CSV — do NOT escape them (e.g. PHP namespaces stay `App\Models`).
-- Every row must parse to exactly 4 fields with a standard CSV reader; verify with
+- **ASCII only** — no Chinese/Cyrillic/foreign script characters in cards.
+- Verify every row parses to exactly 4 fields with a standard CSV reader:
   `python3 -c "import csv; [print(len(r)) for r in csv.reader(open('file.csv'))]"` before
-  committing.
+  finishing.
+
+## Workflow
+
+1. **Locate the concepts file** — check `{topic}/{topic}-concepts.md`. If missing, list
+   sub-concepts manually and classify each as basic / intermediate / advanced.
+2. **Group concepts** — by topic level (each `##` header), then by label within the level.
+3. **Write Foundational (cloze) cards** — 3 per concept, cloze format, one line per row.
+4. **Write Application (basic) cards** — 2 per intermediate concept, 5 per advanced concept,
+   scenario-style, varying between "how to write it" and "what happens if..." questions.
+5. **Write the CSV files** — one per level + label per the naming rules, in the concepts
+   file's folder.
+6. **Keep everything in Taglish** — mix Tagalog connector/explanation words (ginagamit,
+   kapag, paano, hangga't, ang, ay, gagawa) with English technical terms (loop, condition,
+   variable, array) left untranslated.
+7. **Do not pad answers.** Application answers stay to isang linya / one short sentence —
+   trim if longer.
+8. **Verify** — each CSV parses to 4 fields (python3 check) and is ASCII-only.
+9. **Confirm with user** — list the created files with their card counts.
+
+## Anki Import Note
+
+Tell the user to import each CSV separately and tick **"File has no headers"** in Anki's
+import dialog. The first column holds the concept/topic name the card belongs to (e.g.
+`HTTP Methods`), not the note type. Cloze CSVs map to the Cloze note type, basic CSVs to
+the Basic note type — never merge them, since Anki maps one note type per import.
