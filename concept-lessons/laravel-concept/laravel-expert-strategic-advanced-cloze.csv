@@ -1,0 +1,40 @@
+Laravel Internals,"Ang mga {{c1::Laravel Internals}} ay ang loob ng framework kung paano ito gumagana.",,Laravel Internals
+Custom Service Providers,"Ang mga {{c1::Custom Service Providers}} ay ang paggawa ng sariling service provider.",,Custom Service Providers
+Package Development,"Ang {{c1::Package Development}} ay ang pagbubuo ng reusable na packages.",,Package Development
+Performance Engineering,"Ang {{c1::Performance Engineering}} ay ang pag-optimize ng buong application.",,Performance Engineering
+Scalability Patterns,"Ang mga {{c1::Scalability Patterns}} ay ang pagpapalaki ng application capacity.",,Scalability Patterns
+Infrastructure as Code,"Ang {{c1::Infrastructure as Code}} ay ang pag-manage ng infrastructure gamit ang code.",,Infrastructure as Code
+Blue-Green Deployment,"Ang {{c1::Blue-Green Deployment}} ay ang zero-downtime na deployment strategy.",,Blue-Green Deployment
+Load Balancing,"Ang {{c1::Load Balancing}} ay ang pag-distribute ng traffic sa maraming servers.",,Load Balancing
+Laravel Internals,"Ang mga {{c1::Laravel Internals}} ay loob ng framework kung paano ito gumagana.",,Laravel Internals
+Custom Service Providers,"Ang mga {{c1::Custom Service Providers}} ay paggawa ng sariling service provider.",,Custom Service Providers
+Package Development,"Ang {{c1::Package Development}} ay pagbubuo ng reusable na packages.",,Package Development
+Performance Engineering,"Ang {{c1::Performance Engineering}} ay pag-optimize ng buong application.",,Performance Engineering
+Scalability Patterns,"Ang mga {{c1::Scalability Patterns}} ay pagpapalaki ng application capacity.",,Scalability Patterns
+Infrastructure as Code,"Ang {{c1::Infrastructure as Code}} ay pag-manage ng infrastructure gamit ang code.",,Infrastructure as Code
+Blue-Green Deployment,"Ang {{c1::Blue-Green Deployment}} ay zero-downtime na deployment strategy.",,Blue-Green Deployment
+Load Balancing,"Ang {{c1::Load Balancing}} ay pag-distribute ng traffic sa maraming servers.",,Load Balancing
+Laravel Internals,"Ang mga {{c1::Laravel Internals}} ay para sa framework understanding.",,Laravel Internals
+Custom Service Providers,"Ang mga {{c1::Custom Service Providers}} ay para sa custom na services.",,Custom Service Providers
+Package Development,"Ang {{c1::Package Development}} ay para sa reusable na code.",,Package Development
+Performance Engineering,"Ang {{c1::Performance Engineering}} ay para sa app optimization.",,Performance Engineering
+Scalability Patterns,"Ang mga {{c1::Scalability Patterns}} ay para sa capacity planning.",,Scalability Patterns
+Infrastructure as Code,"Ang {{c1::Infrastructure as Code}} ay para sa infrastructure automation.",,Infrastructure as Code
+Blue-Green Deployment,"Ang {{c1::Blue-Green Deployment}} ay para sa zero-downtime na deployment.",,Blue-Green Deployment
+Load Balancing,"Ang {{c1::Load Balancing}} ay para sa traffic distribution.",,Load Balancing
+Laravel Internals,"Paano mo maiintindihan ang Laravel framework?",,"Tingnan ang Laravel internals."
+Custom Service Providers,"Paano mo gagawa ng sariling service provider?",,"Gamitin ang custom service providers."
+Package Development,"Paano mo gagawa ng reusable na packages?",,"Gamitin ang package development."
+Performance Engineering,"Paano mo i-optimize ang buong application?",,"Gamitin ang performance engineering."
+Scalability Patterns,"Paano mo palalakin ang application capacity?",,"Gamitin ang scalability patterns."
+Infrastructure as Code,"Paano mo i-manage ang infrastructure gamit ang code?",,"Gamitin ang infrastructure as code."
+Blue-Green Deployment,"Paano mo gagawin ang zero-downtime na deployment?",,"Gamitin ang blue-green deployment."
+Load Balancing,"Paano mo i-distribute ang traffic sa maraming servers?",,"Gamitin ang load balancing."
+Laravel Internals,"Ano ang tawag sa loob ng framework kung paano ito gumagana?",,"Laravel internals."
+Custom Service Providers,"Ano ang tawag sa paggawa ng sariling service provider?",,"Custom service providers."
+Package Development,"Ano ang tawag sa pagbubuo ng reusable na packages?",,"Package development."
+Performance Engineering,"Ano ang tawag sa pag-optimize ng buong application?",,"Performance engineering."
+Scalability Patterns,"Ano ang tawag sa pagpapalaki ng application capacity?",,"Scalability patterns."
+Infrastructure as Code,"Ano ang tawag sa pag-manage ng infrastructure gamit ang code?",,"Infrastructure as code."
+Blue-Green Deployment,"Ano ang tawag sa zero-downtime na deployment strategy?",,"Blue-green deployment."
+Load Balancing,"Ano ang tawag sa pag-distribute ng traffic sa maraming servers?",,"Load balancing."
