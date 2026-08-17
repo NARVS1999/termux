@@ -1,0 +1,35 @@
+PHP Internals,"Ang mga {{c1::PHP Internals}} ay ang loob ng PHP engine kung paano ito gumagana.",,PHP Internals
+Extension Development,"Ang {{c1::Extension Development}} ay ang paggawa ng sariling PHP extensions.",,Extension Development
+Zephir & PHP Extensions,"Ang {{c1::Zephir & PHP Extensions}} ay ang paggawa ng C-level na extensions.",,Zephir & PHP Extensions
+Microservices with PHP,"Ang {{c1::Microservices with PHP}} ay ang pag-split ng app sa smaller services.",,Microservices with PHP
+Event-Driven Architecture,"Ang {{c1::Event-Driven Architecture}} ay ang communication gamit ang events.",,Event-Driven Architecture
+Domain-Driven Design,"Ang {{c1::Domain-Driven Design}} ay ang pag-model ng business domain sa code.",,Domain-Driven Design
+Hexagonal Architecture,"Ang {{c1::Hexagonal Architecture}} ay ang paghihiwalay ng core logic sa infrastructure.",,Hexagonal Architecture
+PHP Internals,"Ang mga {{c1::PHP Internals}} ay loob ng PHP engine kung paano ito gumagana.",,PHP Internals
+Extension Development,"Ang {{c1::Extension Development}} ay paggawa ng sariling PHP extensions.",,Extension Development
+Zephir & PHP Extensions,"Ang {{c1::Zephir & PHP Extensions}} ay paggawa ng C-level na extensions.",,Zephir & PHP Extensions
+Microservices with PHP,"Ang {{c1::Microservices with PHP}} ay pag-split ng app sa smaller services.",,Microservices with PHP
+Event-Driven Architecture,"Ang {{c1::Event-Driven Architecture}} ay communication gamit ang events.",,Event-Driven Architecture
+Domain-Driven Design,"Ang {{c1::Domain-Driven Design}} ay pag-model ng business domain sa code.",,Domain-Driven Design
+Hexagonal Architecture,"Ang {{c1::Hexagonal Architecture}} ay paghihiwalay ng core logic sa infrastructure.",,Hexagonal Architecture
+PHP Internals,"Ang mga {{c1::PHP Internals}} ay para sa PHP engine understanding.",,PHP Internals
+Extension Development,"Ang {{c1::Extension Development}} ay para sa custom na extensions.",,Extension Development
+Zephir & PHP Extensions,"Ang {{c1::Zephir & PHP Extensions}} ay para sa C-level na extensions.",,Zephir & PHP Extensions
+Microservices with PHP,"Ang {{c1::Microservices with PHP}} ay para sa service decomposition.",,Microservices with PHP
+Event-Driven Architecture,"Ang {{c1::Event-Driven Architecture}} ay para sa event-based na communication.",,Event-Driven Architecture
+Domain-Driven Design,"Ang {{c1::Domain-Driven Design}} ay para sa business domain modeling.",,Domain-Driven Design
+Hexagonal Architecture,"Ang {{c1::Hexagonal Architecture}} ay para sa core-infrastructure separation.",,Hexagonal Architecture
+PHP Internals,"Paano mo maiintindihan ang PHP engine?",,"Tingnan ang PHP internals."
+Extension Development,"Paano mo gagawa ng sariling PHP extensions?",,"Gamitin ang extension development."
+Zephir & PHP Extensions,"Paano mo gagawa ng C-level na extensions?",,"Gamitin ang Zephir at PHP extensions."
+Microservices with PHP,"Paano mo i-split ang app sa smaller services?",,"Gamitin ang microservices with PHP."
+Event-Driven Architecture,"Paano mo gagamitin ang communication gamit ang events?",,"Gamitin ang event-driven architecture."
+Domain-Driven Design,"Paano mo i-model ang business domain sa code?",,"Gamitin ang domain-driven design."
+Hexagonal Architecture,"Paano mo i-separate ang core logic sa infrastructure?",,"Gamitin ang hexagonal architecture."
+PHP Internals,"Ano ang tawag sa loob ng PHP engine kung paano ito gumagana?",,"PHP internals."
+Extension Development,"Ano ang tawag sa paggawa ng sariling PHP extensions?",,"Extension development."
+Zephir & PHP Extensions,"Ano ang tawag sa paggawa ng C-level na extensions?",,"Zephir at PHP extensions."
+Microservices with PHP,"Ano ang tawag sa pag-split ng app sa smaller services?",,"Microservices with PHP."
+Event-Driven Architecture,"Ano ang tawag sa communication gamit ang events?",,"Event-driven architecture."
+Domain-Driven Design,"Ano ang tawag sa pag-model ng business domain sa code?",,"Domain-driven design."
+Hexagonal Architecture,"Ano ang tawag sa paghihiwalay ng core logic sa infrastructure?",,"Hexagonal architecture."
