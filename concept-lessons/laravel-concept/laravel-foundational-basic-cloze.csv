@@ -1,0 +1,40 @@
+Laravel Framework,"Ang {{c1::Laravel Framework}} ay ang PHP framework na may elegant syntax.",,Laravel Framework
+MVC Pattern,"Ang {{c1::MVC Pattern}} ay ang paghihiwalay ng model, view, at controller.",,MVC Pattern
+Routing,"Ang {{c1::Routing}} ay ang pagtugma ng URL sa tamang handler.",,Routing
+Controllers,"Ang mga {{c1::Controllers}} ay ang nagha-handle ng incoming requests.",,Controllers
+Views,"Ang mga {{c1::Views}} ay ang HTML templates na nagre-render ng UI.",,Views
+Models,"Ang mga {{c1::Models}} ay ang representation ng database table.",,Models
+Middleware,"Ang {{c1::Middleware}} ay ang filter ng requests bago umabot sa controller.",,Middleware
+Service Container,"Ang {{c1::Service Container}} ay ang central na registry ng dependencies.",,Service Container
+Laravel Framework,"Ang {{c1::Laravel Framework}} ay PHP framework na may elegant syntax.",,Laravel Framework
+MVC Pattern,"Ang {{c1::MVC Pattern}} ay paghihiwalay ng model, view, at controller.",,MVC Pattern
+Routing,"Ang {{c1::Routing}} ay pagtugma ng URL sa tamang handler.",,Routing
+Controllers,"Ang mga {{c1::Controllers}} ay nagha-handle ng incoming requests.",,Controllers
+Views,"Ang mga {{c1::Views}} ay HTML templates na nagre-render ng UI.",,Views
+Models,"Ang mga {{c1::Models}} ay representation ng database table.",,Models
+Middleware,"Ang {{c1::Middleware}} ay filter ng requests bago umabot sa controller.",,Middleware
+Service Container,"Ang {{c1::Service Container}} ay central na registry ng dependencies.",,Service Container
+Laravel Framework,"Ang {{c1::Laravel Framework}} ay para sa web development.",,Laravel Framework
+MVC Pattern,"Ang {{c1::MVC Pattern}} ay para sa code organization.",,MVC Pattern
+Routing,"Ang {{c1::Routing}} ay para sa URL handling.",,Routing
+Controllers,"Ang mga {{c1::Controllers}} ay para sa request handling.",,Controllers
+Views,"Ang mga {{c1::Views}} ay para sa UI rendering.",,Views
+Models,"Ang mga {{c1::Models}} ay para sa database interaction.",,Models
+Middleware,"Ang {{c1::Middleware}} ay para sa request filtering.",,Middleware
+Service Container,"Ang {{c1::Service Container}} ay para sa dependency management.",,Service Container
+Laravel Framework,"Paano mo gagamitin ang Laravel para sa web development?",,"Gamitin ang Laravel framework."
+MVC Pattern,"Paano mo i-organize ang code sa Laravel?",,"Gamitin ang MVC pattern."
+Routing,"Paano mo i-handle ang URL sa Laravel?",,"Gamitin ang routing."
+Controllers,"Paano mo i-handle ang requests sa Laravel?",,"Gamitin ang controllers."
+Views,"Paano mo i-render ang UI sa Laravel?",,"Gamitin ang views."
+Models,"Paano mo i-interact ang database sa Laravel?",,"Gamitin ang models."
+Middleware,"Paano mo i-filter ang requests sa Laravel?",,"Gamitin ang middleware."
+Service Container,"Paano mo i-manage ang dependencies sa Laravel?",,"Gamitin ang service container."
+Laravel Framework,"Ano ang tawag sa PHP framework na may elegant syntax?",,"Laravel framework."
+MVC Pattern,"Ano ang tawag sa paghihiwalay ng model, view, at controller?",,"MVC pattern."
+Routing,"Ano ang tawag sa pagtugma ng URL sa tamang handler?",,"Routing."
+Controllers,"Ano ang tawag sa nagha-handle ng incoming requests?",,"Controllers."
+Views,"Ano ang tawag sa HTML templates na nagre-render ng UI?",,"Views."
+Models,"Ano ang tawag sa representation ng database table?",,"Models."
+Middleware,"Ano ang tawag sa filter ng requests bago umabot sa controller?",,"Middleware."
+Service Container,"Ano ang tawag sa central na registry ng dependencies?",,"Service container."
