@@ -1,0 +1,12 @@
+React Navigation,"Ang {{c1::React Navigation}} ay navigation library para sa screen management.",,React Navigation
+React Navigation,"Gamit ang {{c1::React Navigation}}, nagre-render ng stack, tab, at drawer navigators.",,React Navigation
+React Navigation,"Ang {{c1::React Navigation}} ay nagbibigay ng deep linking at state persistence.",,React Navigation
+Gesture Handler,"Ang {{c1::Gesture Handler}} ay gesture recognition system para sa touch interactions.",,Gesture Handler
+Gesture Handler,"Gamit ang {{c1::Gesture Handler}}, na-implement ang swipe, pinch, at rotate gestures.",,Gesture Handler
+Gesture Handler,"Ang {{c1::Gesture Handler}} ay mas performant kaysa sa built-in gesture system.",,Gesture Handler
+Context API,"Ang {{c1::Context API}} ay React context para sa state sharing across components.",,Context API
+Context API,"Gamit ang {{c1::Context}}, nire-remove ang prop drilling para sa deeply nested components.",,Context API
+Context API,"Ang {{c1::Context API}} ay may Provider at Consumer pattern para sa state distribution.",,Context API
+Error Boundaries,"Ang {{c1::Error Boundaries}} ay error catching component para sa graceful failures.",,Error Boundaries
+Error Boundaries,"Gamit ang {{c1::Error Boundaries}}, na-catch ang JavaScript errors sa rendering phase.",,Error Boundaries
+Error Boundaries,"Ang {{c1::Error Boundaries}} ay gumagamit ng getDerivedStateFromError at componentDidCatch.",,Error Boundaries

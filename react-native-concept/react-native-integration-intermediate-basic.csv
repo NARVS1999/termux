@@ -1,0 +1,4 @@
+React Navigation,"Paano mag-setup ng nested navigators sa React Navigation?",,"I-nest ang tab navigator sa loob ng stack navigator at i-set ang screen options."
+Gesture Handler,"Paano mag-enable ang Gesture Handler sa Expo project?",,"I-install ang @gorhom/react-native-gesture-handler at i-wrap ang app sa GestureHandlerRootView."
+Context API,"Paano mag-create at gamitin ang Context API?",,"Gumawa ng createContext, i-wrap ang app sa Provider, at i-consume gamit ang useContext hook."
+Error Boundaries,"Paano mag-implement ng Error Boundary sa React Native?",,"Gumawa ng class component na may getDerivedStateFromError at i-wrap ang prone-to-error components."

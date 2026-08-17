@@ -1,0 +1,12 @@
+Safe Area Context,"Ang {{c1::Safe Area Context}} ay provider para sa notch at status bar handling.",,Safe Area Context
+Safe Area Context,"Gamit ang {{c1::Safe Area Context}}, nire-protect ang content laban sa safe area insets.",,Safe Area Context
+Safe Area Context,"Ang {{c1::SafeAreaProvider}} ay dapat i-wrap sa pinaka-outer part ng app.",,SafeAreaProvider
+Async Storage,"Ang {{c1::Async Storage}} ay key-value storage para sa local data persistence.",,Async Storage
+Async Storage,"Gamit ang {{c1::Async Storage}}, nagse-save ng data nang asynchronously sa device.",,Async Storage
+Async Storage,"Ang {{c1::Async Storage}} ay asynchronous — gumagamit ng promises para sa operations.",,Async Storage
+Fetch API,"Ang {{c1::Fetch API}} ay HTTP client para sa network requests sa React Native.",,Fetch API
+Fetch API,"Gamit ang {{c1::Fetch}}, nagse-send ng GET, POST, PUT, at DELETE requests.",,Fetch API
+Fetch API,"Ang {{c1::Fetch API}} ay built-in sa React Native — walang extra installation needed.",,Fetch API
+Linking,"Ang {{c1::Linking}} ay API para sa deep linking at URL handling sa React Native.",,Linking
+Linking,"Gamit ang {{c1::Linking.openURL()}}, nagbubukas ng external URLs at apps.",,Linking
+Linking,"Ang {{c1::Linking}} ay nagbibigay ng configuration para sa handling ng incoming deep links.",,Linking
