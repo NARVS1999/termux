@@ -1,0 +1,15 @@
+Functional Components,"Ang mga {{c1::Functional Components}} ay ang components na gawa sa functions.",,Functional Components
+useState Hook,"Ang {{c1::useState Hook}} ay ang pag-manage ng state sa functional components.",,useState Hook
+Conditional Rendering,"Ang {{c1::Conditional Rendering}} ay ang pagpapakita ng elements batay sa condition.",,Conditional Rendering
+Functional Components,"Ang mga {{c1::Functional Components}} ay components na gawa sa functions.",,Functional Components
+useState Hook,"Ang {{c1::useState Hook}} ay pag-manage ng state sa functional components.",,useState Hook
+Conditional Rendering,"Ang {{c1::Conditional Rendering}} ay pagpapakita ng elements batay sa condition.",,Conditional Rendering
+Functional Components,"Ang mga {{c1::Functional Components}} ay para sa modern na React development.",,Functional Components
+useState Hook,"Ang {{c1::useState Hook}} ay para sa state management.",,useState Hook
+Conditional Rendering,"Ang {{c1::Conditional Rendering}} ay para sa dynamic na UI.",,Conditional Rendering
+Functional Components,"Paano mo gagawa ng component sa React?",,"Gamitin ang functional components."
+useState Hook,"Paano mo i-manage ang state sa functional component?",,"Gamitin ang useState hook."
+Conditional Rendering,"Paano mo ipapakita ang elements batay sa condition?",,"Gamitin ang conditional rendering."
+Functional Components,"Ano ang tawag sa components na gawa sa functions?",,"Functional components."
+useState Hook,"Ano ang tawag sa pag-manage ng state sa functional components?",,"useState hook."
+Conditional Rendering,"Ano ang tawag sa pagpapakita ng elements batay sa condition?",,"Conditional rendering."
