@@ -1,0 +1,30 @@
+N+1 Problem Detection,"Ang {{c1::N+1 Problem Detection}} ay ang paghahanap ng hindi optimized na queries.",,N+1 Problem Detection
+Database Profiling,"Ang {{c1::Database Profiling}} ay ang pag-analyze ng query performance.",,Database Profiling
+OPcache,"Ang {{c1::OPcache}} ay ang caching ng compiled PHP scripts.",,OPcache
+Queue Optimization,"Ang {{c1::Queue Optimization}} ay ang pag-optimize ng background jobs.",,Queue Optimization
+Asset Optimization,"Ang {{c1::Asset Optimization}} ay ang pag-combine at minify ng CSS at JS.",,Asset Optimization
+CDN Integration,"Ang {{c1::CDN Integration}} ay ang paggamit ng content delivery network.",,CDN Integration
+N+1 Problem Detection,"Ang {{c1::N+1 Problem Detection}} ay paghahanap ng hindi optimized na queries.",,N+1 Problem Detection
+Database Profiling,"Ang {{c1::Database Profiling}} ay pag-analyze ng query performance.",,Database Profiling
+OPcache,"Ang {{c1::OPcache}} ay caching ng compiled PHP scripts.",,OPcache
+Queue Optimization,"Ang {{c1::Queue Optimization}} ay pag-optimize ng background jobs.",,Queue Optimization
+Asset Optimization,"Ang {{c1::Asset Optimization}} ay pag-combine at minify ng CSS at JS.",,Asset Optimization
+CDN Integration,"Ang {{c1::CDN Integration}} ay paggamit ng content delivery network.",,CDN Integration
+N+1 Problem Detection,"Ang {{c1::N+1 Problem Detection}} ay para sa query optimization.",,N+1 Problem Detection
+Database Profiling,"Ang {{c1::Database Profiling}} ay para sa performance analysis.",,Database Profiling
+OPcache,"Ang {{c1::OPcache}} ay para sa PHP script caching.",,OPcache
+Queue Optimization,"Ang {{c1::Queue Optimization}} ay para sa background job efficiency.",,Queue Optimization
+Asset Optimization,"Ang {{c1::Asset Optimization}} ay para sa frontend optimization.",,Asset Optimization
+CDN Integration,"Ang {{c1::CDN Integration}} ay para sa content delivery.",,CDN Integration
+N+1 Problem Detection,"Paano mo hahanapin ang hindi optimized na queries?",,"Gamitin ang N+1 problem detection."
+Database Profiling,"Paano mo i-analyze ang query performance?",,"Gamitin ang database profiling."
+OPcache,"Paano mo i-cache ang compiled PHP scripts?",,"Gamitin ang OPcache."
+Queue Optimization,"Paano mo i-optimize ang background jobs?",,"Gamitin ang queue optimization."
+Asset Optimization,"Paano mo i-combine at minify ang CSS at JS?",,"Gamitin ang asset optimization."
+CDN Integration,"Paano mo gagamitin ang content delivery network?",,"Gamitin ang CDN integration."
+N+1 Problem Detection,"Ano ang tawag sa paghahanap ng hindi optimized na queries?",,"N+1 problem detection."
+Database Profiling,"Ano ang tawag sa pag-analyze ng query performance?",,"Database profiling."
+OPcache,"Ano ang tawag sa caching ng compiled PHP scripts?",,"OPcache."
+Queue Optimization,"Ano ang tawag sa pag-optimize ng background jobs?",,"Queue optimization."
+Asset Optimization,"Ano ang tawag sa pag-combine at minify ng CSS at JS?",,"Asset optimization."
+CDN Integration,"Ano ang tawag sa paggamit ng content delivery network?",,"CDN integration."
