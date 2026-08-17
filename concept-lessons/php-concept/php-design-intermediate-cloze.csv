@@ -1,0 +1,35 @@
+Database Design,"Ang {{c1::Database Design}} ay ang paggawa ng efficient na table structure.",,Database Design
+Normalization,"Ang {{c1::Normalization}} ay ang pagbawas ng data duplication.",,Normalization
+Indexing,"Ang {{c1::Indexing}} ay ang pagpapabilis ng database queries.",,Indexing
+Transactions,"Ang mga {{c1::Transactions}} ay ang pag-group ng related database operations.",,Transactions
+Caching,"Ang {{c1::Caching}} ay ang pag-cache ng madalas na data.",,Caching
+API Design,"Ang {{c1::API Design}} ay ang paggawa ng RESTful API.",,API Design
+Error Handling Strategy,"Ang {{c1::Error Handling Strategy}} ay ang pag-setup ng error handling system.",,Error Handling Strategy
+Database Design,"Ang {{c1::Database Design}} ay paggawa ng efficient na table structure.",,Database Design
+Normalization,"Ang {{c1::Normalization}} ay pagbawas ng data duplication.",,Normalization
+Indexing,"Ang {{c1::Indexing}} ay pagpapabilis ng database queries.",,Indexing
+Transactions,"Ang mga {{c1::Transactions}} ay pag-group ng related database operations.",,Transactions
+Caching,"Ang {{c1::Caching}} ay pag-cache ng madalas na data.",,Caching
+API Design,"Ang {{c1::API Design}} ay paggawa ng RESTful API.",,API Design
+Error Handling Strategy,"Ang {{c1::Error Handling Strategy}} ay pag-setup ng error handling system.",,Error Handling Strategy
+Database Design,"Ang {{c1::Database Design}} ay para sa efficient na table structure.",,Database Design
+Normalization,"Ang {{c1::Normalization}} ay para sa data deduplication.",,Normalization
+Indexing,"Ang {{c1::Indexing}} ay para sa query optimization.",,Indexing
+Transactions,"Ang mga {{c1::Transactions}} ay para sa data consistency.",,Transactions
+Caching,"Ang {{c1::Caching}} ay para sa performance improvement.",,Caching
+API Design,"Ang {{c1::API Design}} ay para sa RESTful na communication.",,API Design
+Error Handling Strategy,"Ang {{c1::Error Handling Strategy}} ay para sa systematic na error management.",,Error Handling Strategy
+Database Design,"Paano mo gagawa ng efficient na table structure?",,"Gamitin ang database design."
+Normalization,"Paano mo babawasan ang data duplication?",,"Gamitin ang normalization."
+Indexing,"Paano mo pabilisin ang database queries?",,"Gamitin ang indexing."
+Transactions,"Paano mo i-group ang related database operations?",,"Gamitin ang transactions."
+Caching,"Paano mo i-cache ang madalas na data?",,"Gamitin ang caching."
+API Design,"Paano mo gagawa ng RESTful API?",,"Gamitin ang API design."
+Error Handling Strategy,"Paano mo i-setup ang error handling system?",,"Gamitin ang error handling strategy."
+Database Design,"Ano ang tawag sa paggawa ng efficient na table structure?",,"Database design."
+Normalization,"Ano ang tawag sa pagbawas ng data duplication?",,"Normalization."
+Indexing,"Ano ang tawag sa pagpapabilis ng database queries?",,"Indexing."
+Transactions,"Ano ang tawag sa pag-group ng related database operations?",,"Transactions."
+Caching,"Ano ang tawag sa pag-cache ng madalas na data?",,"Caching."
+API Design,"Ano ang tawag sa paggawa ng RESTful API?",,"API design."
+Error Handling Strategy,"Ano ang tawag sa pag-setup ng error handling system?",,"Error handling strategy."
