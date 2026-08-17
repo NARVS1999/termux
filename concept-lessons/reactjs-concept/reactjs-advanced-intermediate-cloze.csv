@@ -1,0 +1,10 @@
+Lazy Loading,"Ang {{c1::Lazy Loading}} ay ang pag-load ng components kapag kailangan lang.",,Lazy Loading
+Suspense,"Ang {{c1::Suspense}} ay ang pag-handle ng loading states ng lazy components.",,Suspense
+Lazy Loading,"Ang {{c1::Lazy Loading}} ay pag-load ng components kapag kailangan lang.",,Lazy Loading
+Suspense,"Ang {{c1::Suspense}} ay pag-handle ng loading states ng lazy components.",,Suspense
+Lazy Loading,"Ang {{c1::Lazy Loading}} ay para sa code splitting.",,Lazy Loading
+Suspense,"Ang {{c1::Suspense}} ay para sa loading state management.",,Suspense
+Lazy Loading,"Paano mo i-load ang components kapag kailangan lang?",,"Gamitin ang lazy loading."
+Suspense,"Paano mo i-handle ang loading states ng lazy components?",,"Gamitin ang suspense."
+Lazy Loading,"Ano ang tawag sa pag-load ng components kapag kailangan lang?",,"Lazy loading."
+Suspense,"Ano ang tawag sa pag-handle ng loading states ng lazy components?",,"Suspense."

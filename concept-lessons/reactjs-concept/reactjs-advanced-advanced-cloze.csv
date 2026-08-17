@@ -1,0 +1,30 @@
+React.memo,"Ang {{c1::React.memo}} ay ang pag-memoize ng component para sa optimization.",,React.memo
+Concurrent Features,"Ang mga {{c1::Concurrent Features}} ay ang mga bagong features para sa better UX.",,Concurrent Features
+Server Components,"Ang mga {{c1::Server Components}} ay ang components na tumatakbo sa server.",,Server Components
+Streaming SSR,"Ang {{c1::Streaming SSR}} ay ang server-side rendering na hindi nagwa-wait.",,Streaming SSR
+Islands Architecture,"Ang {{c1::Islands Architecture}} ay ang paghihiwalay ng interactive at static parts.",,Islands Architecture
+Micro-Frontends,"Ang mga {{c1::Micro-Frontends}} ay ang pag-split ng frontend sa smaller pieces.",,Micro-Frontends
+React.memo,"Ang {{c1::React.memo}} ay pag-memoize ng component para sa optimization.",,React.memo
+Concurrent Features,"Ang mga {{c1::Concurrent Features}} ay mga bagong features para sa better UX.",,Concurrent Features
+Server Components,"Ang mga {{c1::Server Components}} ay components na tumatakbo sa server.",,Server Components
+Streaming SSR,"Ang {{c1::Streaming SSR}} ay server-side rendering na hindi nagwa-wait.",,Streaming SSR
+Islands Architecture,"Ang {{c1::Islands Architecture}} ay paghihiwalay ng interactive at static parts.",,Islands Architecture
+Micro-Frontends,"Ang mga {{c1::Micro-Frontends}} ay pag-split ng frontend sa smaller pieces.",,Micro-Frontends
+React.memo,"Ang {{c1::React.memo}} ay para sa component optimization.",,React.memo
+Concurrent Features,"Ang mga {{c1::Concurrent Features}} ay para sa better UX.",,Concurrent Features
+Server Components,"Ang mga {{c1::Server Components}} ay para sa server-side rendering.",,Server Components
+Streaming SSR,"Ang {{c1::Streaming SSR}} ay para sa efficient na SSR.",,Streaming SSR
+Islands Architecture,"Ang {{c1::Islands Architecture}} ay para sa interactive-static separation.",,Islands Architecture
+Micro-Frontends,"Ang mga {{c1::Micro-Frontends}} ay para sa frontend decomposition.",,Micro-Frontends
+React.memo,"Paano mo i-optimize ang component rendering?",,"Gamitin ang React.memo."
+Concurrent Features,"Paano mo i-improve ang UX gamit ang mga bagong features?",,"Gamitin ang concurrent features."
+Server Components,"Paano mo i-render ang components sa server?",,"Gamitin ang server components."
+Streaming SSR,"Paano mo i-render ang server-side nang hindi nagwa-wait?",,"Gamitin ang streaming SSR."
+Islands Architecture,"Paano mo i-separate ang interactive at static parts?",,"Gamitin ang islands architecture."
+Micro-Frontends,"Paano mo i-split ang frontend sa smaller pieces?",,"Gamitin ang micro-frontends."
+React.memo,"Ano ang tawag sa pag-memoize ng component para sa optimization?",,"React.memo."
+Concurrent Features,"Ano ang tawag sa mga bagong features para sa better UX?",,"Concurrent features."
+Server Components,"Ano ang tawag sa components na tumatakbo sa server?",,"Server components."
+Streaming SSR,"Ano ang tawag sa server-side rendering na hindi nagwa-wait?",,"Streaming SSR."
+Islands Architecture,"Ano ang tawag sa paghihiwalay ng interactive at static parts?",,"Islands architecture."
+Micro-Frontends,"Ano ang tawag sa pag-split ng frontend sa smaller pieces?",,"Micro-frontends."
