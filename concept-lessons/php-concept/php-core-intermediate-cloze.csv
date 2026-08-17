@@ -1,0 +1,15 @@
+Scope,"Ang {{c1::Scope}} ay ang visibility ng variables sa iba't ibang parte.",,Scope
+Array Functions,"Ang mga {{c1::Array Functions}} ay ang map, filter, array_merge at iba pa.",,Array Functions
+String Functions,"Ang mga {{c1::String Functions}} ay ang strlen, strpos, substr at iba pa.",,String Functions
+Scope,"Ang {{c1::Scope}} ay visibility ng variables sa iba't ibang parte.",,Scope
+Array Functions,"Ang mga {{c1::Array Functions}} ay map, filter, array_merge at iba pa.",,Array Functions
+String Functions,"Ang mga {{c1::String Functions}} ay strlen, strpos, substr at iba pa.",,String Functions
+Scope,"Ang {{c1::Scope}} ay para sa variable visibility.",,Scope
+Array Functions,"Ang mga {{c1::Array Functions}} ay para sa array manipulation.",,Array Functions
+String Functions,"Ang mga {{c1::String Functions}} ay para sa string manipulation.",,String Functions
+Scope,"Paano mo i-handle ang variable visibility?",,"Tingnan ang scope."
+Array Functions,"Paano mo i-manipulate ang arrays?",,"Gamitin ang array functions."
+String Functions,"Paano mo i-manipulate ang strings?",,"Gamitin ang string functions."
+Scope,"Ano ang tawag sa visibility ng variables sa iba't ibang parte?",,"Scope."
+Array Functions,"Ano ang tawag sa map, filter, array_merge at iba pa?",,"Array functions."
+String Functions,"Ano ang tawag sa strlen, strpos, substr at iba pa?",,"String functions."

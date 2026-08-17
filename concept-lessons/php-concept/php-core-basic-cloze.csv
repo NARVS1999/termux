@@ -1,0 +1,25 @@
+Control Structures,"Ang mga {{c1::Control Structures}} ay ang if, else, elseif para sa pagpapasya.",,Control Structures
+Loops,"Ang mga {{c1::Loops}} ay ang for, while, foreach para sa paulit-ulit na code.",,Loops
+Functions,"Ang mga {{c1::Functions}} ay ang reusable block ng code na may parameter at return.",,Functions
+Arrays,"Ang mga {{c1::Arrays}} ay ang indexed at associative na list ng values.",,Arrays
+Math Functions,"Ang mga {{c1::Math Functions}} ay ang abs, round, ceil, floor at iba pa.",,Math Functions
+Control Structures,"Ang mga {{c1::Control Structures}} ay if, else, elseif para sa pagpapasya.",,Control Structures
+Loops,"Ang mga {{c1::Loops}} ay for, while, foreach para sa paulit-ulit na code.",,Loops
+Functions,"Ang mga {{c1::Functions}} ay reusable block ng code na may parameter at return.",,Functions
+Arrays,"Ang mga {{c1::Arrays}} ay indexed at associative na list ng values.",,Arrays
+Math Functions,"Ang mga {{c1::Math Functions}} ay abs, round, ceil, floor at iba pa.",,Math Functions
+Control Structures,"Ang mga {{c1::Control Structures}} ay para sa code execution flow.",,Control Structures
+Loops,"Ang mga {{c1::Loops}} ay para sa repetitive na tasks.",,Loops
+Functions,"Ang mga {{c1::Functions}} ay para sa code reusability.",,Functions
+Arrays,"Ang mga {{c1::Arrays}} ay para sa data collections.",,Arrays
+Math Functions,"Ang mga {{c1::Math Functions}} ay para sa math operations.",,Math Functions
+Control Structures,"Paano mo i-control ang flow ng code?",,"Gamitin ang control structures."
+Loops,"Paano mo gagawin ang repetitive na tasks?",,"Gamitin ang loops."
+Functions,"Paano mo gagawa ng reusable na code?",,"Gamitin ang functions."
+Arrays,"Paano mo i-store ang multiple values?",,"Gamitin ang arrays."
+Math Functions,"Paano mo gagawa ng math operations?",,"Gamitin ang math functions."
+Control Structures,"Ano ang tawag sa if, else, elseif para sa pagpapasya?",,"Control structures."
+Loops,"Ano ang tawag sa for, while, foreach para sa paulit-ulit na code?",,"Loops."
+Functions,"Ano ang tawag sa reusable block ng code na may parameter at return?",,"Functions."
+Arrays,"Ano ang tawag sa indexed at associative na list ng values?",,"Arrays."
+Math Functions,"Ano ang tawag sa abs, round, ceil, floor at iba pa?",,"Math functions."
