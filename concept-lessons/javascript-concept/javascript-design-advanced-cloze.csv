@@ -1,0 +1,12 @@
+Design Patterns,"Ang mga {{c1::Design Patterns}} ay ang proven na solusyon sa common na problema.",,Design Patterns
+Strategy,"Ang {{c1::Strategy}} ay ang pattern na nagpapalit ng algorithm runtime.",,Strategy
+Design Patterns,"Ang mga {{c1::Design Patterns}} ay proven na solusyon sa common na problema.",,Design Patterns
+Strategy,"Ang {{c1::Strategy}} ay pattern na nagpapalit ng algorithm runtime.",,Strategy
+Design Patterns,"Ang mga {{c1::Design Patterns}} ay para sa proven na solutions.",,Design Patterns
+Strategy,"Ang {{c1::Strategy}} ay para sa flexible na algorithm selection.",,Strategy
+Design Patterns,"Paano mo gagamitin ang design patterns?",,"Piliin ang tamang pattern para sa problema."
+Strategy,"Paano mo gagamitin ang strategy pattern?",,"I-define ang mga algorithms at piliin ang isa."
+Design Patterns,"Ano ang tawag sa proven na solusyon sa common na problema?",,"Design patterns."
+Strategy,"Ano ang tawag sa pattern na nagpapalit ng algorithm runtime?",,"Strategy."
+Design Patterns,"Ano ang benefit ng design patterns?",,"Proven na solutions sa common na problema."
+Strategy,"Ano ang benefit ng strategy pattern?",,"Flexible na algorithm selection."

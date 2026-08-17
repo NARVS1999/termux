@@ -1,0 +1,30 @@
+Singleton,"Ang {{c1::Singleton}} ay ang pattern na may isang instance lang.",,Singleton
+Factory,"Ang {{c1::Factory}} ay ang pattern na nagre-create ng objects.",,Factory
+Observer,"Ang {{c1::Observer}} ay ang pattern na nagno-notify ng changes.",,Observer
+Module Pattern,"Ang {{c1::Module Pattern}} ay ang pag-encapsulate ng private state.",,Module Pattern
+MVC Pattern,"Ang {{c1::MVC Pattern}} ay ang paghihiwalay ng model, view, at controller.",,MVC Pattern
+Pub/Sub,"Ang {{c1::Pub/Sub}} ay ang communication pattern gamit ang events.",,Pub/Sub
+Singleton,"Ang {{c1::Singleton}} ay pattern na may isang instance lang.",,Singleton
+Factory,"Ang {{c1::Factory}} ay pattern na nagre-create ng objects.",,Factory
+Observer,"Ang {{c1::Observer}} ay pattern na nagno-notify ng changes.",,Observer
+Module Pattern,"Ang {{c1::Module Pattern}} ay pag-encapsulate ng private state.",,Module Pattern
+MVC Pattern,"Ang {{c1::MVC Pattern}} ay paghihiwalay ng model, view, at controller.",,MVC Pattern
+Pub/Sub,"Ang {{c1::Pub/Sub}} ay communication pattern gamit ang events.",,Pub/Sub
+Singleton,"Ang {{c1::Singleton}} ay para sa single instance.",,Singleton
+Factory,"Ang {{c1::Factory}} ay para sa object creation.",,Factory
+Observer,"Ang {{c1::Observer}} ay para sa change notification.",,Observer
+Module Pattern,"Ang {{c1::Module Pattern}} ay para sa encapsulation.",,Module Pattern
+MVC Pattern,"Ang {{c1::MVC Pattern}} ay para sa code organization.",,MVC Pattern
+Pub/Sub,"Ang {{c1::Pub/Sub}} ay para sa event-driven communication.",,Pub/Sub
+Singleton,"Paano mo gagamitin ang singleton pattern?",,"Gumawa ng class na may isang instance lang."
+Factory,"Paano mo gagamitin ang factory pattern?",,"Gumawa ng factory method para sa object creation."
+Observer,"Paano mo gagamitin ang observer pattern?",,"Mag-subscribe sa changes ng subject."
+Module Pattern,"Paano mo gagamitin ang module pattern?",,"I-encapsulate ang private state sa loob ng module."
+MVC Pattern,"Paano mo gagamitin ang MVC pattern?",,"Ihiwalay ang model, view, at controller."
+Pub/Sub,"Paano mo gagamitin ang pub/sub pattern?",,"Mag-publish at mag-subscribe sa events."
+Singleton,"Ano ang tawag sa pattern na may isang instance lang?",,"Singleton."
+Factory,"Ano ang tawag sa pattern na nagre-create ng objects?",,"Factory."
+Observer,"Ano ang tawag sa pattern na nagno-notify ng changes?",,"Observer."
+Module Pattern,"Ano ang tawag sa pag-encapsulate ng private state?",,"Module pattern."
+MVC Pattern,"Ano ang tawag sa paghihiwalay ng model, view, at controller?",,"MVC pattern."
+Pub/Sub,"Ano ang tawag sa communication pattern gamit ang events?",,"Pub/sub."
