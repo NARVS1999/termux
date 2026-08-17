@@ -1,0 +1,6 @@
+Call Stack,"Ang {{c1::Call Stack}} ay ang tracking ng function executions.",,Call Stack
+Call Stack,"Ang {{c1::Call Stack}} ay tracking ng function executions.",,Call Stack
+Call Stack,"Ang {{c1::Call Stack}} ay para sa understanding ng code execution.",,Call Stack
+Call Stack,"Paano mo malalaman ang order ng function executions?",,"Tingnan ang call stack."
+Call Stack,"Ano ang tawag sa tracking ng function executions?",,"Call stack."
+Call Stack,"Ano ang benefit ng call stack?",,"Na-identify ang execution order."
