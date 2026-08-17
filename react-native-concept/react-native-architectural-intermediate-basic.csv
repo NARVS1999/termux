@@ -1,0 +1,4 @@
+Redux Toolkit,"Paano mag-setup ng Redux Toolkit sa React Native?",,"I-create ang store gamit ang configureStore, i-create ang slices, at i-wrap ang app sa Provider."
+Zustand,"Paano mag-create ng Zustand store?",,"Gumawa ng create function na may state at actions, at i-access gamit ang useStore hook."
+MMKV,"Paano mag-install at gamitin ang MMKV?",,"I-install ang react-native-mmkv, gumawa ng MMKV instance, at gamitin ang set at get methods."
+SQLite,"Paano mag-setup ng SQLite database sa React Native?",,"I-install ang react-native-sqlite-storage, i-open ang database, at i-execute ang SQL queries."

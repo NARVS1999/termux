@@ -1,0 +1,9 @@
+React Query,"Ang {{c1::React Query}} ay server state management para sa caching at mutations.",,React Query
+React Query,"Gamit ang {{c1::React Query}}, nire-manage ang server state nang walang Redux.",,React Query
+React Query,"Ang {{c1::React Query}} ay nagbibigay ng automatic caching, refetching, at pagination.",,React Query
+Native Modules,"Ang {{c1::Native Modules}} ay bridge para sa custom native code integration.",,Native Modules
+Native Modules,"Gamit ang {{c1::Native Modules}}, na-access ang platform-specific APIs na walang JS equivalent.",,Native Modules
+Native Modules,"Ang {{c1::Native Modules}} ay nagre-require ng Objective-C, Swift, o Kotlin code.",,Native Modules
+Turbo Modules,"Ang {{c1::Turbo Modules}} ay new architecture para sa faster native bridging.",,Turbo Modules
+Turbo Modules,"Gamit ang {{c1::Turbo Modules}}, na-improve ang performance ng native communication.",,Turbo Modules
+Turbo Modules,"Ang {{c1::Turbo Modules}} ay lazy-loaded — naglo-load lang kapag kailangan.",,Turbo Modules

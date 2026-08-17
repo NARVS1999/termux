@@ -1,0 +1,8 @@
+React Query,"Paano mag-setup ng React Query sa React Native?",,"I-install ang @tanstack/react-query, i-wrap ang app sa QueryClientProvider, at gamitin ang useQuery hook."
+React Query,"Paano mag-invalidate ng cache sa React Query?",,"Gamit ang queryClient.invalidateQueries() method para i-refetch ang stale data."
+Native Modules,"Paano mag-create ng custom native module sa React Native?",,"Gumawa ng native class na may @ReactMethod annotation at i-register sa ReactPackage."
+Native Modules,"Paano mag-call ng native module mula sa JavaScript?",,"I-access ang NativeModules object at i-call ang method na may Promise o Callback."
+Turbo Modules,"Paano mag-migrate sa Turbo Modules mula sa legacy native modules?",,"I-define ang spec gamit ang TurboModuleRegistry, i-implement sa native side, at i-enable ang new architecture."
+Turbo Modules,"Ano ang advantage ng Turbo Modules kaysa sa Native Modules?",,"Mas mabilis ang communication dahil sa JSI binding at lazy loading ng modules."
+Native Modules,"Paano mag-handle ng errors sa native modules?",,"I-throw exceptions sa native side at i-catch gamit ang Promise reject o Error callback."
+Turbo Modules,"Paano mag-test ng Turbo Modules?",,"Gamit ang native testing utilities at i-mock ang TurboModuleRegistry sa unit tests."

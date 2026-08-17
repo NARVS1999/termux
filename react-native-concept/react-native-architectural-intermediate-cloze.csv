@@ -1,0 +1,12 @@
+Redux Toolkit,"Ang {{c1::Redux Toolkit}} ay state management library para sa global state.",,Redux Toolkit
+Redux Toolkit,"Gamit ang {{c1::Redux Toolkit}}, nagre-reduce ang boilerplate code sa Redux.",,Redux Toolkit
+Redux Toolkit,"Ang {{c1::Redux Toolkit}} ay nagbibigay ng slices, createAsyncThunk, at DevTools integration.",,Redux Toolkit
+Zustand,"Ang {{c1::Zustand}} ay lightweight state management alternative sa Redux.",,Zustand
+Zustand,"Gamit ang {{c1::Zustand}}, nagse-set up ng global state nang walang providers.",,Zustand
+Zustand,"Ang {{c1::Zustand}} ay minimal at madaling i-setup kaysa sa Redux.",,Zustand
+MMKV,"Ang {{c1::MMKV}} ay fast key-value storage para sa mobile devices.",,MMKV
+MMKV,"Gamit ang {{c1::MMKV}}, mas mabilis kaysa sa AsyncStorage ang data operations.",,MMKV
+MMKV,"Ang {{c1::MMKV}} ay synchronous — walang promises needed para sa read/write.",,MMKV
+SQLite,"Ang {{c1::SQLite}} ay relational database para sa structured local data.",,SQLite
+SQLite,"Gamit ang {{c1::SQLite}}, nagse-store ng complex data na may relationships.",,SQLite
+SQLite,"Ang {{c1::SQLite}} ay ACID compliant para sa reliable data operations.",,SQLite
