@@ -1,0 +1,35 @@
+Binary Search Tree,"Ang {{c1::Binary Search Tree}} ay ang binary tree na may ordering property.",,Binary Search Tree
+Heap,"Ang {{c1::Heap}} ay ang complete binary tree na may heap property.",,Heap
+Min Heap,"Ang {{c1::Min Heap}} ay ang heap na ang parent ay laging mas mababa.",,Min Heap
+Max Heap,"Ang {{c1::Max Heap}} ay ang heap na ang parent ay laging mas mataas.",,Max Heap
+Collision,"Ang {{c1::Collision}} ay ang pagkakataon na dalawang key ay may same hash.",,Collision
+Adjacency Matrix,"Ang {{c1::Adjacency Matrix}} ay ang 2D array na nagre-represent ng graph.",,Adjacency Matrix
+Adjacency List,"Ang {{c1::Adjacency List}} ay ang list na nagre-represent ng graph neighbors.",,Adjacency List
+Binary Search Tree,"Ang {{c1::Binary Search Tree}} ay binary tree na may ordering property.",,Binary Search Tree
+Heap,"Ang {{c1::Heap}} ay complete binary tree na may heap property.",,Heap
+Min Heap,"Ang {{c1::Min Heap}} ay heap na ang parent ay laging mas mababa.",,Min Heap
+Max Heap,"Ang {{c1::Max Heap}} ay heap na ang parent ay laging mas mataas.",,Max Heap
+Collision,"Ang {{c1::Collision}} ay pagkakataon na dalawang key ay may same hash.",,Collision
+Adjacency Matrix,"Ang {{c1::Adjacency Matrix}} ay 2D array na nagre-represent ng graph.",,Adjacency Matrix
+Adjacency List,"Ang {{c1::Adjacency List}} ay list na nagre-represent ng graph neighbors.",,Adjacency List
+Binary Search Tree,"Ang {{c1::Binary Search Tree}} ay para sa sorted na data.",,Binary Search Tree
+Heap,"Ang {{c1::Heap}} ay para sa priority queue implementation.",,Heap
+Min Heap,"Ang {{c1::Min Heap}} ay para sa minimum element retrieval.",,Min Heap
+Max Heap,"Ang {{c1::Max Heap}} ay para sa maximum element retrieval.",,Max Heap
+Collision,"Ang {{c1::Collision}} ay para sa hash table handling.",,Collision
+Adjacency Matrix,"Ang {{c1::Adjacency Matrix}} ay para sa dense na graphs.",,Adjacency Matrix
+Adjacency List,"Ang {{c1::Adjacency List}} ay para sa sparse na graphs.",,Adjacency List
+Binary Search Tree,"Paano mo mag-search sa sorted na tree?",,"Gamitin ang binary search tree."
+Heap,"Paano mo i-implement ang priority queue?",,"Gamitin ang heap."
+Min Heap,"Paano mo mahanap ang minimum element?",,"Gamitin ang min heap."
+Max Heap,"Paano mo mahanap ang maximum element?",,"Gamitin ang max heap."
+Collision,"Paano mo i-handle ang same hash na keys?",,"Gamitin ang collision handling."
+Adjacency Matrix,"Paano mo i-represent ang graph gamit ang 2D array?",,"Gamitin ang adjacency matrix."
+Adjacency List,"Paano mo i-represent ang graph gamit ang lists?",,"Gamitin ang adjacency list."
+Binary Search Tree,"Ano ang tawag sa binary tree na may ordering property?",,"Binary search tree."
+Heap,"Ano ang tawag sa complete binary tree na may heap property?",,"Heap."
+Min Heap,"Ano ang tawag sa heap na ang parent ay laging mas mababa?",,"Min heap."
+Max Heap,"Ano ang tawag sa heap na ang parent ay laging mas mataas?",,"Max heap."
+Collision,"Ano ang tawag sa pagkakataon na dalawang key ay may same hash?",,"Collision."
+Adjacency Matrix,"Ano ang tawag sa 2D array na nagre-represent ng graph?",,"Adjacency matrix."
+Adjacency List,"Ano ang tawag sa list na nagre-represent ng graph neighbors?",,"Adjacency list."

@@ -1,0 +1,18 @@
+Binary Tree,"Ang {{c1::Binary Tree}} ay ang tree na may dalawang children lang per node.",,Binary Tree
+Hash Table,"Ang {{c1::Hash Table}} ay ang data structure na gumagamit ng hash function.",,Hash Table
+Hash Function,"Ang {{c1::Hash Function}} ay ang function na nagco-convert ng key sa index.",,Hash Function
+Graph,"Ang {{c1::Graph}} ay ang collection ng vertices at edges.",,Graph
+Vertex,"Ang {{c1::Vertex}} ay ang node sa graph.",,Vertex
+Edge,"Ang {{c1::Edge}} ay ang connection sa pagitan ng dalawang vertices.",,Edge
+Binary Tree,"Ang {{c1::Binary Tree}} ay tree na may dalawang children lang per node.",,Binary Tree
+Hash Table,"Ang {{c1::Hash Table}} ay data structure na gumagamit ng hash function.",,Hash Table
+Hash Function,"Ang {{c1::Hash Function}} ay function na nagco-convert ng key sa index.",,Hash Function
+Graph,"Ang {{c1::Graph}} ay collection ng vertices at edges.",,Graph
+Vertex,"Ang {{c1::Vertex}} ay node sa graph.",,Vertex
+Edge,"Ang {{c1::Edge}} ay connection sa pagitan ng dalawang vertices.",,Edge
+Binary Tree,"Ang {{c1::Binary Tree}} ay para sa hierarchical na data.",,Binary Tree
+Hash Table,"Ang {{c1::Hash Table}} ay para sa fast na data retrieval.",,Hash Table
+Hash Function,"Ang {{c1::Hash Function}} ay para sa key-to-index mapping.",,Hash Function
+Graph,"Ang {{c1::Graph}} ay para sa network na data.",,Graph
+Vertex,"Ang {{c1::Vertex}} ay para sa node representation.",,Vertex
+Edge,"Ang {{c1::Edge}} ay para sa connection representation.",,Edge

@@ -1,0 +1,30 @@
+AVL Tree,"Ang {{c1::AVL Tree}} ay ang self-balancing binary search tree.",,AVL Tree
+Red-Black Tree,"Ang {{c1::Red-Black Tree}} ay ang self-balancing BST na may color property.",,Red-Black Tree
+AVL Tree,"Ang {{c1::AVL Tree}} ay self-balancing binary search tree.",,AVL Tree
+Red-Black Tree,"Ang {{c1::Red-Black Tree}} ay self-balancing BST na may color property.",,Red-Black Tree
+AVL Tree,"Ang {{c1::AVL Tree}} ay para sa balanced na tree operations.",,AVL Tree
+Red-Black Tree,"Ang {{c1::Red-Black Tree}} ay para sa efficient na tree balancing.",,Red-Black Tree
+AVL Tree,"Paano mo i-balance ang binary search tree?",,"Gamitin ang AVL tree."
+Red-Black Tree,"Paano mo i-balance ang BST gamit ang colors?",,"Gamitin ang red-black tree."
+AVL Tree,"Ano ang tawag sa self-balancing binary search tree?",,"AVL tree."
+Red-Black Tree,"Ano ang tawag sa self-balancing BST na may color property?",,"Red-black tree."
+AVL Tree,"Ano ang benefit ng AVL tree?",,"Guaranteed O(log n) na operations."
+Red-Black Tree,"Ano ang benefit ng red-black tree?",,"Efficient na tree balancing."
+AVL Tree,"Kailan mo gagamitin ang AVL tree?",,"Kapag kailangan ng strict na balance."
+Red-Black Tree,"Kailan mo gagamitin ang red-black tree?",,"Kapag kailangan ng efficient na insertion at deletion."
+AVL Tree,"Ano ang difference ng AVL at red-black tree?",,"AVL ay stricter balance, red-black ay less rotations."
+Red-Black Tree,"Ano ang difference ng red-black at AVL tree?",,"Red-black ay mas mabilis sa insertion, AVL ay mas balanced."
+AVL Tree,"Paano mo i-maintain ang balance sa AVL tree?",,"Gamitin ang left at right rotation."
+Red-Black Tree,"Paano mo i-maintain ang balance sa red-black tree?",,"Gamitin ang color flips at rotations."
+AVL Tree,"Ano ang time complexity ng AVL tree operations?",,"O(log n) guaranteed."
+Red-Black Tree,"Ano ang time complexity ng red-black tree operations?",,"O(log n) average."
+AVL Tree,"Ano ang disadvantage ng AVL tree?",,"Mas maraming rotations sa insertion at deletion."
+Red-Black Tree,"Ano ang disadvantage ng red-black tree?",,"Hindi ganun ka-balanced kaysa AVL."
+AVL Tree,"Saan ginagamit ang AVL tree?",,"Sa databases at file systems."
+Red-Black Tree,"Saan ginagamit ang red-black tree?",,"Sa Java TreeMap at C++ std::map."
+AVL Tree,"Paano mo mag-insert sa AVL tree?",,"Insert tapos balance gamit ang rotations."
+Red-Black Tree,"Paano mo mag-insert sa red-black tree?",,"Insert tapos i-color at i-balance."
+AVL Tree,"Paano mo mag-delete sa AVL tree?",,"Delete tapos balance gamit ang rotations."
+Red-Black Tree,"Paano mo mag-delete sa red-black tree?",,"Delete tapos i-color at i-balance."
+AVL Tree,"Ano ang height constraint ng AVL tree?",,"Height difference ng left at right subtree ay at most 1."
+Red-Black Tree,"Ano ang property ng red-black tree?",,"Red nodes ay hindi magkaka-ugnay, black height ay equal."
