@@ -1,0 +1,20 @@
+Error Handling,"Ang {{c1::Error Handling}} ay ang paghawak ng exceptions nang maayos.",,Error Handling
+Logging,"Ang {{c1::Logging}} ay ang pagtala ng important events.",,Logging
+Security Best Practices,"Ang mga {{c1::Security Best Practices}} ay ang pag-secure ng application.",,Security Best Practices
+Authentication Guards,"Ang mga {{c1::Authentication Guards}} ay ang pag-manage ng multiple auth systems.",,Authentication Guards
+Error Handling,"Ang {{c1::Error Handling}} ay paghawak ng exceptions nang maayos.",,Error Handling
+Logging,"Ang {{c1::Logging}} ay pagtala ng important events.",,Logging
+Security Best Practices,"Ang mga {{c1::Security Best Practices}} ay pag-secure ng application.",,Security Best Practices
+Authentication Guards,"Ang mga {{c1::Authentication Guards}} ay pag-manage ng multiple auth systems.",,Authentication Guards
+Error Handling,"Ang {{c1::Error Handling}} ay para sa exception management.",,Error Handling
+Logging,"Ang {{c1::Logging}} ay para sa event tracking.",,Logging
+Security Best Practices,"Ang mga {{c1::Security Best Practices}} ay para sa application security.",,Security Best Practices
+Authentication Guards,"Ang mga {{c1::Authentication Guards}} ay para sa auth system management.",,Authentication Guards
+Error Handling,"Paano mo i-handle ang exceptions nang maayos?",,"Gamitin ang error handling."
+Logging,"Paano mo ito-track ang important events?",,"Gamitin ang logging."
+Security Best Practices,"Paano mo i-secure ang application?",,"Gamitin ang security best practices."
+Authentication Guards,"Paano mo i-manage ang multiple auth systems?",,"Gamitin ang authentication guards."
+Error Handling,"Ano ang tawag sa paghawak ng exceptions nang maayos?",,"Error handling."
+Logging,"Ano ang tawag sa pagtala ng important events?",,"Logging."
+Security Best Practices,"Ano ang tawag sa pag-secure ng application?",,"Security best practices."
+Authentication Guards,"Ano ang tawag sa pag-manage ng multiple auth systems?",,"Authentication guards."
