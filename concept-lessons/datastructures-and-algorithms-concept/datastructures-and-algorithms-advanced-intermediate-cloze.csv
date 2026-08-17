@@ -1,0 +1,20 @@
+Breadth-First Search,"Ang {{c1::Breadth-First Search}} ay ang pag-traverse ng graph level by level.",,Breadth-First Search
+Depth-First Search,"Ang {{c1::Depth-First Search}} ay ang pag-traverse ng graph gamit ang stack.",,Depth-First Search
+Topological Sort,"Ang {{c1::Topological Sort}} ay ang pag-order ng vertices sa DAG.",,Topological Sort
+Cycle Detection,"Ang {{c1::Cycle Detection}} ay ang pag-detect ng cycle sa graph.",,Cycle Detection
+Breadth-First Search,"Ang {{c1::Breadth-First Search}} ay pag-traverse ng graph level by level.",,Breadth-First Search
+Depth-First Search,"Ang {{c1::Depth-First Search}} ay pag-traverse ng graph gamit ang stack.",,Depth-First Search
+Topological Sort,"Ang {{c1::Topological Sort}} ay pag-order ng vertices sa DAG.",,Topological Sort
+Cycle Detection,"Ang {{c1::Cycle Detection}} ay pag-detect ng cycle sa graph.",,Cycle Detection
+Breadth-First Search,"Ang {{c1::Breadth-First Search}} ay para sa shortest path sa unweighted graph.",,Breadth-First Search
+Depth-First Search,"Ang {{c1::Depth-First Search}} ay para sa path finding at cycle detection.",,Depth-First Search
+Topological Sort,"Ang {{c1::Topological Sort}} ay para sa task scheduling.",,Topological Sort
+Cycle Detection,"Ang {{c1::Cycle Detection}} ay para sa deadlock detection.",,Cycle Detection
+Breadth-First Search,"Paano mo i-traverse ang graph level by level?",,"Gamitin ang breadth-first search."
+Depth-First Search,"Paano mo i-traverse ang graph gamit ang stack?",,"Gamitin ang depth-first search."
+Topological Sort,"Paano mo i-order ang vertices sa DAG?",,"Gamitin ang topological sort."
+Cycle Detection,"Paano mo i-detect ang cycle sa graph?",,"Gamitin ang cycle detection."
+Breadth-First Search,"Ano ang tawag sa pag-traverse ng graph level by level?",,"Breadth-first search."
+Depth-First Search,"Ano ang tawag sa pag-traverse ng graph gamit ang stack?",,"Depth-first search."
+Topological Sort,"Ano ang tawag sa pag-order ng vertices sa DAG?",,"Topological sort."
+Cycle Detection,"Ano ang tawag sa pag-detect ng cycle sa graph?",,"Cycle detection."

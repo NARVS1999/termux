@@ -1,0 +1,8 @@
+Breadth-First Search,"Paano mo i-traverse ang graph level by level?",,"Gamitin ang breadth-first search."
+Depth-First Search,"Paano mo i-traverse ang graph gamit ang stack?",,"Gamitin ang depth-first search."
+Topological Sort,"Paano mo i-order ang vertices sa DAG?",,"Gamitin ang topological sort."
+Cycle Detection,"Paano mo i-detect ang cycle sa graph?",,"Gamitin ang cycle detection."
+Breadth-First Search,"Ano ang tawag sa pag-traverse ng graph level by level?",,"Breadth-first search."
+Depth-First Search,"Ano ang tawag sa pag-traverse ng graph gamit ang stack?",,"Depth-first search."
+Topological Sort,"Ano ang tawag sa pag-order ng vertices sa DAG?",,"Topological sort."
+Cycle Detection,"Ano ang tawag sa pag-detect ng cycle sa graph?",,"Cycle detection."

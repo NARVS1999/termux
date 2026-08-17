@@ -1,0 +1,30 @@
+Dijkstra's Algorithm,"Ang {{c1::Dijkstra's Algorithm}} ay ang shortest path algorithm para sa weighted graphs.",,Dijkstra's Algorithm
+Bellman-Ford Algorithm,"Ang {{c1::Bellman-Ford Algorithm}} ay ang shortest path algorithm na kaya ang negative weights.",,Bellman-Ford Algorithm
+Floyd-Warshall Algorithm,"Ang {{c1::Floyd-Warshall Algorithm}} ay ang all-pairs shortest path algorithm.",,Floyd-Warshall Algorithm
+Kruskal's Algorithm,"Ang {{c1::Kruskal's Algorithm}} ay ang minimum spanning tree algorithm gamit ang greedy.",,Kruskal's Algorithm
+Prim's Algorithm,"Ang {{c1::Prim's Algorithm}} ay ang minimum spanning tree algorithm gamit ang priority queue.",,Prim's Algorithm
+Strongly Connected Components,"Ang {{c1::Strongly Connected Components}} ay ang maximal na set ng reachable vertices.",,Strongly Connected Components
+Dijkstra's Algorithm,"Ang {{c1::Dijkstra's Algorithm}} ay shortest path algorithm para sa weighted graphs.",,Dijkstra's Algorithm
+Bellman-Ford Algorithm,"Ang {{c1::Bellman-Ford Algorithm}} ay shortest path algorithm na kaya ang negative weights.",,Bellman-Ford Algorithm
+Floyd-Warshall Algorithm,"Ang {{c1::Floyd-Warshall Algorithm}} ay all-pairs shortest path algorithm.",,Floyd-Warshall Algorithm
+Kruskal's Algorithm,"Ang {{c1::Kruskal's Algorithm}} ay minimum spanning tree algorithm gamit ang greedy.",,Kruskal's Algorithm
+Prim's Algorithm,"Ang {{c1::Prim's Algorithm}} ay minimum spanning tree algorithm gamit ang priority queue.",,Prim's Algorithm
+Strongly Connected Components,"Ang {{c1::Strongly Connected Components}} ay maximal na set ng reachable vertices.",,Strongly Connected Components
+Dijkstra's Algorithm,"Ang {{c1::Dijkstra's Algorithm}} ay para sa shortest path sa weighted graph.",,Dijkstra's Algorithm
+Bellman-Ford Algorithm,"Ang {{c1::Bellman-Ford Algorithm}} ay para sa shortest path na may negative weights.",,Bellman-Ford Algorithm
+Floyd-Warshall Algorithm,"Ang {{c1::Floyd-Warshall Algorithm}} ay para sa all-pairs shortest path.",,Floyd-Warshall Algorithm
+Kruskal's Algorithm,"Ang {{c1::Kruskal's Algorithm}} ay para sa minimum spanning tree.",,Kruskal's Algorithm
+Prim's Algorithm,"Ang {{c1::Prim's Algorithm}} ay para sa minimum spanning tree.",,Prim's Algorithm
+Strongly Connected Components,"Ang {{c1::Strongly Connected Components}} ay para sa graph analysis.",,Strongly Connected Components
+Dijkstra's Algorithm,"Paano mo mahanap ang shortest path sa weighted graph?",,"Gamitin ang Dijkstra's algorithm."
+Bellman-Ford Algorithm,"Paano mo mahanap ang shortest path na may negative weights?",,"Gamitin ang Bellman-Ford algorithm."
+Floyd-Warshall Algorithm,"Paano mo mahanap ang shortest path sa lahat ng pairs?",,"Gamitin ang Floyd-Warshall algorithm."
+Kruskal's Algorithm,"Paano mo mahanap ang minimum spanning tree gamit ang greedy?",,"Gamitin ang Kruskal's algorithm."
+Prim's Algorithm,"Paano mo mahanap ang minimum spanning tree gamit ang priority queue?",,"Gamitin ang Prim's algorithm."
+Strongly Connected Components,"Paano mo hanapin ang strongly connected components?",,"Gamitin ang Tarjan's o Kosaraju's algorithm."
+Dijkstra's Algorithm,"Ano ang tawag sa shortest path algorithm para sa weighted graphs?",,"Dijkstra's algorithm."
+Bellman-Ford Algorithm,"Ano ang tawag sa shortest path algorithm na kaya ang negative weights?",,"Bellman-Ford algorithm."
+Floyd-Warshall Algorithm,"Ano ang tawag sa all-pairs shortest path algorithm?",,"Floyd-Warshall algorithm."
+Kruskal's Algorithm,"Ano ang tawag sa minimum spanning tree algorithm gamit ang greedy?",,"Kruskal's algorithm."
+Prim's Algorithm,"Ano ang tawag sa minimum spanning tree algorithm gamit ang priority queue?",,"Prim's algorithm."
+Strongly Connected Components,"Ano ang tawag sa maximal na set ng reachable vertices?",,"Strongly connected components."
