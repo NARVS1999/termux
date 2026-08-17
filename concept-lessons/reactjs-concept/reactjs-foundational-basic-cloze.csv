@@ -1,0 +1,40 @@
+JSX,"Ang {{c1::JSX}} ay ang HTML-like syntax sa loob ng JavaScript.",,JSX
+Components,"Ang mga {{c1::Components}} ay ang reusable na UI pieces na may sariling laman.",,Components
+Props,"Ang mga {{c1::Props}} ay ang data na pinapasa mula parent papunta sa child.",,Props
+State,"Ang {{c1::State}} ay ang internal data ng component na nagbabago.",,State
+Virtual DOM,"Ang {{c1::Virtual DOM}} ay ang lightweight na representation ng real DOM.",,Virtual DOM
+One-Way Data Flow,"Ang {{c1::One-Way Data Flow}} ay ang data ay pababa lang mula parent sa child.",,One-Way Data Flow
+Fragments,"Ang mga {{c1::Fragments}} ay ang pag-group ng elements nang walang extra wrapper.",,Fragments
+Keys,"Ang mga {{c1::Keys}} ay ang unique na identifier para sa lists ng elements.",,Keys
+JSX,"Ang {{c1::JSX}} ay HTML-like syntax sa loob ng JavaScript.",,JSX
+Components,"Ang mga {{c1::Components}} ay reusable na UI pieces na may sariling laman.",,Components
+Props,"Ang mga {{c1::Props}} ay data na pinapasa mula parent papunta sa child.",,Props
+State,"Ang {{c1::State}} ay internal data ng component na nagbabago.",,State
+Virtual DOM,"Ang {{c1::Virtual DOM}} ay lightweight na representation ng real DOM.",,Virtual DOM
+One-Way Data Flow,"Ang {{c1::One-Way Data Flow}} ay data ay pababa lang mula parent sa child.",,One-Way Data Flow
+Fragments,"Ang mga {{c1::Fragments}} ay pag-group ng elements nang walang extra wrapper.",,Fragments
+Keys,"Ang mga {{c1::Keys}} ay unique na identifier para sa lists ng elements.",,Keys
+JSX,"Ang {{c1::JSX}} ay para sa UI rendering sa React.",,JSX
+Components,"Ang mga {{c1::Components}} ay para sa reusable na UI.",,Components
+Props,"Ang mga {{c1::Props}} ay para sa data passing.",,Props
+State,"Ang {{c1::State}} ay para sa mutable na data.",,State
+Virtual DOM,"Ang {{c1::Virtual DOM}} ay para sa efficient na updates.",,Virtual DOM
+One-Way Data Flow,"Ang {{c1::One-Way Data Flow}} ay para sa predictable na data flow.",,One-Way Data Flow
+Fragments,"Ang mga {{c1::Fragments}} ay para sa grouping ng elements.",,Fragments
+Keys,"Ang mga {{c1::Keys}} ay para sa list rendering.",,Keys
+JSX,"Paano mo irerender ang UI sa React?",,"Gamitin ang JSX."
+Components,"Paano mo gagawa ng reusable na UI?",,"Gamitin ang components."
+Props,"Paano mo ipapasa ang data mula parent sa child?",,"Gamitin ang props."
+State,"Paano mo i-manage ang internal data ng component?",,"Gamitin ang state."
+Virtual DOM,"Paano mo pabilisin ang UI updates?",,"Gamitin ang virtual DOM."
+One-Way Data Flow,"Paano mo gagawin ang predictable na data flow?",,"Gamitin ang one-way data flow."
+Fragments,"Paano mo i-group ang elements nang walang extra wrapper?",,"Gamitin ang fragments."
+Keys,"Paano mo i-identify ang bawat item sa list?",,"Gamitin ang keys."
+JSX,"Ano ang tawag sa HTML-like syntax sa loob ng JavaScript?",,"JSX."
+Components,"Ano ang tawag sa reusable na UI pieces na may sariling laman?",,"Components."
+Props,"Ano ang tawag sa data na pinapasa mula parent papunta sa child?",,"Props."
+State,"Ano ang tawag sa internal data ng component na nagbabago?",,"State."
+Virtual DOM,"Ano ang tawag sa lightweight na representation ng real DOM?",,"Virtual DOM."
+One-Way Data Flow,"Ano ang tawag sa data ay pababa lang mula parent sa child?",,"One-way data flow."
+Fragments,"Ano ang tawag sa pag-group ng elements nang walang extra wrapper?",,"Fragments."
+Keys,"Ano ang tawag sa unique na identifier para sa lists ng elements?",,"Keys."
