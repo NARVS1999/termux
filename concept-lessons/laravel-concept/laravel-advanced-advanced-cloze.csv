@@ -1,0 +1,35 @@
+Race Conditions,"Ang mga {{c1::Race Conditions}} ay ang pagprotekta ng shared data mula sa concurrent access.",,Race Conditions
+Idempotency,"Ang {{c1::Idempotency}} ay ang pagtiyak na hindi magdoble ang effect ng repeated requests.",,Idempotency
+Distributed Locking,"Ang {{c1::Distributed Locking}} ay ang locking sa multiple servers.",,Distributed Locking
+Event Sourcing,"Ang {{c1::Event Sourcing}} ay ang pag-record ng lahat ng changes bilang events.",,Event Sourcing
+CQRS,"Ang {{c1::CQRS}} ay ang paghihiwalay ng read at write operations.",,CQRS
+Domain-Driven Design,"Ang {{c1::Domain-Driven Design}} ay ang pag-model ng business domain sa code.",,Domain-Driven Design
+Hexagonal Architecture,"Ang {{c1::Hexagonal Architecture}} ay ang paghihiwalay ng core logic sa infrastructure.",,Hexagonal Architecture
+Race Conditions,"Ang mga {{c1::Race Conditions}} ay pagprotekta ng shared data mula sa concurrent access.",,Race Conditions
+Idempotency,"Ang {{c1::Idempotency}} ay pagtiyak na hindi magdoble ang effect ng repeated requests.",,Idempotency
+Distributed Locking,"Ang {{c1::Distributed Locking}} ay locking sa multiple servers.",,Distributed Locking
+Event Sourcing,"Ang {{c1::Event Sourcing}} ay pag-record ng lahat ng changes bilang events.",,Event Sourcing
+CQRS,"Ang {{c1::CQRS}} ay paghihiwalay ng read at write operations.",,CQRS
+Domain-Driven Design,"Ang {{c1::Domain-Driven Design}} ay pag-model ng business domain sa code.",,Domain-Driven Design
+Hexagonal Architecture,"Ang {{c1::Hexagonal Architecture}} ay paghihiwalay ng core logic sa infrastructure.",,Hexagonal Architecture
+Race Conditions,"Ang mga {{c1::Race Conditions}} ay para sa data protection.",,Race Conditions
+Idempotency,"Ang {{c1::Idempotency}} ay para sa safe na repeated requests.",,Idempotency
+Distributed Locking,"Ang {{c1::Distributed Locking}} ay para sa multi-server coordination.",,Distributed Locking
+Event Sourcing,"Ang {{c1::Event Sourcing}} ay para sa event-based na tracking.",,Event Sourcing
+CQRS,"Ang {{c1::CQRS}} ay para sa read-write separation.",,CQRS
+Domain-Driven Design,"Ang {{c1::Domain-Driven Design}} ay para sa business domain modeling.",,Domain-Driven Design
+Hexagonal Architecture,"Ang {{c1::Hexagonal Architecture}} ay para sa core-infrastructure separation.",,Hexagonal Architecture
+Race Conditions,"Paano mo poprotektahan ang shared data mula sa concurrent access?",,"Gamitin ang race condition handling."
+Idempotency,"Paano mo tiyakin na hindi magdoble ang effect ng repeated requests?",,"Gamitin ang idempotency."
+Distributed Locking,"Paano mo i-lock ang data sa multiple servers?",,"Gamitin ang distributed locking."
+Event Sourcing,"Paano mo i-record ang lahat ng changes bilang events?",,"Gamitin ang event sourcing."
+CQRS,"Paano mo i-separate ang read at write operations?",,"Gamitin ang CQRS."
+Domain-Driven Design,"Paano mo i-model ang business domain sa code?",,"Gamitin ang domain-driven design."
+Hexagonal Architecture,"Paano mo i-separate ang core logic sa infrastructure?",,"Gamitin ang hexagonal architecture."
+Race Conditions,"Ano ang tawag sa pagprotekta ng shared data mula sa concurrent access?",,"Race conditions."
+Idempotency,"Ano ang tawag sa pagtiyak na hindi magdoble ang effect ng repeated requests?",,"Idempotency."
+Distributed Locking,"Ano ang tawag sa locking sa multiple servers?",,"Distributed locking."
+Event Sourcing,"Ano ang tawag sa pag-record ng lahat ng changes bilang events?",,"Event sourcing."
+CQRS,"Ano ang tawag sa paghihiwalay ng read at write operations?",,"CQRS."
+Domain-Driven Design,"Ano ang tawag sa pag-model ng business domain sa code?",,"Domain-driven design."
+Hexagonal Architecture,"Ano ang tawag sa paghihiwalay ng core logic sa infrastructure?",,"Hexagonal architecture."
