@@ -1,0 +1,56 @@
+CAP Theorem,"Ang {{c1::CAP Theorem}} ay ang trade-offs sa distributed database systems.",,CAP Theorem
+BASE Properties,"Ang mga {{c1::BASE Properties}} ay ang alternative sa ACID para sa scalability.",,BASE Properties
+Eventual Consistency,"Ang {{c1::Eventual Consistency}} ay ang pagtanggap ng temporary na inconsistency.",,Eventual Consistency
+Database Migration Strategies,"Ang mga {{c1::Database Migration Strategies}} ay ang paglipat ng database sa bagong system.",,Database Migration Strategies
+Multi-tenancy Design,"Ang {{c1::Multi-tenancy Design}} ay ang pag-share ng database sa maraming tenants.",,Multi-tenancy Design
+Data Governance,"Ang {{c1::Data Governance}} ay ang pag-manage ng data quality at compliance.",,Data Governance
+Schema Evolution,"Ang {{c1::Schema Evolution}} ay ang pagbabago ng schema nang walang downtime.",,Schema Evolution
+NewSQL & Distributed SQL,"Ang {{c1::NewSQL & Distributed SQL}} ay ang bagong approach sa scalable transactions.",,NewSQL & Distributed SQL
+CAP Theorem,"Ang {{c1::CAP Theorem}} ay trade-offs sa distributed systems.",,CAP Theorem
+BASE Properties,"Ang mga {{c1::BASE Properties}} ay alternative sa ACID.",,BASE Properties
+Eventual Consistency,"Ang {{c1::Eventual Consistency}} ay pagtanggap ng temporary na inconsistency.",,Eventual Consistency
+Database Migration Strategies,"Ang mga {{c1::Database Migration Strategies}} ay paglipat ng database.",,Database Migration Strategies
+Multi-tenancy Design,"Ang {{c1::Multi-tenancy Design}} ay pag-share ng database sa tenants.",,Multi-tenancy Design
+Data Governance,"Ang {{c1::Data Governance}} ay pag-manage ng data quality.",,Data Governance
+Schema Evolution,"Ang {{c1::Schema Evolution}} ay pagbabago ng schema nang walang downtime.",,Schema Evolution
+NewSQL & Distributed SQL,"Ang {{c1::NewSQL & Distributed SQL}} ay bagong approach sa scalable transactions.",,NewSQL & Distributed SQL
+CAP Theorem,"Ang {{c1::CAP Theorem}} ay para sa pagpili ng trade-offs.",,CAP Theorem
+BASE Properties,"Ang mga {{c1::BASE Properties}} ay para sa scalability.",,BASE Properties
+Eventual Consistency,"Ang {{c1::Eventual Consistency}} ay para sa distributed systems.",,Eventual Consistency
+Database Migration Strategies,"Ang mga {{c1::Database Migration Strategies}} ay para sa system migration.",,Database Migration Strategies
+Multi-tenancy Design,"Ang {{c1::Multi-tenancy Design}} ay para sa shared database.",,Multi-tenancy Design
+Data Governance,"Ang {{c1::Data Governance}} ay para sa data compliance.",,Data Governance
+Schema Evolution,"Ang {{c1::Schema Evolution}} ay para sa zero-downtime na changes.",,Schema Evolution
+NewSQL & Distributed SQL,"Ang {{c1::NewSQL & Distributed SQL}} ay para sa scalable na transactions.",,NewSQL & Distributed SQL
+CAP Theorem,"Paano mo pipiliin ang trade-offs sa distributed systems?",,"Tingnan ang CAP theorem."
+BASE Properties,"Paano mo gagamitin ang alternative sa ACID?",,"Gamitin ang BASE properties."
+Eventual Consistency,"Paano mo tatanggapin ang temporary na inconsistency?",,"Gamitin ang eventual consistency."
+Database Migration Strategies,"Paano mo ililipat ang database sa bagong system?",,"Gamitin ang database migration strategies."
+Multi-tenancy Design,"Paano mo i-share ang database sa maraming tenants?",,"Gamitin ang multi-tenancy design."
+Data Governance,"Paano mo i-manage ang data quality at compliance?",,"Gamitin ang data governance."
+Schema Evolution,"Paano mo babaguhin ang schema nang walang downtime?",,"Gamitin ang schema evolution."
+NewSQL & Distributed SQL,"Paano mo gagamitin ang bagong approach sa scalable transactions?",,"Gamitin ang NewSQL at distributed SQL."
+CAP Theorem,"Ano ang tawag sa trade-offs sa distributed systems?",,"CAP theorem."
+BASE Properties,"Ano ang tawag sa alternative sa ACID?",,"BASE properties."
+Eventual Consistency,"Ano ang tawag sa pagtanggap ng temporary na inconsistency?",,"Eventual consistency."
+Database Migration Strategies,"Ano ang tawag sa paglipat ng database sa bagong system?",,"Database migration strategies."
+Multi-tenancy Design,"Ano ang tawag sa pag-share ng database sa maraming tenants?",,"Multi-tenancy design."
+Data Governance,"Ano ang tawag sa pag-manage ng data quality at compliance?",,"Data governance."
+Schema Evolution,"Ano ang tawag sa pagbabago ng schema nang walang downtime?",,"Schema evolution."
+NewSQL & Distributed SQL,"Ano ang tawag sa bagong approach sa scalable transactions?",,"NewSQL at distributed SQL."
+CAP Theorem,"Ano ang benefit ng CAP theorem?",,"Na-pili ang tamang trade-offs."
+BASE Properties,"Ano ang benefit ng BASE properties?",,"Mas scalable na system."
+Eventual Consistency,"Ano ang benefit ng eventual consistency?",,"Mas mabilis na writes."
+Database Migration Strategies,"Ano ang benefit ng database migration strategies?",,"Smooth na transition sa bagong system."
+Multi-tenancy Design,"Ano ang benefit ng multi-tenancy design?",,"Mas efficient na resource usage."
+Data Governance,"Ano ang benefit ng data governance?",,"Mas mataas na data quality."
+Schema Evolution,"Ano ang benefit ng schema evolution?",,"Zero-downtime na schema changes."
+NewSQL & Distributed SQL,"Ano ang benefit ng NewSQL at distributed SQL?",,"Scalable at consistent na transactions."
+CAP Theorem,"Bakit kailangan ng CAP theorem?",,"Para sa understanding ng distributed system trade-offs."
+BASE Properties,"Bakit kailangan ng BASE properties?",,"Para sa scalable na applications."
+Eventual Consistency,"Bakit kailangan ng eventual consistency?",,"Para sa high availability ng system."
+Database Migration Strategies,"Bakit kailangan ng database migration strategies?",,"Para sa smooth na system migration."
+Multi-tenancy Design,"Bakit kailangan ng multi-tenancy design?",,"Para sa cost-effective na database sharing."
+Data Governance,"Bakit kailangan ng data governance?",,"Para sa compliance at data quality."
+Schema Evolution,"Bakit kailangan ng schema evolution?",,"Para sa walang downtime na changes."
+NewSQL & Distributed SQL,"Bakit kailangan ng NewSQL at distributed SQL?",,"Para sa scalable na transactions."
