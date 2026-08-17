@@ -1,0 +1,21 @@
+Variables,"Ang mga {{c1::Variables}} ay ang lalagyan ng data gamit ang let, const, var.",,Variables
+Data Types,"Ang mga {{c1::Data Types}} ay ang mga uri ng data gaya ng string, number, boolean.",,Data Types
+Operators,"Ang mga {{c1::Operators}} ay ang mga symbol para sa math at comparison.",,Operators
+String Methods,"Ang mga {{c1::String Methods}} ay ang mga built-in na function para sa text.",,String Methods
+Number Methods,"Ang mga {{c1::Number Methods}} ay ang mga built-in na function para sa numbers.",,Number Methods
+Template Literals,"Ang mga {{c1::Template Literals}} ay ang pag-interpolate ng variables sa string.",,Template Literals
+Comments,"Ang mga {{c1::Comments}} ay ang mga notes na hindi pinapatakbo.",,Comments
+Variables,"Ang mga {{c1::Variables}} ay lalagyan ng data.",,Variables
+Data Types,"Ang mga {{c1::Data Types}} ay mga uri ng data.",,Data Types
+Operators,"Ang mga {{c1::Operators}} ay mga symbol para sa math.",,Operators
+String Methods,"Ang mga {{c1::String Methods}} ay built-in na functions para sa text.",,String Methods
+Number Methods,"Ang mga {{c1::Number Methods}} ay built-in na functions para sa numbers.",,Number Methods
+Template Literals,"Ang mga {{c1::Template Literals}} ay para sa variable interpolation.",,Template Literals
+Comments,"Ang mga {{c1::Comments}} ay notes na hindi pinapatakbo.",,Comments
+Variables,"Ang mga {{c1::Variables}} ay para sa pag-iimbak ng data.",,Variables
+Data Types,"Ang mga {{c1::Data Types}} ay para sa pag-classify ng data.",,Data Types
+Operators,"Ang mga {{c1::Operators}} ay para sa operations.",,Operators
+String Methods,"Ang mga {{c1::String Methods}} ay para sa text manipulation.",,String Methods
+Number Methods,"Ang mga {{c1::Number Methods}} ay para sa number operations.",,Number Methods
+Template Literals,"Ang mga {{c1::Template Literals}} ay para sa string interpolation.",,Template Literals
+Comments,"Ang mga {{c1::Comments}} ay para sa documentation.",,Comments
