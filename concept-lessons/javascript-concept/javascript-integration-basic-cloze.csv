@@ -1,0 +1,12 @@
+Local Storage,"Ang {{c1::Local Storage}} ay ang pag-iimbak ng data sa browser.",,Local Storage
+JSON,"Ang {{c1::JSON}} ay ang standard na format para sa data exchange.",,JSON
+Local Storage,"Ang {{c1::Local Storage}} ay pag-iimbak ng data sa browser.",,Local Storage
+JSON,"Ang {{c1::JSON}} ay standard na format para sa data exchange.",,JSON
+Local Storage,"Ang {{c1::Local Storage}} ay para sa client-side na data storage.",,Local Storage
+JSON,"Ang {{c1::JSON}} ay para sa data serialization.",,JSON
+Local Storage,"Paano mo i-store ang data sa browser?",,"Gamitin ang local storage."
+JSON,"Paano mo i-serialize ang data?",,"Gamitin ang JSON."
+Local Storage,"Ano ang tawag sa pag-iimbak ng data sa browser?",,"Local storage."
+JSON,"Ano ang tawag sa standard na format para sa data exchange?",,"JSON."
+Local Storage,"Ano ang benefit ng local storage?",,"Persistent na data sa browser."
+JSON,"Ano ang benefit ng JSON?",,"Standard na format para sa data exchange."

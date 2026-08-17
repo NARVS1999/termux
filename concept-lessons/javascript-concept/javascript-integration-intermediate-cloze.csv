@@ -1,0 +1,25 @@
+DOM Manipulation,"Ang {{c1::DOM Manipulation}} ay ang pagbago ng HTML elements gamit ang JavaScript.",,DOM Manipulation
+Event Listeners,"Ang mga {{c1::Event Listeners}} ay ang pag-react sa user actions gaya ng click.",,Event Listeners
+Fetch API,"Ang {{c1::Fetch API}} ay ang paggawa ng HTTP requests sa server.",,Fetch API
+AJAX,"Ang {{c1::AJAX}} ay ang pag-load ng data nang hindi nagre-refresh ng page.",,AJAX
+Web APIs,"Ang mga {{c1::Web APIs}} ay ang mga built-in na APIs ng browser.",,Web APIs
+DOM Manipulation,"Ang {{c1::DOM Manipulation}} ay pagbago ng HTML elements gamit ang JavaScript.",,DOM Manipulation
+Event Listeners,"Ang mga {{c1::Event Listeners}} ay pag-react sa user actions.",,Event Listeners
+Fetch API,"Ang {{c1::Fetch API}} ay paggawa ng HTTP requests.",,Fetch API
+AJAX,"Ang {{c1::AJAX}} ay pag-load ng data nang hindi nagre-refresh.",,AJAX
+Web APIs,"Ang mga {{c1::Web APIs}} ay built-in na APIs ng browser.",,Web APIs
+DOM Manipulation,"Ang {{c1::DOM Manipulation}} ay para sa dynamic na UI.",,DOM Manipulation
+Event Listeners,"Ang mga {{c1::Event Listeners}} ay para sa user interaction.",,Event Listeners
+Fetch API,"Ang {{c1::Fetch API}} ay para sa server communication.",,Fetch API
+AJAX,"Ang {{c1::AJAX}} ay para sa asynchronous data loading.",,AJAX
+Web APIs,"Ang mga {{c1::Web APIs}} ay para sa browser features.",,Web APIs
+DOM Manipulation,"Paano mo i-modify ang HTML elements?",,"Gamitin ang DOM manipulation."
+Event Listeners,"Paano mo i-handle ang user actions?",,"Gamitin ang event listeners."
+Fetch API,"Paano mo gagawa ng HTTP requests?",,"Gamitin ang fetch API."
+AJAX,"Paano mo i-load ang data nang hindi nagre-refresh?",,"Gamitin ang AJAX."
+Web APIs,"Paano mo gagamitin ang built-in na APIs ng browser?",,"Gamitin ang web APIs."
+DOM Manipulation,"Ano ang tawag sa pagbago ng HTML elements gamit ang JavaScript?",,"DOM manipulation."
+Event Listeners,"Ano ang tawag sa pag-react sa user actions?",,"Event listeners."
+Fetch API,"Ano ang tawag sa paggawa ng HTTP requests?",,"Fetch API."
+AJAX,"Ano ang tawag sa pag-load ng data nang hindi nagre-refresh?",,"AJAX."
+Web APIs,"Ano ang tawag sa built-in na APIs ng browser?",,"Web APIs."
