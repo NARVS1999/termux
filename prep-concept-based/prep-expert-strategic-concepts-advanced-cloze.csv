@@ -1,0 +1,21 @@
+Layered Architecture,"Ang {{c1::Layered Architecture}} ay separation ng concerns sa presentation, business, at data layers.",,layered
+Layered Architecture,"Gamit ang {{c1::Controllers}}, {{c1::Services}}, at {{c1::Repositories}}, i-organize ang code.",,layered
+Layered Architecture,Ang {{c1::Layered Architecture}} ay nagpo-promote ng maintainability at testability.,,layered
+Service Layer Pattern,Ang {{c1::Service Layer Pattern}} ay centralized business logic sa dedicated services.,,service
+Service Layer Pattern,"Gamit ang {{c1::Service Classes}}, i-encapsulate ang complex business operations.",,service
+Service Layer Pattern,Ang {{c1::Service Layer}} ay nagpo-keep ng controllers thin at focused sa HTTP concerns.,,service
+Clean Architecture,Ang {{c1::Clean Architecture}} ay concentric circles na dependency rule.,,clean
+Clean Architecture,"Gamit ang {{c1::Entities}}, {{c1::Use Cases}}, at {{c1::Controllers}}, i-separate ang concerns.",,clean
+Clean Architecture,Ang {{c1::Clean Architecture}} ay nagpo-ensure ng independence ng business logic sa frameworks.,,clean
+Multi-Tenant Architecture,Ang {{c1::Multi-Tenant}} ay architecture na nagso-serve ng multiple tenants sa iisang app.,,multi-tenant
+Multi-Tenant Architecture,"Gamit ang {{c1::shared database}} o {{c1::database-per-tenant}}, i-isolate ang tenant data.",,multi-tenant
+Multi-Tenant Architecture,Ang {{c1::Multi-Tenant}} ay nagpo-require ng careful data isolation at resource management.,,multi-tenant
+Modular Architecture,Ang {{c1::Modular Architecture}} ay package-based code organization.,,modular
+Modular Architecture,"Gamit ang {{c1::Laravel Modules}}, pwede mong i-separate ang features sa independent packages.",,modular
+Modular Architecture,Ang {{c1::Modular Architecture}} ay nagpo-promote ng reusability at maintainability.,,modular
+Nginx & PHP-FPM,Ang {{c1::Nginx}} ay web server para sa serving ng static files at reverse proxy.,,nginx
+Nginx & PHP-FPM,Ang {{c1::PHP-FPM}} ay process manager para sa PHP applications.,,nginx
+Nginx & PHP-FPM,"Gamit ang {{c1::Nginx}} at {{c1::PHP-FPM}} together, i-optimize ang PHP application serving.",,nginx
+Deployment Strategies,Ang {{c1::Deployment Strategies}} ay methods para sa pag-release ng bagong versions.,,deployment
+Deployment Strategies,"Gamit ang {{c1::blue-green}}, {{c1::rolling}}, o {{c1::canary}} deployments, i-minimize ang downtime.",,deployment
+Deployment Strategies,Ang {{c1::Deployment Strategies}} ay nagpo-ensure ng smooth at safe deployments.,,deployment

@@ -1,0 +1,3 @@
+SOLID: Single Responsibility,Ang {{c1::Single Responsibility Principle}} ay nagsasabing isang class ay dapat may isang responsibility lang.,,solid:
+SOLID: Single Responsibility,"Kapag ang class ay may maraming responsibilidad, mahirap i-maintain at i-test.",,solid:
+SOLID: Single Responsibility,"Gamit ang {{c1::SRP}}, bawat class ay may iisang dahilan para magbago.",,solid:

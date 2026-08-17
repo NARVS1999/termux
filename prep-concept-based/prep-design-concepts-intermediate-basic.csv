@@ -1,0 +1,18 @@
+Migrations,Paano mo i-apply ang Migrations sa Laravel project?,,Gamit ang proper configuration at implementation.
+Migrations,Ano ang use case ng Migrations?,,Ang Migrations ay ginagamit sa version-controlled database schema chang.
+Factories,Paano mo i-apply ang Factories sa Laravel project?,,Gamit ang proper configuration at implementation.
+Factories,Ano ang use case ng Factories?,,Ang Factories ay ginagamit sa pag-generate ng fake model instances.
+Data Integrity,Paano mo i-apply ang Data Integrity sa Laravel project?,,Gamit ang proper configuration at implementation.
+Data Integrity,Ano ang use case ng Data Integrity?,,"Ang Data Integrity ay ginagamit sa constraints, foreign keys, at validation."
+Cache-Aside Pattern,Paano mo i-apply ang Cache-Aside Pattern sa Laravel project?,,Gamit ang proper configuration at implementation.
+Cache-Aside Pattern,Ano ang use case ng Cache-Aside Pattern?,,Ang Cache-Aside Pattern ay ginagamit sa application manages cache reads at write.
+Write-Through Cache,Paano mo i-apply ang Write-Through Cache sa Laravel project?,,Gamit ang proper configuration at implementation.
+Write-Through Cache,Ano ang use case ng Write-Through Cache?,,Ang Write-Through Cache ay ginagamit sa cache updated kasabay ng database write.
+Cache Tags,Paano mo i-apply ang Cache Tags sa Laravel project?,,Gamit ang proper configuration at implementation.
+Cache Tags,Ano ang use case ng Cache Tags?,,Ang Cache Tags ay ginagamit sa granular cache management gamit ang tags.
+Rate Limiting,Paano mo i-apply ang Rate Limiting sa Laravel project?,,Gamit ang proper configuration at implementation.
+Rate Limiting,Ano ang use case ng Rate Limiting?,,Ang Rate Limiting ay ginagamit sa pag-limit ng requests per time window.
+HTTP Caching,Paano mo i-apply ang HTTP Caching sa Laravel project?,,Gamit ang proper configuration at implementation.
+HTTP Caching,Ano ang use case ng HTTP Caching?,,"Ang HTTP Caching ay ginagamit sa ETag, Cache-Control, at Last-Modified he."
+OPcache,Paano mo i-apply ang OPcache sa Laravel project?,,Gamit ang proper configuration at implementation.
+OPcache,Ano ang use case ng OPcache?,,Ang OPcache ay ginagamit sa bytecode caching para sa PHP performance.

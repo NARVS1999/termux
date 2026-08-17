@@ -1,0 +1,22 @@
+Service Container,P,,aano mo i-bind ang isang service sa Laravel Container?
+Service Container,A,,no ang difference ng bind vs singleton sa container?
+Service Providers,K,,ailan mo gagamitin ang register method vs boot method?
+Service Providers,P,,aano mo i-register ang custom service provider?
+Middleware,P,,aano mo gumagawa ng custom middleware sa Laravel?
+Middleware,A,,no ang pwedeng gawin ng middleware sa incoming request?
+Pipeline Pattern,P,,aano mo i-chain ang multiple middleware sa pipeline?
+Pipeline Pattern,A,,no ang use case ng Pipeline Pattern sa Laravel?
+Request Lifecycle,A,,no ang mga stages ng Laravel request lifecycle?
+Request Lifecycle,S,,aan nag-e-enter ang middleware sa request lifecycle?
+Eloquent Relationships,P,,aano mo i-define ang hasMany relationship sa Laravel?
+Eloquent Relationships,A,,no ang difference ng hasOne vs hasMany?
+Eloquent Eager Loading,P,,aano mo i-prevent ang N+1 problem gamit ang eager loading?
+Eloquent Eager Loading,A,,no ang difference ng with() vs load() sa Eloquent?
+N+1 Problem,P,,aano mo detect ang N+1 problem sa Laravel?
+N+1 Problem,A,,no ang solusyon sa N+1 problem?
+Model Events,P,,aano mo mag-listen ng model events sa Laravel?
+Model Events,A,,no ang mga available model events?
+Model Casts,P,,aano mo i-cast ang JSON column sa Laravel?
+Model Casts,A,,no ang custom cast sa Eloquent?
+Query Scopes,P,,aano mo gumawa ng global scope sa Laravel?
+Query Scopes,A,,no ang advantage ng query scopes?

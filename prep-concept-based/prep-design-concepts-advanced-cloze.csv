@@ -1,0 +1,6 @@
+Cache Invalidation,Ang {{c1::Cache Invalidation}} ay pag-clear ng cached data kapag nagbago na ang source.,,cache
+Cache Invalidation,"Gamit ang {{c1::Cache::forget}} o {{c1::Cache::tags}}, i-manage ang cache freshness.",,cache
+Cache Invalidation,Ang {{c1::Cache Invalidation}} ay isang hardest problems sa computer science.,,cache
+Distributed Locks,Ang {{c1::Distributed Locks}} ay cross-instance locking strategies para sa concurrent access.,,distributed
+Distributed Locks,"Gamit ang {{c1::Cache::lock}}, pwede mong i-prevent ang race conditions sa distributed systems.",,distributed
+Distributed Locks,Ang {{c1::Distributed Locks}} ay nagpo-ensure ng exclusive access sa shared resources.,,distributed

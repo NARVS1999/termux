@@ -1,0 +1,22 @@
+RESTful Conventions,A,,no ang tamang HTTP method para sa update operation?
+RESTful Conventions,A,,no ang standard status codes para sa REST API?
+API Versioning,P,,aano mo i-implement ang URL-based versioning?
+API Versioning,A,,no ang advantage ng API versioning?
+Filtering & Sorting,P,,aano mo i-handle ang multiple filter parameters?
+Filtering & Sorting,A,,no ang common patterns para sa API filtering?
+Sanctum,P,,aano mo i-issue ang API token gamit ang Sanctum?
+Sanctum,A,,no ang difference ng Sanctum vs Passport?
+JWT,P,,aano mo i-validate ang JWT token?
+JWT,A,,no ang structure ng JWT payload?
+Webhooks,P,,aano mo i-verify ang webhook signature?
+Webhooks,A,,no ang common use case ng webhooks?
+OWASP Top 10: XSS,P,,aano mo i-prevent ang XSS attack sa Laravel?
+OWASP Top 10: XSS,A,,no ang difference ng stored vs reflected XSS?
+OWASP Top 10: SQLi,P,,aano mo i-prevent ang SQL injection sa Laravel?
+OWASP Top 10: SQLi,B,,akit dangerous ang raw SQL queries?
+OWASP Top 10: CSRF,P,,aano mo i-protect ang form sa CSRF attack?
+OWASP Top 10: CSRF,B,,akit naglo-login out ang user kapag walang CSRF token?
+OWASP Top 10: IDOR,P,,aano mo i-prevent ang IDOR vulnerability?
+OWASP Top 10: IDOR,A,,no ang common scenario ng IDOR attack?
+Mass Assignment,P,,aano mo i-protect ang model sa mass assignment?
+Mass Assignment,A,,no ang difference ng $fillable vs $guarded?

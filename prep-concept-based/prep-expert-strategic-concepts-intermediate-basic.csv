@@ -1,0 +1,16 @@
+Refactoring Patterns,Paano mo i-apply ang Refactoring Patterns sa Laravel project?,,Gamit ang proper configuration at implementation.
+Refactoring Patterns,Ano ang use case ng Refactoring Patterns?,,Ang Refactoring Patterns ay ginagamit sa code smell identification at improvement.
+Tech Debt Management,Paano mo i-apply ang Tech Debt Management sa Laravel project?,,Gamit ang proper configuration at implementation.
+Tech Debt Management,Ano ang use case ng Tech Debt Management?,,Ang Tech Debt Management ay ginagamit sa prioritization ng code improvements.
+Code Review Best Practices,Paano mo i-apply ang Code Review Best Practices sa Laravel project?,,Gamit ang proper configuration at implementation.
+Code Review Best Practices,Ano ang use case ng Code Review Best Practices?,,Ang Code Review Best Practices ay ginagamit sa effective feedback at knowledge sharing.
+Git Workflow,Paano mo i-apply ang Git Workflow sa Laravel project?,,Gamit ang proper configuration at implementation.
+Git Workflow,Ano ang use case ng Git Workflow?,,Ang Git Workflow ay ginagamit sa branching strategies at merge conflict r.
+CI/CD Pipelines,Paano mo i-apply ang CI/CD Pipelines sa Laravel project?,,Gamit ang proper configuration at implementation.
+CI/CD Pipelines,Ano ang use case ng CI/CD Pipelines?,,"Ang CI/CD Pipelines ay ginagamit sa automated build, test, at deployment."
+Docker & docker-compose,P,,aano mo i-setup ang Laravel sa Docker?
+Docker & docker-compose,A,,no ang difference ng docker at docker-compose?
+Supervisor,P,,aano mo i-configure ang Supervisor para sa queue workers?
+Supervisor,A,,no ang mga important options sa Supervisor config?
+Cloud Basics,A,,no ang common cloud services para sa Laravel?
+Cloud Basics,P,,aano mo i-deploy ang Laravel sa AWS?

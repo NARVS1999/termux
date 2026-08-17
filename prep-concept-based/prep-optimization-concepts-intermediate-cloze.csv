@@ -1,0 +1,18 @@
+TDD,Ang {{c1::TDD}} (Test-Driven Development) ay write tests before writing code.,,tdd
+TDD,"Gamit ang {{c1::Red-Green-Refactor}} cycle, i-develop ang features incrementally.",,tdd
+TDD,Ang {{c1::TDD}} ay nagpo-ensure ng test coverage at better code design.,,tdd
+Coverage Reports,Ang {{c1::Coverage Reports}} ay pag-measure ng test coverage percentage.,,coverage
+Coverage Reports,"Gamit ang {{c1::Xdebug}} o {{c1::PCOV}}, i-generate ang coverage reports.",,coverage
+Coverage Reports,Ang {{c1::Coverage Reports}} ay nagpo-identify ng untested code areas.,,coverage
+CI Integration,Ang {{c1::CI Integration}} ay automated testing sa pipeline.,,ci
+CI Integration,"Gamit ang {{c1::GitHub Actions}}, {{c1::GitLab CI}}, o iba pa, i-run ang tests automatically.",,ci
+CI Integration,Ang {{c1::CI Integration}} ay nagpo-ensure ng code quality sa bawat commit.,,ci
+Observability,Ang {{c1::Observability}} ay visibility sa internal state ng application.,,observability
+Observability,"Gamit ang {{c1::logging}}, {{c1::monitoring}}, at {{c1::tracing}}, i-understand ang system behavior.",,observability
+Observability,Ang {{c1::Observability}} ay nagpo-identify ng issues before they become critical.,,observability
+Sentry Integration,Ang {{c1::Sentry}} ay error tracking at performance monitoring service.,,sentry
+Sentry Integration,"Gamit ang {{c1::Sentry Laravel}}, i-capture at i-monitor ang exceptions.",,sentry
+Sentry Integration,Ang {{c1::Sentry}} ay nagpo-provide ng real-time error alerts at performance insights.,,sentry
+Profiling Tools,Ang {{c1::Profiling Tools}} ay pag-analyze ng application performance.,,profiling
+Profiling Tools,"Gamit ang {{c1::Blackfire}}, {{c1::Telescope}}, at {{c1::Debugbar}}, i-identify ang bottlenecks.",,profiling
+Profiling Tools,Ang {{c1::Profiling Tools}} ay nagpo-help sa performance optimization.,,profiling

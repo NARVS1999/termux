@@ -1,0 +1,20 @@
+SOLID: Open/Closed,P,,aano mo i-apply ang Open/Closed Principle sa isang existing class?
+SOLID: Open/Closed,B,,akit importante ang abstraction para sa OCP?
+SOLID: Liskov Substitution,G,,ive example ng paglabag sa Liskov Substitution Principle.
+SOLID: Liskov Substitution,P,,aano mo i-test kung ang subclass ay nag-follow ng LSP?
+SOLID: Interface Segregation,P,,aano mo i-refactor ang isang malaking interface gamit ang ISP?
+SOLID: Interface Segregation,B,,akit mas mainam ang maliit na interfaces kaysa isang malaki?
+SOLID: Dependency Inversion,P,,aano mo i-apply ang DIP sa isang Laravel service?
+SOLID: Dependency Inversion,A,,no ang difference ng dependency injection vs dependency inversion?
+Repository Pattern,P,,aano mo i-implement ang Repository Pattern sa Laravel?
+Repository Pattern,A,,no ang advantage ng Repository kaysa direct Eloquent usage?
+Factory Pattern,P,,aano mo gumamit ng Factory para mag-create ng objects sa PHP?
+Factory Pattern,K,,"apag ka hindi mo alam ang exact class, paano mo gagamitin ang Factory?"
+Strategy Pattern,P,,aano mo i-swap ang algorithm gamit ang Strategy Pattern?
+Strategy Pattern,A,,no ang advantage ng Strategy Pattern kaysa inheritance?
+Observer Pattern,P,,aano mo i-implement ang Observer Pattern sa Laravel?
+Observer Pattern,A,,no ang difference ng Observer vs Event-Listener?
+Adapter Pattern,Paano mo i-apply ang Adapter Pattern sa Laravel project?,,Gamit ang proper configuration at implementation.
+Adapter Pattern,Ano ang use case ng Adapter Pattern?,,Ang Adapter Pattern ay ginagamit sa interface conversion para mag-work ang i.
+Facade Pattern,Paano mo i-apply ang Facade Pattern sa Laravel project?,,Gamit ang proper configuration at implementation.
+Facade Pattern,Ano ang use case ng Facade Pattern?,,Ang Facade Pattern ay ginagamit sa simple interface para sa complex subsyst.

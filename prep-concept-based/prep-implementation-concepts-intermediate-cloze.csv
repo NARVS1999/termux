@@ -1,0 +1,33 @@
+Service Container,Ang {{c1::Service Container}} ay Laravel IoC container na nagha-handle ng dependency injection.,,service
+Service Container,"Gamit ang {{c1::bind}}, pwede mong i-register ang services sa container para sa resolution.",,service
+Service Container,Ang {{c1::make}} method ay nagre-resolve ng instance mula sa service container.,,service
+Service Providers,Ang {{c1::Service Providers}} ay bootstrap at register services sa Laravel application.,,service
+Service Providers,"Gamit ang {{c1::register}} method, i-register ang services sa container bago gamitin.",,service
+Service Providers,Ang {{c1::boot}} method ay nag-e-execute pagkatapos ng lahat ng providers ay na-register.,,service
+Middleware,Ang {{c1::Middleware}} ay layers na nagpo-process ng HTTP requests before or after routing.,,middleware
+Middleware,"Gamit ang {{c1::Middleware}}, pwede mong i-filter, authenticate, at log ang incoming requests.",,middleware
+Middleware,Ang {{c1::Middleware}} ay nagpo-chain ng handlers para sa sequential request processing.,,middleware
+Pipeline Pattern,Ang {{c1::Pipeline Pattern}} ay nagche-chain ng handlers sa sequential manner.,,pipeline
+Pipeline Pattern,"Gamit ang {{c1::Pipeline}}, pwede mong i-pass ang data sa through multiple processing stages.",,pipeline
+Pipeline Pattern,Ang {{c1::Pipeline}} ay nagpo-promote ng single responsibility at reusability ng handlers.,,pipeline
+Request Lifecycle,Ang {{c1::Request Lifecycle}} ay ang flow ng HTTP request mula entry point hanggang response.,,request
+Request Lifecycle,"Gamit ang {{c1::request lifecycle}}, naiintindihan mo kung paano nagpo-process ang Laravel ng requests.",,request
+Request Lifecycle,"Ang {{c1::Request Lifecycle}} ay nagpo-include ng bootstrapping, routing, middleware, at response.",,request
+Eloquent Relationships,Ang {{c1::Eloquent Relationships}} ay nagde-define ng connections sa pagitan ng database tables.,,eloquent
+Eloquent Relationships,"Gamit ang {{c1::hasOne}}, {{c1::hasMany}}, at {{c1::belongsTo}}, pwede mong i-map ang table relationships.",,eloquent
+Eloquent Relationships,Ang {{c1::Eloquent Relationships}} ay nagpo-provide ng elegant syntax para sa related data access.,,eloquent
+Eloquent Eager Loading,Ang {{c1::Eager Loading}} ay pag-load ng related models kasabay ng parent model.,,eloquent
+Eloquent Eager Loading,"Gamit ang {{c1::with()}}, prevent ang N+1 problem sa pag-access ng related data.",,eloquent
+Eloquent Eager Loading,Ang {{c1::Eager Loading}} ay nagpo-reduce ng number of queries para sa related models.,,eloquent
+N+1 Problem,Ang {{c1::N+1 Problem}} ay inefficient queries na naglo-load ng related data one by one.,,n+1
+N+1 Problem,"Kapag hindi gumamit ng eager loading, magkocreate ng maraming queries para sa related models.",,n+1
+N+1 Problem,Ang {{c1::N+1 Problem}} ay na-solve gamit ang eager loading at proper query optimization.,,n+1
+Model Events,Ang {{c1::Model Events}} ay hooks na nag-e-execute sa specific points sa model lifecycle.,,model
+Model Events,"Gamit ang {{c1::boot}} method, pwede mong i-define ang model events sa class.",,model
+Model Events,"Ang {{c1::creating}}, {{c1::updating}}, at {{c1::deleting}} ay common model events.",,model
+Model Casts,Ang {{c1::Model Casts}} ay auto-casting ng attributes sa specified types.,,model
+Model Casts,"Gamit ang {{c1::$casts}} property, i-cast ang attributes sa integer, boolean, array, o custom types.",,model
+Model Casts,Ang {{c1::Model Casts}} ay nagpo-ensure ng correct data types sa pag-access ng model attributes.,,model
+Query Scopes,Ang {{c1::Query Scopes}} ay reusable query logic na naka-attach sa Eloquent model.,,query
+Query Scopes,"Gamit ang {{c1::scope}} prefix, pwede mong i-define ang common queries para sa reuse.",,query
+Query Scopes,Ang {{c1::Query Scopes}} ay nagpo-simplify ng complex queries at nagpo-promote ng reusability.,,query

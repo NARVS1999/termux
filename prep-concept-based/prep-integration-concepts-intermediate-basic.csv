@@ -1,0 +1,14 @@
+Query Builder,P,,aano mo i-construct ang complex query gamit ang Query Builder?
+Query Builder,A,,no ang difference ng Query Builder vs raw SQL?
+Database Transactions,P,,aano mo i-wrap ang operations gamit ang DB::transaction?
+Database Transactions,K,,"apag nag-fail ang isang operation sa transaction, ano ang mangyayari?"
+Queues & Jobs,P,,aano mo i-dispatch ang job sa queue?
+Queues & Jobs,A,,no ang difference ng sync at async queue?
+Task Scheduling,P,,aano mo i-schedule ang artisan command sa Laravel?
+Task Scheduling,A,,no ang frequency methods available sa scheduler?
+Events & Listeners,P,,aano mo gumawa ng event at listener sa Laravel?
+Events & Listeners,A,,no ang advantage ng events kaysa direct method calls?
+Mailables,P,,aano mo i-configure ang email attachment sa Laravel?
+Mailables,A,,no ang difference ng Mailable vs raw mail() function?
+File Storage,P,,aano mo i-store ang file sa S3 disk?
+File Storage,A,,no ang available disk drivers sa Laravel?

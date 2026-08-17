@@ -1,0 +1,33 @@
+RESTful Conventions,Ang {{c1::RESTful Conventions}} ay standard patterns para sa HTTP API design.,,restful
+RESTful Conventions,"Gamit ang tamang {{c1::HTTP methods}} (GET, POST, PUT, DELETE), i-design ang consistent APIs.",,restful
+RESTful Conventions,Ang {{c1::RESTful Conventions}} ay nagpo-ensure ng predictable at maintainable API structure.,,restful
+API Versioning,Ang {{c1::API Versioning}} ay strategies para sa backward compatibility.,,api
+API Versioning,"Gamit ang {{c1::URL versioning}} o {{c1::header versioning}}, i-manage ang API changes.",,api
+API Versioning,Ang {{c1::API Versioning}} ay nagpo-allow ng gradual migration sa bagong API versions.,,api
+Filtering & Sorting,Ang {{c1::Filtering}} at {{c1::Sorting}} ay query parameter patterns para sa data retrieval.,,filtering
+Filtering & Sorting,"Gamit ang {{c1::where}} clauses at {{c1::orderBy}}, pwede mong i-filter at i-sort ang results.",,filtering
+Filtering & Sorting,Ang {{c1::Filtering}} at {{c1::Sorting}} ay nagpo-allow ng flexible data querying.,,filtering
+Sanctum,Ang {{c1::Sanctum}} ay token-based auth para sa SPAs at mobile apps.,,sanctum
+Sanctum,"Gamit ang {{c1::Sanctum}}, pwede mong i-issue ang API tokens o use cookie-based auth.",,sanctum
+Sanctum,Ang {{c1::Sanctum}} ay nagpo-provide ng simple at lightweight authentication solution.,,sanctum
+JWT,Ang {{c1::JWT}} (JSON Web Token) ay stateless auth tokens na may expiration.,,jwt
+JWT,"Gamit ang {{c1::JWT}}, pwede mong i-authenticate ang users nang hindi nag-i-store ng session.",,jwt
+JWT,Ang {{c1::JWT}} ay nagpo-include ng payload na naglalaman ng user claims at metadata.,,jwt
+Webhooks,Ang {{c1::Webhooks}} ay event-driven HTTP callbacks sa external systems.,,webhooks
+Webhooks,"Gamit ang {{c1::Webhooks}}, pwede mong i-receive ang real-time notifications sa events.",,webhooks
+Webhooks,Ang {{c1::Webhooks}} ay nagpo-enable ng integration sa pagitan ng different services.,,webhooks
+OWASP Top 10: XSS,Ang {{c1::XSS}} (Cross-Site Scripting) ay injection ng malicious scripts sa web pages.,,owasp
+OWASP Top 10: XSS,"Gamit ang {{c1::e()}} at {{c1::htmlspecialchars}}, i-escape ang user output para maiwasan ang XSS.",,owasp
+OWASP Top 10: XSS,Ang {{c1::XSS}} ay nagpo-allow ng attackers na mag-steal ng session data o credentials.,,owasp
+OWASP Top 10: SQLi,Ang {{c1::SQLi}} (SQL Injection) ay injection ng malicious SQL code sa queries.,,owasp
+OWASP Top 10: SQLi,"Gamit ang {{c1::parameterized queries}} at {{c1::Eloquent}}, i-prevent ang SQL injection.",,owasp
+OWASP Top 10: SQLi,Ang {{c1::SQLi}} ay nagpo-allow ng unauthorized access sa database o data manipulation.,,owasp
+OWASP Top 10: CSRF,Ang {{c1::CSRF}} (Cross-Site Request Forgery) ay unauthorized commands sa authenticated users.,,owasp
+OWASP Top 10: CSRF,"Gamit ang {{c1::csrf_token}} at {{c1::@csrf}} directive, i-protect ang forms sa CSRF attacks.",,owasp
+OWASP Top 10: CSRF,Ang {{c1::CSRF}} ay nagpo-exploit ng trust na may browser sa authenticated session.,,owasp
+OWASP Top 10: IDOR,Ang {{c1::IDOR}} (Insecure Direct Object Reference) ay direct access sa objects gamit ang user input.,,owasp
+OWASP Top 10: IDOR,"Gamit ang authorization checks, i-ensure na ang user ay authorized sa resource.",,owasp
+OWASP Top 10: IDOR,Ang {{c1::IDOR}} ay nagpo-allow ng unauthorized access sa ibang user data.,,owasp
+Mass Assignment,Ang {{c1::Mass Assignment}} ay vulnerability kung saan malawak ang input na na-assign sa model.,,mass
+Mass Assignment,"Gamit ang {{c1::$fillable}} o {{c1::$guarded}}, i-protect ang model sa mass assignment vulnerability.",,mass
+Mass Assignment,Ang {{c1::Mass Assignment}} ay nagpo-allow ng attackers na mag-modify ng sensitive fields.,,mass

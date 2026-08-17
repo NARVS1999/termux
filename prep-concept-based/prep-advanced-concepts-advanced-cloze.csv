@@ -1,0 +1,12 @@
+Passport,Ang {{c1::Passport}} ay full OAuth2 server implementation para sa Laravel.,,passport
+Passport,"Gamit ang {{c1::Passport}}, pwede mong i-implement ang authorization code at client credentials grants.",,passport
+Passport,Ang {{c1::Passport}} ay nagpo-provide ng complete OAuth2 functionality para sa API authentication.,,passport
+OAuth2 Flows,Ang {{c1::OAuth2}} ay authorization framework para sa third-party access.,,oauth2
+OAuth2 Flows,"Gamit ang {{c1::Authorization Code}} at {{c1::PKCE}} flows, i-secure ang API access.",,oauth2
+OAuth2 Flows,Ang {{c1::OAuth2}} ay nagpo-allow ng delegated authorization nang hindi nagsha-share ng credentials.,,oauth2
+Idempotency Keys,Ang {{c1::Idempotency Keys}} ay nagpo-prevent ng duplicate operations sa API.,,idempotency
+Idempotency Keys,"Gamit ang unique key per request, i-ensure na ang operation ay mag-e-execute ng isang beses lang.",,idempotency
+Idempotency Keys,Ang {{c1::Idempotency Keys}} ay nagpo-protect sa accidental duplicate submissions.,,idempotency
+OWASP Top 10: SSRF,Ang {{c1::SSRF}} (Server-Side Request Forgery) ay injection ng URLs na nire-request ng server.,,owasp
+OWASP Top 10: SSRF,"Gamit ang URL validation at {{c1::whitelisting}}, i-prevent ang SSRF attacks.",,owasp
+OWASP Top 10: SSRF,Ang {{c1::SSRF}} ay nagpo-allow ng access sa internal services at sensitive data.,,owasp

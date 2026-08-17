@@ -1,0 +1,3 @@
+Mocking & Fakes,Ang {{c1::Mocking}} at {{c1::Fakes}} ay pag-replace ng dependencies sa tests.,,mocking
+Mocking & Fakes,"Gamit ang {{c1::Mock}} at {{c1::Fake}} methods, i-isolate ang code under test.",,mocking
+Mocking & Fakes,Ang {{c1::Mocking}} ay nagpo-ensure na ang test ay focus sa behavior ng unit.,,mocking

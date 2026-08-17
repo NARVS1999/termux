@@ -1,0 +1,12 @@
+TDD,A,,no ang steps sa TDD workflow?
+TDD,P,,aano mo i-apply ang Red-Green-Refactor cycle?
+Coverage Reports,Paano mo i-apply ang Coverage Reports sa Laravel project?,,Gamit ang proper configuration at implementation.
+Coverage Reports,Ano ang use case ng Coverage Reports?,,Ang Coverage Reports ay ginagamit sa pag-measure ng test coverage percentage.
+CI Integration,P,,aano mo i-setup ang CI pipeline para sa Laravel?
+CI Integration,A,,no ang common CI tools para sa PHP?
+Observability,Paano mo i-apply ang Observability sa Laravel project?,,Gamit ang proper configuration at implementation.
+Observability,Ano ang use case ng Observability?,,"Ang Observability ay ginagamit sa logging, monitoring, at alerting strateg."
+Sentry Integration,Paano mo i-apply ang Sentry Integration sa Laravel project?,,Gamit ang proper configuration at implementation.
+Sentry Integration,Ano ang use case ng Sentry Integration?,,Ang Sentry Integration ay ginagamit sa error tracking at performance monitoring.
+Profiling Tools,Paano mo i-apply ang Profiling Tools sa Laravel project?,,Gamit ang proper configuration at implementation.
+Profiling Tools,Ano ang use case ng Profiling Tools?,,"Ang Profiling Tools ay ginagamit sa Blackfire, Telescope, at debug bar."

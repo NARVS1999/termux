@@ -1,0 +1,15 @@
+Pipeline Middleware Chaining,Ang {{c1::Pipeline}} ay nagche-chain ng middleware handlers sa sequential order.,,pipeline
+Pipeline Middleware Chaining,"Gamit ang {{c1::pipe}} at {{c1::thenReturn}}, pwede mong i-process ang data sa through stages.",,pipeline
+Pipeline Middleware Chaining,Ang {{c1::Pipeline}} ay nagpo-ensure na bawat handler ay nagpo-process bago pumunta sa next.,,pipeline
+Eloquent Model Inheritance,Ang {{c1::Model Inheritance}} ay nagpo-allow ng code reuse sa pagitan ng models.,,eloquent
+Eloquent Model Inheritance,"Gamit ang {{c1::STI}} (Single Table Inheritance), pwede mong i-share ang table sa related models.",,eloquent
+Eloquent Model Inheritance,Ang {{c1::Model Inheritance}} ay nagpo-consider ng trade-offs sa performance at flexibility.,,eloquent
+Indexing Strategy,Ang {{c1::Indexing}} ay data structure na nagpapabilis ng database queries.,,indexing
+Indexing Strategy,"Gamit ang {{c1::composite indexes}}, i-cover ang multiple columns sa iisang index.",,indexing
+Indexing Strategy,Ang {{c1::Partial}} at {{c1::Covering}} indexes ay nagpo-optimize ng specific query patterns.,,indexing
+Window Functions,Ang {{c1::Window Functions}} ay nagco-compute ng values sa across related rows.,,window
+Window Functions,"Gamit ang {{c1::ROW_NUMBER}}, {{c1::RANK}}, at {{c1::DENSE_RANK}}, pwede mong i-rank ang rows.",,window
+Window Functions,Ang {{c1::Window Functions}} ay nagpo-perform ng calculations without grouping results.,,window
+Common Table Expressions,Ang {{c1::CTE}} (Common Table Expression) ay temporary result set gamit ang WITH clause.,,common
+Common Table Expressions,"Gamit ang {{c1::Recursive CTE}}, pwede mong i-traverse ang hierarchical data.",,common
+Common Table Expressions,Ang {{c1::CTE}} ay nagpo-simplify ng complex queries at nagpo-improve ng readability.,,common

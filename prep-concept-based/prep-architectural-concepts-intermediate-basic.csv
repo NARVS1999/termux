@@ -1,0 +1,12 @@
+Service Container Binding,Paano mo i-apply ang Service Container Binding sa Laravel project?,,Gamit ang proper configuration at implementation.
+Service Container Binding,Ano ang use case ng Service Container Binding?,,"Ang Service Container Binding ay ginagamit sa singleton, bind, instance registration."
+Service Provider Boot vs Register,Paano mo i-apply ang Service Provider Boot vs Register sa Laravel project?,,Gamit ang proper configuration at implementation.
+Service Provider Boot vs Register,Ano ang use case ng Service Provider Boot vs Register?,,Ang Service Provider Boot vs Register ay ginagamit sa tamang phase ng registration.
+Facade Mechanics,Paano mo i-apply ang Facade Mechanics sa Laravel project?,,Gamit ang proper configuration at implementation.
+Facade Mechanics,Ano ang use case ng Facade Mechanics?,,Ang Facade Mechanics ay ginagamit sa kung paano nag-resolve ang static calls.
+Database Normalization,Paano mo i-apply ang Database Normalization sa Laravel project?,,Gamit ang proper configuration at implementation.
+Database Normalization,Ano ang use case ng Database Normalization?,,"Ang Database Normalization ay ginagamit sa 1NF, 2NF, 3NF at Boyce-Codd."
+Database Denormalization,Paano mo i-apply ang Database Denormalization sa Laravel project?,,Gamit ang proper configuration at implementation.
+Database Denormalization,Ano ang use case ng Database Denormalization?,,Ang Database Denormalization ay ginagamit sa deliberate duplication para sa performan.
+JSON Columns,Paano mo i-apply ang JSON Columns sa Laravel project?,,Gamit ang proper configuration at implementation.
+JSON Columns,Ano ang use case ng JSON Columns?,,Ang JSON Columns ay ginagamit sa pag-store ng structured data sa database.

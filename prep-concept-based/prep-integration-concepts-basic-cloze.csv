@@ -1,0 +1,3 @@
+Notifications,"Ang {{c1::Notifications}} ay pag-send ng alerts via mail, database, broadcast, o SMS.",,notifications
+Notifications,"Gamit ang {{c1::Notification}} class, pwede mong i-define ang message content at channel.",,notifications
+Notifications,Ang {{c1::Notifications}} ay nagpo-provide ng unified API para sa multiple delivery channels.,,notifications

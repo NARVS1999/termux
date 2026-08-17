@@ -1,0 +1,3 @@
+Logging,Ang {{c1::Logging}} ay pag-record ng events at errors sa application.,,logging
+Logging,"Gamit ang {{c1::Log::info}}, {{c1::Log::error}}, at iba pa, i-track ang application behavior.",,logging
+Logging,Ang {{c1::Logging}} ay nagpo-provide ng audit trail para sa debugging at monitoring.,,logging

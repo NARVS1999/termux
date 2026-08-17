@@ -1,0 +1,18 @@
+Service Container Binding,Ang {{c1::Container Binding}} ay pag-register ng services sa IoC container.,,service
+Service Container Binding,"Gamit ang {{c1::bind}}, {{c1::singleton}}, at {{c1::instance}}, pwede mong i-configure ang resolution.",,service
+Service Container Binding,Ang {{c1::Singleton}} binding ay nagre-return ng iisang instance sa buong application.,,service
+Service Provider Boot vs Register,Ang {{c1::register}} method ay nagre-register ng services sa container bago gamitin.,,service
+Service Provider Boot vs Register,Ang {{c1::boot}} method ay nag-e-execute pagkatapos ng lahat ng providers ay na-register.,,service
+Service Provider Boot vs Register,"Gamit ang tamang method, i-ensure na available ang services sa correct timing.",,service
+Facade Mechanics,Ang {{c1::Facade}} ay nagpo-proxy ng static calls sa underlying service instances.,,facade
+Facade Mechanics,"Gamit ang {{c1::__getStatic}} magic method, nagre-resolve ang service mula sa container.",,facade
+Facade Mechanics,Ang {{c1::Facade}} ay nagpo-provide ng static interface habang gumagamit ng dynamic resolution.,,facade
+Database Normalization,Ang {{c1::Normalization}} ay pag-organize ng database para ma-reduce ang redundancy.,,database
+Database Normalization,"Gamit ang {{c1::1NF}}, {{c1::2NF}}, at {{c1::3NF}}, i-ensure ang correct data structure.",,database
+Database Normalization,Ang {{c1::Normalization}} ay nagpo-ensure ng data integrity at efficient storage.,,database
+Database Denormalization,Ang {{c1::Denormalization}} ay deliberate duplication para sa performance improvement.,,database
+Database Denormalization,"Gamit ang {{c1::Denormalization}}, i-reduce ang complex joins para sa frequently accessed data.",,database
+Database Denormalization,Ang {{c1::Denormalization}} ay trade-off sa data consistency para sa read performance.,,database
+JSON Columns,Ang {{c1::JSON Columns}} ay nagpo-store ng structured data sa database.,,json
+JSON Columns,"Gamit ang {{c1::JSON}} column type, pwede mong i-store ang flexible schema data.",,json
+JSON Columns,Ang {{c1::JSON Columns}} ay nagpo-require ng careful indexing para sa query performance.,,json

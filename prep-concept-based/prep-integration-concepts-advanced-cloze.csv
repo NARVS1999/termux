@@ -1,0 +1,6 @@
+Query Locking,Ang {{c1::Query Locking}} ay strategies para i-lock ang rows para sa concurrent access.,,query
+Query Locking,"Gamit ang {{c1::lockForUpdate}} o {{c1::sharedLock}}, i-manage ang concurrent database operations.",,query
+Query Locking,"Ang {{c1::pessimistic locking}} ay nagla-lock ng rows bago i-access, habang ang {{c1::optimistic locking}} ay nagche-check ng version.",,query
+EXPLAIN Analysis,Ang {{c1::EXPLAIN}} ay nagsho-show ng query execution plan para sa optimization.,,explain
+EXPLAIN Analysis,"Gamit ang {{c1::EXPLAIN}}, pwede mong i-analyze kung efficient ang index usage.",,explain
+EXPLAIN Analysis,"Ang {{c1::EXPLAIN}} output ay nagpo-include ng type, key, rows, at Extra information.",,explain

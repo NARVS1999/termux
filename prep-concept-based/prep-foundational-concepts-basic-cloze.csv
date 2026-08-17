@@ -1,0 +1,24 @@
+PHP 8.x Enums,Ang {{c1::enum}} ay isang type-safe set of named constants sa PHP 8.,,php
+PHP 8.x Enums,"Gamit ang {{c1::enum}} keyword, pwede kang magdefine ng fixed values na may associated data.",,php
+PHP 8.x Enums,"Ang {{c1::backed enum}} ay may string o int na value, habang ang unit enum ay wala.",,php
+PHP 8.x Readonly Properties,Ang {{c1::readonly}} modifier ay nagpo-property na hindi pwedeng baguhin pagkatapos ng initialization.,,php
+PHP 8.x Readonly Properties,"Sa PHP 8, ang {{c1::readonly}} properties ay dapt i-initialize sa constructor lang.",,php
+PHP 8.x Readonly Properties,Ang {{c1::readonly}} promotion ay nire-require na i-set ang value sa constructor parameter.,,php
+PHP 8.x Named Arguments,Ang {{c1::named arguments}} ay nagpapasa ng arguments gamit ang parameter name sa pagtawag ng function.,,php
+PHP 8.x Named Arguments,"Gamit ang {{c1::named arguments}}, pwede mong i-skip ang optional parameters.",,php
+PHP 8.x Named Arguments,Ang {{c1::named arguments}} ay nagpapalinaw ng code kapag maraming parameters ang function.,,php
+PHP 8.x Match Expression,Ang {{c1::match}} expression ay stricter version ng switch na gumagamit ng strict comparison.,,php
+PHP 8.x Match Expression,"Ang {{c1::match}} expression ay nagre-return ng value, unlike switch na nag-execute ng statements.",,php
+PHP 8.x Match Expression,"Gamit ang {{c1::match}}, pwede kang mag-combine ng multiple values sa iisang arm.",,php
+PHP 8.x Attributes,"Ang {{c1::attributes}} ay metadata syntax na naka-annotate sa classes, methods, at properties.",,php
+PHP 8.x Attributes,"Gamit ang {{c1::#[]}} syntax, pwede kang mag-add ng custom metadata sa PHP code.",,php
+PHP 8.x Attributes,"Ang {{c1::attributes}} ay nire-require ng framework para sa routing, validation, at dependency injection.",,php
+Composer Autoloading,Ang {{c1::Composer}} ay PHP dependency manager na nagha-handle ng autoloading at packages.,,composer
+Composer Autoloading,"Gamit ang {{c1::PSR-4}} autoloading, auto-load ang classes base sa namespace at directory structure.",,composer
+Composer Autoloading,Ang {{c1::composer.json}} ay nagde-define ng dependencies at autoloading configuration ng project.,,composer
+Type Declarations,Ang {{c1::type declarations}} ay nag-specify ng data type sa function parameters at return values.,,type
+Type Declarations,"Gamit ang {{c1::strict_types}}, mas strict ang type checking sa buong file.",,type
+Type Declarations,Ang {{c1::union types}} sa PHP 8 ay nagpapahintulot ng multiple types sa iisang parameter.,,type
+Exception Handling Basics,Ang {{c1::try-catch}} block ay nha-handle ng exceptions na nangyayari sa runtime.,,exception
+Exception Handling Basics,Ang {{c1::finally}} block ay nag-e-execute regardless kung nag-throw ng exception o hindi.,,exception
+Exception Handling Basics,Ang {{c1::throw}} statement ay nagpapalitaw ng exception para i-handle ng catch block.,,exception

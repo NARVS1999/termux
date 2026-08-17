@@ -1,0 +1,21 @@
+Query Builder,Ang {{c1::Query Builder}} ay fluent interface para sa pag-create ng database queries.,,query
+Query Builder,"Gamit ang {{c1::select}}, {{c1::where}}, at {{c1::orderBy}}, pwede mong i-construct ang queries.",,query
+Query Builder,Ang {{c1::Query Builder}} ay nagpo-provide ng chainable methods para sa query construction.,,query
+Database Transactions,Ang {{c1::Database Transactions}} ay nagwa-wrap ng operations na dapat sabay mag-fail o mag-succeed.,,database
+Database Transactions,"Gamit ang {{c1::DB::transaction}}, i-ensure na consistent ang database state.",,database
+Database Transactions,Ang {{c1::Transaction}} ay nagpo-rollback ng changes kapag nag-throw ng exception.,,database
+Queues & Jobs,Ang {{c1::Queues}} ay nagpa-process ng tasks asynchronously sa background.,,queues
+Queues & Jobs,"Gamit ang {{c1::Job}} class, pwede mong i-define ang task na gagawin sa queue.",,queues
+Queues & Jobs,Ang {{c1::dispatch}} function ay nagse-send ng job sa queue para sa processing.,,queues
+Task Scheduling,Ang {{c1::Task Scheduling}} ay pag-run ng commands gamit ang Laravel scheduler.,,task
+Task Scheduling,"Gamit ang {{c1::Kernel::schedule}}, pwede mong i-define ang frequency at timing ng tasks.",,task
+Task Scheduling,Ang {{c1::Scheduler}} ay nagre-replace ng cron jobs na may expressive syntax.,,task
+Events & Listeners,Ang {{c1::Events}} ay signals na nag-aalert ng changes sa application.,,events
+Events & Listeners,"Gamit ang {{c1::Listeners}}, pwede mong i-handle ang events gamit ang separate classes.",,events
+Events & Listeners,Ang {{c1::Event-Listener}} pattern ay nagpo-achieve ng loose coupling sa components.,,events
+Mailables,Ang {{c1::Mailable}} ay class na nagde-define ng email structure at content.,,mailables
+Mailables,"Gamit ang {{c1::Mailable}}, pwede mong i-configure ang subject, view, at attachments.",,mailables
+Mailables,Ang {{c1::Mailable}} ay nagpo-simplify ng email sending gamit ang fluent methods.,,mailables
+File Storage,Ang {{c1::File Storage}} ay abstraction para sa pag-store ng files sa different disks.,,file
+File Storage,"Gamit ang {{c1::Storage::disk}}, pwede mong piliin ang local, S3, o other storage driver.",,file
+File Storage,Ang {{c1::File Storage}} ay nagpo-provide ng unified API para sa file operations.,,file

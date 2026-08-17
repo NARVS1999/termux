@@ -1,0 +1,42 @@
+AuthN vs AuthZ,Ang {{c1::AuthN}} (Authentication) ay pag-verify ng identity ng user.,,authn
+AuthN vs AuthZ,Ang {{c1::AuthZ}} (Authorization) ay pag-determine ng allowed actions ng user.,,authn
+AuthN vs AuthZ,Ang {{c1::AuthN}} ay nangyayari bago ang {{c1::AuthZ}} sa request lifecycle.,,authn
+Roles & Permissions,Ang {{c1::Roles}} at {{c1::Permissions}} ay access control mechanisms.,,roles
+Roles & Permissions,"Gamit ang {{c1::Spatie Permission}}, pwede mong i-define ang roles at permissions per user.",,roles
+Roles & Permissions,Ang {{c1::Roles}} at {{c1::Permissions}} ay nagpo-provide ng fine-grained access control.,,roles
+Policies,Ang {{c1::Policies}} ay authorization logic per model or action.,,policies
+Policies,"Gamit ang {{c1::php artisan make:policy}}, pwede mong i-define ang authorization rules.",,policies
+Policies,Ang {{c1::Policies}} ay nagpo-organize ng authorization logic sa isang lugar.,,policies
+Gates,Ang {{c1::Gates}} ay closure-based authorization checks.,,gates
+Gates,"Gamit ang {{c1::Gate::define}}, pwede mong i-register ang authorization logic.",,gates
+Gates,Ang {{c1::Gates}} ay nagpo-provide ng simple authorization para sa non-model operations.,,gates
+Secrets Management,Ang {{c1::Secrets Management}} ay secure handling ng sensitive credentials.,,secrets
+Secrets Management,"Gamit ang {{c1::.env}} files at {{c1::vault}}, i-store ang secrets nang hindi nagco-commit.",,secrets
+Secrets Management,Ang {{c1::Secrets Management}} ay nagpo-protect sa credentials sa iba pang developers.,,secrets
+Encryption,Ang {{c1::Encryption}} ay pag-transform ng data sa secure format.,,encryption
+Encryption,"Gamit ang {{c1::Crypt::encrypt}} at {{c1::Crypt::decrypt}}, i-protect ang sensitive data.",,encryption
+Encryption,Ang {{c1::Encryption}} ay nagpo-ensure na ang data ay unreadable sa hindi authorized.,,encryption
+Auditing,Ang {{c1::Auditing}} ay pag-track ng model changes at user actions.,,auditing
+Auditing,"Gamit ang {{c1::Audit}} package, pwede mong i-log ang lahat ng changes sa models.",,auditing
+Auditing,Ang {{c1::Auditing}} ay nagpo-ensure ng accountability at traceability.,,auditing
+Validation,Ang {{c1::Validation}} ay pag-verify ng input data bago i-process.,,validation
+Validation,"Gamit ang {{c1::Form Requests}} at {{c1::inline rules}}, i-ensure ang data quality.",,validation
+Validation,Ang {{c1::Validation}} ay nagpo-prevent ng invalid data sa pagpasok sa application.,,validation
+Unit Testing,Ang {{c1::Unit Testing}} ay testing ng individual methods at classes sa isolation.,,unit
+Unit Testing,"Gamit ang {{c1::PHPUnit}} o {{c1::Pest}}, i-test ang bawat component nang hiwalay.",,unit
+Unit Testing,Ang {{c1::Unit Testing}} ay nagpo-ensure ng correctness ng individual code units.,,unit
+Feature Testing,Ang {{c1::Feature Testing}} ay testing ng complete user workflows.,,feature
+Feature Testing,"Gamit ang {{c1::HTTP testing methods}}, i-simulate ang API requests at i-assert ang responses.",,feature
+Feature Testing,Ang {{c1::Feature Testing}} ay nagpo-ensure ng correct behavior ng complete features.,,feature
+Integration Testing,Ang {{c1::Integration Testing}} ay testing ng interactions sa pagitan ng components.,,integration
+Integration Testing,"Gamit ang {{c1::Integration Tests}}, i-verify na ang components ay nag-work nang tama together.",,integration
+Integration Testing,Ang {{c1::Integration Testing}} ay nagpo-catch ng bugs na hindi nakikita sa unit tests.,,integration
+PHPUnit/Pest,Ang {{c1::PHPUnit}} at {{c1::Pest}} ay testing frameworks para sa PHP.,,phpunit/pest
+PHPUnit/Pest,"Gamit ang {{c1::test methods}} at {{c1::assertions}}, pwede mong i-verify ang code behavior.",,phpunit/pest
+PHPUnit/Pest,Ang {{c1::PHPUnit}} at {{c1::Pest}} ay nagpo-provide ng structured testing environment.,,phpunit/pest
+TestCase & RefreshDatabase,Ang {{c1::TestCase}} ay base class para sa Laravel tests.,,testcase
+TestCase & RefreshDatabase,"Gamit ang {{c1::RefreshDatabase}} trait, i-ensure na malinis ang database sa bawat test.",,testcase
+TestCase & RefreshDatabase,Ang {{c1::RefreshDatabase}} ay nagpo-rollback ng changes pagkatapos ng bawat test.,,testcase
+HTTP Testing,Ang {{c1::HTTP Testing}} ay pag-simulate ng API requests para sa testing.,,http
+HTTP Testing,"Gamit ang {{c1::get()}}, {{c1::post()}}, at iba pa, pwede mong i-test ang API endpoints.",,http
+HTTP Testing,Ang {{c1::HTTP Testing}} ay nagpo-provide ng convenient way para sa API testing.,,http

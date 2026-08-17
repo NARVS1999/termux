@@ -1,0 +1,3 @@
+Facades,Ang {{c1::Facades}} ay static-like access para sa services na naka-resolve sa container.,,facades
+Facades,"Gamit ang {{c1::Facade}}, pwede mong tawagin ang services nang hindi nag-i-inject directly.",,facades
+Facades,Ang {{c1::Facade}} ay nagpo-proxy ng static calls sa underlying service instances.,,facades

@@ -1,0 +1,15 @@
+Retries & Circuit Breakers,Ang {{c1::Retries}} ay pag-retry ng failed operations.,,retries
+Retries & Circuit Breakers,Ang {{c1::Circuit Breakers}} ay pattern para i-stop ang calls sa failing service.,,retries
+Retries & Circuit Breakers,"Gamit ang {{c1::backoff strategy}}, i-manage ang transient failures gracefully.",,retries
+Graceful Degradation,Ang {{c1::Graceful Degradation}} ay fallback behavior kapag bumagsak ang service.,,graceful
+Graceful Degradation,"Gamit ang {{c1::fallback methods}}, i-provide ng partial functionality kapag may failures.",,graceful
+Graceful Degradation,Ang {{c1::Graceful Degradation}} ay nagpo-ensure ng continued service kahit may issues.,,graceful
+Query Optimization,Ang {{c1::Query Optimization}} ay pag-improve ng database query performance.,,query
+Query Optimization,"Gamit ang {{c1::indexing}}, {{c1::eager loading}}, at {{c1::query rewriting}}, i-reduce ang query time.",,query
+Query Optimization,Ang {{c1::Query Optimization}} ay nagpo-ensure ng efficient data retrieval.,,query
+Cache Warming,Ang {{c1::Cache Warming}} ay preloading ng cache before first request.,,cache
+Cache Warming,"Gamit ang {{c1::cache:warming}} command, i-populate ang cache sa deployment.",,cache
+Cache Warming,Ang {{c1::Cache Warming}} ay nagpo-prevent ng slow first requests.,,cache
+Connection Pooling,Ang {{c1::Connection Pooling}} ay pag-manage ng database connections efficiently.,,connection
+Connection Pooling,"Gamit ang {{c1::pool settings}}, i-optimize ang connection usage.",,connection
+Connection Pooling,Ang {{c1::Connection Pooling}} ay nagpo-reduce ng connection overhead.,,connection

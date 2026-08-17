@@ -1,0 +1,24 @@
+Refactoring Patterns,Ang {{c1::Refactoring}} ay pag-improve ng code structure nang hindi nagbabago ng behavior.,,refactoring
+Refactoring Patterns,"Gamit ang {{c1::code smells}} identification, i-identify ang areas for improvement.",,refactoring
+Refactoring Patterns,Ang {{c1::Refactoring}} ay nagpo-maintain ng code quality habang nag-e-evolve ang codebase.,,refactoring
+Tech Debt Management,Ang {{c1::Tech Debt}} ay accumulated shortcuts na nag-cocost ng maintenance time.,,tech
+Tech Debt Management,"Gamit ang {{c1::prioritization}}, i-manage at i-resolve ang tech debt systematically.",,tech
+Tech Debt Management,Ang {{c1::Tech Debt Management}} ay nagpo-ensure ng long-term code health.,,tech
+Code Review Best Practices,Ang {{c1::Code Review}} ay pag-examine ng code ng ibang developers.,,code
+Code Review Best Practices,"Gamit ang {{c1::PR reviews}}, i-share ang knowledge at i-catch ang issues early.",,code
+Code Review Best Practices,Ang {{c1::Code Review}} ay nagpo-improve ng code quality at team collaboration.,,code
+Git Workflow,Ang {{c1::Git Workflow}} ay branching strategies para sa team collaboration.,,git
+Git Workflow,"Gamit ang {{c1::Git Flow}} o {{c1::trunk-based}}, i-manage ang code changes.",,git
+Git Workflow,Ang {{c1::Git Workflow}} ay nagpo-ensure ng smooth development at deployment process.,,git
+CI/CD Pipelines,"Ang {{c1::CI/CD}} ay automated build, test, at deployment pipeline.",,ci/cd
+CI/CD Pipelines,"Gamit ang {{c1::GitHub Actions}} o {{c1::Jenkins}}, i-automate ang software delivery.",,ci/cd
+CI/CD Pipelines,Ang {{c1::CI/CD}} ay nagpo-ensure ng consistent at reliable deployments.,,ci/cd
+Docker & docker-compose,Ang {{c1::Docker}} ay containerization platform para sa applications.,,docker
+Docker & docker-compose,"Gamit ang {{c1::docker-compose}}, i-define at i-run ang multi-container environments.",,docker
+Docker & docker-compose,Ang {{c1::Docker}} ay nagpo-ensure ng consistent environments across development at production.,,docker
+Supervisor,Ang {{c1::Supervisor}} ay process manager para sa queue workers.,,supervisor
+Supervisor,"Gamit ang {{c1::Supervisor}}, i-ensure na ang queue workers ay palaging running.",,supervisor
+Supervisor,Ang {{c1::Supervisor}} ay nagpo-restart ng workers kapag nag-crash.,,supervisor
+Cloud Basics,Ang {{c1::Cloud Basics}} ay fundamental concepts ng cloud computing.,,cloud
+Cloud Basics,"Gamit ang {{c1::AWS}} o {{c1::GCP}}, i-deploy ang Laravel applications sa cloud.",,cloud
+Cloud Basics,"Ang {{c1::Cloud Basics}} ay nagpo-include ng scalability, reliability, at cost management.",,cloud

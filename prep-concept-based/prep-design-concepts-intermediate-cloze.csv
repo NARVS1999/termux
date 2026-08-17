@@ -1,0 +1,27 @@
+Migrations,Ang {{c1::Migrations}} ay version-controlled database schema changes.,,migrations
+Migrations,"Gamit ang {{c1::php artisan make:migration}}, pwede mong i-create ang schema modifications.",,migrations
+Migrations,Ang {{c1::Migrations}} ay nagpo-ensure ng consistent schema across environments.,,migrations
+Factories,Ang {{c1::Factories}} ay pag-generate ng fake model instances para sa testing.,,factories
+Factories,"Gamit ang {{c1::Factory}} definition, pwede mong i-define ang fake data generation logic.",,factories
+Factories,Ang {{c1::Factories}} ay nagpo-simplify ng test data creation gamit ang faker library.,,factories
+Data Integrity,Ang {{c1::Data Integrity}} ay assurance na ang data ay accurate at consistent.,,data
+Data Integrity,"Gamit ang {{c1::foreign keys}}, {{c1::unique constraints}}, at {{c1::check constraints}}, i-maintain ang data quality.",,data
+Data Integrity,Ang {{c1::Data Integrity}} ay nagpo-prevent ng corrupted o inconsistent data.,,data
+Cache-Aside Pattern,Ang {{c1::Cache-Aside}} ay application-managed caching pattern para sa reads at writes.,,cache-aside
+Cache-Aside Pattern,"Gamit ang {{c1::Cache::get}} at {{c1::Cache::put}}, i-manage ang cache lifecycle.",,cache-aside
+Cache-Aside Pattern,Ang {{c1::Cache-Aside}} ay nagpo-ensure na ang cache ay naka-update kasabay ng database.,,cache-aside
+Write-Through Cache,Ang {{c1::Write-Through}} ay cache na naka-update kasabay ng database write.,,write-through
+Write-Through Cache,"Gamit ang {{c1::Write-Through}}, i-ensure na ang cache at database ay palaging synchronized.",,write-through
+Write-Through Cache,Ang {{c1::Write-Through}} ay nagpo-simplify ng cache consistency pero may performance overhead.,,write-through
+Cache Tags,Ang {{c1::Cache Tags}} ay granular cache management gamit ang tag-based invalidation.,,cache
+Cache Tags,"Gamit ang {{c1::Cache::tags([])}}, pwede mong i-group at i-invalidate ang related cache entries.",,cache
+Cache Tags,Ang {{c1::Cache Tags}} ay nagpo-allow ng targeted cache clearing based sa related data.,,cache
+Rate Limiting,Ang {{c1::Rate Limiting}} ay pag-limit ng requests per time window.,,rate
+Rate Limiting,"Gamit ang {{c1::RateLimiter}}, pwede mong i-define ang rate limits per user o IP.",,rate
+Rate Limiting,Ang {{c1::Rate Limiting}} ay nagpo-protect sa API sa abuse at DDoS attacks.,,rate
+HTTP Caching,Ang {{c1::HTTP Caching}} ay browser-level caching gamit ang headers.,,http
+HTTP Caching,"Gamit ang {{c1::ETag}}, {{c1::Cache-Control}}, at {{c1::Last-Modified}}, i-control ang caching behavior.",,http
+HTTP Caching,Ang {{c1::HTTP Caching}} ay nagpo-reduce ng server load at improves ng user experience.,,http
+OPcache,Ang {{c1::OPcache}} ay bytecode caching para sa PHP performance improvement.,,opcache
+OPcache,"Gamit ang {{c1::OPcache}}, i-cache ang compiled PHP scripts para sa faster execution.",,opcache
+OPcache,Ang {{c1::OPcache}} ay nagpo-reduce ng compilation overhead sa every request.,,opcache

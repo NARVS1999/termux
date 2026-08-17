@@ -1,0 +1,3 @@
+Seeders,Ang {{c1::Seeders}} ay pag-populate ng test data sa database.,,seeders
+Seeders,"Gamit ang {{c1::php artisan db:seed}}, pwede mong i-run ang seeders para sa initial data.",,seeders
+Seeders,Ang {{c1::Seeders}} ay nagpo-provide ng consistent data para sa development at testing.,,seeders

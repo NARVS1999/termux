@@ -1,0 +1,30 @@
+SOLID: Open/Closed,Ang {{c1::Open/Closed Principle}} ay nagsasabing entities ay dapat open for extension pero closed for modification.,,solid:
+SOLID: Open/Closed,"Gamit ang {{c1::OCP}}, pwede kang mag-add ng bagong functionality nang hindi nagbabago ng existing code.",,solid:
+SOLID: Open/Closed,Ang {{c1::OCP}} ay nagpo-promote ng abstraction at polymorphism para sa flexibility.,,solid:
+SOLID: Liskov Substitution,Ang {{c1::Liskov Substitution Principle}} ay nagsasabing subtypes ay dapat mag-substitute ng parent nila.,,solid:
+SOLID: Liskov Substitution,"Kapag nag-i-inherit ang class, dapat gumana ang lahat ng behaviors ng parent.",,solid:
+SOLID: Liskov Substitution,Ang {{c1::LSP}} ay nagpo-ensure na ang inheritance hierarchy ay logically consistent.,,solid:
+SOLID: Interface Segregation,Ang {{c1::Interface Segregation Principle}} ay nagsasabing maliit na interfaces ay mas mainam kaysa isang malaki.,,solid:
+SOLID: Interface Segregation,"Gamit ang {{c1::ISP}}, bawat client ay dapat may sariling interface na relevant sa kanya.",,solid:
+SOLID: Interface Segregation,Ang {{c1::ISP}} ay nagpo-prevent ng unnecessary dependencies sa unused methods.,,solid:
+SOLID: Dependency Inversion,"Ang {{c1::Dependency Inversion Principle}} ay nagsasabing depend sa abstraction, hindi sa concrete class.",,solid:
+SOLID: Dependency Inversion,"Gamit ang {{c1::DIP}}, high-level modules ay hindi na depend sa low-level modules.",,solid:
+SOLID: Dependency Inversion,Ang {{c1::DIP}} ay nagpo-promote ng loose coupling sa pagitan ng components.,,solid:
+Repository Pattern,Ang {{c1::Repository Pattern}} ay abstraction layer na naghihiwalay ng data access logic sa business logic.,,repository
+Repository Pattern,"Gamit ang {{c1::Repository}}, pwede mong palitan ang data source nang hindi nagbabago ng business logic.",,repository
+Repository Pattern,Ang {{c1::Repository}} ay nagpo-provide ng uniform interface para sa data access operations.,,repository
+Factory Pattern,Ang {{c1::Factory Pattern}} ay nag-create ng objects without specifying the exact class na i-create.,,factory
+Factory Pattern,"Gamit ang {{c1::Factory}}, pwede kang mag-return ng different implementations based sa conditions.",,factory
+Factory Pattern,Ang {{c1::Factory}} ay nagpo-encapsulate ng object creation logic para sa flexibility.,,factory
+Strategy Pattern,Ang {{c1::Strategy Pattern}} ay nagpapahintulot ng pag-swappable ng algorithms at runtime.,,strategy
+Strategy Pattern,"Gamit ang {{c1::Strategy}}, pwede kang mag-inject ng different behaviors sa isang context.",,strategy
+Strategy Pattern,Ang {{c1::Strategy}} ay nagpo-promote ng composition over inheritance para sa behavior variation.,,strategy
+Observer Pattern,Ang {{c1::Observer Pattern}} ay one-to-many dependency na nagno-notify ng changes sa registered observers.,,observer
+Observer Pattern,"Gamit ang {{c1::Observer}}, ang subject ay nagbroadcast ng events sa lahat ng subscribed observers.",,observer
+Observer Pattern,Ang {{c1::Observer}} ay nagpo-achieve ng loose coupling sa pagitan ng subject at observers.,,observer
+Adapter Pattern,Ang {{c1::Adapter Pattern}} ay nagco-convert ng interface para mag-work ang incompatible classes.,,adapter
+Adapter Pattern,"Gamit ang {{c1::Adapter}}, pwede mong i-integrate ang legacy code sa bagong system.",,adapter
+Adapter Pattern,Ang {{c1::Adapter}} ay nagpo-wrap ng existing interface sa isang compatible na interface.,,adapter
+Facade Pattern,Ang {{c1::Facade Pattern}} ay nagpo-provide ng simple interface para sa complex subsystem.,,facade
+Facade Pattern,"Gamit ang {{c1::Facade}}, binabawasan ang complexity ng interactions sa multiple classes.",,facade
+Facade Pattern,Ang {{c1::Facade}} ay nagpo-simplify ng client code habang pinapanatili ang subsystem functionality.,,facade

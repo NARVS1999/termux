@@ -1,0 +1,28 @@
+AuthN vs AuthZ,A,,no ang difference ng authentication vs authorization?
+AuthN vs AuthZ,S,,aang parte ng request lifecycle nag-e-execute ang auth?
+Roles & Permissions,P,,aano mo i-define ang roles gamit ang Spatie?
+Roles & Permissions,A,,no ang difference ng roles vs permissions?
+Policies,P,,aano mo gumawa ng policy para sa Laravel model?
+Policies,P,,aano mo i-register ang policy?
+Gates,P,,aano mo gumawa ng gate sa Laravel?
+Gates,A,,no ang difference ng gates vs policies?
+Secrets Management,Paano mo i-apply ang Secrets Management sa Laravel project?,,Gamit ang proper configuration at implementation.
+Secrets Management,Ano ang use case ng Secrets Management?,,"Ang Secrets Management ay ginagamit sa env files, vault, at key rotation."
+Encryption,Paano mo i-apply ang Encryption sa Laravel project?,,Gamit ang proper configuration at implementation.
+Encryption,Ano ang use case ng Encryption?,,Ang Encryption ay ginagamit sa encrypt at decrypt ng sensitive data.
+Auditing,Paano mo i-apply ang Auditing sa Laravel project?,,Gamit ang proper configuration at implementation.
+Auditing,Ano ang use case ng Auditing?,,Ang Auditing ay ginagamit sa pag-track ng model changes at user actio.
+Validation,P,,aano mo gumawa ng custom validation rule?
+Validation,A,,no ang advantage ng Form Requests?
+Unit Testing,P,,aano mo i-test ang isang service class?
+Unit Testing,A,,no ang mga common assertions sa unit testing?
+Feature Testing,P,,aano mo i-test ang API endpoint?
+Feature Testing,A,,no ang difference ng feature vs unit test?
+Integration Testing,P,,aano mo i-test ang interaction ng multiple services?
+Integration Testing,A,,no ang common scenarios sa integration testing?
+PHPUnit/Pest,P,,aano mo gumawa ng test case gamit ang Pest?
+PHPUnit/Pest,A,,no ang difference ng PHPUnit vs Pest?
+TestCase & RefreshDatabase,P,,aano mo i-setup ang test database?
+TestCase & RefreshDatabase,A,,no ang purpose ng RefreshDatabase trait?
+HTTP Testing,P,,aano mo i-test ang POST request sa Laravel?
+HTTP Testing,A,,no ang mga available HTTP testing methods?

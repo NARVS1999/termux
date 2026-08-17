@@ -1,0 +1,3 @@
+Pagination,Ang {{c1::Pagination}} ay pag-break ng large result sets sa smaller chunks.,,pagination
+Pagination,"Gamit ang {{c1::paginate()}}, pwede mong i-apply ang offset o cursor-based pagination.",,pagination
+Pagination,Ang {{c1::Pagination}} ay nagpo-improve ng performance at user experience.,,pagination
