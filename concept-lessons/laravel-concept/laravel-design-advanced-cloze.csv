@@ -1,0 +1,12 @@
+Indexing Strategy,"Ang {{c1::Indexing Strategy}} ay ang pagpapabilis ng database queries.",,Indexing Strategy
+Cache Invalidation,"Ang {{c1::Cache Invalidation}} ay ang pag-update ng cache kapag nagbago ang data.",,Cache Invalidation
+Indexing Strategy,"Ang {{c1::Indexing Strategy}} ay pagpapabilis ng database queries.",,Indexing Strategy
+Cache Invalidation,"Ang {{c1::Cache Invalidation}} ay pag-update ng cache kapag nagbago ang data.",,Cache Invalidation
+Indexing Strategy,"Ang {{c1::Indexing Strategy}} ay para sa query optimization.",,Indexing Strategy
+Cache Invalidation,"Ang {{c1::Cache Invalidation}} ay para sa cache freshness.",,Cache Invalidation
+Indexing Strategy,"Paano mo pabilisin ang database queries?",,"Gamitin ang indexing strategy."
+Cache Invalidation,"Paano mo i-update ang cache kapag nagbago ang data?",,"Gamitin ang cache invalidation."
+Indexing Strategy,"Ano ang tawag sa pagpapabilis ng database queries?",,"Indexing strategy."
+Cache Invalidation,"Ano ang tawag sa pag-update ng cache kapag nagbago ang data?",,"Cache invalidation."
+Indexing Strategy,"Ano ang benefit ng indexing strategy?",,"Mas mabilis na database queries."
+Cache Invalidation,"Ano ang benefit ng cache invalidation?",,"Fresh na data sa cache."
