@@ -1,0 +1,27 @@
+View,"Ang {{c1::View}} ay fundamental container component para sa layout sa React Native.",,View
+View,"Ang {{c1::View}} ay nagre-render ng isang <div> equivalent sa mobile.",,View
+View,"Gamit ang {{c1::View}}, nire-represent ang structural elements sa layout.",,View
+Text,"Ang {{c1::Text}} ay component para sa text rendering at nesting sa React Native.",,Text
+Text,"Ang {{c1::Text}} ay required para mag-display ng text sa screen.",,Text
+Text,"Pwede mag-nest ng {{c1::Text}} components para sa mixed styling.",,Text
+Pressable,"Ang {{c1::Pressable}} ay touchable component para sa user interactions.",,Pressable
+Pressable,"Ang {{c1::Pressable}} ay modern replacement para sa TouchableOpacity.",,Pressable
+Pressable,"Gamit ang {{c1::Pressable}}, maa-handle ang press, long press, at hover events.",,Pressable
+ScrollView,"Ang {{c1::ScrollView}} ay scrollable container para sa content overflow.",,ScrollView
+ScrollView,"Ang {{c1::ScrollView}} ay angkop para sa small amount of content na kailangang i-scroll.",,ScrollView
+ScrollView,"Hindi optimized ang {{c1::ScrollView}} para sa malalaking lists — gamitin ang FlatList.",,ScrollView
+StyleSheet,"Ang {{c1::StyleSheet}} ay API para sa declarative CSS-like styling.",,StyleSheet
+StyleSheet,"Ang {{c1::StyleSheet}} ay nagva-validate at nag-o-optimize ng styles automatically.",,StyleSheet
+StyleSheet,"Gamit ang {{c1::StyleSheet.create()}}, nire-reuse ang styles across components.",,StyleSheet
+Flexbox,"Ang {{c1::Flexbox}} ay layout system ng React Native components.",,Flexbox
+Flexbox,"Default na {{c1::column}} ang flexDirection sa React Native (hindi row).",,Flexbox
+Flexbox,"Gamit ang {{c1::Flexbox}}, nire-control ang alignment, spacing, at sizing ng components.",,Flexbox
+useState,"Ang {{c1::useState}} ay hook para sa local component state management.",,useState
+useState,"Ang {{c1::useState}} ay nagre-return ng value at setter function.",,useState
+useState,"Kapag tinawag ang setter ng {{c1::useState}}, nagre-re-render ang component.",,useState
+useRef,"Ang {{c1::useRef}} ay hook para sa persisting values across renders.",,useRef
+useRef,"Ang {{c1::useRef}} ay hindi nagko-trigger ng re-render kapag nagbabago ang value.",,useRef
+useRef,"Gamit ang {{c1::useRef}}, maa-access ang DOM elements sa React Native.",,useRef
+Platform.select,"Ang {{c1::Platform.select}} ay function para sa platform-specific code branching.",,Platform.select
+Platform.select,"Gamit ang {{c1::Platform.select}}, nagre-return ng value based sa current OS.",,Platform.select
+Platform.select,"Ang {{c1::Platform.select}} ay nag-a-accept ng object na may ios at android keys.",,Platform.select

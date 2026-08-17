@@ -1,0 +1,3 @@
+useEffect,"Ang {{c1::useEffect}} ay hook para sa side effects at lifecycle management.",,useEffect
+useEffect,"Ang {{c1::useEffect}} ay tumatakbo after render at pwedeng mag-return ng cleanup function.",,useEffect
+useEffect,"Gamit ang {{c1::useEffect}} dependency array, nire-control kung kailan uulitin ang effect.",,useEffect

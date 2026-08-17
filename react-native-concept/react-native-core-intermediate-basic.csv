@@ -1,0 +1,2 @@
+useEffect,"Paano gamitin ang useEffect para sa data fetching?",,"Gamit ang useEffect, i-fetch ang data sa inside ng effect at i-store sa state."
+useEffect,"Ano ang mangyayari kapag walang dependency array ang useEffect?",,"Uulitin ang effect sa bawat render — mag-cause ng performance issue o infinite loop."
