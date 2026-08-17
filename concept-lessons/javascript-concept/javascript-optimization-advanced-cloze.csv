@@ -1,0 +1,18 @@
+Virtual Scrolling,"Ang {{c1::Virtual Scrolling}} ay ang pag-render lang ng visible items.",,Virtual Scrolling
+Memory Leak Prevention,"Ang {{c1::Memory Leak Prevention}} ay ang pag-iwas ng hindi na-garbage collect na data.",,Memory Leak Prevention
+JIT Compilation,"Ang {{c1::JIT Compilation}} ay ang just-in-time na optimization ng JavaScript engine.",,JIT Compilation
+Virtual Scrolling,"Ang {{c1::Virtual Scrolling}} ay pag-render lang ng visible items.",,Virtual Scrolling
+Memory Leak Prevention,"Ang {{c1::Memory Leak Prevention}} ay pag-iwas ng hindi na-garbage collect na data.",,Memory Leak Prevention
+JIT Compilation,"Ang {{c1::JIT Compilation}} ay just-in-time na optimization ng JavaScript engine.",,JIT Compilation
+Virtual Scrolling,"Ang {{c1::Virtual Scrolling}} ay para sa efficient na list rendering.",,Virtual Scrolling
+Memory Leak Prevention,"Ang {{c1::Memory Leak Prevention}} ay para sa memory management.",,Memory Leak Prevention
+JIT Compilation,"Ang {{c1::JIT Compilation}} ay para sa performance optimization.",,JIT Compilation
+Virtual Scrolling,"Paano mo i-render ang visible items lang?",,"Gamitin ang virtual scrolling."
+Memory Leak Prevention,"Paano mo maiiwasan ang memory leaks?",,"Gamitin ang memory leak prevention techniques."
+JIT Compilation,"Paano mo i-optimize ang JavaScript execution?",,"Gamitin ang JIT compilation."
+Virtual Scrolling,"Ano ang tawag sa pag-render lang ng visible items?",,"Virtual scrolling."
+Memory Leak Prevention,"Ano ang tawag sa pag-iwas ng hindi na-garbage collect na data?",,"Memory leak prevention."
+JIT Compilation,"Ano ang tawag sa just-in-time na optimization ng JavaScript engine?",,"JIT compilation."
+Virtual Scrolling,"Ano ang benefit ng virtual scrolling?",,"Mas mabilis na list rendering."
+Memory Leak Prevention,"Ano ang benefit ng memory leak prevention?",,"Mas efficient na memory usage."
+JIT Compilation,"Ano ang benefit ng JIT compilation?",,"Mas mabilis na JavaScript execution."

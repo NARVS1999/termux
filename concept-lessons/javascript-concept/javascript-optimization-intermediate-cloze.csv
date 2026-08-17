@@ -1,0 +1,25 @@
+Debouncing,"Ang {{c1::Debouncing}} ay ang pag-delay ng function execution.",,Debouncing
+Throttling,"Ang {{c1::Throttling}} ay ang pag-limit ng function execution frequency.",,Throttling
+requestAnimationFrame,"Ang {{c1::requestAnimationFrame}} ay ang smooth na animations sa browser.",,requestAnimationFrame
+Profiling,"Ang {{c1::Profiling}} ay ang pag-analyze ng performance ng JavaScript code.",,Profiling
+Bundle Analysis,"Ang {{c1::Bundle Analysis}} ay ang pagtingin ng bundle size breakdown.",,Bundle Analysis
+Debouncing,"Ang {{c1::Debouncing}} ay pag-delay ng function execution.",,Debouncing
+Throttling,"Ang {{c1::Throttling}} ay pag-limit ng function execution frequency.",,Throttling
+requestAnimationFrame,"Ang {{c1::requestAnimationFrame}} ay smooth na animations sa browser.",,requestAnimationFrame
+Profiling,"Ang {{c1::Profiling}} ay pag-analyze ng performance ng JavaScript code.",,Profiling
+Bundle Analysis,"Ang {{c1::Bundle Analysis}} ay pagtingin ng bundle size breakdown.",,Bundle Analysis
+Debouncing,"Ang {{c1::Debouncing}} ay para sa controlled na function execution.",,Debouncing
+Throttling,"Ang {{c1::Throttling}} ay para sa limited na function calls.",,Throttling
+requestAnimationFrame,"Ang {{c1::requestAnimationFrame}} ay para sa smooth na animations.",,requestAnimationFrame
+Profiling,"Ang {{c1::Profiling}} ay para sa performance analysis.",,Profiling
+Bundle Analysis,"Ang {{c1::Bundle Analysis}} ay para sa bundle optimization.",,Bundle Analysis
+Debouncing,"Paano mo i-delay ang function execution?",,"Gamitin ang debouncing."
+Throttling,"Paano mo i-limit ang function execution frequency?",,"Gamitin ang throttling."
+requestAnimationFrame,"Paano mo gagawin ang smooth na animations?",,"Gamitin ang requestAnimationFrame."
+Profiling,"Paano mo i-analyze ang performance ng code?",,"Gamitin ang profiling."
+Bundle Analysis,"Paano mo makikita ang bundle size breakdown?",,"Gamitin ang bundle analysis."
+Debouncing,"Ano ang tawag sa pag-delay ng function execution?",,"Debouncing."
+Throttling,"Ano ang tawag sa pag-limit ng function execution frequency?",,"Throttling."
+requestAnimationFrame,"Ano ang tawag sa smooth na animations sa browser?",,"RequestAnimationFrame."
+Profiling,"Ano ang tawag sa pag-analyze ng performance ng JavaScript code?",,"Profiling."
+Bundle Analysis,"Ano ang tawag sa pagtingin ng bundle size breakdown?",,"Bundle analysis."
