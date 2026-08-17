@@ -1,0 +1,6 @@
+Higher-Order Components,"Paano mo i-enhance ang component gamit ang function?",,"Gamitin ang higher-order components."
+Render Props,"Paano mo i-share ang logic gamit ang function as prop?",,"Gamitin ang render props."
+Compound Components,"Paano mo gagawa ng pattern na may implicit state sharing?",,"Gamitin ang compound components."
+Higher-Order Components,"Ano ang tawag sa functions na nag-e-enhance ng components?",,"Higher-order components."
+Render Props,"Ano ang tawag sa pag-share ng logic gamit ang function as prop?",,"Render props."
+Compound Components,"Ano ang tawag sa pattern na may implicit state sharing?",,"Compound components."

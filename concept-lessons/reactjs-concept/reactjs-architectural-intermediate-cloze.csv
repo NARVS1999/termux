@@ -1,0 +1,25 @@
+Component Architecture,"Ang {{c1::Component Architecture}} ay ang pagbubuo ng app bilang component tree.",,Component Architecture
+Container/Presentational Pattern,"Ang {{c1::Container/Presentational Pattern}} ay ang paghihiwalay ng logic at UI.",,Container/Presentational Pattern
+Controlled vs Uncontrolled,"Ang {{c1::Controlled vs Uncontrolled}} ay ang pagpili ng tamang form approach.",,Controlled vs Uncontrolled
+State Management Options,"Ang mga {{c1::State Management Options}} ay ang pagpili ng state management solution.",,State Management Options
+Component Reusability,"Ang {{c1::Component Reusability}} ay ang paggawa ng components na pwedeng i-reuse.",,Component Reusability
+Component Architecture,"Ang {{c1::Component Architecture}} ay pagbubuo ng app bilang component tree.",,Component Architecture
+Container/Presentational Pattern,"Ang {{c1::Container/Presentational Pattern}} ay paghihiwalay ng logic at UI.",,Container/Presentational Pattern
+Controlled vs Uncontrolled,"Ang {{c1::Controlled vs Uncontrolled}} ay pagpili ng tamang form approach.",,Controlled vs Uncontrolled
+State Management Options,"Ang mga {{c1::State Management Options}} ay pagpili ng state management solution.",,State Management Options
+Component Reusability,"Ang {{c1::Component Reusability}} ay paggawa ng components na pwedeng i-reuse.",,Component Reusability
+Component Architecture,"Ang {{c1::Component Architecture}} ay para sa app structure.",,Component Architecture
+Container/Presentational Pattern,"Ang {{c1::Container/Presentational Pattern}} ay para sa separation of concerns.",,Container/Presentational Pattern
+Controlled vs Uncontrolled,"Ang {{c1::Controlled vs Uncontrolled}} ay para sa form handling.",,Controlled vs Uncontrolled
+State Management Options,"Ang mga {{c1::State Management Options}} ay para sa state management.",,State Management Options
+Component Reusability,"Ang {{c1::Component Reusability}} ay para sa code reuse.",,Component Reusability
+Component Architecture,"Paano mo bubuuin ang app bilang component tree?",,"Gamitin ang component architecture."
+Container/Presentational Pattern,"Paano mo i-separate ang logic at UI?",,"Gamitin ang container/presentational pattern."
+Controlled vs Uncontrolled,"Paano mo piliin ang tamang form approach?",,"Tingnan ang controlled vs uncontrolled."
+State Management Options,"Paano mo piliin ang state management solution?",,"Tingnan ang state management options."
+Component Reusability,"Paano mo gagawa ng components na pwedeng i-reuse?",,"Gamitin ang component reusability."
+Component Architecture,"Ano ang tawag sa pagbubuo ng app bilang component tree?",,"Component architecture."
+Container/Presentational Pattern,"Ano ang tawag sa paghihiwalay ng logic at UI?",,"Container/presentational pattern."
+Controlled vs Uncontrolled,"Ano ang tawag sa pagpili ng tamang form approach?",,"Controlled vs uncontrolled."
+State Management Options,"Ano ang tawag sa pagpili ng state management solution?",,"State management options."
+Component Reusability,"Ano ang tawag sa paggawa ng components na pwedeng i-reuse?",,"Component reusability."
