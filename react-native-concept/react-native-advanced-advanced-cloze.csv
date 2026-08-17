@@ -1,0 +1,9 @@
+List Virtualization,"Ang {{c1::List Virtualization}} ay off-screen rendering optimization para sa large lists.",,List Virtualization
+List Virtualization,"Gamit ang {{c1::List Virtualization}}, nagre-render lang ng visible items ang FlatList.",,List Virtualization
+List Virtualization,"Ang {{c1::List Virtualization}} ay nagre-reduce ng memory usage at improves scrolling.",,List Virtualization
+Memory Leaks,"Ang {{c1::Memory Leaks}} ay detection at prevention ng unnecessary memory usage.",,Memory Leaks
+Memory Leaks,"Gamit ang {{c1::useEffect cleanup}}, nagre-remove ng subscriptions at timers.",,Memory Leaks
+Memory Leaks,"Ang {{c1::Memory Leaks}} ay madaling i-detect gamit ang React DevTools Profiler.",,Memory Leaks
+New Architecture,"Ang {{c1::New Architecture}} ay Fabric at TurboModules para sa better performance.",,New Architecture
+New Architecture,"Gamit ang {{c1::New Architecture}}, na-improve ang bridging speed at type safety.",,New Architecture
+New Architecture,"Ang {{c1::New Architecture}} ay gumagamit ng JSI para sa synchronous communication.",,New Architecture

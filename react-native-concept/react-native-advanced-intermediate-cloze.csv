@@ -1,0 +1,12 @@
+Memoization,"Ang {{c1::Memoization}} ay React.memo at useMemo para sa performance optimization.",,Memoization
+Memoization,"Gamit ang {{c1::React.memo}}, na-skip ang re-render kapag hindi nagbago ang props.",,Memoization
+Memoization,"Ang {{c1::useMemo}} ay nag-cache ng computed values para sa expensive calculations.",,Memoization
+useCallback,"Ang {{c1::useCallback}} ay hook para sa function reference stability.",,useCallback
+useCallback,"Gamit ang {{c1::useCallback}}, na-prevent ang unnecessary re-renders ng child components.",,useCallback
+useCallback,"Ang {{c1::useCallback}} ay nagre-return ng memoized function version.",,useCallback
+Lazy Loading,"Ang {{c1::Lazy Loading}} ay code splitting para sa smaller JavaScript bundles.",,Lazy Loading
+Lazy Loading,"Gamit ang {{c1::React.lazy()}}, naglo-load ng components on-demand lang.",,Lazy Loading
+Lazy Loading,"Ang {{c1::Lazy Loading}} ay nagre-require ng Suspense boundary para sa loading state.",,Lazy Loading
+Image Caching,"Ang {{c1::Image Caching}} ay image optimization para sa faster loading.",,Image Caching
+Image Caching,"Gamit ang {{c1::Image Caching}}, nagse-store ng downloaded images sa local cache.",,Image Caching
+Image Caching,"Ang {{c1::Image Caching}} ay nagre-reduce ng network requests at bandwidth usage.",,Image Caching

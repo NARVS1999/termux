@@ -1,0 +1,4 @@
+Memoization,"Paano gamitin ang React.memo para sa optimization?",,"I-wrap ang component sa React.memo() at i-compare ang props bago mag-re-render."
+useCallback,"Paano gamitin ang useCallback para sa stable function references?",,"I-wrap ang function sa useCallback at i-pass ang dependency array."
+Lazy Loading,"Paano mag-implement ng lazy loading sa React Native?",,"Gamit ang React.lazy() at Suspense, i-lazy-load ang components na malaki ang bundle."
+Image Caching,"Paano mag-setup ng image caching sa React Native?",,"I-install ang react-native-fast-image at i-set ang cacheControl property sa Image source."

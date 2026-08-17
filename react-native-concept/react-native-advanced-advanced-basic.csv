@@ -1,0 +1,6 @@
+List Virtualization,"Paano mag-optimize ang FlatList gamit ang virtualization?",,"I-set ang windowSize, maxToRenderPerBatch, at removeClippedSubviews props."
+List Virtualization,"Ano ang difference ng FlatList sa ScrollView para sa lists?",,"Ang FlatList ay virtualized — nagre-render lang ng visible items habang ScrollView ay lahat."
+Memory Leaks,"Paano mag-detect ng memory leaks sa React Native?",,"Gamit ang React DevTools Profiler at Metro bundler memory monitoring tools."
+Memory Leaks,"Paano mag-prevent ng memory leaks sa useEffect?",,"Mag-return ng cleanup function sa useEffect na nagre-remove ng subscriptions at event listeners."
+New Architecture,"Paano mag-enable ang New Architecture sa React Native app?",,"I-set ang RCT_NEW_ARCH_ENABLED=1 flag at i-migrate ang native modules sa Turbo Modules."
+New Architecture,"Ano ang advantage ng Fabric renderer kaysa sa old renderer?",,"Mas mabilis ang rendering dahil sa synchronous layout measurements at concurrent features."
