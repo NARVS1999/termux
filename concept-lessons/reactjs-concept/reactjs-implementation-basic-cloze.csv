@@ -1,0 +1,15 @@
+Event Handling,"Ang {{c1::Event Handling}} ay ang pag-react sa user actions gaya ng click at input.",,Event Handling
+Props Destructuring,"Ang {{c1::Props Destructuring}} ay ang pag-extract ng props sa function parameters.",,Props Destructuring
+Default Props,"Ang mga {{c1::Default Props}} ay ang fallback values ng props kapag walang passed value.",,Default Props
+Event Handling,"Ang {{c1::Event Handling}} ay pag-react sa user actions gaya ng click at input.",,Event Handling
+Props Destructuring,"Ang {{c1::Props Destructuring}} ay pag-extract ng props sa function parameters.",,Props Destructuring
+Default Props,"Ang mga {{c1::Default Props}} ay fallback values ng props kapag walang passed value.",,Default Props
+Event Handling,"Ang {{c1::Event Handling}} ay para sa user interaction.",,Event Handling
+Props Destructuring,"Ang {{c1::Props Destructuring}} ay para sa mas simpleng props access.",,Props Destructuring
+Default Props,"Ang mga {{c1::Default Props}} ay para sa fallback values.",,Default Props
+Event Handling,"Paano mo i-handle ang user actions?",,"Gamitin ang event handling."
+Props Destructuring,"Paano mo i-extract ang props sa function parameters?",,"Gamitin ang props destructuring."
+Default Props,"Paano mo magse-set ng fallback values ng props?",,"Gamitin ang default props."
+Event Handling,"Ano ang tawag sa pag-react sa user actions gaya ng click at input?",,"Event handling."
+Props Destructuring,"Ano ang tawag sa pag-extract ng props sa function parameters?",,"Props destructuring."
+Default Props,"Ano ang tawag sa fallback values ng props kapag walang passed value?",,"Default props."

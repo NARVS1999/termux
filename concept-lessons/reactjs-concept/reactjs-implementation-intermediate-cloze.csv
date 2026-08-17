@@ -1,0 +1,30 @@
+Component Lifecycle,"Ang {{c1::Component Lifecycle}} ay ang mga stages ng component mula mount hanggang unmount.",,Component Lifecycle
+Forms,"Ang mga {{c1::Forms}} ay ang paghawak ng controlled at uncontrolled inputs.",,Forms
+Lists & Keys,"Ang {{c1::Lists & Keys}} ay ang pag-render ng maraming items nang tama.",,Lists & Keys
+Composition,"Ang {{c1::Composition}} ay ang pagbubuo ng components mula sa mas maliliit na components.",,Composition
+Children Prop,"Ang {{c1::Children Prop}} ay ang pag-pass ng elements bilang prop.",,Children Prop
+Error Boundaries,"Ang mga {{c1::Error Boundaries}} ay ang pag-catch ng errors sa component tree.",,Error Boundaries
+Component Lifecycle,"Ang {{c1::Component Lifecycle}} ay mga stages ng component mula mount hanggang unmount.",,Component Lifecycle
+Forms,"Ang mga {{c1::Forms}} ay paghawak ng controlled at uncontrolled inputs.",,Forms
+Lists & Keys,"Ang {{c1::Lists & Keys}} ay pag-render ng maraming items nang tama.",,Lists & Keys
+Composition,"Ang {{c1::Composition}} ay pagbubuo ng components mula sa mas maliliit na components.",,Composition
+Children Prop,"Ang {{c1::Children Prop}} ay pag-pass ng elements bilang prop.",,Children Prop
+Error Boundaries,"Ang mga {{c1::Error Boundaries}} ay pag-catch ng errors sa component tree.",,Error Boundaries
+Component Lifecycle,"Ang {{c1::Component Lifecycle}} ay para sa understanding ng component stages.",,Component Lifecycle
+Forms,"Ang mga {{c1::Forms}} ay para sa input handling.",,Forms
+Lists & Keys,"Ang {{c1::Lists & Keys}} ay para sa list rendering.",,Lists & Keys
+Composition,"Ang {{c1::Composition}} ay para sa component composition.",,Composition
+Children Prop,"Ang {{c1::Children Prop}} ay para sa element passing.",,Children Prop
+Error Boundaries,"Ang mga {{c1::Error Boundaries}} ay para sa error handling.",,Error Boundaries
+Component Lifecycle,"Paano mo maiintindihan ang mga stages ng component?",,"Tingnan ang component lifecycle."
+Forms,"Paano mo i-handle ang controlled at uncontrolled inputs?",,"Gamitin ang forms."
+Lists & Keys,"Paano mo i-render ang maraming items nang tama?",,"Gamitin ang lists at keys."
+Composition,"Paano mo bubuuin ang components mula sa mas maliliit na components?",,"Gamitin ang composition."
+Children Prop,"Paano mo i-pass ang elements bilang prop?",,"Gamitin ang children prop."
+Error Boundaries,"Paano mo i-catch ang errors sa component tree?",,"Gamitin ang error boundaries."
+Component Lifecycle,"Ano ang tawag sa mga stages ng component mula mount hanggang unmount?",,"Component lifecycle."
+Forms,"Ano ang tawag sa paghawak ng controlled at uncontrolled inputs?",,"Forms."
+Lists & Keys,"Ano ang tawag sa pag-render ng maraming items nang tama?",,"Lists at keys."
+Composition,"Ano ang tawag sa pagbubuo ng components mula sa mas maliliit na components?",,"Composition."
+Children Prop,"Ano ang tawag sa pag-pass ng elements bilang prop?",,"Children prop."
+Error Boundaries,"Ano ang tawag sa pag-catch ng errors sa component tree?",,"Error boundaries."

@@ -1,0 +1,6 @@
+Refs Forwarding,"Ang {{c1::Refs Forwarding}} ay ang pag-pass ng refs sa child components.",,Refs Forwarding
+Refs Forwarding,"Ang {{c1::Refs Forwarding}} ay pag-pass ng refs sa child components.",,Refs Forwarding
+Refs Forwarding,"Ang {{c1::Refs Forwarding}} ay para sa ref access sa child components.",,Refs Forwarding
+Refs Forwarding,"Paano mo i-pass ang refs sa child components?",,"Gamitin ang refs forwarding."
+Refs Forwarding,"Ano ang tawag sa pag-pass ng refs sa child components?",,"Refs forwarding."
+Refs Forwarding,"Ano ang benefit ng refs forwarding?",,"Direct na ref access sa child components."
