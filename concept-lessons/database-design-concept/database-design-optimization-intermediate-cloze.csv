@@ -1,0 +1,25 @@
+Query Caching,"Ang {{c1::Query Caching}} ay ang pag-cache ng query results.",,Query Caching
+Compression,"Ang {{c1::Compression}} ay ang pagliit ng data storage size.",,Compression
+Archiving,"Ang {{c1::Archiving}} ay ang paglipat ng lumang data sa separate storage.",,Archiving
+Vacuum & Maintenance,"Ang {{c1::Vacuum & Maintenance}} ay ang regular na paglilinis ng database.",,Vacuum & Maintenance
+Statistics Update,"Ang {{c1::Statistics Update}} ay ang pag-update ng query optimizer data.",,Statistics Update
+Query Caching,"Ang {{c1::Query Caching}} ay nagca-cache ng query results.",,Query Caching
+Compression,"Ang {{c1::Compression}} ay nagli-liit ng data storage size.",,Compression
+Archiving,"Ang {{c1::Archiving}} ay naglilipat ng lumang data.",,Archiving
+Vacuum & Maintenance,"Ang {{c1::Vacuum & Maintenance}} ay naglilinis ng database.",,Vacuum & Maintenance
+Statistics Update,"Ang {{c1::Statistics Update}} ay nag-u-update ng optimizer data.",,Statistics Update
+Query Caching,"Ang {{c1::Query Caching}} ay para sa mabilis na queries.",,Query Caching
+Compression,"Ang {{c1::Compression}} ay para sa mas kaunting storage.",,Compression
+Archiving,"Ang {{c1::Archiving}} ay para sa lumang data.",,Archiving
+Vacuum & Maintenance,"Ang {{c1::Vacuum & Maintenance}} ay para sa database health.",,Vacuum & Maintenance
+Statistics Update,"Ang {{c1::Statistics Update}} ay para sa accurate na query plans.",,Statistics Update
+Query Caching,"Paano mo pabilisin ang mga queries?",,"Gamitin ang query caching."
+Compression,"Paano mo liitan ang data storage?",,"Gamitin ang compression."
+Archiving,"Paano mo ililipat ang lumang data?",,"Gamitin ang archiving."
+Vacuum & Maintenance,"Paano mo lilinisin ang database?",,"Gamitin ang vacuum at maintenance."
+Statistics Update,"Paano mo i-update ang optimizer data?",,"Gamitin ang statistics update."
+Query Caching,"Ano ang tawag sa pag-cache ng query results?",,"Query caching."
+Compression,"Ano ang tawag sa pagliit ng data storage size?",,"Compression."
+Archiving,"Ano ang tawag sa paglipat ng lumang data?",,"Archiving."
+Vacuum & Maintenance,"Ano ang tawag sa regular na paglilinis ng database?",,"Vacuum at maintenance."
+Statistics Update,"Ano ang tawag sa pag-update ng query optimizer data?",,"Statistics update."

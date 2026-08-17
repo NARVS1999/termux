@@ -1,0 +1,30 @@
+Buffer Pool Tuning,"Ang {{c1::Buffer Pool Tuning}} ay ang pag-optimize ng memory allocation.",,Buffer Pool Tuning
+Disk I/O Optimization,"Ang {{c1::Disk I/O Optimization}} ay ang pagbawas ng disk operations.",,Disk I/O Optimization
+Memory Configuration,"Ang {{c1::Memory Configuration}} ay ang pag-tune ng database memory settings.",,Memory Configuration
+Buffer Pool Tuning,"Ang {{c1::Buffer Pool Tuning}} ay nag-o-optimize ng memory allocation.",,Buffer Pool Tuning
+Disk I/O Optimization,"Ang {{c1::Disk I/O Optimization}} ay nagbabawas ng disk operations.",,Disk I/O Optimization
+Memory Configuration,"Ang {{c1::Memory Configuration}} ay nagta-tune ng memory settings.",,Memory Configuration
+Buffer Pool Tuning,"Ang {{c1::Buffer Pool Tuning}} ay para sa efficient na memory.",,Buffer Pool Tuning
+Disk I/O Optimization,"Ang {{c1::Disk I/O Optimization}} ay para sa mabilis na disk operations.",,Disk I/O Optimization
+Memory Configuration,"Ang {{c1::Memory Configuration}} ay para sa tamang memory settings.",,Memory Configuration
+Buffer Pool Tuning,"Paano mo i-optimize ang memory allocation?",,"Gamitin ang buffer pool tuning."
+Disk I/O Optimization,"Paano mo babawasan ang disk operations?",,"Gamitin ang disk I/O optimization."
+Memory Configuration,"Paano mo ta-tune ang database memory settings?",,"Gamitin ang memory configuration."
+Buffer Pool Tuning,"Ano ang tawag sa pag-optimize ng memory allocation?",,"Buffer pool tuning."
+Disk I/O Optimization,"Ano ang tawag sa pagbawas ng disk operations?",,"Disk I/O optimization."
+Memory Configuration,"Ano ang tawag sa pag-tune ng memory settings?",,"Memory configuration."
+Buffer Pool Tuning,"Ano ang benefit ng buffer pool tuning?",,"Mas mabilis na data access."
+Disk I/O Optimization,"Ano ang benefit ng disk I/O optimization?",,"Mas kaunti ang disk operations."
+Memory Configuration,"Ano ang benefit ng memory configuration?",,"Optimal na memory usage."
+Buffer Pool Tuning,"Bakit kailangan ng buffer pool tuning?",,"Para sa performance ng database."
+Disk I/O Optimization,"Bakit kailangan ng disk I/O optimization?",,"Para sa mas mabilis na queries."
+Memory Configuration,"Bakit kailangan ng memory configuration?",,"Para sa efficient na memory usage."
+Buffer Pool Tuning,"Kailan mo gagamitin ang buffer pool tuning?",,"Kapag mabagal ang data access."
+Disk I/O Optimization,"Kailan mo gagamitin ang disk I/O optimization?",,"Kapag maraming disk operations."
+Memory Configuration,"Kailan mo gagamitin ang memory configuration?",,"Kapag hindi optimal ang memory usage."
+Buffer Pool Tuning,"Ano ang example ng buffer pool tuning?",,"Pag-set ng buffer pool size sa 70% ng RAM."
+Disk I/O Optimization,"Ano ang example ng disk I/O optimization?",,"Paggamit ng SSD sa halip na HDD."
+Memory Configuration,"Ano ang example ng memory configuration?",,"Pag-set ng innodb_buffer_pool_size sa MySQL."
+Buffer Pool Tuning,"Paano mo i-implement ang buffer pool tuning?",,"I-analyze ang buffer pool hit rate at mag-adjust."
+Disk I/O Optimization,"Paano mo i-implement ang disk I/O optimization?",,"Mag-upgrade ng hardware o mag-optimize ng queries."
+Memory Configuration,"Paano mo i-implement ang memory configuration?",,"I-check ang memory usage at mag-tune ng settings."
