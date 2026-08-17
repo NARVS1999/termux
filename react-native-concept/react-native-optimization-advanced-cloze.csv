@@ -1,0 +1,15 @@
+Re-render Optimization,"Ang {{c1::Re-render Optimization}} ay profiling at reducing unnecessary component updates.",,Re-render Optimization
+Re-render Optimization,"Gamit ang {{c1::React.memo}} at {{c1::useMemo}}, na-prevent ang wasteful re-renders.",,Re-render Optimization
+Re-render Optimization,"Ang {{c1::Re-render Optimization}} ay nagre-require ng careful prop comparison.",,Re-render Optimization
+Bundle Size,"Ang {{c1::Bundle Size}} ay analysis at reduction ng JavaScript bundle size.",,Bundle Size
+Bundle Size,"Gamit ang {{c1::Bundle Analyzer}}, na-identify ang malalaking dependencies.",,Bundle Size
+Bundle Size,"Ang {{c1::Bundle Size}} optimization ay nagre-reduce ng app load time.",,Bundle Size
+Startup Performance,"Ang {{c1::Startup Performance}} ay cold start optimization para sa faster app launch.",,Startup Performance
+Startup Performance,"Gamit ang {{c1::Hermes}} at code splitting, nagde-decrease ang startup time.",,Startup Performance
+Startup Performance,"Ang {{c1::Startup Performance}} ay critical para sa user retention.",,Startup Performance
+Network Optimization,"Ang {{c1::Network Optimization}} ay request batching at caching strategies.",,Network Optimization
+Network Optimization,"Gamit ang {{c1::React Query}} caching, nagre-reduce ng redundant API calls.",,Network Optimization
+Network Optimization,"Ang {{c1::Network Optimization}} ay nagbibigay ng offline-first capabilities.",,Network Optimization
+Memory Profiling,"Ang {{c1::Memory Profiling}} ay detection at fixing ng memory bottlenecks.",,Memory Profiling
+Memory Profiling,"Gamit ang {{c1::Chrome DevTools}}, na-profile ang memory usage ng app.",,Memory Profiling
+Memory Profiling,"Ang {{c1::Memory Profiling}} ay nagre-recommend ng garbage collection improvements.",,Memory Profiling
