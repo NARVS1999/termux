@@ -1,0 +1,15 @@
+Doubly Linked List,"Ang {{c1::Doubly Linked List}} ay ang linked list na may forward at backward pointers.",,Doubly Linked List
+Deque,"Ang {{c1::Deque}} ay ang double-ended queue na pwedeng mag-add sa both ends.",,Deque
+Circular Linked List,"Ang {{c1::Circular Linked List}} ay ang linked list na ang last node ay naka-connect sa first.",,Circular Linked List
+Doubly Linked List,"Ang {{c1::Doubly Linked List}} ay linked list na may forward at backward pointers.",,Doubly Linked List
+Deque,"Ang {{c1::Deque}} ay double-ended queue na pwedeng mag-add sa both ends.",,Deque
+Circular Linked List,"Ang {{c1::Circular Linked List}} ay linked list na ang last node ay naka-connect sa first.",,Circular Linked List
+Doubly Linked List,"Ang {{c1::Doubly Linked List}} ay para sa two-way na traversal.",,Doubly Linked List
+Deque,"Ang {{c1::Deque}} ay para sa flexible na queue operations.",,Deque
+Circular Linked List,"Ang {{c1::Circular Linked List}} ay para sa continuous na traversal.",,Circular Linked List
+Doubly Linked List,"Paano mo i-traverse ang linked list sa dalawang direction?",,"Gamitin ang doubly linked list."
+Deque,"Paano mo mag-add at mag-remove sa both ends ng queue?",,"Gamitin ang deque."
+Circular Linked List,"Paano mo gagawin ang linked list na walang end?",,"Gamitin ang circular linked list."
+Doubly Linked List,"Ano ang tawag sa linked list na may forward at backward pointers?",,"Doubly linked list."
+Deque,"Ano ang tawag sa double-ended queue?",,"Deque."
+Circular Linked List,"Ano ang tawag sa linked list na ang last node ay naka-connect sa first?",,"Circular linked list."

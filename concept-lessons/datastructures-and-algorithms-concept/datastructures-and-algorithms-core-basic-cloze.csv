@@ -1,0 +1,21 @@
+Linked List,"Ang {{c1::Linked List}} ay ang sequence ng nodes na may pointer sa next.",,Linked List
+Singly Linked List,"Ang {{c1::Singly Linked List}} ay ang linked list na may isang direction lang.",,Singly Linked List
+Stack,"Ang {{c1::Stack}} ay ang LIFO na data structure.",,Stack
+Queue,"Ang {{c1::Queue}} ay ang FIFO na data structure.",,Queue
+Head,"Ang {{c1::Head}} ay ang first node sa linked list.",,Head
+Tail,"Ang {{c1::Tail}} ay ang last node sa linked list.",,Tail
+Node,"Ang {{c1::Node}} ay ang element ng linked list na may data at pointer.",,Node
+Linked List,"Ang {{c1::Linked List}} ay sequence ng nodes na may pointer sa next.",,Linked List
+Singly Linked List,"Ang {{c1::Singly Linked List}} ay linked list na may isang direction lang.",,Singly Linked List
+Stack,"Ang {{c1::Stack}} ay LIFO na data structure.",,Stack
+Queue,"Ang {{c1::Queue}} ay FIFO na data structure.",,Queue
+Head,"Ang {{c1::Head}} ay first node sa linked list.",,Head
+Tail,"Ang {{c1::Tail}} ay last node sa linked list.",,Tail
+Node,"Ang {{c1::Node}} ay element ng linked list na may data at pointer.",,Node
+Linked List,"Ang {{c1::Linked List}} ay para sa sequential na data storage.",,Linked List
+Singly Linked List,"Ang {{c1::Singly Linked List}} ay para sa one-way na traversal.",,Singly Linked List
+Stack,"Ang {{c1::Stack}} ay para sa last-in-first-out na operations.",,Stack
+Queue,"Ang {{c1::Queue}} ay para sa first-in-first-out na operations.",,Queue
+Head,"Ang {{c1::Head}} ay para sa starting point ng traversal.",,Head
+Tail,"Ang {{c1::Tail}} ay para sa ending point ng traversal.",,Tail
+Node,"Ang {{c1::Node}} ay para sa data at pointer storage.",,Node
