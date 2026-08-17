@@ -1,0 +1,6 @@
+Repository Pattern,"Paano mo i-separate ang data access sa business logic?",,"Gamitin ang repository pattern."
+SOLID Principles,"Paano mo gagawin ang maintainable na code?",,"Gamitin ang SOLID principles."
+Repository Pattern,"Ano ang tawag sa paghihiwalay ng data access sa business logic?",,"Repository pattern."
+SOLID Principles,"Ano ang tawag sa limang prinsipyo para sa maintainable na code?",,"SOLID principles."
+Repository Pattern,"Ano ang benefit ng repository pattern?",,"Loose coupling at testability."
+SOLID Principles,"Ano ang benefit ng SOLID principles?",,"Maintainable at scalable na code."
