@@ -1,0 +1,45 @@
+V8 Engine Internals,"Ang mga {{c1::V8 Engine Internals}} ay ang loob ng JavaScript engine ng Chrome.",,V8 Engine Internals
+Garbage Collection,"Ang {{c1::Garbage Collection}} ay ang automatic na memory management.",,Garbage Collection
+Prototypal Inheritance,"Ang {{c1::Prototypal Inheritance}} ay ang deep understanding ng prototype chain.",,Prototypal Inheritance
+Metaprogramming,"Ang {{c1::Metaprogramming}} ay ang pag-manipulate ng code behavior.",,Metaprogramming
+WASM Integration,"Ang {{c1::WASM Integration}} ay ang paggamit ng WebAssembly sa JavaScript.",,WASM Integration
+Isomorphic JavaScript,"Ang {{c1::Isomorphic JavaScript}} ay ang pagtakbo ng code sa server at client.",,Isomorphic JavaScript
+AST Manipulation,"Ang {{c1::AST Manipulation}} ay ang pagbago ng code structure gamit ang abstract syntax tree.",,AST Manipulation
+Compiler Optimizations,"Ang mga {{c1::Compiler Optimizations}} ay ang understanding ng JavaScript optimizations.",,Compiler Optimizations
+Security Best Practices,"Ang mga {{c1::Security Best Practices}} ay ang pagprotekta ng JavaScript code laban sa attacks.",,Security Best Practices
+V8 Engine Internals,"Ang mga {{c1::V8 Engine Internals}} ay loob ng JavaScript engine ng Chrome.",,V8 Engine Internals
+Garbage Collection,"Ang {{c1::Garbage Collection}} ay automatic na memory management.",,Garbage Collection
+Prototypal Inheritance,"Ang {{c1::Prototypal Inheritance}} ay deep understanding ng prototype chain.",,Prototypal Inheritance
+Metaprogramming,"Ang {{c1::Metaprogramming}} ay pag-manipulate ng code behavior.",,Metaprogramming
+WASM Integration,"Ang {{c1::WASM Integration}} ay paggamit ng WebAssembly sa JavaScript.",,WASM Integration
+Isomorphic JavaScript,"Ang {{c1::Isomorphic JavaScript}} ay pagtakbo ng code sa server at client.",,Isomorphic JavaScript
+AST Manipulation,"Ang {{c1::AST Manipulation}} ay pagbago ng code structure gamit ang abstract syntax tree.",,AST Manipulation
+Compiler Optimizations,"Ang mga {{c1::Compiler Optimizations}} ay understanding ng JavaScript optimizations.",,Compiler Optimizations
+Security Best Practices,"Ang mga {{c1::Security Best Practices}} ay pagprotekta ng JavaScript code laban sa attacks.",,Security Best Practices
+V8 Engine Internals,"Ang mga {{c1::V8 Engine Internals}} ay para sa understanding ng JavaScript engine.",,V8 Engine Internals
+Garbage Collection,"Ang {{c1::Garbage Collection}} ay para sa memory management.",,Garbage Collection
+Prototypal Inheritance,"Ang {{c1::Prototypal Inheritance}} ay para sa deep understanding ng prototypes.",,Prototypal Inheritance
+Metaprogramming,"Ang {{c1::Metaprogramming}} ay para sa code manipulation.",,Metaprogramming
+WASM Integration,"Ang {{c1::WASM Integration}} ay para sa WebAssembly support.",,WASM Integration
+Isomorphic JavaScript,"Ang {{c1::Isomorphic JavaScript}} ay para sa server-client code sharing.",,Isomorphic JavaScript
+AST Manipulation,"Ang {{c1::AST Manipulation}} ay para sa code transformation.",,AST Manipulation
+Compiler Optimizations,"Ang mga {{c1::Compiler Optimizations}} ay para sa performance understanding.",,Compiler Optimizations
+Security Best Practices,"Ang mga {{c1::Security Best Practices}} ay para sa code protection.",,Security Best Practices
+V8 Engine Internals,"Paano mo maiintindihan ang JavaScript engine?",,"Tingnan ang V8 engine internals."
+Garbage Collection,"Paano mo i-manage ang memory sa JavaScript?",,"Tingnan ang garbage collection."
+Prototypal Inheritance,"Paano mo maiintindihan ang prototype chain?",,"Tingnan ang prototypal inheritance."
+Metaprogramming,"Paano mo gagamitin ang code manipulation?",,"Gamitin ang metaprogramming."
+WASM Integration,"Paano mo gagamitin ang WebAssembly sa JavaScript?",,"Gamitin ang WASM integration."
+Isomorphic JavaScript,"Paano mo gagawin ang code na tumatakbo sa server at client?",,"Gamitin ang isomorphic JavaScript."
+AST Manipulation,"Paano mo gagamitin ang abstract syntax tree?",,"Gamitin ang AST manipulation."
+Compiler Optimizations,"Paano mo maiintindihan ang JavaScript optimizations?",,"Tingnan ang compiler optimizations."
+Security Best Practices,"Paano mo poprotektahan ang JavaScript code?",,"Gamitin ang security best practices."
+V8 Engine Internals,"Ano ang tawag sa loob ng JavaScript engine ng Chrome?",,"V8 engine internals."
+Garbage Collection,"Ano ang tawag sa automatic na memory management?",,"Garbage collection."
+Prototypal Inheritance,"Ano ang tawag sa deep understanding ng prototype chain?",,"Prototypal inheritance."
+Metaprogramming,"Ano ang tawag sa pag-manipulate ng code behavior?",,"Metaprogramming."
+WASM Integration,"Ano ang tawag sa paggamit ng WebAssembly sa JavaScript?",,"WASM integration."
+Isomorphic JavaScript,"Ano ang tawag sa pagtakbo ng code sa server at client?",,"Isomorphic JavaScript."
+AST Manipulation,"Ano ang tawag sa pagbago ng code structure gamit ang abstract syntax tree?",,"AST manipulation."
+Compiler Optimizations,"Ano ang tawag sa understanding ng JavaScript optimizations?",,"Compiler optimizations."
+Security Best Practices,"Ano ang tawag sa pagprotekta ng JavaScript code laban sa attacks?",,"Security best practices."
