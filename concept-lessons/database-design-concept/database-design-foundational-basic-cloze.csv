@@ -1,0 +1,24 @@
+Database,"Ang {{c1::Database}} ay ang lugar kung saan naka-store ang data nang maayos.",,Database
+Table,"Ang {{c1::Table}} ay ang hugis-grid na naglalaman ng rows at columns.",,Table
+Row,"Ang {{c1::Row}} ay ang isang record sa loob ng table.",,Row
+Column,"Ang {{c1::Column}} ay ang field na nagde-define ng uri ng data.",,Column
+Primary Key,"Ang {{c1::Primary Key}} ay ang unique na identifier ng bawat row.",,Primary Key
+Foreign Key,"Ang {{c1::Foreign Key}} ay ang field na nag-uugnay sa ibang table.",,Foreign Key
+Data Types,"Ang mga {{c1::Data Types}} ay ang mga uri ng data gaya ng INT, VARCHAR, DATE.",,Data Types
+Schema,"Ang {{c1::Schema}} ay ang blueprint ng buong database structure.",,Schema
+Database,"Ang storage ng data ay tinatawag na {{c1::Database}}.",,Database
+Table,"Ang hugis-grid na structure ay tinatawag na {{c1::Table}}.",,Table
+Row,"Ang bawat record sa table ay tinatawag na {{c1::Row}}.",,Row
+Column,"Ang field na nagde-define ng data type ay tinatawag na {{c1::Column}}.",,Column
+Primary Key,"Ang unique na identifier ng row ay tinatawag na {{c1::Primary Key}}.",,Primary Key
+Foreign Key,"Ang field na nag-uugnay sa ibang table ay tinatawag na {{c1::Foreign Key}}.",,Foreign Key
+Data Types,"Ang mga uri ng data gaya ng INT at VARCHAR ay tinatawag na {{c1::Data Types}}.",,Data Types
+Schema,"Ang blueprint ng database structure ay tinatawag na {{c1::Schema}}.",,Schema
+Database,"Ang {{c1::Database}} ay nagsi-store ng data nang maayos.",,Database
+Table,"Ang {{c1::Table}} ay may rows at columns.",,Table
+Row,"Ang {{c1::Row}} ay isang record sa table.",,Row
+Column,"Ang {{c1::Column}} ay field na nagde-define ng data type.",,Column
+Primary Key,"Ang {{c1::Primary Key}} ay unique sa bawat row.",,Primary Key
+Foreign Key,"Ang {{c1::Foreign Key}} ay nag-uugnay sa ibang table.",,Foreign Key
+Data Types,"Ang {{c1::Data Types}} ay gaya ng INT, VARCHAR, DATE.",,Data Types
+Schema,"Ang {{c1::Schema}} ay ang buong database structure.",,Schema
