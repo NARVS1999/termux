@@ -1,0 +1,40 @@
+OPcache,"Ang {{c1::OPcache}} ay ang caching ng compiled PHP scripts.",,OPcache
+Memory Management,"Ang {{c1::Memory Management}} ay ang pagbawas ng memory usage.",,Memory Management
+Profiling,"Ang {{c1::Profiling}} ay ang pag-analyze ng slow code.",,Profiling
+Database Optimization,"Ang {{c1::Database Optimization}} ay ang pag-optimize ng database queries.",,Database Optimization
+Caching Strategies,"Ang mga {{c1::Caching Strategies}} ay ang pagpili ng tamang caching approach.",,Caching Strategies
+Asset Optimization,"Ang {{c1::Asset Optimization}} ay ang pag-combine at minify ng files.",,Asset Optimization
+Load Testing,"Ang {{c1::Load Testing}} ay ang pag-test ng application under load.",,Load Testing
+Code Optimization,"Ang {{c1::Code Optimization}} ay ang pagbawas ng unnecessary operations.",,Code Optimization
+OPcache,"Ang {{c1::OPcache}} ay caching ng compiled PHP scripts.",,OPcache
+Memory Management,"Ang {{c1::Memory Management}} ay pagbawas ng memory usage.",,Memory Management
+Profiling,"Ang {{c1::Profiling}} ay pag-analyze ng slow code.",,Profiling
+Database Optimization,"Ang {{c1::Database Optimization}} ay pag-optimize ng database queries.",,Database Optimization
+Caching Strategies,"Ang mga {{c1::Caching Strategies}} ay pagpili ng tamang caching approach.",,Caching Strategies
+Asset Optimization,"Ang {{c1::Asset Optimization}} ay pag-combine at minify ng files.",,Asset Optimization
+Load Testing,"Ang {{c1::Load Testing}} ay pag-test ng application under load.",,Load Testing
+Code Optimization,"Ang {{c1::Code Optimization}} ay pagbawas ng unnecessary operations.",,Code Optimization
+OPcache,"Ang {{c1::OPcache}} ay para sa PHP script caching.",,OPcache
+Memory Management,"Ang {{c1::Memory Management}} ay para sa efficient na memory usage.",,Memory Management
+Profiling,"Ang {{c1::Profiling}} ay para sa code analysis.",,Profiling
+Database Optimization,"Ang {{c1::Database Optimization}} ay para sa query performance.",,Database Optimization
+Caching Strategies,"Ang mga {{c1::Caching Strategies}} ay para sa optimal na caching.",,Caching Strategies
+Asset Optimization,"Ang {{c1::Asset Optimization}} ay para sa frontend optimization.",,Asset Optimization
+Load Testing,"Ang {{c1::Load Testing}} ay para sa performance testing.",,Load Testing
+Code Optimization,"Ang {{c1::Code Optimization}} ay para sa code efficiency.",,Code Optimization
+OPcache,"Paano mo i-cache ang compiled PHP scripts?",,"Gamitin ang OPcache."
+Memory Management,"Paano mo babawasan ang memory usage?",,"Gamitin ang memory management."
+Profiling,"Paano mo i-analyze ang slow code?",,"Gamitin ang profiling."
+Database Optimization,"Paano mo i-optimize ang database queries?",,"Gamitin ang database optimization."
+Caching Strategies,"Paano mo piliin ang tamang caching approach?",,"Tingnan ang caching strategies."
+Asset Optimization,"Paano mo i-combine at minify ang files?",,"Gamitin ang asset optimization."
+Load Testing,"Paano mo i-test ang application under load?",,"Gamitin ang load testing."
+Code Optimization,"Paano mo babawasan ang unnecessary operations?",,"Gamitin ang code optimization."
+OPcache,"Ano ang tawag sa caching ng compiled PHP scripts?",,"OPcache."
+Memory Management,"Ano ang tawag sa pagbawas ng memory usage?",,"Memory management."
+Profiling,"Ano ang tawag sa pag-analyze ng slow code?",,"Profiling."
+Database Optimization,"Ano ang tawag sa pag-optimize ng database queries?",,"Database optimization."
+Caching Strategies,"Ano ang tawag sa pagpili ng tamang caching approach?",,"Caching strategies."
+Asset Optimization,"Ano ang tawag sa pag-combine at minify ng files?",,"Asset optimization."
+Load Testing,"Ano ang tawag sa pag-test ng application under load?",,"Load testing."
+Code Optimization,"Ano ang tawag sa pagbawas ng unnecessary operations?",,"Code optimization."
