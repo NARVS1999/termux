@@ -1,0 +1,2 @@
+Analytics Integration,"Paano mag-setup ng analytics sa React Native app?",,"I-install ang @react-native-firebase/analytics at i-initialize sa app entry point."
+Analytics Integration,"Paano mag-track ng custom events gamit ang analytics?",,"Gamit ang analytics().logEvent() method, i-pass ang event name at parameters object."

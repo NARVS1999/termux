@@ -1,0 +1,18 @@
+Micro-frontends,"Ang {{c1::Micro-frontends}} ay modular architecture para sa large-scale apps.",,Micro-frontends
+Micro-frontends,"Gamit ang {{c1::Micro-frontends}}, nagse-separate ang app sa independent features.",,Micro-frontends
+Micro-frontends,"Ang {{c1::Micro-frontends}} ay nagbibigay ng independent deployment at scaling.",,Micro-frontends
+Code Push,"Ang {{c1::Code Push}} ay deployment strategy para sa instant updates.",,Code Push
+Code Push,"Gamit ang {{c1::Code Push}}, nagde-deploy ng JavaScript changes nang walang app store review.",,Code Push
+Code Push,"Ang {{c1::Code Push}} ay hindi gumagana para sa native code changes.",,Code Push
+A/B Testing,"Ang {{c1::A/B Testing}} ay experimentation framework para sa feature validation.",,A/B Testing
+A/B Testing,"Gamit ang {{c1::A/B Testing}}, nagco-compare ng different feature variants.",,A/B Testing
+A/B Testing,"Ang {{c1::A/B Testing}} ay nagbibigay ng statistical significance para sa decisions.",,A/B Testing
+Accessibility,"Ang {{c1::Accessibility}} ay screen reader at inclusive design implementation.",,Accessibility
+Accessibility,"Gamit ang {{c1::Accessibility}}, nagre-render ng app para sa users with disabilities.",,Accessibility
+Accessibility,"Ang {{c1::Accessibility}} ay nagre-require ng proper labels, roles, at hints.",,Accessibility
+Internationalization,"Ang {{c1::Internationalization}} ay multi-language support para sa global apps.",,Internationalization
+Internationalization,"Gamit ang {{c1::Internationalization}}, naglo-load ng translations based sa locale.",,Internationalization
+Internationalization,"Ang {{c1::Internationalization}} ay nagre-require ng i18n setup at translation files.",,Internationalization
+Security Hardening,"Ang {{c1::Security Hardening}} ay encryption at secure storage para sa sensitive data.",,Security Hardening
+Security Hardening,"Gamit ang {{c1::Security Hardening}}, nagpro-protect ng user data at credentials.",,Security Hardening
+Security Hardening,"Ang {{c1::Security Hardening}} ay nagre-require ng proper authentication at authorization.",,Security Hardening
