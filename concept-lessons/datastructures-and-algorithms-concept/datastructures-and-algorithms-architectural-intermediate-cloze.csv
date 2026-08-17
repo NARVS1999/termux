@@ -1,0 +1,25 @@
+Divide and Conquer,"Ang {{c1::Divide and Conquer}} ay ang paghahati ng problema sa mas maliliit na sub-problems.",,Divide and Conquer
+Greedy Algorithm,"Ang {{c1::Greedy Algorithm}} ay ang pagpili ng locally optimal na choice sa bawat step.",,Greedy Algorithm
+Recursion,"Ang {{c1::Recursion}} ay ang function na tumatawag sa sarili nito.",,Recursion
+Stack Overflow,"Ang {{c1::Stack Overflow}} ay ang error kapag naubusan ng stack space.",,Stack Overflow
+Tail Recursion,"Ang {{c1::Tail Recursion}} ay ang recursion na ang last action ay ang recursive call.",,Tail Recursion
+Divide and Conquer,"Ang {{c1::Divide and Conquer}} ay paghahati ng problema sa mas maliliit na sub-problems.",,Divide and Conquer
+Greedy Algorithm,"Ang {{c1::Greedy Algorithm}} ay pagpili ng locally optimal na choice sa bawat step.",,Greedy Algorithm
+Recursion,"Ang {{c1::Recursion}} ay function na tumatawag sa sarili nito.",,Recursion
+Stack Overflow,"Ang {{c1::Stack Overflow}} ay error kapag naubusan ng stack space.",,Stack Overflow
+Tail Recursion,"Ang {{c1::Tail Recursion}} ay recursion na ang last action ay ang recursive call.",,Tail Recursion
+Divide and Conquer,"Ang {{c1::Divide and Conquer}} ay para sa problem decomposition.",,Divide and Conquer
+Greedy Algorithm,"Ang {{c1::Greedy Algorithm}} ay para sa optimization problems.",,Greedy Algorithm
+Recursion,"Ang {{c1::Recursion}} ay para sa elegant na problem solving.",,Recursion
+Stack Overflow,"Ang {{c1::Stack Overflow}} ay para sa error detection.",,Stack Overflow
+Tail Recursion,"Ang {{c1::Tail Recursion}} ay para sa recursion optimization.",,Tail Recursion
+Divide and Conquer,"Paano mo hahatiin ang problema sa mas maliliit na sub-problems?",,"Gamitin ang divide and conquer."
+Greedy Algorithm,"Paano mo pipiliin ang locally optimal na choice?",,"Gamitin ang greedy algorithm."
+Recursion,"Paano mo gagamitin ang function na tumatawag sa sarili?",,"Gamitin ang recursion."
+Stack Overflow,"Paano mo maiiwasan ang stack overflow?",,"Gamitin ang tail recursion o iteration."
+Tail Recursion,"Paano mo i-optimize ang recursion?",,"Gamitin ang tail recursion."
+Divide and Conquer,"Ano ang tawag sa paghahati ng problema sa mas maliliit na sub-problems?",,"Divide and conquer."
+Greedy Algorithm,"Ano ang tawag sa pagpili ng locally optimal na choice sa bawat step?",,"Greedy algorithm."
+Recursion,"Ano ang tawag sa function na tumatawag sa sarili nito?",,"Recursion."
+Stack Overflow,"Ano ang tawag sa error kapag naubusan ng stack space?",,"Stack overflow."
+Tail Recursion,"Ano ang tawag sa recursion na ang last action ay ang recursive call?",,"Tail recursion."

@@ -1,0 +1,20 @@
+Dynamic Programming,"Ang {{c1::Dynamic Programming}} ay ang pag-solve ng problems gamit ang memoization.",,Dynamic Programming
+Backtracking,"Ang {{c1::Backtracking}} ay ang pag-explore ng lahat ng possible na solutions.",,Backtracking
+Memoization,"Ang {{c1::Memoization}} ay ang caching ng function results para hindi mag-recompute.",,Memoization
+Tabulation,"Ang {{c1::Tabulation}} ay ang bottom-up na approach ng dynamic programming.",,Tabulation
+Dynamic Programming,"Ang {{c1::Dynamic Programming}} ay pag-solve ng problems gamit ang memoization.",,Dynamic Programming
+Backtracking,"Ang {{c1::Backtracking}} ay pag-explore ng lahat ng possible na solutions.",,Backtracking
+Memoization,"Ang {{c1::Memoization}} ay caching ng function results para hindi mag-recompute.",,Memoization
+Tabulation,"Ang {{c1::Tabulation}} ay bottom-up na approach ng dynamic programming.",,Tabulation
+Dynamic Programming,"Ang {{c1::Dynamic Programming}} ay para sa optimization problems.",,Dynamic Programming
+Backtracking,"Ang {{c1::Backtracking}} ay para sa constraint satisfaction.",,Backtracking
+Memoization,"Ang {{c1::Memoization}} ay para sa recursive na optimization.",,Memoization
+Tabulation,"Ang {{c1::Tabulation}} ay para sa iterative na DP.",,Tabulation
+Dynamic Programming,"Paano mo i-solve ang optimization problems?",,"Gamitin ang dynamic programming."
+Backtracking,"Paano mo i-explore ang lahat ng possible na solutions?",,"Gamitin ang backtracking."
+Memoization,"Paano mo i-cache ang function results?",,"Gamitin ang memoization."
+Tabulation,"Paano mo i-solve ang DP problems gamit ang bottom-up?",,"Gamitin ang tabulation."
+Dynamic Programming,"Ano ang tawag sa pag-solve ng problems gamit ang memoization?",,"Dynamic programming."
+Backtracking,"Ano ang tawag sa pag-explore ng lahat ng possible na solutions?",,"Backtracking."
+Memoization,"Ano ang tawag sa caching ng function results para hindi mag-recompute?",,"Memoization."
+Tabulation,"Ano ang tawag sa bottom-up na approach ng dynamic programming?",,"Tabulation."

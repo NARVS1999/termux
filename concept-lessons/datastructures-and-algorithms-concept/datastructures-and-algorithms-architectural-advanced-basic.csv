@@ -1,0 +1,8 @@
+Dynamic Programming,"Paano mo i-solve ang optimization problems?",,"Gamitin ang dynamic programming."
+Backtracking,"Paano mo i-explore ang lahat ng possible na solutions?",,"Gamitin ang backtracking."
+Memoization,"Paano mo i-cache ang function results?",,"Gamitin ang memoization."
+Tabulation,"Paano mo i-solve ang DP problems gamit ang bottom-up?",,"Gamitin ang tabulation."
+Dynamic Programming,"Ano ang tawag sa pag-solve ng problems gamit ang memoization?",,"Dynamic programming."
+Backtracking,"Ano ang tawag sa pag-explore ng lahat ng possible na solutions?",,"Backtracking."
+Memoization,"Ano ang tawag sa caching ng function results para hindi mag-recompute?",,"Memoization."
+Tabulation,"Ano ang tawag sa bottom-up na approach ng dynamic programming?",,"Tabulation."
