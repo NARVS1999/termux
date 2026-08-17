@@ -1,0 +1,6 @@
+Memoization,"Paano mo i-cache ang computations para hindi mag-recompute?",,"Gamitin ang memoization."
+Virtualization,"Paano mo i-render ang visible items lang sa lists?",,"Gamitin ang virtualization."
+Memoization,"Ano ang tawag sa pag-cache ng computations para hindi mag-recompute?",,"Memoization."
+Virtualization,"Ano ang tawag sa pag-render lang ng visible items sa lists?",,"Virtualization."
+Memoization,"Ano ang benefit ng memoization?",,"Mas mabilis na computation."
+Virtualization,"Ano ang benefit ng virtualization?",,"Mas mabilis na list rendering."
