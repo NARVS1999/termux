@@ -1,0 +1,25 @@
+Data Encryption,"Ang {{c1::Data Encryption}} ay ang pag-encrypt ng data sa storage.",,Data Encryption
+Access Control,"Ang {{c1::Access Control}} ay ang pag-limit ng user permissions sa database.",,Access Control
+Audit Logging,"Ang {{c1::Audit Logging}} ay ang pagtala ng lahat ng database changes.",,Audit Logging
+Connection Limits,"Ang mga {{c1::Connection Limits}} ay ang pag-set ng max na connections.",,Connection Limits
+Query Timeout,"Ang {{c1::Query Timeout}} ay ang pag-limit ng oras ng isang query.",,Query Timeout
+Data Encryption,"Ang {{c1::Data Encryption}} ay nag-e-encrypt ng data sa storage.",,Data Encryption
+Access Control,"Ang {{c1::Access Control}} ay nagli-limit ng user permissions.",,Access Control
+Audit Logging,"Ang {{c1::Audit Logging}} ay nagtatala ng database changes.",,Audit Logging
+Connection Limits,"Ang mga {{c1::Connection Limits}} ay nagse-set ng max na connections.",,Connection Limits
+Query Timeout,"Ang {{c1::Query Timeout}} ay nagli-limit ng oras ng query.",,Query Timeout
+Data Encryption,"Ang {{c1::Data Encryption}} ay para sa proteksyon ng data.",,Data Encryption
+Access Control,"Ang {{c1::Access Control}} ay para sa security ng database.",,Access Control
+Audit Logging,"Ang {{c1::Audit Logging}} ay para sa tracking ng changes.",,Audit Logging
+Connection Limits,"Ang mga {{c1::Connection Limits}} ay para sa resource management.",,Connection Limits
+Query Timeout,"Ang {{c1::Query Timeout}} ay para sa hindi matagalang queries.",,Query Timeout
+Data Encryption,"Paano mo poprotektahan ang data sa storage?",,"Gamitin ang data encryption."
+Access Control,"Paano mo i-limit ang user permissions?",,"Gamitin ang access control."
+Audit Logging,"Paano mo ito-track ang lahat ng database changes?",,"Gamitin ang audit logging."
+Connection Limits,"Paano mo i-limit ang number ng connections?",,"Gamitin ang connection limits."
+Query Timeout,"Paano mo i-limit ang oras ng query?",,"Gamitin ang query timeout."
+Data Encryption,"Ano ang tawag sa pag-encrypt ng data sa storage?",,"Data encryption."
+Access Control,"Ano ang tawag sa pag-limit ng user permissions?",,"Access control."
+Audit Logging,"Ano ang tawag sa pagtala ng database changes?",,"Audit logging."
+Connection Limits,"Ano ang tawag sa pag-set ng max na connections?",,"Connection limits."
+Query Timeout,"Ano ang tawag sa pag-limit ng oras ng query?",,"Query timeout."
