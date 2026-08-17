@@ -1,0 +1,20 @@
+Seeders,"Ang mga {{c1::Seeders}} ay ang paglagay ng test data sa database.",,Seeders
+Configuration Files,"Ang mga {{c1::Configuration Files}} ay ang mga settings ng application.",,Configuration Files
+Environment Variables,"Ang mga {{c1::Environment Variables}} ay ang sensitive na data sa .env file.",,Environment Variables
+Artisan Console,"Ang {{c1::Artisan Console}} ay ang command-line tool ng Laravel.",,Artisan Console
+Seeders,"Ang mga {{c1::Seeders}} ay paglagay ng test data sa database.",,Seeders
+Configuration Files,"Ang mga {{c1::Configuration Files}} ay mga settings ng application.",,Configuration Files
+Environment Variables,"Ang mga {{c1::Environment Variables}} ay sensitive na data sa .env file.",,Environment Variables
+Artisan Console,"Ang {{c1::Artisan Console}} ay command-line tool ng Laravel.",,Artisan Console
+Seeders,"Ang mga {{c1::Seeders}} ay para sa test data generation.",,Seeders
+Configuration Files,"Ang mga {{c1::Configuration Files}} ay para sa app settings.",,Configuration Files
+Environment Variables,"Ang mga {{c1::Environment Variables}} ay para sa sensitive na data.",,Environment Variables
+Artisan Console,"Ang {{c1::Artisan Console}} ay para sa CLI commands.",,Artisan Console
+Seeders,"Paano mo lalagyan ng test data ang database?",,"Gamitin ang seeders."
+Configuration Files,"Paano mo i-configure ang application?",,"Gamitin ang configuration files."
+Environment Variables,"Paano mo i-store ang sensitive na data?",,"Gamitin ang environment variables."
+Artisan Console,"Paano mo gagamitin ang CLI sa Laravel?",,"Gamitin ang artisan console."
+Seeders,"Ano ang tawag sa paglagay ng test data sa database?",,"Seeders."
+Configuration Files,"Ano ang tawag sa mga settings ng application?",,"Configuration files."
+Environment Variables,"Ano ang tawag sa sensitive na data sa .env file?",,"Environment variables."
+Artisan Console,"Ano ang tawag sa command-line tool ng Laravel?",,"Artisan console."

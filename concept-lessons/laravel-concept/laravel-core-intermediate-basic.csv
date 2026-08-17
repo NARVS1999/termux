@@ -1,0 +1,8 @@
+Eloquent ORM,"Paano mo i-interact ang database gamit ang PHP objects?",,"Gamitin ang Eloquent ORM."
+Migrations,"Paano mo i-version ang database structure?",,"Gamitin ang migrations."
+Factories,"Paano mo gagawa ng fake data para sa testing?",,"Gamitin ang factories."
+Blade Templating,"Paano mo i-render ang UI sa Laravel?",,"Gamitin ang Blade templating."
+Eloquent ORM,"Ano ang tawag sa paghawak ng database bilang PHP objects?",,"Eloquent ORM."
+Migrations,"Ano ang tawag sa versioned na pagbabago ng database structure?",,"Migrations."
+Factories,"Ano ang tawag sa paggawa ng fake data para sa testing?",,"Factories."
+Blade Templating,"Ano ang tawag sa templating engine ng Laravel?",,"Blade templating."
