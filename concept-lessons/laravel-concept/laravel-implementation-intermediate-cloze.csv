@@ -1,0 +1,40 @@
+Eloquent Relationships,"Ang mga {{c1::Eloquent Relationships}} ay ang hasOne, hasMany, belongsTo at iba pa.",,Eloquent Relationships
+Query Builder,"Ang {{c1::Query Builder}} ay ang paggawa ng SQL gamit ang PHP methods.",,Query Builder
+Form Requests,"Ang mga {{c1::Form Requests}} ay ang dedicated na validation ng incoming data.",,Form Requests
+API Resources,"Ang mga {{c1::API Resources}} ay ang pag-transform ng models para sa API response.",,API Resources
+Route Model Binding,"Ang {{c1::Route Model Binding}} ay ang awtomatikong pag-inject ng model sa route.",,Route Model Binding
+Service Providers,"Ang mga {{c1::Service Providers}} ay ang nagbo-boot ng lahat ng services ng app.",,Service Providers
+Facades,"Ang mga {{c1::Facades}} ay ang static-like access sa services sa container.",,Facades
+Event Listeners,"Ang mga {{c1::Event Listeners}} ay ang pag-react sa events ng application.",,Event Listeners
+Eloquent Relationships,"Ang mga {{c1::Eloquent Relationships}} ay hasOne, hasMany, belongsTo at iba pa.",,Eloquent Relationships
+Query Builder,"Ang {{c1::Query Builder}} ay paggawa ng SQL gamit ang PHP methods.",,Query Builder
+Form Requests,"Ang mga {{c1::Form Requests}} ay dedicated na validation ng incoming data.",,Form Requests
+API Resources,"Ang mga {{c1::API Resources}} ay pag-transform ng models para sa API response.",,API Resources
+Route Model Binding,"Ang {{c1::Route Model Binding}} ay awtomatikong pag-inject ng model sa route.",,Route Model Binding
+Service Providers,"Ang mga {{c1::Service Providers}} ay nagbo-boot ng lahat ng services ng app.",,Service Providers
+Facades,"Ang mga {{c1::Facades}} ay static-like access sa services sa container.",,Facades
+Event Listeners,"Ang mga {{c1::Event Listeners}} ay pag-react sa events ng application.",,Event Listeners
+Eloquent Relationships,"Ang mga {{c1::Eloquent Relationships}} ay para sa table relationships.",,Eloquent Relationships
+Query Builder,"Ang {{c1::Query Builder}} ay para sa SQL query creation.",,Query Builder
+Form Requests,"Ang mga {{c1::Form Requests}} ay para sa data validation.",,Form Requests
+API Resources,"Ang mga {{c1::API Resources}} ay para sa API response transformation.",,API Resources
+Route Model Binding,"Ang {{c1::Route Model Binding}} ay para sa automatic model injection.",,Route Model Binding
+Service Providers,"Ang mga {{c1::Service Providers}} ay para sa service bootstrapping.",,Service Providers
+Facades,"Ang mga {{c1::Facades}} ay para sa convenient service access.",,Facades
+Event Listeners,"Ang mga {{c1::Event Listeners}} ay para sa event handling.",,Event Listeners
+Eloquent Relationships,"Paano mo i-connect ang dalawang tables?",,"Gamitin ang Eloquent relationships."
+Query Builder,"Paano mo gagawa ng SQL queries gamit ang PHP?",,"Gamitin ang query builder."
+Form Requests,"Paano mo i-validate ang incoming data?",,"Gamitin ang form requests."
+API Resources,"Paano mo i-transform ang models para sa API?",,"Gamitin ang API resources."
+Route Model Binding,"Paano mo awtomatikong i-inject ang model sa route?",,"Gamitin ang route model binding."
+Service Providers,"Paano mo i-boot ang services ng app?",,"Gamitin ang service providers."
+Facades,"Paano mo i-access ang services nang hindi nag-i-inject?",,"Gamitin ang facades."
+Event Listeners,"Paano mo i-handle ang events ng application?",,"Gamitin ang event listeners."
+Eloquent Relationships,"Ano ang tawag sa hasOne, hasMany, belongsTo at iba pa?",,"Eloquent relationships."
+Query Builder,"Ano ang tawag sa paggawa ng SQL gamit ang PHP methods?",,"Query builder."
+Form Requests,"Ano ang tawag sa dedicated na validation ng incoming data?",,"Form requests."
+API Resources,"Ano ang tawag sa pag-transform ng models para sa API response?",,"API resources."
+Route Model Binding,"Ano ang tawag sa awtomatikong pag-inject ng model sa route?",,"Route model binding."
+Service Providers,"Ano ang tawag sa nagbo-boot ng lahat ng services ng app?",,"Service providers."
+Facades,"Ano ang tawag sa static-like access sa services sa container?",,"Facades."
+Event Listeners,"Ano ang tawag sa pag-react sa events ng application?",,"Event listeners."

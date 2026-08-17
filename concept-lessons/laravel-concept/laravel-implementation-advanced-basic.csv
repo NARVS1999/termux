@@ -1,0 +1,3 @@
+Eager Loading,"Paano mo i-optimize ang queries para iwasan N+1?",,"Gamitin ang eager loading."
+Eager Loading,"Ano ang tawag sa pag-optimize ng queries para iwasan N+1?",,"Eager loading."
+Eager Loading,"Ano ang benefit ng eager loading?",,"Mas kaunti ang database queries."
