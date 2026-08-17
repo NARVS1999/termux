@@ -1,0 +1,12 @@
+Star Schema,"Ang {{c1::Star Schema}} ay ang design na may central fact table at dimension tables.",,Star Schema
+Connection Pooling,"Ang {{c1::Connection Pooling}} ay ang pag-reuse ng database connections.",,Connection Pooling
+Star Schema,"Ang {{c1::Star Schema}} ay may central fact table at dimension tables.",,Star Schema
+Connection Pooling,"Ang {{c1::Connection Pooling}} ay nagre-reuse ng database connections.",,Connection Pooling
+Star Schema,"Ang {{c1::Star Schema}} ay para sa data warehouse design.",,Star Schema
+Connection Pooling,"Ang {{c1::Connection Pooling}} ay para sa efficient na connection management.",,Connection Pooling
+Star Schema,"Paano mo idedesign ang data warehouse?",,"Gamitin ang star schema."
+Connection Pooling,"Paano mo i-o-optimize ang database connections?",,"Gamitin ang connection pooling."
+Star Schema,"Ano ang tawag sa design na may fact table at dimension tables?",,"Star schema."
+Connection Pooling,"Ano ang tawag sa pag-reuse ng database connections?",,"Connection pooling."
+Star Schema,"Ano ang benefit ng star schema?",,"Mas simple at mabilis na queries."
+Connection Pooling,"Ano ang benefit ng connection pooling?",,"Mas fewer connections at mas mabilis."

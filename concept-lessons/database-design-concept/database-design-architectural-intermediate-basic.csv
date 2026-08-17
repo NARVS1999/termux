@@ -1,0 +1,4 @@
+Star Schema,"Paano mo idedesign ang data warehouse?",,"Gamitin ang star schema."
+Connection Pooling,"Paano mo i-o-optimize ang database connections?",,"Gamitin ang connection pooling."
+Star Schema,"Ano ang tawag sa design na may fact table at dimension tables?",,"Star schema."
+Connection Pooling,"Ano ang tawag sa pag-reuse ng database connections?",,"Connection pooling."

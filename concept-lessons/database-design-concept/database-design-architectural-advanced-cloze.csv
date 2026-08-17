@@ -1,0 +1,42 @@
+Snowflake Schema,"Ang {{c1::Snowflake Schema}} ay ang normalized na version ng star schema.",,Snowflake Schema
+Data Warehouse,"Ang {{c1::Data Warehouse}} ay ang centralized na repository ng historical data.",,Data Warehouse
+OLTP vs OLAP,"Ang {{c1::OLTP vs OLAP}} ay ang pagkakaiba ng transactional at analytical processing.",,OLTP vs OLAP
+Sharding,"Ang {{c1::Sharding}} ay ang paghahati ng database sa maraming servers.",,Sharding
+Replication,"Ang {{c1::Replication}} ay ang pag-copy ng data sa maraming instances.",,Replication
+Master-Slave Architecture,"Ang {{c1::Master-Slave Architecture}} ay ang primary at backup database setup.",,Master-Slave Architecture
+Database Partitioning,"Ang {{c1::Database Partitioning}} ay ang paghahati ng large tables sa smaller pieces.",,Database Partitioning
+Snowflake Schema,"Ang {{c1::Snowflake Schema}} ay normalized version ng star schema.",,Snowflake Schema
+Data Warehouse,"Ang {{c1::Data Warehouse}} ay centralized na repository ng data.",,Data Warehouse
+OLTP vs OLAP,"Ang {{c1::OLTP vs OLAP}} ay pagkakaiba ng transactional at analytical.",,OLTP vs OLAP
+Sharding,"Ang {{c1::Sharding}} ay paghahati ng database sa maraming servers.",,Sharding
+Replication,"Ang {{c1::Replication}} ay pag-copy ng data sa maraming instances.",,Replication
+Master-Slave Architecture,"Ang {{c1::Master-Slave Architecture}} ay primary at backup setup.",,Master-Slave Architecture
+Database Partitioning,"Ang {{c1::Database Partitioning}} ay paghahati ng large tables.",,Database Partitioning
+Snowflake Schema,"Ang {{c1::Snowflake Schema}} ay para sa normalized na data warehouse.",,Snowflake Schema
+Data Warehouse,"Ang {{c1::Data Warehouse}} ay para sa historical data.",,Data Warehouse
+OLTP vs OLAP,"Ang {{c1::OLTP vs OLAP}} ay para sa pagkakaiba ng processing.",,OLTP vs OLAP
+Sharding,"Ang {{c1::Sharding}} ay para sa horizontal na paghahati.",,Sharding
+Replication,"Ang {{c1::Replication}} ay para sa data redundancy.",,Replication
+Master-Slave Architecture,"Ang {{c1::Master-Slave Architecture}} ay para sa backup at failover.",,Master-Slave Architecture
+Database Partitioning,"Ang {{c1::Database Partitioning}} ay para sa paghahati ng tables.",,Database Partitioning
+Snowflake Schema,"Paano mo i-normalize ang star schema?",,"Gamitin ang snowflake schema."
+Data Warehouse,"Saan mo i-store ang historical data?",,"Sa data warehouse."
+OLTP vs OLAP,"Ano ang pagkakaiba ng OLTP at OLAP?",,"OLTP ay para sa transactions, OLAP ay para sa analysis."
+Sharding,"Paano mo hahatiin ang database sa maraming servers?",,"Gamitin ang sharding."
+Replication,"Paano mo i-copy ang data sa maraming instances?",,"Gamitin ang replication."
+Master-Slave Architecture,"Paano mo setup ang primary at backup database?",,"Gamitin ang master-slave architecture."
+Database Partitioning,"Paano mo hahatiin ang large tables?",,"Gamitin ang database partitioning."
+Snowflake Schema,"Ano ang tawag sa normalized na star schema?",,"Snowflake schema."
+Data Warehouse,"Ano ang tawag sa centralized na repository ng data?",,"Data warehouse."
+OLTP vs OLAP,"Ano ang tawag sa pagkakaiba ng transactional at analytical?",,"OLTP vs OLAP."
+Sharding,"Ano ang tawag sa paghahati ng database sa maraming servers?",,"Sharding."
+Replication,"Ano ang tawag sa pag-copy ng data sa maraming instances?",,"Replication."
+Master-Slave Architecture,"Ano ang tawag sa primary at backup setup?",,"Master-slave architecture."
+Database Partitioning,"Ano ang tawag sa paghahati ng large tables?",,"Database partitioning."
+Snowflake Schema,"Ano ang benefit ng snowflake schema?",,"Mas normalized at efficient na storage."
+Data Warehouse,"Ano ang benefit ng data warehouse?",,"Centralized na historical data for analysis."
+OLTP vs OLAP,"Bakit kailangang paghiwalayin ang OLTP at OLAP?",,"Para sa performance at efficiency."
+Sharding,"Ano ang benefit ng sharding?",,"Horizontal na scalability."
+Replication,"Ano ang benefit ng replication?",,"Data redundancy at high availability."
+Master-Slave Architecture,"Ano ang benefit ng master-slave architecture?",,"Backup at failover capability."
+Database Partitioning,"Ano ang benefit ng database partitioning?",,"Mas mabilis na queries at easier maintenance."
