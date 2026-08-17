@@ -1,0 +1,5 @@
+Radix Sort,"Paano mo i-sort ang integers digit by digit?",,"Gamitin ang radix sort."
+Radix Sort,"Ano ang tawag sa sorting algorithm na nagso-sort digit by digit?",,"Radix sort."
+Radix Sort,"Ano ang time complexity ng radix sort?",,"O(d * (n + b)) kung saan d ay digits, n ay elements, b ay base."
+Radix Sort,"Kailan mo gagamitin ang radix sort?",,"Kapag may malaking range ng integers."
+Radix Sort,"Ano ang advantage ng radix sort?",,"Linear time para sa fixed number ng digits."

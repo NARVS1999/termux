@@ -1,0 +1,30 @@
+Binary Search,"Ang {{c1::Binary Search}} ay ang pag-search sa sorted array gamit ang divide and conquer.",,Binary Search
+Insertion Sort,"Ang {{c1::Insertion Sort}} ay ang pag-sort sa pamamagitan ng pag-insert ng element.",,Insertion Sort
+Merge Sort,"Ang {{c1::Merge Sort}} ay ang divide and conquer na sorting algorithm.",,Merge Sort
+Quick Sort,"Ang {{c1::Quick Sort}} ay ang divide and conquer na sorting gamit ang pivot.",,Quick Sort
+Heap Sort,"Ang {{c1::Heap Sort}} ay ang sorting algorithm na gumagamit ng heap.",,Heap Sort
+Counting Sort,"Ang {{c1::Counting Sort}} ay ang non-comparison based na sorting algorithm.",,Counting Sort
+Binary Search,"Ang {{c1::Binary Search}} ay pag-search sa sorted array gamit ang divide and conquer.",,Binary Search
+Insertion Sort,"Ang {{c1::Insertion Sort}} ay pag-sort sa pamamagitan ng pag-insert ng element.",,Insertion Sort
+Merge Sort,"Ang {{c1::Merge Sort}} ay divide and conquer na sorting algorithm.",,Merge Sort
+Quick Sort,"Ang {{c1::Quick Sort}} ay divide and conquer na sorting gamit ang pivot.",,Quick Sort
+Heap Sort,"Ang {{c1::Heap Sort}} ay sorting algorithm na gumagamit ng heap.",,Heap Sort
+Counting Sort,"Ang {{c1::Counting Sort}} ay non-comparison based na sorting algorithm.",,Counting Sort
+Binary Search,"Ang {{c1::Binary Search}} ay para sa sorted na data.",,Binary Search
+Insertion Sort,"Ang {{c1::Insertion Sort}} ay para sa nearly sorted na data.",,Insertion Sort
+Merge Sort,"Ang {{c1::Merge Sort}} ay para sa stable na sorting.",,Merge Sort
+Quick Sort,"Ang {{c1::Quick Sort}} ay para sa fast na sorting.",,Quick Sort
+Heap Sort,"Ang {{c1::Heap Sort}} ay para sa in-place na sorting.",,Heap Sort
+Counting Sort,"Ang {{c1::Counting Sort}} ay para sa integer sorting.",,Counting Sort
+Binary Search,"Paano mo mag-search sa sorted na array?",,"Gamitin ang binary search."
+Insertion Sort,"Paano mo i-sort ang array gamit ang insertion?",,"Gamitin ang insertion sort."
+Merge Sort,"Paano mo i-sort ang array gamit ang divide and conquer?",,"Gamitin ang merge sort."
+Quick Sort,"Paano mo i-sort ang array gamit ang pivot?",,"Gamitin ang quick sort."
+Heap Sort,"Paano mo i-sort ang array gamit ang heap?",,"Gamitin ang heap sort."
+Counting Sort,"Paano mo i-sort ang integers gamit ang counting?",,"Gamitin ang counting sort."
+Binary Search,"Ano ang tawag sa pag-search sa sorted array gamit ang divide and conquer?",,"Binary search."
+Insertion Sort,"Ano ang tawag sa pag-sort sa pamamagitan ng pag-insert ng element?",,"Insertion sort."
+Merge Sort,"Ano ang tawag sa divide and conquer na sorting algorithm?",,"Merge sort."
+Quick Sort,"Ano ang tawag sa divide and conquer na sorting gamit ang pivot?",,"Quick sort."
+Heap Sort,"Ano ang tawag sa sorting algorithm na gumagamit ng heap?",,"Heap sort."
+Counting Sort,"Ano ang tawag sa non-comparison based na sorting algorithm?",,"Counting sort."

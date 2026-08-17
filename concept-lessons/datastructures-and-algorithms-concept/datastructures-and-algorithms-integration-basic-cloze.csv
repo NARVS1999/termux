@@ -1,0 +1,15 @@
+Linear Search,"Ang {{c1::Linear Search}} ay ang pag-search sa bawat element ng isa-isa.",,Linear Search
+Bubble Sort,"Ang {{c1::Bubble Sort}} ay ang pag-sort sa pamamagitan ng pag-swipe ng adjacent elements.",,Bubble Sort
+Selection Sort,"Ang {{c1::Selection Sort}} ay ang pag-sort sa pamamagitan ng pag-select ng minimum.",,Selection Sort
+Linear Search,"Ang {{c1::Linear Search}} ay pag-search sa bawat element ng isa-isa.",,Linear Search
+Bubble Sort,"Ang {{c1::Bubble Sort}} ay pag-sort sa pamamagitan ng pag-swipe ng adjacent elements.",,Bubble Sort
+Selection Sort,"Ang {{c1::Selection Sort}} ay pag-sort sa pamamagitan ng pag-select ng minimum.",,Selection Sort
+Linear Search,"Ang {{c1::Linear Search}} ay para sa unsorted na data.",,Linear Search
+Bubble Sort,"Ang {{c1::Bubble Sort}} ay para sa simple na sorting.",,Bubble Sort
+Selection Sort,"Ang {{c1::Selection Sort}} ay para sa minimum na swaps.",,Selection Sort
+Linear Search,"Paano mo hanapin ang element sa unsorted na list?",,"Gamitin ang linear search."
+Bubble Sort,"Paano mo i-sort ang array gamit ang adjacent swaps?",,"Gamitin ang bubble sort."
+Selection Sort,"Paano mo i-sort ang array gamit ang minimum selection?",,"Gamitin ang selection sort."
+Linear Search,"Ano ang tawag sa pag-search sa bawat element ng isa-isa?",,"Linear search."
+Bubble Sort,"Ano ang tawag sa pag-sort sa pamamagitan ng pag-swipe ng adjacent elements?",,"Bubble sort."
+Selection Sort,"Ano ang tawag sa pag-sort sa pamamagitan ng pag-select ng minimum?",,"Selection sort."
