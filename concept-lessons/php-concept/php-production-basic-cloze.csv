@@ -1,0 +1,25 @@
+Input Validation,"Ang {{c1::Input Validation}} ay ang pag-check ng lahat ng user input.",,Input Validation
+SQL Injection Prevention,"Ang {{c1::SQL Injection Prevention}} ay ang pag-iwas ng SQL injection attacks.",,SQL Injection Prevention
+XSS Prevention,"Ang {{c1::XSS Prevention}} ay ang pag-iwas ng cross-site scripting.",,XSS Prevention
+CSRF Protection,"Ang {{c1::CSRF Protection}} ay ang depensa laban sa forged requests.",,CSRF Protection
+Password Hashing,"Ang {{c1::Password Hashing}} ay ang pag-encrypt ng passwords gamit ang password_hash.",,Password Hashing
+Input Validation,"Ang {{c1::Input Validation}} ay pag-check ng lahat ng user input.",,Input Validation
+SQL Injection Prevention,"Ang {{c1::SQL Injection Prevention}} ay pag-iwas ng SQL injection attacks.",,SQL Injection Prevention
+XSS Prevention,"Ang {{c1::XSS Prevention}} ay pag-iwas ng cross-site scripting.",,XSS Prevention
+CSRF Protection,"Ang {{c1::CSRF Protection}} ay depensa laban sa forged requests.",,CSRF Protection
+Password Hashing,"Ang {{c1::Password Hashing}} ay pag-encrypt ng passwords gamit ang password_hash.",,Password Hashing
+Input Validation,"Ang {{c1::Input Validation}} ay para sa data validation.",,Input Validation
+SQL Injection Prevention,"Ang {{c1::SQL Injection Prevention}} ay para sa SQL safety.",,SQL Injection Prevention
+XSS Prevention,"Ang {{c1::XSS Prevention}} ay para sa script injection prevention.",,XSS Prevention
+CSRF Protection,"Ang {{c1::CSRF Protection}} ay para sa request protection.",,CSRF Protection
+Password Hashing,"Ang {{c1::Password Hashing}} ay para sa password security.",,Password Hashing
+Input Validation,"Paano mo i-validate ang user input?",,"Gamitin ang input validation."
+SQL Injection Prevention,"Paano mo maiiwasan ang SQL injection attacks?",,"Gamitin ang SQL injection prevention."
+XSS Prevention,"Paano mo maiiwasan ang cross-site scripting?",,"Gamitin ang XSS prevention."
+CSRF Protection,"Paano mo poprotektahan ang laban sa forged requests?",,"Gamitin ang CSRF protection."
+Password Hashing,"Paano mo i-encrypt ang passwords?",,"Gamitin ang password hashing."
+Input Validation,"Ano ang tawag sa pag-check ng lahat ng user input?",,"Input validation."
+SQL Injection Prevention,"Ano ang tawag sa pag-iwas ng SQL injection attacks?",,"SQL injection prevention."
+XSS Prevention,"Ano ang tawag sa pag-iwas ng cross-site scripting?",,"XSS prevention."
+CSRF Protection,"Ano ang tawag sa depensa laban sa forged requests?",,"CSRF protection."
+Password Hashing,"Ano ang tawag sa pag-encrypt ng passwords gamit ang password_hash?",,"Password hashing."

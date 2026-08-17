@@ -1,0 +1,15 @@
+Security Best Practices,"Ang mga {{c1::Security Best Practices}} ay ang pag-secure ng PHP applications.",,Security Best Practices
+Encryption,"Ang {{c1::Encryption}} ay ang pag-encrypt ng sensitive data.",,Encryption
+Logging,"Ang {{c1::Logging}} ay ang pagtala ng important events.",,Logging
+Security Best Practices,"Ang mga {{c1::Security Best Practices}} ay pag-secure ng PHP applications.",,Security Best Practices
+Encryption,"Ang {{c1::Encryption}} ay pag-encrypt ng sensitive data.",,Encryption
+Logging,"Ang {{c1::Logging}} ay pagtala ng important events.",,Logging
+Security Best Practices,"Ang mga {{c1::Security Best Practices}} ay para sa application security.",,Security Best Practices
+Encryption,"Ang {{c1::Encryption}} ay para sa data protection.",,Encryption
+Logging,"Ang {{c1::Logging}} ay para sa event tracking.",,Logging
+Security Best Practices,"Paano mo i-secure ang PHP application?",,"Gamitin ang security best practices."
+Encryption,"Paano mo i-encrypt ang sensitive data?",,"Gamitin ang encryption."
+Logging,"Paano mo ito-track ang important events?",,"Gamitin ang logging."
+Security Best Practices,"Ano ang tawag sa pag-secure ng PHP applications?",,"Security best practices."
+Encryption,"Ano ang tawag sa pag-encrypt ng sensitive data?",,"Encryption."
+Logging,"Ano ang tawag sa pagtala ng important events?",,"Logging."
