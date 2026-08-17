@@ -1,0 +1,30 @@
+Variable,"Ang {{c1::Variable}} ay ang lalagyan ng data na may pangalan.",,Variable
+Array,"Ang {{c1::Array}} ay ang ordered na list ng values na may index.",,Array
+String,"Ang {{c1::String}} ay ang sequence ng characters.",,String
+Integer,"Ang {{c1::Integer}} ay ang whole number na walang decimal.",,Integer
+Boolean,"Ang {{c1::Boolean}} ay ang true o false value.",,Boolean
+Operator,"Ang {{c1::Operator}} ay ang symbol na nagpe-perform ng operation.",,Operator
+Function,"Ang {{c1::Function}} ay ang reusable block ng code na may return value.",,Function
+Index,"Ang {{c1::Index}} ay ang position ng element sa array.",,Index
+Length,"Ang {{c1::Length}} ay ang bilang ng elements sa data structure.",,Length
+Null,"Ang {{c1::Null}} ay ang absence ng value.",,Null
+Variable,"Ang {{c1::Variable}} ay lalagyan ng data na may pangalan.",,Variable
+Array,"Ang {{c1::Array}} ay ordered na list ng values na may index.",,Array
+String,"Ang {{c1::String}} ay sequence ng characters.",,String
+Integer,"Ang {{c1::Integer}} ay whole number na walang decimal.",,Integer
+Boolean,"Ang {{c1::Boolean}} ay true o false value.",,Boolean
+Operator,"Ang {{c1::Operator}} ay symbol na nagpe-perform ng operation.",,Operator
+Function,"Ang {{c1::Function}} ay reusable block ng code na may return value.",,Function
+Index,"Ang {{c1::Index}} ay position ng element sa array.",,Index
+Length,"Ang {{c1::Length}} ay bilang ng elements sa data structure.",,Length
+Null,"Ang {{c1::Null}} ay absence ng value.",,Null
+Variable,"Ang {{c1::Variable}} ay para sa pag-iimbak ng data.",,Variable
+Array,"Ang {{c1::Array}} ay para sa ordered na data.",,Array
+String,"Ang {{c1::String}} ay para sa text data.",,String
+Integer,"Ang {{c1::Integer}} ay para sa numeric data.",,Integer
+Boolean,"Ang {{c1::Boolean}} ay para sa true o false values.",,Boolean
+Operator,"Ang {{c1::Operator}} ay para sa math at logical operations.",,Operator
+Function,"Ang {{c1::Function}} ay para sa code reusability.",,Function
+Index,"Ang {{c1::Index}} ay para sa element positioning.",,Index
+Length,"Ang {{c1::Length}} ay para sa size measurement.",,Length
+Null,"Ang {{c1::Null}} ay para sa empty values.",,Null
