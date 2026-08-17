@@ -1,0 +1,40 @@
+State Lifting,"Ang {{c1::State Lifting}} ay ang paglipat ng state sa common parent.",,State Lifting
+Context API,"Ang {{c1::Context API}} ay ang pag-share ng data nang hindi nag-pa-pass ng props.",,Context API
+React Router,"Ang {{c1::React Router}} ay ang pag-navigate ng pages nang walang reload.",,React Router
+Client-Side Routing,"Ang {{c1::Client-Side Routing}} ay ang pag-manage ng URL sa browser.",,Client-Side Routing
+API Fetching,"Ang {{c1::API Fetching}} ay ang pagkuha ng data mula sa external APIs.",,API Fetching
+Loading & Error States,"Ang mga {{c1::Loading & Error States}} ay ang pag-display habang naglo-load o may error.",,Loading & Error States
+Pagination,"Ang {{c1::Pagination}} ay ang paghahati ng data sa pages.",,Pagination
+Search & Filtering,"Ang {{c1::Search & Filtering}} ay ang paghanap at pag-filter ng data.",,Search & Filtering
+State Lifting,"Ang {{c1::State Lifting}} ay paglipat ng state sa common parent.",,State Lifting
+Context API,"Ang {{c1::Context API}} ay pag-share ng data nang hindi nag-pa-pass ng props.",,Context API
+React Router,"Ang {{c1::React Router}} ay pag-navigate ng pages nang walang reload.",,React Router
+Client-Side Routing,"Ang {{c1::Client-Side Routing}} ay pag-manage ng URL sa browser.",,Client-Side Routing
+API Fetching,"Ang {{c1::API Fetching}} ay pagkuha ng data mula sa external APIs.",,API Fetching
+Loading & Error States,"Ang mga {{c1::Loading & Error States}} ay pag-display habang naglo-load o may error.",,Loading & Error States
+Pagination,"Ang {{c1::Pagination}} ay paghahati ng data sa pages.",,Pagination
+Search & Filtering,"Ang {{c1::Search & Filtering}} ay paghanap at pag-filter ng data.",,Search & Filtering
+State Lifting,"Ang {{c1::State Lifting}} ay para sa state sharing.",,State Lifting
+Context API,"Ang {{c1::Context API}} ay para sa global na data sharing.",,Context API
+React Router,"Ang {{c1::React Router}} ay para sa page navigation.",,React Router
+Client-Side Routing,"Ang {{c1::Client-Side Routing}} ay para sa URL management.",,Client-Side Routing
+API Fetching,"Ang {{c1::API Fetching}} ay para sa data fetching.",,API Fetching
+Loading & Error States,"Ang mga {{c1::Loading & Error States}} ay para sa loading at error handling.",,Loading & Error States
+Pagination,"Ang {{c1::Pagination}} ay para sa data presentation.",,Pagination
+Search & Filtering,"Ang {{c1::Search & Filtering}} ay para sa data filtering.",,Search & Filtering
+State Lifting,"Paano mo i-share ang state sa pagitan ng components?",,"Gamitin ang state lifting."
+Context API,"Paano mo i-share ang data nang hindi nag-pa-pass ng props?",,"Gamitin ang context API."
+React Router,"Paano mo i-navigate ang pages nang walang reload?",,"Gamitin ang React Router."
+Client-Side Routing,"Paano mo i-manage ang URL sa browser?",,"Gamitin ang client-side routing."
+API Fetching,"Paano mo kukuha ng data mula sa external APIs?",,"Gamitin ang API fetching."
+Loading & Error States,"Paano mo i-display ang loading at error states?",,"Gamitin ang loading at error states."
+Pagination,"Paano mo hahatiin ang data sa pages?",,"Gamitin ang pagination."
+Search & Filtering,"Paano mo hahanapin at i-filter ang data?",,"Gamitin ang search at filtering."
+State Lifting,"Ano ang tawag sa paglipat ng state sa common parent?",,"State lifting."
+Context API,"Ano ang tawag sa pag-share ng data nang hindi nag-pa-pass ng props?",,"Context API."
+React Router,"Ano ang tawag sa pag-navigate ng pages nang walang reload?",,"React Router."
+Client-Side Routing,"Ano ang tawag sa pag-manage ng URL sa browser?",,"Client-side routing."
+API Fetching,"Ano ang tawag sa pagkuha ng data mula sa external APIs?",,"API fetching."
+Loading & Error States,"Ano ang tawag sa pag-display habang naglo-load o may error?",,"Loading at error states."
+Pagination,"Ano ang tawag sa paghahati ng data sa pages?",,"Pagination."
+Search & Filtering,"Ano ang tawag sa paghanap at pag-filter ng data?",,"Search at filtering."
