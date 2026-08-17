@@ -1,0 +1,40 @@
+PHP Syntax,"Ang {{c1::PHP Syntax}} ay ang opening at closing tags, semicolons, at structure.",,PHP Syntax
+Variables,"Ang mga {{c1::Variables}} ay ang lalagyan ng data gamit ang $ symbol.",,Variables
+Data Types,"Ang mga {{c1::Data Types}} ay ang mga uri ng data gaya ng string, int, float, boolean.",,Data Types
+Operators,"Ang mga {{c1::Operators}} ay ang mga symbol para sa math, comparison, at logical.",,Operators
+echo & print,"Ang {{c1::echo & print}} ay ang pag-output ng data sa browser.",,echo & print
+Comments,"Ang mga {{c1::Comments}} ay ang mga notes na hindi pinapatakbo.",,Comments
+Include & Require,"Ang {{c1::Include & Require}} ay ang pag-import ng ibang PHP files.",,Include & Require
+Superglobals,"Ang mga {{c1::Superglobals}} ay ang built-in na variables gaya ng $_GET, $_POST.",,Superglobals
+PHP Syntax,"Ang {{c1::PHP Syntax}} ay opening at closing tags, semicolons, at structure.",,PHP Syntax
+Variables,"Ang mga {{c1::Variables}} ay lalagyan ng data gamit ang $ symbol.",,Variables
+Data Types,"Ang mga {{c1::Data Types}} ay mga uri ng data gaya ng string, int, float, boolean.",,Data Types
+Operators,"Ang mga {{c1::Operators}} ay mga symbol para sa math, comparison, at logical.",,Operators
+echo & print,"Ang {{c1::echo & print}} ay pag-output ng data sa browser.",,echo & print
+Comments,"Ang mga {{c1::Comments}} ay mga notes na hindi pinapatakbo.",,Comments
+Include & Require,"Ang {{c1::Include & Require}} ay pag-import ng ibang PHP files.",,Include & Require
+Superglobals,"Ang mga {{c1::Superglobals}} ay built-in na variables gaya ng $_GET, $_POST.",,Superglobals
+PHP Syntax,"Ang {{c1::PHP Syntax}} ay para sa PHP code structure.",,PHP Syntax
+Variables,"Ang mga {{c1::Variables}} ay para sa data storage.",,Variables
+Data Types,"Ang mga {{c1::Data Types}} ay para sa data classification.",,Data Types
+Operators,"Ang mga {{c1::Operators}} ay para sa operations.",,Operators
+echo & print,"Ang {{c1::echo & print}} ay para sa data output.",,echo & print
+Comments,"Ang mga {{c1::Comments}} ay para sa code documentation.",,Comments
+Include & Require,"Ang {{c1::Include & Require}} ay para sa file importing.",,Include & Require
+Superglobals,"Ang mga {{c1::Superglobals}} ay para sa built-in na variables.",,Superglobals
+PHP Syntax,"Paano mo isusulat ang PHP code?",,"Gamitin ang PHP syntax."
+Variables,"Paano mo i-store ang data sa PHP?",,"Gamitin ang variables."
+Data Types,"Paano mo i-classify ang data sa PHP?",,"Tingnan ang data types."
+Operators,"Paano mo gagawa ng math operations sa PHP?",,"Gamitin ang operators."
+echo & print,"Paano mo i-output ang data sa browser?",,"Gamitin ang echo o print."
+Comments,"Paano mo idodocument ang code?",,"Gamitin ang comments."
+Include & Require,"Paano mo i-import ang ibang PHP files?",,"Gamitin ang include o require."
+Superglobals,"Paano mo i-access ang built-in na variables?",,"Gamitin ang superglobals."
+PHP Syntax,"Ano ang tawag sa opening at closing tags, semicolons, at structure?",,"PHP syntax."
+Variables,"Ano ang tawag sa lalagyan ng data gamit ang $ symbol?",,"Variables."
+Data Types,"Ano ang tawag sa mga uri ng data gaya ng string, int, float, boolean?",,"Data types."
+Operators,"Ano ang tawag sa mga symbol para sa math, comparison, at logical?",,"Operators."
+echo & print,"Ano ang tawag sa pag-output ng data sa browser?",,"Echo at print."
+Comments,"Ano ang tawag sa mga notes na hindi pinapatakbo?",,"Comments."
+Include & Require,"Ano ang tawag sa pag-import ng ibang PHP files?",,"Include at require."
+Superglobals,"Ano ang tawag sa built-in na variables gaya ng $_GET, $_POST?",,"Superglobals."
