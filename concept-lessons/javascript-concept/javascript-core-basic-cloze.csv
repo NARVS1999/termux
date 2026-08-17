@@ -1,0 +1,18 @@
+Functions,"Ang mga {{c1::Functions}} ay ang reusable block ng code na may parameter at return.",,Functions
+Arrow Functions,"Ang mga {{c1::Arrow Functions}} ay ang shorter na syntax ng functions.",,Arrow Functions
+Strict Mode,"Ang {{c1::Strict Mode}} ay ang stricter na rules para sa JavaScript execution.",,Strict Mode
+Functions,"Ang mga {{c1::Functions}} ay reusable block ng code.",,Functions
+Arrow Functions,"Ang mga {{c1::Arrow Functions}} ay shorter na syntax ng functions.",,Arrow Functions
+Strict Mode,"Ang {{c1::Strict Mode}} ay stricter na rules para sa execution.",,Strict Mode
+Functions,"Ang mga {{c1::Functions}} ay para sa code reusability.",,Functions
+Arrow Functions,"Ang mga {{c1::Arrow Functions}} ay para sa mas malinis na code.",,Arrow Functions
+Strict Mode,"Ang {{c1::Strict Mode}} ay para sa safer na code.",,Strict Mode
+Functions,"Paano mo gagawin ang reusable na code?",,"Gamitin ang functions."
+Arrow Functions,"Paano mo pabilisin ang paggawa ng functions?",,"Gamitin ang arrow functions."
+Strict Mode,"Paano mo gagawin ang mas safe na JavaScript code?",,"Gamitin ang strict mode."
+Functions,"Ano ang tawag sa reusable block ng code?",,"Functions."
+Arrow Functions,"Ano ang tawag sa shorter na syntax ng functions?",,"Arrow functions."
+Strict Mode,"Ano ang tawag sa stricter na rules para sa execution?",,"Strict mode."
+Functions,"Ano ang benefit ng functions?",,"Code reusability at organization."
+Arrow Functions,"Ano ang benefit ng arrow functions?",,"Mas malinis at concise na code."
+Strict Mode,"Ano ang benefit ng strict mode?",,"maiwasan ang mga common na errors."

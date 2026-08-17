@@ -1,0 +1,6 @@
+Closures,"Ang {{c1::Closures}} ay ang function na naalala ang sariling lexical scope.",,Closures
+Closures,"Ang {{c1::Closures}} ay function na naalala ang sariling lexical scope.",,Closures
+Closures,"Ang {{c1::Closures}} ay para sa maintaining state sa functions.",,Closures
+Closures,"Paano mo gagamitin ang closures para sa maintaining state?",,"I-declare ang function sa loob ng isa pang function."
+Closures,"Ano ang tawag sa function na naalala ang sariling scope?",,"Closures."
+Closures,"Ano ang benefit ng closures?",,"Na-memaintain ang state sa functions."

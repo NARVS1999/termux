@@ -1,0 +1,30 @@
+Scope,"Ang {{c1::Scope}} ay ang visibility ng variables sa iba't ibang parte ng code.",,Scope
+Hoisting,"Ang {{c1::Hoisting}} ay ang pag-move ng declarations sa top ng scope.",,Hoisting
+Callbacks,"Ang mga {{c1::Callbacks}} ay ang function na pinapasa bilang argument.",,Callbacks
+Promises,"Ang mga {{c1::Promises}} ay ang representation ng future na value.",,Promises
+Async/Await,"Ang {{c1::Async/Await}} ay ang cleaner na syntax para sa asynchronous code.",,Async/Await
+Error Handling,"Ang {{c1::Error Handling}} ay ang paghawak ng errors gamit ang try-catch.",,Error Handling
+Scope,"Ang {{c1::Scope}} ay visibility ng variables sa code.",,Scope
+Hoisting,"Ang {{c1::Hoisting}} ay pag-move ng declarations sa top.",,Hoisting
+Callbacks,"Ang mga {{c1::Callbacks}} ay functions na pinapasa bilang argument.",,Callbacks
+Promises,"Ang mga {{c1::Promises}} ay representation ng future na value.",,Promises
+Async/Await,"Ang {{c1::Async/Await}} ay cleaner na syntax para sa async code.",,Async/Await
+Error Handling,"Ang {{c1::Error Handling}} ay paghawak ng errors gamit ang try-catch.",,Error Handling
+Scope,"Ang {{c1::Scope}} ay para sa variable visibility.",,Scope
+Hoisting,"Ang {{c1::Hoisting}} ay para sa declaration management.",,Hoisting
+Callbacks,"Ang mga {{c1::Callbacks}} ay para sa asynchronous programming.",,Callbacks
+Promises,"Ang mga {{c1::Promises}} ay para sa future values.",,Promises
+Async/Await,"Ang {{c1::Async/Await}} ay para sa mas malinis na async code.",,Async/Await
+Error Handling,"Ang {{c1::Error Handling}} ay para sa error management.",,Error Handling
+Scope,"Paano mo i-handle ang variable visibility?",,"Tingnan ang scope."
+Hoisting,"Paano mo maiiwasan ang hoisting issues?",,"Gamitin ang let at const."
+Callbacks,"Paano mo gagamitin ang callbacks?",,"I-pass ang function bilang argument."
+Promises,"Paano mo gagamitin ang promises?",,"I-return ang promise mula sa async operation."
+Async/Await,"Paano mo gagamitin ang async/await?",,"I-declare ang async function at i-await ang result."
+Error Handling,"Paano mo i-handle ang errors?",,"Gamitin ang try-catch block."
+Scope,"Ano ang tawag sa visibility ng variables?",,"Scope."
+Hoisting,"Ano ang tawag sa pag-move ng declarations sa top?",,"Hoisting."
+Callbacks,"Ano ang tawag sa function na pinapasa bilang argument?",,"Callbacks."
+Promises,"Ano ang tawag sa representation ng future na value?",,"Promises."
+Async/Await,"Ano ang tawag sa cleaner na syntax para sa async code?",,"Async/await."
+Error Handling,"Ano ang tawag sa paghawak ng errors?",,"Error handling."

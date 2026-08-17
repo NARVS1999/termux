@@ -1,0 +1,3 @@
+Closures,"Paano mo gagamitin ang closures para sa maintaining state?",,"I-declare ang function sa loob ng isa pang function."
+Closures,"Ano ang tawag sa function na naalala ang sariling scope?",,"Closures."
+Closures,"Ano ang benefit ng closures?",,"Na-memaintain ang state sa functions."
