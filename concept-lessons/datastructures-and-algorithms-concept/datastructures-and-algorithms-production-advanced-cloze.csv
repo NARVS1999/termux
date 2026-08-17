@@ -1,0 +1,10 @@
+Branch Prediction,"Ang {{c1::Branch Prediction}} ay ang CPU optimization para sa conditional branches.",,Branch Prediction
+Branch Prediction,"Ang {{c1::Branch Prediction}} ay CPU optimization para sa conditional branches.",,Branch Prediction
+Branch Prediction,"Ang {{c1::Branch Prediction}} ay para sa CPU performance optimization.",,Branch Prediction
+Branch Prediction,"Paano mo i-optimize ang conditional branches?",,"Gamitin ang branch prediction."
+Branch Prediction,"Ano ang tawag sa CPU optimization para sa conditional branches?",,"Branch prediction."
+Branch Prediction,"Ano ang benefit ng branch prediction?",,"Mas mabilis na code execution."
+Branch Prediction,"Kailan mo gagamitin ang branch prediction?",,"Kapag may maraming conditional statements."
+Branch Prediction,"Ano ang example ng branch prediction?",,"If-else statements sa hot loops."
+Branch Prediction,"Paano mo i-measure ang branch prediction accuracy?",,"Gamitin ang performance counters."
+Branch Prediction,"Ano ang disadvantage ng branch prediction?",,"Misdetection ay nagdudulot ng penalty."

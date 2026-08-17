@@ -1,0 +1,30 @@
+LRU Cache,"Ang {{c1::LRU Cache}} ay ang cache na nagre-remove ng least recently used.",,LRU Cache
+FIFO Cache,"Ang {{c1::FIFO Cache}} ay ang cache na nagre-remove ng oldest.",,FIFO Cache
+Locality of Reference,"Ang {{c1::Locality of Reference}} ay ang pattern ng memory access.",,Locality of Reference
+Spatial Locality,"Ang {{c1::Spatial Locality}} ay ang pag-access ng malalapit na memory locations.",,Spatial Locality
+Temporal Locality,"Ang {{c1::Temporal Locality}} ay ang pag-access ng same memory location.",,Temporal Locality
+Memory Leaks,"Ang mga {{c1::Memory Leaks}} ay ang hindi na-garbage collect na memory.",,Memory Leaks
+LRU Cache,"Ang {{c1::LRU Cache}} ay cache na nagre-remove ng least recently used.",,LRU Cache
+FIFO Cache,"Ang {{c1::FIFO Cache}} ay cache na nagre-remove ng oldest.",,FIFO Cache
+Locality of Reference,"Ang {{c1::Locality of Reference}} ay pattern ng memory access.",,Locality of Reference
+Spatial Locality,"Ang {{c1::Spatial Locality}} ay pag-access ng malalapit na memory locations.",,Spatial Locality
+Temporal Locality,"Ang {{c1::Temporal Locality}} ay pag-access ng same memory location.",,Temporal Locality
+Memory Leaks,"Ang mga {{c1::Memory Leaks}} ay hindi na-garbage collect na memory.",,Memory Leaks
+LRU Cache,"Ang {{c1::LRU Cache}} ay para sa frequently accessed data.",,LRU Cache
+FIFO Cache,"Ang {{c1::FIFO Cache}} ay para sa simple na cache eviction.",,FIFO Cache
+Locality of Reference,"Ang {{c1::Locality of Reference}} ay para sa cache optimization.",,Locality of Reference
+Spatial Locality,"Ang {{c1::Spatial Locality}} ay para sa sequential na memory access.",,Spatial Locality
+Temporal Locality,"Ang {{c1::Temporal Locality}} ay para sa repeated na memory access.",,Temporal Locality
+Memory Leaks,"Ang mga {{c1::Memory Leaks}} ay para sa memory management issues.",,Memory Leaks
+LRU Cache,"Paano mo i-implement ang LRU cache?",,"Gamitin ang doubly linked list at hash map."
+FIFO Cache,"Paano mo i-implement ang FIFO cache?",,"Gamitin ang queue."
+Locality of Reference,"Paano mo i-optimize ang cache gamit ang locality?",,"I-group ang related na data."
+Spatial Locality,"Paano mo i-exploit ang spatial locality?",,"I-access ang sequential na memory."
+Temporal Locality,"Paano mo i-exploit ang temporal locality?",,"I-reuse ang recently accessed data."
+Memory Leaks,"Paano mo maiiwasan ang memory leaks?",,"I-properly dispose ang unused objects."
+LRU Cache,"Ano ang tawag sa cache na nagre-remove ng least recently used?",,"LRU cache."
+FIFO Cache,"Ano ang tawag sa cache na nagre-remove ng oldest?",,"FIFO cache."
+Locality of Reference,"Ano ang tawag sa pattern ng memory access?",,"Locality of reference."
+Spatial Locality,"Ano ang tawag sa pag-access ng malalapit na memory locations?",,"Spatial locality."
+Temporal Locality,"Ano ang tawag sa pag-access ng same memory location?",,"Temporal locality."
+Memory Leaks,"Ano ang tawag sa hindi na-garbage collect na memory?",,"Memory leaks."

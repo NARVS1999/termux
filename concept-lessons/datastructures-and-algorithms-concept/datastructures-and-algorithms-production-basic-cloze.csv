@@ -1,0 +1,15 @@
+Cache,"Ang {{c1::Cache}} ay ang mabilis na memory na nagko-cache ng madalas na data.",,Cache
+Cache Hit,"Ang {{c1::Cache Hit}} ay ang pag-access ng data na nasa cache.",,Cache Hit
+Cache Miss,"Ang {{c1::Cache Miss}} ay ang pag-access ng data na wala sa cache.",,Cache Miss
+Cache,"Ang {{c1::Cache}} ay mabilis na memory na nagko-cache ng madalas na data.",,Cache
+Cache Hit,"Ang {{c1::Cache Hit}} ay pag-access ng data na nasa cache.",,Cache Hit
+Cache Miss,"Ang {{c1::Cache Miss}} ay pag-access ng data na wala sa cache.",,Cache Miss
+Cache,"Ang {{c1::Cache}} ay para sa mabilis na data access.",,Cache
+Cache Hit,"Ang {{c1::Cache Hit}} ay para sa efficient na data retrieval.",,Cache Hit
+Cache Miss,"Ang {{c1::Cache Miss}} ay para sa cache performance analysis.",,Cache Miss
+Cache,"Paano mo i-speed up ang data access?",,"Gamitin ang cache."
+Cache Hit,"Paano mo malalaman kung nasa cache ang data?",,"Tingnan ang cache hit."
+Cache Miss,"Paano mo maiiwasan ang cache miss?",,"Gamitin ang cache optimization."
+Cache,"Ano ang tawag sa mabilis na memory na nagko-cache ng madalas na data?",,"Cache."
+Cache Hit,"Ano ang tawag sa pag-access ng data na nasa cache?",,"Cache hit."
+Cache Miss,"Ano ang tawag sa pag-access ng data na wala sa cache?",,"Cache miss."
