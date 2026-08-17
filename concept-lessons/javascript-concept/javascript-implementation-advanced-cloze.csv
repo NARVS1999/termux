@@ -1,0 +1,12 @@
+Prototypes,"Ang mga {{c1::Prototypes}} ay ang inheritance mechanism ng JavaScript.",,Prototypes
+Iterators & Generators,"Ang mga {{c1::Iterators & Generators}} ay ang custom na iteration protocol.",,Iterators & Generators
+Prototypes,"Ang mga {{c1::Prototypes}} ay inheritance mechanism ng JavaScript.",,Prototypes
+Iterators & Generators,"Ang mga {{c1::Iterators & Generators}} ay custom na iteration protocol.",,Iterators & Generators
+Prototypes,"Ang mga {{c1::Prototypes}} ay para sa code reuse.",,Prototypes
+Iterators & Generators,"Ang mga {{c1::Iterators & Generators}} ay para sa custom na iteration.",,Iterators & Generators
+Prototypes,"Paano mo gagamitin ang inheritance sa JavaScript?",,"Gamitin ang prototypes."
+Iterators & Generators,"Paano mo gagamitin ang custom na iteration?",,"Gamitin ang iterators at generators."
+Prototypes,"Ano ang tawag sa inheritance mechanism ng JavaScript?",,"Prototypes."
+Iterators & Generators,"Ano ang tawag sa custom na iteration protocol?",,"Iterators at generators."
+Prototypes,"Ano ang benefit ng prototypes?",,"Code reuse at inheritance."
+Iterators & Generators,"Ano ang benefit ng iterators at generators?",,"Flexible na iteration."

@@ -1,0 +1,12 @@
+Arrays,"Ang mga {{c1::Arrays}} ay ang ordered na list ng values.",,Arrays
+Objects,"Ang mga {{c1::Objects}} ay ang key-value pairs na nagre-represent ng entity.",,Objects
+Arrays,"Ang mga {{c1::Arrays}} ay ordered na list ng values.",,Arrays
+Objects,"Ang mga {{c1::Objects}} ay key-value pairs na nagre-represent ng entity.",,Objects
+Arrays,"Ang mga {{c1::Arrays}} ay para sa ordered na data.",,Arrays
+Objects,"Ang mga {{c1::Objects}} ay para sa structured na data.",,Objects
+Arrays,"Paano mo i-store ang ordered na data?",,"Gamitin ang arrays."
+Objects,"Paano mo i-store ang structured na data?",,"Gamitin ang objects."
+Arrays,"Ano ang tawag sa ordered na list ng values?",,"Arrays."
+Objects,"Ano ang tawag sa key-value pairs na nagre-represent ng entity?",,"Objects."
+Arrays,"Ano ang benefit ng arrays?",,"Ordered at accessible na data."
+Objects,"Ano ang benefit ng objects?",,"Structured at meaningful na data."
