@@ -1,0 +1,12 @@
+Orchestration Patterns,"Ang {{c1::supervisor pattern}} ay may isang lead agent na nag-coordinate ng ibang agents.",,supervisor pattern
+Orchestration Patterns,"Ang {{c1::pipeline pattern}} ay ang sequential na flow ng tasks sa agents.",,pipeline pattern
+Orchestration Patterns,"Ang {{c1::swarm}} ay ang decentralized na coordination ng multiple agents.",,swarm
+Agent Registries,"Ang {{c1::agent registry}} ay ang catalog ng available agents at kanilang capabilities.",,agent registry
+Agent Registries,"Ang {{c1::discovery}} ay ang proseso ng pag-find ng tamang agent para sa task.",,discovery
+Agent Registries,"Ang {{c1::reuse}} ay ang paggamit ng existing agents para sa similar na tasks.",,reuse
+Roles & Delegation,"Ang {{c1::specialist}} ay isang agent na expert sa specific na area.",,specialist
+Roles & Delegation,"Ang {{c1::task assignment}} ay ang pag-pasa ng specific na task sa tamang agent.",,task assignment
+Roles & Delegation,"Ang {{c1::role}} ay ang defined na responsibility ng isang agent sa system.",,role
+Communication Patterns,"Ang {{c1::message passing}} ay ang pag-send ng information sa pagitan ng agents.",,message passing
+Communication Patterns,"Ang {{c1::channel}} ay ang communication pathway sa pagitan ng agents.",,channel
+Communication Patterns,"Ang {{c1::handoff}} ay ang pag-transfer ng task at context sa ibang agent.",,handoff

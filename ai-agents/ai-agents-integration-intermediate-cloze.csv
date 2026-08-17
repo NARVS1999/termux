@@ -1,0 +1,6 @@
+Error Handling,"Ang {{c1::retry}} ay ang pag-sub ulit ng failed na tool call.",,retry
+Error Handling,"Ang {{c1::fallback}} ay ang alternative action kapag nag-fail ang primary tool.",,fallback
+Error Handling,"Ang {{c1::feedback loop}} ay ang pagpapadala ng error info pabalik sa LLM.",,feedback loop
+Short-term Memory,"Ang {{c1::conversation history}} ay ang listahan ng messages sa isang session.",,conversation history
+Short-term Memory,"Ang {{c1::scratchpad}} ay ang temporary na notes ng agent para sa current task.",,scratchpad
+Short-term Memory,"Ang {{c1::session state}} ay ang current na status at variables ng isang session.",,session state

@@ -1,0 +1,5 @@
+Abuse Prevention,"Ang {{c1::monitoring}} ay ang continuous na pag-observe ng agent behavior.",,monitoring
+Abuse Prevention,"Ang {{c1::access control}} ay ang pag-limit ng who can use ang agent.",,access control
+Cost & Latency,"Ang {{c1::model routing}} ay ang pag-direct ng tasks sa appropriate na model.",,model routing
+Cost & Latency,"Ang {{c1::prompt optimization}} ay ang pag-reduce ng token usage.",,prompt optimization
+Cost & Latency,"Ang {{c1::response caching}} ay ang pag-store ng previous responses.",,response caching

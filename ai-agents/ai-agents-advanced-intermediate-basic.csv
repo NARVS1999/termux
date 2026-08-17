@@ -1,0 +1,4 @@
+Failure Modes,"Paano mo i-detect ang isang infinite loop sa agent?",,"Mag-set ng iteration limit at i-monitor ang repeated na identical actions."
+Summarization,"Kailan mo gagamitin ang summarization kaysa context trimming?",,"Kapag ang information ay mahalaga pero masyadong malaki para sa context window."
+Tracing & Observability,"Paano mo i-implement ang tracing sa isang agent system?",,"I-log ang bawat step, tool call, at decision with timestamps at metadata."
+Guardrails,"Paano mo didesign ang effective na guardrails?",,"I-define ang boundaries, i-test ang edge cases, at i-regularly update ang rules."

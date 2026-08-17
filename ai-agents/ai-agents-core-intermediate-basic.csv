@@ -1,0 +1,3 @@
+Prompting for Agents,"Paano mo ida-design ang isang effective agent prompt?",,"I-set ang main instruction, lagyan ng constraints, at i-specify ang output format."
+Tool Calling,"Paano mo gagamitin ang function calling ng LLM?",,"I-define ang tool schema at i-call ang function gamit ang tamang arguments."
+Agent Loop,"Paano gumagana ang agent loop sa isang AI agent?",,"Hindi lang isang response, kundi paulit-ulit na perceive-reason-act-observe hanggang matapos ang task."

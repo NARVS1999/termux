@@ -1,0 +1,5 @@
+Data Safety,"Paano mo poprotektahan ang PII sa agent system?",,"I-encrypt ang sensitive data, i-mask ang PII, at i-limit ang access."
+Abuse Prevention,"Paano mo i-implement ang rate limiting para sa agents?",,"I-set ang request limits per user, i-track ang usage, at i-block ang excessive requests."
+Cost & Latency,"Paano mo i-optimize ang cost ng LLM API calls?",,"I-cache ang common responses, i-route sa cheaper models, at i-batch ang similar requests."
+Model Versioning,"Paano mo i-manage ang transitions sa bagong model versions?",,"I-test ang new version, i-compare ang performance, at i-deploy gradually."
+Agent Releases,"Paano mo i-handle ang rollback sa isang failed release?",,"I-monitor ang release metrics, i-automate ang rollback triggers, at i-communicate sa users."

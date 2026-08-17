@@ -1,0 +1,15 @@
+LLM Basics,"Ang {{c1::LLM}} ay isang large language model na nag-generate ng text.",,LLM
+LLM Basics,"Ang {{c1::generation}} ay ang proseso kung saan nag-output ng text ang LLM.",,generation
+LLM Basics,"Ang {{c1::natural language}} ay ang uri ng text na kaya ng LLM na i-process.",,natural language
+Tokens & Context,"Ang {{c1::token}} ay ang basic unit ng text na ginagamit ng LLM.",,token
+Tokens & Context,"Ang {{c1::context window}} ay ang maximum na tokens na kaya ng isang model.",,context window
+Tokens & Context,"Ang {{c1::tokenization}} ay ang pag-split ng text sa mga maliliit na token.",,tokenization
+Model Selection,"Ang {{c1::reasoning model}} ay isang LLM na mas magaling sa complex thinking.",,reasoning model
+Model Selection,"Ang {{c1::multimodal}} ay ang kakayahan ng model na i-process ang text, images, at audio.",,multimodal
+Model Selection,"Ang {{c1::provider}} ang nagho-host at nagse-serve ng LLM model.",,provider
+Instruction Following,"Ang {{c1::instruction following}} ay ang kakayahan ng LLM na mag-follow ng given instructions.",,instruction following
+Instruction Following,"Ang {{c1::output format}} ay ang desired na任何形式 ng response ng LLM.",,output format
+Instruction Following,"Ang {{c1::system prompt}} ay ang main instruction na nagse-set ng behavior ng LLM.",,system prompt
+Prompt Engineering,"Ang {{c1::prompt}} ay ang input text na binibigay sa LLM para sa response.",,prompt
+Prompt Engineering,"Ang {{c1::few-shot}} ay nagbibigay ng examples sa prompt para mas maintindihan ng LLM.",,few-shot
+Prompt Engineering,"Ang {{c1::zero-shot}} ay walang examples sa prompt, diretsong instruction lang.",,zero-shot

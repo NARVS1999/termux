@@ -1,0 +1,12 @@
+Prompting for Agents,"Ang {{c1::agent prompt}} ay may instructions, constraints, at output formats.",,agent prompt
+Prompting for Agents,"Ang {{c1::constraints}} ay ang mga rules na dapat sundin ng agent.",,constraints
+Prompting for Agents,"Ang {{c1::output format}} ay ang desired na任何形式 ng structured response ng agent.",,output format
+Tool Calling,"Ang {{c1::function calling}} ay ang proseso kung saan nag-call ng tools ang LLM.",,function calling
+Tool Calling,"Ang {{c1::tool schema}} ay ang JSON definition ng isang tool na kaya ng LLM na i-call.",,tool schema
+Tool Calling,"Ang {{c1::arguments}} ay ang mga parameters na ipinapasa sa tool.",,arguments
+Agent Loop,"Ang {{c1::agent loop}} ay ang cyclical na perceive-reason-act-observe process.",,agent loop
+Agent Loop,"Ang {{c1::perceive}} ay ang pag-collect ng information mula sa environment.",,perceive
+Agent Loop,"Ang {{c1::act}} ay ang pag-execute ng action batay sa reasoning.",,act
+Reasoning & Planning,"Ang {{c1::chain-of-thought}} ay ang step-by-step reasoning ng LLM.",,chain-of-thought
+Reasoning & Planning,"Ang {{c1::subgoal}} ay ang smaller na goal na hinahati ang main objective.",,subgoal
+Reasoning & Planning,"Ang {{c1::replanning}} ay ang pag-adjust ng plan kapag may bagong information.",,replanning

@@ -1,0 +1,2 @@
+Error Handling,"Paano mo i-handle ang isang tool na consistently nag-fail?",,"I-log ang error pattern, i-adjust ang retry strategy, at i-consider ang alternative approach."
+Short-term Memory,"Paano mo gagamitin ang conversation history para sa context?",,"I-pass ang previous messages sa prompt para ma-maintain ang conversation continuity."

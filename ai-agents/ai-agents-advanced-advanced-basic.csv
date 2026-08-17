@@ -1,0 +1,6 @@
+Evals,"Paano mo masusukat ang success ng isang agent?",,"I-track ng task completion rate, accuracy, at user satisfaction scores."
+Evals,"Ano ang gagawin mo kapag ang agent ay may mababang success rate?",,"I-analyze ang failure patterns, i-adjust ang prompts, at i-test ang improvements."
+Testing,"Paano mo i-test ang isang multi-agent system?",,"I-create ang scenario tests, i-mock ang external dependencies, at i-verify ang interactions."
+Testing,"Paano mo i-test ang edge cases sa agent behavior?",,"I-generate ang adversarial inputs, i-test ang boundary conditions, at i-validate ang guardrails."
+Testing,"Ano ang challenges ng testing LLM-based agents?",,"Non-deterministic outputs, variable latency, at ang difficulty ng reproducing exact scenarios."
+Testing,"Paano mo i-automate ang agent testing?",,"I-create ang test harness, i-set ng assertions, at i-integrate sa CI/CD pipeline."

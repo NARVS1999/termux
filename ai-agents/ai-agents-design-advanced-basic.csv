@@ -1,0 +1,6 @@
+Coordination,"Kailan mo gagamitin ang consensus kaysa leader-follower pattern?",,"Kapag walang single authority at kailangan ng democratic na decision-making."
+Coordination,"Paano mo i-handle ang disagreeing agents sa isang debate?",,"I-set ng clear resolution rules at i-weigh ang arguments based sa evidence."
+Shared State,"Paano mo maiiwasan ang race conditions sa shared state?",,"I-implement ang locking mechanisms at i-use ang atomic operations para sa safety."
+Shared State,"Ano ang gagawin mo kapag ang shared state ay nag-corrupt?",,"I-implement ang state validation, i-log ang corruption, at i-restore mula sa backup."
+Shared State,"Paano mo i-synchronize ang state across multiple agents?",,"I-use ang event-driven architecture at i-implement ang state reconciliation."
+Shared State,"Paano mo i-scale ang shared state system?",,"I-partition ang state at i-distribute sa multiple stores with conflict resolution."

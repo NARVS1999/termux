@@ -1,0 +1,6 @@
+Prompt Injection,"Ang {{c1::prompt injection}} ay ang attack na nag-mamanipulate ng agent behavior.",,prompt injection
+Prompt Injection,"Ang {{c1::sandboxing}} ay ang pag-isolate ng agent para sa safety.",,sandboxing
+Prompt Injection,"Ang {{c1::input validation}} ay ang pag-check ng malicious na input.",,input validation
+Permissions,"Ang {{c1::tool scope}} ay ang defined na access level ng isang tool.",,tool scope
+Permissions,"Ang {{c1::approval flow}} ay ang process para sa authorizing ng tool execution.",,approval flow
+Permissions,"Ang {{c1::least privilege}} ay ang principle na mag-bigay ng minimum na access.",,least privilege

@@ -1,0 +1,6 @@
+Evals,"Ang {{c1::task success rate}} ay ang percentage ng successfully completed na tasks.",,task success rate
+Evals,"Ang {{c1::trajectory analysis}} ay ang pag-examine ng agent's decision path.",,trajectory analysis
+Evals,"Ang {{c1::quality scoring}} ay ang pag-rate ng output quality ng agent.",,quality scoring
+Testing,"Ang {{c1::unit testing}} ay ang pag-test ng individual na agent components.",,unit testing
+Testing,"Ang {{c1::integration testing}} ay ang pag-test ng agent interactions.",,integration testing
+Testing,"Ang {{c1::scenario testing}} ay ang pag-test ng agent sa realistic na situations.",,scenario testing

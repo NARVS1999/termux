@@ -1,0 +1,4 @@
+Single vs Multi-Agent,"Kailan mo gagamitin ang single agent kaysa multi-agent?",,"Kapag ang task ay simple at hindi na kailangan ng division of labor."
+LangChain Basics,"Paano mo gagamitin ang LangChain para mag-build ng agent?",,"I-create ang chain, i-connect ang tools, at i-configure ang memory."
+OpenAI Agents SDK,"Paano mo i-configure ang handoff sa OpenAI Agents SDK?",,"I-define ang target agent at i-set ang conditions para sa task transfer."
+Vector Stores,"Paano mo piliin ang tamang vector store para sa project?",,"I-compare ang scalability, performance, at cost ng bawat option."

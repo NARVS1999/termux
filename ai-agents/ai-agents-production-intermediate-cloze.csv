@@ -1,0 +1,12 @@
+Error Recovery,"Ang {{c1::escalation}} ay ang pag-pasa ng problem sa higher authority.",,escalation
+Error Recovery,"Ang {{c1::graceful exit}} ay ang proper na pag-stop ng agent kapag may critical error.",,graceful exit
+Error Recovery,"Ang {{c1::recovery strategy}} ay ang plan para sa pag-bounce back sa failures.",,recovery strategy
+Deployment,"Ang {{c1::serving}} ay ang pag-deploy ng agent sa production environment.",,serving
+Deployment,"Ang {{c1::autoscaling}} ay ang automatic na pag-adjust ng resources based sa demand.",,autoscaling
+Deployment,"Ang {{c1::containerization}} ay ang pag-package ng agent sa containers para sa deployment.",,containerization
+Monitoring,"Ang {{c1::latency}} ay ang oras na kinakailangan para sa agent response.",,latency
+Monitoring,"Ang {{c1::cost tracking}} ay ang pag-monitor ng gastos sa API calls at compute.",,cost tracking
+Monitoring,"Ang {{c1::quality drift}} ay ang gradual na pagbaba ng agent performance over time.",,quality drift
+Versioning,"Ang {{c1::prompt versioning}} ay ang pag-track ng changes sa prompts.",,prompt versioning
+Versioning,"Ang {{c1::model versioning}} ay ang pag-manage ng different model versions.",,model versioning
+Versioning,"Ang {{c1::agent release}} ay ang packaged na version ng agent para sa deployment.",,agent release

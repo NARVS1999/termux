@@ -1,0 +1,8 @@
+Real-world Patterns,"Paano mo didesign ang isang customer support agent?",,"I-define ang scope, i-train sa common issues, at i-set ang escalation rules."
+Real-world Patterns,"Ano ang key considerations sa pag-build ng coding agent?",,"I-limit ang scope, i-test ang outputs, at i-implement ang code review mechanisms."
+Orchestration Mastery,"Paano mo pipiliin ang tamang orchestration pattern para sa complex na system?",,"I-analyze ang requirements, i-evaluate ang trade-offs, at i-prototype ang different approaches."
+Orchestration Mastery,"Ano ang gagawin mo kapag ang chosen pattern ay hindi na-scale?",,"I-profile ang bottlenecks, i-refactor ang architecture, at i-migrate sa better pattern."
+Multi-Agent Scaling,"Paano mo i-scale ang multi-agent system para sa high traffic?",,"I-add ng more agent instances, i-implement ang load balancing, at i-optimize ang resource allocation."
+Multi-Agent Scaling,"Paano mo i-handle ang agent failures sa scale?",,"I-implement ang health checks, i-automate ang replacement, at i-distribute ang tasks sa healthy agents."
+Safety-First Design,"Paano mo isasama ang safety sa agent development lifecycle?",,"I-add ang safety reviews, i-test ang edge cases, at i-implement ang monitoring from day one."
+Safety-First Design,"Ano ang gagawin mo kapag may safety incident?",,"I-stop ang affected agents, i-investigate ang root cause, at i-improve ang safety measures."

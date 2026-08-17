@@ -1,0 +1,12 @@
+Single vs Multi-Agent,"Ang {{c1::single agent}} ay isang agent na nagha-handle ng buong task.",,single agent
+Single vs Multi-Agent,"Ang {{c1::multi-agent}} ay ang协同 ng multiple agents para sa isang goal.",,multi-agent
+Single vs Multi-Agent,"Ang {{c1::coordination}} ay ang pag-organize ng agent activities para sa efficiency.",,coordination
+LangChain Basics,"Ang {{c1::chain}} ay ang sequential na pag-connect ng multiple components.",,chain
+LangChain Basics,"Ang {{c1::LangChain}} ay isang framework para sa building ng LLM-powered apps.",,LangChain
+LangChain Basics,"Ang {{c1::memory}} sa LangChain ay ang pag-store ng conversation context.",,memory
+OpenAI Agents SDK,"Ang {{c1::handoff}} ay ang pag-transfer ng task sa ibang agent.",,handoff
+OpenAI Agents SDK,"Ang {{c1::guardrails}} ay ang safety checks at constraints sa agent behavior.",,guardrails
+OpenAI Agents SDK,"Ang {{c1::Agent SDK}} ay ang official toolkit ng OpenAI para sa agent development.",,Agent SDK
+Vector Stores,"Ang {{c1::index}} ay ang data structure na nag-o-optimize ng vector search.",,index
+Vector Stores,"Ang {{c1::embedding pipeline}} ay ang proseso ng pag-convert ng text sa vectors.",,embedding pipeline
+Vector Stores,"Ang {{c1::vector store}} ay ang database na nagse-store at nagse-serve ng embeddings.",,vector store

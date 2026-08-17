@@ -1,0 +1,12 @@
+Structured Output,"Ang {{c1::response_format}} ay ang parameter na nagse-set ng desired output format.",,response_format
+Structured Output,"Ang {{c1::function_call}} ay ang OpenAI parameter para sa structured function calls.",,function_call
+Structured Output,"Ang {{c1::tool_choice}} ay ang parameter na nagco-control kung paano pumili ng tool.",,tool_choice
+Tool Execution,"Ang {{c1::parallel execution}} ay ang pag-run ng multiple tools sabay-sabay.",,parallel execution
+Tool Execution,"Ang {{c1::sequential execution}} ay ang pag-run ng tools sa isa-isang order.",,sequential execution
+Tool Execution,"Ang {{c1::timeout}} ay ang maximum na oras na maghihintay bago mag-fail ang tool.",,timeout
+Tool Design,"Ang {{c1::idempotency}} ay ang kakayahan ng tool na i-run ng multiple times nang walang side effects.",,idempotency
+Tool Design,"Ang {{c1::rate limiting}} ay ang pag-limit ng bilang ng tool calls sa isang period.",,rate limiting
+Tool Design,"Ang {{c1::caching}} ay ang pag-store ng previous results para sa faster retrieval.",,caching
+Tool Selection & Routing,"Ang {{c1::routing logic}} ay ang rules na ginagamit para mag-decide kung aling tool ang gagamitin.",,routing logic
+Tool Selection & Routing,"Ang {{c1::fallback chain}} ay ang listahan ng alternative tools kapag nag-fail ang primary.",,fallback chain
+Tool Selection & Routing,"Ang {{c1::cost-based routing}} ay ang pag-pili ng tool batay sa gastos.",,cost-based routing

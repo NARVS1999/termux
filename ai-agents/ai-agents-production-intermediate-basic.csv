@@ -1,0 +1,4 @@
+Error Recovery,"Paano mo i-implement ang escalation sa agent system?",,"I-set ang escalation rules, i-define ang authority levels, at i-automate ang routing."
+Deployment,"Paano mo i-deploy ang isang agent sa production?",,"I-containerize ang agent, i-configure ang resources, at i-set ang monitoring."
+Monitoring,"Paano mo i-monitor ang agent performance sa production?",,"I-track ng latency, cost, error rates, at quality metrics sa real-time."
+Versioning,"Paano mo i-manage ang multiple versions ng prompts?",,"I-store ang prompts sa version control, i-test ang changes, at i-deploy gradually."

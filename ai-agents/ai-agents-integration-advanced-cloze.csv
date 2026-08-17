@@ -1,0 +1,9 @@
+Long-term Memory,"Ang {{c1::knowledge base}} ay ang persistent storage ng learned information.",,knowledge base
+Long-term Memory,"Ang {{c1::embedding}} ay ang numerical na representation ng text para sa search.",,embedding
+Long-term Memory,"Ang {{c1::vector database}} ay ang database na nag-store ng embeddings.",,vector database
+Retrieval Memory,"Ang {{c1::semantic search}} ay ang pag-search based sa meaning ng text.",,semantic search
+Retrieval Memory,"Ang {{c1::similarity score}} ay ang measurement ng closeness ng two embeddings.",,similarity score
+Retrieval Memory,"Ang {{c1::recall}} ay ang pag-retrieve ng relevant na information mula sa memory.",,recall
+Context Management,"Ang {{c1::context trimming}} ay ang pag-remove ng irrelevant na information.",,context trimming
+Context Management,"Ang {{c1::compression}} ay ang pag-reduce ng context size habang nire-retain ang key info.",,compression
+Context Management,"Ang {{c1::relevance scoring}} ay ang pag-rank ng information batay sa importance.",,relevance scoring

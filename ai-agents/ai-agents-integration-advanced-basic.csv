@@ -1,0 +1,5 @@
+Long-term Memory,"Paano mo gagamitin ang vector database para sa agent memory?",,"I-store ang embeddings ng previous interactions at i-retrieve ang similar na context kapag kailangan."
+Retrieval Memory,"Paano mo masisiguro na ang retrieved information ay relevant?",,"I-set ng minimum similarity score at i-rank ang results batay sa recency at relevance."
+Context Management,"Kailan mo gagamitin ang context trimming kaysa summarization?",,"Kapag may specific irrelevant sections na kaya i-remove nang hindi nawawala ang key info."
+Long-term Memory,"Ano ang gagawin mo kapag ang knowledge base ay masyadong malaki?",,"I-implement ang tiered storage at i-archive ang older entries sa cold storage."
+Context Management,"Paano mo i-balance ang context size at information completeness?",,"I-prioritize ang recent at relevant na context at i-compress ang older information."

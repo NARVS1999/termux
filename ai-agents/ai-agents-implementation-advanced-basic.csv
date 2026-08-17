@@ -1,0 +1,5 @@
+Tool Selection & Routing,"Kailan mo gagamitin ang fallback chain kaysa direct tool call?",,"Kapag ang primary tool ay may chance na mag-fail at may available na alternative."
+Tool Selection & Routing,"Paano mo i-optimize ang tool routing para sa cost efficiency?",,"I-route ang simpler tasks sa mas murang models at complex tasks sa mas powerful na tools."
+Tool Selection & Routing,"Ano ang gagawin mo kapag ang tool ay nag-return ng unexpected output?",,"I-validate ang output, i-log ang error, at i-fallback sa alternative tool kung available."
+Tool Selection & Routing,"Paano mo maiiwasan ang tool conflicts sa multi-agent systems?",,"I-set ng clear tool ownership at i-use ang centralized routing para sa coordination."
+Tool Selection & Routing,"Paano mo mass-test ang tool selection logic?",,"Gamitin ang mock tools at scenario-based tests para i-verify ang routing decisions."

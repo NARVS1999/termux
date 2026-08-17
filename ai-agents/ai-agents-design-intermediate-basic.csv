@@ -1,0 +1,4 @@
+Orchestration Patterns,"Paano mo pipiliin ang tamang orchestration pattern?",,"I-analyze ang task complexity, coordination needs, at scalability requirements."
+Agent Registries,"Paano mo i-organize ang isang agent registry?",,"I-categorize ang agents by capability, i-metadata ang strengths, at i-update regularly."
+Roles & Delegation,"Paano mo didistribute ang tasks sa multi-agent system?",,"I-assess ang specialist capabilities at i-match sa task requirements."
+Communication Patterns,"Paano mo i-handle ang communication failures sa pagitan ng agents?",,"I-implement ang message queues at i-add ang retry mechanisms para sa reliable delivery."

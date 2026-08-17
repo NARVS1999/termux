@@ -1,0 +1,12 @@
+Real-world Patterns,"Ang {{c1::customer support agent}} ay nagha-handle ng customer inquiries.",,customer support agent
+Real-world Patterns,"Ang {{c1::research agent}} ay nag-collect at nag-analyze ng information.",,research agent
+Real-world Patterns,"Ang {{c1::coding agent}} ay nag-generate at nag-e-edit ng code.",,coding agent
+Orchestration Mastery,"Ang {{c1::pattern selection}} ay ang pag-choose ng best architecture para sa use case.",,pattern selection
+Orchestration Mastery,"Ang {{c1::hybrid pattern}} ay ang pag-combine ng multiple orchestration approaches.",,hybrid pattern
+Orchestration Mastery,"Ang {{c1::architecture decision}} ay ang trade-off analysis para sa system design.",,architecture decision
+Multi-Agent Scaling,"Ang {{c1::horizontal scaling}} ay ang pag-add ng more agents para sa capacity.",,horizontal scaling
+Multi-Agent Scaling,"Ang {{c1::load balancing}} ay ang pag-distribute ng tasks evenly sa agents.",,load balancing
+Multi-Agent Scaling,"Ang {{c1::bottleneck}} ay ang point ng congestion sa multi-agent system.",,bottleneck
+Safety-First Design,"Ang {{c1::safety by design}} ay ang pag-integrate ng safety sa buong development.",,safety by design
+Safety-First Design,"Ang {{c1::fail-safe}} ay ang mechanism para sa safe na failure handling.",,fail-safe
+Safety-First Design,"Ang {{c1::human oversight}} ay ang pag-monitor ng agents ng tao.",,human oversight

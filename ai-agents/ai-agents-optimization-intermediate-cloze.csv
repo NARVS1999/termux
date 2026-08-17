@@ -1,0 +1,14 @@
+Data Safety,"Ang {{c1::PII}} ay ang personally identifiable information na kailangan i-protect.",,PII
+Data Safety,"Ang {{c1::data retention}} ay ang policies sa pag-store ng data.",,data retention
+Data Safety,"Ang {{c1::encryption}} ay ang pag-secure ng data sa rest at in-transit.",,encryption
+Abuse Prevention,"Ang {{c1::rate limiting}} ay ang pag-limit ng requests sa isang time period.",,rate limiting
+Abuse Prevention,"Ang {{c1::red teaming}} ay ang pag-test ng system gamit ang adversarial attacks.",,red teaming
+Abuse Prevention,"Ang {{c1::anomaly detection}} ay ang pag-detect ng unusual na behavior.",,anomaly detection
+Cost & Latency,"Ang {{c1::caching}} ay ang pag-store ng frequently used na data para sa speed.",,caching
+Cost & Latency,"Ang {{c1::routing}} ay ang pag-pick ng optimal na model para sa task.",,routing
+Cost & Latency,"Ang {{c1::batching}} ay ang pag-group ng multiple requests para sa efficiency.",,batching
+Model Versioning,"Ang {{c1::model selection}} ay ang pag-choose ng tamang model version.",,model selection
+Model Versioning,"Ang {{c1::provider routing}} ay ang pag-direct ng requests sa different providers.",,provider routing
+Agent Releases,"Ang {{c1::release management}} ay ang process ng pag-deploy ng agent updates.",,release management
+Agent Releases,"Ang {{c1::rollback}} ay ang pag-revert sa previous version kapag may issues.",,rollback
+Agent Releases,"Ang {{c1::feature flag}} ay ang toggle para sa enabling/disabling ng features.",,feature flag

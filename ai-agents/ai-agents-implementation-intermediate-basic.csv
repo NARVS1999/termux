@@ -1,0 +1,5 @@
+Structured Output,"Paano mo i-enforce ang JSON output mula sa LLM?",,"I-set ang response_format sa JSON at i-validate ang output gamit ang schema."
+Tool Execution,"Paano mo i-handle ang isang tool na nag-time out?",,"Mag-set ng timeout limit at i-return ang error sa agent para sa retry o fallback."
+Tool Design,"Paano mo didesign ang isang magandang tool name?",,"Gamitin ang verb-noun format tulad ng search_web o get_weather para malinaw ang purpose."
+Tool Selection & Routing,"Paano mo pipiliin ang tamang tool kapag may multiple options?",,"I-analyze ang task requirements at i-match sa tool capabilities at descriptions."
+Tool Selection & Routing,"Ano ang gagawin mo kapag dalawang tools ang conflicting sa isang task?",,"I-prioritize ang mas specific na tool o i-delegate sa higher-level agent para sa decision."

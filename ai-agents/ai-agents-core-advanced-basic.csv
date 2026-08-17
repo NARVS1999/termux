@@ -1,0 +1,5 @@
+Reasoning & Planning,"Kailan mo gagamitin ang tree-of-thought kaysa chain-of-thought?",,"Kapag may multiple valid paths at kailangan mag-explore ng alternatives."
+Reasoning & Planning,"Paano mo i-handle ang isang agent na nag-fail sa reasoning?",,"Gamitin ang self-reflection para mag-analyze ng mistake at mag-adjust ng approach."
+Reasoning & Planning,"Ano ang gagawin mo kapag ang agent ay nag-loop sa walang katapusang reasoning?",,"Mag-set ng maximum iterations at mag-add ng fallback para sa early termination."
+Reasoning & Planning,"Paano mo masisiguro na ang subgoals ay properly decomposed?",,"Siguraduhin na ang bawat subgoal ay independently solvable at may clear na output."
+Reasoning & Planning,"Ano ang risk ng过度 na subgoal decomposition?",,"Maaaring maging too granular ang tasks at mawala ang overall context ng goal."

@@ -1,0 +1,6 @@
+LangGraph,"Ang {{c1::state graph}} ay ang visual representation ng agent workflow.",,state graph
+LangGraph,"Ang {{c1::checkpoint}} ay ang pag-save ng state para sa resumable na execution.",,checkpoint
+LangGraph,"Ang {{c1::conditional edge}} ay ang dynamic na routing batay sa state.",,conditional edge
+RAG Integration,"Ang {{c1::retrieval-augmented generation}} ay ang pag-combine ng retrieval at generation.",,retrieval-augmented generation
+RAG Integration,"Ang {{c1::grounding}} ay ang pag-link ng LLM output sa verified na sources.",,grounding
+RAG Integration,"Ang {{c1::citation}} ay ang pag-reference ng source ng retrieved information.",,citation

@@ -1,0 +1,15 @@
+Tool Schemas,"Ang {{c1::JSON Schema}} ay ang format na ginagamit para i-define ang tool parameters.",,JSON Schema
+Tool Schemas,"Ang {{c1::parameters}} ay ang mga inputs na kailangan ng isang tool.",,parameters
+Tool Schemas,"Ang {{c1::description}} sa schema ay nagpapaliwanag kung kailan gagamitin ang tool.",,description
+Structured Output,"Ang {{c1::JSON mode}} ay nag-o-force sa LLM na mag-output ng valid JSON.",,JSON mode
+Structured Output,"Ang {{c1::schema enforcement}} ay ang pag-validate ng output against sa defined schema.",,schema enforcement
+Structured Output,"Ang {{c1::output parsing}} ay ang pag-convert ng raw LLM output sa structured format.",,output parsing
+Tool Execution,"Ang {{c1::tool execution}} ay ang pag-run ng isang tool function.",,tool execution
+Tool Execution,"Ang {{c1::result handling}} ay ang pag-process ng output mula sa tool.",,result handling
+Tool Execution,"Ang {{c1::error response}} ay ang returned error kapag nag-fail ang tool.",,error response
+Tool Design,"Ang {{c1::tool capabilities}} ay ang mga things na kaya ng isang tool.",,tool capabilities
+Tool Design,"Ang {{c1::naming}} ay ang pag-pick ng malinaw at descriptive na tool name.",,naming
+Tool Design,"Ang {{c1::permissions}} ay ang access controls para sa tool execution.",,permissions
+Tool Selection & Routing,"Ang {{c1::tool selection}} ay ang pag-choose ng tamang tool para sa task.",,tool selection
+Tool Selection & Routing,"Ang {{c1::conflict resolution}} ay ang pag-handle ng magkasabay na tool calls.",,conflict resolution
+Tool Selection & Routing,"Ang {{c1::delegation}} ay ang pag-pasa ng task sa ibang tool o agent.",,delegation

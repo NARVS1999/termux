@@ -1,0 +1,6 @@
+Prompt Injection,"Paano mo poprotektahan ang agent laban sa prompt injection?",,"I-implement ang input sanitization, i-use ang role-based prompts, at i-test ang adversarial inputs."
+Prompt Injection,"Ano ang gagawin mo kapag na-detect ang isang prompt injection attempt?",,"I-block ang input, i-log ang incident, at i-notify ang security team."
+Permissions,"Paano mo i-implement ang least privilege sa agent tools?",,"I-survey ang tool requirements, i-assign ang minimum necessary permissions, at i-regularly audit."
+Permissions,"Paano mo i-approve ang sensitive na tool executions?",,"I-implement ang human-in-the-loop approval para sa high-risk na actions."
+Permissions,"Ano ang gagawin mo kapag nag-exceed sa scope ang isang agent?",,"I-revoke ang access, i-log ang violation, at i-investigate ang root cause."
+Permissions,"Paano mo i-balance ang security at functionality?",,"I-grant ang scoped permissions, i-test ang workflows, at i-adjust based sa actual usage."

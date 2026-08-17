@@ -1,0 +1,3 @@
+Reasoning & Planning,"Ang {{c1::subgoal decomposition}} ay ang pag-hati ng complex task sa maliliit na goals.",,subgoal decomposition
+Reasoning & Planning,"Ang {{c1::tree-of-thought}} ay nag-e-explore ng multiple reasoning paths.",,tree-of-thought
+Reasoning & Planning,"Ang {{c1::self-reflection}} ay ang pag-check ng LLM sa sarili nitong reasoning.",,self-reflection

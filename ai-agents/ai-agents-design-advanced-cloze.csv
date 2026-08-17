@@ -1,0 +1,6 @@
+Coordination,"Ang {{c1::consensus}} ay ang agreement ng multiple agents sa isang decision.",,consensus
+Coordination,"Ang {{c1::debate}} ay ang argumentation ng agents para sa better na decision.",,debate
+Coordination,"Ang {{c1::leader-follower}} ay ang hierarchical na coordination ng agents.",,leader-follower
+Shared State,"Ang {{c1::state repository}} ay ang central na storage ng shared na data.",,state repository
+Shared State,"Ang {{c1::locking}} ay ang mechanism para sa safe na concurrent state access.",,locking
+Shared State,"Ang {{c1::consistency}} ay ang pag-sure na ang shared state ay accurate at synchronized.",,consistency

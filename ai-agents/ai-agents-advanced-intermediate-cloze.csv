@@ -1,0 +1,12 @@
+Failure Modes,"Ang {{c1::infinite loop}} ay ang walang katapusang cycling ng agent actions.",,infinite loop
+Failure Modes,"Ang {{c1::conflict}} ay ang contradicting na actions ng multiple agents.",,conflict
+Failure Modes,"Ang {{c1::cascade failure}} ay ang pag-spread ng failure sa ibang agents.",,cascade failure
+Summarization,"Ang {{c1::history compression}} ay ang pag-reduce ng conversation history.",,history compression
+Summarization,"Ang {{c1::state checkpoint}} ay ang pag-save ng current state para sa recovery.",,state checkpoint
+Summarization,"Ang {{c1::summarization}} ay ang pag-create ng concise summary ng long information.",,summarization
+Tracing & Observability,"Ang {{c1::tracing}} ay ang pag-track ng agent steps at decisions.",,tracing
+Tracing & Observability,"Ang {{c1::observability}} ay ang kakayahan na makita ang internal na state ng agent.",,observability
+Tracing & Observability,"Ang {{c1::logging}} ay ang pag-record ng agent activities para sa debugging.",,logging
+Guardrails,"Ang {{c1::input filter}} ay ang pag-validate ng user input bago i-process.",,input filter
+Guardrails,"Ang {{c1::output filter}} ay ang pag-check ng agent output bago i-display.",,output filter
+Guardrails,"Ang {{c1::constraint}} ay ang rules na nag-limits sa agent behavior.",,constraint

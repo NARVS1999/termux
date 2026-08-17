@@ -1,0 +1,5 @@
+LangGraph,"Kailan mo gagamitin ang LangGraph kaysa LangChain chains?",,"Kapag kailangan ng complex branching, loops, at state-dependent na workflows."
+LangGraph,"Paano mo i-implement ang checkpointing sa LangGraph?",,"I-configure ang checkpoint interval at i-store ang state sa database para sa resumption."
+RAG Integration,"Paano mo masisiguro na ang RAG output ay grounded sa sources?",,"I-link ang bawat claim sa retrieved document at i-validate ang accuracy."
+RAG Integration,"Ano ang gagawin mo kapag ang retrieved context ay irrelevant?",,"I-adjust ang retrieval query, i-improve ang embeddings, at i-filter ang low-quality results."
+RAG Integration,"Paano mo i-handle ang conflicting information mula sa different sources?",,"I-prioritize ang mas authoritative sources at i-disclose ang conflicting na information."

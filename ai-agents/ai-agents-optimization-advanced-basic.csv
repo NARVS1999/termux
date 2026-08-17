@@ -1,0 +1,6 @@
+Abuse Prevention,"Paano mo i-detect ang abuse sa agent system?",,"I-monitor ang usage patterns, i-flag ang anomalies, at i-investigate ang suspicious activity."
+Abuse Prevention,"Ano ang gagawin mo kapag na-detect ang isang abuse?",,"I-block ang user, i-log ang incident, at i-improve ang detection rules."
+Cost & Latency,"Paano mo i-balance ang cost at quality ng agent responses?",,"I-route ang simple tasks sa cheaper models at i-reserve ang powerful models para sa complex tasks."
+Cost & Latency,"Ano ang gagawin mo kapag masyadong mataas ang latency?",,"I-optimize ang prompts, i-cache ang responses, at i-consider ang model switching."
+Cost & Latency,"Paano mo i-predict at i-budget ang agent costs?",,"I-track ang token usage, i-set ang spending limits, at i-forecast based sa usage patterns."
+Cost & Latency,"Paano mo i-improve ang response time ng agent?",,"I-reduce ang context size, i-use ang streaming, at i-optimize ang tool execution."
