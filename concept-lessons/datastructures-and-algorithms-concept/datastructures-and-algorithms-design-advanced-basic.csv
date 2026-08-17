@@ -1,0 +1,5 @@
+Amortized Analysis,"Paano mo i-analyze ang average complexity over operations?",,"Gamitin ang amortized analysis."
+Amortized Analysis,"Ano ang tawag sa average-case analysis over operations?",,"Amortized analysis."
+Amortized Analysis,"Ano ang benefit ng amortized analysis?",,"Mas accurate na complexity analysis."
+Amortized Analysis,"Kailan mo gagamitin ang amortized analysis?",,"Kapag may sequence of operations na may iba't ibang cost."
+Amortized Analysis,"Ano ang example ng amortized analysis?",,"Dynamic array insertion."

@@ -1,0 +1,10 @@
+Amortized Analysis,"Ang {{c1::Amortized Analysis}} ay ang average-case analysis over operations.",,Amortized Analysis
+Amortized Analysis,"Ang {{c1::Amortized Analysis}} ay average-case analysis over operations.",,Amortized Analysis
+Amortized Analysis,"Ang {{c1::Amortized Analysis}} ay para sa sequence of operations analysis.",,Amortized Analysis
+Amortized Analysis,"Paano mo i-analyze ang average complexity over operations?",,"Gamitin ang amortized analysis."
+Amortized Analysis,"Ano ang tawag sa average-case analysis over operations?",,"Amortized analysis."
+Amortized Analysis,"Ano ang benefit ng amortized analysis?",,"Mas accurate na complexity analysis."
+Amortized Analysis,"Kailan mo gagamitin ang amortized analysis?",,"Kapag may sequence of operations na may iba't ibang cost."
+Amortized Analysis,"Ano ang example ng amortized analysis?",,"Dynamic array insertion."
+Amortized Analysis,"Paano mo i-calculate ang amortized cost?",,"Total cost divided by number of operations."
+Amortized Analysis,"Ano ang difference ng amortized at average case?",,"Amortized ay over sequence, average ay over input distribution."

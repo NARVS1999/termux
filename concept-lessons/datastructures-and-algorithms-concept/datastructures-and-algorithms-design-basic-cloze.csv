@@ -1,0 +1,25 @@
+Time Complexity,"Ang {{c1::Time Complexity}} ay ang pagsukat ng oras na kailangan ng algorithm.",,Time Complexity
+Space Complexity,"Ang {{c1::Space Complexity}} ay ang pagsukat ng memory na kailangan ng algorithm.",,Space Complexity
+Big O Notation,"Ang {{c1::Big O Notation}} ay ang notation para sa upper bound ng complexity.",,Big O Notation
+Best Case,"Ang {{c1::Best Case}} ay ang minimum na oras na kailangan ng algorithm.",,Best Case
+Worst Case,"Ang {{c1::Worst Case}} ay ang maximum na oras na kailangan ng algorithm.",,Worst Case
+Time Complexity,"Ang {{c1::Time Complexity}} ay pagsukat ng oras na kailangan ng algorithm.",,Time Complexity
+Space Complexity,"Ang {{c1::Space Complexity}} ay pagsukat ng memory na kailangan ng algorithm.",,Space Complexity
+Big O Notation,"Ang {{c1::Big O Notation}} ay notation para sa upper bound ng complexity.",,Big O Notation
+Best Case,"Ang {{c1::Best Case}} ay minimum na oras na kailangan ng algorithm.",,Best Case
+Worst Case,"Ang {{c1::Worst Case}} ay maximum na oras na kailangan ng algorithm.",,Worst Case
+Time Complexity,"Ang {{c1::Time Complexity}} ay para sa performance analysis.",,Time Complexity
+Space Complexity,"Ang {{c1::Space Complexity}} ay para sa memory analysis.",,Space Complexity
+Big O Notation,"Ang {{c1::Big O Notation}} ay para sa complexity description.",,Big O Notation
+Best Case,"Ang {{c1::Best Case}} ay para sa best scenario analysis.",,Best Case
+Worst Case,"Ang {{c1::Worst Case}} ay para sa worst scenario analysis.",,Worst Case
+Time Complexity,"Paano mo sukatin ang oras na kailangan ng algorithm?",,"Tingnan ang time complexity."
+Space Complexity,"Paano mo sukatin ang memory na kailangan ng algorithm?",,"Tingnan ang space complexity."
+Big O Notation,"Paano mo i-describe ang upper bound ng complexity?",,"Gamitin ang Big O notation."
+Best Case,"Paano mo malalaman ang minimum na oras ng algorithm?",,"Tingnan ang best case."
+Worst Case,"Paano mo malalaman ang maximum na oras ng algorithm?",,"Tingnan ang worst case."
+Time Complexity,"Ano ang tawag sa pagsukat ng oras na kailangan ng algorithm?",,"Time complexity."
+Space Complexity,"Ano ang tawag sa pagsukat ng memory na kailangan ng algorithm?",,"Space complexity."
+Big O Notation,"Ano ang tawag sa notation para sa upper bound ng complexity?",,"Big O notation."
+Best Case,"Ano ang tawag sa minimum na oras na kailangan ng algorithm?",,"Best case."
+Worst Case,"Ano ang tawag sa maximum na oras na kailangan ng algorithm?",,"Worst case."

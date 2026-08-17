@@ -1,0 +1,20 @@
+Omega Notation,"Ang {{c1::Omega Notation}} ay ang notation para sa lower bound ng complexity.",,Omega Notation
+Theta Notation,"Ang {{c1::Theta Notation}} ay ang notation para sa tight bound ng complexity.",,Theta Notation
+Average Case,"Ang {{c1::Average Case}} ay ang average na oras na kailangan ng algorithm.",,Average Case
+Trade-off,"Ang {{c1::Trade-off}} ay ang pagpili sa pagitan ng dalawang competing factors.",,Trade-off
+Omega Notation,"Ang {{c1::Omega Notation}} ay notation para sa lower bound ng complexity.",,Omega Notation
+Theta Notation,"Ang {{c1::Theta Notation}} ay notation para sa tight bound ng complexity.",,Theta Notation
+Average Case,"Ang {{c1::Average Case}} ay average na oras na kailangan ng algorithm.",,Average Case
+Trade-off,"Ang {{c1::Trade-off}} ay pagpili sa pagitan ng dalawang competing factors.",,Trade-off
+Omega Notation,"Ang {{c1::Omega Notation}} ay para sa best possible na complexity.",,Omega Notation
+Theta Notation,"Ang {{c1::Theta Notation}} ay para sa exact na complexity.",,Theta Notation
+Average Case,"Ang {{c1::Average Case}} ay para sa typical na scenario.",,Average Case
+Trade-off,"Ang {{c1::Trade-off}} ay para sa decision making.",,Trade-off
+Omega Notation,"Paano mo i-describe ang lower bound ng complexity?",,"Gamitin ang Omega notation."
+Theta Notation,"Paano mo i-describe ang tight bound ng complexity?",,"Gamitin ang Theta notation."
+Average Case,"Paano mo malalaman ang average na oras ng algorithm?",,"Tingnan ang average case."
+Trade-off,"Paano mo pipiliin sa pagitan ng dalawang competing factors?",,"Tingnan ang trade-off."
+Omega Notation,"Ano ang tawag sa notation para sa lower bound ng complexity?",,"Omega notation."
+Theta Notation,"Ano ang tawag sa notation para sa tight bound ng complexity?",,"Theta notation."
+Average Case,"Ano ang tawag sa average na oras na kailangan ng algorithm?",,"Average case."
+Trade-off,"Ano ang tawag sa pagpili sa pagitan ng dalawang competing factors?",,"Trade-off."
