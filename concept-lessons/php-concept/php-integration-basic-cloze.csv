@@ -1,0 +1,15 @@
+Cookies,"Ang mga {{c1::Cookies}} ay ang pag-iimbak ng data sa browser.",,Cookies
+JSON Encoding/Decoding,"Ang {{c1::JSON Encoding/Decoding}} ay ang pag-convert ng data sa JSON format.",,JSON Encoding/Decoding
+Date & Time,"Ang {{c1::Date & Time}} ay ang paghawak ng timestamps at dates.",,Date & Time
+Cookies,"Ang mga {{c1::Cookies}} ay pag-iimbak ng data sa browser.",,Cookies
+JSON Encoding/Decoding,"Ang {{c1::JSON Encoding/Decoding}} ay pag-convert ng data sa JSON format.",,JSON Encoding/Decoding
+Date & Time,"Ang {{c1::Date & Time}} ay paghawak ng timestamps at dates.",,Date & Time
+Cookies,"Ang mga {{c1::Cookies}} ay para sa client-side na data storage.",,Cookies
+JSON Encoding/Decoding,"Ang {{c1::JSON Encoding/Decoding}} ay para sa data serialization.",,JSON Encoding/Decoding
+Date & Time,"Ang {{c1::Date & Time}} ay para sa timestamp management.",,Date & Time
+Cookies,"Paano mo i-store ang data sa browser?",,"Gamitin ang cookies."
+JSON Encoding/Decoding,"Paano mo i-serialize ang data sa JSON?",,"Gamitin ang JSON encoding/decoding."
+Date & Time,"Paano mo i-handle ang timestamps at dates?",,"Gamitin ang date at time functions."
+Cookies,"Ano ang tawag sa pag-iimbak ng data sa browser?",,"Cookies."
+JSON Encoding/Decoding,"Ano ang tawag sa pag-convert ng data sa JSON format?",,"JSON encoding/decoding."
+Date & Time,"Ano ang tawag sa paghawak ng timestamps at dates?",,"Date at time."

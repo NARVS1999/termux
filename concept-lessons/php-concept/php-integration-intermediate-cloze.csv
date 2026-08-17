@@ -1,0 +1,35 @@
+File Handling,"Ang {{c1::File Handling}} ay ang pagbasa at pag-write ng files.",,File Handling
+Database Connection,"Ang {{c1::Database Connection}} ay ang pag-connect sa MySQL gamit ang PDO.",,Database Connection
+Prepared Statements,"Ang mga {{c1::Prepared Statements}} ay ang ligtas na pag-query ng database.",,Prepared Statements
+Sessions,"Ang mga {{c1::Sessions}} ay ang pag-iimbak ng data sa server para sa user.",,Sessions
+HTTP Headers,"Ang mga {{c1::HTTP Headers}} ay ang pag-set ng response headers.",,HTTP Headers
+Regular Expressions,"Ang mga {{c1::Regular Expressions}} ay ang pattern matching sa strings.",,Regular Expressions
+Email Sending,"Ang {{c1::Email Sending}} ay ang pagpapadala ng emails gamit ang PHPMailer.",,Email Sending
+File Handling,"Ang {{c1::File Handling}} ay pagbasa at pag-write ng files.",,File Handling
+Database Connection,"Ang {{c1::Database Connection}} ay pag-connect sa MySQL gamit ang PDO.",,Database Connection
+Prepared Statements,"Ang mga {{c1::Prepared Statements}} ay ligtas na pag-query ng database.",,Prepared Statements
+Sessions,"Ang mga {{c1::Sessions}} ay pag-iimbak ng data sa server para sa user.",,Sessions
+HTTP Headers,"Ang mga {{c1::HTTP Headers}} ay pag-set ng response headers.",,HTTP Headers
+Regular Expressions,"Ang mga {{c1::Regular Expressions}} ay pattern matching sa strings.",,Regular Expressions
+Email Sending,"Ang {{c1::Email Sending}} ay pagpapadala ng emails gamit ang PHPMailer.",,Email Sending
+File Handling,"Ang {{c1::File Handling}} ay para sa file operations.",,File Handling
+Database Connection,"Ang {{c1::Database Connection}} ay para sa database connectivity.",,Database Connection
+Prepared Statements,"Ang mga {{c1::Prepared Statements}} ay para sa safe na database queries.",,Prepared Statements
+Sessions,"Ang mga {{c1::Sessions}} ay para sa server-side na data storage.",,Sessions
+HTTP Headers,"Ang mga {{c1::HTTP Headers}} ay para sa response configuration.",,HTTP Headers
+Regular Expressions,"Ang mga {{c1::Regular Expressions}} ay para sa pattern matching.",,Regular Expressions
+Email Sending,"Ang {{c1::Email Sending}} ay para sa email delivery.",,Email Sending
+File Handling,"Paano mo i-read at i-write ang files?",,"Gamitin ang file handling."
+Database Connection,"Paano mo i-connect sa MySQL gamit ang PDO?",,"Gamitin ang database connection."
+Prepared Statements,"Paano mo ligtas na i-query ang database?",,"Gamitin ang prepared statements."
+Sessions,"Paano mo i-store ang data sa server para sa user?",,"Gamitin ang sessions."
+HTTP Headers,"Paano mo i-set ang response headers?",,"Gamitin ang HTTP headers."
+Regular Expressions,"Paano mo gagawa ng pattern matching sa strings?",,"Gamitin ang regular expressions."
+Email Sending,"Paano mo magpapadala ng emails gamit ang PHPMailer?",,"Gamitin ang email sending."
+File Handling,"Ano ang tawag sa pagbasa at pag-write ng files?",,"File handling."
+Database Connection,"Ano ang tawag sa pag-connect sa MySQL gamit ang PDO?",,"Database connection."
+Prepared Statements,"Ano ang tawag sa ligtas na pag-query ng database?",,"Prepared statements."
+Sessions,"Ano ang tawag sa pag-iimbak ng data sa server para sa user?",,"Sessions."
+HTTP Headers,"Ano ang tawag sa pag-set ng response headers?",,"HTTP headers."
+Regular Expressions,"Ano ang tawag sa pattern matching sa strings?",,"Regular expressions."
+Email Sending,"Ano ang tawag sa pagpapadala ng emails gamit ang PHPMailer?",,"Email sending."
