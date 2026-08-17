@@ -1,0 +1,8 @@
+Many-to-Many Relationship,"Paano mo iko-connect ang dalawang tables na may maraming records sa isa't isa?",,"Gumamit ng junction table."
+Junction Table,"Para saan ginagamit ang junction table?",,"Nagco-connect sa many-to-many relationship."
+Composite Key,"Paano gumagawa ng primary key gamit ang dalawang columns?",,"Gamitin ang composite key."
+Candidate Key,"Paano malalaman kung ano ang mga possible na primary key?",,"Tingnan ang mga candidate key."
+Many-to-Many Relationship,"Ano ang ginagamit kapag ang isang record ay may maraming kaugnay sa ibang table?",,"Junction table."
+Junction Table,"Ano ang tawag sa table na nagco-connect sa many-to-many?",,"Junction table."
+Composite Key,"Ano ang tawag sa primary key na gawa sa maraming columns?",,"Composite key."
+Candidate Key,"Ano ang tawag sa mga possible na primary key?",,"Candidate key."

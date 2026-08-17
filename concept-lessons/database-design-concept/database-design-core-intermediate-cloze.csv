@@ -1,0 +1,12 @@
+Many-to-Many Relationship,"Ang {{c1::Many-to-Many Relationship}} ay ang maraming records ay nagkakaugnay sa isa't isa.",,Many-to-Many Relationship
+Junction Table,"Ang {{c1::Junction Table}} ay ang table na nagco-connect sa many-to-many.",,Junction Table
+Composite Key,"Ang {{c1::Composite Key}} ay ang primary key na gawa sa dalawang o higit pang columns.",,Composite Key
+Candidate Key,"Ang {{c1::Candidate Key}} ay ang mga possible na pwedeng maging primary key.",,Candidate Key
+Many-to-Many Relationship,"Ang {{c1::Many-to-Many Relationship}} ay nag-uugnay ng maraming records sa isa't isa.",,Many-to-Many Relationship
+Junction Table,"Ang {{c1::Junction Table}} ay nagco-connect sa many-to-many relationship.",,Junction Table
+Composite Key,"Ang {{c1::Composite Key}} ay gawa sa dalawang o higit pang columns.",,Composite Key
+Candidate Key,"Ang {{c1::Candidate Key}} ay mga possible na primary key.",,Candidate Key
+Many-to-Many Relationship,"Ang {{c1::Many-to-Many Relationship}} ay maraming records na nagkakaugnay.",,Many-to-Many Relationship
+Junction Table,"Ang {{c1::Junction Table}} ay ang中间 table para sa many-to-many.",,Junction Table
+Composite Key,"Ang {{c1::Composite Key}} ay multiple columns bilang primary key.",,Composite Key
+Candidate Key,"Ang {{c1::Candidate Key}} ay mga pwedeng maging primary key.",,Candidate Key

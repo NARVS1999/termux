@@ -1,0 +1,12 @@
+One-to-One Relationship,"Ang {{c1::One-to-One Relationship}} ay ang isang record sa table ay may kapares sa isa lang.",,One-to-One Relationship
+One-to-Many Relationship,"Ang {{c1::One-to-Many Relationship}} ay ang isang record ay may maraming kaugnay sa ibang table.",,One-to-Many Relationship
+Surrogate Key,"Ang {{c1::Surrogate Key}} ay ang artificial na ID na hindi business data.",,Surrogate Key
+Natural Key,"Ang {{c1::Natural Key}} ay ang existing data na ginagamit bilang identifier.",,Natural Key
+One-to-One Relationship,"Ang {{c1::One-to-One Relationship}} ay may kapares na isa lang sa ibang table.",,One-to-One Relationship
+One-to-Many Relationship,"Ang {{c1::One-to-Many Relationship}} ay may maraming kaugnay sa ibang table.",,One-to-Many Relationship
+Surrogate Key,"Ang {{c1::Surrogate Key}} ay artificial na ID lang.",,Surrogate Key
+Natural Key,"Ang {{c1::Natural Key}} ay existing data na ginagamit bilang ID.",,Natural Key
+One-to-One Relationship,"Ang {{c1::One-to-One Relationship}} ay isang record sa isang record lang.",,One-to-One Relationship
+One-to-Many Relationship,"Ang {{c1::One-to-Many Relationship}} ay isang record sa maraming records.",,One-to-Many Relationship
+Surrogate Key,"Ang {{c1::Surrogate Key}} ay hindi business data.",,Surrogate Key
+Natural Key,"Ang {{c1::Natural Key}} ay existing data na unique.",,Natural Key
