@@ -1,0 +1,7 @@
+Code Signing,"Paano mag-setup ng code signing para sa Android?",,"Gumawa ng keystore file, i-configure sa gradle, at i-set ang signingConfigs."
+Code Signing,"Paano mag-setup ng code signing para sa iOS?",,"I-create ang certificates at provisioning profiles sa Apple Developer portal."
+App Store Publishing,"Paano mag-submit ng app sa Google Play Store?",,"I-build ang release APK/AAB, i-upload sa Play Console, at i-fill ang store listing."
+App Store Publishing,"Paano mag-submit ng app sa Apple App Store?",,"I-archive ang app sa Xcode, i-upload sa App Store Connect, at mag-request ng review."
+Crash Reporting,"Paano mag-setup ng Sentry sa React Native?",,"I-install ang @sentry/react-native, i-initialize sa app entry, at i-configure ang DSN."
+Version Management,"Paano mag-increment ng version para sa new release?",,"I-update ang version sa package.json gamit ang semver format at i-sync sa native configs."
+Build Configuration,"Paano mag-setup ng environment-based builds?",,"Gamit ang react-native-config at .env files para sa API keys at environment settings."

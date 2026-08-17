@@ -1,0 +1,5 @@
+OTA Updates,"Paano mag-setup ng OTA updates sa Expo?",,"I-install ang expo-updates, i-configure ang channel, at i-deploy gamit ang EAS Update."
+OTA Updates,"Ano ang limitation ng OTA updates sa React Native?",,"Hindi kasama ang native code changes — kailangan pa ring mag-submit sa app store."
+OTA Updates,"Paano mag-push ng紧急 fix gamit ang OTA?",,"I-build ang JavaScript bundle, i-upload sa OTA service, at i-propagate sa devices."
+CI/CD,"Paano mag-setup ng CI/CD pipeline para sa React Native?",,"Gamit ang GitHub Actions o Fastlane, i-configure ang build, test, at deploy steps."
+CI/CD,"Paano mag-automate ng app store submission?",,"Gamit ang Fastlane deliver para sa iOS at fastlane supply para sa Android automation."

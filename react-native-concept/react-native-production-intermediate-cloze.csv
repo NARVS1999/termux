@@ -1,0 +1,15 @@
+Code Signing,"Ang {{c1::Code Signing}} ay certificate setup para sa app distribution.",,Code Signing
+Code Signing,"Gamit ang {{c1::Code Signing}}, nagva-verify ang authenticity ng app.",,Code Signing
+Code Signing,"Ang {{c1::Code Signing}} ay required para sa App Store at Play Store submission.",,Code Signing
+App Store Publishing,"Ang {{c1::App Store Publishing}} ay submission process para sa iOS at Android stores.",,App Store Publishing
+App Store Publishing,"Gamit ang {{c1::App Store Publishing}}, nagre-release ng app sa public distribution.",,App Store Publishing
+App Store Publishing,"Ang {{c1::App Store Publishing}} ay nagre-require ng screenshots, descriptions, at metadata.",,App Store Publishing
+Crash Reporting,"Ang {{c1::Crash Reporting}} ay error tracking para sa production monitoring.",,Crash Reporting
+Crash Reporting,"Gamit ang {{c1::Crash Reporting}}, nagmo-monitor ng real-time errors sa live app.",,Crash Reporting
+Crash Reporting,"Ang {{c1::Crash Reporting}} ay nagbibigay ng stack traces at device information.",,Crash Reporting
+Version Management,"Ang {{c1::Version Management}} ay semantic versioning para sa app releases.",,Version Management
+Version Management,"Gamit ang {{c1::Version Management}}, nagco-control ang version numbering scheme.",,Version Management
+Version Management,"Ang {{c1::Version Management}} ay nagre-require ng major, minor, at patch increments.",,Version Management
+Build Configuration,"Ang {{c1::Build Configuration}} ay environment setup para sa dev at production builds.",,Build Configuration
+Build Configuration,"Gamit ang {{c1::Build Configuration}}, nagse-set ng API endpoints at environment variables.",,Build Configuration
+Build Configuration,"Ang {{c1::Build Configuration}} ay nagbibigay ng debug at release build variants.",,Build Configuration

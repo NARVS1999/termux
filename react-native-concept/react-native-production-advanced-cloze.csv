@@ -1,0 +1,6 @@
+OTA Updates,"Ang {{c1::OTA Updates}} ay over-the-air updates para sa bug fixes without app store.",,OTA Updates
+OTA Updates,"Gamit ang {{c1::OTA Updates}}, nagde-deploy ng JavaScript changes nang walang review.",,OTA Updates
+OTA Updates,"Ang {{c1::OTA Updates}} ay hindi gumagana para sa native code changes.",,OTA Updates
+CI/CD,"Ang {{c1::CI/CD}} ay automated build at deployment pipelines.",,CI/CD
+CI/CD,"Gamit ang {{c1::CI/CD}}, nag-a-automate ng testing, building, at publishing.",,CI/CD
+CI/CD,"Ang {{c1::CI/CD}} ay nagre-reduce ng manual errors at deployment time.",,CI/CD
