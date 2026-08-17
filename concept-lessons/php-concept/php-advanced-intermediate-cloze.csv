@@ -1,0 +1,25 @@
+Composer,"Ang {{c1::Composer}} ay ang package manager ng PHP.",,Composer
+PSR Standards,"Ang mga {{c1::PSR Standards}} ay ang coding standards ng PHP community.",,PSR Standards
+Static Analysis,"Ang {{c1::Static Analysis}} ay ang paghahanap ng bugs nang hindi pinapatakbo.",,Static Analysis
+Code Quality Tools,"Ang mga {{c1::Code Quality Tools}} ay ang PHPStan, PHP-CS-Fixer at iba pa.",,Code Quality Tools
+Performance Profiling,"Ang {{c1::Performance Profiling}} ay ang pag-analyze ng PHP performance.",,Performance Profiling
+Composer,"Ang {{c1::Composer}} ay package manager ng PHP.",,Composer
+PSR Standards,"Ang mga {{c1::PSR Standards}} ay coding standards ng PHP community.",,PSR Standards
+Static Analysis,"Ang {{c1::Static Analysis}} ay paghahanap ng bugs nang hindi pinapatakbo.",,Static Analysis
+Code Quality Tools,"Ang mga {{c1::Code Quality Tools}} ay PHPStan, PHP-CS-Fixer at iba pa.",,Code Quality Tools
+Performance Profiling,"Ang {{c1::Performance Profiling}} ay pag-analyze ng PHP performance.",,Performance Profiling
+Composer,"Ang {{c1::Composer}} ay para sa package management.",,Composer
+PSR Standards,"Ang mga {{c1::PSR Standards}} ay para sa coding consistency.",,PSR Standards
+Static Analysis,"Ang {{c1::Static Analysis}} ay para sa bug detection.",,Static Analysis
+Code Quality Tools,"Ang mga {{c1::Code Quality Tools}} ay para sa code quality.",,Code Quality Tools
+Performance Profiling,"Ang {{c1::Performance Profiling}} ay para sa performance analysis.",,Performance Profiling
+Composer,"Paano mo i-install ang PHP packages?",,"Gamitin ang Composer."
+PSR Standards,"Paano mo susundin ang coding standards ng PHP?",,"Gamitin ang PSR standards."
+Static Analysis,"Paano mo hahanapin ang bugs nang hindi pinapatakbo?",,"Gamitin ang static analysis."
+Code Quality Tools,"Paano mo i-improve ang code quality?",,"Gamitin ang code quality tools."
+Performance Profiling,"Paano mo i-analyze ang PHP performance?",,"Gamitin ang performance profiling."
+Composer,"Ano ang tawag sa package manager ng PHP?",,"Composer."
+PSR Standards,"Ano ang tawag sa coding standards ng PHP community?",,"PSR standards."
+Static Analysis,"Ano ang tawag sa paghahanap ng bugs nang hindi pinapatakbo?",,"Static analysis."
+Code Quality Tools,"Ano ang tawag sa PHPStan, PHP-CS-Fixer at iba pa?",,"Code quality tools."
+Performance Profiling,"Ano ang tawag sa pag-analyze ng PHP performance?",,"Performance profiling."
