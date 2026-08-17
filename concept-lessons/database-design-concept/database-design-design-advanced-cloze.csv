@@ -1,0 +1,28 @@
+Transitive Dependency,"Ang {{c1::Transitive Dependency}} ay ang indirect na dependency ng columns.",,Transitive Dependency
+Boyce-Codd Normal Form,"Ang {{c1::Boyce-Codd Normal Form}} ay ang strict na version ng 3NF.",,Boyce-Codd Normal Form
+Denormalization Trade-offs,"Ang mga {{c1::Denormalization Trade-offs}} ay ang pagbalaanse ng speed at consistency.",,Denormalization Trade-offs
+Slowly Changing Dimensions,"Ang mga {{c1::Slowly Changing Dimensions}} ay ang paghawak ng nagbabago na historical data.",,Slowly Changing Dimensions
+Transitive Dependency,"Ang {{c1::Transitive Dependency}} ay indirect na dependency ng columns.",,Transitive Dependency
+Boyce-Codd Normal Form,"Ang {{c1::Boyce-Codd Normal Form}} ay strict na version ng 3NF.",,Boyce-Codd Normal Form
+Denormalization Trade-offs,"Ang mga {{c1::Denormalization Trade-offs}} ay pagbalaanse ng speed at consistency.",,Denormalization Trade-offs
+Slowly Changing Dimensions,"Ang mga {{c1::Slowly Changing Dimensions}} ay paghawak ng nagbabago na data.",,Slowly Changing Dimensions
+Transitive Dependency,"Ang {{c1::Transitive Dependency}} ay para sa indirect na dependency.",,Transitive Dependency
+Boyce-Codd Normal Form,"Ang {{c1::Boyce-Codd Normal Form}} ay para sa strict na normalization.",,Boyce-Codd Normal Form
+Denormalization Trade-offs,"Ang mga {{c1::Denormalization Trade-offs}} ay para sa pagpili ng approach.",,Denormalization Trade-offs
+Slowly Changing Dimensions,"Ang mga {{c1::Slowly Changing Dimensions}} ay para sa historical data.",,Slowly Changing Dimensions
+Transitive Dependency,"Paano mo makikita ang indirect na dependency?",,"Tingnan ang transitive dependency."
+Boyce-Codd Normal Form,"Paano mo i-apply ang strict na 3NF?",,"Gamitin ang Boyce-Codd normal form."
+Denormalization Trade-offs,"Paano mo babalansein ang speed at consistency?",,"Pag-aralan ang denormalization trade-offs."
+Slowly Changing Dimensions,"Paano mo hahawakan ang nagbabago na historical data?",,"Gamitin ang slowly changing dimensions."
+Transitive Dependency,"Ano ang tawag sa indirect na dependency ng columns?",,"Transitive dependency."
+Boyce-Codd Normal Form,"Ano ang tawag sa strict na version ng 3NF?",,"Boyce-Codd normal form."
+Denormalization Trade-offs,"Ano ang tawag sa pagbalaanse ng speed at consistency?",,"Denormalization trade-offs."
+Slowly Changing Dimensions,"Ano ang tawag sa paghawak ng nagbabago na historical data?",,"Slowly changing dimensions."
+Transitive Dependency,"Ano ang benefit ng transitive dependency?",,"Na-identify ang indirect dependencies."
+Boyce-Codd Normal Form,"Ano ang benefit ng Boyce-Codd normal form?",,"Mas normalized at consistent na data."
+Denormalization Trade-offs,"Ano ang benefit ng denormalization trade-offs?",,"Na-pili ang tamang approach para sa needs."
+Slowly Changing Dimensions,"Ano ang benefit ng slowly changing dimensions?",,"Na-track ang changes sa historical data."
+Transitive Dependency,"Bakit mahalaga ang transitive dependency?",,"Para sa pag-iwas ng data anomalies."
+Boyce-Codd Normal Form,"Bakit kailangan ng Boyce-Codd normal form?",,"Para sa mas strict na normalization."
+Denormalization Trade-offs,"Bakit kailangan pag-aralan ang denormalization trade-offs?",,"Para sa informed na decision making."
+Slowly Changing Dimensions,"Bakit kailangan ng slowly changing dimensions?",,"Para sa accurate na historical data tracking."

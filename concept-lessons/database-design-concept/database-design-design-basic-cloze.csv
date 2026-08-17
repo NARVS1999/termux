@@ -1,0 +1,12 @@
+Data Dictionary,"Ang {{c1::Data Dictionary}} ay ang dokumentasyon ng lahat ng tables at columns.",,Data Dictionary
+Naming Conventions,"Ang mga {{c1::Naming Conventions}} ay ang consistent na pangalan ng tables at columns.",,Naming Conventions
+Data Dictionary,"Ang {{c1::Data Dictionary}} ay dokumentasyon ng tables at columns.",,Data Dictionary
+Naming Conventions,"Ang mga {{c1::Naming Conventions}} ay consistent na pangalan.",,Naming Conventions
+Data Dictionary,"Ang {{c1::Data Dictionary}} ay para sa dokumentasyon.",,Data Dictionary
+Naming Conventions,"Ang mga {{c1::Naming Conventions}} ay para sa consistency.",,Naming Conventions
+Data Dictionary,"Saan mo makikita ang listahan ng tables at columns?",,"Sa data dictionary."
+Naming Conventions,"Bakit kailangan ng consistent na pangalan?",,"Para sa madaling maintenance at understanding."
+Data Dictionary,"Ano ang tawag sa dokumentasyon ng database structure?",,"Data dictionary."
+Naming Conventions,"Ano ang tawag sa consistent na pangalan ng tables at columns?",,"Naming conventions."
+Data Dictionary,"Ano ang benefit ng data dictionary?",,"Madaling maintindihan ang database structure."
+Naming Conventions,"Ano ang benefit ng naming conventions?",,"Consistent at maintainable na code."

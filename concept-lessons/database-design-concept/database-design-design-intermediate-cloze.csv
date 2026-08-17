@@ -1,0 +1,12 @@
+Entity-Relationship Diagram,"Ang {{c1::Entity-Relationship Diagram}} ay ang visual na representation ng tables at relationships.",,Entity-Relationship Diagram
+Functional Dependency,"Ang {{c1::Functional Dependency}} ay ang relasyon ng columns sa loob ng table.",,Functional Dependency
+Entity-Relationship Diagram,"Ang {{c1::Entity-Relationship Diagram}} ay visual na representation ng tables.",,Entity-Relationship Diagram
+Functional Dependency,"Ang {{c1::Functional Dependency}} ay relasyon ng columns sa table.",,Functional Dependency
+Entity-Relationship Diagram,"Ang {{c1::Entity-Relationship Diagram}} ay para sa database design.",,Entity-Relationship Diagram
+Functional Dependency,"Ang {{c1::Functional Dependency}} ay para sa understanding ng data.",,Functional Dependency
+Entity-Relationship Diagram,"Paano mo i-visualize ang tables at relationships?",,"Gamitin ang entity-relationship diagram."
+Functional Dependency,"Paano mo malalaman ang relasyon ng columns?",,"Tingnan ang functional dependency."
+Entity-Relationship Diagram,"Ano ang tawag sa visual na representation ng tables?",,"Entity-relationship diagram."
+Functional Dependency,"Ano ang tawag sa relasyon ng columns sa table?",,"Functional dependency."
+Entity-Relationship Diagram,"Ano ang benefit ng entity-relationship diagram?",,"Madaling maintindihan ang database design."
+Functional Dependency,"Ano ang benefit ng functional dependency?",,"Na-identify ang dependencies ng data."
