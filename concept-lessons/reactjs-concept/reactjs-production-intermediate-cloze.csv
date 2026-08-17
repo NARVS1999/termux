@@ -1,0 +1,30 @@
+Code Splitting,"Ang {{c1::Code Splitting}} ay ang paghahati ng code sa smaller bundles.",,Code Splitting
+Bundle Analysis,"Ang {{c1::Bundle Analysis}} ay ang pagtingin ng bundle size breakdown.",,Bundle Analysis
+Source Maps,"Ang mga {{c1::Source Maps}} ay ang pag-trace ng minified code sa original.",,Source Maps
+Error Tracking,"Ang {{c1::Error Tracking}} ay ang pag-monitor ng errors sa production.",,Error Tracking
+Performance Monitoring,"Ang {{c1::Performance Monitoring}} ay ang pag-sukat ng app performance.",,Performance Monitoring
+SEO Optimization,"Ang {{c1::SEO Optimization}} ay ang pag-optimize para sa search engines.",,SEO Optimization
+Code Splitting,"Ang {{c1::Code Splitting}} ay paghahati ng code sa smaller bundles.",,Code Splitting
+Bundle Analysis,"Ang {{c1::Bundle Analysis}} ay pagtingin ng bundle size breakdown.",,Bundle Analysis
+Source Maps,"Ang mga {{c1::Source Maps}} ay pag-trace ng minified code sa original.",,Source Maps
+Error Tracking,"Ang {{c1::Error Tracking}} ay pag-monitor ng errors sa production.",,Error Tracking
+Performance Monitoring,"Ang {{c1::Performance Monitoring}} ay pag-sukat ng app performance.",,Performance Monitoring
+SEO Optimization,"Ang {{c1::SEO Optimization}} ay pag-optimize para sa search engines.",,SEO Optimization
+Code Splitting,"Ang {{c1::Code Splitting}} ay para sa smaller bundles.",,Code Splitting
+Bundle Analysis,"Ang {{c1::Bundle Analysis}} ay para sa bundle optimization.",,Bundle Analysis
+Source Maps,"Ang mga {{c1::Source Maps}} ay para sa debugging.",,Source Maps
+Error Tracking,"Ang {{c1::Error Tracking}} ay para sa error monitoring.",,Error Tracking
+Performance Monitoring,"Ang {{c1::Performance Monitoring}} ay para sa performance tracking.",,Performance Monitoring
+SEO Optimization,"Ang {{c1::SEO Optimization}} ay para sa search engine visibility.",,SEO Optimization
+Code Splitting,"Paano mo hahatiin ang code sa smaller bundles?",,"Gamitin ang code splitting."
+Bundle Analysis,"Paano mo makikita ang bundle size breakdown?",,"Gamitin ang bundle analysis."
+Source Maps,"Paano mo i-trace ang minified code sa original?",,"Gamitin ang source maps."
+Error Tracking,"Paano mo i-monitor ang errors sa production?",,"Gamitin ang error tracking."
+Performance Monitoring,"Paano mo i-sukat ang app performance?",,"Gamitin ang performance monitoring."
+SEO Optimization,"Paano mo i-optimize para sa search engines?",,"Gamitin ang SEO optimization."
+Code Splitting,"Ano ang tawag sa paghahati ng code sa smaller bundles?",,"Code splitting."
+Bundle Analysis,"Ano ang tawag sa pagtingin ng bundle size breakdown?",,"Bundle analysis."
+Source Maps,"Ano ang tawag sa pag-trace ng minified code sa original?",,"Source maps."
+Error Tracking,"Ano ang tawag sa pag-monitor ng errors sa production?",,"Error tracking."
+Performance Monitoring,"Ano ang tawag sa pag-sukat ng app performance?",,"Performance monitoring."
+SEO Optimization,"Ano ang tawag sa pag-optimize para sa search engines?",,"SEO optimization."
