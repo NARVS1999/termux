@@ -1,0 +1,24 @@
+React Native,"Ang {{c1::React Native}} ay cross-platform mobile framework na gamit ang JavaScript at React.",,React Native
+React Native,"Gumagamit ang {{c1::React Native}} ng JavaScript para makagawa ng iOS at Android apps.",,React Native
+React Native,"Ang {{c1::React Native}} ay nagre-render ng native UI components gamit ang React.",,React Native
+JavaScript & TypeScript,"Ang {{c1::JavaScript}} ay scripting language para sa React Native logic.",,JavaScript
+JavaScript & TypeScript,"Ang {{c1::TypeScript}} ay nag-a-add ng type safety sa React Native projects.",,TypeScript
+JavaScript & TypeScript,"Gamit ang {{c1::TypeScript}}, maa-detect ang type errors during development.",,TypeScript
+JSX,"Ang {{c1::JSX}} ay HTML-like syntax para sa React Native component rendering.",,JSX
+JSX,"Sinusulat ang mga React Native components gamit ang {{c1::JSX}} syntax.",,JSX
+JSX,"Ang {{c1::JSX}} ay nako-compile into JavaScript function calls para sa rendering.",,JSX
+Components,"Ang {{c1::Components}} ay reusable UI building blocks ng React Native.",,Components
+Components,"Bawat {{c1::Component}} sa React Native ay isang function na nagre-return ng JSX.",,Components
+Components,"Pinapalitan ng {{c1::Components}} ang traditional UI elements para sa modular design.",,Components
+Props,"Ang {{c1::Props}} ay data na ina-pass from parent to child component.",,Props
+Props,"Read-only ang {{c1::Props}} — hindi pwedeng i-modify ng child component ang sarili nitong props.",,Props
+Props,"Gamit ang {{c1::Props}}, nire-reuse ang components na may iba't ibang data.",,Props
+State,"Ang {{c1::State}} ay mutable data na nagko-control ng component behavior.",,State
+State,"Kapag nagbabago ang {{c1::State}}, nagre-re-render ang component.",,State
+State,"Ang {{c1::State}} ay naka-encapsulate sa loob ng isang component.",,State
+Hooks,"Ang {{c1::Hooks}} ay functions na nag-a-extend ng capabilities ng functional components.",,Hooks
+Hooks,"Ang {{c1::useState}} at {{c1::useEffect}} ay mga sikat na React Native hooks.",,Hooks
+Hooks,"Pwede lang gumamit ng {{c1::Hooks}} sa loob ng functional components.",,Hooks
+Platform API,"Ang {{c1::Platform API}} ay nagbibigay access sa iOS at Android specific features.",,Platform API
+Platform API,"Gamit ang {{c1::Platform API}}, maaaring i-customize ang behavior per platform.",,Platform API
+Platform API,"Ang {{c1::Platform}} module ay nagre-return ng OS information gaya ng platform at version.",,Platform
