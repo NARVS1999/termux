@@ -1,0 +1,35 @@
+Query Optimization,"Ang {{c1::Query Optimization}} ay ang pagpapabilis ng mabagal na queries.",,Query Optimization
+EXPLAIN Plan,"Ang {{c1::EXPLAIN Plan}} ay ang pag-analyze ng execution plan ng query.",,EXPLAIN Plan
+Index Tuning,"Ang {{c1::Index Tuning}} ay ang pag-optimize ng index strategy.",,Index Tuning
+Partition Pruning,"Ang {{c1::Partition Pruning}} ay ang pagbawas ng scan sa tamang partitions.",,Partition Pruning
+Cursors,"Ang mga {{c1::Cursors}} ay ang pag-loop ng results row by row.",,Cursors
+Query Optimization,"Ang {{c1::Query Optimization}} ay nagpapabilis ng mabagal na queries.",,Query Optimization
+EXPLAIN Plan,"Ang {{c1::EXPLAIN Plan}} ay nag-a-analyze ng execution plan.",,EXPLAIN Plan
+Index Tuning,"Ang {{c1::Index Tuning}} ay nag-o-optimize ng index strategy.",,Index Tuning
+Partition Pruning,"Ang {{c1::Partition Pruning}} ay nagbabawas ng scan sa partitions.",,Partition Pruning
+Cursors,"Ang mga {{c1::Cursors}} ay naglo-loop ng results row by row.",,Cursors
+Query Optimization,"Ang {{c1::Query Optimization}} ay para sa mabilis na queries.",,Query Optimization
+EXPLAIN Plan,"Ang {{c1::EXPLAIN Plan}} ay para sa understanding ng query execution.",,EXPLAIN Plan
+Index Tuning,"Ang {{c1::Index Tuning}} ay para sa efficient na indexes.",,Index Tuning
+Partition Pruning,"Ang {{c1::Partition Pruning}} ay para sa selective na scanning.",,Partition Pruning
+Cursors,"Ang mga {{c1::Cursors}} ay para sa row-by-row na processing.",,Cursors
+Query Optimization,"Paano mo pabilisin ang mabagal na queries?",,"Gamitin ang query optimization."
+EXPLAIN Plan,"Paano mo malalaman kung bakit mabagal ang query?",,"Gamitin ang EXPLAIN plan."
+Index Tuning,"Paano mo i-optimize ang index strategy?",,"Gamitin ang index tuning."
+Partition Pruning,"Paano mo babawasan ang scan sa partitions?",,"Gamitin ang partition pruning."
+Cursors,"Paano mo i-loop ang results row by row?",,"Gamitin ang cursors."
+Query Optimization,"Ano ang tawag sa pagpapabilis ng mabagal na queries?",,"Query optimization."
+EXPLAIN Plan,"Ano ang tawag sa pag-analyze ng execution plan?",,"EXPLAIN plan."
+Index Tuning,"Ano ang tawag sa pag-optimize ng index strategy?",,"Index tuning."
+Partition Pruning,"Ano ang tawag sa pagbawas ng scan sa tamang partitions?",,"Partition pruning."
+Cursors,"Ano ang tawag sa pag-loop ng results row by row?",,"Cursors."
+Query Optimization,"Ano ang benefit ng query optimization?",,"Mas mabilis na queries."
+EXPLAIN Plan,"Ano ang benefit ng EXPLAIN plan?",,"Na-identify ang bottlenecks ng query."
+Index Tuning,"Ano ang benefit ng index tuning?",,"Mas efficient na indexes."
+Partition Pruning,"Ano ang benefit ng partition pruning?",,"Mas kaunti ang binabasa."
+Cursors,"Ano ang benefit ng cursors?",,"Row-by-row na processing."
+Query Optimization,"Bakit mahalaga ang query optimization?",,"Para sa performance ng application."
+EXPLAIN Plan,"Bakit kailangan ng EXPLAIN plan?",,"Para sa understanding ng query behavior."
+Index Tuning,"Bakit kailangan ng index tuning?",,"Para sa maintainable na indexes."
+Partition Pruning,"Bakit kailangan ng partition pruning?",,"Para sa performance ng large tables."
+Cursors,"Bakit kailangan ng cursors?",,"Kapag kailangan ng row-by-row na processing."

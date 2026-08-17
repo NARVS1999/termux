@@ -1,0 +1,20 @@
+Materialized Views,"Ang {{c1::Materialized Views}} ay ang pre-computed na query results.",,Materialized Views
+Stored Procedures,"Ang mga {{c1::Stored Procedures}} ay ang saved na logic sa database level.",,Stored Procedures
+Triggers,"Ang mga {{c1::Triggers}} ay ang automatic na action kapag nagbago ang data.",,Triggers
+Batch Processing,"Ang {{c1::Batch Processing}} ay ang pagproseso ng malaking data sa chunks.",,Batch Processing
+Materialized Views,"Ang {{c1::Materialized Views}} ay pre-computed na query results.",,Materialized Views
+Stored Procedures,"Ang mga {{c1::Stored Procedures}} ay saved na logic sa database.",,Stored Procedures
+Triggers,"Ang mga {{c1::Triggers}} ay automatic na action kapag nagbago ang data.",,Triggers
+Batch Processing,"Ang {{c1::Batch Processing}} ay pagproseso ng malaking data sa chunks.",,Batch Processing
+Materialized Views,"Ang {{c1::Materialized Views}} ay para sa mabilis na queries.",,Materialized Views
+Stored Procedures,"Ang mga {{c1::Stored Procedures}} ay para sa reusable na logic.",,Stored Procedures
+Triggers,"Ang mga {{c1::Triggers}} ay para sa automatic na actions.",,Triggers
+Batch Processing,"Ang {{c1::Batch Processing}} ay para sa malaking data.",,Batch Processing
+Materialized Views,"Paano mo pabilisin ang mga complex queries?",,"Gamitin ang materialized views."
+Stored Procedures,"Paano mo i-save ang logic sa database?",,"Gamitin ang stored procedures."
+Triggers,"Paano mo gagawin ang automatic na action?",,"Gamitin ang triggers."
+Batch Processing,"Paano mo ipoproseso ang malaking data?",,"Gamitin ang batch processing."
+Materialized Views,"Ano ang tawag sa pre-computed na query results?",,"Materialized views."
+Stored Procedures,"Ano ang tawag sa saved na logic sa database?",,"Stored procedures."
+Triggers,"Ano ang tawag sa automatic na action kapag nagbago ang data?",,"Triggers."
+Batch Processing,"Ano ang tawag sa pagproseso ng malaking data sa chunks?",,"Batch processing."
