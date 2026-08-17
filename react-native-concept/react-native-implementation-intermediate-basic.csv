@@ -1,0 +1,5 @@
+Navigation Container,"Paano mag-setup ng Navigation Container sa React Native app?",,"I-wrap ang buong app sa loob ng Navigation Container at i-pass ang stack navigator."
+Stack Navigator,"Paano mag-add ng screen sa Stack Navigator?",,"Gamit ang Screen component, i-register ang component at i-set ang name prop."
+Tab Navigator,"Paano mag-customize ang icons ng Tab Navigator?",,"I-set ang tabBarIcon option sa bawat Screen at i-return ang ImageSourcePropType."
+FlatList,"Paano mag-optimize ang FlatList para sa malaking data?",,"I-set ang getItemLayout, windowSize, at initialNumToRender props para sa performance."
+SectionList,"Paano mag-define ng sections para sa SectionList?",,"Gumawa ng array ng objects na may title at data properties para sa bawat section."

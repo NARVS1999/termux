@@ -1,0 +1,15 @@
+Navigation Container,"Ang {{c1::Navigation Container}} ay root component para sa navigation tree.",,Navigation Container
+Navigation Container,"Lahat ng navigators ay dapat naka-wrap sa loob ng {{c1::Navigation Container}}.",,Navigation Container
+Navigation Container,"Ang {{c1::Navigation Container}} ay nagbibigay ng state at context sa buong navigation.",,Navigation Container
+Stack Navigator,"Ang {{c1::Stack Navigator}} ay push/pop navigation pattern sa React Native.",,Stack Navigator
+Stack Navigator,"Gamit ang {{c1::Stack Navigator}}, nire-render ang screens bilang stack.",,Stack Navigator
+Stack Navigator,"Ang {{c1::Stack Navigator}} ay nagbibigay ng back button automatically.",,Stack Navigator
+Tab Navigator,"Ang {{c1::Tab Navigator}} ay bottom o top tab navigation setup.",,Tab Navigator
+Tab Navigator,"Gamit ang {{c1::Tab Navigator}}, nire-organize ang screens sa multiple tabs.",,Tab Navigator
+Tab Navigator,"Ang {{c1::Tab Navigator}} ay nagre-render ng icons at labels sa bawat tab.",,Tab Navigator
+FlatList,"Ang {{c1::FlatList}} ay performant list component para sa large data sets.",,FlatList
+FlatList,"Gamit ang {{c1::FlatList}}, nagre-render lang ng visible items para sa efficiency.",,FlatList
+FlatList,"Ang {{c1::FlatList}} ay nagre-require ng keyExtractor para sa unique keys.",,FlatList
+SectionList,"Ang {{c1::SectionList}} ay grouped list component para sa sectioned data.",,SectionList
+SectionList,"Gamit ang {{c1::SectionList}}, nire-render ang data na may sections at headers.",,SectionList
+SectionList,"Ang {{c1::SectionList}} ay nagre-require ng sections array na may title at data.",,SectionList

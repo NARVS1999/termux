@@ -1,0 +1,15 @@
+Expo,"Ang {{c1::Expo}} ay managed workflow platform para sa React Native development.",,Expo
+Expo,"Gamit ang {{c1::Expo}}, maa-run at mag-build ng app nang hindi nagse-set up ng native code.",,Expo
+Expo,"Ang {{c1::Expo}} ay nagbibigay ng pre-built modules para sa camera, location, at iba pa.",,Expo
+React Native CLI,"Ang {{c1::React Native CLI}} ay bare workflow setup para sa full native control.",,React Native CLI
+React Native CLI,"Gamit ang {{c1::React Native CLI}}, pwedeng i-customize ang iOS at Android projects.",,React Native CLI
+React Native CLI,"Ang {{c1::React Native CLI}} ay nagre-require ng Xcode at Android Studio setup.",,React Native CLI
+Image,"Ang {{c1::Image}} ay component para sa image display at loading sa React Native.",,Image
+Image,"Gamit ang {{c1::Image}} source prop, naglo-load ng images mula sa local o remote URL.",,Image
+Image,"Ang {{c1::Image}} ay nagre-resize automatically based sa resizeMode prop.",,Image
+TextInput,"Ang {{c1::TextInput}} ay component para sa user text input sa React Native.",,TextInput
+TextInput,"Ang {{c1::TextInput}} ay nagre-render ng single o multi-line text field.",,TextInput
+TextInput,"Gamit ang {{c1::TextInput}} onChangeText prop, nire-track ang user input changes.",,TextInput
+Dimensions,"Ang {{c1::Dimensions}} ay API para sa screen width at height access.",,Dimensions
+Dimensions,"Gamit ang {{c1::Dimensions.get()}}, nire-retrieve ang current screen dimensions.",,Dimensions
+Dimensions,"Ang {{c1::Dimensions}} ay nagbabago kapag nag-rotate ang device.",,Dimensions
