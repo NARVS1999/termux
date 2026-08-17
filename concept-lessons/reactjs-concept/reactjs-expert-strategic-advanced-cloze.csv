@@ -1,0 +1,40 @@
+React Fiber Architecture,"Ang mga {{c1::React Fiber Architecture}} ay ang loob ng reconciler ng React.",,React Fiber Architecture
+Reconciliation Algorithm,"Ang {{c1::Reconciliation Algorithm}} ay ang pag-compare ng old at new virtual DOM.",,Reconciliation Algorithm
+Batch Updates,"Ang mga {{c1::Batch Updates}} ay ang pag-group ng state updates para sa efficiency.",,Batch Updates
+React Internals,"Ang mga {{c1::React Internals}} ay ang deep understanding ng React source code.",,React Internals
+Custom Renderer,"Ang {{c1::Custom Renderer}} ay ang paggawa ng sariling React renderer.",,Custom Renderer
+Compiler Optimizations,"Ang mga {{c1::Compiler Optimizations}} ay ang understanding ng React Compiler.",,Compiler Optimizations
+State Machine Approach,"Ang {{c1::State Machine Approach}} ay ang pag-model ng state gamit ang state machines.",,State Machine Approach
+Performance Engineering,"Ang {{c1::Performance Engineering}} ay ang pag-optimize ng React app hanggang sa limit.",,Performance Engineering
+React Fiber Architecture,"Ang mga {{c1::React Fiber Architecture}} ay loob ng reconciler ng React.",,React Fiber Architecture
+Reconciliation Algorithm,"Ang {{c1::Reconciliation Algorithm}} ay pag-compare ng old at new virtual DOM.",,Reconciliation Algorithm
+Batch Updates,"Ang mga {{c1::Batch Updates}} ay pag-group ng state updates para sa efficiency.",,Batch Updates
+React Internals,"Ang mga {{c1::React Internals}} ay deep understanding ng React source code.",,React Internals
+Custom Renderer,"Ang {{c1::Custom Renderer}} ay paggawa ng sariling React renderer.",,Custom Renderer
+Compiler Optimizations,"Ang mga {{c1::Compiler Optimizations}} ay understanding ng React Compiler.",,Compiler Optimizations
+State Machine Approach,"Ang {{c1::State Machine Approach}} ay pag-model ng state gamit ang state machines.",,State Machine Approach
+Performance Engineering,"Ang {{c1::Performance Engineering}} ay pag-optimize ng React app hanggang sa limit.",,Performance Engineering
+React Fiber Architecture,"Ang mga {{c1::React Fiber Architecture}} ay para sa reconciler understanding.",,React Fiber Architecture
+Reconciliation Algorithm,"Ang {{c1::Reconciliation Algorithm}} ay para sa DOM comparison.",,Reconciliation Algorithm
+Batch Updates,"Ang mga {{c1::Batch Updates}} ay para sa efficient na state updates.",,Batch Updates
+React Internals,"Ang mga {{c1::React Internals}} ay para sa deep understanding ng React.",,React Internals
+Custom Renderer,"Ang {{c1::Custom Renderer}} ay para sa custom na rendering.",,Custom Renderer
+Compiler Optimizations,"Ang mga {{c1::Compiler Optimizations}} ay para sa compiler understanding.",,Compiler Optimizations
+State Machine Approach,"Ang {{c1::State Machine Approach}} ay para sa state modeling.",,State Machine Approach
+Performance Engineering,"Ang {{c1::Performance Engineering}} ay para sa app optimization.",,Performance Engineering
+React Fiber Architecture,"Paano mo maiintindihan ang reconciler ng React?",,"Tingnan ang React Fiber architecture."
+Reconciliation Algorithm,"Paano mo i-compare ang old at new virtual DOM?",,"Tingnan ang reconciliation algorithm."
+Batch Updates,"Paano mo i-group ang state updates para sa efficiency?",,"Gamitin ang batch updates."
+React Internals,"Paano mo maiintindihan ang React source code?",,"Tingnan ang React internals."
+Custom Renderer,"Paano mo gagawa ng sariling React renderer?",,"Gamitin ang custom renderer."
+Compiler Optimizations,"Paano mo maiintindihan ang React Compiler?",,"Tingnan ang compiler optimizations."
+State Machine Approach,"Paano mo i-model ang state gamit ang state machines?",,"Gamitin ang state machine approach."
+Performance Engineering,"Paano mo i-optimize ang React app hanggang sa limit?",,"Gamitin ang performance engineering."
+React Fiber Architecture,"Ano ang tawag sa loob ng reconciler ng React?",,"React Fiber architecture."
+Reconciliation Algorithm,"Ano ang tawag sa pag-compare ng old at new virtual DOM?",,"Reconciliation algorithm."
+Batch Updates,"Ano ang tawag sa pag-group ng state updates para sa efficiency?",,"Batch updates."
+React Internals,"Ano ang tawag sa deep understanding ng React source code?",,"React internals."
+Custom Renderer,"Ano ang tawag sa paggawa ng sariling React renderer?",,"Custom renderer."
+Compiler Optimizations,"Ano ang tawag sa understanding ng React Compiler?",,"Compiler optimizations."
+State Machine Approach,"Ano ang tawag sa pag-model ng state gamit ang state machines?",,"State machine approach."
+Performance Engineering,"Ano ang tawag sa pag-optimize ng React app hanggang sa limit?",,"Performance engineering."
