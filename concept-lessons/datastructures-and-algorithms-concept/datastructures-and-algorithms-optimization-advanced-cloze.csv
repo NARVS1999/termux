@@ -1,0 +1,15 @@
+Parallel Processing,"Ang {{c1::Parallel Processing}} ay ang pag-process ng data sa multiple cores.",,Parallel Processing
+Distributed Computing,"Ang {{c1::Distributed Computing}} ay ang pag-process ng data sa multiple machines.",,Distributed Computing
+Streaming Algorithms,"Ang mga {{c1::Streaming Algorithms}} ay ang algorithms para sa real-time na data.",,Streaming Algorithms
+Parallel Processing,"Ang {{c1::Parallel Processing}} ay pag-process ng data sa multiple cores.",,Parallel Processing
+Distributed Computing,"Ang {{c1::Distributed Computing}} ay pag-process ng data sa multiple machines.",,Distributed Computing
+Streaming Algorithms,"Ang mga {{c1::Streaming Algorithms}} ay algorithms para sa real-time na data.",,Streaming Algorithms
+Parallel Processing,"Ang {{c1::Parallel Processing}} ay para sa faster na computation.",,Parallel Processing
+Distributed Computing,"Ang {{c1::Distributed Computing}} ay para sa scalable na computation.",,Distributed Computing
+Streaming Algorithms,"Ang mga {{c1::Streaming Algorithms}} ay para sa real-time na data processing.",,Streaming Algorithms
+Parallel Processing,"Paano mo i-process ang data sa multiple cores?",,"Gamitin ang parallel processing."
+Distributed Computing,"Paano mo i-process ang data sa multiple machines?",,"Gamitin ang distributed computing."
+Streaming Algorithms,"Paano mo i-process ang real-time na data?",,"Gamitin ang streaming algorithms."
+Parallel Processing,"Ano ang tawag sa pag-process ng data sa multiple cores?",,"Parallel processing."
+Distributed Computing,"Ano ang tawag sa pag-process ng data sa multiple machines?",,"Distributed computing."
+Streaming Algorithms,"Ano ang tawag sa algorithms para sa real-time na data?",,"Streaming algorithms."
