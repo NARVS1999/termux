@@ -1,0 +1,20 @@
+Authorization (Policies & Gates),"Ang {{c1::Authorization (Policies & Gates)}} ay ang pag-check ng user permissions.",,Authorization (Policies & Gates)
+API Authentication,"Ang {{c1::API Authentication}} ay ang token-based na authentication para sa APIs.",,API Authentication
+Job Batches,"Ang mga {{c1::Job Batches}} ay ang pag-group ng maraming jobs para sa tracking.",,Job Batches
+WebSockets,"Ang mga {{c1::WebSockets}} ay ang persistent na connection sa server.",,WebSockets
+Authorization (Policies & Gates),"Ang {{c1::Authorization (Policies & Gates)}} ay pag-check ng user permissions.",,Authorization (Policies & Gates)
+API Authentication,"Ang {{c1::API Authentication}} ay token-based na authentication para sa APIs.",,API Authentication
+Job Batches,"Ang mga {{c1::Job Batches}} ay pag-group ng maraming jobs para sa tracking.",,Job Batches
+WebSockets,"Ang mga {{c1::WebSockets}} ay persistent na connection sa server.",,WebSockets
+Authorization (Policies & Gates),"Ang {{c1::Authorization (Policies & Gates)}} ay para sa permission checking.",,Authorization (Policies & Gates)
+API Authentication,"Ang {{c1::API Authentication}} ay para sa token-based na security.",,API Authentication
+Job Batches,"Ang mga {{c1::Job Batches}} ay para sa job tracking.",,Job Batches
+WebSockets,"Ang mga {{c1::WebSockets}} ay para sa persistent na connection.",,WebSockets
+Authorization (Policies & Gates),"Paano mo i-check ang user permissions?",,"Gamitin ang authorization (policies at gates)."
+API Authentication,"Paano mo i-secure ang APIs gamit ang tokens?",,"Gamitin ang API authentication."
+Job Batches,"Paano mo i-track ang maraming jobs?",,"Gamitin ang job batches."
+WebSockets,"Paano mo gagawin ang persistent na connection?",,"Gamitin ang WebSockets."
+Authorization (Policies & Gates),"Ano ang tawag sa pag-check ng user permissions?",,"Authorization (policies at gates)."
+API Authentication,"Ano ang tawag sa token-based na authentication para sa APIs?",,"API authentication."
+Job Batches,"Ano ang tawag sa pag-group ng maraming jobs para sa tracking?",,"Job batches."
+WebSockets,"Ano ang tawag sa persistent na connection sa server?",,"WebSockets."

@@ -1,0 +1,30 @@
+Authentication (Sanctum),"Ang {{c1::Authentication (Sanctum)}} ay ang pag-verify ng user identity.",,Authentication (Sanctum)
+Mail & Mailables,"Ang {{c1::Mail & Mailables}} ay ang pagpapadala ng emails.",,Mail & Mailables
+Queue System,"Ang {{c1::Queue System}} ay ang background processing ng heavy tasks.",,Queue System
+Task Scheduling,"Ang {{c1::Task Scheduling}} ay ang awtomatikong pagpapatakbo ng cron jobs.",,Task Scheduling
+Broadcasting,"Ang {{c1::Broadcasting}} ay ang real-time na communication sa clients.",,Broadcasting
+Third-party Integrations,"Ang mga {{c1::Third-party Integrations}} ay ang pag-connect sa external services.",,Third-party Integrations
+Authentication (Sanctum),"Ang {{c1::Authentication (Sanctum)}} ay pag-verify ng user identity.",,Authentication (Sanctum)
+Mail & Mailables,"Ang {{c1::Mail & Mailables}} ay pagpapadala ng emails.",,Mail & Mailables
+Queue System,"Ang {{c1::Queue System}} ay background processing ng heavy tasks.",,Queue System
+Task Scheduling,"Ang {{c1::Task Scheduling}} ay awtomatikong pagpapatakbo ng cron jobs.",,Task Scheduling
+Broadcasting,"Ang {{c1::Broadcasting}} ay real-time na communication sa clients.",,Broadcasting
+Third-party Integrations,"Ang mga {{c1::Third-party Integrations}} ay pag-connect sa external services.",,Third-party Integrations
+Authentication (Sanctum),"Ang {{c1::Authentication (Sanctum)}} ay para sa user verification.",,Authentication (Sanctum)
+Mail & Mailables,"Ang {{c1::Mail & Mailables}} ay para sa email sending.",,Mail & Mailables
+Queue System,"Ang {{c1::Queue System}} ay para sa background processing.",,Queue System
+Task Scheduling,"Ang {{c1::Task Scheduling}} ay para sa automated tasks.",,Task Scheduling
+Broadcasting,"Ang {{c1::Broadcasting}} ay para sa real-time communication.",,Broadcasting
+Third-party Integrations,"Ang mga {{c1::Third-party Integrations}} ay para sa external service connection.",,Third-party Integrations
+Authentication (Sanctum),"Paano mo i-verify ang user identity?",,"Gamitin ang authentication (Sanctum)."
+Mail & Mailables,"Paano mo magpapadala ng emails?",,"Gamitin ang mail at mailables."
+Queue System,"Paano mo i-process ang heavy tasks sa background?",,"Gamitin ang queue system."
+Task Scheduling,"Paano mo i-automate ang cron jobs?",,"Gamitin ang task scheduling."
+Broadcasting,"Paano mo gagawin ang real-time na communication?",,"Gamitin ang broadcasting."
+Third-party Integrations,"Paano mo i-connect ang app sa external services?",,"Gamitin ang third-party integrations."
+Authentication (Sanctum),"Ano ang tawag sa pag-verify ng user identity?",,"Authentication (Sanctum)."
+Mail & Mailables,"Ano ang tawag sa pagpapadala ng emails?",,"Mail at mailables."
+Queue System,"Ano ang tawag sa background processing ng heavy tasks?",,"Queue system."
+Task Scheduling,"Ano ang tawag sa awtomatikong pagpapatakbo ng cron jobs?",,"Task scheduling."
+Broadcasting,"Ano ang tawag sa real-time na communication sa clients?",,"Broadcasting."
+Third-party Integrations,"Ano ang tawag sa pag-connect sa external services?",,"Third-party integrations."

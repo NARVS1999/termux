@@ -1,0 +1,8 @@
+Authorization (Policies & Gates),"Paano mo i-check ang user permissions?",,"Gamitin ang authorization (policies at gates)."
+API Authentication,"Paano mo i-secure ang APIs gamit ang tokens?",,"Gamitin ang API authentication."
+Job Batches,"Paano mo i-track ang maraming jobs?",,"Gamitin ang job batches."
+WebSockets,"Paano mo gagawin ang persistent na connection?",,"Gamitin ang WebSockets."
+Authorization (Policies & Gates),"Ano ang tawag sa pag-check ng user permissions?",,"Authorization (policies at gates)."
+API Authentication,"Ano ang tawag sa token-based na authentication para sa APIs?",,"API authentication."
+Job Batches,"Ano ang tawag sa pag-group ng maraming jobs para sa tracking?",,"Job batches."
+WebSockets,"Ano ang tawag sa persistent na connection sa server?",,"WebSockets."
