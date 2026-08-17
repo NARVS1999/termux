@@ -1,0 +1,12 @@
+Tree Shaking,"Ang {{c1::Tree Shaking}} ay ang pagtanggal ng unused code.",,Tree Shaking
+Code Splitting,"Ang {{c1::Code Splitting}} ay ang paghahati ng code sa smaller chunks.",,Code Splitting
+Tree Shaking,"Ang {{c1::Tree Shaking}} ay pagtanggal ng unused code.",,Tree Shaking
+Code Splitting,"Ang {{c1::Code Splitting}} ay paghahati ng code sa smaller chunks.",,Code Splitting
+Tree Shaking,"Ang {{c1::Tree Shaking}} ay para sa mas kaunting bundle size.",,Tree Shaking
+Code Splitting,"Ang {{c1::Code Splitting}} ay para sa mas mabilis na loading.",,Code Splitting
+Tree Shaking,"Paano motanggal ang unused code?",,"Gamitin ang tree shaking."
+Code Splitting,"Paano mo hahatiin ang code sa smaller chunks?",,"Gamitin ang code splitting."
+Tree Shaking,"Ano ang tawag sa pagtanggal ng unused code?",,"Tree shaking."
+Code Splitting,"Ano ang tawag sa paghahati ng code sa smaller chunks?",,"Code splitting."
+Tree Shaking,"Ano ang benefit ng tree shaking?",,"Mas kaunti ang bundle size."
+Code Splitting,"Ano ang benefit ng code splitting?",,"Mas mabilis na initial load."
