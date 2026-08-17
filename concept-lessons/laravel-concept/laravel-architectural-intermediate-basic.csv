@@ -1,0 +1,6 @@
+Service Layer,"Paano mo i-organize ang business logic?",,"Gamitin ang service layer."
+Action Classes,"Paano mo i-separate ang logic sa maliit na classes?",,"Gamitin ang action classes."
+DTOs,"Paano mo i-pass ang data sa structured na objects?",,"Gamitin ang DTOs."
+Service Layer,"Ano ang tawag sa pag-centralize ng business logic?",,"Service layer."
+Action Classes,"Ano ang tawag sa paghiwalay ng logic sa maliit na classes?",,"Action classes."
+DTOs,"Ano ang tawag sa pag-pass ng data sa structured na objects?",,"DTOs."

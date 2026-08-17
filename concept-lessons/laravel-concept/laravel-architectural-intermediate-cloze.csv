@@ -1,0 +1,15 @@
+Service Layer,"Ang {{c1::Service Layer}} ay ang pag-centralize ng business logic.",,Service Layer
+Action Classes,"Ang mga {{c1::Action Classes}} ay ang paghiwalay ng logic sa maliit na classes.",,Action Classes
+DTOs,"Ang mga {{c1::DTOs}} ay ang pag-pass ng data sa structured na objects.",,DTOs
+Service Layer,"Ang {{c1::Service Layer}} ay pag-centralize ng business logic.",,Service Layer
+Action Classes,"Ang mga {{c1::Action Classes}} ay paghiwalay ng logic sa maliit na classes.",,Action Classes
+DTOs,"Ang mga {{c1::DTOs}} ay pag-pass ng data sa structured na objects.",,DTOs
+Service Layer,"Ang {{c1::Service Layer}} ay para sa business logic organization.",,Service Layer
+Action Classes,"Ang mga {{c1::Action Classes}} ay para sa small, focused na logic.",,Action Classes
+DTOs,"Ang mga {{c1::DTOs}} ay para sa structured na data passing.",,DTOs
+Service Layer,"Paano mo i-organize ang business logic?",,"Gamitin ang service layer."
+Action Classes,"Paano mo i-separate ang logic sa maliit na classes?",,"Gamitin ang action classes."
+DTOs,"Paano mo i-pass ang data sa structured na objects?",,"Gamitin ang DTOs."
+Service Layer,"Ano ang tawag sa pag-centralize ng business logic?",,"Service layer."
+Action Classes,"Ano ang tawag sa paghiwalay ng logic sa maliit na classes?",,"Action classes."
+DTOs,"Ano ang tawag sa pag-pass ng data sa structured na objects?",,"DTOs."
