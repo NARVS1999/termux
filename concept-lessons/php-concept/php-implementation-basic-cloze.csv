@@ -1,0 +1,6 @@
+Constructors,"Ang mga {{c1::Constructors}} ay ang special na method na tumatakbo kapag nag-create ng object.",,Constructors
+Constructors,"Ang mga {{c1::Constructors}} ay special na method na tumatakbo kapag nag-create ng object.",,Constructors
+Constructors,"Ang mga {{c1::Constructors}} ay para sa object initialization.",,Constructors
+Constructors,"Paano mo i-initialize ang object kapag nag-create?",,"Gamitin ang constructors."
+Constructors,"Ano ang tawag sa special na method na tumatakbo kapag nag-create ng object?",,"Constructors."
+Constructors,"Ano ang benefit ng constructors?",,"Na-initialize ang object agad."

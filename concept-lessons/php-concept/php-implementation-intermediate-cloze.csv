@@ -1,0 +1,45 @@
+Classes & Objects,"Ang mga {{c1::Classes & Objects}} ay ang blueprint at instance ng entity.",,Classes & Objects
+Properties & Methods,"Ang mga {{c1::Properties & Methods}} ay ang data at behavior ng class.",,Properties & Methods
+Inheritance,"Ang {{c1::Inheritance}} ay ang pagmana ng properties at methods sa parent class.",,Inheritance
+Interfaces,"Ang mga {{c1::Interfaces}} ay ang kontrata ng methods na ipinapatupad ng class.",,Interfaces
+Abstract Classes,"Ang mga {{c1::Abstract Classes}} ay ang partial na implementation na hindi pwedeng i-instantiate.",,Abstract Classes
+Traits,"Ang mga {{c1::Traits}} ay ang reusable na code na hindi gumagamit ng inheritance.",,Traits
+Namespaces,"Ang mga {{c1::Namespaces}} ay ang pag-organize ng classes sa logical groups.",,Namespaces
+Autoloading,"Ang {{c1::Autoloading}} ay ang awtomatikong pag-load ng classes kapag kailangan.",,Autoloading
+Error Handling,"Ang {{c1::Error Handling}} ay ang paghuli at paghawak ng errors gamit ang try-catch.",,Error Handling
+Classes & Objects,"Ang mga {{c1::Classes & Objects}} ay blueprint at instance ng entity.",,Classes & Objects
+Properties & Methods,"Ang mga {{c1::Properties & Methods}} ay data at behavior ng class.",,Properties & Methods
+Inheritance,"Ang {{c1::Inheritance}} ay pagmana ng properties at methods sa parent class.",,Inheritance
+Interfaces,"Ang mga {{c1::Interfaces}} ay kontrata ng methods na ipinapatupad ng class.",,Interfaces
+Abstract Classes,"Ang mga {{c1::Abstract Classes}} ay partial na implementation na hindi pwedeng i-instantiate.",,Abstract Classes
+Traits,"Ang mga {{c1::Traits}} ay reusable na code na hindi gumagamit ng inheritance.",,Traits
+Namespaces,"Ang mga {{c1::Namespaces}} ay pag-organize ng classes sa logical groups.",,Namespaces
+Autoloading,"Ang {{c1::Autoloading}} ay awtomatikong pag-load ng classes kapag kailangan.",,Autoloading
+Error Handling,"Ang {{c1::Error Handling}} ay paghuli at paghawak ng errors gamit ang try-catch.",,Error Handling
+Classes & Objects,"Ang mga {{c1::Classes & Objects}} ay para sa OOP approach.",,Classes & Objects
+Properties & Methods,"Ang mga {{c1::Properties & Methods}} ay para sa class data at behavior.",,Properties & Methods
+Inheritance,"Ang {{c1::Inheritance}} ay para sa code reuse.",,Inheritance
+Interfaces,"Ang mga {{c1::Interfaces}} ay para sa contract ng methods.",,Interfaces
+Abstract Classes,"Ang mga {{c1::Abstract Classes}} ay para sa partial na implementation.",,Abstract Classes
+Traits,"Ang mga {{c1::Traits}} ay para sa reusable na code.",,Traits
+Namespaces,"Ang mga {{c1::Namespaces}} ay para sa code organization.",,Namespaces
+Autoloading,"Ang {{c1::Autoloading}} ay para sa automatic na class loading.",,Autoloading
+Error Handling,"Ang {{c1::Error Handling}} ay para sa error management.",,Error Handling
+Classes & Objects,"Paano mo gagamitin ang OOP sa PHP?",,"Gamitin ang classes at objects."
+Properties & Methods,"Paano mo i-define ang data at behavior ng class?",,"Gamitin ang properties at methods."
+Inheritance,"Paano mo i-inherit ang properties at methods?",,"Gamitin ang inheritance."
+Interfaces,"Paano mo i-implement ang contract ng methods?",,"Gamitin ang interfaces."
+Abstract Classes,"Paano mo gagawa ng partial na implementation?",,"Gamitin ang abstract classes."
+Traits,"Paano mo gagawa ng reusable na code?",,"Gamitin ang traits."
+Namespaces,"Paano mo i-organize ang classes sa logical groups?",,"Gamitin ang namespaces."
+Autoloading,"Paano mo i-load ang classes kapag kailangan?",,"Gamitin ang autoloading."
+Error Handling,"Paano mo i-handle ang errors sa PHP?",,"Gamitin ang try-catch."
+Classes & Objects,"Ano ang tawag sa blueprint at instance ng entity?",,"Classes at objects."
+Properties & Methods,"Ano ang tawag sa data at behavior ng class?",,"Properties at methods."
+Inheritance,"Ano ang tawag sa pagmana ng properties at methods sa parent class?",,"Inheritance."
+Interfaces,"Ano ang tawag sa kontrata ng methods na ipinapatupad ng class?",,"Interfaces."
+Abstract Classes,"Ano ang tawag sa partial na implementation na hindi pwedeng i-instantiate?",,"Abstract classes."
+Traits,"Ano ang tawag sa reusable na code na hindi gumagamit ng inheritance?",,"Traits."
+Namespaces,"Ano ang tawag sa pag-organize ng classes sa logical groups?",,"Namespaces."
+Autoloading,"Ano ang tawag sa awtomatikong pag-load ng classes kapag kailangan?",,"Autoloading."
+Error Handling,"Ano ang tawag sa paghuli at paghawak ng errors gamit ang try-catch?",,"Error handling."
