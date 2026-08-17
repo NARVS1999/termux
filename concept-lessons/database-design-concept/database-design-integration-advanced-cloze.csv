@@ -1,0 +1,28 @@
+Denormalization,"Ang {{c1::Denormalization}} ay ang pagdagdag ng duplication para sa bilis ng query.",,Denormalization
+Composite Index,"Ang {{c1::Composite Index}} ay ang index na gumagamit ng maraming columns.",,Composite Index
+Covering Index,"Ang {{c1::Covering Index}} ay ang index na nagco-cover ng buong query.",,Covering Index
+ACID Properties,"Ang mga {{c1::ACID Properties}} ay ang garantiya ng consistency sa bawat transaction.",,ACID Properties
+Denormalization,"Ang {{c1::Denormalization}} ay nagdadagdag ng duplication para sa bilis.",,Denormalization
+Composite Index,"Ang {{c1::Composite Index}} ay gumagamit ng maraming columns.",,Composite Index
+Covering Index,"Ang {{c1::Covering Index}} ay nagco-cover ng buong query.",,Covering Index
+ACID Properties,"Ang {{c1::ACID Properties}} ay garantiya ng consistency.",,ACID Properties
+Denormalization,"Ang {{c1::Denormalization}} ay para sa mas mabilis na queries.",,Denormalization
+Composite Index,"Ang {{c1::Composite Index}} ay multiple columns na indexed.",,Composite Index
+Covering Index,"Ang {{c1::Covering Index}} ay index na sapat na para sa query.",,Covering Index
+ACID Properties,"Ang {{c1::ACID Properties}} ay Atomicity, Consistency, Isolation, Durability.",,ACID Properties
+Denormalization,"Paano mo pabilisin ang queries sa pamamagitan ng duplication?",,"Gamitin ang denormalization."
+Composite Index,"Paano mo i-index ang maraming columns?",,"Gamitin ang composite index."
+Covering Index,"Ano ang index na nagco-cover ng buong query?",,"Covering index."
+ACID Properties,"Ano ang mga properties na nagpo-protect ng transaction consistency?",,"ACID properties."
+Denormalization,"Kailan mo gagamitin ang denormalization?",,"Kapag kailangan ng mas mabilis na queries."
+Composite Index,"Kailan mo gagamitin ang composite index?",,"Kapag kailangan ng multiple columns na indexed."
+Covering Index,"Ano ang benefit ng covering index?",,"Hindi na kailangang mag-access sa table data."
+ACID Properties,"Ano ang tawag sa garantiya ng transaction consistency?",,"ACID properties."
+Denormalization,"Ano ang trade-off ng denormalization?",,"Mas mabilis na queries pero mas maraming duplication."
+Composite Index,"Ano ang tawag sa index na gumagamit ng maraming columns?",,"Composite index."
+Covering Index,"Ano ang tawag sa index na nagco-cover ng buong query?",,"Covering index."
+ACID Properties,"Ano ang ibig sabihin ng ACID?",,"Atomicity, Consistency, Isolation, Durability."
+Denormalization,"Bakit mo gagamitin ang denormalization?",,"Para sa mas mabilis na queries."
+Composite Index,"Ano ang advantage ng composite index?",,"Maaaring mas mabilis kaysa single-column index."
+Covering Index,"Paano mo malalaman kung covering index ang kailangan?",,"Kung ang index ay nagco-cover ng lahat ng columns sa query."
+ACID Properties,"Bakit mahalaga ang ACID properties?",,"Para sa consistency at reliability ng transactions."

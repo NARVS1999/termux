@@ -1,0 +1,30 @@
+Normalization,"Ang {{c1::Normalization}} ay ang pagbawas ng data duplication sa tables.",,Normalization
+Indexing,"Ang {{c1::Indexing}} ay ang pagpapabilis ng query gamit ang index.",,Indexing
+Foreign Key Constraints,"Ang {{c1::Foreign Key Constraints}} ay ang integridad ng data sa pagitan ng tables.",,Foreign Key Constraints
+CASCADE Delete,"Ang {{c1::CASCADE Delete}} ay ang awtomatikong pagtanggal ng related records.",,CASCADE Delete
+RESTRICT Delete,"Ang {{c1::RESTRICT Delete}} ay ang pagbabawal ng delete kapag may reference.",,RESTRICT Delete
+Transactions,"Ang {{c1::Transactions}} ay ang grouping ng operations na dapat sabay-sabay.",,Transactions
+Normalization,"Ang {{c1::Normalization}} ay nagbawas ng data duplication.",,Normalization
+Indexing,"Ang {{c1::Indexing}} ay nagpapabilis ng queries.",,Indexing
+Foreign Key Constraints,"Ang {{c1::Foreign Key Constraints}} ay nagpo-protect ng data integrity.",,Foreign Key Constraints
+CASCADE Delete,"Ang {{c1::CASCADE Delete}} ay nagtatanggal ng related records automatically.",,CASCADE Delete
+RESTRICT Delete,"Ang {{c1::RESTRICT Delete}} ay nagbabawal ng delete kapag may reference.",,RESTRICT Delete
+Transactions,"Ang {{c1::Transactions}} ay nagpo-group ng operations na sabay-sabay.",,Transactions
+Normalization,"Ang {{c1::Normalization}} ay para sa pagbawas ng duplication.",,Normalization
+Indexing,"Ang {{c1::Indexing}} ay para sa pagpapabilis ng queries.",,Indexing
+Foreign Key Constraints,"Ang {{c1::Foreign Key Constraints}} ay para sa data integrity.",,Foreign Key Constraints
+CASCADE Delete,"Ang {{c1::CASCADE Delete}} ay para sa automatic na pagtanggal.",,CASCADE Delete
+RESTRICT Delete,"Ang {{c1::RESTRICT Delete}} ay para sa pagbabawal ng delete.",,RESTRICT Delete
+Transactions,"Ang {{c1::Transactions}} ay para sa sabay-sabay na operations.",,Transactions
+Normalization,"Paano mo babawasan ang data duplication sa tables?",,"Gamitin ang normalization."
+Indexing,"Paano mo pabilisin ang mga queries?",,"Gamitin ang indexing."
+Foreign Key Constraints,"Para saan ang foreign key constraints?",,"Para sa data integrity ng tables."
+CASCADE Delete,"Ano ang mangyayari kapag nag-delete ng record na may references?",,"Automatic na mag-delete ng related records."
+RESTRICT Delete,"Bakit minsan hindi pwedeng mag-delete ng record?",,"Kapag may foreign key constraint na RESTRICT."
+Transactions,"Para saan ang transactions sa database?",,"Para sa pag-group ng operations na sabay-sabay."
+Normalization,"Ano ang tawag sa pagbawas ng data duplication?",,"Normalization."
+Indexing,"Ano ang tawag sa pagpapabilis ng queries gamit ang index?",,"Indexing."
+Foreign Key Constraints,"Ano ang tawag sa integridad ng data sa pagitan ng tables?",,"Foreign key constraints."
+CASCADE Delete,"Ano ang tawag sa automatic na pagtanggal ng related records?",,"Cascade delete."
+RESTRICT Delete,"Ano ang tawag sa pagbabawal ng delete kapag may reference?",,"Restrict delete."
+Transactions,"Ano ang tawag sa grouping ng operations na sabay-sabay?",,"Transactions."
