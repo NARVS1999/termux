@@ -1,0 +1,24 @@
+CREATE TABLE,"Ang {{c1::CREATE TABLE}} ay ang command para gumawa ng bagong table.",,CREATE TABLE
+ALTER TABLE,"Ang {{c1::ALTER TABLE}} ay ang command para mag-modify ng existing table.",,ALTER TABLE
+DROP TABLE,"Ang {{c1::DROP TABLE}} ay ang command para tanggalin ang table.",,DROP TABLE
+NOT NULL Constraint,"Ang {{c1::NOT NULL Constraint}} ay ang hindi pwedeng maging blankong field.",,NOT NULL Constraint
+UNIQUE Constraint,"Ang {{c1::UNIQUE Constraint}} ay ang hindi pwedeng mag-duplicate na value.",,UNIQUE Constraint
+DEFAULT Value,"Ang {{c1::DEFAULT Value}} ay ang fallback value kapag walang input.",,DEFAULT Value
+AUTO_INCREMENT,"Ang {{c1::AUTO_INCREMENT}} ay ang awtomatikong pagtaas ng number ID.",,AUTO_INCREMENT
+TIMESTAMP Fields,"Ang mga {{c1::TIMESTAMP Fields}} ay ang auto-update na created_at at updated_at.",,TIMESTAMP Fields
+CREATE TABLE,"Ang {{c1::CREATE TABLE}} ay gumagawa ng bagong table.",,CREATE TABLE
+ALTER TABLE,"Ang {{c1::ALTER TABLE}} ay nagmo-modify ng existing table.",,ALTER TABLE
+DROP TABLE,"Ang {{c1::DROP TABLE}} ay nagtatanggal ng table.",,DROP TABLE
+NOT NULL Constraint,"Ang {{c1::NOT NULL Constraint}} ay hindi pwedeng maging blanko.",,NOT NULL Constraint
+UNIQUE Constraint,"Ang {{c1::UNIQUE Constraint}} ay hindi pwedeng mag-duplicate.",,UNIQUE Constraint
+DEFAULT Value,"Ang {{c1::DEFAULT Value}} ay fallback value kapag walang input.",,DEFAULT Value
+AUTO_INCREMENT,"Ang {{c1::AUTO_INCREMENT}} ay awtomatikong nagtataas ng ID.",,AUTO_INCREMENT
+TIMESTAMP Fields,"Ang {{c1::TIMESTAMP Fields}} ay auto-update na created_at at updated_at.",,TIMESTAMP Fields
+CREATE TABLE,"Ang {{c1::CREATE TABLE}} ay para sa bagong table.",,CREATE TABLE
+ALTER TABLE,"Ang {{c1::ALTER TABLE}} ay para sa pag-modify ng table.",,ALTER TABLE
+DROP TABLE,"Ang {{c1::DROP TABLE}} ay para sa pagtanggal ng table.",,DROP TABLE
+NOT NULL Constraint,"Ang {{c1::NOT NULL Constraint}} ay para sa hindi blankong field.",,NOT NULL Constraint
+UNIQUE Constraint,"Ang {{c1::UNIQUE Constraint}} ay para sa hindi duplicate na value.",,UNIQUE Constraint
+DEFAULT Value,"Ang {{c1::DEFAULT Value}} ay para sa fallback value.",,DEFAULT Value
+AUTO_INCREMENT,"Ang {{c1::AUTO_INCREMENT}} ay para sa auto-increment na ID.",,AUTO_INCREMENT
+TIMESTAMP Fields,"Ang {{c1::TIMESTAMP Fields}} ay para sa auto-update na timestamps.",,TIMESTAMP Fields

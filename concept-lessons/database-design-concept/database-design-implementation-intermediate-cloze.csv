@@ -1,0 +1,10 @@
+CHECK Constraint,"Ang {{c1::CHECK Constraint}} ay ang rule na nagva-validate ng data range.",,CHECK Constraint
+ENUM Type,"Ang {{c1::ENUM Type}} ay ang fixed na list ng allowed values.",,ENUM Type
+CHECK Constraint,"Ang {{c1::CHECK Constraint}} ay nagva-validate ng data range.",,CHECK Constraint
+ENUM Type,"Ang {{c1::ENUM Type}} ay fixed na list ng allowed values.",,ENUM Type
+CHECK Constraint,"Ang {{c1::CHECK Constraint}} ay rule para sa data validation.",,CHECK Constraint
+ENUM Type,"Ang {{c1::ENUM Type}} ay fixed list ng allowed values.",,ENUM Type
+CHECK Constraint,"Paano mo vina-validate ang data range sa database?",,"Gamitin ang CHECK constraint."
+ENUM Type,"Paano mo limitahan ang allowed values sa column?",,"Gamitin ang ENUM type."
+CHECK Constraint,"Ano ang ginagamit para sa data range validation?",,"CHECK constraint."
+ENUM Type,"Ano ang tawag sa fixed na list ng allowed values?",,"ENUM type."

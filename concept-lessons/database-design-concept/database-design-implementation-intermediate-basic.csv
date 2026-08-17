@@ -1,0 +1,4 @@
+CHECK Constraint,"Paano mo vina-validate ang data range sa database?",,"Gamitin ang CHECK constraint."
+ENUM Type,"Paano mo limitahan ang allowed values sa column?",,"Gamitin ang ENUM type."
+CHECK Constraint,"Ano ang ginagamit para sa data range validation?",,"CHECK constraint."
+ENUM Type,"Ano ang tawag sa fixed na list ng allowed values?",,"ENUM type."
