@@ -1,0 +1,6 @@
+Memoization,"Paano mo pabilisin ang function execution?",,"Gamitin ang memoization."
+Composition,"Paano mo gagawin ang modular na code?",,"Gamitin ang composition."
+Memoization,"Ano ang tawag sa caching ng function results?",,"Memoization."
+Composition,"Ano ang tawag sa pagbubuo ng functions mula sa mas maliliit na functions?",,"Composition."
+Memoization,"Ano ang benefit ng memoization?",,"Mas mabilis na function execution."
+Composition,"Ano ang benefit ng composition?",,"Mas maintainable at modular na code."

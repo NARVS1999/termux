@@ -1,0 +1,25 @@
+Functional Programming,"Ang {{c1::Functional Programming}} ay ang paggawa ng code gamit ang pure functions.",,Functional Programming
+Imperative vs Declarative,"Ang {{c1::Imperative vs Declarative}} ay ang pagkakaiba ng how at what.",,Imperative vs Declarative
+Higher-Order Functions,"Ang mga {{c1::Higher-Order Functions}} ay ang functions na tumatanggap ng functions.",,Higher-Order Functions
+Recursion,"Ang {{c1::Recursion}} ay ang function na tumatawag sa sarili.",,Recursion
+Immutable Data,"Ang {{c1::Immutable Data}} ay ang pag-iwas ng data mutation.",,Immutable Data
+Functional Programming,"Ang {{c1::Functional Programming}} ay paggawa ng code gamit ang pure functions.",,Functional Programming
+Imperative vs Declarative,"Ang {{c1::Imperative vs Declarative}} ay pagkakaiba ng how at what.",,Imperative vs Declarative
+Higher-Order Functions,"Ang mga {{c1::Higher-Order Functions}} ay functions na tumatanggap ng functions.",,Higher-Order Functions
+Recursion,"Ang {{c1::Recursion}} ay function na tumatawag sa sarili.",,Recursion
+Immutable Data,"Ang {{c1::Immutable Data}} ay pag-iwas ng data mutation.",,Immutable Data
+Functional Programming,"Ang {{c1::Functional Programming}} ay para sa predictable na code.",,Functional Programming
+Imperative vs Declarative,"Ang {{c1::Imperative vs Declarative}} ay para sa code style.",,Imperative vs Declarative
+Higher-Order Functions,"Ang mga {{c1::Higher-Order Functions}} ay para sa code abstraction.",,Higher-Order Functions
+Recursion,"Ang {{c1::Recursion}} ay para sa repetitive na tasks.",,Recursion
+Immutable Data,"Ang {{c1::Immutable Data}} ay para sa safe na data handling.",,Immutable Data
+Functional Programming,"Paano mo gagamitin ang functional programming?",,"Gamitin ang pure functions at avoid mutation."
+Imperative vs Declarative,"Paano mo malalaman ang pagkakaiba ng how at what?",,"Tingnan ang imperative vs declarative."
+Higher-Order Functions,"Paano mo gagamitin ang higher-order functions?",,"I-pass ang function bilang argument."
+Recursion,"Paano mo gagamitin ang recursion?",,"I-call ang function sa sarili nito."
+Immutable Data,"Paano mo maiiwasan ang data mutation?",,"Gamitin ang immutable data."
+Functional Programming,"Ano ang tawag sa paggawa ng code gamit ang pure functions?",,"Functional programming."
+Imperative vs Declarative,"Ano ang tawag sa pagkakaiba ng how at what?",,"Imperative vs declarative."
+Higher-Order Functions,"Ano ang tawag sa functions na tumatanggap ng functions?",,"Higher-order functions."
+Recursion,"Ano ang tawag sa function na tumatawag sa sarili?",,"Recursion."
+Immutable Data,"Ano ang tawag sa pag-iwas ng data mutation?",,"Immutable data."

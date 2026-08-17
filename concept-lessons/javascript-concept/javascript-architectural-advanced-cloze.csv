@@ -1,0 +1,12 @@
+Memoization,"Ang {{c1::Memoization}} ay ang caching ng function results para sa speed.",,Memoization
+Composition,"Ang {{c1::Composition}} ay ang pagbubuo ng functions mula sa mas maliliit na functions.",,Composition
+Memoization,"Ang {{c1::Memoization}} ay caching ng function results para sa speed.",,Memoization
+Composition,"Ang {{c1::Composition}} ay pagbubuo ng functions mula sa mas maliliit na functions.",,Composition
+Memoization,"Ang {{c1::Memoization}} ay para sa performance optimization.",,Memoization
+Composition,"Ang {{c1::Composition}} ay para sa modular na code.",,Composition
+Memoization,"Paano mo pabilisin ang function execution?",,"Gamitin ang memoization."
+Composition,"Paano mo gagawin ang modular na code?",,"Gamitin ang composition."
+Memoization,"Ano ang tawag sa caching ng function results?",,"Memoization."
+Composition,"Ano ang tawag sa pagbubuo ng functions mula sa mas maliliit na functions?",,"Composition."
+Memoization,"Ano ang benefit ng memoization?",,"Mas mabilis na function execution."
+Composition,"Ano ang benefit ng composition?",,"Mas maintainable at modular na code."
