@@ -1,0 +1,18 @@
+Theming,"Ang {{c1::Theming}} ay system para sa consistent colors at design tokens.",,Theming
+Theming,"Gamit ang {{c1::Theming}}, nagre-reuse ang colors, spacing, at typography across app.",,Theming
+Theming,"Ang {{c1::Theming}} ay nagbibigay ng centralized style configuration.",,Theming
+Dark Mode,"Ang {{c1::Dark Mode}} ay appearance switching para sa light at dark themes.",,Dark Mode
+Dark Mode,"Gamit ang {{c1::Dark Mode}}, nag-a-adapt ang UI depende sa device appearance setting.",,Dark Mode
+Dark Mode,"Ang {{c1::Dark Mode}} ay gumagamit ng useColorScheme hook para sa current theme.",,Dark Mode
+Responsive Design,"Ang {{c1::Responsive Design}} ay adaptive layout para sa different screen sizes.",,Responsive Design
+Responsive Design,"Gamit ang {{c1::Responsive Design}}, nagfu-function ang app sa phones at tablets.",,Responsive Design
+Responsive Design,"Ang {{c1::Responsive Design}} ay gumagamit ng percentages at flex layouts.",,Responsive Design
+Animations,"Ang {{c1::Animations}} ay motion API para sa smooth transitions sa React Native.",,Animations
+Animations,"Gamit ang {{c1::Animations}}, nagbe-break ang static UI para sa engaging experience.",,Animations
+Animations,"Ang {{c1::Animations}} ay nagbibigay ng feedback at visual cues sa users.",,Animations
+SVG,"Ang {{c1::SVG}} ay scalable vector graphics para sa custom shapes at icons.",,SVG
+SVG,"Gamit ang {{c1::SVG}}, nagre-render ng resolution-independent graphics.",,SVG
+SVG,"Ang {{c1::SVG}} components ay animatable gamit ang Reanimated library.",,SVG
+WebView,"Ang {{c1::WebView}} ay embedded browser para sa web content display sa React Native.",,WebView
+WebView,"Gamit ang {{c1::WebView}}, naglo-load ng web pages nang hindi nag-leave sa app.",,WebView
+WebView,"Ang {{c1::WebView}} ay nagbibigay ng JavaScript injection at communication bridge.",,WebView

@@ -1,0 +1,6 @@
+Theming,"Paano mag-setup ng theming sa React Native?",,"Gumawa ng theme object, i-wrap ang app sa ThemeProvider, at i-access gamit ang useContext."
+Dark Mode,"Paano mag-enable ang dark mode sa React Native app?",,"Gamit ang useColorScheme hook at i-conditional ang styles depende saAppearance value."
+Responsive Design,"Paano mag-make ng responsive layout sa React Native?",,"Gamit ang Dimensions API at percentages para sa flexible widths at heights."
+Animations,"Paano mag-create ng fade-in animation sa React Native?",,"Gamit ang Animated.Value, opacity interpolate, at Animated.timing method."
+SVG,"Paano mag-render ng custom SVG icon sa React Native?",,"I-install ang react-native-svg, i-import ang SVG components, at i-compose para sa icon."
+WebView,"Paano mag-load ng web page sa React Native WebView?",,"I-install ang react-native-webview, i-import ang WebView, at i-set ang source URI prop."

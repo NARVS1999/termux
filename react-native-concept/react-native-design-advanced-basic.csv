@@ -1,0 +1,5 @@
+Reanimated,"Paano mag-setup ng Reanimated sa React Native project?",,"I-install ang react-native-reanimated, i-add ang babel plugin, at iconfigure ang metro.config.js."
+Reanimated,"Paano mag-create ng spring animation gamit ang Reanimated?",,"Gamit ang useSharedValue, useAnimatedStyle, at withSpring method para sa natural motion."
+Reanimated,"Paano mag-combine ang Gesture Handler at Reanimated?",,"I-connect ang useAnimatedGestureHandler sa useSharedValue para sa gesture-driven animations."
+Reanimated,"Ano ang difference ng Reanimated worklet sa regular JS thread?",,"Ang worklet ay tumatakbo sa dedicated UI thread kaya hindi nag-a-cause ng jank sa main thread."
+Reanimated,"Paano mag-implement ng layout animation gamit ang Reanimated?",,"Gamit ang LayoutAnimation module at i-set ang entering at exiting animations sa components."

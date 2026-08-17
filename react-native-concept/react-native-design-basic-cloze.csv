@@ -1,0 +1,6 @@
+Breakpoints,"Ang {{c1::Breakpoints}} ay screen size thresholds para sa responsive styling.",,Breakpoints
+Breakpoints,"Gamit ang {{c1::Breakpoints}}, nag-a-adapt ang layout depende sa screen width.",,Breakpoints
+Breakpoints,"Ang {{c1::Breakpoints}} ay ginagamit sa Dimensions API para sa conditional styles.",,Breakpoints
+Orientation,"Ang {{c1::Orientation}} ay portrait at landscape mode handling sa React Native.",,Orientation
+Orientation,"Gamit ang {{c1::Orientation}}, nag-a-adapt ang UI kapag nag-rotate ang device.",,Orientation
+Orientation,"Ang {{c1::Orientation}} lock ay nagre-restrict sa isang orientation lang.",,Orientation
